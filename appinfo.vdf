@@ -1,0 +1,96 @@
+"appinfo"
+{
+	"appid"		"381690"
+	"common"
+	{
+		"name"		"Reign Of Kings Dedicated Server"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"7367c5903512b1f00c1f39c505febecc4d24ac69"
+		"logo_small"		"7367c5903512b1f00c1f39c505febecc4d24ac69_thumb"
+		"icon"		"89535542b619b9f8dfc7d9d9df9bda2556a8f5fa"
+		"clienttga"		"a4f4e58d22629cc4572e229ee54a13136525a496"
+		"clienticon"		"76f823cbd7f9c66a80785c1e695e62a605e4e27e"
+		"associations"
+		{
+		}
+		"gameid"		"381690"
+	}
+	"extended"
+	{
+		"gamedir"		"Reign Of Kings Server"
+		"serverbrowsername"		"Reign Of Kings"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Reign Of Kings Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Server.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"381691"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7535360554442433535"
+					"size"		"2881053041"
+					"download"		"1443535376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"B030F133F2770F9BFA0548BE6F8C8391"
+					"size"		"B0B79AA4D57505CD2B546F1CE69CAAFA"
+					"download"		"7937BA78F13166D4FF7C7A454A8567DE"
+				}
+				"test"
+				{
+					"gid"		"629DB1CE84A124C205D3CE1C775B3CA2"
+					"size"		"CE8C2DEF8063C1D200CD2BEF8A413581"
+					"download"		"9318871FA91C885814C4B98420AA9F02"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4088734"
+				"timeupdated"		"1565307435"
+			}
+			"developer"
+			{
+				"buildid"		"3177678"
+				"pwdrequired"		"1"
+				"timeupdated"		"1542136718"
+			}
+			"test"
+			{
+				"buildid"		"4088734"
+				"pwdrequired"		"1"
+				"timeupdated"		"1565305546"
+			}
+		}
+	}
+}
