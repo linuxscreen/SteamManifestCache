@@ -1,0 +1,345 @@
+"appinfo"
+{
+	"appid"		"41300"
+	"common"
+	{
+		"name"		"Altitude"
+		"metacritic_url"		"pc/altitude"
+		"clienticon"		"f930f21bfcdb45c4fbd30281ac88d130886fe730"
+		"clienttga"		"835d4dbce86e943ba84dc18f01ce1d338a4db8a2"
+		"icon"		"91bbd5b5ae3a170159beef0dacc1e3cca242c953"
+		"logo"		"318d7021452d38e49c7b181fd71f62a26ab7581d"
+		"logo_small"		"318d7021452d38e49c7b181fd71f62a26ab7581d_thumb"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"type"		"game"
+		"metacritic_name"		"Altitude"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.44560083428709"
+				"height_pct"		"34.852665662578374"
+			}
+		}
+		"store_asset_mtime"		"1617288654"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nimbly Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nimbly Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_17"		"1"
+			"category_18"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1259965620"
+		"metacritic_score"		"79"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/altitude?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"41300"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"15045"
+			"2"		"3798"
+			"3"		"4255"
+			"4"		"9"
+			"5"		"1254546"
+			"6"		"1775"
+			"7"		"3878"
+			"8"		"1774"
+			"9"		"1773"
+			"10"		"4736"
+			"11"		"3871"
+			"12"		"4136"
+			"13"		"7481"
+			"14"		"597"
+			"15"		"5711"
+			"16"		"11104"
+			"17"		"599"
+			"18"		"19"
+			"19"		"4195"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Nimbly Games"
+		"gamedir"		"Altitude"
+		"homepage"		"http://altitudegame.com/"
+		"icon"		""
+		"installscriptosx"		"installscript_osx.vdf"
+		"installscript_macos"		"installscript_osx.vdf"
+		"noservers"		"1"
+		"onquitdemomsg"		"http://cdn.store.steampowered.com/message/684725078272445250/"
+		"order"		"1"
+		"primarycache"		"41302"
+		"primarycache_mac"		"41303"
+		"primarycache_macos"		"41303"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Nimbly Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin/Altitude"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"Altitude.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"Altitude.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Altitude"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"41304"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2270626899600309162"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"2270626899600309162"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previous"
+				{
+					"gid"		"2121481902971246541"
+					"size"		"111241836"
+					"download"		"671111625832"
+				}
+			}
+		}
+		"41303"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6650357825155300751"
+					"size"		"313606739"
+					"download"		"178934624"
+				}
+				"beta"
+				{
+					"gid"		"50293357721968000"
+					"size"		"314396004"
+					"download"		"179305904"
+				}
+				"previous"
+				{
+					"gid"		"3483231600846891148"
+					"size"		"6017080"
+					"download"		"2427808"
+				}
+			}
+		}
+		"41302"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1554631466945963721"
+					"size"		"310840458"
+					"download"		"179854064"
+				}
+				"beta"
+				{
+					"gid"		"7706089014938113828"
+					"size"		"311453167"
+					"download"		"179653152"
+				}
+				"previous"
+				{
+					"gid"		"3640375030833653107"
+					"size"		"94927943"
+					"download"		"41012115984"
+				}
+			}
+		}
+		"41301"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2164215210845128247"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"2164215210845128247"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"41305"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5748325586402167088"
+					"size"		"321552296"
+					"download"		"180888112"
+				}
+				"beta"
+				{
+					"gid"		"7318316634469665904"
+					"size"		"321253388"
+					"download"		"180852304"
+				}
+				"previous"
+				{
+					"gid"		"2679964288049273930"
+					"size"		"152240466"
+					"download"		"284129836774"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8477058"
+				"timeupdated"		"1648771221"
+			}
+			"beta"
+			{
+				"buildid"		"10279542"
+				"description"		"Beta branch for testing Altitude"
+				"timeupdated"		"1673224666"
+			}
+			"previous"
+			{
+				"buildid"		"374586"
+				"description"		"The legacy 32bit Altitude."
+				"timeupdated"		"1617203994"
+			}
+		}
+	}
+}
