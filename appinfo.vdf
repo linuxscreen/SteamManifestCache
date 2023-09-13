@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"231060"
+	"common"
+	{
+		"name"		"Ragnarok Online 2"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"88d97d4557b1bbfa48544b2855b59173e51cba7f"
+		"clienttga"		"80c9e82548074bc895fa898fefb7bad3b3593353"
+		"icon"		"41ae0ce522b6abee8eae54ddba17f959f94291b9"
+		"logo"		"206317914d2320a31c260d2bf1fdf50177c8802c"
+		"logo_small"		"206317914d2320a31c260d2bf1fdf50177c8802c_thumb"
+		"oslist"		"windows"
+		"metacritic_name"		"Ragnarok Online 2"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667345170"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gravity, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gravity Interactive"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1367445600"
+		"community_hub_visible"		"1"
+		"gameid"		"231060"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"122"
+			"2"		"1754"
+			"3"		"128"
+			"4"		"4085"
+			"5"		"3859"
+			"6"		"4434"
+			"7"		"21"
+			"8"		"1695"
+			"9"		"19"
+			"10"		"1684"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"allowpurchasefromrestrictedcountries"		"0"
+		"checkpkgstate"		"1"
+		"developer"		"Gravity, Inc."
+		"gamedir"		"ValveTestApp231060"
+		"homepage"		"http://www.playragnarok2.com"
+		"icon"		""
+		"isfreeapp"		"1"
+		"noservers"		"0"
+		"purchaserestrictedcountries"		"IR IQ LY SD SY YE UA BY PS"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Gravity Interactive"
+		"listofdlc"		"239370,239380,247180,247190,265090,267860,267861,267862,267863,267864"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Ragnarok Online 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WPLauncher.exe"
+				"description"		"Launch RO2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"noupdatesafterinstall"		"1"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8124929965194586177"
+					"size"		"19265607"
+					"download"		"19214528"
+				}
+			}
+			"depotfromapp"		"228980"
+		}
+		"229031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7746630274301172884"
+					"size"		"26729083"
+					"download"		"25905472"
+				}
+			}
+			"depotfromapp"		"228980"
+		}
+		"overridescddb"		"1"
+		"231061"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3040647393321942433"
+					"size"		"7035555076"
+					"download"		"6725818400"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8183469"
+				"timeupdated"		"1644539530"
+			}
+		}
+	}
+}
