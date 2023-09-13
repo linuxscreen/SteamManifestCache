@@ -1,0 +1,252 @@
+"appinfo"
+{
+	"appid"		"9900"
+	"common"
+	{
+		"name"		"Star Trek Online"
+		"clienticon"		"349470993476d613599241448b58d95428e016a1"
+		"clienttga"		"9f049eb6e960fe8ce2ff356fa020d80fdc53b867"
+		"icon"		"d28078028553a1b35176046cbbfd23b0b2f7c67e"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+		}
+		"logo"		"91fba3965f7c68399204932586de59ba0cfc96db"
+		"logo_small"		"91fba3965f7c68399204932586de59ba0cfc96db_thumb"
+		"metacritic_url"		"pc/startrekonline"
+		"oslist"		"windows"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"9900_eula_0"
+				"name"		"Star Trek Online EULA"
+				"url"		"http://store.steampowered.com/eula/9900_eula_0"
+			}
+		}
+		"osarch"		"64"
+		"osextended"		""
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1665532800"
+			"tested_build_id"		"5205778"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Star Trek Online"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"99.9526963103122"
+			}
+		}
+		"store_asset_mtime"		"1694467868"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cryptic Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gearbox Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Star Trek"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"29"
+			"1"		"3"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_28"		"1"
+			"category_35"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1265097600"
+		"steam_release_date"		"1328044080"
+		"metacritic_score"		"66"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/star-trek-online?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"9900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"3942"
+			"2"		"128"
+			"3"		"1755"
+			"4"		"122"
+			"5"		"1754"
+			"6"		"1695"
+			"7"		"3859"
+			"8"		"4747"
+			"9"		"19"
+			"10"		"1697"
+			"11"		"21"
+			"12"		"4182"
+			"13"		"1685"
+			"14"		"6730"
+			"15"		"3843"
+			"16"		"1775"
+			"17"		"9"
+			"18"		"4231"
+			"19"		"1708"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Cryptic Studios"
+		"gamedir"		""
+		"homepage"		"http://www.startrekonline.com"
+		"icon"		""
+		"inhibitautoversionroll"		"1"
+		"installscript"		"9900_install.vdf"
+		"isfreeapp"		"1"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"9901"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Gearbox Publishing"
+		"listofdlc"		"9905,9906,9907,9908,9910,237680,237700,325170"
+	}
+	"config"
+	{
+		"noupdatesafterinstall"		"1"
+		"contenttype"		"3"
+		"installdir"		"Star Trek Online"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Star Trek Online.exe"
+				"arguments"		"-affiliate \"appid=9900\" -launchedfrom steam - "
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french"
+		"markdlcdepots"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1829726630299308803"
+					"size"		"102931551"
+					"download"		"100658080"
+				}
+			}
+			"depotfromapp"		"228980"
+		}
+		"9901"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3342023251743344554"
+					"size"		"442829325"
+					"download"		"101075040"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11833678"
+				"timeupdated"		"1690851184"
+			}
+		}
+	}
+}
