@@ -1,0 +1,122 @@
+"appinfo"
+{
+	"appid"		"1003"
+	"common"
+	{
+		"clienttga"		"a7fcd589844685b26b05ee54d44eef329c86d54f"
+		"name"		"Rag Doll Kung Fu Demo"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"parent"		"1002"
+		"metacritic_name"		"Rag Doll Kung Fu Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mark Healey"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mark Healey"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_10"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1129100400"
+		"gameid"		"1003"
+	}
+	"extended"
+	{
+		"demoofappid"		"1002"
+		"developer"		"Mark Healey"
+		"gamedir"		"rdkf2"
+		"homepage"		"http://www.ragdollkungfu.com/"
+		"icon"		"steam/games/icon_rdkf"
+		"icon2"		"steam/games/icon_rdkf_dull"
+		"noservers"		"1"
+		"order"		"21"
+		"primarycache"		"1000"
+		"state"		"eStateAvailable"
+		"visibleonlywheninstalled"		"1"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Mark Healey"
+	}
+	"config"
+	{
+		"convertgcfs"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Rag_Doll_Kung_Fu_Steam.exe"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Rag Doll Kung Fu Demo"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"1000"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6194571061208839893"
+					"size"		"341045253"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1002"
+		}
+		"1004"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3578600867548439549"
+					"size"		"9662208"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1002"
+		}
+		"markdlcdepots"		"1"
+		"branches"
+		{
+		}
+	}
+}
