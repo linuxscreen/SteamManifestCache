@@ -1,0 +1,227 @@
+"appinfo"
+{
+	"appid"		"412680"
+	"common"
+	{
+		"name"		"The Isle Dedicated Server"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"a07e3f238fda819658e0662530aeeceb5f54b56d"
+		"logo_small"		"a07e3f238fda819658e0662530aeeceb5f54b56d_thumb"
+		"icon"		"7ae88c1923dbcdee670769fca9c89cc0e540ab46"
+		"clienttga"		"a25c7e5766e615588f7eb45df5d97d67438d6ca4"
+		"clienticon"		"dcc409f581316cdb0deb73f8bcc5202d32edaee8"
+		"osarch"		"64"
+		"clienticns"		"53533f9475efe72df68bb319c5efc5907ff491a3"
+		"linuxclienticon"		"3222a9de0598172781a707686044eb194d98e855"
+		"associations"
+		{
+		}
+		"gameid"		"412680"
+	}
+	"extended"
+	{
+		"gamedir"		"theisle"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"The Isle Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheIsleServer.exe"
+				"arguments"		"-log"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"TheIsleServer.sh"
+				"arguments"		"-log"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"412681"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2602016430604302144"
+					"size"		"2324743012"
+					"download"		"593198128"
+				}
+				"evrima"
+				{
+					"gid"		"8310312966227551575"
+					"size"		"1677362385"
+					"download"		"1048626448"
+				}
+				"promotional"
+				{
+					"gid"		"8450962309860220137"
+					"size"		"2304778154"
+					"download"		"568756976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"7E983017DC9F872AF5EFD6578E6D4FA6"
+					"size"		"D54B55F88BCE7E372A8FCAA7F1F3326A"
+					"download"		"48DF09E2D60BC3FEE1C192EAAEDFD137"
+				}
+				"mechanic-test"
+				{
+					"gid"		"25693E52D46B866A41A980F0A39D771E"
+					"size"		"58358AF7E273C45394B045A41C95DC69"
+					"download"		"4CD09256983D64E5CE4599C5A576ECEA"
+				}
+				"qa-debug"
+				{
+					"gid"		"C5060D91C663C7A23E4F53FA1C613AA1"
+					"size"		"CAB7EFB613648BA45C273A4E53D9956E"
+					"download"		"190A659F093532D82D6B90AD26D6A1CA"
+				}
+				"qa-shipping"
+				{
+					"gid"		"0B630F7377FDEED01D59B35C8E61D2D8"
+					"size"		"BEBB5B47167A8BB225C11E8625A5C554"
+					"download"		"4E8472ADED2E45FBA4744E85E0A30A27"
+				}
+				"stress-test"
+				{
+					"gid"		"FA69640049E6842456EDC03F92B42497"
+					"size"		"A23510132EC9AFA7DA0D884AEC6537B1"
+					"download"		"9D16D66CEAC6B302BF41B35FC766D834"
+				}
+			}
+		}
+		"412682"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"evrima"
+				{
+					"gid"		"7741142795648551846"
+					"size"		"3508292009"
+					"download"		"1268556512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"239350623620B83B2A87802E7EAEF72E"
+					"size"		"9B3178DE4633D8D2D06D440534E73B59"
+					"download"		"FC21B0472A461CD5431505BB88A8F978"
+				}
+				"mechanic-test"
+				{
+					"gid"		"8DCE3721451E9E43A72375378BD15A32"
+					"size"		"0A7E212CA106ECF648BF1E1753DCFC9A"
+					"download"		"A519E2EF858555522A3F8D9700257E89"
+				}
+				"qa-debug"
+				{
+					"gid"		"7AD4399FC8CA3A4F67237ED5E90F63E7"
+					"size"		"4FBC02BFCB450D1350D3FE95286106FE"
+					"download"		"F191BF2DE3AB60C483E432C3836E1C95"
+				}
+				"qa-shipping"
+				{
+					"gid"		"45400E1F902D1F0F6809A982AC0E31A4"
+					"size"		"2DC3982D7A7C9C906943BA36D8A3F00E"
+					"download"		"4A1CF245884AB33D4517D6E2B0C5BAB4"
+				}
+				"stress-test"
+				{
+					"gid"		"C2C8F951DB8FFF238EB9F37583E1C783"
+					"size"		"83C34DBAC3579445C1C7EACFA6CEA739"
+					"download"		"2400360E272D520AF8422E380B154C81"
+				}
+			}
+		}
+		"412684"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8170223"
+				"timeupdated"		"1644385904"
+			}
+			"evrima"
+			{
+				"buildid"		"12164672"
+				"description"		"evrima servers"
+				"timeupdated"		"1694486871"
+			}
+			"internal"
+			{
+				"buildid"		"12164672"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694484132"
+			}
+			"mechanic-test"
+			{
+				"buildid"		"12164461"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694481990"
+			}
+			"promotional"
+			{
+				"buildid"		"3728268"
+				"description"		"Promotional and Marketing Branch"
+				"timeupdated"		"1556985533"
+			}
+			"qa-debug"
+			{
+				"buildid"		"12173707"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694565403"
+			}
+			"qa-shipping"
+			{
+				"buildid"		"12082509"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693514422"
+			}
+			"stress-test"
+			{
+				"buildid"		"11740911"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689798961"
+			}
+		}
+	}
+}
