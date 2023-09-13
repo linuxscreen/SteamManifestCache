@@ -1,0 +1,238 @@
+"appinfo"
+{
+	"appid"		"90"
+	"common"
+	{
+		"type"		"Tool"
+		"name"		"Half-Life Dedicated Server"
+		"oslist"		""
+		"gameid"		"90"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		""
+		"gamedir"		"ValveTestApp90"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Half-Life"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hlds.exe"
+				"arguments"		"-steam"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		""
+			}
+			"depotfromapp"		"70"
+			"sharedinstall"		"2"
+		}
+		"11"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"10"
+			"sharedinstall"		"2"
+		}
+		"4"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8690279432129063737"
+					"size"		"25737094"
+					"download"		"8090192"
+				}
+				"beta"
+				{
+					"gid"		"8690279432129063737"
+					"size"		"25737094"
+					"download"		"8090192"
+				}
+			}
+		}
+		"5"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1292976893473204445"
+					"size"		"12788205"
+					"download"		"4814512"
+				}
+				"beta"
+				{
+					"gid"		"1292976893473204445"
+					"size"		"12788205"
+					"download"		"4814512"
+				}
+			}
+		}
+		"71"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		""
+			}
+			"depotfromapp"		"70"
+			"sharedinstall"		"2"
+		}
+		"81"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"80"
+			"sharedinstall"		"2"
+			"config"
+			{
+				"mod"		"czero"
+			}
+		}
+		"31"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"30"
+			"sharedinstall"		"2"
+			"config"
+			{
+				"mod"		"dod"
+			}
+		}
+		"21"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"20"
+			"sharedinstall"		"2"
+			"config"
+			{
+				"mod"		"tfc"
+			}
+		}
+		"41"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"40"
+			"sharedinstall"		"2"
+			"config"
+			{
+				"mod"		"dmc"
+			}
+		}
+		"61"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"60"
+			"sharedinstall"		"2"
+			"config"
+			{
+				"mod"		"ricochet"
+			}
+		}
+		"51"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"50"
+			"sharedinstall"		"2"
+			"config"
+			{
+				"mod"		"gearbox"
+			}
+		}
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5433925"
+				"timeupdated"		"1597950363"
+			}
+			"beta"
+			{
+				"buildid"		"5433925"
+				"timeupdated"		"1597870506"
+			}
+		}
+	}
+}
