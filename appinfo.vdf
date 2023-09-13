@@ -1,0 +1,78 @@
+"appinfo"
+{
+	"appid"		"302550"
+	"common"
+	{
+		"name"		"Assetto Corsa Dedicated Server"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"6531e1aa4c9afb455b32a2323ab4ee57985fc93b"
+		"logo_small"		"6531e1aa4c9afb455b32a2323ab4ee57985fc93b_thumb"
+		"icon"		"c8ebc004d884397e8cfb941fa902ebc526345b59"
+		"clienticon"		"d2b40ea215663e9397c7765e74d04f6c84cc38f6"
+		"clienttga"		"b439af3ccd9e6ca9f262855b0f1698377d6a07a5"
+		"associations"
+		{
+		}
+		"gameid"		"302550"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Assetto Corsa Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"acServer.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"302551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3128270656591460876"
+					"size"		"29881252"
+					"download"		"6837696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"454A74684091F457BCCA97B3557DE41B"
+					"size"		"D91419D8F728A58D1B14A9DBA48E067A"
+					"download"		"5AA86D4F2C985C8B313C537E2BCE24B7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2429760"
+				"timeupdated"		"1515687264"
+			}
+			"beta"
+			{
+				"buildid"		"603061"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
