@@ -1,0 +1,98 @@
+"appinfo"
+{
+	"appid"		"740"
+	"common"
+	{
+		"name"		"Counter-Strike Global Offensive - Dedicated Server"
+		"type"		"Tool"
+		"oslist"		"windows,linux"
+		"gameid"		"740"
+	}
+	"extended"
+	{
+		"developer"		""
+		"gamedir"		"Counter-Strike Global Offensive Beta Dedicated Server"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"primarycache"		"740"
+		"sourcegame"		"1"
+		"state"		"eStateTool"
+		"visibleonlywheninstalled"		"1"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"testapp.exe"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Counter-Strike Global Offensive Beta - Dedicated Server"
+	}
+	"depots"
+	{
+		"731"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7537979033605526179"
+					"size"		"32716381307"
+					"download"		"13643557616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dprs"
+				{
+					"gid"		"23D0B308D1CE739A6C3B5F1E61A98757"
+					"size"		"B93D04CDB9A584556D0EDC4B438C7D01"
+					"download"		"498C0356ED200152989937EA24E45715"
+				}
+			}
+		}
+		"740"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1512455234357538911"
+					"size"		"1983077890"
+					"download"		"1061884240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dprs"
+				{
+					"gid"		"817F51828483D135762BF02B4DC6E9C7"
+					"size"		"387AE96081B1CB0405089E0D44D3B3F9"
+					"download"		"7627150B617402949018FA95B42BC6D2"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11399829"
+				"timeupdated"		"1686086991"
+			}
+			"dprs"
+			{
+				"buildid"		"7633487"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635797426"
+			}
+		}
+	}
+}
