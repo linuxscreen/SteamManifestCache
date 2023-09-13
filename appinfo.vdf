@@ -1,0 +1,85 @@
+"appinfo"
+{
+	"appid"		"1007"
+	"common"
+	{
+		"type"		"Tool"
+		"name"		"Steamworks SDK Redist"
+		"oslist"		"windows,macos,linux"
+		"associations"
+		{
+		}
+		"gameid"		"1007"
+	}
+	"config"
+	{
+		"installdir"		"Steamworks SDK Redist"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"steam://open/tools"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11132247"
+				"timeupdated"		"1682973632"
+			}
+		}
+	}
+}
