@@ -1,0 +1,239 @@
+"appinfo"
+{
+	"appid"		"243750"
+	"common"
+	{
+		"name"		"Source SDK Base 2013 Multiplayer"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"parent"		"320"
+		"oslist"		"windows,macos,linux"
+		"logo"		"b3b00bd1ffaedac6952ded7eb3620d67630d781e"
+		"logo_small"		"b3b00bd1ffaedac6952ded7eb3620d67630d781e_thumb"
+		"icon"		"bb5e97d5a755e785cfbd33641adc409c4b7aa1a5"
+		"clienttga"		"460455c7c44e1d235a66c2897614287fc9a784a4"
+		"clienticon"		"b52c8bb47324930a2975537b88f794a2128175fc"
+		"clienticns"		"18380bfdc004844c918de769de298bac5c21ca33"
+		"associations"
+		{
+		}
+		"gameid"		"243750"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		""
+		"gamedir"		"sdk2013mp"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"serverbrowsername"		"Source SDK 2013"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Source SDK Base 2013 Multiplayer"
+		"usemms"		""
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game sourcetest -steam"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"hl2.sh"
+				"arguments"		"-game sourcetest -steam"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"hl2.sh"
+				"arguments"		"-game sourcetest -steam"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"243751"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"319760482884608249"
+					"size"		"3163853540"
+					"download"		"1856790512"
+				}
+				"prerelease"
+				{
+					"gid"		"319760482884608249"
+					"size"		"3163853540"
+					"download"		"1856790512"
+				}
+				"previous"
+				{
+					"gid"		"5728165527202942341"
+					"size"		"3163960420"
+					"download"		"1856812672"
+				}
+				"previous_upcoming"
+				{
+					"gid"		"6720615330537030546"
+					"size"		"3120901840"
+					"download"		"1845458224"
+				}
+			}
+		}
+		"243752"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8806556782944295588"
+					"size"		"129536273"
+					"download"		"55203424"
+				}
+				"prerelease"
+				{
+					"gid"		"8806556782944295588"
+					"size"		"129536273"
+					"download"		"55203424"
+				}
+				"previous"
+				{
+					"gid"		"2377371198641027267"
+					"size"		"129435945"
+					"download"		"55184768"
+				}
+				"previous_upcoming"
+				{
+					"gid"		"743733820484013162"
+					"size"		"128322257"
+					"download"		"60658992"
+				}
+			}
+		}
+		"243753"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9030995141345936994"
+					"size"		"75509073"
+					"download"		"24167936"
+				}
+				"prerelease"
+				{
+					"gid"		"9030995141345936994"
+					"size"		"75509073"
+					"download"		"24167936"
+				}
+				"previous"
+				{
+					"gid"		"8536009119426915493"
+					"size"		"75420665"
+					"download"		"24132208"
+				}
+				"previous_upcoming"
+				{
+					"gid"		"838448031255409467"
+					"size"		"73961378"
+					"download"		"26414768"
+				}
+			}
+		}
+		"243754"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7724544522078054090"
+					"size"		"86095152"
+					"download"		"32932064"
+				}
+				"prerelease"
+				{
+					"gid"		"7724544522078054090"
+					"size"		"86095152"
+					"download"		"32932064"
+				}
+				"previous"
+				{
+					"gid"		"6191974023782422762"
+					"size"		"85880505"
+					"download"		"32871824"
+				}
+				"previous_upcoming"
+				{
+					"gid"		"2228466830375410099"
+					"size"		"83880113"
+					"download"		"35534224"
+				}
+			}
+		}
+		"markdlcdepots"		"0"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6982830"
+				"timeupdated"		"1625518889"
+			}
+			"prerelease"
+			{
+				"buildid"		"6982830"
+				"timeupdated"		"1625518879"
+			}
+			"previous"
+			{
+				"buildid"		"4259091"
+				"description"		"The previous release"
+				"timeupdated"		"1625518868"
+			}
+			"previous_upcoming"
+			{
+				"buildid"		"397636"
+				"description"		"The obsolete \"upcoming\" prerelease build"
+				"timeupdated"		"1463012265"
+			}
+		}
+	}
+}
