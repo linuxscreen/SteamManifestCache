@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"1263550"
+	"common"
+	{
+		"name"		"COMBAT ARMS: THE CLASSIC"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"4bb65decbb13be842c0fec916fd376ec23863bee"
+		"clienttga"		"caecfee7afaf7b4c90cf7f9c4c3856f5a3c207c3"
+		"icon"		"537eac611bbdb9c5f7273717a3c34df79be7c280"
+		"logo"		"9b2f6aa4c149861686327616a24588597bd3a4f8"
+		"logo_small"		"9b2f6aa4c149861686327616a24588597bd3a4f8_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1590493633"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VALOFE, NEXON"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VALOFE"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1594710000"
+		"steam_release_date"		"1594728619"
+		"community_hub_visible"		"1"
+		"gameid"		"1263550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"1663"
+			"3"		"128"
+			"4"		"1774"
+			"5"		"4667"
+			"6"		"4345"
+			"7"		"3878"
+			"8"		"3859"
+			"9"		"122"
+			"10"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"developer"		"VALOFE, NEXON"
+		"publisher"		"VALOFE"
+		"homepage"		"https://combatarms-c.valofe.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"COMBAT ARMS THE CLASSIC"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Engine_BE.exe"
+				"arguments"		"--lc=EN --cc=US -windowtitle \"CombatArms\" -rez Engine.REZ -rez Game -Steam true"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1263551"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7245287484264795355"
+					"size"		"7344035991"
+					"download"		"2378258912"
+				}
+			}
+		}
+		"baselanguages"		"english,german,italian,schinese,portuguese,turkish,arabic"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12177061"
+				"timeupdated"		"1694600154"
+			}
+		}
+	}
+}
