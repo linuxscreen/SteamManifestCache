@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"1092730"
+	"common"
+	{
+		"name"		"Hello Neighbor Alpha 3"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"6da41659653fb6a43bd6130f6aaa2afe803e303e"
+		"logo_small"		"6da41659653fb6a43bd6130f6aaa2afe803e303e_thumb"
+		"icon"		"662d3530bf10681db5d8355554786d2b73511669"
+		"clienticon"		"7d05ef8a8c657e7b8c24996abcc0e9452013be7f"
+		"clienttga"		"8e450590e8d6790ed3cf2c71d987381f796e6829"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1654041600"
+			"tested_build_id"		"3865714"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Hello Neighbor Alpha 3"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"51.8669778296383"
+				"height_pct"		"82.6763239135597"
+			}
+		}
+		"store_asset_mtime"		"1561020535"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dynamic Pixels"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"tinyBuild"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"tinyBuild"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Hello Neighbor"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1571323680"
+		"community_hub_visible"		"1"
+		"gameid"		"1092730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1667"
+			"2"		"113"
+			"3"		"9"
+			"4"		"492"
+			"5"		"1687"
+			"6"		"3839"
+			"7"		"4182"
+			"8"		"1664"
+			"9"		"4106"
+			"10"		"19"
+			"11"		"3978"
+			"12"		"1662"
+			"13"		"1721"
+			"14"		"4026"
+			"15"		"8369"
+			"16"		"4191"
+			"17"		"4195"
+			"18"		"1714"
+			"19"		"4136"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Dynamic Pixels"
+		"publisher"		"tinyBuild"
+		"homepage"		"https://helloneighborgame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hello Neighbor Alpha 3"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HelloNeighborReborn.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1092731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8485018536137971250"
+					"size"		"2706383759"
+					"download"		"863527072"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3865714"
+				"timeupdated"		"1559067161"
+			}
+		}
+	}
+}
