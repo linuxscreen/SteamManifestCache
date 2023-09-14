@@ -1,0 +1,284 @@
+"appinfo"
+{
+	"appid"		"1181790"
+	"common"
+	{
+		"name"		"Circle of Sumo: Online Rumble!"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"32544073209ff90597e1ccc4fffa30c58b89081c"
+		"logo_small"		"32544073209ff90597e1ccc4fffa30c58b89081c_thumb"
+		"icon"		"f04f70343c35d090c37544bd008822f6ebfdc21a"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"clienticon"		"f7ca874aaba08c621eb5ca9281b18fc67b926d05"
+		"clienttga"		"bb0d0e816e4121720c9e05c97a8bd84865dfa51b"
+		"metacritic_name"		"Circle of Sumo: Online Rumble!"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.466283140213264"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1622107904"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Yonder"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Strelka Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Strelka Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Circle of Sumo"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_28"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1602946962"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1181790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3878"
+			"1"		"4136"
+			"2"		"3859"
+			"3"		"3871"
+			"4"		"1743"
+			"5"		"113"
+			"6"		"492"
+			"7"		"19"
+			"8"		"4711"
+			"9"		"6915"
+			"10"		"5055"
+			"11"		"3968"
+			"12"		"47827"
+			"13"		"493"
+			"14"		"176981"
+			"15"		"701"
+			"16"		"597"
+			"17"		"1685"
+			"18"		"1775"
+			"19"		"1773"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Yonder"
+		"publisher"		"Strelka Games"
+		"homepage"		"https://www.fromyonder.net/circle-of-sumo-online-rumble"
+		"isfreeapp"		"1"
+		"listofdlc"		"1208020"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Circle of Sumo Online Rumble!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Circle of Sumo - Online Rumble.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Circle of Sumo - Online Rumble.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Circle of Sumo - Ultimate Edition.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"bitsummit"
+				}
+				"description_loc"
+				{
+					"english"		"Circle of Sumo - Bitsummit 2021 edition"
+				}
+				"description"		"Circle of Sumo - Bitsummit 2021 edition"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65533"
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1181791"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5688558793969306161"
+					"size"		"459356328"
+					"download"		"223094560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bitsummit"
+				{
+					"gid"		"C63BD7B4119D8FCA21D7CDFC1A8E37A8"
+					"size"		"04867FE75DFC4C297341BB2D38B520C2"
+					"download"		"0AAB7578F36A6AFC45E2D49BF9472006"
+				}
+				"devel"
+				{
+					"gid"		"481B7E751CE6F5D812C0663A70716DDB"
+					"size"		"CDFCF04C522F15314328951CAA9A02E2"
+					"download"		"B91463DA0DBDE8E2608D1944886C7B67"
+				}
+			}
+		}
+		"1181792"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3506790102383516016"
+					"size"		"576627560"
+					"download"		"251055744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bitsummit"
+				{
+					"gid"		"33049AC008301B763BD720BC0744AF5D"
+					"size"		"A0FC1B5403269A3401DD42704EC7052D"
+					"download"		"F4B11B115656031C37F91CF619020F3B"
+				}
+				"devel"
+				{
+					"gid"		"3D35E37B0152D4E9882371749D907433"
+					"size"		"A8B10524ED1320D293084A321611FCB2"
+					"download"		"82CA6023E45190DAB385FB52E28C3049"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7000242"
+				"timeupdated"		"1625764658"
+			}
+			"bitsummit"
+			{
+				"buildid"		"7287970"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630515997"
+			}
+			"devel"
+			{
+				"buildid"		"7000242"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625762426"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"Main Menu"
+					"#status_matchmaking"		"%GameMode% - Looking for Match"
+					"#status_match"		"%GameMode% - %Arena% [ %Score% ]"
+					"#status_scoreboard"		"%GameMode% - Scoreboard [ %Score% ]"
+				}
+			}
+		}
+	}
+}
