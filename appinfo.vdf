@@ -1,0 +1,295 @@
+"appinfo"
+{
+	"appid"		"1304510"
+	"common"
+	{
+		"name"		"SCP: Nine-Tailed Fox"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"00d3dbbef1d90ea1af17dcb0bbeebb9a9a4e4bff"
+		"clienttga"		"2f83fe8fd3124254822838b7f04ae5d371658092"
+		"icon"		"d56b00ff59ea45b86003785cd15e9995c61f46bc"
+		"logo"		"87a49eb6a2e9123e201f8221e16f57a436c8bf8a"
+		"logo_small"		"87a49eb6a2e9123e201f8221e16f57a436c8bf8a_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1683368902"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Third Subdivision Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Third Subdivision Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"SCP Foundation"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Level 5 Clearance"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1643821222"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1304510"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1667"
+			"2"		"1663"
+			"3"		"19"
+			"4"		"3859"
+			"5"		"3834"
+			"6"		"3978"
+			"7"		"5125"
+			"8"		"1774"
+			"9"		"1721"
+			"10"		"3839"
+			"11"		"1662"
+			"12"		"5711"
+			"13"		"6869"
+			"14"		"6730"
+			"15"		"1710"
+			"16"		"1775"
+			"17"		"4191"
+			"18"		"4175"
+			"19"		"1708"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Third Subdivision Studios"
+		"publisher"		"Third Subdivision Studios"
+		"homepage"		"https://thirdsubdivision.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SCP Nine-Tailed Fox"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SCP Nine-Tailed Fox.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1304511"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8040002934598023470"
+					"size"		"613365895"
+					"download"		"447176816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"indev"
+				{
+					"gid"		"8CDB358292340E12819ED719074736BC"
+					"size"		"C45AD896ADE1EF7EFCD46F51F791999C"
+					"download"		"95A3A4537B7E60BF5EA9BD4CDA7235D5"
+				}
+				"testing"
+				{
+					"gid"		"09F96ED4BAFC6C131841B4F807C70506"
+					"size"		"408EB52D85798D15F90E1E0706D7F63B"
+					"download"		"E71616A065530E3AF167BE0F51C3E03D"
+				}
+			}
+		}
+		"workshopdepot"		"1304510"
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9193820"
+				"timeupdated"		"1658851904"
+			}
+			"indev"
+			{
+				"buildid"		"11979654"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692399806"
+			}
+			"testing"
+			{
+				"buildid"		"11979654"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692400044"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"41943040"
+		"maxnumfiles"		"512"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Saves"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"scpntf"
+				"pattern"		"*"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_inmainmenu"		"In Main Menu"
+					"#status_singleplayer"		"Singleplayer - {#Status_Difficulty%difficulty%}; Seed: %seed%"
+					"#status_teamdeathmatch"		"Team Deathmatch - %map%"
+					"#status_waves"		"Waves - %map%; Wave %currWave%/%maxWaves%; {#Status_Difficulty%difficulty%}"
+					"#status_difficulty0"		"Safe"
+					"#status_difficulty1"		"Euclid"
+					"#status_difficulty2"		"Keter"
+					"#status_difficulty3"		"Custom"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#status_inmainmenu"		"In Main Menu"
+					"#status_singleplayer"		"Singleplayer: %difficulty% difficulty"
+					"#status_teamdeathmatch"		"Team Deathmatch"
+					"#status_waves"		"Waves: {#Status_Difficulty%difficulty%}, %maxWaves% waves"
+					"#status_difficulty0"		"Safe difficulty"
+					"#status_difficulty1"		"Euclid difficulty"
+					"#status_difficulty2"		"Keter difficulty"
+					"#status_difficulty3"		"Custom difficulty"
+				}
+			}
+			"russian"
+			{
+				"tokens"
+				{
+					"#status_inmainmenu"		"In Main Menu"
+					"#status_singleplayer"		"Singleplayer: %difficulty% difficulty"
+					"#status_teamdeathmatch"		"Team Deathmatch"
+					"#status_waves"		"Waves: {#Status_Difficulty%difficulty%}, %maxWaves% waves"
+					"#status_difficulty0"		"Safe difficulty"
+					"#status_difficulty1"		"Euclid difficulty"
+					"#status_difficulty2"		"Keter difficulty"
+					"#status_difficulty3"		"Custom difficulty"
+				}
+			}
+		}
+	}
+}
