@@ -1,0 +1,248 @@
+"appinfo"
+{
+	"appid"		"955500"
+	"common"
+	{
+		"name"		"MagnetoBotty"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"4102bb8609e750d468d7c0e99d42e4c75ddd7563"
+		"logo_small"		"4102bb8609e750d468d7c0e99d42e4c75ddd7563_thumb"
+		"icon"		"d5f22dcda604650ba1873958f5babbafdba7d7bb"
+		"clienttga"		"62a383fe57957a0bd14dc98b6f4ed5bd2acfd5f5"
+		"clienticns"		"8e470944c27ff68e1fae2988116a17e64c2ccbb5"
+		"clienticon"		"985d43914a83b631ddb4a7b5739ed8ef5ef9e0f3"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+		}
+		"metacritic_name"		"MagnetoBotty"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1692873852"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Philipp Bouillon"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Philipp Bouillon"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1596171627"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"955500"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"5395"
+			"2"		"5537"
+			"3"		"12057"
+			"4"		"1625"
+			"5"		"4191"
+			"6"		"1654"
+			"7"		"6426"
+			"8"		"1664"
+			"9"		"4400"
+			"10"		"492"
+			"11"		"9"
+			"12"		"1708"
+			"13"		"5752"
+			"14"		"3968"
+			"15"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Philipp Bouillon"
+		"publisher"		"Philipp Bouillon"
+	}
+	"config"
+	{
+		"installdir"		"MagnetoBotty"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MagnetoBotty.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MagnetoBotty_mac.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"MagnetoBotty_linux.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,russian"
+		"955501"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8320533999261010033"
+					"size"		"106832053"
+					"download"		"49163952"
+				}
+			}
+		}
+		"955502"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7390464079375261271"
+					"size"		"152807741"
+					"download"		"51463760"
+				}
+			}
+		}
+		"955503"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5793421126439208606"
+					"size"		"130303178"
+					"download"		"56603280"
+				}
+			}
+		}
+		"workshopdepot"		"955500"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11883873"
+				"timeupdated"		"1691411342"
+			}
+		}
+	}
+}
