@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"778810"
+	"common"
+	{
+		"name"		"Soul for two"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"e2d35ddf8a6cf216ad6330348242c44026ab16cb"
+		"logo_small"		"e2d35ddf8a6cf216ad6330348242c44026ab16cb_thumb"
+		"icon"		"7b86cf89fe66bdf61623af828c30e73409d44692"
+		"clienttga"		"3b8d583d06c94f5551eb53574ec857c8163749cb"
+		"clienticon"		"0754af0881bec8b8c382d30ef961d975699c7aa8"
+		"metacritic_name"		"Soul for two"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667020364"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GefestGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GefestGames"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1516993440"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"778810"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"492"
+			"3"		"5577"
+			"4"		"4434"
+			"5"		"19"
+			"6"		"3799"
+			"7"		"4474"
+			"8"		"14139"
+			"9"		"3871"
+			"10"		"4085"
+			"11"		"3964"
+			"12"		"4791"
+			"13"		"4004"
+			"14"		"7743"
+			"15"		"6691"
+			"16"		"9541"
+			"17"		"5984"
+			"18"		"4057"
+			"19"		"3916"
+		}
+		"review_score"		"7"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"GefestGames"
+		"publisher"		"GefestGames"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Soul for two"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Soulfortwo.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"778811"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2088012716394991964"
+					"size"		"445606059"
+					"download"		"254674752"
+				}
+				"testachivment"
+				{
+					"gid"		"2088012716394991964"
+					"size"		"445606059"
+					"download"		"254674752"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4787874"
+				"timeupdated"		"1584465404"
+			}
+			"testachivment"
+			{
+				"buildid"		"4787874"
+				"timeupdated"		"1584461251"
+			}
+		}
+	}
+}
