@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"1368600"
+	"common"
+	{
+		"name"		"Henosis (Demo)"
+		"type"		"Demo"
+		"parent"		"1355720"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"9b65b770395abb9d746c652c4469c3d7f82636f6"
+		"clienticon"		"b16249df04a3da7cf36d0fb9a58a279a329d32d7"
+		"icon"		"823e7c34977bed5aafd60865a0ab0212e258f4b0"
+		"clienticns"		"622e452d73b4fd9e1cbd1ab1f4c87b95da32e753"
+		"linuxclienticon"		"a9d5402da1b9b756909786d7fb4232859e178b29"
+		"app_retired_publisher_request"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1594299319"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Odd Critter Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Odd Critter Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1594278000"
+		"steam_release_date"		"1595628314"
+		"gameid"		"1368600"
+	}
+	"extended"
+	{
+		"demoofappid"		"1355720"
+		"developer"		"Odd Critter Games"
+		"publisher"		"Odd Critter Games"
+		"homepage"		"https://henosisgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Henosis_Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Henosis(Demo).exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"HenosisDemo.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Henosis_Demo.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian"
+		"1368601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5996108931813123738"
+					"size"		"1223385703"
+					"download"		"150176528"
+				}
+				"publicrelease"
+				{
+					"gid"		"5996108931813123738"
+					"size"		"1223385703"
+					"download"		"150176528"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11258832"
+				"timeupdated"		"1684372539"
+			}
+			"publicrelease"
+			{
+				"buildid"		"11258832"
+				"description"		"Public branch"
+				"timeupdated"		"1684372529"
+			}
+		}
+	}
+}
