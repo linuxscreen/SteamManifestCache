@@ -1,0 +1,259 @@
+"appinfo"
+{
+	"appid"		"1368440"
+	"common"
+	{
+		"name"		"Armor Of Heroes"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"e6c43d5e0797731b62f28459560c6688741b61dd"
+		"clienttga"		"bbcc8e79681da170bac09abe2031bbfd287e7488"
+		"icon"		"295151e8cd1555aa01d8d1d02f108a7e4cbc2a36"
+		"logo"		"0be97a89bc06fb1b4c92be8e4a5724165156889e"
+		"logo_small"		"0be97a89bc06fb1b4c92be8e4a5724165156889e_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1368440_eula_0"
+				"name"		"Armor Of Heroes EULA"
+				"url"		"https://store.steampowered.com//eula/1368440_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1677283200"
+			"tested_build_id"		"5766997"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1602779819"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Eccentric Ape"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"SEGA"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1602780600"
+		"community_hub_visible"		"1"
+		"gameid"		"1368440"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1773"
+			"2"		"1775"
+			"3"		"3841"
+			"4"		"13276"
+			"5"		"4637"
+			"6"		"4791"
+			"7"		"1678"
+			"8"		"1685"
+			"9"		"7368"
+			"10"		"3859"
+			"11"		"4182"
+			"12"		"4255"
+			"13"		"4758"
+			"14"		"5363"
+			"15"		"3987"
+			"16"		"4168"
+			"17"		"4150"
+			"18"		"3993"
+			"19"		"4975"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,tea_dev"
+		"developer"		"The Eccentric Ape"
+		"publisher"		"SEGA"
+		"homepage"		"http://www.sega60th.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Armor Of Heroes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ArmorOfHeroes.exe"
+				"type"		"none"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2256329262"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,progress,tea_dev"
+				"use_action_block"		"false"
+			}
+			"2256328775"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,progress,tea_dev"
+				"use_action_block"		"false"
+			}
+			"2256328412"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,progress,tea_dev"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"1368441"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4662980212792485953"
+					"size"		"1215013423"
+					"download"		"373638432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"progress"
+				{
+					"gid"		"87A3DB592F0A9AC973D3F30B20DC54BD"
+					"size"		"381977C8DB51B125DA0D2DA5C95C3E03"
+					"download"		"E9F20F941F3511C3008CEC9C6B04D63F"
+				}
+				"tea_dev"
+				{
+					"gid"		"4423A56A350A3B2FCE6BA386B7C3F4E0"
+					"size"		"CD65E673898B3AC8130F7C760231BFF5"
+					"download"		"B0674A69ECF0BA583F4D314BEFD730D4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5766997"
+				"timeupdated"		"1605154480"
+			}
+			"progress"
+			{
+				"buildid"		"5674461"
+				"pwdrequired"		"1"
+				"timeupdated"		"1602562596"
+			}
+			"tea_dev"
+			{
+				"buildid"		"5766997"
+				"pwdrequired"		"1"
+				"timeupdated"		"1604185303"
+			}
+		}
+	}
+}
