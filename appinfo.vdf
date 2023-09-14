@@ -1,0 +1,230 @@
+"appinfo"
+{
+	"appid"		"2349820"
+	"common"
+	{
+		"name"		"Hero's Land"
+		"type"		"Game"
+		"icon"		"c72553649bd87491364ca0dcbfbafc090fcd9551"
+		"clienticon"		"a99cb00a8f27cc131bafa16a0c8623a117891915"
+		"clienttga"		"8a434e52de9c232a76d88a0dd3fcd1587494b862"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"沙盒与副本：英勇之地"
+			"tchinese"		"沙盒與副本：英勇之地"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1693958400"
+			"tested_build_id"		"12033013"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw"
+			"library_hero"		"en,zh-cn,zh-tw"
+			"library_logo"		"zh-cn,en,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.1353558926488"
+				"height_pct"		"41.260983139396785"
+			}
+		}
+		"store_asset_mtime"		"1694067643"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Orienjoy"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Orienjoy"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Orienjoy"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"29"
+			"3"		"3"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1684371637"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2349820"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"1775"
+			"2"		"1718"
+			"3"		"113"
+			"4"		"1695"
+			"5"		"1754"
+			"6"		"4474"
+			"7"		"3834"
+			"8"		"21725"
+			"9"		"5379"
+			"10"		"3959"
+			"11"		"15564"
+			"12"		"4231"
+			"13"		"4106"
+			"14"		"122"
+			"15"		"4791"
+			"16"		"4726"
+			"17"		"4252"
+			"18"		"19"
+			"19"		"1643"
+		}
+		"review_score"		"5"
+		"review_percentage"		"45"
+	}
+	"extended"
+	{
+		"developer"		"Orienjoy"
+		"publisher"		"Orienjoy"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hero's Land"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HerosLand.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"2349821"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1221289722463817324"
+					"size"		"1582421168"
+					"download"		"1042782048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"prerelease"
+				{
+					"gid"		"78666A0106A9C56DC2F52C6EFE69F666"
+					"size"		"B38F43819F5B40153ACA77D53DB052B1"
+					"download"		"A314EB21D3A53647CDC2D8F00D403994"
+				}
+				"test"
+				{
+					"gid"		"AF5E4FEC0A28A42A2A8022913F25B663"
+					"size"		"67774758EB31C9DEACEA26517073E10B"
+					"download"		"8F1169E693A8C1B95D6110926D60997C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12149215"
+				"timeupdated"		"1694258838"
+			}
+			"prerelease"
+			{
+				"buildid"		"11257531"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684359464"
+			}
+			"test"
+			{
+				"buildid"		"11293816"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684814879"
+			}
+		}
+	}
+}
