@@ -1,0 +1,726 @@
+"appinfo"
+{
+	"appid"		"601510"
+	"common"
+	{
+		"name"		"Yu-Gi-Oh! Duel Links"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"clienticon"		"f0b7f03acc861b2436321ccbd7dcef89474d3d07"
+		"clienttga"		"67f0436e40852c4f5186732e4f68d737d17a2013"
+		"icon"		"5c4ac0e2d0d357ce7eaf7569f16e82b646908ff9"
+		"logo"		"8edb1385f8678e8c104900fdb21f02b7db1fccb3"
+		"logo_small"		"8edb1385f8678e8c104900fdb21f02b7db1fccb3_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"601510_eula_0"
+				"name"		"Yu-Gi-Oh! Duel Links EULA"
+				"url"		"http://store.steampowered.com//eula/601510_eula_0"
+				"version"		"3"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1645142400"
+			"tested_build_id"		"7400649"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Yu-Gi-Oh! Duel Links"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35"
+				"height_pct"		"53"
+			}
+		}
+		"store_asset_mtime"		"1690955505"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KONAMI"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KONAMI"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Yu-Gi-Oh!"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1510894140"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"601510"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1666"
+			"2"		"4085"
+			"3"		"9"
+			"4"		"3859"
+			"5"		"9271"
+			"6"		"4182"
+			"7"		"1677"
+			"8"		"3878"
+			"9"		"597"
+			"10"		"122"
+			"11"		"10397"
+			"12"		"3843"
+			"13"		"1756"
+			"14"		"19"
+			"15"		"21"
+			"16"		"599"
+			"17"		"128"
+			"18"		"1721"
+			"19"		"1754"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"KONAMI"
+		"publisher"		"KONAMI"
+		"homepage"		"https://www.konami.com/yugioh/duel_links/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Yu-Gi-Oh! Duel Links"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"dlpc.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"601511"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8032282856841379784"
+					"size"		"178393833"
+					"download"		"71151568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B971A07A610270567D32C6CC83D25119"
+					"size"		"20812E4DD4BA6FD9404F5A016706E1D9"
+					"download"		"14B71F6B80515F75BEDEA4A8DBE805BA"
+				}
+				"develop"
+				{
+					"gid"		"CE465FD65E41F888EA1F9E1B953F94FB"
+					"size"		"B4CB7348AAB59C9BE04478125668FD44"
+					"download"		"FC85911C496A9EFF05C6234F9CD8675C"
+				}
+				"exam"
+				{
+					"gid"		"7E789F646449A06D3E7619BA4BCCD3A7"
+					"size"		"B4E6CA526381B3658D473AA44B79EE8E"
+					"download"		"1030E323E4AA5C639F735350CDCA4439"
+				}
+				"future"
+				{
+					"gid"		"DA4D5790452312633FE0C574C79C9C89"
+					"size"		"FF47BD9D5A510390F5FB15F5362F2301"
+					"download"		"DF26F2A4C896AFD91C455E2EA3CD43E1"
+				}
+				"takeover"
+				{
+					"gid"		"748842A424E752DAD432EF3A5DF8357B"
+					"size"		"698776AFBA948F106CC29080360AEB65"
+					"download"		"CE4764167715FDCDBCA7EFA98BE5911A"
+				}
+				"ver710"
+				{
+					"gid"		"7EA7F3AD19891B335FCA1DE4F2BAA393"
+					"size"		"1684DC1723E45185D230E50995B36A1E"
+					"download"		"87C71ED56B0582B3D112000AC0690B31"
+				}
+				"ver7100"
+				{
+					"gid"		"99B35DA9D14D2DD43D1B7BC7F0A5149C"
+					"size"		"BEB24D79EE42A18E017AD2AAF48A782C"
+					"download"		"523AE7FBBCC3D443DBE9025D748F98BD"
+				}
+				"ver720"
+				{
+					"gid"		"4124BEAD5FB1C60C39CD2697D8A84F1B"
+					"size"		"D798E26952C1FB834AE772C696267777"
+					"download"		"5D933291914F287CEBAA338976942E9A"
+				}
+				"ver730"
+				{
+					"gid"		"5B0694037013A525FF6DBCF9F6D805A9"
+					"size"		"39C4343D6A187E39F158080BE0DFF83C"
+					"download"		"9500392BDFA86DDEAE1F8086D9250F34"
+				}
+				"ver740"
+				{
+					"gid"		"F9757B8262A9DC32115CD557F24C4CB5"
+					"size"		"A4E4AEE3C91F8DEB5898E9146A6975D0"
+					"download"		"D7098AB170622CBC5C96D6E4FF3CDE4A"
+				}
+				"ver750"
+				{
+					"gid"		"2729469E1DD314A5C9C8B06F3D20C673"
+					"size"		"ECFFE4A13F986BE3D43BE734E1D360BE"
+					"download"		"6D31D83D01BDCECAC7848C5A489171A6"
+				}
+				"ver760"
+				{
+					"gid"		"AF106B010A6C520F4813183325B0EA2D"
+					"size"		"F0AEF99685533B8EA339D53ADA3F77BF"
+					"download"		"868073528DA823EC1AEAECFC20085395"
+				}
+				"ver770"
+				{
+					"gid"		"5923FB23F4FA6BA9BD99F721517026EA"
+					"size"		"7CCDF4F292F891F2E74574A88F3FC595"
+					"download"		"43BB46BE8FB383E583B6AFC8E9469F55"
+				}
+				"ver780"
+				{
+					"gid"		"B0C2A10708CFE857CE74156235E98BB8"
+					"size"		"27BA8807D6E5A0EA06BFB8169CC1EC5E"
+					"download"		"1708EE0D37C6343D955A6893AAD8CA6A"
+				}
+				"ver790"
+				{
+					"gid"		"24005FEF4644F58CCB77D8FA581E0978"
+					"size"		"E76E61FB9F234C189A20E68C795295DC"
+					"download"		"A271254E6877CA332BCD0E46E7F2961B"
+				}
+			}
+		}
+		"601512"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4507743338431111316"
+					"size"		"178393833"
+					"download"		"71151936"
+				}
+				"local"
+				{
+					"gid"		"7393370643594267954"
+					"size"		"221352080"
+					"download"		"48793600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2A0ACEDE39541BC81D0EBA38AC793776"
+					"size"		"4745500E90D0088F3CF738235F4FF057"
+					"download"		"9B98709AAD27151280775AB1F2675B37"
+				}
+				"develop"
+				{
+					"gid"		"1BAB03E5A526F2AD130BCCF86D447EAD"
+					"size"		"1CC016DA6B520AB32DF812F97A87B10E"
+					"download"		"ECDDB06824C1A5F71EC9EF7111F0CCF9"
+				}
+				"exam"
+				{
+					"gid"		"23C4B6A1052AB26D732C84C955467B9B"
+					"size"		"B4E6CA526381B3658D473AA44B79EE8E"
+					"download"		"038753A3E07B6C74311A3E2FE7290935"
+				}
+				"future"
+				{
+					"gid"		"F7C38797AC9F90AAD982442739A9687E"
+					"size"		"FF47BD9D5A510390F5FB15F5362F2301"
+					"download"		"F5A2B72479757F2A0F1A2B6A273B34E7"
+				}
+				"takeover"
+				{
+					"gid"		"C95C4BBE319AD5B2F66FD1E87854D392"
+					"size"		"396967E22429B04F754A5363DCED8DF8"
+					"download"		"E76CF2E01A166F8854F2442B3592E40E"
+				}
+				"ver710"
+				{
+					"gid"		"BB1CB4F4B30CB77163A65CD101325F04"
+					"size"		"BA89BF4EF743222E67D69F7FABC271AE"
+					"download"		"14DFD3094577A19A28EAFFA985350C1A"
+				}
+				"ver7100"
+				{
+					"gid"		"FC8EC2BE431297E900782E9777FD043B"
+					"size"		"DEDC82723B18F2D661AB2486DE41BAC5"
+					"download"		"C744AD2934BD588980701A000126CE3D"
+				}
+				"ver720"
+				{
+					"gid"		"29C43B02A432CA9463B9BFE4487B4ABD"
+					"size"		"AB1630102ABB02A6F2D64F74F1C16165"
+					"download"		"A54DDA30410E1D1B2F19362C9BD6AC6F"
+				}
+				"ver730"
+				{
+					"gid"		"33C1B1E0BF4DD788DECBCCF64BB81A8C"
+					"size"		"AB7286C35A2A5A828A46AA9D770CAC7A"
+					"download"		"065C60E26870E5CF9EC262187BEFDD0A"
+				}
+				"ver740"
+				{
+					"gid"		"40E1DA55ED6969305FFA55EBDEE96A2F"
+					"size"		"E853C8DAC3B3559C8389FF96230F2B36"
+					"download"		"AAE067B812922F294DEBA006E4B8B151"
+				}
+				"ver750"
+				{
+					"gid"		"53D262E52C83A52A62279D127FA363C8"
+					"size"		"79FE8983F6A005DDDB8D029CD23236FF"
+					"download"		"31EFE3FAA00059C4E7C2D0BDBD9C01FA"
+				}
+				"ver760"
+				{
+					"gid"		"DC53C6176CA7DF197C00E5D79705F0F7"
+					"size"		"0C1367BB048FDE84D7F7CA8999EF1F21"
+					"download"		"ED487858FF23A0EDA1FEA84490127DC1"
+				}
+				"ver770"
+				{
+					"gid"		"A4F829D983342BC35D565DECE9D7048F"
+					"size"		"1A20FC91BA7415444431C5CFAE688913"
+					"download"		"FF1D353D275FF8016631493FC8DD7FC9"
+				}
+				"ver780"
+				{
+					"gid"		"AC9D62C8067E076FDB0709A0AA049493"
+					"size"		"1391ADF92807CC6AD25EE76417908A66"
+					"download"		"5A115880A7D42767A478FF1383451174"
+				}
+				"ver790"
+				{
+					"gid"		"A48FAC45F988230214B63845634D1983"
+					"size"		"4E1155265EFC39428299F4027FE4CE19"
+					"download"		"1F95FC65EC0BC5BD577EA929C84C7F61"
+				}
+			}
+		}
+		"601513"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"419930464605706483"
+					"size"		"178393833"
+					"download"		"71153344"
+				}
+				"local"
+				{
+					"gid"		"5360464831998832377"
+					"size"		"222971872"
+					"download"		"49515232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4F7DC02889C4BCA0AE8FC0835D4B0D1E"
+					"size"		"4745500E90D0088F3CF738235F4FF057"
+					"download"		"EF5A0C6061F4A4B9840AFEDB16DA1153"
+				}
+				"develop"
+				{
+					"gid"		"1BC202ED386705E02CE158965BDCE086"
+					"size"		"1CC016DA6B520AB32DF812F97A87B10E"
+					"download"		"ECDDB06824C1A5F71EC9EF7111F0CCF9"
+				}
+				"exam"
+				{
+					"gid"		"A73527811C9AF0CA33C1F4A31F261045"
+					"size"		"B4E6CA526381B3658D473AA44B79EE8E"
+					"download"		"9E4148DC469C23133296C3C18105C934"
+				}
+				"future"
+				{
+					"gid"		"6B107A7A39BA4BEDBE476B293F7C153E"
+					"size"		"FF47BD9D5A510390F5FB15F5362F2301"
+					"download"		"7E0416260F6F184BE5773BBF75F75C0C"
+				}
+				"takeover"
+				{
+					"gid"		"BB2EEDB4160EBFD72207550CC0E018B7"
+					"size"		"396967E22429B04F754A5363DCED8DF8"
+					"download"		"E76CF2E01A166F8854F2442B3592E40E"
+				}
+				"ver710"
+				{
+					"gid"		"F69F53799573B3FC8E798B1DF8D6E643"
+					"size"		"BA89BF4EF743222E67D69F7FABC271AE"
+					"download"		"FCFB540E309528414577B69A793D21AC"
+				}
+				"ver7100"
+				{
+					"gid"		"BA4E50BD240128D70A45489D7A9A1ECB"
+					"size"		"DEDC82723B18F2D661AB2486DE41BAC5"
+					"download"		"66A982BCAAEA7D36709F9968CA113F70"
+				}
+				"ver720"
+				{
+					"gid"		"5603C0AB7D70A5977FACB93F526F1561"
+					"size"		"AB1630102ABB02A6F2D64F74F1C16165"
+					"download"		"73A50E46DF1BAF8425CF00B183EE5E7A"
+				}
+				"ver730"
+				{
+					"gid"		"A2ECCD2480908DA23215CE31D374B371"
+					"size"		"AB7286C35A2A5A828A46AA9D770CAC7A"
+					"download"		"2DE53DD6F0F883725A93E2784567B22E"
+				}
+				"ver740"
+				{
+					"gid"		"72758532BB721F9D6C949D6EE20BEEFF"
+					"size"		"E853C8DAC3B3559C8389FF96230F2B36"
+					"download"		"1BE194683D3D8CBB672AA13BCE6D7ACE"
+				}
+				"ver750"
+				{
+					"gid"		"3E904194A07A7A4308F09C95CB0BC6B2"
+					"size"		"79FE8983F6A005DDDB8D029CD23236FF"
+					"download"		"157E0594092511F0737BCC146BEB522A"
+				}
+				"ver760"
+				{
+					"gid"		"5388E2D0AB38BEB1F9E162973D2EF177"
+					"size"		"0C1367BB048FDE84D7F7CA8999EF1F21"
+					"download"		"BAE383E61535ADD53303194D56EDE192"
+				}
+				"ver770"
+				{
+					"gid"		"C6BC612D4557945C72DAF8F960C17E7F"
+					"size"		"1A20FC91BA7415444431C5CFAE688913"
+					"download"		"E0D1D7F6C84D22DAE343AB1ED28BCCB3"
+				}
+				"ver780"
+				{
+					"gid"		"02A4ABDF40339E496052236F26258BA7"
+					"size"		"1391ADF92807CC6AD25EE76417908A66"
+					"download"		"9A7EA9F0845501CF774254DAF29AC3B6"
+				}
+				"ver790"
+				{
+					"gid"		"F927C9414C029FE14E697326092E0D22"
+					"size"		"4E1155265EFC39428299F4027FE4CE19"
+					"download"		"535FE19A1899B9E0F403DAA635C6A231"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12008566"
+				"timeupdated"		"1692756877"
+			}
+			"beta"
+			{
+				"buildid"		"12172392"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694551776"
+			}
+			"develop"
+			{
+				"buildid"		"12164589"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694483299"
+			}
+			"exam"
+			{
+				"buildid"		"6204909"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612759717"
+			}
+			"future"
+			{
+				"buildid"		"12008566"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692755992"
+			}
+			"local"
+			{
+				"buildid"		"2414271"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1515126638"
+			}
+			"takeover"
+			{
+				"buildid"		"11864524"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691129413"
+			}
+			"ver710"
+			{
+				"buildid"		"11942915"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692073168"
+			}
+			"ver7100"
+			{
+				"buildid"		"11974049"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692354134"
+			}
+			"ver720"
+			{
+				"buildid"		"9954995"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668649780"
+			}
+			"ver730"
+			{
+				"buildid"		"10313340"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673592885"
+			}
+			"ver740"
+			{
+				"buildid"		"10558766"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676474737"
+			}
+			"ver750"
+			{
+				"buildid"		"10753283"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678681293"
+			}
+			"ver760"
+			{
+				"buildid"		"11021534"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681743867"
+			}
+			"ver770"
+			{
+				"buildid"		"11190262"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683644659"
+			}
+			"ver780"
+			{
+				"buildid"		"11483145"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686873767"
+			}
+			"ver790"
+			{
+				"buildid"		"11697665"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689283279"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
