@@ -1,0 +1,440 @@
+"appinfo"
+{
+	"appid"		"24200"
+	"common"
+	{
+		"name"		"DC Universe Online"
+		"logo"		"5304686024a25aed8d777e3d1e93aeef35d82c02"
+		"logo_small"		"5304686024a25aed8d777e3d1e93aeef35d82c02_thumb"
+		"clienticon"		"56d5f5742e71f56f6df7e1f206c03510d5dd3f25"
+		"clienttga"		"f9cc30c54c3e21517b512bbb67ae50a2b915b049"
+		"icon"		"1563d80759bfa4f9698a1799b3872e7f3a5209b1"
+		"oslist"		"windows"
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1648252800"
+			"tested_build_id"		"740215"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"DC Universe Online"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"96"
+				"height_pct"		"38"
+			}
+		}
+		"store_asset_mtime"		"1682101834"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dimensional Ink Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Daybreak Game Company"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"29"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1320269520"
+		"metacritic_score"		"72"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/dc-universe-online?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"24200"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1671"
+			"2"		"1754"
+			"3"		"128"
+			"4"		"4747"
+			"5"		"19"
+			"6"		"1751"
+			"7"		"122"
+			"8"		"21"
+			"9"		"7481"
+			"10"		"1697"
+			"11"		"3859"
+			"12"		"3993"
+			"13"		"4158"
+			"14"		"1695"
+			"15"		"3834"
+			"16"		"1775"
+			"17"		"1743"
+			"18"		"3843"
+			"19"		"1685"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Dimensional Ink Games"
+		"dlcavailableonstore"		"1"
+		"dlcpurchasefromingame"		"0"
+		"gamedir"		"DC Universe Online"
+		"homepage"		"http://www.dcuniverseonline.com/"
+		"icon"		""
+		"inhibitautoversionroll"		"1"
+		"installscript"		"installscript.vdf"
+		"isfreeapp"		"1"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"24201"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Daybreak Game Company"
+		"listofdlc"		"24208,24209,215990,215991,215992,215993,215994,215995,215996,215997,215998,249750,275020,299270,315800,331740,333910,333920,333921,347570,361180,361181,361182,361183,371740,393850,402230,410280,418350,425620,435550,443100,452050,461610,476520,494390,494391,494392,496220,511480,546520,557020,637380,720900,757020,763370,837360,900820,978730,1050480,1146540,1182050,1280110,1367930,1443150"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"DC Universe Online"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LaunchPad.exe"
+				"arguments"		"Updates:enable=0 Updates:PatchSelf=1 campaignID=1063044 promoID=132 launchArgs=-STEAM_ENABLED launchPoint=steam"
+			}
+		}
+		"noupdatesafterinstall"		"1"
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2547553897526095397"
+					"size"		"13742505"
+					"download"		"13436144"
+				}
+			}
+			"depotfromapp"		"228980"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1829726630299308803"
+					"size"		"102931551"
+					"download"		"100658080"
+				}
+			}
+			"depotfromapp"		"228980"
+		}
+		"24209"
+		{
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"311351568859746664"
+					"size"		"791"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"livenext"
+				{
+					"gid"		"3916EBE6366A39B4BC6E32A0DB77A444"
+					"size"		"930E8A628BC8277DC7B90AC9BB86E344"
+					"download"		"5794F22E8ACC486762A308F4DE347220"
+				}
+				"qa"
+				{
+					"gid"		"B9BB150E79DADD20EA29791FE2FC4CEE"
+					"size"		"D136DCC3FA1CE87D48241744C39CC8D5"
+					"download"		"FB98E5632A40D3BE4BF1656FAD7FC86C"
+				}
+			}
+			"dlcappid"		"24209"
+		}
+		"24208"
+		{
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7982137356589746531"
+					"size"		"791"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"livenext"
+				{
+					"gid"		"F5CDB06FA9861B24C3FF42E299DBA22C"
+					"size"		"930E8A628BC8277DC7B90AC9BB86E344"
+					"download"		"5794F22E8ACC486762A308F4DE347220"
+				}
+				"qa"
+				{
+					"gid"		"ACF8539E27029A0EB6773DDDDC19DBF4"
+					"size"		"D136DCC3FA1CE87D48241744C39CC8D5"
+					"download"		"FB98E5632A40D3BE4BF1656FAD7FC86C"
+				}
+			}
+			"dlcappid"		"24208"
+		}
+		"24201"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4986061176364777478"
+					"size"		"27102740906"
+					"download"		"22588433808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"livenext"
+				{
+					"gid"		"DB4C131B16BD058F92F856BFE04A501B"
+					"size"		"D97C8D63370E5A758D975D044E3FDA29"
+					"download"		"9C6E6D3D527B42E8757D17703E3B76E2"
+				}
+				"qa"
+				{
+					"gid"		"6BDEF98C1BB48B0462D951CDF69B1F48"
+					"size"		"CB9C7CF9FDBE9B626952BD3EA2D654B3"
+					"download"		"2EE76E3541A6E99B7B8E8588671F1182"
+				}
+			}
+		}
+		"24202"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7307060621877240536"
+					"size"		"9992722635"
+					"download"		"9665165424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"livenext"
+				{
+					"gid"		"4A1E2D3A094ACA12BB1ED0D7C71ABB16"
+					"size"		"39EF6CD0F842E438360840F3FF0B9FF6"
+					"download"		"C99EBB9C30D07419BB120C3AF9607E28"
+				}
+				"qa"
+				{
+					"gid"		"36AA9CC7DCECC6FDD8E92B73F00B5AE6"
+					"size"		"FB98E5632A40D3BE4BF1656FAD7FC86C"
+					"download"		"FB98E5632A40D3BE4BF1656FAD7FC86C"
+				}
+			}
+		}
+		"24203"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7565477306835368372"
+					"size"		"9907874038"
+					"download"		"9655542080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"livenext"
+				{
+					"gid"		"25464DF5CB305CE3638FCCB68AB7737E"
+					"size"		"C036FBBA665592FB6556B502C21DEA2B"
+					"download"		"73508DF5780D32A6D2405BABEDF85A11"
+				}
+				"qa"
+				{
+					"gid"		"23F7989866F4F786B2DB6093B32E51FC"
+					"size"		"FB98E5632A40D3BE4BF1656FAD7FC86C"
+					"download"		"FB98E5632A40D3BE4BF1656FAD7FC86C"
+				}
+			}
+		}
+		"24204"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2770493104133605039"
+					"size"		"9732538809"
+					"download"		"9469263216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"livenext"
+				{
+					"gid"		"A0C85FE48AAF939F6E5F24207C26B84B"
+					"size"		"DE0F75DCE65CB2881D664246FDC0508C"
+					"download"		"15A1F787B5BA5A93B7ECD9E1B05E7151"
+				}
+				"qa"
+				{
+					"gid"		"26E082A26C37AAAEC2B51AEA13948368"
+					"size"		"FB98E5632A40D3BE4BF1656FAD7FC86C"
+					"download"		"FB98E5632A40D3BE4BF1656FAD7FC86C"
+				}
+			}
+		}
+		"24205"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6728135585102317163"
+					"size"		"9932386790"
+					"download"		"9687943792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"livenext"
+				{
+					"gid"		"B5AF00C387606AF0876E5E24CDEFF07F"
+					"size"		"E74966B778E14024962E9C86B670FD9E"
+					"download"		"6FAC7EE5A68D780F1DE0712395F2BE3C"
+				}
+				"qa"
+				{
+					"gid"		"51D91D6A8854CA1EF2D7D18BEF5ACB63"
+					"size"		"FB98E5632A40D3BE4BF1656FAD7FC86C"
+					"download"		"FB98E5632A40D3BE4BF1656FAD7FC86C"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"740215"
+			}
+			"livenext"
+			{
+				"buildid"		"740215"
+				"pwdrequired"		"1"
+			}
+			"qa"
+			{
+				"buildid"		"1306490"
+				"pwdrequired"		"1"
+				"timeupdated"		"1472505422"
+			}
+		}
+	}
+}
