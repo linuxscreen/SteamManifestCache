@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"1624250"
+	"common"
+	{
+		"name"		"Drift King Demo"
+		"type"		"Demo"
+		"parent"		"1469690"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"e39466498be9599ec4781ac8f529c9c002d7b7d1"
+		"clienticon"		"4fbe3d11f9f01e1021c2b36ef1843b7011d4e915"
+		"icon"		"04114c6a83fefe986b29fac2c6b92753eb6d4b50"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"97.32558139534885"
+				"height_pct"		"29.862265495131794"
+			}
+		}
+		"store_asset_mtime"		"1620972682"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Giorgi Abelashvili"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Giorgi Abelashvili"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1623479021"
+		"gameid"		"1624250"
+	}
+	"extended"
+	{
+		"demoofappid"		"1469690"
+		"developer"		"Giorgi Abelashvili"
+		"publisher"		"Giorgi Abelashvili"
+	}
+	"config"
+	{
+		"installdir"		"Drift King Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DriftKing Demo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1624252"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6466325850685237894"
+					"size"		"2740916325"
+					"download"		"807127584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo_test"
+				{
+					"gid"		"1271C05F8A7687160F7D2F51E75C938D"
+					"size"		"6DA4B883C92673A70178E41DA6F549CE"
+					"download"		"676BCA704A5A097B49D338A2AB0EB5D5"
+				}
+			}
+		}
+		"1624253"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8884925557610595209"
+					"size"		"1633344208"
+					"download"		"482818336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo_test"
+				{
+					"gid"		"A5BF7C0FD5924FB018160AA9C18158D5"
+					"size"		"B3C1DC6194DFCF5881EA539EDEE7B9B2"
+					"download"		"FCC118F9FB603131DF7E6966DE199193"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8587979"
+				"timeupdated"		"1650441386"
+			}
+			"demo_test"
+			{
+				"buildid"		"8587979"
+				"pwdrequired"		"1"
+				"timeupdated"		"1650441048"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SaveGames"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+		}
+	}
+}
