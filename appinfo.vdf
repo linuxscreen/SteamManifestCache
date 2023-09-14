@@ -1,0 +1,259 @@
+"appinfo"
+{
+	"appid"		"1797880"
+	"common"
+	{
+		"name"		"Lost Light"
+		"type"		"Game"
+		"clienticon"		"3e0cd25e69f223e94820ef0d8f67a93bf156f632"
+		"clienttga"		"58151228d75ad70b91242d19a37be25b5f1ebca7"
+		"icon"		"542cf802a2484ce772c8e7209227bbf5e5dea044"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1797880_eula_0"
+				"name"		"Lost Light EULA"
+				"url"		"https://store.steampowered.com//eula/1797880_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1661385600"
+			"tested_build_id"		"9316148"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.659073521831786"
+				"height_pct"		"90.4799469989909"
+			}
+		}
+		"store_asset_mtime"		"1692326332"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NetEase Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NetEase Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+			"category_35"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1662032810"
+		"community_hub_visible"		"1"
+		"gameid"		"1797880"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1774"
+			"2"		"1662"
+			"3"		"3859"
+			"4"		"19"
+			"5"		"128"
+			"6"		"176981"
+			"7"		"5765"
+			"8"		"3814"
+			"9"		"1663"
+			"10"		"1775"
+			"11"		"353880"
+			"12"		"1697"
+			"13"		"1695"
+			"14"		"4191"
+			"15"		"3835"
+			"16"		"1678"
+			"17"		"3810"
+			"18"		"7481"
+			"19"		"1659"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"NetEase Games"
+		"publisher"		"NetEase Games"
+		"homepage"		"https://www.lostlight.game/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Lost Light"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher.exe"
+				"workingdir"		".\\Engine\\Binaries\\Win64"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1797881"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5274554962713175429"
+					"size"		"17751948534"
+					"download"		"13388764896"
+				}
+			}
+		}
+		"1797882"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5869776299568153781"
+					"size"		"17751948534"
+					"download"		"13388654224"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12174679"
+				"timeupdated"		"1694576577"
+			}
+		}
+	}
+}
