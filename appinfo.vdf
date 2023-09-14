@@ -1,0 +1,115 @@
+"appinfo"
+{
+	"appid"		"1656020"
+	"common"
+	{
+		"name"		"Mortal Rite Playtest"
+		"type"		"Beta"
+		"parent"		"1655990"
+		"logo"		"316d758b42025bbaea20b70f09805eadefe86bf6"
+		"logo_small"		"316d758b42025bbaea20b70f09805eadefe86bf6_thumb"
+		"icon"		"881534b6fc27a76de3900f52d1020a83ae5107f6"
+		"clienticon"		"5023938a886b593f6045acaf28a8329e372cba0f"
+		"clienttga"		"a2fcfd833caee31427b8ba40ea89b7db0fc8a0f0"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.466605672461128"
+				"height_pct"		"54.86111111111111"
+			}
+		}
+		"store_asset_mtime"		"1628884315"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1644997391"
+		"community_hub_visible"		"1"
+		"gameid"		"1656020"
+		"exfgls"		"1"
+		"review_score"		"7"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"betaforappid"		"1655990"
+		"playtest_type"		"0"
+	}
+	"config"
+	{
+		"installdir"		"Mortal Rite Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MortalRite.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1656021"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9214728352436377973"
+					"size"		"6429430169"
+					"download"		"5864960368"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10798915"
+				"timeupdated"		"1679092768"
+			}
+		}
+	}
+}
