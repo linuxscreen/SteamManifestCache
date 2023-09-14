@@ -1,0 +1,385 @@
+"appinfo"
+{
+	"appid"		"1110390"
+	"common"
+	{
+		"name"		"Unturned Dedicated Server"
+		"type"		"Tool"
+		"parent"		"304930"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"icon"		"be840104523d10c478f21e124c9d9e2d27a813c2"
+		"logo"		"58ed08441d8cb66ca66bf5580548bad587b6dc07"
+		"logo_small"		"58ed08441d8cb66ca66bf5580548bad587b6dc07_thumb"
+		"clienticon"		"7500f9e8568184afab30645d9fb0d18cdb4100fb"
+		"clienttga"		"1e85f215e662c98afe31ad93c693e25c2e4587bd"
+		"metacritic_name"		"Unturned - Dedicated Server"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"54.72578763127186"
+				"height_pct"		"74.92282118261696"
+			}
+		}
+		"store_asset_mtime"		"1574008711"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1561136400"
+		"gameid"		"1110390"
+		"exfgls"		"1"
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"config"
+	{
+		"installdir"		"U3DS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ServerHelper.bat"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ServerHelper.sh"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1110391"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2913397294033037939"
+					"size"		"1158619238"
+					"download"		"269676768"
+				}
+				"32bit-windows"
+				{
+					"gid"		"3816281254016971040"
+					"size"		"1240775021"
+					"download"		"262600080"
+				}
+				"preview"
+				{
+					"gid"		"1726752693724438981"
+					"size"		"1158620522"
+					"download"		"269675808"
+				}
+				"unity-2017.4"
+				{
+					"gid"		"7568905985975118755"
+					"size"		"921644938"
+					"download"		"77010208"
+				}
+				"unity-2018"
+				{
+					"gid"		"9065993161126347581"
+					"size"		"1128757574"
+					"download"		"228542592"
+				}
+				"unity-2019"
+				{
+					"gid"		"3283281044664133949"
+					"size"		"1199884611"
+					"download"		"227130032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private"
+				{
+					"gid"		"01B9FDC28F35117DF51A83F1F2AC4717"
+					"size"		"BA2C7F4085557E8D796524955B0446FB"
+					"download"		"DEBDB702E64C578D9DE667C6ECF0C7B3"
+				}
+			}
+		}
+		"1110392"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5295288166461528235"
+					"size"		"1141691988"
+					"download"		"261991712"
+				}
+				"32bit-windows"
+				{
+					"gid"		"6867738633377401980"
+					"size"		"1224024719"
+					"download"		"254411424"
+				}
+				"preview"
+				{
+					"gid"		"2499448588647086645"
+					"size"		"1141699570"
+					"download"		"261998512"
+				}
+				"unity-2017.4"
+				{
+					"gid"		"676864980440368611"
+					"size"		"940395942"
+					"download"		"82860064"
+				}
+				"unity-2018"
+				{
+					"gid"		"4299994285195357942"
+					"size"		"1203867849"
+					"download"		"271689616"
+				}
+				"unity-2019"
+				{
+					"gid"		"172481565019596423"
+					"size"		"1260475861"
+					"download"		"252495456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private"
+				{
+					"gid"		"7CB49E75E3A54A2AC2C79F36C4B25CC4"
+					"size"		"B5BE3954772AFD047707CF5C348D1B04"
+					"download"		"315F950CF649E594F3EBC085C7183575"
+				}
+			}
+		}
+		"1110393"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7990209460521072959"
+					"size"		"1587170955"
+					"download"		"1058174720"
+				}
+				"32bit-windows"
+				{
+					"gid"		"1848949077272997751"
+					"size"		"408238004"
+					"download"		"253609440"
+				}
+				"preview"
+				{
+					"gid"		"5253277447141986941"
+					"size"		"1587170955"
+					"download"		"1058174736"
+				}
+				"unity-2017.4"
+				{
+					"gid"		"5514188072839560067"
+					"size"		"836383564"
+					"download"		"631596576"
+				}
+				"unity-2018"
+				{
+					"gid"		"8575346071724065576"
+					"size"		"490125311"
+					"download"		"289628944"
+				}
+				"unity-2019"
+				{
+					"gid"		"2421966899929852642"
+					"size"		"330861616"
+					"download"		"175904880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private"
+				{
+					"gid"		"349F712591B4ED2B6C9E1072143654EA"
+					"size"		"ACBA9E579182900DF507AFEA2651DDBC"
+					"download"		"7623D7DF1CA1614CCBB34B7450D993D1"
+				}
+			}
+		}
+		"1110394"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2551892668099467558"
+					"size"		"5002223"
+					"download"		"198752"
+				}
+				"32bit-windows"
+				{
+					"gid"		"731620780830792646"
+					"size"		"3637984"
+					"download"		"150608"
+				}
+				"preview"
+				{
+					"gid"		"2551892668099467558"
+					"size"		"5002223"
+					"download"		"198752"
+				}
+				"unity-2017.4"
+				{
+					"gid"		"5328516740166862532"
+					"size"		"4591568"
+					"download"		"143872"
+				}
+				"unity-2018"
+				{
+					"gid"		"4435653943471569706"
+					"size"		"3690217"
+					"download"		"140832"
+				}
+				"unity-2019"
+				{
+					"gid"		"5002266391304071192"
+					"size"		"3622964"
+					"download"		"148928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private"
+				{
+					"gid"		"DCFB9B35BF1499C3E218488C7336C514"
+					"size"		"6F3ECC0762CB2A4F15B4A2DEC918CEC7"
+					"download"		"A53CD0772A27E2C50C376D13FFAF42C3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11815168"
+				"timeupdated"		"1690578642"
+			}
+			"32bit-windows"
+			{
+				"buildid"		"9342957"
+				"description"		"Archived compatibility version 3.22.14.2"
+				"timeupdated"		"1660856942"
+			}
+			"preview"
+			{
+				"buildid"		"11815442"
+				"description"		"Public test branch"
+				"timeupdated"		"1690580797"
+			}
+			"private"
+			{
+				"buildid"		"12015571"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692814972"
+			}
+			"unity-2017.4"
+			{
+				"buildid"		"4297942"
+				"description"		"Archived compatibility version 3.19.15.0"
+				"timeupdated"		"1571413238"
+			}
+			"unity-2018"
+			{
+				"buildid"		"5784272"
+				"description"		"Archived compatibility version 3.20.13.2"
+				"timeupdated"		"1605292945"
+			}
+			"unity-2019"
+			{
+				"buildid"		"8781058"
+				"description"		"Archived compatibility version 3.22.10.1"
+				"timeupdated"		"1654268889"
+			}
+		}
+	}
+}
