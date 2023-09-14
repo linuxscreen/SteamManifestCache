@@ -1,0 +1,255 @@
+"appinfo"
+{
+	"appid"		"896660"
+	"common"
+	{
+		"name"		"Valheim Dedicated Server"
+		"type"		"Tool"
+		"parent"		"892970"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"icon"		"1aab0586723c8578c7990ced7d443568649d0df2"
+		"logo"		"233d73a1c963515ee4a9b59507bc093d85a4e2dc"
+		"logo_small"		"233d73a1c963515ee4a9b59507bc093d85a4e2dc_thumb"
+		"clienticon"		"c55a6b50b170ac6ed56cf90521273c30dccb5f12"
+		"clienttga"		"35e067b9efc8d03a9f1cdfb087fac4b970a48daf"
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"gameid"		"896660"
+	}
+	"config"
+	{
+		"installdir"		"Valheim dedicated server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"start_server_xterm.sh"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"1"
+			{
+				"executable"		"start_headless_server.bat"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"896661"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3933863631502163895"
+					"size"		"1442161359"
+					"download"		"873235760"
+				}
+				"default_old"
+				{
+					"gid"		"2499143936238011131"
+					"size"		"1328910930"
+					"download"		"779432032"
+				}
+				"default_preml"
+				{
+					"gid"		"8268016382865288156"
+					"size"		"1244390550"
+					"download"		"635138656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"83035DCEA971F7EA80E4DACCE38C4CC6"
+					"size"		"A473F73284539AB68EED2CA4BE112D84"
+					"download"		"EF253420C6C16035C5E4428DCBAB942D"
+				}
+				"internal-test"
+				{
+					"gid"		"63D0657742C6490D555D29638A504915"
+					"size"		"9D883E743B7E6DC4850BFF9F1E0339D0"
+					"download"		"B9E25AD66F10B9419042CDA09C866F12"
+				}
+				"public-test"
+				{
+					"gid"		"21B76BA03CFC0FA3A4EAAFE9B980C8CE"
+					"size"		"C3680A75BEE28C246CE60A9FCA981D3F"
+					"download"		"16798EFEAF4B0C075DD76402985233EE"
+				}
+				"unstable"
+				{
+					"gid"		"032C69F55993D6FC0A0C6C5144B4B834"
+					"size"		"2ACB8C8EFE5E93115B3E961C1F2DCD66"
+					"download"		"E713553234B49EAE0DEBD690BCABF7D2"
+				}
+			}
+		}
+		"896662"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9087896476348609709"
+					"size"		"1327111441"
+					"download"		"857245360"
+				}
+				"default_old"
+				{
+					"gid"		"1599162714800152718"
+					"size"		"1213860601"
+					"download"		"763391360"
+				}
+				"default_preml"
+				{
+					"gid"		"8025727395264739055"
+					"size"		"1129626358"
+					"download"		"618615808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"C81B7B45A6E4C1A0039073F719BCA3AE"
+					"size"		"57DE699796125E48F68A39C747AFFB1C"
+					"download"		"B08BC151E23A24E430AD2444BAABC878"
+				}
+				"internal-test"
+				{
+					"gid"		"6DC98809CC049662A17FCA1886165184"
+					"size"		"741A5315CCF69F7532EF9A9B8D471967"
+					"download"		"094A39198AC985BE1382489BBE1C9BA9"
+				}
+				"public-test"
+				{
+					"gid"		"8863CB126BD070E4D6B30FCC270526E1"
+					"size"		"CD76FEDBA3AFE4D3FA6622D7D119EEE4"
+					"download"		"B7266D7024625E13D4BA6E359A9EE8B7"
+				}
+				"unstable"
+				{
+					"gid"		"CD8C65F1B39BE9673D7F7EC19F4ED82B"
+					"size"		"3874446C6CE091E1CB969F2961477768"
+					"download"		"1208738B2151F57AD43EBDF114759AB0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11978870"
+				"timeupdated"		"1692705630"
+			}
+			"default_old"
+			{
+				"buildid"		"11422041"
+				"description"		"Previous stable"
+				"timeupdated"		"1692705573"
+			}
+			"default_preml"
+			{
+				"buildid"		"9792153"
+				"description"		"Last stable build before Mistlands"
+				"timeupdated"		"1671524488"
+			}
+			"experimental"
+			{
+				"buildid"		"11899771"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691569003"
+			}
+			"internal-test"
+			{
+				"buildid"		"12142348"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694432800"
+			}
+			"public-test"
+			{
+				"buildid"		"11978870"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692619015"
+			}
+			"unstable"
+			{
+				"buildid"		"12141834"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694176022"
+			}
+		}
+	}
+}
