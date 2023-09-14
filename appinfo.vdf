@@ -1,0 +1,256 @@
+"appinfo"
+{
+	"appid"		"1572080"
+	"common"
+	{
+		"name"		"HomeWind"
+		"type"		"Game"
+		"logo"		"726c95efd292d22ec54e2c5e02d1061c79e839d4"
+		"logo_small"		"726c95efd292d22ec54e2c5e02d1061c79e839d4_thumb"
+		"icon"		"e65a2f8502a84fa2a0df10f49b37ca910bc26b74"
+		"clienttga"		"98ae0fe4fff1e6b74e787d2bc758bc55c07582b1"
+		"clienticon"		"a113c08b4a4c7eeadb8757dafb7ebd775bdcabaa"
+		"clienticns"		"8ebb73f0b7d38b47802f0df8c819bea134976f2e"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"96.16279069767438"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1670420934"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Adi Zhavo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Adi Zhavo"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Adi Zhavo"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1646934844"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1572080"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4328"
+			"1"		"4094"
+			"2"		"9"
+			"3"		"1654"
+			"4"		"4726"
+			"5"		"3810"
+			"6"		"597"
+			"7"		"4172"
+			"8"		"599"
+			"9"		"5125"
+			"10"		"6815"
+			"11"		"1643"
+			"12"		"4166"
+			"13"		"4182"
+			"14"		"113"
+			"15"		"5350"
+			"16"		"8945"
+			"17"		"3871"
+			"18"		"3834"
+			"19"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Adi Zhavo"
+		"publisher"		"Adi Zhavo"
+		"isfreeapp"		"1"
+		"listofdlc"		"1950480"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"HomeWind"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Homewind/Home Wind.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Homewind.app/Contents/MacOS/Home Wind"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"1572083"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1000838531123726986"
+					"size"		"152029529"
+					"download"		"68205600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"homewindunlock"
+				{
+					"gid"		"F7E65FF4881E7A7DE0D909F5DAC9A49C"
+					"size"		"13855D7C37A84A28ADA48C3264E5459C"
+					"download"		"CAE9A2F56B6F20CC4482BE775FD6BD00"
+				}
+			}
+		}
+		"1572082"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5233435416538187267"
+					"size"		"175154853"
+					"download"		"75113856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"homewindunlock"
+				{
+					"gid"		"03C84100BDE3F810EBBDA24509E8240C"
+					"size"		"4161CDA7CD71AA24A74C50CD8E96A6BB"
+					"download"		"A6046ED6D8E906B1F5729AA1721A3B9E"
+				}
+			}
+		}
+		"1950480"
+		{
+			"dlcappid"		"1950480"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7832401812906920788"
+					"size"		"152029017"
+					"download"		"68209328"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8446404"
+				"timeupdated"		"1648379418"
+			}
+			"homewindunlock"
+			{
+				"buildid"		"8446338"
+				"pwdrequired"		"1"
+				"timeupdated"		"1648377076"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Adi Zhavo/Home Wind"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
