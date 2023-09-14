@@ -1,0 +1,692 @@
+"appinfo"
+{
+	"appid"		"397900"
+	"common"
+	{
+		"name"		"Business Tour - Online Multiplayer Board Game"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"logo"		"e4cd3223c4e966478656397ed9ca52150832ee29"
+		"logo_small"		"e4cd3223c4e966478656397ed9ca52150832ee29_thumb"
+		"clienticon"		"caaedd45a92f04ecfe546d3f88bc2bd8e66accfa"
+		"clienttga"		"75f385ddc0361511b47edcb96c3e86e959c41d5b"
+		"icon"		"b6ce52a576e99f54c5d18f675540b9c3ee70ed47"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"portuguese"		"1"
+			"finnish"		"1"
+			"turkish"		"1"
+			"arabic"		"1"
+			"brazilian"		"1"
+		}
+		"releasestate"		"released"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticns"		"d0d73ff233c4e2e67bd0019c1027c7474f1c15c6"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1643846400"
+			"tested_build_id"		"7777923"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+			}
+		}
+		"market_presence"		"1"
+		"metacritic_name"		"Business Tour"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.186602870813402"
+				"height_pct"		"78.27254066003472"
+			}
+		}
+		"store_asset_mtime"		"1692183916"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"8Floor"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"8Floor"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+			"5"		"28"
+			"6"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_25"		"1"
+			"category_35"		"1"
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_27"		"1"
+			"category_33"		"1"
+			"category_44"		"1"
+			"category_49"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1501138800"
+		"steam_release_date"		"1501138800"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"397900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1770"
+			"1"		"113"
+			"2"		"3859"
+			"3"		"9"
+			"4"		"597"
+			"5"		"128"
+			"6"		"492"
+			"7"		"1685"
+			"8"		"4845"
+			"9"		"4136"
+			"10"		"3843"
+			"11"		"12472"
+			"12"		"5350"
+			"13"		"21"
+			"14"		"4182"
+			"15"		"599"
+			"16"		"4202"
+			"17"		"17389"
+			"18"		"1721"
+			"19"		"1719"
+		}
+		"review_score"		"5"
+		"review_percentage"		"61"
+	}
+	"extended"
+	{
+		"developer"		"8Floor"
+		"publisher"		"8Floor"
+		"homepage"		"https://www.facebook.com/businesstourgame/"
+		"isfreeapp"		"1"
+		"listofdlc"		"511840,716790,797240,819240,842000,862610,865210,880350,880351,893700,906060,915590,915591,1024050,2305850,2305860"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Business Tour"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BusinessTour.exe"
+				"arguments"		"-logFile output_log.txt"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"BusinessTour.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2070748023"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		""
+				"use_action_block"		"false"
+			}
+			"2782988195"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,swedish,hungarian,czech,romanian,turkish,brazilian,ukrainian,vietnamese"
+		"397901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9005720889465884556"
+					"size"		"320841034"
+					"download"		"202867104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"all_items_unlocked"
+				{
+					"gid"		"A4996B57AF2A6613ABAF53FC18F86A97"
+					"size"		"D8FA470B0C6028E751FDF91A04D15370"
+					"download"		"86C290BEB54D254F534DCDBFB3DA0F21"
+				}
+				"bugfix_test"
+				{
+					"gid"		"E5BB7646BFB27E1F034FD7EBFC743BCD"
+					"size"		"78A3979B818C5D378EEC3A42B30C2124"
+					"download"		"2C3141E0471EDA45327C4499CD45D6C0"
+				}
+				"characters_test"
+				{
+					"gid"		"C797DF4C36391F1199B2774BDC65D3EB"
+					"size"		"49EAF132BE8DA5044FD48461F30B3C99"
+					"download"		"B8767BAC5F68517EA195B548823AC83E"
+				}
+				"cheats"
+				{
+					"gid"		"F1599017BC15608BCD88BFD685100B7F"
+					"size"		"A91A8B6146ABCDE47083D3FFC3F6C670"
+					"download"		"FB98FB8230BE8F7F312AE41B91299AE5"
+				}
+				"develop_test"
+				{
+					"gid"		"B2B5573A79662EBFDB42B86AAF432D87"
+					"size"		"F51629F6BA5FD21FB8BBD411B565A665"
+					"download"		"89A40E0595585F2027BFD714830A2620"
+				}
+				"fantasy_map_develop"
+				{
+					"gid"		"C51799D53A34B810DEF815F73380029A"
+					"size"		"5C88CBE2BC797C0C21DB1E97E555EC1F"
+					"download"		"21FD21AA5DA47F010C5AA7130514CF70"
+				}
+				"fantasy_map_testing"
+				{
+					"gid"		"75952413D352F51149A8246E104103FD"
+					"size"		"EA440A5CB794F005FA2CC11D8F8B6266"
+					"download"		"42DC8487AB2DB21830E7236B26821348"
+				}
+				"gamapad_testing"
+				{
+					"gid"		"CE753FD822F4F2BC8B7A8FE638AEB3CD"
+					"size"		"E76FB8EFA42860622F6627FAD360EB9C"
+					"download"		"A8CA8816A3911831280626FF1C1106FD"
+				}
+				"gamepad_rebase"
+				{
+					"gid"		"48210ADB77673F3166EBE4614576108A"
+					"size"		"AD3C0346B5E2F0AAA64CCBBEA2D3A8A4"
+					"download"		"A93311CF0EE0919EB8DC7D7D82FC2007"
+				}
+				"macoscrash_test"
+				{
+					"gid"		"B6C6086084199192E05912566D871522"
+					"size"		"D00B7FA08EDC80F5FD331636BB81BB44"
+					"download"		"472A2CDD43515C22F6403BB0AD9C1DC0"
+				}
+				"open_beta"
+				{
+					"gid"		"E5CBF85462379C1C20B2EA9DE10ED016"
+					"size"		"86E2E66E8B6AA45CB39E8B9D61706898"
+					"download"		"536EDBA866618165316B7A2352E9EEA0"
+				}
+				"private_beta_2.0"
+				{
+					"gid"		"047B4964629CC10AB48645B393844F0F"
+					"size"		"444AE07047CEAB54392DE8957ECF2367"
+					"download"		"5B0CE969E4CDF6C1D00D966F6B48DB22"
+				}
+				"qa_testing"
+				{
+					"gid"		"7DF15FDF99749961B25D15F84F2A57EA"
+					"size"		"A4AC8B50D8A133F4F09632ABBA9A9541"
+					"download"		"2960C38170F1D44FE432C40AD546FCD8"
+				}
+				"qa_testing_alternative"
+				{
+					"gid"		"6BEAE1B038B6F7B7C233D1C3A1FBFAD0"
+					"size"		"06E847F817AF849833A08C55D8C86E67"
+					"download"		"BA6865616465ECD138D5246600C37B28"
+				}
+				"steam_invite_test"
+				{
+					"gid"		"67BBDF2253CD2073195977214DE760E9"
+					"size"		"9DBB1BD066E40B82A3BEED85C98AC24A"
+					"download"		"18D8508712AEB20BA4256F761C3E907D"
+				}
+				"tournament_dev_editor"
+				{
+					"gid"		"4750BE8B501F07C30B43CD1E62E43E4D"
+					"size"		"D7A6D91E0C0B147BE62424B4F61DF9E6"
+					"download"		"292313BA9DACF9728B3613BC0A21A46E"
+				}
+			}
+		}
+		"397902"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5602769344987622769"
+					"size"		"455866841"
+					"download"		"214457648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"all_items_unlocked"
+				{
+					"gid"		"C2ACA1B8480ED03AF43D78B6D8BC5029"
+					"size"		"97C83848CB4AFE5FD2F111969E813C78"
+					"download"		"B2791AEF3D224C8DD80F98E3B1D0ECBC"
+				}
+				"bugfix_test"
+				{
+					"gid"		"DB9A8CCB8025B87A39D06F0A1212E894"
+					"size"		"AE4B04AA509FE5CDC88FC18BCA05EC8F"
+					"download"		"720C1EA3C2ACB0641BB4A5FC947D3EA1"
+				}
+				"characters_test"
+				{
+					"gid"		"6B64CC1BC7C0B02B2D382C4FCC7470BB"
+					"size"		"49EAF132BE8DA5044FD48461F30B3C99"
+					"download"		"BB5D84EE760CC7B14261AD09FFC9EB7D"
+				}
+				"cheats"
+				{
+					"gid"		"C39511FE3FC2A6143F2B63C645EAEB77"
+					"size"		"DE5DA87540FE3D06BE608B07BD8B0375"
+					"download"		"C94A308E975E7A91639431F9144F3991"
+				}
+				"develop_test"
+				{
+					"gid"		"B71873DD1A0D77574850892163066C7D"
+					"size"		"1AAE875C4FC22CB861EC09BD54F09B01"
+					"download"		"94D3633890575FDB44CF6C85821503F8"
+				}
+				"fantasy_map_develop"
+				{
+					"gid"		"E0A694269B32567C82ED05B53CB498DD"
+					"size"		"58E07360DC126D62C3589C25F3EA2F74"
+					"download"		"D15BCF105A1907729201D2D5F2D6D9DC"
+				}
+				"fantasy_map_testing"
+				{
+					"gid"		"12A111256A32A1BD454421B323C1D76E"
+					"size"		"090DBCFF81031AC9DEF49B2671AB475B"
+					"download"		"399FD211C90FF1A05B9004BBAFAFF960"
+				}
+				"gamapad_testing"
+				{
+					"gid"		"72A11B82EF2E707D5B0AA8F16E1B3697"
+					"size"		"6F502C05654856D502B195BD4A8190D1"
+					"download"		"D6C9BAE056E3C4F2F8F339174305BDBD"
+				}
+				"gamepad_rebase"
+				{
+					"gid"		"CDCBD6B94534CB85DFF114161ACEFA1F"
+					"size"		"F54981370FCA4A1C11A494ECC9D50A7D"
+					"download"		"39F69D42967B9901656572FC75D98C92"
+				}
+				"macoscrash_test"
+				{
+					"gid"		"87BB67A6622309B70617F158C3715C3B"
+					"size"		"D76EB190E05BF992B5EF05E76CE41FFC"
+					"download"		"427EFAC0B992AC257A031C9211247D6B"
+				}
+				"open_beta"
+				{
+					"gid"		"CE882227150A5132B0BC4E4F943D73AA"
+					"size"		"04C4CEC6A7958838682DE1B57F4757D1"
+					"download"		"CA358465837099319564698885572569"
+				}
+				"private_beta_2.0"
+				{
+					"gid"		"CED07FC8C2ADAA9410418AA7AF460420"
+					"size"		"FD8D10F67B67403A805F6CBC78ECA33D"
+					"download"		"082BF63D6AB9A18EE8115EE98E15083C"
+				}
+				"qa_testing"
+				{
+					"gid"		"CF2DD2B76B7A350654AADD8032A90AE9"
+					"size"		"AACB2C4ABB0146CBB4C9C7EF5EC07A4B"
+					"download"		"DCC31ADCA5BCBBA82687AED2327D0DA4"
+				}
+				"qa_testing_alternative"
+				{
+					"gid"		"CC072A01DD6495BEBE7AF9C3F30F464C"
+					"size"		"6D53C310D9547037459E33255E5F9796"
+					"download"		"8A23E159CB2DF6B6D2E2F1D2D9751F1C"
+				}
+				"steam_invite_test"
+				{
+					"gid"		"22CD79E20720442CFAE8B4A5F749A170"
+					"size"		"7FC0120A830DB59A30D6D6B5F79903A7"
+					"download"		"C9E1E6B4E27EBD8DFA27DCA119A2584D"
+				}
+				"tournament_dev_editor"
+				{
+					"gid"		"C88DE1280510614E8892317B234575EE"
+					"size"		"3F4B36109D26AADA7B7B8C45F66E23CD"
+					"download"		"062D99B23829EDC8D876A3D8187EAE34"
+				}
+			}
+		}
+		"workshopdepot"		"397900"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11945354"
+				"timeupdated"		"1692182380"
+			}
+			"all_items_unlocked"
+			{
+				"buildid"		"11901104"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691576646"
+			}
+			"bugfix_test"
+			{
+				"buildid"		"11945354"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692099991"
+			}
+			"characters_test"
+			{
+				"buildid"		"5885494"
+				"pwdrequired"		"1"
+				"timeupdated"		"1606388873"
+			}
+			"cheats"
+			{
+				"buildid"		"7573261"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634808819"
+			}
+			"develop_test"
+			{
+				"buildid"		"12161422"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694453614"
+			}
+			"fantasy_map_develop"
+			{
+				"buildid"		"6656872"
+				"pwdrequired"		"1"
+				"timeupdated"		"1620292818"
+			}
+			"fantasy_map_testing"
+			{
+				"buildid"		"6569559"
+				"pwdrequired"		"1"
+				"timeupdated"		"1618912840"
+			}
+			"gamapad_testing"
+			{
+				"buildid"		"6206839"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612791846"
+			}
+			"gamepad_rebase"
+			{
+				"buildid"		"5649386"
+				"pwdrequired"		"1"
+				"timeupdated"		"1602076115"
+			}
+			"macoscrash_test"
+			{
+				"buildid"		"6878650"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623843986"
+			}
+			"open_beta"
+			{
+				"buildid"		"6410521"
+				"pwdrequired"		"1"
+				"timeupdated"		"1616417980"
+			}
+			"private_beta_2.0"
+			{
+				"buildid"		"5754793"
+				"pwdrequired"		"1"
+				"timeupdated"		"1603972955"
+			}
+			"qa_testing"
+			{
+				"buildid"		"11974643"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692358721"
+			}
+			"qa_testing_alternative"
+			{
+				"buildid"		"11631641"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688568351"
+			}
+			"steam_invite_test"
+			{
+				"buildid"		"5715681"
+				"pwdrequired"		"1"
+				"timeupdated"		"1603286794"
+			}
+			"tournament_dev_editor"
+			{
+				"buildid"		"11783387"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690294758"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1073741824"
+		"maxnumfiles"		"20"
+	}
+}
