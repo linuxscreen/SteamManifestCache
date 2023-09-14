@@ -1,0 +1,177 @@
+"appinfo"
+{
+	"appid"		"1940370"
+	"common"
+	{
+		"name"		"Lonely Knight"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"1edff38d53096f5e21b81a7b66d081e637389708"
+		"clienttga"		"fbbdb1883fb3fe70b05d623f586ebd2e02479241"
+		"clienticon"		"1c1e4778be98617b425a2e7793b577249fa03b27"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1647888184"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The NR"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NR Studio"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1649232091"
+		"community_hub_visible"		"1"
+		"gameid"		"1940370"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"6506"
+			"3"		"4106"
+			"4"		"198631"
+			"5"		"4175"
+			"6"		"1697"
+			"7"		"7743"
+			"8"		"7926"
+			"9"		"4376"
+			"10"		"4604"
+			"11"		"4046"
+			"12"		"5608"
+			"13"		"3987"
+			"14"		"4057"
+			"15"		"4172"
+			"16"		"5716"
+			"17"		"3993"
+			"18"		"1646"
+			"19"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"The NR"
+		"publisher"		"NR Studio"
+		"homepage"		"https://www.nrstudio.me"
+	}
+	"config"
+	{
+		"installdir"		"WindowsNoEditor"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NRStudio.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"© Copyright NR Studio. All Rights Reserved"
+				}
+				"description"		"© Copyright NR Studio. All Rights Reserved"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1940371"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"789389155960794878"
+					"size"		"13320997449"
+					"download"		"7079793712"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8520882"
+				"timeupdated"		"1649403031"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"115"
+		"maxnumfiles"		"1"
+		"sync_while_suspended"		"1"
+	}
+}
