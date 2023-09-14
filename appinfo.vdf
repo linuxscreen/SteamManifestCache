@@ -1,0 +1,318 @@
+"appinfo"
+{
+	"appid"		"276060"
+	"common"
+	{
+		"name"		"Sven Co-op Dedicated Server"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"parent"		"225840"
+		"clienticon"		"6361d2a6f95216521bafb973d8b654568011f3a3"
+		"clienttga"		"b84db730bd1e2b327ed96f1865ebfcb5388c4c8b"
+		"icon"		"7f36820f3b964e15defb4bcfc66e750e1aee6228"
+		"clienticns"		"77642e9d3340d3a965d725e55979f3b7250d3339"
+		"logo"		"e4249ffb9357ac837f12dd84f1b101d59d7820bb"
+		"logo_small"		"e4249ffb9357ac837f12dd84f1b101d59d7820bb_thumb"
+		"associations"
+		{
+		}
+		"gameid"		"276060"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"gamedir"		"svencoop"
+		"serverbrowsername"		"Sven Co-op"
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=276060"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Sven Co-op Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"svends.exe"
+				"description"		"Launch Game Server"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"svends_run"
+				"description"		"Launch Game Server"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"svencoop/manual/index.html"
+				"description"		"Game Manual"
+				"type"		"manual"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"225841"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"120274866409892373"
+					"size"		"2454939996"
+					"download"		"1278477584"
+				}
+				"release_candidate_public"
+				{
+					"gid"		"120274866409892373"
+					"size"		"2454939996"
+					"download"		"1278477584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"D4D4F8A92C6B383281A9173C916F2774"
+					"size"		"081B22A661932063CBF9D315210F988C"
+					"download"		"3F3A8961B59AE4F98788F73686635474"
+				}
+				"release_candidate_community"
+				{
+					"gid"		"0507AF52FBF2EE3157295A78474F002E"
+					"size"		"F488262FDCAFD10635891AA75D5BA167"
+					"download"		"CFD0358FDD815F24F1CDDF8AECC2C927"
+				}
+			}
+			"depotfromapp"		"225840"
+		}
+		"276061"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8480196553589428899"
+					"size"		"55225646"
+					"download"		"20513600"
+				}
+				"release_candidate_public"
+				{
+					"gid"		"8480196553589428899"
+					"size"		"55225646"
+					"download"		"20513600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"687D4A30265F3E151D5EF51ED1931EAA"
+					"size"		"2B315267BE2A48F09DE03F421A5F2EF7"
+					"download"		"A323BE5E6DD30F9A63E6382E226A8D72"
+				}
+				"release_candidate_community"
+				{
+					"gid"		"7A292611E4C39B37AD1B896297A28A8F"
+					"size"		"2CC9105722D93C1DFC7E206F1DA5AD26"
+					"download"		"56CD49572E53B6FD7DC422902CC6FDCE"
+				}
+			}
+		}
+		"276062"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5267628371016219545"
+					"size"		"98380809"
+					"download"		"26436416"
+				}
+				"release_candidate_public"
+				{
+					"gid"		"5267628371016219545"
+					"size"		"98380809"
+					"download"		"26436416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"85B9841EF91CA52B7611C6F6062A2635"
+					"size"		"A545B4619A52936BC0A0DBF584F72AA0"
+					"download"		"A3694A9D0465CE6DE9AD8E398DC62BAA"
+				}
+				"release_candidate_community"
+				{
+					"gid"		"9534CDC27E37DA24D848FBCB377EBBF9"
+					"size"		"EBCA9A14D8DBDC23136A427D2B32C7E8"
+					"download"		"C3BD35EC42F936DA49DD2D796DDB26A9"
+				}
+			}
+		}
+		"276063"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7563803785096033014"
+					"size"		"5310825"
+					"download"		"1633360"
+				}
+				"release_candidate_public"
+				{
+					"gid"		"7563803785096033014"
+					"size"		"5310825"
+					"download"		"1633360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"CE7FA688620EFDE7EC9966388A321376"
+					"size"		"9A42209CDC6E9D7ED30A90B203D2B859"
+					"download"		"43C2B35F306B13DEEE75D277607A8CBE"
+				}
+				"release_candidate_community"
+				{
+					"gid"		"6B6A9DA3C768164AE9C830CACA8AA96C"
+					"size"		"089592AD13192E7D7B1B9BAFA0D18FE9"
+					"download"		"6F5E9CFF0A5D723D00DD31885C9E34AF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7342110"
+				"timeupdated"		"1631361424"
+			}
+			"release_candidate"
+			{
+				"buildid"		"12039441"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693058187"
+			}
+			"release_candidate_community"
+			{
+				"buildid"		"12039441"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693058202"
+			}
+			"release_candidate_public"
+			{
+				"buildid"		"7342110"
+				"description"		"Release candidate (public)"
+				"timeupdated"		"1631344254"
+			}
+		}
+	}
+}
