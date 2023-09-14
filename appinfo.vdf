@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"1092710"
+	"common"
+	{
+		"name"		"Hello Neighbor Alpha 1"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"fcb50a8de3669f8939702c0cb07bc277fa1aefef"
+		"logo_small"		"fcb50a8de3669f8939702c0cb07bc277fa1aefef_thumb"
+		"icon"		"1818a99f29d3e53022a2600ba5aac4c570af512e"
+		"clienticon"		"3514303aabf991244c9659da4a855927d420b80b"
+		"clienttga"		"6c1981c9e9978a9abc512e980b90826722c57c3e"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1650326400"
+			"tested_build_id"		"3865498"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Hello Neighbor Alpha 1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"37.771201415935195"
+				"height_pct"		"50.42040173535445"
+			}
+		}
+		"store_asset_mtime"		"1561019866"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dynamic Pixels"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"tinyBuild"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"tinyBuild"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Hello Neighbor"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1559804400"
+		"steam_release_date"		"1570883880"
+		"community_hub_visible"		"1"
+		"gameid"		"1092710"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4195"
+			"1"		"1667"
+			"2"		"3978"
+			"3"		"8369"
+			"4"		"5395"
+			"5"		"3810"
+			"6"		"4026"
+			"7"		"1687"
+			"8"		"3839"
+			"9"		"4191"
+			"10"		"1742"
+			"11"		"5613"
+			"12"		"1664"
+			"13"		"1710"
+			"14"		"19"
+			"15"		"5125"
+			"16"		"3968"
+			"17"		"4064"
+			"18"		"1714"
+			"19"		"5716"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Dynamic Pixels"
+		"publisher"		"tinyBuild"
+		"homepage"		"https://helloneighborgame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hello Neighbor Alpha 1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HelloNeighborReborn.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1092711"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1265849676249257849"
+					"size"		"1736788070"
+					"download"		"555463680"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3865498"
+				"timeupdated"		"1559062782"
+			}
+		}
+	}
+}
