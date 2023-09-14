@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"824240"
+	"common"
+	{
+		"name"		"Unfortunate Spacemen Dedicated Server"
+		"type"		"Tool"
+		"parent"		"408900"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"3242110be3b41234e8d5ed6e224d13b3c3a9e5e0"
+		"clienttga"		"6a4d4ad9f750891fc9ff8078728ed3d8850236a8"
+		"icon"		"1b195661a0eb26c6b51880bbfc14efdcfff0d470"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"824240_eula_0"
+				"name"		"Spacemen Dedicated Srv EULA"
+				"url"		"http://store.steampowered.com//eula/824240_eula_0"
+			}
+		}
+		"logo"		"316bb2e9c3e38f275c706e379b10e2028962d52c"
+		"logo_small"		"316bb2e9c3e38f275c706e379b10e2028962d52c_thumb"
+		"associations"
+		{
+		}
+		"gameid"		"824240"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"gamedir"		"UnfortunateSpacemen"
+		"serverbrowsername"		"U F"
+	}
+	"config"
+	{
+		"installdir"		"SpacemenServer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UnfortunateSpacemenServer.exe"
+				"arguments"		"-log"
+				"description"		"Dedicated Server for Unfortunate Spacemen"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"824244"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"92275206396506364"
+					"size"		"8804374838"
+					"download"		"6793102112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"97D97F93EF0A293FDD8739EDB17104E1"
+					"size"		"687EF0222EC785F01D53039B308A03BF"
+					"download"		"7B058697F1A23B95BA15227F36EFFA79"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8102310"
+				"timeupdated"		"1643428127"
+			}
+			"beta"
+			{
+				"buildid"		"8102310"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643343505"
+			}
+		}
+	}
+}
