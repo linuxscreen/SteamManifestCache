@@ -1,0 +1,237 @@
+"appinfo"
+{
+	"appid"		"920720"
+	"common"
+	{
+		"name"		"Last Oasis - Dedicated Server"
+		"type"		"Tool"
+		"parent"		"903950"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"2f69a51d8bae1b2ef232fd581d117f42593423b6"
+		"logo_small"		"2f69a51d8bae1b2ef232fd581d117f42593423b6_thumb"
+		"icon"		"77d0de7f7f808287b334ff34c3591f1f6f9b16fc"
+		"clienticon"		"b8ac6f3a5533070804d3264f48f11a0be14bf294"
+		"clienttga"		"3d94db27a0855769b2bd97cb9bdfea3d239b67e4"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1627563022"
+		"gameid"		"920720"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=920720"
+	}
+	"config"
+	{
+		"installdir"		"Last Oasis - Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MistServer.exe"
+				"arguments"		"-OpenFolder"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"920721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4235468552697095123"
+					"size"		"3744885409"
+					"download"		"732466784"
+				}
+				"classic"
+				{
+					"gid"		"1066263781797053033"
+					"size"		"5578105247"
+					"download"		"1024879328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"nightly"
+				{
+					"gid"		"17F59166DC0B3ED37823A223C88AFC9B"
+					"size"		"14CD71AA63325072795C8D4ADE1D133B"
+					"download"		"CC4983AA4FF98FA060B0A7CE91C2EE0C"
+				}
+				"profiling"
+				{
+					"gid"		"598E6D3D20C4E2ED7C4F3B21AB4B0023"
+					"size"		"DFEE6CD2935AC2B39324CA1C48DD5F03"
+					"download"		"F113971B4674EF55873F3967314DA046"
+				}
+				"staging"
+				{
+					"gid"		"F72B0709A5E4B1DA51AC1A673AAAD8DC"
+					"size"		"4F38A2D967EF09DB37337B7656D71B48"
+					"download"		"F168054468818119E9BA585292E49BA8"
+				}
+			}
+		}
+		"920722"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2662079354345910486"
+					"size"		"4081790300"
+					"download"		"741666368"
+				}
+				"classic"
+				{
+					"gid"		"1229449101651237669"
+					"size"		"5929391951"
+					"download"		"1043690416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"nightly"
+				{
+					"gid"		"018BFFF65B8AB1448625EEC5DC2530CE"
+					"size"		"895049A419280AA9DE057CB158EB1A06"
+					"download"		"A580CFB5902E23162F58BC477889E2AD"
+				}
+				"profiling"
+				{
+					"gid"		"DB0F7B68FCE586786274C52548A90676"
+					"size"		"49528E7C11D1A6BA5A07167EE723DA86"
+					"download"		"C500D4202661E7DC1060627DEFD2655F"
+				}
+				"staging"
+				{
+					"gid"		"8716ACE4A47A846F0D19C8212F07B2B0"
+					"size"		"6885E6D248FE3DBE9C221370CB05094E"
+					"download"		"7C9ACF184E6EF82ECB1D775854A2605E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10003499"
+				"timeupdated"		"1669246773"
+			}
+			"classic"
+			{
+				"buildid"		"9193201"
+				"description"		"Classic S4"
+				"timeupdated"		"1658846235"
+			}
+			"nightly"
+			{
+				"buildid"		"11000375"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681443257"
+			}
+			"profiling"
+			{
+				"buildid"		"8049305"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656941753"
+			}
+			"staging"
+			{
+				"buildid"		"9992817"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669131157"
+			}
+		}
+	}
+}
