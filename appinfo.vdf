@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"1376090"
+	"common"
+	{
+		"name"		"Darkness Eternal"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"d0b2590cb51117e8a3568ae09efc0379930b89c5"
+		"logo_small"		"d0b2590cb51117e8a3568ae09efc0379930b89c5_thumb"
+		"icon"		"6f06d4adf33fbfc17f0685481579b444e21096de"
+		"clienttga"		"5b92667f7a7c2840820fd7f0f9833b2a612553e5"
+		"clienticns"		"3d05b9b364f58a8d6a1697d97ecb8646c57efe96"
+		"linuxclienticon"		"3d05b9b364f58a8d6a1697d97ecb8646c57efe96"
+		"clienticon"		"d9902664f97aa268642805601db83402dfb6ea99"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"58.094100819405526"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1605160522"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dyslexia Untied"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kimberly Bradley"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1596802633"
+		"community_hub_visible"		"1"
+		"gameid"		"1376090"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"9"
+			"2"		"1643"
+			"3"		"1645"
+			"4"		"4191"
+			"5"		"4791"
+			"6"		"4604"
+			"7"		"113"
+			"8"		"4172"
+			"9"		"1659"
+			"10"		"492"
+			"11"		"6730"
+			"12"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Dyslexia Untied"
+		"publisher"		"Kimberly Bradley"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"windows_content"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dyslexia_Untied"
+				"arguments"		"none"
+				"workingdir"		"none"
+				"description"		"none"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"none"
+					"ownsdlc"		"none"
+				}
+			}
+		}
+		"noupdatesafterinstall"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6645201662696499616"
+					"size"		"29212173"
+					"download"		"22411856"
+				}
+			}
+			"depotfromapp"		"228980"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1829726630299308803"
+					"size"		"102931551"
+					"download"		"100658080"
+				}
+			}
+			"depotfromapp"		"228980"
+		}
+		"baselanguages"		"english"
+		"1376091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1531835495665680185"
+					"size"		"831322749"
+					"download"		"246930816"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5317126"
+				"timeupdated"		"1606448529"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
