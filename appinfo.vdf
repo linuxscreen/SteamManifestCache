@@ -1,0 +1,389 @@
+"appinfo"
+{
+	"appid"		"2203230"
+	"common"
+	{
+		"name"		"OCTOPATH TRAVELER II Prologue Demo"
+		"type"		"Demo"
+		"parent"		"1971650"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"OCTOPATH TRAVELER II Prologue Demo"
+			"german"		"OCTOPATH TRAVELER II Prologue Demo"
+			"italian"		"OCTOPATH TRAVELER II Prologue Demo"
+			"spanish"		"OCTOPATH TRAVELER II Prologue Demo"
+			"schinese"		"歧路旅人 II 序章体验版"
+			"tchinese"		"歧路旅人 II 序章體驗版"
+			"french"		"OCTOPATH TRAVELER II Prologue Demo"
+			"koreana"		"옥토패스 트래블러 II 프롤로그 데모"
+			"japanese"		"オクトパストラベラー Ⅱ Prologue Demo"
+		}
+		"clienticon"		"a53020e7f1ec91561f7cbf819dfbb50269a55bf5"
+		"clienttga"		"b8317cf96b19226656803be7436a613cc99c9a63"
+		"icon"		"becf68460bb3809760afeae420e2d683b44a9c3a"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2203230_eula_0"
+				"name"		"OCTOPATH TRAVELER II Prologue Demo EULA"
+				"url"		"https://store.steampowered.com//eula/2203230_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1673000980"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Square Enix"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"ACQUIRE Corp."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Square Enix"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"OCTOPATH TRAVELER"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1675962024"
+		"gameid"		"2203230"
+	}
+	"extended"
+	{
+		"demoofappid"		"1971650"
+		"developer"		"Square Enix"
+		"publisher"		"Square Enix"
+		"homepage"		"https://octopathtraveler2.square-enix-games.com/en-us/"
+	}
+	"config"
+	{
+		"installdir"		"Octopath_Traveler2_DEMO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2.exe"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"dev-qa-release"
+				}
+				"description_loc"
+				{
+					"english"		"dev launch only"
+				}
+				"description"		"dev launch only"
+			}
+			"2"
+			{
+				"executable"		"Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2-Win64-Shipping.exe"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"ship-qa-release,ship-temporary"
+				}
+				"description_loc"
+				{
+					"english"		"ship launch only"
+				}
+				"description"		"ship launch only"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"7"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2916273793"
+			{
+				"controller_type"		"controller_ps5"
+				"enabled_branches"		"default,dev-qa-release,ship-qa-release"
+				"use_action_block"		"false"
+			}
+			"2916273307"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,dev-qa-release,ship-qa-release"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2203231"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4962657197554508824"
+					"size"		"4714820973"
+					"download"		"4265833792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-qa-release"
+				{
+					"gid"		"EE2D9A4B65626F11911E05001F98862A"
+					"size"		"C87BFCB9617C859F66981969A551B179"
+					"download"		"B7D64A10DA0B7BD641F7A8F7686951AA"
+				}
+				"ship-qa-release"
+				{
+					"gid"		"5E38D4D1AFC188147520414EE4BF1BFF"
+					"size"		"AA4CADF35923F76BC98FA249370CC58C"
+					"download"		"F3F2CA54016471C83A74900363DF32E3"
+				}
+				"ship-temporary"
+				{
+					"gid"		"29A5B659AE12CBAC61FC90DD8FC90BC7"
+					"size"		"E2721B2DA82F871EEA413D1C4D7C46CC"
+					"download"		"A149A3B9680B4D9D08924AFB51DFF296"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10313630"
+				"timeupdated"		"1674660294"
+			}
+			"dev-qa-release"
+			{
+				"buildid"		"10324213"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673739356"
+			}
+			"ship-qa-release"
+			{
+				"buildid"		"10313630"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673858699"
+			}
+			"ship-temporary"
+			{
+				"buildid"		"10313630"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673596372"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"14"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/Octopath_Traveler2/Steam/{64BitSteamID}/SaveGames/"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"appidredirect"		"1971650"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status"		"Play Time %UP_TIME%"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#status"		"Verstrichene Zeit %UP_TIME%"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#status"		"Heures de jeu %UP_TIME%"
+				}
+			}
+			"italian"
+			{
+				"tokens"
+				{
+					"#status"		"Ore di gioco %UP_TIME%"
+				}
+			}
+			"koreana"
+			{
+				"tokens"
+				{
+					"#status"		"경과 시간 %UP_TIME%"
+				}
+			}
+			"spanish"
+			{
+				"tokens"
+				{
+					"#status"		"Horas jugadas %UP_TIME%"
+				}
+			}
+			"schinese"
+			{
+				"tokens"
+				{
+					"#status"		"游玩时间 %UP_TIME%"
+				}
+			}
+			"tchinese"
+			{
+				"tokens"
+				{
+					"#status"		"經過時間 %UP_TIME%"
+				}
+			}
+			"japanese"
+			{
+				"tokens"
+				{
+					"#status"		"経過時間 %UP_TIME%"
+				}
+			}
+		}
+	}
+}
