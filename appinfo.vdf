@@ -1,0 +1,166 @@
+"appinfo"
+{
+	"appid"		"1470110"
+	"common"
+	{
+		"name"		"Who's Your Daddy Playtest"
+		"type"		"Beta"
+		"parent"		"427730"
+		"releasestate"		"released"
+		"logo"		"40a47a3b854239184a529371a808cfe10ce89757"
+		"logo_small"		"40a47a3b854239184a529371a808cfe10ce89757_thumb"
+		"icon"		"0d1bd67f42303578544fb4c1dd0569707c36f848"
+		"clienticon"		"a297df5e58059f6425a00b2dc9d6ab313a60d04e"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"52.7906976744186"
+				"height_pct"		"58.96656725264589"
+			}
+		}
+		"store_asset_mtime"		"1605767880"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1608706403"
+		"community_hub_visible"		"1"
+		"gameid"		"1470110"
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"betaforappid"		"427730"
+		"playtest_type"		"1"
+	}
+	"config"
+	{
+		"installdir"		"WYD_Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WhosYourDaddy.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"WhosYourDaddy.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1470111"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6205802681315021307"
+					"size"		"9105983380"
+					"download"		"3472079088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"368A8BFB68FDA6F3C34E3465960BD3B3"
+					"size"		"D2232115B7317E89E2CCF8428B2D848C"
+					"download"		"B351D5C6F58ADC6BDC95F2C9CC8BB73A"
+				}
+				"experimental"
+				{
+					"gid"		"37A60F705495DEBA9F7CCB0B9DFECA99"
+					"size"		"E323DD64D432A8A143C24B61D576ED25"
+					"download"		"F14D1994545BE31EDCF8967E820E8ABC"
+				}
+			}
+		}
+		"1470113"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3458283477742644143"
+					"size"		"11646380014"
+					"download"		"3855937504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"1C58C8D37B4A267420C9B7EB6129F4C1"
+					"size"		"133BD72C0822FF45403292804A403051"
+					"download"		"7F88BAC989AF0D5B586521AC6636731F"
+				}
+				"experimental"
+				{
+					"gid"		"AE75E9CC34C6AAD53EC4446C6B2D4A27"
+					"size"		"96DCD3B74C4027CCEB831C27C6BB62B0"
+					"download"		"F54542FB672B9F24FF9F071F6D5B474D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11795885"
+				"timeupdated"		"1690565829"
+			}
+			"developer"
+			{
+				"buildid"		"11795885"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690405074"
+			}
+			"experimental"
+			{
+				"buildid"		"11795885"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690565818"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"10000"
+	}
+}
