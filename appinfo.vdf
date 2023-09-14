@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"1291100"
+	"common"
+	{
+		"name"		"Night Spasm"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"9a0a529267a4d89c14da940896cd78f5883f42d3"
+		"logo_small"		"9a0a529267a4d89c14da940896cd78f5883f42d3_thumb"
+		"icon"		"593569bad0c3e11689ccba97d9eee4ae16e19556"
+		"clienttga"		"1332a64fda2deab535a23d687214fc30c045cdb7"
+		"clienticon"		"432ca66cbb6159d13792601b4b9cab708af7ab1a"
+		"clienticns"		"432ca66cbb6159d13792601b4b9cab708af7ab1a"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"98.72093023255817"
+				"height_pct"		"51.89978627404418"
+			}
+		}
+		"store_asset_mtime"		"1684473373"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gideon Moes"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gideon Moes"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Night Spasm"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"FanFaction"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_30"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1589569200"
+		"community_hub_visible"		"1"
+		"gameid"		"1291100"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"122"
+			"2"		"9"
+			"3"		"21"
+			"4"		"19"
+			"5"		"1684"
+			"6"		"1702"
+			"7"		"3834"
+			"8"		"3835"
+			"9"		"4182"
+			"10"		"4791"
+			"11"		"7481"
+			"12"		"7569"
+			"13"		"1662"
+			"14"		"1695"
+			"15"		"1733"
+			"16"		"1742"
+			"17"		"1756"
+			"18"		"3854"
+			"19"		"3964"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Gideon Moes"
+		"publisher"		"Gideon Moes"
+		"homepage"		"https://www.nightspasm.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Night Spasm"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1291101"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7336343068846639284"
+					"size"		"7659976893"
+					"download"		"6442666896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4BC7DD0532618CD33A704D433C46A836"
+					"size"		"D5E82D941D250E7480E4273AEAF588AF"
+					"download"		"C6C2AF2858C2C1373C362290A0BADF50"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11249355"
+				"timeupdated"		"1684290279"
+			}
+			"beta"
+			{
+				"buildid"		"11798628"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690434622"
+			}
+		}
+	}
+}
