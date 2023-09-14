@@ -1,0 +1,578 @@
+"appinfo"
+{
+	"appid"		"380600"
+	"common"
+	{
+		"name"		"Fishing Planet"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"clienticon"		"5bd62780fe4b600b3b669c9a7fafe3604ba58148"
+		"clienttga"		"420c0889a12ad98cb4298c16f54f2f78fb618627"
+		"icon"		"df6785140de8c32f6baec7fd7fd74c5823459250"
+		"logo"		"2639bc322b618aecaaa5e4df18c993288e162de5"
+		"logo_small"		"2639bc322b618aecaaa5e4df18c993288e162de5_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"380600_eula_0"
+				"name"		"Fishing Planet EULA"
+				"url"		"http://store.steampowered.com//eula/380600_eula_0"
+				"version"		"3"
+			}
+		}
+		"controllervr"
+		{
+			"xinput"		"1"
+			"kbm"		"1"
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"dutch"		"1"
+			"ukrainian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1667001600"
+			"tested_build_id"		"9034654"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"1"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Fishing Planet"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32"
+				"height_pct"		"41"
+			}
+		}
+		"store_asset_mtime"		"1688989890"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fishing Planet LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fishing Planet LLC"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"29"
+			"1"		"28"
+			"2"		"18"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1439276400"
+		"steam_release_date"		"1503936120"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"380600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"15564"
+			"1"		"113"
+			"2"		"3859"
+			"3"		"599"
+			"4"		"701"
+			"5"		"1654"
+			"6"		"4175"
+			"7"		"128"
+			"8"		"3839"
+			"9"		"1685"
+			"10"		"1695"
+			"11"		"4182"
+			"12"		"3843"
+			"13"		"5350"
+			"14"		"21"
+			"15"		"597"
+			"16"		"21978"
+			"17"		"19"
+			"18"		"1663"
+			"19"		"1754"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Fishing Planet LLC"
+		"publisher"		"Fishing Planet LLC"
+		"homepage"		"http://www.fishingplanet.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"387150,391360,391370,413070,414790,421760,422470,422471,422472,422473,422474,423360,423361,423362,423363,423364,423365,423366,423367,423368,423369,496430,496431,496432,496433,496434,496435,496436,496437,496438,496439,591970,591971,591980,591981,591982,591983,591984,591985,591986,591987,730611,730612,730613,730614,730615,730616,730617,730618,730619,1000710,1000711,1000712,1000713,1000714,1000715,1000716,1000717,1000718,1000719,1200340,1200341,1200342,1200343"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Fishing Planet"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FishingPlanet.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"FishingPlanet.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"FishingPlanet.app"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"FishingPlanet.X86_64"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"4"
+			{
+				"executable"		"FishingPlanet.X86"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,russian,polish,dutch,brazilian,ukrainian"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"380601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1534972814997231776"
+					"size"		"6805925002"
+					"download"		"3873490000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"code"
+				{
+					"gid"		"982560EE6B47CE1EF2FE19F47602BB9A"
+					"size"		"007A202FFF748E0B063F0A5184680432"
+					"download"		"26BA28CFD6700C1539485CCD5A2B20E8"
+				}
+				"qa_branch"
+				{
+					"gid"		"87BFABA31BBDDCA1D9584D2D64B6F491"
+					"size"		"3C2AF1769E16A367AF7952951103D7D2"
+					"download"		"BD7BAB73AF90FE64DA97C0FE58BBC54A"
+				}
+				"qa_branch_with_log"
+				{
+					"gid"		"5B64410A77263DF1E47A8C51BB7C4FD1"
+					"size"		"8EA735978440F81D4185565660BD09E2"
+					"download"		"A89481E89A9B3FEA00D3BF799C7B5927"
+				}
+				"supertesterbranch"
+				{
+					"gid"		"79DDD74940241A320B6817E909452630"
+					"size"		"24179F7031FDCB4CA1460BDB1D7F707C"
+					"download"		"5055345DD91D64AEB5EFBFED76EC9851"
+				}
+			}
+		}
+		"380602"
+		{
+			"config"
+			{
+				"osarch"		"32"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7781249681908293810"
+					"size"		"6775407203"
+					"download"		"3866294656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"code"
+				{
+					"gid"		"4DD61493410C0F7EC5CB55893C75DB92"
+					"size"		"A887CEE0A7A33CD54D65C958574CFCBB"
+					"download"		"462838536E687E45AC2A3F1BD61E986B"
+				}
+				"qa_branch"
+				{
+					"gid"		"523A3C0527EFDC0D645D39232667E841"
+					"size"		"8C8CE2828E2438ED736467A50FFBDEB7"
+					"download"		"54D1B8676488362190DA8816C1D38584"
+				}
+				"qa_branch_with_log"
+				{
+					"gid"		"E680D6A04E6C0A90C4B26F9754D9F099"
+					"size"		"B523445D5B93B4E83DC3AB795F2FD5C1"
+					"download"		"48DB09B4E54BD60972097553826551E2"
+				}
+				"supertesterbranch"
+				{
+					"gid"		"2CA133DA4196BFC85AEF4562D9F93000"
+					"size"		"051FF9A761C2219321443AF16FCCCF15"
+					"download"		"C51B4B4E02D7920B867D639B9D0488A0"
+				}
+			}
+		}
+		"380603"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5636813501729270336"
+					"size"		"6930836003"
+					"download"		"3888188560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"code"
+				{
+					"gid"		"7A2A91CF818723F97A338EDEEBFC141E"
+					"size"		"9FE1265EE52BA4F9CD0CC235C2D93429"
+					"download"		"B53289D33075794EFA3204A866AB5C23"
+				}
+				"qa_branch"
+				{
+					"gid"		"81147A0BDA6F486A37BA189F6A5F09D1"
+					"size"		"8C0F4CEB0926799CE17F25A857EDD209"
+					"download"		"9CDC4C34EBF386C15A245D56E475B984"
+				}
+				"qa_branch_with_log"
+				{
+					"gid"		"63875446A18CB69BB11C138535972E19"
+					"size"		"9866D53E5545CF54BC4E9769C33B306C"
+					"download"		"02FD887B065791FB32C99013E7453454"
+				}
+				"supertesterbranch"
+				{
+					"gid"		"E4C92DFDCE7FAB55B96B1065E746E15B"
+					"size"		"C892173D04B78787CE5C51C5BCCEC12D"
+					"download"		"1F8B6FE2A25AD9BBD098A6D9386D0B7C"
+				}
+			}
+		}
+		"380604"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2087442748249446269"
+					"size"		"6890566651"
+					"download"		"3881616000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"code"
+				{
+					"gid"		"91396762AD046F47C4BDF1F556382A84"
+					"size"		"DF493036672DF0BC4A659230C2748A62"
+					"download"		"F0B35F7C84D1BFDB0DB7827E1EFD9486"
+				}
+				"qa_branch"
+				{
+					"gid"		"0DA9A8F4FCEC479F0546BFB6B063D96B"
+					"size"		"7B8496C266173C388916CBE0084CF394"
+					"download"		"F158A33300215DFFDE69E49EDFBD3305"
+				}
+				"qa_branch_with_log"
+				{
+					"gid"		"681E699679CB52274969C1514BEFEA49"
+					"size"		"C61105B6B8AA13A333897C2F1E4F92E1"
+					"download"		"341FD2A66D81B5E65B357659DC0A1043"
+				}
+				"supertesterbranch"
+				{
+					"gid"		"299A5B0829F7EA852ED269341489F62A"
+					"size"		"D0E9CF99F1B2CFFB54647400E833DECE"
+					"download"		"5833436893B43AEDBFDFE67C87328D80"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12134575"
+				"timeupdated"		"1694107982"
+			}
+			"code"
+			{
+				"buildid"		"10039878"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669735881"
+			}
+			"qa_branch"
+			{
+				"buildid"		"12160562"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694446204"
+			}
+			"qa_branch_with_log"
+			{
+				"buildid"		"12113777"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693923975"
+			}
+			"supertesterbranch"
+			{
+				"buildid"		"12059188"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693316252"
+			}
+		}
+	}
+}
