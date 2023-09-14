@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"1518190"
+	"common"
+	{
+		"name"		"Evil Mansion"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"邪馆"
+		}
+		"clienttga"		"ebf5ca46ae0bd422bcd5f667800ed9d0b851b063"
+		"clienticon"		"3f13d90bc270942a30b38b03f6ee11b600699874"
+		"icon"		"cc1685693f36e0dabbcf7e8963236361fe9dec98"
+		"logo"		"3f5e0f67f9c075ae7fe0ad6582f5cba7001bf572"
+		"logo_small"		"3f5e0f67f9c075ae7fe0ad6582f5cba7001bf572_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"18.690922730682672"
+				"height_pct"		"37.10717960896065"
+			}
+		}
+		"store_asset_mtime"		"1626760219"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ceeeb Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ceeeb Studio"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1616482800"
+		"steam_release_date"		"1616860500"
+		"community_hub_visible"		"1"
+		"gameid"		"1518190"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1775"
+			"2"		"122"
+			"3"		"10695"
+			"4"		"17305"
+			"5"		"3839"
+			"6"		"5613"
+			"7"		"4191"
+			"8"		"3871"
+			"9"		"4175"
+			"10"		"1687"
+			"11"		"4376"
+			"12"		"5794"
+			"13"		"5716"
+			"14"		"8369"
+			"15"		"3859"
+			"16"		"6691"
+			"17"		"493"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"gamedir"		"SCPMansion"
+		"serverbrowsername"		"SCPMansion"
+		"developer"		"Ceeeb Studio"
+		"publisher"		"Ceeeb Studio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MansionKiller"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor/MansionKiller.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1518191"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8176353809398366917"
+					"size"		"4663280885"
+					"download"		"1863866576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"F7AEF8D069972E6EBE4AD139FECB923D"
+					"size"		"2A7DD926A259119AA93B3A286DCA7E84"
+					"download"		"60A8A34DCE19B9946EC28F454739F220"
+				}
+			}
+		}
+		"1518192"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7183762"
+				"timeupdated"		"1628839618"
+			}
+			"test"
+			{
+				"buildid"		"7183762"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628839390"
+			}
+		}
+	}
+}
