@@ -1,0 +1,368 @@
+"appinfo"
+{
+	"appid"		"996560"
+	"common"
+	{
+		"name"		"SCP: Secret Laboratory Dedicated Server"
+		"type"		"Tool"
+		"parent"		"700330"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"icon"		"85c1c1fc51a8952bcc19bb1c4c3270cb20788f10"
+		"logo"		"257b3631eb822e18165d0b3ac8a0d19bea216fef"
+		"logo_small"		"257b3631eb822e18165d0b3ac8a0d19bea216fef_thumb"
+		"clienttga"		"192b20abe0007ee37a9c55be1f0242df66863725"
+		"clienticon"		"700f8fa16aae82fe0605806b6c44e4bb9701fc8d"
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"gameid"		"996560"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SCP Secret Laboratory Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LocalAdmin.exe"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"996561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6156285596939253470"
+					"size"		"730382578"
+					"download"		"322624816"
+				}
+				"early-server-build"
+				{
+					"gid"		"6156285596939253470"
+					"size"		"730382578"
+					"download"		"322624816"
+				}
+				"pluginapi-beta"
+				{
+					"gid"		"4496340679897500550"
+					"size"		"730552114"
+					"download"		"322662320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"audio-test"
+				{
+					"gid"		"E17664A9687009127D1B8DC45BD93C6C"
+					"size"		"84EFCCB8E0BEA250A30447216C164F98"
+					"download"		"A953EBA97D109AD84D7A6C516DB88331"
+				}
+				"goop"
+				{
+					"gid"		"65F66657129F9D6F7981CD646A3AA519"
+					"size"		"342841032883BE229922517562F77E01"
+					"download"		"C564E0A5FF06256BF5274EFC69CC2A39"
+				}
+				"mith-test"
+				{
+					"gid"		"961673CE73C3FFD0E695C8ED69692905"
+					"size"		"43E0236054BEA524496E55300B41E1EA"
+					"download"		"606EAC5B36820D00455EE7906C4A8FEF"
+				}
+				"mr-testing"
+				{
+					"gid"		"997DADA68058B228211F19E9C29B299F"
+					"size"		"F461AE4F01A265A492DCDC702E75A942"
+					"download"		"27817FE38CF1E7D016FA055903D402F7"
+				}
+				"mr-testing-2"
+				{
+					"gid"		"3932972185F44A2BC702006C1E3C0298"
+					"size"		"E5A55E8B747BE1A490D1CE8F2D267D70"
+					"download"		"E97AABF49909B5A1739328AD588FBDBD"
+				}
+				"nightly"
+				{
+					"gid"		"A191095003E3634A81E8A8618810C4C0"
+					"size"		"F239E5247D7E10849111F56DC19FB67A"
+					"download"		"B3A80A98B74511D1332CDE2D0F803823"
+				}
+				"qa-testing"
+				{
+					"gid"		"11F4D6EE903DB386A0A551DDCB4996B4"
+					"size"		"4B06D864464B7BB0956309A171E07F02"
+					"download"		"C568C2251FBEE18E32A614864F2E5185"
+				}
+				"tech"
+				{
+					"gid"		"E8B7B645BE0DCCEC3219B129BF548347"
+					"size"		"CC2405E77077268B31FAE8A477C66B07"
+					"download"		"45475EB4E1148B9E5170CB2C16744020"
+				}
+				"thomasjosif-test"
+				{
+					"gid"		"B35CA2DD02510C663021E6C31D43D90F"
+					"size"		"DF639300E8AF36169A06549F9D0D2BA8"
+					"download"		"46AFDC289812105FA54E80630E8D579F"
+				}
+			}
+		}
+		"996562"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6673097205188354699"
+					"size"		"559702720"
+					"download"		"149204144"
+				}
+				"early-server-build"
+				{
+					"gid"		"6673097205188354699"
+					"size"		"559702720"
+					"download"		"149204144"
+				}
+				"pluginapi-beta"
+				{
+					"gid"		"2669158276392828339"
+					"size"		"559813744"
+					"download"		"149238864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"audio-test"
+				{
+					"gid"		"F3384BB5F33C59E13108D4E1130D7A7F"
+					"size"		"5CF3E05C0B0FF319FD8B88BA960E7A1D"
+					"download"		"7279434924365D434FBDEEAC84265765"
+				}
+				"goop"
+				{
+					"gid"		"B83CCE0982F0936024C38355A2D8EE13"
+					"size"		"C59DB2B1590E695945E8A40E345CA0EF"
+					"download"		"A2E8E22FD569D8246DB22AC2409039B3"
+				}
+				"mith-test"
+				{
+					"gid"		"69CDB0D6E07FE710F5B3BF166034DEA2"
+					"size"		"AAB482BD8ABFFD1322F74C960AA635FD"
+					"download"		"5F58F787EF001BE66B9CC67370A30040"
+				}
+				"mr-testing"
+				{
+					"gid"		"76716C5205810DF98E27D6701E39E3FE"
+					"size"		"9A5CF9AC74BD6AFD0A5CEE0B766C9FD9"
+					"download"		"937087E3B5B97D375F05C4484B49D786"
+				}
+				"mr-testing-2"
+				{
+					"gid"		"0F7F523A61B0C14FF4932623D0D44A41"
+					"size"		"ECB4617A8BB157ED4EDD0C95384D3E2F"
+					"download"		"41F736DB803C073348BC92A9A5B05D7C"
+				}
+				"nightly"
+				{
+					"gid"		"A8F404A7197470A05B2A8522CA5D83A4"
+					"size"		"E3141930D39C902E6EFBB8465663D1B0"
+					"download"		"719826DB7B8711B35B3DC89A9CEB5496"
+				}
+				"qa-testing"
+				{
+					"gid"		"F6B0E878BA4DD89884795959E290029E"
+					"size"		"EAD6C63CE707246B0F4A4E7C82DA1971"
+					"download"		"332ED90DB6F8AA4C4C5D8BE496D625A1"
+				}
+				"tech"
+				{
+					"gid"		"C6CF09C2175115248DB4F8CF492EBB89"
+					"size"		"03E53DFAD63EEA3AD722338D0EC67479"
+					"download"		"78F5C775728F54B39D721BBF98737007"
+				}
+				"thomasjosif-test"
+				{
+					"gid"		"79590A955C4D6A73E43C1E3A1635871F"
+					"size"		"DC86B197175EAA853617EE3ABDC4B3E6"
+					"download"		"B00711D9AA3A6CB55D75BC15B02845E5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12118545"
+				"timeupdated"		"1694113192"
+			}
+			"audio-test"
+			{
+				"buildid"		"11793407"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690391215"
+			}
+			"early-server-build"
+			{
+				"buildid"		"12118545"
+				"description"		"Access to server builds before clients release"
+				"timeupdated"		"1694044955"
+			}
+			"goop"
+			{
+				"buildid"		"11733456"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689740248"
+			}
+			"mith-test"
+			{
+				"buildid"		"11932431"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691952996"
+			}
+			"mr-testing"
+			{
+				"buildid"		"12114417"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693929803"
+			}
+			"mr-testing-2"
+			{
+				"buildid"		"12165324"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694519622"
+			}
+			"nightly"
+			{
+				"buildid"		"12174634"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694576047"
+			}
+			"pluginapi-beta"
+			{
+				"buildid"		"12081119"
+				"description"		"Plugin API staging branch"
+				"timeupdated"		"1693593482"
+			}
+			"qa-testing"
+			{
+				"buildid"		"12116158"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693945675"
+			}
+			"tech"
+			{
+				"buildid"		"11814953"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690576554"
+			}
+			"thomasjosif-test"
+			{
+				"buildid"		"11707466"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689522486"
+			}
+		}
+	}
+}
