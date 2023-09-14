@@ -1,0 +1,396 @@
+"appinfo"
+{
+	"appid"		"544810"
+	"common"
+	{
+		"name"		"KARDS - The WWII Card Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"6d478c711fd4f80264eafb962a54776ebdcfde4b"
+		"clienttga"		"db9839bd85f046b84d69e5965ead756c84640d23"
+		"icon"		"a87cdfca39c1dd5eadfd919621e008c1bdbd705c"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"544810_eula_0"
+				"name"		"Kards EULA"
+				"url"		"https://store.steampowered.com//eula/544810_eula_0"
+			}
+		}
+		"logo"		"7d95b60adee6ba6791c643745daf37182b690303"
+		"logo_small"		"7d95b60adee6ba6791c643745daf37182b690303_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"schinese"		"1"
+		}
+		"osextended"		""
+		"clienticns"		"88b6e0bfb8c6de651ee9a2a114dd6cfe8f02082f"
+		"name_localized"
+		{
+			"koreana"		"KARDS - 제2차 세계 대전 카드 게임"
+			"german"		"KARDS: Das WW2-Kartenspiel"
+			"schinese"		"KARDS - 二战卡牌游戏"
+			"tchinese"		"KARDS - 二戰卡牌遊戲"
+			"spanish"		"KARDS - El juego de cartas de la Segunda Guerra Mundial"
+			"french"		"KARDS - Le jeu de cartes de la Seconde Guerre mondiale"
+			"russian"		"KARDS - Карточная игра о Второй мировой войне"
+			"polish"		"KARDS - Gra karciana o II wojnie światowej"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1645833600"
+			"tested_build_id"		"7921553"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"KARDS"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+			"polish"		"capsule_231x87_polish.jpg"
+			"brazilian"		"capsule_231x87_brazilian.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+			"italian"		"capsule_231x87_italian.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+		}
+		"header_image"
+		{
+			"russian"		"header_russian.jpg"
+			"schinese"		"header_schinese.jpg"
+			"german"		"header_german.jpg"
+			"english"		"header.jpg"
+			"french"		"header_french.jpg"
+			"brazilian"		"header_brazilian.jpg"
+			"polish"		"header_polish.jpg"
+			"spanish"		"header_spanish.jpg"
+			"latam"		"header_latam.jpg"
+			"italian"		"header_italian.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"koreana"		"header_koreana.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"de,fr,zh-cn,ru,pl,pt-br,pt,it,es,es-419,zh-xc,en,zh-tw"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"19.59538561002239"
+				"height_pct"		"64.10113890569527"
+			}
+		}
+		"store_asset_mtime"		"1690278795"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"1939 Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"1939 Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_42"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1586934000"
+		"steam_release_date"		"1586941440"
+		"metacritic_score"		"80"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/kards?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"544810"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1666"
+			"2"		"4150"
+			"3"		"9271"
+			"4"		"4684"
+			"5"		"1741"
+			"6"		"1770"
+			"7"		"1775"
+			"8"		"9"
+			"9"		"4791"
+			"10"		"4325"
+			"11"		"13276"
+			"12"		"32322"
+			"13"		"3987"
+			"14"		"597"
+			"15"		"3859"
+			"16"		"4175"
+			"17"		"4168"
+			"18"		"1678"
+			"19"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"1939 Games"
+		"publisher"		"1939 Games"
+		"homepage"		"https://www.kards.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1471390,1597920,1869350"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"KARDS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"kards.exe"
+				"arguments"		"-dx11"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"kards-Mac-Shipping.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"auroch"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2173633747"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"544811"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5341384661970651285"
+					"size"		"5216842644"
+					"download"		"1918270192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha4"
+				{
+					"gid"		"312615657A4E6DB6B22E4E6C9E206F7D"
+					"size"		"5A8FC65A8A2607E695BEB5240203D9ED"
+					"download"		"42F163663D5EDC49EE08CD138D94AC07"
+				}
+				"devserver"
+				{
+					"gid"		"52A93A1BEC30973A9164C169CD9EE95D"
+					"size"		"9FC53E4CAC28946FE2222E3B8A82F70B"
+					"download"		"735F9DFCC3CFC393C806FC3B744A7F11"
+				}
+				"internaltesting"
+				{
+					"gid"		"49DF8A8512D923F457B42F5E27DEA481"
+					"size"		"3383298A1C3D6FE31345CB75161BD8BC"
+					"download"		"0C38D3B5ADC1C916E225D69B681B5702"
+				}
+				"last_marker"
+				{
+					"gid"		"715E4FB65ECAF2DA71E43C7017E99B97"
+					"size"		"9DE2705EE75E03ABA5213826C3FB3141"
+					"download"		"BFA732161A521D37A7C3FB295A8FED89"
+				}
+				"nightly"
+				{
+					"gid"		"F7265488EB1991F9FF3844C8BE7BA1AA"
+					"size"		"96D1712126E7774C9F46BCBEC746EE53"
+					"download"		"60F466521DD2F70C6DFDFB1298F3F81F"
+				}
+				"qatestlab"
+				{
+					"gid"		"B421C4DC8758C4561955AB5DBA58F57C"
+					"size"		"0173E4937159E1436C4D8D8B234722B3"
+					"download"		"5AFCC437B40DB5C41E6D55DC0D8DA12F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12144144"
+				"timeupdated"		"1694192014"
+			}
+			"alpha4"
+			{
+				"buildid"		"12144144"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694191531"
+			}
+			"devserver"
+			{
+				"buildid"		"12022248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692879456"
+			}
+			"internaltesting"
+			{
+				"buildid"		"12022248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692879466"
+			}
+			"last_marker"
+			{
+				"buildid"		"12088876"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694191540"
+			}
+			"nightly"
+			{
+				"buildid"		"6549669"
+				"pwdrequired"		"1"
+				"timeupdated"		"1618537137"
+			}
+			"qatestlab"
+			{
+				"buildid"		"12022248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692879136"
+			}
+		}
+	}
+}
