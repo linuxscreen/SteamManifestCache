@@ -1,0 +1,363 @@
+"appinfo"
+{
+	"appid"		"728470"
+	"common"
+	{
+		"name"		"ASTRONEER Dedicated Server"
+		"type"		"Tool"
+		"parent"		"361420"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"136ef74f5485c687ab9185c1fb9c63624fdd07ef"
+		"clienticon"		"29a46bb1cc0cae5076b66b9915c1c170c3696080"
+		"icon"		"18ef632a152a69a8fb4f62c074cd50aa15d3bf33"
+		"logo"		"baf5219a4a1add9497e81c1ed4b513949c8e51a7"
+		"logo_small"		"baf5219a4a1add9497e81c1ed4b513949c8e51a7_thumb"
+		"associations"
+		{
+		}
+		"gameid"		"728470"
+	}
+	"config"
+	{
+		"installdir"		"ASTRONEER Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AstroServer.exe"
+				"type"		"default"
+				"config"
+				{
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"AstroServer.exe"
+				"description"		"Accept connections"
+				"type"		"server"
+				"config"
+				{
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"728471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6212928248382528481"
+					"size"		"2308379235"
+					"download"		"2193749200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"astro_ds"
+				{
+					"gid"		"FF13F5863090CB140DCC5FA6E1F0C214"
+					"size"		"5BEE5A95ED2C1EC7127E9ABB54F2334C"
+					"download"		"A08B4C8273CD46BEB2B45C271729D4DB"
+				}
+				"astro_rc"
+				{
+					"gid"		"D0F71EB96F0590CF5AC765541E9B33A1"
+					"size"		"F2044549D09CF45E93439335AFC33280"
+					"download"		"15708B9C42DADE0775B6A7170C2E90D3"
+				}
+				"astro_rc_dev"
+				{
+					"gid"		"087F187D648975227E662F4A95564A6A"
+					"size"		"9B6854A01EE9F969615821EEE960E55C"
+					"download"		"19A74C72903319721805DFF992A8A982"
+				}
+				"astrodev_et"
+				{
+					"gid"		"D5A036F13B20C98FB91A639F8542856C"
+					"size"		"D073FEABD3A90637124668B7A26F7687"
+					"download"		"0C83CC70B1FA392CA1085BA99B4EABE6"
+				}
+				"astrodev_profiling"
+				{
+					"gid"		"6FD2357B1A393A6CF302117B1C05D9FB"
+					"size"		"B5F91760CC6473E639D5112381291FC6"
+					"download"		"2A1780B6D23822B7B2B7FCEEBC0CB575"
+				}
+				"astromain_dailies"
+				{
+					"gid"		"E82F50BCF4F44CE9EE0A37BA85EDFD72"
+					"size"		"8C48C8BF69458BFBCE5777896C379FF3"
+					"download"		"1E1A3D93BF6AC43AA8A85D4FDA27A227"
+				}
+				"astromain_incremental"
+				{
+					"gid"		"702A80E8EB53FDDACE866F08D190909C"
+					"size"		"155832CD540E04B6FDA0E5C449457DA0"
+					"download"		"9727D4C7CEBB1806B63774E0C573D993"
+				}
+				"astromain_su"
+				{
+					"gid"		"B19286D8B0CE3F942E4A113143A8FE14"
+					"size"		"8573C4820C95551B538710CDF76D5839"
+					"download"		"A552FECC1053BEC6B56A8C63DD0CEED9"
+				}
+				"astroneer_beta"
+				{
+					"gid"		"10BF8E91965460A1449E328F21B653E9"
+					"size"		"26E0529461A4A97BD81AB0A48B9FCE56"
+					"download"		"F207B54D1B5B7C5DDF98A03B1B9958F2"
+				}
+				"astrortx_cu"
+				{
+					"gid"		"5A15C0E6D870C9BABC45FCF1658037DB"
+					"size"		"D0B79ED145BC97D3CA16383AEDA895E2"
+					"download"		"6F84CBD55EA73F839F2DAE4E38C8F0F4"
+				}
+				"astrortx_cu_dev"
+				{
+					"gid"		"22B2852FBD468F96BD21DCE0BD359CF5"
+					"size"		"0A7B4F4FB5669F3D2AC099D2D4F20B5D"
+					"download"		"1143CE5A101B99365AEE961062A28BB8"
+				}
+				"astrortx_dailies"
+				{
+					"gid"		"A72951390792100C14E97BA7560CCEED"
+					"size"		"F5BF3084F43F28CC72B064374ABB491D"
+					"download"		"D3C4A09DB18761AB4F818082DCEF616E"
+				}
+				"astrortx_ds"
+				{
+					"gid"		"B54ADF67AD1CD1E9EF0B83BD35570F2D"
+					"size"		"CDED12C7CDFB4249513A66B6F0EEC86B"
+					"download"		"2D515F88030C95F14D16491A33F6F6B1"
+				}
+				"astrortx_et"
+				{
+					"gid"		"752CA795A4EBBECD5A19B702139DA05C"
+					"size"		"652D7DC0D5E1FF3879313B16BF65BDBE"
+					"download"		"51C4A0308E7F9C1756EE2D671A608D5F"
+				}
+				"astrortx_incremental"
+				{
+					"gid"		"80E33ABB0535DC9BA3C183806131C275"
+					"size"		"DA07AD32FE93AAC11A41C6D1AACA0B0F"
+					"download"		"74093C5AD49AA1FC2703284677AEFD59"
+				}
+				"debug"
+				{
+					"gid"		"188433C5B2B1A0519B5C3C1B0C2ECA39"
+					"size"		"6D7C556C36FB2B64EAF0DFC41D1C4D0E"
+					"download"		"7B7ED484687A2D37A66CB93166554B7A"
+				}
+				"internal_playtest"
+				{
+					"gid"		"D5ACDF13FDC3030D894DDE50543BD3A7"
+					"size"		"E8C3BF20E9B0AB2376E4B42DF80D5280"
+					"download"		"3C66F135B2B0C4975BDA42CBAD088484"
+				}
+				"qa_sandbox"
+				{
+					"gid"		"AAD16025008D6129F15007A8E0A0DBAF"
+					"size"		"5B8C0DA8F1DDF6055120B1AD6C77A8D5"
+					"download"		"4A9F4D119FD41D15FF81AB84F62561B6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11895916"
+				"timeupdated"		"1692723880"
+			}
+			"astro_ds"
+			{
+				"buildid"		"10518465"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675978927"
+			}
+			"astro_rc"
+			{
+				"buildid"		"11895916"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691523664"
+			}
+			"astro_rc_dev"
+			{
+				"buildid"		"10687396"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677876254"
+			}
+			"astrodev_et"
+			{
+				"buildid"		"6973110"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625269121"
+			}
+			"astrodev_profiling"
+			{
+				"buildid"		"5978708"
+				"pwdrequired"		"1"
+				"timeupdated"		"1608162001"
+			}
+			"astromain_dailies"
+			{
+				"buildid"		"12176433"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694595326"
+			}
+			"astromain_incremental"
+			{
+				"buildid"		"12174849"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694578993"
+			}
+			"astromain_su"
+			{
+				"buildid"		"12176476"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694595717"
+			}
+			"astroneer_beta"
+			{
+				"buildid"		"11696936"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689798277"
+			}
+			"astrortx_cu"
+			{
+				"buildid"		"6995950"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625771349"
+			}
+			"astrortx_cu_dev"
+			{
+				"buildid"		"10687396"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678749595"
+			}
+			"astrortx_dailies"
+			{
+				"buildid"		"11866041"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691142522"
+			}
+			"astrortx_ds"
+			{
+				"buildid"		"4245868"
+				"pwdrequired"		"1"
+				"timeupdated"		"1570462692"
+			}
+			"astrortx_et"
+			{
+				"buildid"		"5406765"
+				"pwdrequired"		"1"
+				"timeupdated"		"1597525015"
+			}
+			"astrortx_incremental"
+			{
+				"buildid"		"11814831"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690574841"
+			}
+			"debug"
+			{
+				"buildid"		"2409203"
+				"pwdrequired"		"1"
+				"timeupdated"		"1515082662"
+			}
+			"internal_playtest"
+			{
+				"buildid"		"11314802"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685040785"
+			}
+			"qa_sandbox"
+			{
+				"buildid"		"9434971"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667583565"
+			}
+		}
+	}
+}
