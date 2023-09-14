@@ -1,0 +1,433 @@
+"appinfo"
+{
+	"appid"		"1568590"
+	"common"
+	{
+		"name"		"Goose Goose Duck"
+		"type"		"Game"
+		"icon"		"3b802d5010d6d5d72c93a8565b260c6042cc9390"
+		"logo"		"ed0a2f1958c13b0fcd4770f0097d59f4e19271de"
+		"logo_small"		"ed0a2f1958c13b0fcd4770f0097d59f4e19271de_thumb"
+		"clienticon"		"ef0e5d64b0207aad4dd145b2f65706f38cf26a31"
+		"clienttga"		"b4d08baf04d795f3cc60ec8ed82bd8cb5f2bdaf7"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1568590_eula_0"
+				"name"		"Goose Goose Duck EULA"
+				"url"		"https://store.steampowered.com//eula/1568590_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660867200"
+			"tested_build_id"		"8818737"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693272995"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gaggle Studios, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gaggle Studios, Inc."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1633290404"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1568590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"3859"
+			"2"		"1775"
+			"3"		"9"
+			"4"		"4747"
+			"5"		"4726"
+			"6"		"3871"
+			"7"		"597"
+			"8"		"4136"
+			"9"		"4562"
+			"10"		"128"
+			"11"		"15172"
+			"12"		"3843"
+			"13"		"492"
+			"14"		"745697"
+			"15"		"1685"
+			"16"		"150626"
+			"17"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://gaggle.fun/customer-support"
+		"developer"		"Gaggle Studios, Inc."
+		"publisher"		"Gaggle Studios, Inc."
+		"homepage"		"https://gaggle.fun/goose-goose-duck"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Goose Goose Duck"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GGDLauncher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"GGD.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"GGDLauncher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"beta"
+				}
+				"description_loc"
+				{
+					"english"		"BETA"
+				}
+				"description"		"BETA"
+			}
+			"4"
+			{
+				"executable"		"GGD.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"beta"
+				}
+				"description_loc"
+				{
+					"english"		"BETA"
+				}
+				"description"		"BETA"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1568591"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4927262688107586605"
+					"size"		"2693561236"
+					"download"		"529502864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"53E1A428C577656C29C6CFCCE911F65E"
+					"size"		"29D3C5F98ED09A971006FEC7159C855C"
+					"download"		"EDB35C3C8AB4C84DB23B93A71B495627"
+				}
+			}
+		}
+		"1568592"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"689216200039499986"
+					"size"		"1176993800"
+					"download"		"655773728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C64EEF52855D95674A99B74C76C6F664"
+					"size"		"3E541A18DB5135994284613892906FF3"
+					"download"		"248528468A7ACA9AACC286ABB0984F26"
+				}
+			}
+		}
+		"1568593"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5A484042679BA1BBEE132BE4706E5A25"
+					"size"		"5CD22505510DA7A337540B1E35063174"
+					"download"		"395284B404582DF33D8A157955C16BD3"
+				}
+			}
+		}
+		"1568594"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"85AD248980AE2F3D47A2088319A614BC"
+					"size"		"7BAE6B2118529680CF52A1BAA04A4856"
+					"download"		"A0435C211BC5E9BA6EB265CD3E1A6AFE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12063098"
+				"timeupdated"		"1693346659"
+			}
+			"beta"
+			{
+				"buildid"		"10578692"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676658565"
+			}
+		}
+	}
+}
