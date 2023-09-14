@@ -1,0 +1,357 @@
+"appinfo"
+{
+	"appid"		"595280"
+	"common"
+	{
+		"name"		"Throne of Lies®: Medieval Politics"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"595280_eula_0"
+				"name"		"Throne of Lies ♔ The Online Game of Lies & Deceit EULA"
+				"url"		"http://store.steampowered.com//eula/595280_eula_0"
+			}
+		}
+		"logo"		"5a642ab92e8f87069c6e0ce020d3a20ebd3dbb94"
+		"logo_small"		"5a642ab92e8f87069c6e0ce020d3a20ebd3dbb94_thumb"
+		"icon"		"ec230f808fb276a07933f042bd99ebe20a36bd7a"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"cb875707eedfa0e54a78c7645a9be1c213604a13"
+		"clienticon"		"8c834345f4fdfc8b69229f0ef8adaa14f23ba464"
+		"clienticns"		"8afa10fcf905f6fa76863df1913b573c5993ac07"
+		"linuxclienticon"		"44f1545a8d414541f9734083fbe4775dc2f3d3ed"
+		"osextended"		""
+		"name_localized"
+		{
+			"tchinese"		"謊言王座 Throne of Lies"
+			"schinese"		"謊言王座 Throne of Lies"
+		}
+		"exfgls"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-tw"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"31.627908458380517"
+				"height_pct"		"67.09147336176261"
+			}
+		}
+		"store_asset_mtime"		"1658998220"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PT.farm Inc."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Imperium42®, LLC"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PT.farm Inc."
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Throne of Lies®"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+			"category_13"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1506668400"
+		"steam_release_date"		"1506700740"
+		"community_hub_visible"		"1"
+		"gameid"		"595280"
+		"store_tags"
+		{
+			"0"		"745697"
+			"1"		"3859"
+			"2"		"5716"
+			"3"		"17015"
+			"4"		"122"
+			"5"		"9"
+			"6"		"4136"
+			"7"		"492"
+			"8"		"31275"
+			"9"		"6426"
+			"10"		"10695"
+			"11"		"4172"
+			"12"		"1770"
+			"13"		"17389"
+			"14"		"4711"
+			"15"		"5372"
+			"16"		"1662"
+			"17"		"1775"
+			"18"		"4853"
+			"19"		"4026"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"PT.farm Inc."
+		"publisher"		"PT.farm Inc."
+		"homepage"		"https://www.ThroneOfLies.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Throne of Lies"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ThroneOfLies.exe"
+				"arguments"		"-force-d3d11"
+				"description"		"DirectX11 - Recommended"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"ThroneOfLies.exe"
+				"arguments"		"-force-vulkan"
+				"description"		"Vulkan - Experimental/Unstable/Unsupported"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"ThroneOfLies.app\\Contents\\MacOS\\ThroneOfLies"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"4"
+			{
+				"executable"		"ThroneOfLies.x86_64"
+				"description"		"OpenGL - Recommended"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"6"
+			{
+				"executable"		"ThroneOfLies.x86_64"
+				"arguments"		"-force-vulkan"
+				"description"		"Vulkan - Experimental/Unstable/Unsupported"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,tchinese"
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"595281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8936206531554207410"
+					"size"		"2340889516"
+					"download"		"993029760"
+				}
+				"local"
+				{
+					"gid"		"8040116159236543375"
+					"size"		"1998019061"
+					"download"		"817699952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"almostlive"
+				{
+					"gid"		"6B436EF591CA6E67467EE24928B20441"
+					"size"		"20680C3A83B283D027BA9873D9BE86FE"
+					"download"		"EC470F52C253CCBD5E2FADC9538FC1F6"
+				}
+				"braincloudtest"
+				{
+					"gid"		"367011FFBBC6ADF75FF70A37EEB38DE3"
+					"size"		"0A5E487DAA12F7E16DC4E58A59CD7D74"
+					"download"		"334B283D9BAAAF9A1B1D42C6C000F033"
+				}
+				"gamesparks"
+				{
+					"gid"		"C6F22C85C513D02D8132F47BA25AB9AE"
+					"size"		"F7366C94202C7B70A65F0858930BC79A"
+					"download"		"4F5EAAB35A6C1FB70BE5247F2B650D9E"
+				}
+				"reconnect"
+				{
+					"gid"		"E08B742C2721171F1A2D4711451A6DA2"
+					"size"		"2439F494DC0ABE252F71C383E3917D9E"
+					"download"		"B19DF0974A9619F12594046CED6EE6F6"
+				}
+				"testing"
+				{
+					"gid"		"8905B0DFA6DCC30C0C35622DB5B04882"
+					"size"		"0F9559A2FAD70DF210472AE9C9B5FFFD"
+					"download"		"28D3F9414DD3A0115394A8C408F21FAD"
+				}
+				"testing2"
+				{
+					"gid"		"D979DE61FEF455E0DDBB4753695D54BF"
+					"size"		"FD4A7BCD6965FB7AB47497451F0FB85B"
+					"download"		"DBF7214733EC14A7E8082369AD82DF47"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10440135"
+				"timeupdated"		"1675138970"
+			}
+			"almostlive"
+			{
+				"buildid"		"4827557"
+				"pwdrequired"		"1"
+				"timeupdated"		"1585372433"
+			}
+			"braincloudtest"
+			{
+				"buildid"		"9948473"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668589592"
+			}
+			"gamesparks"
+			{
+				"buildid"		"8858946"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658899013"
+			}
+			"local"
+			{
+				"buildid"		"7383044"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1631974567"
+			}
+			"reconnect"
+			{
+				"buildid"		"9078268"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657194441"
+			}
+			"testing"
+			{
+				"buildid"		"9081333"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657226424"
+			}
+			"testing2"
+			{
+				"buildid"		"9948418"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668589237"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000"
+		"maxnumfiles"		"1"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
