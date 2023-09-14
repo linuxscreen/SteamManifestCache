@@ -1,0 +1,451 @@
+"appinfo"
+{
+	"appid"		"253710"
+	"common"
+	{
+		"name"		"theHunter Classic"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"fbfd9daf55e8489e42500bd3e08ca8f4c5f028db"
+		"logo_small"		"fbfd9daf55e8489e42500bd3e08ca8f4c5f028db_thumb"
+		"icon"		"4a91dc770675e559038a4f46e0daa4f8fa42ee30"
+		"clienttga"		"15e23b3f5cc9bc6804f2facbc87b29c38a211bf7"
+		"clienticon"		"4cb779cb2e16618dea7dd71575f6c15672866761"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"danish"		"1"
+			"dutch"		"1"
+			"finnish"		"1"
+			"norwegian"		"1"
+			"swedish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"romanian"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"253710_eula_0"
+				"name"		"theHunter Classic EULA"
+				"url"		"https://store.steampowered.com//eula/253710_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1662508800"
+			"tested_build_id"		"8807763"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"5"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DisplayOutputHasNonblockingIssues"
+				}
+				"6"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"7"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"8"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"theHunter"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40"
+				"height_pct"		"40"
+			}
+		}
+		"store_asset_mtime"		"1669020058"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Expansive Worlds"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Avalanche Studios"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Expansive Worlds"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Avalanche Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"28"
+			"4"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1401801300"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"253710"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9564"
+			"2"		"3859"
+			"3"		"1695"
+			"4"		"599"
+			"5"		"1774"
+			"6"		"1685"
+			"7"		"3839"
+			"8"		"1662"
+			"9"		"4175"
+			"10"		"3843"
+			"11"		"21"
+			"12"		"1663"
+			"13"		"701"
+			"14"		"4182"
+			"15"		"19"
+			"16"		"1687"
+			"17"		"9"
+			"18"		"128"
+			"19"		"597"
+		}
+		"review_score"		"5"
+		"review_percentage"		"56"
+	}
+	"extended"
+	{
+		"allowmicrotxnfromrestrictedcountries"		"0"
+		"microtxnrestrictedcountries"		"RU,BY"
+		"developer"		"Expansive Worlds"
+		"publisher"		"Expansive Worlds"
+		"homepage"		"http://www.thehunter.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"304000,322360,322361,582170,582171,582172,584970,586410,637990"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"theHunter"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher/launcher.exe"
+				"arguments"		"steam"
+				"description"		"Launcher"
+				"workingdir"		"launcher"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"253711"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8336458967607158814"
+					"size"		"10990393245"
+					"download"		"9176619344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steambeta"
+				{
+					"gid"		"1F8D761EACAEE759728A87059277A175"
+					"size"		"591E0DFCE9E6373639B4EB0252D02BEB"
+					"download"		"9B0828DE12E8DB6B9A7D80BEF85FE20E"
+				}
+				"steamdev"
+				{
+					"gid"		"72B6A24745D30D62D10F4EAA48185574"
+					"size"		"E9EC09E6B8F54C8B3AC9D779BBD176A1"
+					"download"		"87CCA6BDFA330139442DBDFA75AEF795"
+				}
+			}
+		}
+		"253712"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6120257679345059219"
+					"size"		"10990393245"
+					"download"		"9175000272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steambeta"
+				{
+					"gid"		"05CFD17DA1BE5F5716CA20847BFCFD34"
+					"size"		"591E0DFCE9E6373639B4EB0252D02BEB"
+					"download"		"178BE37E3651D1F16681B7EC98CF789D"
+				}
+				"steamdev"
+				{
+					"gid"		"338A2A18F16896EA1FBFC6709B6B867A"
+					"size"		"E9EC09E6B8F54C8B3AC9D779BBD176A1"
+					"download"		"730246C12A96FE3672F5F54C528910B6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12176011"
+				"timeupdated"		"1694592796"
+			}
+			"steambeta"
+			{
+				"buildid"		"12176011"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694592132"
+			}
+			"steamdev"
+			{
+				"buildid"		"11477591"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686830692"
+			}
+		}
+	}
+}
