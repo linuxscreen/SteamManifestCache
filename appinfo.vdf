@@ -1,0 +1,452 @@
+"appinfo"
+{
+	"appid"		"1343400"
+	"common"
+	{
+		"name"		"RuneScape"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1343400_eula_1"
+				"name"		"RuneScape EULA"
+				"url"		"https://store.steampowered.com//eula/1343400_eula_1"
+				"version"		"1"
+			}
+		}
+		"icon"		"021f59318858b7b3081a5dc083e7e302f1882f00"
+		"logo"		"9e57d259d8abb39a9f429a84360cb0799d6b4ffa"
+		"logo_small"		"9e57d259d8abb39a9f429a84360cb0799d6b4ffa_thumb"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"brazilian"		"1"
+		}
+		"clienticon"		"f0c97249295cce9615a4beca61ddbac60f933902"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1644451200"
+			"tested_build_id"		"7088088"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1614944714"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jagex Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jagex Ltd"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_20"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_35"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1602687300"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1343400"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1754"
+			"2"		"1695"
+			"3"		"128"
+			"4"		"122"
+			"5"		"3859"
+			"6"		"1684"
+			"7"		"4747"
+			"8"		"21"
+			"9"		"1742"
+			"10"		"6730"
+			"11"		"3854"
+			"12"		"1775"
+			"13"		"1693"
+			"14"		"7782"
+			"15"		"1698"
+			"16"		"1756"
+			"17"		"3834"
+			"18"		"597"
+			"19"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Jagex Ltd"
+		"publisher"		"Jagex Ltd"
+		"homepage"		"https://www.RuneScape.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1401450,1401451,1401452,1664830,1664831,1664832,1998770,1998771,1998772,1998773,1998774,1998775,2148810,2148811,2148812"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"RuneScape"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin/win32/RuneScape.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"bin/win64/RuneScape.exe"
+				"arguments"		"--configURI http://world205a.runescape.com/jav_config.ws"
+				"description"		"RuneScape using beta worlds"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"rc_build"
+				}
+			}
+			"2"
+			{
+				"executable"		"bin/win64/RuneScape.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"bin/osx/RuneScape.app"
+				"description"		"Internal Test Configuration"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"internal"
+				}
+			}
+			"5"
+			{
+				"executable"		"bin/osx/rs2client.app"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"internal_2"
+				}
+				"description_loc"
+				{
+					"english"		"internal_2 Test configuration"
+				}
+				"description"		"internal_2 Test configuration"
+			}
+			"6"
+			{
+				"executable"		"bin/osx/RuneScape.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2339300695"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,brazilian"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1343401"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1755097554061057616"
+					"size"		"17077787"
+					"download"		"6819680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"C4F4CA5145334A1007C4D3C157EB601E"
+					"size"		"2BC0BE519F22794AF8856E10227EBDF3"
+					"download"		"4FCD3A262B54BE69C25A9679CA82BC11"
+				}
+				"internal_2"
+				{
+					"gid"		"C55362CEC4EC13366E165624A7C99E88"
+					"size"		"C15202ED75622A7FFFCD1385F6061E8D"
+					"download"		"7EE659C3DE30DDFD2FAB63A53CC1202E"
+				}
+				"rc_build"
+				{
+					"gid"		"CACD2D7418082D6D5F29B9CAF29B09A2"
+					"size"		"F036FE39B52A1E4CDE6C17098C963839"
+					"download"		"1CB158B3739E6E93510BB2A6391751D1"
+				}
+			}
+		}
+		"1343402"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6409540644540252883"
+					"size"		"3993432064"
+					"download"		"3840693776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"C8274D2C86AA91B7F045B975014A64C0"
+					"size"		"50D1B4E23171C7902C4CB70F40B077DC"
+					"download"		"C627F7AF60A10BAF617127FD9F897A4E"
+				}
+				"internal_2"
+				{
+					"gid"		"00E3F2F19B06BD8CD6872EFF8010E34D"
+					"size"		"B05F563A2B63A4D2982C1B4B046A0F0E"
+					"download"		"F02897D000B27A7FD9DD3664E0DB980F"
+				}
+				"rc_build"
+				{
+					"gid"		"FAC3FE88AB48CC8ED5E4C44ED0343268"
+					"size"		"CDE6C7608D3B2E5761BEE4E11C1D52F8"
+					"download"		"B20190D2B613D57337DF218A094A7883"
+				}
+			}
+		}
+		"1343403"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10917037"
+				"timeupdated"		"1682342952"
+			}
+			"internal"
+			{
+				"buildid"		"9900808"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667995968"
+			}
+			"internal_2"
+			{
+				"buildid"		"7033759"
+				"pwdrequired"		"1"
+				"timeupdated"		"1626348442"
+			}
+			"rc_build"
+			{
+				"buildid"		"10917037"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680513158"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#statuswithoutid"		"{#Status_%gamestatus%}"
+					"#statuswithid"		"{#Status_%gamestatus%}: %id%"
+					"#status_world"		"World"
+					"#status_lobby"		"Lobby"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#statuswithoutid"		"{#Status_%gamestatus%}"
+					"#statuswithid"		"{#Status_%gamestatus%}: %id%"
+					"#status_world"		"Serveur "
+					"#status_lobby"		"Accueil"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#statuswithoutid"		"{#Status_%gamestatus%}"
+					"#statuswithid"		"{#Status_%gamestatus%}: %id%"
+					"#status_world"		"Welt"
+					"#status_lobby"		"Lobby"
+				}
+			}
+			"brazilian"
+			{
+				"tokens"
+				{
+					"#statuswithoutid"		"{#Status_%gamestatus%}"
+					"#statuswithid"		"{#Status_%gamestatus%}: %id%"
+					"#status_world"		"Mundo"
+					"#status_lobby"		"Lobby"
+				}
+			}
+		}
+	}
+}
