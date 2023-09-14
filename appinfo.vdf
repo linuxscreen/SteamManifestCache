@@ -1,0 +1,356 @@
+"appinfo"
+{
+	"appid"		"1625450"
+	"common"
+	{
+		"name"		"Muck"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"762c7b6eee9f9179ba822c2f052602abf03f1a07"
+		"logo_small"		"762c7b6eee9f9179ba822c2f052602abf03f1a07_thumb"
+		"icon"		"a123e3d10527fbdf3fea7ea235e11b41da3754dc"
+		"clienticon"		"fb99fddaad992af6090550abeef0dc0de4875b68"
+		"clienttga"		"2da94601a6056c4f70b7915298dc6f6cfa3466a8"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660694400"
+			"tested_build_id"		"7077400"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.809199629434374"
+				"height_pct"		"93.23076911158817"
+			}
+		}
+		"store_asset_mtime"		"1624705831"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dani"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dani"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1622897753"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1625450"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"3859"
+			"2"		"1702"
+			"3"		"1643"
+			"4"		"1716"
+			"5"		"1695"
+			"6"		"3834"
+			"7"		"21"
+			"8"		"7332"
+			"9"		"19"
+			"10"		"3839"
+			"11"		"113"
+			"12"		"4106"
+			"13"		"4191"
+			"14"		"42804"
+			"15"		"3993"
+			"16"		"5981"
+			"17"		"4305"
+			"18"		"122"
+			"19"		"1684"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Dani"
+		"publisher"		"Dani"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Muck"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Muck.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Muck.app\\Contents\\MacOS\\Muck"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Muck.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1625451"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7100742807621446579"
+					"size"		"422460918"
+					"download"		"104901520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"7D8A9007E9450C39F3672E8DB3927846"
+					"size"		"F93F9EFF6DF08EA379C741DB4223D98B"
+					"download"		"9C6186F90E7D0507944D9CCCBD87EC62"
+				}
+				"private"
+				{
+					"gid"		"8DCA4447378448FBD78352706D89EE97"
+					"size"		"50D3FD14418C4CB8D391C4C3969BC842"
+					"download"		"F7FBF7456AC70A5D35E78A6B3B511E42"
+				}
+				"version100"
+				{
+					"gid"		"A3D3F708556063DE7A9B271A64E95F07"
+					"size"		"C0711B9B2CF21F585A8FBD79FC089895"
+					"download"		"91391E59D4206DA98A9A639BDB25CE5C"
+				}
+				"version108"
+				{
+					"gid"		"D1DCBB1B54E1FF2BC5ABCDF5F2B6EEB7"
+					"size"		"FFA674E2945F4F671CF49F8515EA4E41"
+					"download"		"A22F5946988CC90CCACB6CA86DD23FF0"
+				}
+				"version11075"
+				{
+					"gid"		"694DE75A2C4B8965D7937C905D979139"
+					"size"		"E988D6C35F19867416BA76BB6CECC38B"
+					"download"		"447C01AA9DF0816AC6CD7D4DAD534622"
+				}
+				"version126"
+				{
+					"gid"		"2B9A8920423D3815E09ADADAF689F520"
+					"size"		"6204A3654356FAF923441D955F2224ED"
+					"download"		"76B58820FF9D45AEE10CF11DB004C301"
+				}
+			}
+		}
+		"1625452"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"847694323652576298"
+					"size"		"426622974"
+					"download"		"105968800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"version126"
+				{
+					"gid"		"682C9BFC5F3E69F8F411EB40939B0516"
+					"size"		"92FDBA069FDA7FCF32D977DC5AEA9C36"
+					"download"		"A5169FA5927185D329B3F80E37DD3758"
+				}
+			}
+		}
+		"1625453"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7629384997496536032"
+					"size"		"438755103"
+					"download"		"108328208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"version126"
+				{
+					"gid"		"ED88405625B29B99375AC337A8E81285"
+					"size"		"B8803BFA1F8B5018851DBE3FBC3280AE"
+					"download"		"0CC1E0F9401157CDE9FFCFD58DA3C524"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7077400"
+				"timeupdated"		"1627049362"
+			}
+			"beta"
+			{
+				"buildid"		"6839827"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623244417"
+			}
+			"private"
+			{
+				"buildid"		"7076830"
+				"pwdrequired"		"1"
+				"timeupdated"		"1627042738"
+			}
+			"version100"
+			{
+				"buildid"		"6832022"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623159150"
+			}
+			"version108"
+			{
+				"buildid"		"6866681"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623694916"
+			}
+			"version11075"
+			{
+				"buildid"		"6938402"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624723594"
+			}
+			"version126"
+			{
+				"buildid"		"7084412"
+				"pwdrequired"		"1"
+				"timeupdated"		"1627220306"
+			}
+		}
+	}
+}
