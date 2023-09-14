@@ -1,0 +1,276 @@
+"appinfo"
+{
+	"appid"		"1874900"
+	"common"
+	{
+		"name"		"Arma Reforger Server"
+		"type"		"Tool"
+		"parent"		"1874880"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"1507c8e111d5b98cab433465abc946ff212c6819"
+		"clienticon"		"ab4bd631d130436ca3c9ea9a33c5fe44daf42c4c"
+		"icon"		"611ef8ba927cc6cbcdeb6ff954cb059539a28ab2"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1874900_eula_1"
+				"name"		"Arma Reforger Server EULA"
+				"url"		"https://store.steampowered.com//eula/1874900_eula_1"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1679319124"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1652806800"
+		"gameid"		"1874900"
+	}
+	"config"
+	{
+		"installdir"		"Arma Reforger Server"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"docs\\ServerHostingDocs.bat"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Server Hosting Docs"
+				}
+				"description"		"Server Hosting Docs"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1874901"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"992574825160843491"
+					"size"		"3597854401"
+					"download"		"2495628608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"393394CB8C3EEEB86E9E1C75DC239E5B"
+					"size"		"83062D3BCCF391F6ACB1288E9340BB42"
+					"download"		"3739ED4326B7006E3750203ECE134AA9"
+				}
+				"internal"
+				{
+					"gid"		"6BC8FF4C3F7398CC715E3BEF85A5CACE"
+					"size"		"60B1880CF379D9E09E43A4D0EB07AB47"
+					"download"		"BCD53B0FBDC246AAD18E30E33EA74714"
+				}
+				"stable"
+				{
+					"gid"		"6C42ED4B1B1ADF980EA37662B5610651"
+					"size"		"191678F747AE08ED07E918BD4C15A4F8"
+					"download"		"5CA3ABA1084C0174ACEA89CA9A30939E"
+				}
+				"xb_stable"
+				{
+					"gid"		"A7C5037A212E1F3685DEBB33AA2C0D3D"
+					"size"		"74B3FF757D538A29CA79C08361CC88F2"
+					"download"		"F16821397611EACA9EBA9EFC0D0FEEEB"
+				}
+				"xb_submission"
+				{
+					"gid"		"6E008216592E66D400F1EDAE41F06F08"
+					"size"		"6C78B88F13C12895344A3C1D4366B0AF"
+					"download"		"EEC0C4C5C1435CFE4D38912DF7C5A0DC"
+				}
+			}
+		}
+		"1874902"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3428496495463952457"
+					"size"		"52937885"
+					"download"		"15266912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"6DB2046CEA7A452CE7646A30081E1DC7"
+					"size"		"32658072321FB6BD474518F58AE2C557"
+					"download"		"CAA00D871BECED42E394284357E676B6"
+				}
+				"internal"
+				{
+					"gid"		"832DDB88572708AF66EF7DE86F514F34"
+					"size"		"68A926766CC346DD6B214D714CEEAFEF"
+					"download"		"63A666127B473DB6F147C521AD17E583"
+				}
+				"stable"
+				{
+					"gid"		"68A29781F42492F22EAD07963D372980"
+					"size"		"92CA79DA7A55E8B0F9E8BEE066BFDD69"
+					"download"		"69AC4690236B1768B0C5E7A064C2C599"
+				}
+				"xb_stable"
+				{
+					"gid"		"6C541A6E581B69F0D70B6C48ACFD3B80"
+					"size"		"92CCCAA690BCA8712982DD68318E0688"
+					"download"		"CE4F1349B66CB3383C6BAF01C74868E0"
+				}
+				"xb_submission"
+				{
+					"gid"		"A3D766C3C197F0E8B942062E991B268E"
+					"size"		"AD154931DE28CB46F0F1F5727862C663"
+					"download"		"FD7259AF350BC48F9B280CE6ABE219A9"
+				}
+			}
+		}
+		"1874903"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5904371768749999969"
+					"size"		"42729053"
+					"download"		"12801712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"8CD704F3B4C5805574DF605EFA2B25B4"
+					"size"		"ADAAC9604AF004EFBCD6390066714A17"
+					"download"		"01B7D41DFEF45FCF081F50AC240648AD"
+				}
+				"internal"
+				{
+					"gid"		"1AE9A20ECBDE23C62A156E4CBD1EA3FA"
+					"size"		"876C7853637B4791C7A184AFEB8B0D7F"
+					"download"		"9DB0D601046FABB696063A788EC3FFDD"
+				}
+				"stable"
+				{
+					"gid"		"F71FDAAF55B0F40E61E7C18DB8A98D19"
+					"size"		"8531C89FC311F10DBBCA1333E00AE8F4"
+					"download"		"9EF5458292481427CA9243A85B8C1C5F"
+				}
+				"xb_stable"
+				{
+					"gid"		"C84B54B372851E15E7661B0B1D0351B4"
+					"size"		"F4601BE2805A37AD5D95FABC07EE7F1F"
+					"download"		"8A94713A4544AA843A68E044400F5894"
+				}
+				"xb_submission"
+				{
+					"gid"		"0D1D56ADED25155640EBC90795B3CFDC"
+					"size"		"1E1159C573064D69D811AEAFFDFD6469"
+					"download"		"6C3AE578DD8F32EE312C68FBB20C39B0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11844948"
+				"timeupdated"		"1691668174"
+			}
+			"experimental"
+			{
+				"buildid"		"12174682"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694576613"
+			}
+			"internal"
+			{
+				"buildid"		"12164618"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694483570"
+			}
+			"stable"
+			{
+				"buildid"		"12156403"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694507806"
+			}
+			"xb_stable"
+			{
+				"buildid"		"11844948"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691661902"
+			}
+			"xb_submission"
+			{
+				"buildid"		"12156403"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694507780"
+			}
+		}
+	}
+}
