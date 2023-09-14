@@ -1,0 +1,219 @@
+"appinfo"
+{
+	"appid"		"1275630"
+	"common"
+	{
+		"name"		"Drug Dealer Simulator: Free Sample"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"4002ff89563b93eea235df3c5515c4c79fb67345"
+		"clienttga"		"b6671bbb52cd4524f1eea39aea41b8ef9042a70a"
+		"clienticon"		"baa792aa47b82523356437f291fbcdbff44182de"
+		"logo"		"5e8e89420bf72b64d89304a3cb1e19047359db74"
+		"logo_small"		"5e8e89420bf72b64d89304a3cb1e19047359db74_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1677110400"
+			"tested_build_id"		"4856481"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.52550415183867"
+				"height_pct"		"49.61443460449424"
+			}
+		}
+		"store_asset_mtime"		"1671016765"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Byterunners Game Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Movie Games S.A."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Movie Games S.A."
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Drug Dealer Simulator"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1585941704"
+		"community_hub_visible"		"1"
+		"gameid"		"1275630"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"599"
+			"2"		"19"
+			"3"		"597"
+			"4"		"492"
+			"5"		"4182"
+			"6"		"12472"
+			"7"		"6378"
+			"8"		"1667"
+			"9"		"12095"
+			"10"		"1756"
+			"11"		"1685"
+			"12"		"6650"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Byterunners Game Studio"
+		"publisher"		"Movie Games S.A."
+		"homepage"		"http://ddsimulator.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Drug Dealer Simulator Free Sample"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DrugDealerSimulator.exe"
+				"description"		"Play Game"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1275631"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1013069955031486284"
+					"size"		"6430729681"
+					"download"		"6318741648"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4856481"
+				"timeupdated"		"1585932844"
+			}
+		}
+	}
+}
