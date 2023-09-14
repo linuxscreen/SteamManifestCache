@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"894280"
+	"common"
+	{
+		"name"		"Ultimate Arena FPS Demo"
+		"type"		"Demo"
+		"parent"		"436260"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"clienticon"		"3cb0f6fe41e09d06c3fc94e28a708092b49eb80e"
+		"clienttga"		"52c85fdde41896003971c65786f21eac2c92d81e"
+		"icon"		"6dda93d576c9662851698a25febaa851c9d182e1"
+		"releasestate"		"released"
+		"logo"		"778c726ee8d235879742e95bcaed839a5781c2e9"
+		"logo_small"		"778c726ee8d235879742e95bcaed839a5781c2e9_thumb"
+		"osextended"		""
+		"metacritic_name"		"Ultimate Arena Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1531221336"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kenneth Caselli"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Gianmarco Rocco"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"AceGamer Network"
+			}
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1531765074"
+		"gameid"		"894280"
+	}
+	"extended"
+	{
+		"demoofappid"		"436260"
+		"developer"		"Kenneth Caselli"
+		"publisher"		"AceGamer Network"
+	}
+	"config"
+	{
+		"installdir"		"UltimateArenaDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UltimateArena/Binaries/Win64/UltimateArena-Win64-Shipping.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"UltimateArena/Binaries/Linux/UltimateArena-Linux-Shipping"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"894281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2133290749412462365"
+					"size"		"1513813475"
+					"download"		"1015569664"
+				}
+				"publictest"
+				{
+					"gid"		"2133290749412462365"
+					"size"		"1513813475"
+					"download"		"1015569664"
+				}
+			}
+		}
+		"894282"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8585467127273660850"
+					"size"		"2233337445"
+					"download"		"1361894352"
+				}
+				"publictest"
+				{
+					"gid"		"8585467127273660850"
+					"size"		"2233337445"
+					"download"		"1361894352"
+				}
+			}
+		}
+		"baselanguages"		"english,italian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3995683"
+				"timeupdated"		"1592687204"
+			}
+			"publictest"
+			{
+				"buildid"		"3995683"
+				"timeupdated"		"1592687211"
+			}
+		}
+	}
+}
