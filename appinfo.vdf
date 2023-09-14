@@ -1,0 +1,266 @@
+"appinfo"
+{
+	"appid"		"1721350"
+	"common"
+	{
+		"name"		"Horror Night"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"8fb979213b600c82e81e1b3978ab9632b57850a7"
+		"logo_small"		"8fb979213b600c82e81e1b3978ab9632b57850a7_thumb"
+		"icon"		"02ecf2a29bf7b6969f68a8e4988464adb6855f9d"
+		"clienttga"		"65b2d2e43aa3d2e2349195b1bf12c013caf2c17b"
+		"clienticon"		"c0c8f0e29a33923ef6ba8a1c1d40e32df196d917"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"8147750"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"84.81341855985647"
+			}
+		}
+		"store_asset_mtime"		"1672236061"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Deadlycrow Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Deadlycrow Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Horror Night"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644000240"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1721350"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3978"
+			"1"		"3859"
+			"2"		"6691"
+			"3"		"3843"
+			"4"		"4747"
+			"5"		"1687"
+			"6"		"1667"
+			"7"		"21"
+			"8"		"1664"
+			"9"		"597"
+			"10"		"10808"
+			"11"		"1697"
+			"12"		"3839"
+			"13"		"4191"
+			"14"		"3813"
+			"15"		"4166"
+			"16"		"5923"
+			"17"		"4878"
+			"18"		"4195"
+			"19"		"3942"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"Deadlycrow Games"
+		"publisher"		"Deadlycrow Games"
+		"homepage"		"https://playhorrornight.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1991540,2097420,2097440,2100670,2181200"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Horror Night"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Horror Night.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1721351"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3106556168376306269"
+					"size"		"5903365449"
+					"download"		"2356716224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"A263A8B6999871B13141A1183394C5CC"
+					"size"		"58164F0D0E76FF1D1C83EB2A0A15BF4D"
+					"download"		"874CDEC073938DDB5879B4ABAF9E5212"
+				}
+				"test"
+				{
+					"gid"		"42FF8951767B3821D1DCA0FAFB3CEBC0"
+					"size"		"E7D51AA10BB5672047DD9D2AC1A84553"
+					"download"		"4E14A63815BA7A0FC525A13C024291A5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10256945"
+				"timeupdated"		"1672864133"
+			}
+			"devtest"
+			{
+				"buildid"		"10222180"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672190993"
+			}
+			"test"
+			{
+				"buildid"		"9717471"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665702698"
+			}
+		}
+	}
+}
