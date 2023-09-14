@@ -1,0 +1,302 @@
+"appinfo"
+{
+	"appid"		"2228080"
+	"common"
+	{
+		"name"		"Forspoken Demo"
+		"type"		"Demo"
+		"parent"		"1680880"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"japanese"		"FORSPOKEN Demo"
+		}
+		"clienttga"		"1e433c730beb97af936b2f24566189d9925c0d16"
+		"clienticon"		"b1b2bf97f0efdf1309fe475bdd5065a9ce717e86"
+		"icon"		"4e576e8ec2ae86748f230c2c6c26e78bd80e2e34"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2228080_eula_0"
+				"name"		"Forspoken Demo EULA"
+				"url"		"https://store.steampowered.com//eula/2228080_eula_0"
+				"version"		"3"
+			}
+		}
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.66192630898513"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1673608113"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Luminous Productions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Square Enix"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1674579602"
+		"gameid"		"2228080"
+	}
+	"extended"
+	{
+		"demoofappid"		"1680880"
+		"developer"		"Luminous Productions"
+		"publisher"		"Square Enix"
+		"homepage"		"https://www.forspoken.com"
+	}
+	"config"
+	{
+		"installdir"		"FORSPOKEN Demo"
+		"uselaunchcommandline"		"1"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2879290157"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"2879290285"
+			{
+				"controller_type"		"controller_ps5"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"12"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FORSPOKENDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"FORSPOKENDemod.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"beta"
+				}
+				"description_loc"
+				{
+					"english"		"Debug version(DiscRelease)"
+				}
+				"description"		"Debug version(DiscRelease)"
+			}
+		}
+		"app_mappings"
+		{
+			"1"
+			{
+				"platform"		"linux"
+				"tool"		"proton_experimental"
+				"comment"		"experimental"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2228081"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4982494100768995898"
+					"size"		"46258821313"
+					"download"		"37347017280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8466C0EB38734ED4952A6A00EF3B851D"
+					"size"		"FA6B9053A209B862868DD2FDB72F057C"
+					"download"		"CD3CA6214C1D8302034F175D1D1FA5A4"
+				}
+				"zeta"
+				{
+					"gid"		"2C5D8BC48299CE7B5ABBAAA269A3BD2A"
+					"size"		"9EB3AC6C4DAD2A8F7794EE65C096BA5A"
+					"download"		"28262D68958354CAC1584ADCC481B3A3"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,arabic,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11671740"
+				"timeupdated"		"1690263771"
+			}
+			"beta"
+			{
+				"buildid"		"12102766"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693812372"
+			}
+			"zeta"
+			{
+				"buildid"		"12175773"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694590187"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+	}
+}
