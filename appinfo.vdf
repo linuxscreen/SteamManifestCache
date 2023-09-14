@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"1873030"
+	"common"
+	{
+		"name"		"Wolfenstein: Enemy Territory"
+		"type"		"Game"
+		"clienticon"		"028ece56337eb54eb004c23a4a946ffed7f13e19"
+		"clienttga"		"6221fe034bcb97f082a17438128e639e06766bb7"
+		"icon"		"700b983849d32a807393d4b28e20c4b0a3f70730"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.46511627906976"
+				"height_pct"		"95.97482783186891"
+			}
+		}
+		"store_asset_mtime"		"1650380455"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Splash Damage"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bethesda Softworks"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Wolfenstein"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1650992400"
+		"community_hub_visible"		"1"
+		"gameid"		"1873030"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"4150"
+			"2"		"19"
+			"3"		"3859"
+			"4"		"4667"
+			"5"		"1774"
+			"6"		"4004"
+			"7"		"1678"
+			"8"		"3839"
+			"9"		"113"
+			"10"		"1693"
+			"11"		"4345"
+			"12"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Splash Damage"
+		"publisher"		"Bethesda Softworks"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Wolfenstein Enemy Territory"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"et.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1873031"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6062789056092509624"
+					"size"		"235472424"
+					"download"		"230969248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A522841FC64583CC4E842F9DCB985B4E"
+					"size"		"BF2F85A389E8291C18E083CFD7915CDA"
+					"download"		"02ECB125D47D6ECD266155B071092A4C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7997832"
+				"timeupdated"		"1641846509"
+			}
+			"beta"
+			{
+				"buildid"		"7997832"
+				"pwdrequired"		"1"
+				"timeupdated"		"1641847065"
+			}
+		}
+	}
+}
