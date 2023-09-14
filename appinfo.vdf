@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"1810920"
+	"common"
+	{
+		"name"		"Operation Lovecraft: Fallen Doll Closed Beta"
+		"type"		"Beta"
+		"parent"		"1685960"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"洛夫克拉夫特行动：堕落玩偶 封闭测试"
+			"tchinese"		"洛夫克拉夫特行動：墮落玩偶 封閉測試"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openxrsupport"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"linuxclienticon"		"f32c1181c22ac611fdd2a1d7ea13c573d87a34d9"
+		"clienticns"		"f32c1181c22ac611fdd2a1d7ea13c573d87a34d9"
+		"clienticon"		"572730e4c50561afe46b0f4dd5543fd2af9bb989"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"icon"		"9d2479eaa986b4a1c25fdfcaf3ddfb588c1f91c4"
+		"logo"		"207ea45aed69eb42ec654fc7da5dd70b99683814"
+		"logo_small"		"207ea45aed69eb42ec654fc7da5dd70b99683814_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"68.46354785086677"
+			}
+		}
+		"store_asset_mtime"		"1678603135"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1638449509"
+		"community_hub_visible"		"1"
+		"gameid"		"1810920"
+		"exfgls"		"1"
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"betaforappid"		"1685960"
+		"vrheadsetstreaming"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Operation Lovecraft Fallen Doll Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FallenDollLauncher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Desktop Version"
+				}
+				"description"		"Desktop Version"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1810921"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2502079581035473629"
+					"size"		"16699664643"
+					"download"		"15981848928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"AFA803C396A4F94BD409A14772E5B612"
+					"size"		"5D21C68BC25E9155358EE09112A6D20B"
+					"download"		"F2484ECC441C1C59D02C91F63D10A43C"
+				}
+				"preview"
+				{
+					"gid"		"1FD3E1DFC229B76F95EAEF7C99123941"
+					"size"		"85627D07B8F01526F23ED1596004218D"
+					"download"		"5A8B910C2FB6B61D617B188F0F981A1F"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12037280"
+				"timeupdated"		"1693023805"
+			}
+			"internal"
+			{
+				"buildid"		"12037280"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693014957"
+			}
+			"preview"
+			{
+				"buildid"		"12037195"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693013642"
+			}
+		}
+	}
+}
