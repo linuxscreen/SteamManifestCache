@@ -1,0 +1,136 @@
+"appinfo"
+{
+	"appid"		"2465200"
+	"common"
+	{
+		"name"		"Sons Of The Forest Dedicated Server"
+		"type"		"Tool"
+		"parent"		"1326470"
+		"icon"		"3e382029f4751a9c377bcd0996a2ee7306c45e73"
+		"clienticon"		"e594128a02ce8385574471e8196659eb66287400"
+		"clienttga"		"16a283da838739c6d5215ca742f10c5bafc50ba9"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1687543286"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1687565100"
+		"gameid"		"2465200"
+	}
+	"config"
+	{
+		"installdir"		"Sons Of The Forest Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StartSOTFDedicated.bat"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"2465201"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7067950983076046412"
+					"size"		"3100584615"
+					"download"		"1426506224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ds_beta_testing"
+				{
+					"gid"		"8BF44E7BAFB6721CEACF82A48357C889"
+					"size"		"B413A98B83427A5B35EE6505092DF787"
+					"download"		"4DBE201D5ADF69B91903F2C0920EAE1F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12091041"
+				"timeupdated"		"1693593266"
+			}
+			"ds_beta_testing"
+			{
+				"buildid"		"12173919"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694567779"
+			}
+		}
+	}
+}
