@@ -1,0 +1,272 @@
+"appinfo"
+{
+	"appid"		"648390"
+	"common"
+	{
+		"name"		"Marie's Room"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"3a05b1acbc9b3afc73b7daf316c8fc8d409a55c8"
+		"logo_small"		"3a05b1acbc9b3afc73b7daf316c8fc8d409a55c8_thumb"
+		"icon"		"35306af409be13729e980e3437249aae9d448076"
+		"clienticon"		"aa416a6849b55013a390018fb04911e068c67a75"
+		"clienttga"		"9f12ff8c296cb95aaa4ad47dd028f05d15950772"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1663891200"
+			"tested_build_id"		"8534984"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Marie's Room"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"41.2485414235706"
+				"height_pct"		"85.33434486577715"
+			}
+		}
+		"store_asset_mtime"		"1611847408"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"like Charlie"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"like Charlie"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1523629020"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"648390"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1742"
+			"2"		"4166"
+			"3"		"492"
+			"4"		"5900"
+			"5"		"3834"
+			"6"		"21"
+			"7"		"7208"
+			"8"		"1756"
+			"9"		"4182"
+			"10"		"597"
+			"11"		"3839"
+			"12"		"4234"
+			"13"		"5716"
+			"14"		"1664"
+			"15"		"1698"
+			"16"		"1667"
+			"17"		"1721"
+			"18"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"like Charlie"
+		"publisher"		"like Charlie"
+		"homepage"		"https://www.likecharlie.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1962190"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Marie's Room"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MariesRoom.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"648391"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3665055097181273456"
+					"size"		"1738028186"
+					"download"		"686648064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BEA704D007B957CA401435D6526271C5"
+					"size"		"32C7273D56C1D19CA1F871C5B6821C37"
+					"download"		"FCCF3155976AC791067516640F7085F9"
+				}
+				"testing"
+				{
+					"gid"		"FFCA02DDE935906EEEEF00CDA61A2AA2"
+					"size"		"3FB98EDF24FC6E9C55003C5836EBAE08"
+					"download"		"3E7CEC8B84A67D368E5758921CBA9881"
+				}
+			}
+		}
+		"648393"
+		{
+			"dlcappid"		"1962190"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2351485888735965651"
+					"size"		"10719448"
+					"download"		"9487936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5090CCBD470D833AB579D6F1D66551AF"
+					"size"		"DEE2E9B8B9C73F8679411F4E2A30F386"
+					"download"		"081A6737CA200D7FBA4BC7E620DAD91E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8534984"
+				"timeupdated"		"1649839940"
+			}
+			"beta"
+			{
+				"buildid"		"8534984"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649670330"
+			}
+			"testing"
+			{
+				"buildid"		"8534951"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649670364"
+			}
+		}
+	}
+}
