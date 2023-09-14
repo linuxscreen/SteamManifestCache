@@ -1,0 +1,137 @@
+"appinfo"
+{
+	"appid"		"629800"
+	"common"
+	{
+		"name"		"MORDHAU Dedicated Server"
+		"type"		"Tool"
+		"parent"		"629760"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"logo"		"02a5c5026b1eb99cb0f8dfd94e1c4de94449b67f"
+		"logo_small"		"02a5c5026b1eb99cb0f8dfd94e1c4de94449b67f_thumb"
+		"icon"		"f04be0f078a1e41dd4df0149255617be299e0831"
+		"clienttga"		"45cd687f7684e3ae2ea3245299402ef78dd99823"
+		"clienticon"		"1ce1643c91aa49fee0b63c68f8fb56f8a08d540b"
+		"associations"
+		{
+		}
+		"gameid"		"629800"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mordhau Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MordhauServer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"MordhauServer.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"629801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8041214792051630378"
+					"size"		"3897709606"
+					"download"		"1244736432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"27B6DEA8583D7C40FB1D6C80AC169033"
+					"size"		"F08E9BBF51EC1F7D5CD3142686055A0F"
+					"download"		"8B4AD04FA4259A357EB10B04B6CAADCC"
+				}
+				"testing"
+				{
+					"gid"		"912E96F7C18238602F523E45194F0C74"
+					"size"		"7BBC961E0088EA1C39F7CEB3D3C51103"
+					"download"		"A16E74D1508C2C47682381E90AC2BAD4"
+				}
+			}
+		}
+		"629802"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2370395493173817489"
+					"size"		"5155568032"
+					"download"		"1384676608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"E16170A4DF68E3913894C87DF2256BAA"
+					"size"		"DEB98A3DA8F00DEF479C34A077ED09C2"
+					"download"		"74DB0383A352C6B950D6D3B4CB809D14"
+				}
+				"testing"
+				{
+					"gid"		"49AA38363491794C20F7D26826305372"
+					"size"		"3730E2731A6F518806ED2AA985FEC604"
+					"download"		"B01D6A4D606B38C247EFB0D2632081B7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11379686"
+				"timeupdated"		"1685711550"
+			}
+			"development"
+			{
+				"buildid"		"11379686"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685711568"
+			}
+			"testing"
+			{
+				"buildid"		"12157028"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694459543"
+			}
+		}
+	}
+}
