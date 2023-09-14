@@ -1,0 +1,155 @@
+"appinfo"
+{
+	"appid"		"2116560"
+	"common"
+	{
+		"name"		"Cepheus Protocol Experimental Branch"
+		"type"		"Beta"
+		"parent"		"979640"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"34054bde6bd85a1299ea5f215164bb6bbed76304"
+		"clienticon"		"37c2f3cbfd4b44cfa88c7815fb4902ebb5d569e2"
+		"clienttga"		"28cbff32772d43a0232e23db730c6c2785b484bc"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.40925266903915"
+				"height_pct"		"75.83288149888548"
+			}
+		}
+		"store_asset_mtime"		"1660093659"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1660249860"
+		"community_hub_visible"		"1"
+		"gameid"		"2116560"
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"betaforappid"		"979640"
+	}
+	"config"
+	{
+		"installdir"		"Cepheus Protocol Experimental Branch"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CepheusProtocol.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Default"
+				}
+				"description"		"Default"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2116561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9106688600649007931"
+					"size"		"7953313925"
+					"download"		"7151406144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-op"
+				{
+					"gid"		"BCA3D5EA819A33778DF8B35C372EEFE1"
+					"size"		"51FB9CEFAC48E75114F2F22E996BBBBB"
+					"download"		"8A4C044F0B9DF474632386F5BABCE14A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12116041"
+				"timeupdated"		"1693943343"
+			}
+			"dev-op"
+			{
+				"buildid"		"12116041"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693942694"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"25"
+		"appidredirect"		"979640"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"CepheusProtocol/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
