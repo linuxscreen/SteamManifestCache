@@ -1,0 +1,518 @@
+"appinfo"
+{
+	"appid"		"225840"
+	"common"
+	{
+		"name"		"Sven Co-op"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"b552055c69f4b4b05195b72805ed0bff09cf1e93"
+		"clienticon"		"b64062ca5c5610c0754686e5e7c05eba76bd6b4d"
+		"clienttga"		"c5ed02d85202d2728a2c543e3ed5149ae229dcc5"
+		"logo"		"1ef26a0b4dbabb81d8d1682ffd674bc3c71a313f"
+		"logo_small"		"1ef26a0b4dbabb81d8d1682ffd674bc3c71a313f_thumb"
+		"oslist"		"windows,linux"
+		"clienticns"		"ee43a2b0f5677ed63c7c9d197ec1dc32fe7166b6"
+		"linuxclienticon"		"e59caf2ccac5d1954df056f12c7ecbbf9f28b8e7"
+		"controllervr"
+		{
+			"kbm"		"1"
+		}
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1665187200"
+			"tested_build_id"		"7342106"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Sven Co-op"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"36"
+				"height_pct"		"42"
+			}
+		}
+		"store_asset_mtime"		"1668340348"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sven Co-op team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sven Co-op team"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_38"		"1"
+			"category_2"		"1"
+			"category_48"		"1"
+			"category_8"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"916732800"
+		"steam_release_date"		"1453506120"
+		"community_hub_visible"		"1"
+		"gameid"		"225840"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"1685"
+			"2"		"3843"
+			"3"		"1774"
+			"4"		"4255"
+			"5"		"4004"
+			"6"		"5711"
+			"7"		"6691"
+			"8"		"597"
+			"9"		"6730"
+			"10"		"3839"
+			"11"		"4191"
+			"12"		"1697"
+			"13"		"113"
+			"14"		"19"
+			"15"		"15172"
+			"16"		"1664"
+			"17"		"1662"
+			"18"		"1669"
+			"19"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Sven Co-op team"
+		"gamedir"		"svencoop"
+		"homepage"		"https://www.svencoop.com/"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"serverbrowsername"		"Sven Co-op"
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=225840"
+		"vrheadsetstreaming"		"1"
+		"publisher"		"Sven Co-op team"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Sven Co-op"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"svencoop.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"svencoop.sh"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"svends.exe"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Game Server"
+				}
+				"description"		"Game Server"
+			}
+			"5"
+			{
+				"executable"		"svends_run"
+				"description"		"Launch Game Server"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"7"
+			{
+				"executable"		"svencoop/manual/index.html"
+				"description"		"Game Manual"
+				"type"		"manual"
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamconfigurator3rdpartynative"		"6"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"225841"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"120274866409892373"
+					"size"		"2454939996"
+					"download"		"1278477584"
+				}
+				"release_candidate_public"
+				{
+					"gid"		"120274866409892373"
+					"size"		"2454939996"
+					"download"		"1278477584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"808FCBAFDA4695EC8FE232E17E077BA6"
+					"size"		"544D0764E15B846768232A5255525034"
+					"download"		"2B1FD24C1C83A5E123B2728905EA0841"
+				}
+				"release_candidate_community"
+				{
+					"gid"		"3408094C15CA8D4F19151E1CE3DCB45E"
+					"size"		"A52F3AE9C89BC2D032C67275540AA443"
+					"download"		"A12A3CD44410F858AE3BC53A0D9F0D89"
+				}
+			}
+		}
+		"225842"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4348064197401485554"
+					"size"		"56165166"
+					"download"		"20981248"
+				}
+				"release_candidate_public"
+				{
+					"gid"		"4348064197401485554"
+					"size"		"56165166"
+					"download"		"20981248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"7FBE191E70F205033273DA714E6FB4FF"
+					"size"		"509E8DD4B964CC17D29B44ACD7AD766D"
+					"download"		"40A65D43B96C251C8721CCB38BC6B8F4"
+				}
+				"release_candidate_community"
+				{
+					"gid"		"D4803B436C231C4CCBE0ECED36F1F14C"
+					"size"		"E013314E09FAE58438E3DC145D0D9F39"
+					"download"		"41B57E3CB990058FDEA0027EDB86CA72"
+				}
+			}
+		}
+		"225843"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"465327562389906137"
+					"size"		"98404057"
+					"download"		"26444640"
+				}
+				"release_candidate_public"
+				{
+					"gid"		"465327562389906137"
+					"size"		"98404057"
+					"download"		"26444640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"671D7E5EABC58EFE7A0F940040AE3B5E"
+					"size"		"283913F2287E91B1E21FF699394406BC"
+					"download"		"5AFE798502CB9765834AB0475890E841"
+				}
+				"release_candidate_community"
+				{
+					"gid"		"7EF4A6723A861DCE5D10458767DE2B78"
+					"size"		"042211C837A32DDEBB6A14465A73CE7E"
+					"download"		"2DC22C50022D4447A2123F1583E5511A"
+				}
+			}
+		}
+		"225844"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4655279205544739828"
+					"size"		"5310825"
+					"download"		"1633360"
+				}
+				"release_candidate_public"
+				{
+					"gid"		"4655279205544739828"
+					"size"		"5310825"
+					"download"		"1633360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"227C3CD49A5907BEF4BFC3B5F39B126E"
+					"size"		"6960AAE458A20D8EFE55ACEC30F38799"
+					"download"		"13E575D35BE96577ECF51EF0BD2DCB4D"
+				}
+				"release_candidate_community"
+				{
+					"gid"		"3CBEB6BCBB8A0AC17447F2BDD9631AE4"
+					"size"		"BC15EF6820927AEF37403EE28F004B25"
+					"download"		"217EDB433EEB61D93EA9AA76260F74CD"
+				}
+			}
+		}
+		"workshopdepot"		"225840"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7342106"
+				"timeupdated"		"1631361423"
+			}
+			"release_candidate"
+			{
+				"buildid"		"12039439"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693058186"
+			}
+			"release_candidate_community"
+			{
+				"buildid"		"12039439"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693058201"
+			}
+			"release_candidate_public"
+			{
+				"buildid"		"7342106"
+				"description"		"Release candidate (public)"
+				"timeupdated"		"1631344253"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20971520"
+		"maxnumfiles"		"200"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"svencoop"
+				"pattern"		"autoexec.cfg"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"svencoop"
+				"pattern"		"config.cfg"
+			}
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"svencoop"
+				"pattern"		"userconfig.cfg"
+			}
+			"6"
+			{
+				"root"		"gameinstall"
+				"path"		"svencoop"
+				"pattern"		"tempdecal.wad"
+			}
+			"7"
+			{
+				"root"		"gameinstall"
+				"path"		"svencoop"
+				"pattern"		"pldecal.wad"
+			}
+			"8"
+			{
+				"root"		"gameinstall"
+				"path"		"svencoop_addon"
+				"pattern"		"pldecal.wad"
+			}
+			"9"
+			{
+				"root"		"gameinstall"
+				"path"		"svencoop_addon"
+				"pattern"		"tempdecal.wad"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_inmenu"		"In Menu"
+					"#status_inlobby"		"In Lobby"
+					"#status_ingame"		"In Game"
+					"#status_ingame_mapname"		"In Game - %mapname%"
+				}
+			}
+		}
+	}
+}
