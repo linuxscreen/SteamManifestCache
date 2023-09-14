@@ -1,0 +1,323 @@
+"appinfo"
+{
+	"appid"		"1180380"
+	"common"
+	{
+		"name"		"Stay Out"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1180380_eula_0"
+				"name"		"Stay Out EULA"
+				"url"		"https://store.steampowered.com//eula/1180380_eula_0"
+				"version"		"1"
+			}
+		}
+		"logo"		"f6fdfe0851e8b79137168f8ada47d6ec1604366e"
+		"logo_small"		"f6fdfe0851e8b79137168f8ada47d6ec1604366e_thumb"
+		"icon"		"0411cc87cda6c85ea152ee385e2bcb0a6119125a"
+		"clienticon"		"dea176ff01d6397e21e851cd82976f77ab9ee5c1"
+		"clienttga"		"80fc040b76019576e1820f391672fc3d269ad98a"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644537600"
+			"tested_build_id"		"7947518"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Stay Out"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"46.09101516919486"
+				"height_pct"		"83.2818807884113"
+			}
+		}
+		"store_asset_mtime"		"1667197735"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MOBITECH LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MOBITECH LLC"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"3"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_42"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1574843040"
+		"community_hub_visible"		"1"
+		"gameid"		"1180380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1662"
+			"2"		"3859"
+			"3"		"1695"
+			"4"		"3843"
+			"5"		"1685"
+			"6"		"128"
+			"7"		"1659"
+			"8"		"1667"
+			"9"		"3835"
+			"10"		"19"
+			"11"		"122"
+			"12"		"1663"
+			"13"		"4182"
+			"14"		"1754"
+			"15"		"1775"
+			"16"		"493"
+			"17"		"4166"
+			"18"		"4667"
+			"19"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"MOBITECH LLC"
+		"publisher"		"MOBITECH LLC"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"sogame"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"game/x64/start_protected_game.exe"
+				"workingdir"		"game"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Stay Out x64 "
+				}
+				"description"		"Stay Out x64 "
+			}
+			"2"
+			{
+				"executable"		"game/x86/start_protected_game.exe"
+				"workingdir"		"game"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Stay Out x86"
+				}
+				"description"		"Stay Out x86"
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2193689423"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1180381"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7535823653830060269"
+					"size"		"10986466368"
+					"download"		"10340997024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"0CBD6EA590C608E78B96C235AC18B01D"
+					"size"		"C5CA1536F0A214A4276E08A8B395214B"
+					"download"		"8F2D86237DCCF1858A78DB57F7A0E6BB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11973187"
+				"timeupdated"		"1692355559"
+			}
+			"test"
+			{
+				"buildid"		"11973187"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692347573"
+			}
+		}
+	}
+}
