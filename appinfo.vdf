@@ -1,0 +1,125 @@
+"appinfo"
+{
+	"appid"		"1692440"
+	"common"
+	{
+		"name"		"Solys Playtest"
+		"type"		"Beta"
+		"parent"		"1537920"
+		"releasestate"		"released"
+		"logo"		"4fb57c9f48e23fe43e87018e1b01ad43b4f6a6b0"
+		"logo_small"		"4fb57c9f48e23fe43e87018e1b01ad43b4f6a6b0_thumb"
+		"icon"		"282b37354bb3e2759b341b2064548dd483b24f19"
+		"clienticon"		"a0aa17fd40a6718c1d839ae01dc5edf240c809d2"
+		"clienttga"		"f7c9d3c9b5fb7c5908165c00890c330634fdeb52"
+		"market_presence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"67.98158019960732"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1643212992"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1628267365"
+		"community_hub_visible"		"1"
+		"gameid"		"1692440"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"betaforappid"		"1537920"
+		"gamedir"		"Solys"
+		"serverbrowsername"		"Solys"
+		"playtest_type"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Solys Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Solys.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1692441"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7876266094899508173"
+					"size"		"1669514460"
+					"download"		"1411979904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D15235727C283EF14C7DF6E5337CFDD8"
+					"size"		"8F09FEC2B27511E73D05CA45EBE3BF72"
+					"download"		"BA64FB0A5FBF6C9E990E5911059CD035"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10309149"
+				"timeupdated"		"1673547150"
+			}
+			"beta"
+			{
+				"buildid"		"12177866"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694606487"
+			}
+		}
+	}
+}
