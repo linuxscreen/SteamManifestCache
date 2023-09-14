@@ -1,0 +1,96 @@
+"appinfo"
+{
+	"appid"		"866060"
+	"common"
+	{
+		"name"		"Warhammer: Vermintide 2 SDK"
+		"type"		"Tool"
+		"parent"		"552500"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"a5a5bd113d80417df655b981b4e42639eb64c8d6"
+		"clienttga"		"057af7a7dfc37bc7a006391030146d46decd8c6f"
+		"icon"		"5145bd8dbb531ef03e4e8b2673ff3ba36b80009c"
+		"logo"		"c044f9584e4e3cc09fda3ac8adf9932a5fdccca4"
+		"logo_small"		"c044f9584e4e3cc09fda3ac8adf9932a5fdccca4_thumb"
+		"associations"
+		{
+		}
+		"gameid"		"866060"
+	}
+	"config"
+	{
+		"installdir"		"Vermintide 2 SDK"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"readme.txt"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"866061"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5901573676829233709"
+					"size"		"165429771"
+					"download"		"72003392"
+				}
+				"last_stable"
+				{
+					"gid"		"7958538114367891308"
+					"size"		"165628184"
+					"download"		"66831248"
+				}
+				"legacy"
+				{
+					"gid"		"1891599567811672717"
+					"size"		"129731437"
+					"download"		"56371552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental_testing"
+				{
+					"gid"		"B283EBCA74BD2B720D58F660F4402B92"
+					"size"		"AD407C5E5748A41714EC1951E1FFC499"
+					"download"		"D39AA4451D21A2DAF1EEF8E32783F7FC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11810124"
+				"timeupdated"		"1690540021"
+			}
+			"experimental_testing"
+			{
+				"buildid"		"11810124"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690537263"
+			}
+			"last_stable"
+			{
+				"buildid"		"10874323"
+				"description"		"Mod SDK from the previous patch (including bugfixes)."
+				"timeupdated"		"1690537866"
+			}
+			"legacy"
+			{
+				"buildid"		"3107890"
+				"description"		"Old default branch. Will be forever frozen in its current version."
+				"timeupdated"		"1680078879"
+			}
+		}
+	}
+}
