@@ -1,0 +1,361 @@
+"appinfo"
+{
+	"appid"		"1574000"
+	"common"
+	{
+		"name"		"Industry Idle"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"89aefa34e6f619f07b23ad7daaac731685eca35c"
+		"logo_small"		"89aefa34e6f619f07b23ad7daaac731685eca35c_thumb"
+		"icon"		"8607d4bc2e3261530af8b756b7c831d04b076f0e"
+		"clienticon"		"0d7c6c837617abdf50223988f0ffd10c247ade0d"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1680566400"
+			"tested_build_id"		"10895214"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1643146137"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fish Pond Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fish Pond Studio"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1617016654"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1574000"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"255534"
+			"1"		"8945"
+			"2"		"615955"
+			"3"		"7332"
+			"4"		"9"
+			"5"		"379975"
+			"6"		"599"
+			"7"		"4328"
+			"8"		"10383"
+			"9"		"1643"
+			"10"		"4094"
+			"11"		"1717"
+			"12"		"4695"
+			"13"		"12472"
+			"14"		"3810"
+			"15"		"1702"
+			"16"		"5125"
+			"17"		"4845"
+			"18"		"1662"
+			"19"		"3871"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Fish Pond Studio"
+		"publisher"		"Fish Pond Studio"
+		"homepage"		"https://industryidle.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1577540,1807800"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"IndustryIdle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"IndustryIdle.exe"
+				"arguments"		"--max-active-webgl-contexts=32"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"IndustryIdle.app/Contents/MacOS/IndustryIdle"
+				"arguments"		"--max-active-webgl-contexts=32"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"IndustryIdle"
+				"arguments"		"--no-sandbox --max-active-webgl-contexts=32"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1574001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"920337930977006076"
+					"size"		"263071251"
+					"download"		"94128400"
+				}
+				"beta"
+				{
+					"gid"		"5372400776459948139"
+					"size"		"276330503"
+					"download"		"95678256"
+				}
+				"legacy"
+				{
+					"gid"		"2519288219164394242"
+					"size"		"296825442"
+					"download"		"116769872"
+				}
+			}
+		}
+		"1574002"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7482373399545110140"
+					"size"		"250721101"
+					"download"		"89467856"
+				}
+				"beta"
+				{
+					"gid"		"215729886063682812"
+					"size"		"260790990"
+					"download"		"90725152"
+				}
+				"legacy"
+				{
+					"gid"		"2770721453703760154"
+					"size"		"280273486"
+					"download"		"111300624"
+				}
+			}
+		}
+		"1574003"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2130847250268880931"
+					"size"		"268141637"
+					"download"		"90056048"
+				}
+				"beta"
+				{
+					"gid"		"4811766150958859237"
+					"size"		"280247354"
+					"download"		"91985184"
+				}
+				"legacy"
+				{
+					"gid"		"4452375145474980615"
+					"size"		"304568337"
+					"download"		"113184752"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11940187"
+				"timeupdated"		"1692044990"
+			}
+			"beta"
+			{
+				"buildid"		"12096224"
+				"description"		"Beta build before release"
+				"timeupdated"		"1693668233"
+			}
+			"legacy"
+			{
+				"buildid"		"10961170"
+				"description"		"Legacy version that is usually one week older (you can choose this version if you are not ready to update)"
+				"timeupdated"		"1692044975"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"10"
+	}
+}
