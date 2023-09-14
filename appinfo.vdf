@@ -1,0 +1,299 @@
+"appinfo"
+{
+	"appid"		"1920960"
+	"common"
+	{
+		"name"		"VPet"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"english"		"VPet-Simulator"
+			"schinese"		"虚拟桌宠模拟器"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"c451d74b81dfa4551a5a1a2622d4cdcdad0cbf72"
+		"clienttga"		"fc2edafd28f032387008cfc0ef0de996e5b7f2ab"
+		"icon"		"c223dfb8d009fc8ad65f8f2bef56978c4411d1e5"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1692921600"
+			"tested_build_id"		"12002529"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1691980531"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LB Game"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LB Game"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1691978410"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1920960"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4726"
+			"2"		"597"
+			"3"		"599"
+			"4"		"492"
+			"5"		"12095"
+			"6"		"122"
+			"7"		"379975"
+			"8"		"1654"
+			"9"		"4085"
+			"10"		"10235"
+			"11"		"4195"
+			"12"		"1669"
+			"13"		"4182"
+			"14"		"4562"
+			"15"		"5350"
+			"16"		"1663"
+			"17"		"6650"
+			"18"		"4136"
+			"19"		"1667"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"disableoverlay"		"1"
+		"developer"		"LB Game"
+		"publisher"		"LB Game"
+		"homepage"		"https://www.exlb.net/VPet"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"VPet"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VPet-Simulator.Windows.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"x64"
+				}
+				"description"		"x64"
+			}
+			"1"
+			{
+				"executable"		"VPet-Simulator.Windows_x86.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+				"description_loc"
+				{
+					"english"		"x86"
+				}
+				"description"		"x86"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1920960"
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1920961"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7724272162186994383"
+					"size"		"580857728"
+					"download"		"295595376"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12177022"
+				"timeupdated"		"1694599809"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"*.lps"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"ChatGPTSetting.json"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"schinese"
+			{
+				"tokens"
+				{
+					"#status_idle"		"%username%在%mode%闲逛"
+					"#status_music"		"%username%在%mode%跳舞"
+					"#status_sleep"		"%username%在%mode%睡大觉"
+					"#status_work"		"%username%在%mode%%work%"
+					"#status_diy"		"%DIY%"
+					"#status_ill"		"%username% 生病了"
+				}
+			}
+			"tchinese"
+			{
+				"tokens"
+				{
+					"#status_idle"		"%username%在%mode%閒逛"
+					"#status_music"		"%username%在%mode%跳舞"
+					"#status_sleep"		"%username%在%mode%睡大覺"
+					"#status_work"		"%username%在%mode%%work%"
+					"#status_diy"		"%DIY%"
+					"#status_ill"		"%username% 生病了"
+				}
+			}
+			"english"
+			{
+				"tokens"
+				{
+					"#status_idle"		"%username% is %mode% idle"
+					"#status_music"		"%username% dancing %mode%"
+					"#status_sleep"		"%username% Sleep %mode%"
+					"#status_work"		"%username% %work% %mode%"
+					"#status_diy"		"%DIY%"
+					"#status_ill"		"%username% is sick"
+				}
+			}
+		}
+	}
+}
