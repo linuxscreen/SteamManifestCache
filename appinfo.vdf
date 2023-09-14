@@ -1,0 +1,303 @@
+"appinfo"
+{
+	"appid"		"2281730"
+	"common"
+	{
+		"name"		"Combat Master"
+		"type"		"Game"
+		"clienttga"		"24582a7b37aa0f811d59066c0c79c4cddffdb357"
+		"clienticon"		"431b22dab40a8975e83b54902b414bf447411784"
+		"clienticns"		"4307d4d6d06eb01b895901204aa7c1853244f77e"
+		"icon"		"6d21b6a817f63c5ad327da04fecda3d4f9c7e455"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1683676800"
+			"tested_build_id"		"11044134"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-1"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"62.53858940869152"
+			}
+		}
+		"store_asset_mtime"		"1687129452"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alfa Bravo Inc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Alfa Bravo Inc"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1682082176"
+		"community_hub_visible"		"1"
+		"gameid"		"2281730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1663"
+			"2"		"3859"
+			"3"		"1774"
+			"4"		"5765"
+			"5"		"1708"
+			"6"		"5673"
+			"7"		"4168"
+			"8"		"4036"
+			"9"		"1775"
+			"10"		"7423"
+			"11"		"3839"
+			"12"		"5547"
+			"13"		"4191"
+			"14"		"113"
+			"15"		"4175"
+			"16"		"4747"
+			"17"		"3993"
+			"18"		"7481"
+			"19"		"3968"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Alfa Bravo Inc"
+		"publisher"		"Alfa Bravo Inc"
+		"homepage"		"https://www.alfabravo.us"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Combat Master"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CombatMaster.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CombatMaster.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"CombatMaster.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"2281731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8674766499077753037"
+					"size"		"1235158108"
+					"download"		"998476848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"8862A1D88579A2ACA955EEB82E311113"
+					"size"		"74EE1BCF0DC7F7FACC932C7114C88667"
+					"download"		"ECB28EAA4922A1E14B5C77291F4999D5"
+				}
+			}
+		}
+		"2281732"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7061681301081222894"
+					"size"		"1411059674"
+					"download"		"1032552672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"0FC971EEE320BC3A908469880CF012F7"
+					"size"		"378222B5EBD981629552568E4F91E762"
+					"download"		"2E32CDAAF2641D967FBA7CCBB68EDD89"
+				}
+			}
+		}
+		"2281733"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6307044804316964533"
+					"size"		"1346763737"
+					"download"		"1044305136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"1292B2FFCC9F9FE91D3B4C56B415C352"
+					"size"		"3E057B459209E4DCF4B8DCDABF256BC1"
+					"download"		"727DD60C314758B15EAC7B38022AF136"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11497081"
+				"timeupdated"		"1687127103"
+			}
+			"develop"
+			{
+				"buildid"		"11497081"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687032847"
+			}
+		}
+	}
+}
