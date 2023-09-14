@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"884110"
+	"common"
+	{
+		"name"		"SCP: 5K - Community Dedicated Server"
+		"type"		"Tool"
+		"parent"		"872670"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"3d0cf9e8cf56d512929144f59b1db54fe8ce9b3e"
+		"logo_small"		"3d0cf9e8cf56d512929144f59b1db54fe8ce9b3e_thumb"
+		"icon"		"468e44c0258fb87dc5953d932bd054e814b72084"
+		"clienticon"		"b72916c7288eceb8fe7a385bb6a068bc700bab84"
+		"clienttga"		"29a850f7271f985753102727458b99c373c31a06"
+		"associations"
+		{
+		}
+		"gameid"		"884110"
+	}
+	"extended"
+	{
+		"gamedir"		""
+	}
+	"config"
+	{
+		"installdir"		"SCP Pandemic Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsServer/PandemicServer.exe"
+				"arguments"		"-log"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"WindowsServer/PandemicServer.sh"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"884111"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4964591039299876796"
+					"size"		"2519776637"
+					"download"		"725346256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"78B0E6AC4A9414B8B301F209C031C815"
+					"size"		"1B3C718A7798AEDE5A4DC25DB6A9677B"
+					"download"		"7D8B88E4AEACC94F7391D47C2241C78B"
+				}
+				"debug"
+				{
+					"gid"		"A9775D2F2914962F89F76AFBF1F60E4C"
+					"size"		"AC846E65BE96040E626E7572B5805F4E"
+					"download"		"91E6D834014B4A7A29F742D123CFEEB7"
+				}
+				"indev"
+				{
+					"gid"		"EB4F430E38FB9EF294F654DA496B7628"
+					"size"		"A6DFE0D193EEC78E0F0F304BBFD55502"
+					"download"		"63E281C8D4C83A61CD3738907D01221B"
+				}
+			}
+		}
+		"884112"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8777446109366892848"
+					"size"		"3519800587"
+					"download"		"821719472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"6930362E5311759D503F858A43152289"
+					"size"		"5335CDFED7F9AC843927DB23ED869D9D"
+					"download"		"224CE2C2AC1716EDF09C18D501CBB8AB"
+				}
+				"indev"
+				{
+					"gid"		"6DAB27871828B20E842A42E0ED7430FB"
+					"size"		"6EA54EA20083DCC2DE112A6F30971229"
+					"download"		"AFFA1228E789AE565F46AD19C0926BD7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11797221"
+				"timeupdated"		"1690438150"
+			}
+			"alpha"
+			{
+				"buildid"		"10830038"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679497253"
+			}
+			"debug"
+			{
+				"buildid"		"8187461"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644625969"
+			}
+			"indev"
+			{
+				"buildid"		"12177187"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694600999"
+			}
+		}
+	}
+}
