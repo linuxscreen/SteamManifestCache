@@ -1,0 +1,144 @@
+"appinfo"
+{
+	"appid"		"2403840"
+	"common"
+	{
+		"name"		"CONSORTIUM Remastered Playtest"
+		"type"		"Beta"
+		"parent"		"2380550"
+		"releasestate"		"released"
+		"icon"		"f1a40cf10b8b60e55ec52a854c4f8de9ce028d8e"
+		"clienttga"		"934f70763341ac1bc77429a0193d342efb4c0678"
+		"clienticon"		"f3afd0ab90b34824c862d08c86b4a741d0d2749e"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.03181333018034"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1685845198"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1682405238"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2403840"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"betaforappid"		"2380550"
+	}
+	"config"
+	{
+		"installdir"		"CONSORTIUM Remastered Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ConsortiumGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2403841"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2711423086558676547"
+					"size"		"1866666573"
+					"download"		"1539079936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devbuild"
+				{
+					"gid"		"8DF8ACFD7DE94EA90670652EB8270678"
+					"size"		"35BB7A7CF7B319E9AEA3E22E156E7B4C"
+					"download"		"17EEE76671CCFAF3955BA2A4C3533E50"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11804414"
+				"timeupdated"		"1690481941"
+			}
+			"devbuild"
+			{
+				"buildid"		"11804414"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690481465"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"5000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"idgi\\Consortium"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
