@@ -1,0 +1,246 @@
+"appinfo"
+{
+	"appid"		"885570"
+	"common"
+	{
+		"name"		"Nova-Life: Amboise"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"c6be0759af3cc9ed7e01ea8f4dc87a9264fc8ede"
+		"clienticon"		"c6cf9a3d6b029df97c8b71586d18a640c9eb2ce8"
+		"icon"		"369bbac0f0c947590db98cfd9e0a359bcb053b06"
+		"logo"		"4c34c270fa2bc2459fe4c88dfedc18c0adea9732"
+		"logo_small"		"4c34c270fa2bc2459fe4c88dfedc18c0adea9732_thumb"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"market_presence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1671208499"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TeamNova"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TeamNova"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1595660400"
+		"steam_release_date"		"1555991160"
+		"community_hub_visible"		"1"
+		"gameid"		"885570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"492"
+			"2"		"19"
+			"3"		"113"
+			"4"		"3859"
+			"5"		"493"
+			"6"		"4667"
+			"7"		"122"
+			"8"		"3810"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=885570"
+		"gamedir"		"Nova-Life"
+		"serverbrowsername"		"Nova-Life Servers"
+		"developer"		"TeamNova"
+		"publisher"		"TeamNova"
+		"homepage"		"https://www.nova-life.fr/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Nova-Life"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Nova-Life.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"nova-life.app\\Contents\\MacOS\\Nova-Life"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french"
+		"workshopdepot"		"885570"
+		"hasdepotsindlc"		"1"
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"885571"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7743086334032529173"
+					"size"		"5546448073"
+					"download"		"1390055968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"admin"
+				{
+					"gid"		"B440599672477C6F6E991BFF58883209"
+					"size"		"971316A003D44BDEAC4EB8732CA7B340"
+					"download"		"037ADCA108F6E8B5F5EE89B6C69A57C7"
+				}
+				"test"
+				{
+					"gid"		"47E6A467B5636531B68CFFC234878CDE"
+					"size"		"5D902C8D7D2B335F71EFD17FEF8282A9"
+					"download"		"48C2F95BC6C6E292363D82816C1DFB5D"
+				}
+				"voxel"
+				{
+					"gid"		"3FC1DC4B200C8024D4F65B931D82ACF5"
+					"size"		"FFBFDB06D830F2EA6D6821E3056B8110"
+					"download"		"189FA7E7BE395CEF1C1B1734E28A7549"
+				}
+			}
+		}
+		"885572"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+		}
+		"885573"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+		}
+		"885574"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12151718"
+				"timeupdated"		"1694310012"
+			}
+			"admin"
+			{
+				"buildid"		"11296988"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684845002"
+			}
+			"test"
+			{
+				"buildid"		"12151684"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694309742"
+			}
+			"voxel"
+			{
+				"buildid"		"3818828"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656544770"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
