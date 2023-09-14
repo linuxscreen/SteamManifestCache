@@ -1,0 +1,184 @@
+"appinfo"
+{
+	"appid"		"1248110"
+	"common"
+	{
+		"name"		"Greyhat - Demo"
+		"type"		"Demo"
+		"parent"		"1247940"
+		"releasestate"		"released"
+		"clienticon"		"f7f587535c03dce0ace2f0ac35040259e1e130f4"
+		"clienttga"		"587ce4d808c8a5eed7265a5e0f4745121d276b3e"
+		"icon"		"6d7fd48c6feb360741eba0c5be99202483d76559"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"metacritic_name"		"Greyhat - A Digital Detective Adventure Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"56.48060548722801"
+			}
+		}
+		"store_asset_mtime"		"1582216579"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Limited Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Limited Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1581732936"
+		"gameid"		"1248110"
+	}
+	"extended"
+	{
+		"demoofappid"		"1247940"
+		"developer"		"Limited Games"
+		"publisher"		"Limited Games"
+	}
+	"config"
+	{
+		"installdir"		"Greyhat - Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Greyhat.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"GreyhatDemo.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"8"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1248111"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1712282446812624917"
+					"size"		"239118647"
+					"download"		"168320032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"5E069DA1FFA3C67FCD3E7AD7F74A5631"
+					"size"		"8E7AD638288F00B1D1D376E5922FEF14"
+					"download"		"77B3EF34876B450265A4CE101E1AC1AA"
+				}
+			}
+		}
+		"1248112"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4775890846763589086"
+					"size"		"249505219"
+					"download"		"171573888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"967D27F407AEEAD4D8EE9B424431C205"
+					"size"		"8DCB6AE9BD4624651913340162CF45CE"
+					"download"		"CB11EC2F792C0AFD21E2896C914E90AD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5796671"
+				"timeupdated"		"1604717684"
+			}
+			"test"
+			{
+				"buildid"		"5796671"
+				"pwdrequired"		"1"
+				"timeupdated"		"1604717352"
+			}
+		}
+	}
+}
