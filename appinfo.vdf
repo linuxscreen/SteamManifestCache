@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"944490"
+	"common"
+	{
+		"name"		"Vox Machinae Dedicated Server"
+		"type"		"Tool"
+		"parent"		"334540"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"logo"		"8459e33710e4ae2b4801466c13b56e6bd177e40d"
+		"logo_small"		"8459e33710e4ae2b4801466c13b56e6bd177e40d_thumb"
+		"icon"		"b715532aeeffa793b7862cc4036ddce9c5b4c5ef"
+		"clienticon"		"332ac820c356157f64ae4b8bcf07d8e495751467"
+		"clienttga"		"68ba94b00d1ecab68a3a63ede5183a1321a0e27f"
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"gameid"		"944490"
+	}
+	"config"
+	{
+		"installdir"		"Vox Machinae Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"vmserver.exe"
+				"arguments"		"-bots -playlist \"playlist.txt\""
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"vmserver.x86_64"
+				"arguments"		"-bots -playlist \"playlist.txt\""
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"944491"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7823159004366428076"
+					"size"		"51541395"
+					"download"		"22970640"
+				}
+				"beta"
+				{
+					"gid"		"7823159004366428076"
+					"size"		"51541395"
+					"download"		"22970640"
+				}
+				"stable"
+				{
+					"gid"		"3309836361661249831"
+					"size"		"44871002"
+					"download"		"20152144"
+				}
+			}
+		}
+		"944492"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2625975797854235694"
+					"size"		"196987736"
+					"download"		"49983776"
+				}
+				"beta"
+				{
+					"gid"		"2625975797854235694"
+					"size"		"196987736"
+					"download"		"49983776"
+				}
+				"stable"
+				{
+					"gid"		"495428223912398638"
+					"size"		"71081835"
+					"download"		"18247856"
+				}
+			}
+		}
+		"944494"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5103241250970832898"
+					"size"		"166115498"
+					"download"		"53312208"
+				}
+				"beta"
+				{
+					"gid"		"5103241250970832898"
+					"size"		"166115498"
+					"download"		"53312208"
+				}
+				"stable"
+				{
+					"gid"		"8101331890116151240"
+					"size"		"63488561"
+					"download"		"17014096"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11978942"
+				"timeupdated"		"1692392510"
+			}
+			"beta"
+			{
+				"buildid"		"11978942"
+				"description"		"pre-release testing"
+				"timeupdated"		"1692392275"
+			}
+			"stable"
+			{
+				"buildid"		"6368284"
+				"description"		"stable branch for commercial users"
+				"timeupdated"		"1646418142"
+			}
+		}
+	}
+}
