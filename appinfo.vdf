@@ -1,0 +1,114 @@
+"appinfo"
+{
+	"appid"		"1435710"
+	"common"
+	{
+		"name"		"Animaze Editor"
+		"type"		"Tool"
+		"parent"		"1364390"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"7a71f91e785aa2353103d79b1887fabc396b8a47"
+		"logo_small"		"7a71f91e785aa2353103d79b1887fabc396b8a47_thumb"
+		"icon"		"27aa68272ddb5346bfeceed580b8079bd6d6f04d"
+		"clienticon"		"c0afddecfda943c75b303659473ade389c093ce0"
+		"clienttga"		"47cd94ee8f66050db276b0359bd526900dc828fe"
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"gameid"		"1435710"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Animaze Editor"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bin/Animaze Editor.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,koreana,schinese,tchinese,russian,japanese,brazilian,latam"
+		"1435711"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5045227390114388989"
+					"size"		"205297535"
+					"download"		"58505104"
+				}
+				"preview"
+				{
+					"gid"		"5045227390114388989"
+					"size"		"205297535"
+					"download"		"58505104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"2C1DA4BE2EE8D4F1EA28A4A33E8600EA"
+					"size"		"C3B9795755C53C4B2B42E9DD7DBC9577"
+					"download"		"2E3132636495E16D394E0D438C43959B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11993097"
+				"timeupdated"		"1692629113"
+			}
+			"preview"
+			{
+				"buildid"		"11993097"
+				"description"		"preview branch. try out upcoming features."
+				"timeupdated"		"1692629071"
+			}
+			"staging"
+			{
+				"buildid"		"12131049"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694081121"
+			}
+		}
+	}
+}
