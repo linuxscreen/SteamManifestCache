@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"1239190"
+	"common"
+	{
+		"name"		"Drug Dealer Simulator Demo"
+		"type"		"Demo"
+		"parent"		"682990"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"ee373af588f9e1d2580cf854a034cde50ac2f26e"
+		"clienticon"		"baa792aa47b82523356437f291fbcdbff44182de"
+		"icon"		"4002ff89563b93eea235df3c5515c4c79fb67345"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1582234039"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Byterunners Game Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Movie Games S.A."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Movie Games S.A."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1583327453"
+		"community_hub_visible"		"1"
+		"gameid"		"1239190"
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"demoofappid"		"682990"
+		"developer"		"Byterunners Game Studio"
+		"publisher"		"Movie Games S.A."
+		"homepage"		"http://ddsimulator.com/"
+	}
+	"config"
+	{
+		"installdir"		"Drug Dealer Simulator Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DrugDealerSimulator.exe"
+				"description"		"Play Game"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1239191"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2444213324977977021"
+					"size"		"6430783041"
+					"download"		"6320100096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testy_qa"
+				{
+					"gid"		"D1E657C576997F0CF0D12241C0FADD71"
+					"size"		"65BEC70834DC5BB1F05FA40FBBFC6A80"
+					"download"		"3DB8F8315B8DEEFD29CBD439EE4A9605"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4738202"
+				"timeupdated"		"1583270055"
+			}
+			"testy_qa"
+			{
+				"buildid"		"4738202"
+				"pwdrequired"		"1"
+				"timeupdated"		"1583251153"
+			}
+		}
+	}
+}
