@@ -1,0 +1,152 @@
+"appinfo"
+{
+	"appid"		"850800"
+	"common"
+	{
+		"name"		"Huawei VR2 driver"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"isplugin"		"1"
+		"parent"		"250820"
+		"controllervr"
+		{
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"logo"		"870c1ae65b23040b5a17b1f68f4fc455d742c4f4"
+		"logo_small"		"870c1ae65b23040b5a17b1f68f4fc455d742c4f4_thumb"
+		"icon"		"3886d1a29f9e955d76bd58fe8eb32db6fa5e60bc"
+		"clienttga"		"8dbbb4c6216ca7d5ae04d1f421224b7268d7c2db"
+		"clienticon"		"410926f503f7a2062d4409134c0512cfd44a14b7"
+		"metacritic_name"		"Huawei VR 2"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1532436825"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HUAWEI"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HUAWEI"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"56"
+			"1"		"57"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1532502000"
+		"steam_release_date"		"1524538800"
+		"community_hub_visible"		"1"
+		"gameid"		"850800"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"enablegameoverlayforapp"		"1"
+		"developer"		"HUAWEI"
+		"publisher"		"HUAWEI"
+		"homepage"		"https://www.vmall.com/product/922041175.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Huawei VR2"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"steam://rungameid/250820"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian"
+		"hasdepotsindlc"		"0"
+		"850801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6725020048836175257"
+					"size"		"1131133"
+					"download"		"454416"
+				}
+				"white_list"
+				{
+					"gid"		"6725020048836175257"
+					"size"		"1131133"
+					"download"		"454416"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3318870"
+				"timeupdated"		"1542591338"
+			}
+			"white_list"
+			{
+				"buildid"		"3318870"
+				"description"		"Novidia white list branch"
+				"timeupdated"		"1542591360"
+			}
+		}
+	}
+}
