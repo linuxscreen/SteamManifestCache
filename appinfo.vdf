@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"1943360"
+	"common"
+	{
+		"name"		"The Horror Story: Remastered"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+		}
+		"icon"		"98bb27a0d9b82b0049d060fdf457dd1b1063cbae"
+		"clienticon"		"75a97c0a7d117a4ec0d9da81d43d340f4049ed9e"
+		"clienttga"		"8369667535e81c57fdfed1bb5132683f72bd40ae"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"15.465116279069761"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1683261573"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LeoGameDevs"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Phoenix Limit Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Alternate Universe"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1652832569"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1943360"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"4182"
+			"2"		"3978"
+			"3"		"492"
+			"4"		"1721"
+			"5"		"4026"
+			"6"		"3839"
+			"7"		"4166"
+			"8"		"4342"
+			"9"		"4345"
+			"10"		"3854"
+			"11"		"4234"
+			"12"		"15954"
+			"13"		"1742"
+			"14"		"1662"
+			"15"		"597"
+			"16"		"19"
+			"17"		"21"
+			"18"		"6426"
+			"19"		"6971"
+		}
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"1"
+		"remoteplaytogethertestingbranches"		"default,beta"
+		"developer"		"LeoGameDevs"
+		"publisher"		"Phoenix Limit Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Horror Story Remastered"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HorrorStory.exe"
+				"arguments"		"-FullScreen"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1943361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9137213360394748382"
+					"size"		"642895334"
+					"download"		"502269056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"283D28F54CEC4B0628A0B2C5A8FB9DEB"
+					"size"		"7AE0F49AD97508F38001B56795A28F4A"
+					"download"		"C604FCBBB6542156B153443E8FC93603"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11887940"
+				"timeupdated"		"1691450972"
+			}
+			"beta"
+			{
+				"buildid"		"11887940"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691450950"
+			}
+		}
+	}
+}
