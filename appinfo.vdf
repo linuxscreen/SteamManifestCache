@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"752600"
+	"common"
+	{
+		"name"		"Dual Snake"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"b7301b05dcff8c38a23ab587f37af73f6ee2611d"
+		"logo_small"		"b7301b05dcff8c38a23ab587f37af73f6ee2611d_thumb"
+		"clienttga"		"63e6656c8d519f7807c496885f30b0b43bcd3a06"
+		"clienticon"		"c589dea1ce4c6c5f67612623fb1a6da091ac8ac8"
+		"icon"		"b3a11c4608d65be8b73eba4c1b12021f85693c42"
+		"metacritic_name"		"Dual Snake"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.16336056009331"
+				"height_pct"		"61.39871764426505"
+			}
+		}
+		"store_asset_mtime"		"1568750604"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Yfrit Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Yfrit Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_15"		"1"
+			"category_17"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1517364000"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"752600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"597"
+			"3"		"1664"
+			"4"		"113"
+			"5"		"4026"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Yfrit Games"
+		"publisher"		"Yfrit Games"
+		"homepage"		"http://yfrit.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dual Snake"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dual Snake.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"workshopdepot"		"752600"
+		"752601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7783114798470394179"
+					"size"		"61269155"
+					"download"		"56424384"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7613670"
+				"timeupdated"		"1635464475"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"400000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Dual Snake"
+				"pattern"		"save.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
