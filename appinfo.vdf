@@ -1,0 +1,322 @@
+"appinfo"
+{
+	"appid"		"622970"
+	"common"
+	{
+		"name"		"Pavlov VR Dedicated Server"
+		"type"		"Tool"
+		"parent"		"555160"
+		"oslist"		""
+		"osarch"		""
+		"logo"		"55d800ee937a747d99d5c887eb3c7938ea902090"
+		"logo_small"		"55d800ee937a747d99d5c887eb3c7938ea902090_thumb"
+		"icon"		"dd6b12c785905be249de30bec09fe996170ce880"
+		"clienttga"		"147d1ede6093cd93f1626703311d5221fe88cfb7"
+		"clienticon"		"99bd6b7384b2024a23f8c8f415c509f2c5ff0ab0"
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"gameid"		"622970"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"PavlovVRServer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Pavlov/Binaries/Linux/PavlovServer"
+				"arguments"		"office_map?listen?bots=1"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"622971"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3787550360311027215"
+					"size"		"6194829343"
+					"download"		"1143440832"
+				}
+				"beta_server"
+				{
+					"gid"		"2574992561859345758"
+					"size"		"1944942831"
+					"download"		"399402416"
+				}
+				"docker"
+				{
+					"gid"		"6227886927471103421"
+					"size"		"3116916540"
+					"download"		"769319520"
+				}
+				"docker_beta"
+				{
+					"gid"		"5147461459264594208"
+					"size"		"3108157472"
+					"download"		"767135120"
+				}
+				"docker_shack"
+				{
+					"gid"		"7518500948355498942"
+					"size"		"3108163559"
+					"download"		"767138752"
+				}
+				"docker_shack_beta"
+				{
+					"gid"		"3868511002947623350"
+					"size"		"3263681349"
+					"download"		"803852160"
+				}
+				"dummy"
+				{
+					"gid"		"3425611114712832410"
+					"size"		"969"
+					"download"		"736"
+				}
+				"legacy"
+				{
+					"gid"		"6227886927471103421"
+					"size"		"3116916540"
+					"download"		"769319520"
+				}
+				"shack"
+				{
+					"gid"		"510778677660452160"
+					"size"		"1852138741"
+					"download"		"384684432"
+				}
+				"shack_beta"
+				{
+					"gid"		"510778677660452160"
+					"size"		"1852138741"
+					"download"		"384684432"
+				}
+				"shack_docker"
+				{
+					"gid"		"7912308253716083771"
+					"size"		"2280802128"
+					"download"		"521779744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"nighly"
+				{
+					"gid"		"35051FAB78DB48AF2E10BAE5183F0370"
+					"size"		"5F32722A99FC428929F933AB3E22D3A5"
+					"download"		"7042B4D921DDB12758B3426062637104"
+				}
+				"nighly_arm64"
+				{
+					"gid"		"210881CDCC747DEF1A58D52308186623"
+					"size"		"DFBEAB39F61924703D171CD192A1F902"
+					"download"		"50AEEDEEEF51087873AD92E9842EB882"
+				}
+				"nighly_shack"
+				{
+					"gid"		"FE16C73F230BFC194D775006AD29AE81"
+					"size"		"321E76D4840DF7014FD7099012062900"
+					"download"		"DF61F0D04A40C24CB92045D648EC3011"
+				}
+				"nighly_shack_arm64"
+				{
+					"gid"		"029B858C9A1C4F82669D148C9A948E1D"
+					"size"		"ACAA9BFC0BE87833D90DCA6B3BC1FD73"
+					"download"		"8E03223931F278F01FE55D98307E50C7"
+				}
+				"shacktesters"
+				{
+					"gid"		"AB8D284CDF5F8DF839013686D2331FA1"
+					"size"		"82A5BB8FDB2CFC075D6B2F061388CEA3"
+					"download"		"FF5161E923D8F423F5D84787DA380853"
+				}
+				"stable_rc"
+				{
+					"gid"		"D3F360E5F5549ED5013E5A45F0350D98"
+					"size"		"0DB5D041E3A69B92A062457892F153AC"
+					"download"		"85D9DE6FD56035EFB51D44F6CBDC3549"
+				}
+				"wizards"
+				{
+					"gid"		"CAA5D69B443E1044DB019FFB94DC5680"
+					"size"		"83DF3874270420B01290D28FCB8399C1"
+					"download"		"B7CD821715E705982FB72B1F6FDDCB84"
+				}
+			}
+		}
+		"workshopdepot"		"622970"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11886816"
+				"timeupdated"		"1691516149"
+			}
+			"beta_server"
+			{
+				"buildid"		"11886699"
+				"timeupdated"		"1691521177"
+			}
+			"docker"
+			{
+				"buildid"		"8076883"
+				"timeupdated"		"1686586692"
+			}
+			"docker_beta"
+			{
+				"buildid"		"7929609"
+				"timeupdated"		"1640212157"
+			}
+			"docker_shack"
+			{
+				"buildid"		"7915932"
+				"description"		"new docker branch"
+				"timeupdated"		"1640035871"
+			}
+			"docker_shack_beta"
+			{
+				"buildid"		"8953572"
+				"description"		"new"
+				"timeupdated"		"1655433703"
+			}
+			"dummy"
+			{
+				"buildid"		"6028084"
+				"description"		"empty shell don't delete"
+				"timeupdated"		"1609417460"
+			}
+			"legacy"
+			{
+				"buildid"		"8076883"
+				"description"		"Update 28 with Workshop"
+				"timeupdated"		"1686261512"
+			}
+			"nighly"
+			{
+				"buildid"		"12171929"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694552732"
+			}
+			"nighly_arm64"
+			{
+				"buildid"		"8774567"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653004510"
+			}
+			"nighly_shack"
+			{
+				"buildid"		"12172268"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694550954"
+			}
+			"nighly_shack_arm64"
+			{
+				"buildid"		"8816294"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653585272"
+			}
+			"shack"
+			{
+				"buildid"		"12137074"
+				"timeupdated"		"1694135528"
+			}
+			"shack_beta"
+			{
+				"buildid"		"12137074"
+				"description"		"beta"
+				"timeupdated"		"1694544278"
+			}
+			"shack_docker"
+			{
+				"buildid"		"6282543"
+				"timeupdated"		"1614724243"
+			}
+			"shacktesters"
+			{
+				"buildid"		"11896915"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691533923"
+			}
+			"stable_rc"
+			{
+				"buildid"		"12034897"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693441242"
+			}
+			"wizards"
+			{
+				"buildid"		"12136108"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694122044"
+			}
+		}
+	}
+}
