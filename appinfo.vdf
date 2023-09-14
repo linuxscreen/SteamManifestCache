@@ -1,0 +1,396 @@
+"appinfo"
+{
+	"appid"		"1865780"
+	"common"
+	{
+		"name"		"Downfall - A Slay the Spire Fan Expansion"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"a2ff4fbb3f6529f3e89490a6ef7ad5dcd41d3e6f"
+		"logo_small"		"a2ff4fbb3f6529f3e89490a6ef7ad5dcd41d3e6f_thumb"
+		"icon"		"1a73ddfc8b6c23370c850a8398408055c036c30d"
+		"clienttga"		"a831c01c2704f77b7c682f874a245eebcd8cc19d"
+		"clienticon"		"05fc236cf81ce4ada18a9d1060c63a75d6980e24"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1652227200"
+			"tested_build_id"		"8511465"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"3"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"93.30756379552247"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1644865151"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Table 9 Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Table 9 Studio"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1648249695"
+		"community_hub_visible"		"1"
+		"gameid"		"1865780"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"122"
+			"3"		"1666"
+			"4"		"1716"
+			"5"		"5348"
+			"6"		"1091588"
+			"7"		"113"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"requiredappid"		"646570"
+		"isfreeapp"		"1"
+		"developer"		"Table 9 Studio"
+		"publisher"		"Table 9 Studio"
+		"homepage"		"https://steamcommunity.com/sharedfiles/filedetails/?id=1610056683"
+	}
+	"config"
+	{
+		"installdir"		"Downfall - A Slay the Spire Fan Expansion"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"jre/bin/javaw.exe"
+				"arguments"		"-jar desktop-1.0-modded.jar"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"jre/Contents/Home/bin/java"
+				"arguments"		"-jar desktop-1.0-modded.jar"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"jre/bin/java"
+				"arguments"		"-jar desktop-1.0-modded.jar"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1865781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8252140703053342125"
+					"size"		"871890959"
+					"download"		"790996256"
+				}
+				"4.2finalupdate"
+				{
+					"gid"		"3743582517735656579"
+					"size"		"799554382"
+					"download"		"720133216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"A9049B5083F840635F9BCF4AC374EE8B"
+					"size"		"728A63CB8C08E25C3238A56C0F22D183"
+					"download"		"E6C9FEFD4D2184A71746B57167A4DEC1"
+				}
+				"macbranch"
+				{
+					"gid"		"DCE2FAB77718A91761ADF681E7257B9B"
+					"size"		"AD7C2C415094434B1992BC44306E4382"
+					"download"		"BE73D8B8F6A3FA2C30BAD2769A1B033E"
+				}
+			}
+		}
+		"1865782"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6276343642126150103"
+					"size"		"896641151"
+					"download"		"792402144"
+				}
+				"4.2finalupdate"
+				{
+					"gid"		"5398282534369506606"
+					"size"		"824304574"
+					"download"		"721539104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"F03125AC8E1AB92AD8FFE11EC7B46945"
+					"size"		"A5A0553978883E7605ED5D0101D4178E"
+					"download"		"374B0A3744515FBE134A16D39075C244"
+				}
+				"macbranch"
+				{
+					"gid"		"633242EFB82E0BA61C52FD86842B342E"
+					"size"		"6F4698948BC814D5E5DFB7C8F5B11B23"
+					"download"		"C9DD778D4F5311FE502EDEA7D990276E"
+				}
+			}
+		}
+		"1865783"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5804298179341628538"
+					"size"		"880615505"
+					"download"		"792106672"
+				}
+				"4.2finalupdate"
+				{
+					"gid"		"8960903347412847753"
+					"size"		"808278928"
+					"download"		"721243632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"68E071493825150A6C8059D4A3620B7C"
+					"size"		"7F02AA63A58EF2B7C58917E747C1BE21"
+					"download"		"2F4E7B8B91403EDA8FBE992D27F8215B"
+				}
+				"macbranch"
+				{
+					"gid"		"94DEB5BAB6E01A47D02D69FAE660EC33"
+					"size"		"84848F9388F46C3743C2271C6C793118"
+					"download"		"115086A1F8D57D25D915909C131D55D7"
+				}
+			}
+		}
+		"1865784"
+		{
+			"config"
+			{
+				"osarch"		"32"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3913290556993771495"
+					"size"		"866312878"
+					"download"		"789829408"
+				}
+				"4.2finalupdate"
+				{
+					"gid"		"1677493189855880238"
+					"size"		"793976301"
+					"download"		"718966592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"3BF0849439F8C9C289EBC9F92D886EAB"
+					"size"		"FA82BA8C0A74EA36F22E757B7B56ED59"
+					"download"		"0941C6F225E37D0403E7538AF15CE1F6"
+				}
+				"macbranch"
+				{
+					"gid"		"8470F47F475D82C2FAB3AAFDAE200905"
+					"size"		"A18C01DB2CA4E53639FA1C33E719754A"
+					"download"		"F6823E7EB0B70AE313E2957980395573"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11962317"
+				"timeupdated"		"1692256632"
+			}
+			"4.2finalupdate"
+			{
+				"buildid"		"10077942"
+				"description"		"The last update prior to 4.3's release"
+				"timeupdated"		"1680111947"
+			}
+			"experimental"
+			{
+				"buildid"		"11962317"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692255765"
+			}
+			"macbranch"
+			{
+				"buildid"		"8418189"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647970115"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"300000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"preferences"
+				"pattern"		"*.*"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"saves"
+				"pattern"		"*.*"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"betapreferences"
+				"pattern"		"*.*"
+			}
+		}
+	}
+}
