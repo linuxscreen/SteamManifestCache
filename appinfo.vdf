@@ -1,0 +1,114 @@
+"appinfo"
+{
+	"appid"		"1882310"
+	"common"
+	{
+		"name"		"Creature Lab Demo"
+		"type"		"Demo"
+		"parent"		"1309990"
+		"clienticon"		"0f5c2d05a1e5109485fff2aa08d3d0b8e7f0a093"
+		"clienttga"		"a6e3be79dc78c97b6e8185f29fb66455207431ef"
+		"icon"		"3b6cf51e06896b7b8554aba65bd047066d93e6b0"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1642761133"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Image Power S.A."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Image Power S.A."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"steam_release_date"		"1645459178"
+		"gameid"		"1882310"
+	}
+	"extended"
+	{
+		"demoofappid"		"1309990"
+		"developer"		"Image Power S.A."
+		"publisher"		"Image Power S.A."
+	}
+	"config"
+	{
+		"installdir"		"Creature Lab Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PWLauncherBootstrapper.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1882311"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4358023868755967832"
+					"size"		"8693054503"
+					"download"		"7982316064"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8718596"
+				"timeupdated"		"1652365011"
+			}
+		}
+	}
+}
