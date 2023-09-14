@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"1625080"
+	"common"
+	{
+		"name"		"做个好梦"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"74b11e09fb617522330ed4f1a388efff44afe9b1"
+		"logo"		"49da426b38bdcf69bf26026b0ecb5236e7e6df93"
+		"logo_small"		"49da426b38bdcf69bf26026b0ecb5236e7e6df93_thumb"
+		"icon"		"bcffffa77017d142f0fc3415cc6cbce3a650254b"
+		"clienticns"		"4af9aea717478ef5d08ad470c10288af3b5e756d"
+		"clienticon"		"59b8080890e00c8589830cba25c1ec342567cc38"
+		"linuxclienticon"		"7d1817ed87f8a17a671b5f53c9add439b27b9a37"
+		"name_localized"
+		{
+			"schinese"		"做个好梦"
+		}
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"78.48837209302324"
+				"height_pct"		"36.701496081690806"
+			}
+		}
+		"store_asset_mtime"		"1620374124"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"榭季生"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"榭季生"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1621839845"
+		"community_hub_visible"		"1"
+		"gameid"		"1625080"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21"
+			"2"		"1664"
+			"3"		"3964"
+			"4"		"1721"
+			"5"		"113"
+			"6"		"5608"
+			"7"		"5379"
+			"8"		"5984"
+			"9"		"4094"
+			"10"		"492"
+			"11"		"4182"
+			"12"		"7250"
+			"13"		"1667"
+			"14"		"5577"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"榭季生"
+		"publisher"		"榭季生"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"zghm"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"Game.exe"
+				}
+				"description_loc"
+				{
+					"english"		"A Dream"
+					"schinese"		"做个好梦"
+				}
+				"description"		"A Dream"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"hasdepotsindlc"		"1"
+		"1625081"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7701346663809710347"
+					"size"		"258914505"
+					"download"		"254589280"
+				}
+				"english"
+				{
+					"gid"		"7701346663809710347"
+					"size"		"258914505"
+					"download"		"254589280"
+				}
+			}
+		}
+		"1625082"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4895633187122449998"
+					"size"		"352421976"
+					"download"		"342412544"
+				}
+				"english"
+				{
+					"gid"		"4895633187122449998"
+					"size"		"352421976"
+					"download"		"342412544"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9384228"
+				"timeupdated"		"1661435941"
+			}
+			"english"
+			{
+				"buildid"		"9384228"
+				"description"		"English"
+				"timeupdated"		"1661408927"
+			}
+		}
+	}
+}
