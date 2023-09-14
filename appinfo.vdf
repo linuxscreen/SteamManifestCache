@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"1049800"
+	"common"
+	{
+		"name"		"BLOCKADE "
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"db390bfd515e97d8bf0418ac1eb5ec94673fd878"
+		"clienticon"		"8175a462339bbb28c318685871acb4ae174e6d1a"
+		"icon"		"40856e182872bbe104769c391b27faaff24923ec"
+		"logo"		"61976ea8c92efe497d684d69a574c7288f8f20d2"
+		"logo_small"		"61976ea8c92efe497d684d69a574c7288f8f20d2_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"79.09215489403269"
+				"height_pct"		"61.62431726430776"
+			}
+		}
+		"store_asset_mtime"		"1689372922"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Novalink"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Novalink"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1415174400"
+		"steam_release_date"		"1558427426"
+		"community_hub_visible"		"1"
+		"gameid"		"1049800"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"1663"
+			"3"		"1774"
+			"4"		"3859"
+			"5"		"3964"
+			"6"		"128"
+			"7"		"492"
+			"8"		"3839"
+			"9"		"1659"
+			"10"		"1685"
+			"11"		"1643"
+			"12"		"1721"
+			"13"		"493"
+			"14"		"5711"
+			"15"		"1662"
+			"16"		"597"
+			"17"		"1667"
+			"18"		"4345"
+			"19"		"1695"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Novalink"
+		"publisher"		"Novalink"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BLOCKADE"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BlockadeEAC.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1049801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5658200272774107028"
+					"size"		"769484777"
+					"download"		"297734608"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11811109"
+				"timeupdated"		"1690545425"
+			}
+		}
+	}
+}
