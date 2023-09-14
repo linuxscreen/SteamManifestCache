@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"798350"
+	"common"
+	{
+		"name"		"Capsule Jump"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"logo"		"9a200fc0368bb56d43ccdfc27534515563d3e720"
+		"logo_small"		"9a200fc0368bb56d43ccdfc27534515563d3e720_thumb"
+		"icon"		"6750718bd3377dc15027e928d3bdc4b4b29fe89e"
+		"clienticon"		"194bb4c346d0b4ccf0460aefc298c8b88a0dd1b9"
+		"clienttga"		"3561a90cde45eb199d40c1e80e3725045da14ca4"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+		}
+		"osextended"		""
+		"metacritic_name"		"Capsule Jump"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"63.95881006864987"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1572357036"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Generouz Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ZuHause Studios"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1487836800"
+		"steam_release_date"		"1519147380"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"798350"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Generouz Entertainment"
+		"publisher"		"ZuHause Studios"
+		"homepage"		"https://zuhausestudios.wordpress.com/capsule-jump/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Capsule Jump"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Capsule Jump.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Capsule Jump.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Capsule Jump.app\\Contents\\MacOS\\Capsule Jump"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"798351"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1571518428878216140"
+					"size"		"408813134"
+					"download"		"316376224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DCD0D0B6AEAAF82198BB8F747DADC045"
+					"size"		"3F46E4D00ECC452ED9B9A1439A819A4D"
+					"download"		"341EE959637E3D9DD0EE01384FEEA5F0"
+				}
+			}
+		}
+		"798352"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"152325259843334001"
+					"size"		"454058426"
+					"download"		"334847600"
+				}
+			}
+		}
+		"798353"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"579493695286658311"
+					"size"		"415797632"
+					"download"		"320629616"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4537964"
+				"timeupdated"		"1578001664"
+			}
+			"beta"
+			{
+				"buildid"		"2695237"
+				"pwdrequired"		"1"
+				"timeupdated"		"1524072218"
+			}
+		}
+	}
+}
