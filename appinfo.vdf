@@ -1,0 +1,516 @@
+"appinfo"
+{
+	"appid"		"438100"
+	"common"
+	{
+		"name"		"VRChat"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"438100_eula_0"
+				"name"		"VRChat EULA"
+				"url"		"http://store.steampowered.com//eula/438100_eula_0"
+				"version"		"2"
+			}
+		}
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+			"xinput"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"62385c4bb53297d192a76829fce5d05b1f28ab90"
+		"logo_small"		"62385c4bb53297d192a76829fce5d05b1f28ab90_thumb"
+		"clienticon"		"5ed134e4cbe39e09ddc5bcc5862dba0c500f2829"
+		"clienttga"		"56fe1976278cb2e461a7446bbe71e7ff9d9c5b08"
+		"icon"		"52c5f93bd9f8de008307f5fad95023600267462c"
+		"openvr_controller_bindings"
+		{
+			"0"
+			{
+				"controller_type"		"knuckles"
+				"url"		"vr-input-workshop://2202082332"
+			}
+			"1"
+			{
+				"controller_type"		"vive_controller"
+				"url"		"vr-input-workshop://2212264626"
+			}
+			"2"
+			{
+				"controller_type"		"holographic_controller"
+				"url"		"vr-input-workshop://2435493967"
+			}
+			"3"
+			{
+				"controller_type"		"oculus_touch"
+				"url"		"vr-input-workshop://2194319326"
+			}
+			"4"
+			{
+				"controller_type"		"hpmotioncontroller"
+				"url"		"vr-input-workshop://2404650863"
+			}
+		}
+		"openvrsupport"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1684454400"
+			"tested_build_id"		"11044063"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"VRChat"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"33"
+				"height_pct"		"42"
+			}
+		}
+		"store_asset_mtime"		"1689193285"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VRChat Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VRChat Inc."
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"29"
+			"3"		"28"
+			"4"		"18"
+			"5"		"37"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_20"		"1"
+			"category_28"		"1"
+			"category_52"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1485936000"
+		"steam_release_date"		"1485986340"
+		"community_hub_visible"		"1"
+		"gameid"		"438100"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"113"
+			"2"		"3859"
+			"3"		"10397"
+			"4"		"4085"
+			"5"		"4136"
+			"6"		"128"
+			"7"		"3839"
+			"8"		"493"
+			"9"		"1695"
+			"10"		"599"
+			"11"		"597"
+			"12"		"21"
+			"13"		"1754"
+			"14"		"1719"
+			"15"		"3810"
+			"16"		"19"
+			"17"		"9551"
+			"18"		"3978"
+			"19"		"4166"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"disable_shader_precaching"		"1"
+		"disableshaderreporting"		"1"
+		"developer"		"VRChat Inc."
+		"publisher"		"VRChat Inc."
+		"homepage"		"http://www.vrchat.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"VRChat"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launch.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"VRChat"
+				}
+				"description"		"VRChat"
+			}
+			"1"
+			{
+				"executable"		"launch.exe"
+				"arguments"		"--no-vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch in Desktop (Non-VR) Mode"
+				}
+				"description"		"Launch in Desktop (Non-VR) Mode"
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2217484570"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		""
+				"use_action_block"		"false"
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2800519523"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"2800577770"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"2800581356"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"2804310206"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"2804313527"
+			{
+				"controller_type"		"controller_switch_pro"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65526"
+		"uselaunchcommandline"		"1"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"438101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8008128395415543089"
+					"size"		"1052062691"
+					"download"		"366811936"
+				}
+				"open-beta"
+				{
+					"gid"		"4541497066369755580"
+					"size"		"973113696"
+					"download"		"361195136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"apricot"
+				{
+					"gid"		"4C3B37C998962983E9D46FF090DCD58B"
+					"size"		"2936A98106D65991DCFEFE838133A055"
+					"download"		"3B789BD2936023FFE63C1E2BB7A5ACFD"
+				}
+				"donkey-kong"
+				{
+					"gid"		"5DDF30C27FF03DEB099AE43CAE847663"
+					"size"		"FF37A7F737D51B832A56BC2488D9843F"
+					"download"		"9161CE3C2672EDF565FBE31C59CEF317"
+				}
+				"internal-beta"
+				{
+					"gid"		"2699252D606C8FD0899095988DE673FB"
+					"size"		"183E3C35C36A0D20D4C258CC449D5D64"
+					"download"		"12D87FA3A190C8F461542D10688E92CC"
+				}
+				"j-test"
+				{
+					"gid"		"D70F23830D62BD7F609FFA498FEBD8DB"
+					"size"		"24182A89ECF352448147E4AB06F5DF35"
+					"download"		"82135FB74BEF625D410D038110336562"
+				}
+				"j-test-dev"
+				{
+					"gid"		"AD702952262D6796561010A011F55837"
+					"size"		"755D6D4580AD8E74ABEE2C2D50CE176F"
+					"download"		"E74AC2FF17C5CE81DC28AA24FBF91E9A"
+				}
+				"k-dev"
+				{
+					"gid"		"931A89E12603BC888EE913418371C51A"
+					"size"		"527C0680C2396CD04E40D2AEA2B3A6F2"
+					"download"		"6E60758F264CE7B2DFCA04D230CBBDD7"
+				}
+				"n-dev"
+				{
+					"gid"		"775E9B6211B135CDE08BCF9DDC481572"
+					"size"		"469B160B6C91055EC88BF956822AE708"
+					"download"		"B79A900A54DFC42A90704BCC6F1F587F"
+				}
+				"noise"
+				{
+					"gid"		"922593F6829F46FD7683E104D7DCF0C6"
+					"size"		"0A3D6A76E2A42CC317382201853D37C1"
+					"download"		"3907D161E9B68783C9218B79C19FC5F0"
+				}
+				"o-test"
+				{
+					"gid"		"85E12948AB7869063C0A1B79A1A4A7F6"
+					"size"		"10A35C10DE618628AF5824EFB82F51EC"
+					"download"		"7D62DFDA6A4A72C81A899E53122D84A7"
+				}
+				"w-bugs"
+				{
+					"gid"		"34E49029F7F0102E26BE7EF5F5CBAC5F"
+					"size"		"19DFC3971960FE0D83F312A0E2791FE0"
+					"download"		"800212688AB4DBAEC8896CF32D971DE2"
+				}
+				"w-test"
+				{
+					"gid"		"03B74E7D70DA97C613F60164B2B23D63"
+					"size"		"CFC06931CF6A2D2C7F559D3538C65FAB"
+					"download"		"34F4A2CDEC7F2E87BD7FE39A3C57F89F"
+				}
+				"w-test-dev"
+				{
+					"gid"		"2BF6BC6445E682FFDB6A3ABF68F60957"
+					"size"		"293A7841174CE11F869BEA39FC86AF7B"
+					"download"		"C968789BFED3FE0F83C1E3EFBCBBF9B9"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12126361"
+				"timeupdated"		"1694107088"
+			}
+			"apricot"
+			{
+				"buildid"		"12036219"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693004737"
+			}
+			"donkey-kong"
+			{
+				"buildid"		"11707992"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689381430"
+			}
+			"internal-beta"
+			{
+				"buildid"		"12144983"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694200369"
+			}
+			"j-test"
+			{
+				"buildid"		"12036219"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693001784"
+			}
+			"j-test-dev"
+			{
+				"buildid"		"12026607"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692916745"
+			}
+			"k-dev"
+			{
+				"buildid"		"11968846"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692313448"
+			}
+			"n-dev"
+			{
+				"buildid"		"9265277"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659927887"
+			}
+			"noise"
+			{
+				"buildid"		"12083470"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693524400"
+			}
+			"o-test"
+			{
+				"buildid"		"11450666"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686588979"
+			}
+			"open-beta"
+			{
+				"buildid"		"12144983"
+				"description"		"Open Beta"
+				"timeupdated"		"1694205512"
+			}
+			"w-bugs"
+			{
+				"buildid"		"11081327"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682381604"
+			}
+			"w-test"
+			{
+				"buildid"		"12115553"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693940288"
+			}
+			"w-test-dev"
+			{
+				"buildid"		"12115542"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693940256"
+			}
+		}
+	}
+}
