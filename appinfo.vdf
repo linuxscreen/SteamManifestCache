@@ -1,0 +1,242 @@
+"appinfo"
+{
+	"appid"		"1329410"
+	"common"
+	{
+		"name"		"雀魂麻将(MahjongSoul)"
+		"type"		"Game"
+		"logo"		"417700874402a6e50790dbee42f4a041873ab2ea"
+		"logo_small"		"417700874402a6e50790dbee42f4a041873ab2ea_thumb"
+		"icon"		"262db8949a5c064435dcb3aec4182c919dfd1976"
+		"clienticon"		"eb4606d3c5887c5cbf42974f7ef4cee7530c9860"
+		"clienttga"		"0b50596894434afac7ad0107081b4bda62a7ae3a"
+		"linuxclienticon"		"6413683dfe731dd1d26e8020d39e1e0023adde78"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"name_localized"
+		{
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1680048000"
+			"tested_build_id"		"10836438"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw"
+			"library_hero"		"en,zh-cn,zh-tw,ja"
+			"library_logo"		"en,zh-cn,zh-tw,ja"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"48.13302217036173"
+				"height_pct"		"71.27760626929472"
+			}
+		}
+		"store_asset_mtime"		"1600159467"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Catfood Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Catfood Studio"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_35"		"1"
+			"category_2"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1594792206"
+		"community_hub_visible"		"1"
+		"gameid"		"1329410"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1721"
+			"1"		"29482"
+			"2"		"1667"
+			"3"		"4064"
+			"4"		"12095"
+			"5"		"113"
+			"6"		"3978"
+			"7"		"17389"
+			"8"		"4026"
+			"9"		"6650"
+			"10"		"1775"
+			"11"		"3859"
+			"12"		"1663"
+			"13"		"597"
+			"14"		"5611"
+			"15"		"4085"
+			"16"		"4726"
+			"17"		"9551"
+			"18"		"33572"
+			"19"		"9"
+		}
+		"review_score"		"5"
+		"review_percentage"		"55"
+	}
+	"extended"
+	{
+		"developer"		"Catfood Studio"
+		"publisher"		"Catfood Studio"
+		"homepage"		"https://www.maj-soul.net/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MahjongSoul"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Jantama_MahjongSoul.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Jantama_MahjongSoul.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1329411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5994825155431398040"
+					"size"		"1747637711"
+					"download"		"1527510656"
+				}
+			}
+		}
+		"1329412"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7001275322785691979"
+					"size"		"1538698430"
+					"download"		"1347942112"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12029214"
+				"timeupdated"		"1692940384"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_game"		"%desc%"
+				}
+			}
+		}
+	}
+}
