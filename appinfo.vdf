@@ -1,0 +1,243 @@
+"appinfo"
+{
+	"appid"		"276160"
+	"common"
+	{
+		"name"		"Sven Co-op SDK"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"parent"		"225840"
+		"clienticon"		"2c6bfe7615216c946a033d2af1b4a13ac42a8b5d"
+		"clienttga"		"e2fe9f9dcf6615e17699cd6d8f7e673d502f9c9a"
+		"icon"		"bd7fd00367baff065474b9269dbfe76bb6ef11e5"
+		"clienticns"		"8b085221e0454a80ccc9fc8766647f1a6d68b03a"
+		"linuxclienticon"		"ec65aa7404ebb1e0a399561324fad8c183ca7554"
+		"logo"		"72249b8fb732be165ba65f58ba668429c8ace34a"
+		"logo_small"		"72249b8fb732be165ba65f58ba668429c8ace34a_thumb"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"associations"
+		{
+		}
+		"gameid"		"276160"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"gamedir"		""
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Sven Co-op SDK"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"mapping\\hammer\\svencraft.exe"
+				"workingdir"		"mapping\\hammer"
+				"description"		"Svencraft Map Editor"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"mapping\\hammer\\hammer-3.5.exe"
+				"workingdir"		"mapping\\hammer"
+				"description"		"Hammer Map Editor (classic)"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"mapping\\hammer\\hammer-wadconfig.exe"
+				"workingdir"		"mapping\\hammer"
+				"description"		"Hammer Map Editor - WAD configuration utility"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"svencoop/manual/index.html"
+				"description"		"Game Manual"
+				"type"		"manual"
+			}
+		}
+	}
+	"depots"
+	{
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"276161"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1669603942072362195"
+					"size"		"26930741"
+					"download"		"9464288"
+				}
+				"release_candidate_public"
+				{
+					"gid"		"1669603942072362195"
+					"size"		"26930741"
+					"download"		"9464288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"BC4BE4E31897DB68EEAEEEA1495C0CE5"
+					"size"		"095E061821958288708CFF47B11BF02A"
+					"download"		"828F1C47F19174CF89922F16C9ACA13F"
+				}
+				"release_candidate_community"
+				{
+					"gid"		"23F432388B75AD18FA0004E355F6FB01"
+					"size"		"218B7E561984E67F7E0655183233D5CB"
+					"download"		"893ED54918DE49FAD980EB5AF12CA8AB"
+				}
+				"release_candidate_rage"
+				{
+					"gid"		"8040706E14723D8281C6C3EE42EDB78B"
+					"size"		"AD260041A6F0687C364439CA6DFDD52D"
+					"download"		"0C8BD1D2727219BF0F3921F7868FF732"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7342111"
+				"timeupdated"		"1631361424"
+			}
+			"release_candidate"
+			{
+				"buildid"		"12039442"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693058189"
+			}
+			"release_candidate_community"
+			{
+				"buildid"		"12039442"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693058204"
+			}
+			"release_candidate_public"
+			{
+				"buildid"		"7342111"
+				"description"		"Release candidate (public)"
+				"timeupdated"		"1631344256"
+			}
+			"release_candidate_rage"
+			{
+				"buildid"		"12039442"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694187954"
+			}
+		}
+	}
+}
