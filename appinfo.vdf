@@ -1,0 +1,358 @@
+"appinfo"
+{
+	"appid"		"678800"
+	"common"
+	{
+		"name"		"SAS: Zombie Assault 4"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticon"		"5503380afce8895c810053c597972e288b92daf3"
+		"clienttga"		"a783cec879c30043d894e83984173b65ed334b51"
+		"icon"		"17b0921c630762b84166b50c29eb976b313245c2"
+		"logo"		"cb50083154e3694c144a188ec5f350370e0b36b2"
+		"logo_small"		"cb50083154e3694c144a188ec5f350370e0b36b2_thumb"
+		"releasestate"		"released"
+		"osextended"		"macos64,macosnotarized"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646179200"
+			"tested_build_id"		"7683135"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"SAS: Zombie Assault 4"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.23103850641773"
+				"height_pct"		"51.51982901923534"
+			}
+		}
+		"store_asset_mtime"		"1667383789"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ninja Kiwi"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ninja Kiwi"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1508153460"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"678800"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1659"
+			"2"		"3859"
+			"3"		"4637"
+			"4"		"19"
+			"5"		"1685"
+			"6"		"1774"
+			"7"		"4791"
+			"8"		"122"
+			"9"		"1662"
+			"10"		"3871"
+			"11"		"4182"
+			"12"		"3843"
+			"13"		"1667"
+			"14"		"3942"
+			"15"		"4345"
+			"16"		"4667"
+			"17"		"4166"
+			"18"		"597"
+			"19"		"1663"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Ninja Kiwi"
+		"publisher"		"Ninja Kiwi"
+		"homepage"		"http://ninjakiwi.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SAS Zombie Assault 4"
+		"steamcontrollertemplateindex"		"1"
+		"usemms"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SAS4-Win.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SAS4-Steam.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollerconfigdetails"
+		{
+			"1139946304"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,development"
+			}
+			"1141271955"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,development"
+			}
+			"1141240467"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,development"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"7"
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"678801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3282875192837946123"
+					"size"		"257219486"
+					"download"		"215793408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"content"
+				{
+					"gid"		"B1379BAD8DFD78928C0C8E8CCAF696C8"
+					"size"		"18EAF62BF182346B4B4483A77BE3D1D2"
+					"download"		"420423AFD852CD44C309D1CA2FEFA80C"
+				}
+				"development"
+				{
+					"gid"		"85E82E7C9C0693D09D65FFCA9FAFA4A5"
+					"size"		"4E450FD0397B9A3C9A996A39790560E4"
+					"download"		"9E882B065233055E0C28A41105307EA6"
+				}
+				"prerelease"
+				{
+					"gid"		"8BF539884D011EAA74ACAFCA75EBEDCA"
+					"size"		"73F9E30148020C42CD2383173E58D077"
+					"download"		"09AC9F0CD43CDF38B7FC71DFB598E28F"
+				}
+			}
+		}
+		"678802"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2795976383578932180"
+					"size"		"224024978"
+					"download"		"187848848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"content"
+				{
+					"gid"		"255CC6E92732BBA9295AC7D608ABAE03"
+					"size"		"841B2F3D2AF484C486A7E5C92A262739"
+					"download"		"514F7F311A835E40B3E88CDDA1B0E22E"
+				}
+				"development"
+				{
+					"gid"		"2DEDF113459A5E4923F82EC881EC6EC2"
+					"size"		"DB0C16AF437AA15145A60AA511C2F0EA"
+					"download"		"298BCD4A330A3CE2E0BB12B4D0BA4979"
+				}
+				"prerelease"
+				{
+					"gid"		"90FE7AA0649395E423A330BCE1ED33CA"
+					"size"		"0117777E23E564DA2B0E0650D0177397"
+					"download"		"7215D1CA3E58B3A7DBB05CBF5AA9E513"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9617473"
+				"timeupdated"		"1664802657"
+			}
+			"content"
+			{
+				"buildid"		"9523320"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663248837"
+			}
+			"development"
+			{
+				"buildid"		"8769096"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652950371"
+			}
+			"prerelease"
+			{
+				"buildid"		"9617473"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664453403"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#gamestatus"		"%status%"
+				}
+			}
+		}
+	}
+}
