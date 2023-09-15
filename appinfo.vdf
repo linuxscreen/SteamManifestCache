@@ -1,0 +1,306 @@
+"appinfo"
+{
+	"appid"		"918570"
+	"common"
+	{
+		"name"		"Century: Age of Ashes"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"icon"		"e30da7a697bca2ff4e8c555787e5f9fd1ef46cb3"
+		"clienticon"		"83c8e131e3ab47dbf734254b04754a4b7858a267"
+		"clienttga"		"43847f66b3fa61398915e4e96796a94836fee501"
+		"logo"		"fd2274c1a9c2a270440e6e1b9047fb48152ce7a9"
+		"logo_small"		"fd2274c1a9c2a270440e6e1b9047fb48152ce7a9_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1645660800"
+			"tested_build_id"		"7814799"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.09819791307123"
+				"height_pct"		"88.85363267975055"
+			}
+		}
+		"store_asset_mtime"		"1692286098"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Playwing LTD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Playwing LTD"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1638457200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"918570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4046"
+			"2"		"3859"
+			"3"		"19"
+			"4"		"5711"
+			"5"		"15045"
+			"6"		"1775"
+			"7"		"492"
+			"8"		"620519"
+			"9"		"1697"
+			"10"		"5547"
+			"11"		"1774"
+			"12"		"1684"
+			"13"		"3843"
+			"14"		"4604"
+			"15"		"4747"
+			"16"		"16094"
+			"17"		"3814"
+			"18"		"493"
+			"19"		"4777"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"gamedir"		"century"
+		"serverbrowsername"		"Century"
+		"developer"		"Playwing LTD"
+		"publisher"		"Playwing LTD"
+		"homepage"		"https://www.century-age-of-ashes.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1682640,1691470,1691471,1850770,1851500,1851510,1852460,1907460,1938960,1938961,1938962,2194650,2199670,2200870,2200880,2347230,2496230"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Century"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Century.exe"
+				"arguments"		"-noraytracing -dx11"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"918571"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4431449723308028643"
+					"size"		"13727085968"
+					"download"		"10834361296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"cert"
+				{
+					"gid"		"017825131098CC0D65E9CFC5891DEB6D"
+					"size"		"A2BC97B1D2ADA1777B540E7DF136E99F"
+					"download"		"7DCE444714E0D79CA85E44D6E42BC3FF"
+				}
+				"live"
+				{
+					"gid"		"F3E974D426D2D02F965AB2712E6D7809"
+					"size"		"ADAD2425589C3B3EA68B4F0D57438E6E"
+					"download"		"39F0B92F94372E3682F6DD467301B992"
+				}
+				"live2"
+				{
+					"gid"		"CD85915C95566714A72C4E0CFA321E0E"
+					"size"		"0E27AB379655CC043E6E888766E55B9F"
+					"download"		"7C7A2A42E78877CFDD58F1A4ABBD7ECD"
+				}
+				"test-shipping"
+				{
+					"gid"		"8F88746DC38CB8297BB29F83922ECBDA"
+					"size"		"D4B7E545528B3FA511A06A816D78F254"
+					"download"		"99680CADB3D8DB416C66E3FE9BE9FF5F"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,spanish,schinese,russian,japanese,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12012674"
+				"timeupdated"		"1692954615"
+			}
+			"cert"
+			{
+				"buildid"		"12170717"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694597206"
+			}
+			"live"
+			{
+				"buildid"		"12012674"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692953083"
+			}
+			"live2"
+			{
+				"buildid"		"9378973"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661349405"
+			}
+			"test-shipping"
+			{
+				"buildid"		"10665241"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677679841"
+			}
+		}
+	}
+}
