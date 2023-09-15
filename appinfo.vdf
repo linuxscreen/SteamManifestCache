@@ -1,0 +1,222 @@
+"appinfo"
+{
+	"appid"		"1893150"
+	"common"
+	{
+		"name"		"COG Back To The 80s"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"8d3fd3665e5471bf52ad5fbc5a2ad503985d78d5"
+		"clienttga"		"b012b5c04e560c6f65ee704cff8e12c782aa2298"
+		"icon"		"bbd43e689c7fdea4392a50d9ab700a2cde11aa08"
+		"logo"		"cfaf9e23c2201bec5d591c32a48c468c1b043bb4"
+		"logo_small"		"cfaf9e23c2201bec5d591c32a48c468c1b043bb4_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1646713781"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Emiliano"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Juan, M"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Phyox Entertaiment"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"COG"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1648921440"
+		"community_hub_visible"		"1"
+		"gameid"		"1893150"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1774"
+			"2"		"1663"
+			"3"		"4191"
+			"4"		"7743"
+			"5"		"9592"
+			"6"		"4182"
+			"7"		"21"
+			"8"		"492"
+			"9"		"7702"
+			"10"		"4085"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		""
+		"developer"		"Emiliano"
+		"publisher"		"Phyox Entertaiment"
+		"homepage"		"https://phyoxent.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"cog_game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"COGGame.exe"
+				"arguments"		"-d3d11"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Iniciar con DirectX11"
+				}
+				"description"		"Iniciar con DirectX11"
+			}
+			"1"
+			{
+				"executable"		"COGGame.exe"
+				"arguments"		"-vulkan"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Iniciar con Vulkan"
+				}
+				"description"		"Iniciar con Vulkan"
+			}
+			"2"
+			{
+				"executable"		"COGGame.exe"
+				"arguments"		"-d3d12"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Iniciar con DIrectX12"
+				}
+				"description"		"Iniciar con DIrectX12"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1893159"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5384634637715439034"
+					"size"		"2080830576"
+					"download"		"1572994496"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10374210"
+				"timeupdated"		"1674316651"
+			}
+		}
+	}
+}
