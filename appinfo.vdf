@@ -1,0 +1,186 @@
+"appinfo"
+{
+	"appid"		"2189360"
+	"common"
+	{
+		"name"		"Magnus Positive Phototaxis Demo"
+		"type"		"Demo"
+		"parent"		"2135970"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"a3c8c494ca37effdd4316c18e36d0473774ac8d4"
+		"clienttga"		"f8d365655145319e92c2ca9c3ca70f712a75fcfc"
+		"linuxclienticon"		"ac9de609dcf1334910e4521f4d7f8075443b253f"
+		"icon"		"c58a2606a6cb5a05d3ea909919e7913bee23aae4"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1666029833"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FM Simple Games Studio"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Sons of Welder"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"FM Simple Games Studio"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Polyslash"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Polyslash"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666192535"
+		"gameid"		"2189360"
+	}
+	"extended"
+	{
+		"demoofappid"		"2135970"
+		"developer"		"FM Simple Games Studio"
+		"publisher"		"FM Simple Games Studio"
+	}
+	"config"
+	{
+		"installdir"		"Magnus Positive Phototaxis Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"magnus_phototaxis_demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"phototaxis_demo_linux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,portuguese,polish"
+		"2189361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3863071296561078806"
+					"size"		"253997225"
+					"download"		"137001120"
+				}
+			}
+		}
+		"2189362"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7739345261460000651"
+					"size"		"263876776"
+					"download"		"138316384"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9736198"
+				"timeupdated"		"1666005784"
+			}
+		}
+	}
+}
