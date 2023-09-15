@@ -1,0 +1,113 @@
+"appinfo"
+{
+	"appid"		"2204070"
+	"common"
+	{
+		"name"		"Lamina Island Demo"
+		"type"		"Demo"
+		"parent"		"2195960"
+		"icon"		"9eaf3d1e551b4d9f8226ef898c8666915b3980ea"
+		"clienticon"		"281897fb8bee1987ffd3b2b41d0eb615a4f0aee8"
+		"clienttga"		"e9b9e3f823092aef92f5d66c811d21449770de09"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.685963294443454"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667596933"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hundred Hour Club"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hundred Hour Club"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_18"		"1"
+			"category_1"		"1"
+		}
+		"steam_release_date"		"1667594124"
+		"gameid"		"2204070"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2195960"
+		"developer"		"Hundred Hour Club"
+		"publisher"		"Hundred Hour Club"
+	}
+	"config"
+	{
+		"installdir"		"Lamina Island Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"release/LaminaIsland.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2204071"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3017354329992858929"
+					"size"		"15045967060"
+					"download"		"13190782464"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12107552"
+				"timeupdated"		"1693858920"
+			}
+		}
+	}
+}
