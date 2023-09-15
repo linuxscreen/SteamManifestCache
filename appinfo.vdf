@@ -1,0 +1,563 @@
+"appinfo"
+{
+	"appid"		"1210810"
+	"common"
+	{
+		"name"		"Life is Strange 2 Demo"
+		"type"		"Demo"
+		"parent"		"532210"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1210810_eula_0"
+				"name"		"Life is Strange 2 Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1210810_eula_0"
+			}
+		}
+		"clienticon"		"b9612ccb56eca608eadaee2c9ee872211c011b88"
+		"clienttga"		"ebb6d5537a612313fd93a7fa15e67efd4f585fe6"
+		"icon"		"646ac15ab74afcea8b8ab69ea8e0724added3162"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"store_asset_mtime"		"1583945173"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DONTNOD Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Square Enix"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1585241741"
+		"gameid"		"1210810"
+	}
+	"extended"
+	{
+		"demoofappid"		"532210"
+		"developer"		"DONTNOD Entertainment"
+		"publisher"		"Square Enix"
+		"homepage"		"https://www.lifeisstrange.com"
+	}
+	"config"
+	{
+		"installdir"		"Life is Strange 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LIS2\\Binaries\\Win64\\LIS2-Win64-Shipping.exe"
+				"description"		"Life is Strange 2 demo"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,brazilian"
+		"1210811"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4790865700003938877"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dne_qa"
+				{
+					"gid"		"528140C08111EE864037AA2ED1FDD60F"
+					"size"		"AB88D29330BA15D9F64493C4CFF7C2B1"
+					"download"		"AB88D29330BA15D9F64493C4CFF7C2B1"
+				}
+				"qa_integration"
+				{
+					"gid"		"9E246103F83CA45048A0B8B2E6B78FE0"
+					"size"		"1A5BAC3961B469678304330931372624"
+					"download"		"1A5BAC3961B469678304330931372624"
+				}
+				"qa_integration2"
+				{
+					"gid"		"C3E2B45E3F96747677DB056B2D764E69"
+					"size"		"92EC87149A6F1DA61C8E4F62B68E8AFA"
+					"download"		"92EC87149A6F1DA61C8E4F62B68E8AFA"
+				}
+			}
+		}
+		"532211"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1704255813081240774"
+					"size"		"11402414915"
+					"download"		"10941286448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"E104455B012FED75E17ED281685EB2A7"
+					"size"		"F411F0B28088523CE1D9F1F7D75CAB67"
+					"download"		"78932C7F9A7B1419CC3CEF42B0FB1DD4"
+				}
+				"baseline"
+				{
+					"gid"		"91340883CCEB5D942A2F8687BE460FDC"
+					"size"		"B94F41E940027DD7740D430EB10173B5"
+					"download"		"070B3CFD785FC70FF6436A0A69150734"
+				}
+				"denuvo"
+				{
+					"gid"		"9AFFEE0A1E3381B6389E7611F2D79E20"
+					"size"		"C25DA6897833DF46F5087AD5E3D78157"
+					"download"		"6E09ADF4E866803B7CC25817E592EB0E"
+				}
+				"dne_qa"
+				{
+					"gid"		"3C34636371AC4A27F706D9CE5FB74C49"
+					"size"		"AE28A98BDE240C7FE9E3A22022163228"
+					"download"		"80D2486A28BEF216D360378CD2B8D59B"
+				}
+				"domesticated_merge"
+				{
+					"gid"		"1F2139FC37A751691DDAA1E850F9EF04"
+					"size"		"CD23AD1DFDDF79EF1BC034F17F304AEE"
+					"download"		"B6412A6757C7A284D42CC04C1029B94E"
+				}
+				"domesticated_qa_branch_a"
+				{
+					"gid"		"B3B056E1EAEE6D7D21D6288A88AC581C"
+					"size"		"358DFA499ABE7BFF622222C6F78DE6DE"
+					"download"		"FA24AA0D2D3F96BF79104D9869EE1FDC"
+				}
+				"domesticated_qa_branch_b"
+				{
+					"gid"		"30FDFB5CDCC1182D1F8ACCDD40DB0DB1"
+					"size"		"49BF462F7094095CD8009E65DD03C16F"
+					"download"		"CC0A850F0FE17620EA21C72CC05754DF"
+				}
+				"domesticated_windows_sync"
+				{
+					"gid"		"4E303AD84910DFDC90907F8DC4FAF37B"
+					"size"		"D7835074F4BE30043A263D368BAB15A4"
+					"download"		"B57479FBA0602AC50B84A81BC16563F4"
+				}
+				"external-test"
+				{
+					"gid"		"656AD347FE25DA9FC9DFAF5E05543F3A"
+					"size"		"5E744F8111034A86FBE27FECD2961B4F"
+					"download"		"4D765C7D7085403C443AF76EF6607812"
+				}
+				"gamescom_demo"
+				{
+					"gid"		"5EE1902EED5B7174F14F0DBA81C50966"
+					"size"		"42C56BFF0470309B8F432439995F275C"
+					"download"		"26E2BC40E6772D35A6CF7D98A7BC2DBC"
+				}
+				"loc_trans"
+				{
+					"gid"		"3E95716E14EDB01162AD9054D4B6F3A0"
+					"size"		"06045221CCAAD59DF967CE33913C1612"
+					"download"		"A8CD40F3A31B1EED35065D0BB9493C76"
+				}
+				"marketing"
+				{
+					"gid"		"6DE76FCA89D98395D7C9A23A4D770DAD"
+					"size"		"C0069F8A643B4E056521C4C81F00CD9A"
+					"download"		"809462B9F682C194C9ACA374836C04B1"
+				}
+				"milestone"
+				{
+					"gid"		"CA69FF0402872A1185691C495E766CF3"
+					"size"		"96D95134CA4AD5B6F3A1B084B9F46D53"
+					"download"		"AE0B2CFD46890CFA72A58FB1F81E6A43"
+				}
+				"nvidia_ansel"
+				{
+					"gid"		"83AAACA31784DD5F32EB5851A177535F"
+					"size"		"224D618052FD9055136F59A58E2EB998"
+					"download"		"308CA2D5B740CA49ACAB5D78E7DA56C8"
+				}
+				"playtest"
+				{
+					"gid"		"FD21BB222106641545B5643943C8FE31"
+					"size"		"1057E547F772FE25F318AD91E1C1E4DF"
+					"download"		"C8C84D40126A608891736E48055AC9AF"
+				}
+				"pr_review"
+				{
+					"gid"		"CCE67B0F9D82DDDF54EB200D31D3385B"
+					"size"		"543C2948F66DA59D3EE98E67DC670304"
+					"download"		"1CD831C3A0D5D89CC7B7D0B72D936E72"
+				}
+				"qa_compat"
+				{
+					"gid"		"B843491C6A987AF7A32CB25548BD882D"
+					"size"		"EA29845A19CC25CF4CA7314AE5FF60B3"
+					"download"		"B01306129D1468173FBD76F18E4FD540"
+				}
+				"qa_integration"
+				{
+					"gid"		"E14F2C0A6B18AA6E7DC03AAD9135CF0E"
+					"size"		"01D16EFF03FCD97312538A414CD81D13"
+					"download"		"970BE2CD047087C6D06E514E0EE70A8A"
+				}
+				"qa_integration2"
+				{
+					"gid"		"8CA0A0EF26CCD47E92D84D3E8B5CB31E"
+					"size"		"7357874D9A32CCC705956F54273E49C7"
+					"download"		"E56D315EDD0B5D9D379C7BCB05F597C6"
+				}
+				"qa_loc"
+				{
+					"gid"		"30041B94900B2924437A6BD913EDCA73"
+					"size"		"1288B1F9AA3CE30AB035C84065B5C890"
+					"download"		"8694FE04810D3482398AB7780C882549"
+				}
+				"review"
+				{
+					"gid"		"1B29050793E2D8D37A37AB3892979459"
+					"size"		"A73E56D1A1E392373EC0BFB18587B97B"
+					"download"		"B7D78C5C1FCED6C3791745199CE02509"
+				}
+				"se_ext"
+				{
+					"gid"		"A40F363B27B20F43A47287018F524584"
+					"size"		"4E3CE96C2D94DDE2D7D6F1C3269E35FE"
+					"download"		"D55D998CC6F2FEA1FADD55592B630FB2"
+				}
+				"tape"
+				{
+					"gid"		"E4C4621B28BDEEA451C0C52AD07F2496"
+					"size"		"21DD511BB6FFC599694D674DEEF6E1BE"
+					"download"		"C249B8F2175E40D491D6D175EF69CBA1"
+				}
+				"writersroom"
+				{
+					"gid"		"1BE3E2D94E2C8AEAEC59402A5BB36FEF"
+					"size"		"E2207A52B210E29D971338BB294EF315"
+					"download"		"731C99E413805B55D05FE830819D7284"
+				}
+			}
+			"depotfromapp"		"532210"
+		}
+		"872085"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"372853533079281574"
+					"size"		"397167616"
+					"download"		"152996160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dne_qa"
+				{
+					"gid"		"21BB589EC051C245F66D77E65D91D853"
+					"size"		"78F805A29A06B318714030BCD2CFB045"
+					"download"		"C7AFDFD911CABA0A95D7985C878E7D14"
+				}
+				"domesticated_merge"
+				{
+					"gid"		"C132469905F4421B705C706CA2046FFC"
+					"size"		"E25A9671A525F5D0A827C6D102D42846"
+					"download"		"38350627B53D0DBA85CFAC40B26E8E6C"
+				}
+				"domesticated_windows_sync"
+				{
+					"gid"		"A78756B097587708B33489D9EF92CE31"
+					"size"		"C4E6E5ACD2689C924076A1FB50E1F80A"
+					"download"		"3448677231CED9FC6E4CBBA150A58CB8"
+				}
+				"qa_integration"
+				{
+					"gid"		"A6582A9DC74C8554005DB35E958B072A"
+					"size"		"7FEB32FA93F0F04B2B271C8577553F3E"
+					"download"		"59483CD85271DCD399AC5EEFAF6AECFE"
+				}
+				"qa_integration2"
+				{
+					"gid"		"0C61D3460A24BC2391A3EF727380CCDA"
+					"size"		"AEA735ED1F258B7F5F47EB12F5882017"
+					"download"		"89D55F7AA7E55A3D98F371918805D936"
+				}
+				"se_ext"
+				{
+					"gid"		"DC6E6CEF9907C9A595DE39B7651CC778"
+					"size"		"D9688A9A092F5A9A02055B04B786678B"
+					"download"		"4603E9CF61FF9EF9ED222BEC40B5BE90"
+				}
+			}
+			"depotfromapp"		"532210"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4559371"
+				"timeupdated"		"1578682014"
+			}
+			"dne_qa"
+			{
+				"buildid"		"4559371"
+				"pwdrequired"		"1"
+				"timeupdated"		"1578682099"
+			}
+			"qa_integration"
+			{
+				"buildid"		"4559371"
+				"pwdrequired"		"1"
+				"timeupdated"		"1578926555"
+			}
+			"qa_integration2"
+			{
+				"buildid"		"4559371"
+				"pwdrequired"		"1"
+				"timeupdated"		"1578926563"
+			}
+			"age_ratings"
+			{
+				"buildid"		"4370865"
+				"pwdrequired"		"1"
+				"timeupdated"		"1573460446"
+			}
+			"baseline"
+			{
+				"buildid"		"4092066"
+				"pwdrequired"		"1"
+				"timeupdated"		"1568818592"
+			}
+			"denuvo"
+			{
+				"buildid"		"4358198"
+				"pwdrequired"		"1"
+				"timeupdated"		"1573544288"
+			}
+			"domesticated_merge"
+			{
+				"buildid"		"4874667"
+				"pwdrequired"		"1"
+				"timeupdated"		"1586361800"
+			}
+			"domesticated_qa_branch_a"
+			{
+				"buildid"		"4827399"
+				"pwdrequired"		"1"
+				"timeupdated"		"1585311699"
+			}
+			"domesticated_qa_branch_b"
+			{
+				"buildid"		"4826000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1585285821"
+			}
+			"domesticated_windows_sync"
+			{
+				"buildid"		"4672541"
+				"pwdrequired"		"1"
+				"timeupdated"		"1584088710"
+			}
+			"external-test"
+			{
+				"buildid"		"3641762"
+				"pwdrequired"		"1"
+				"timeupdated"		"1552486431"
+			}
+			"gamescom_demo"
+			{
+				"buildid"		"4266675"
+				"pwdrequired"		"1"
+				"timeupdated"		"1570526618"
+			}
+			"loc_trans"
+			{
+				"buildid"		"4510237"
+				"pwdrequired"		"1"
+				"timeupdated"		"1576749999"
+			}
+			"marketing"
+			{
+				"buildid"		"4370865"
+				"pwdrequired"		"1"
+				"timeupdated"		"1573465906"
+			}
+			"milestone"
+			{
+				"buildid"		"4370865"
+				"pwdrequired"		"1"
+				"timeupdated"		"1573238573"
+			}
+			"nvidia_ansel"
+			{
+				"buildid"		"3886800"
+				"pwdrequired"		"1"
+				"timeupdated"		"1559656928"
+			}
+			"playtest"
+			{
+				"buildid"		"4058675"
+				"pwdrequired"		"1"
+				"timeupdated"		"1564990481"
+			}
+			"pr_review"
+			{
+				"buildid"		"4422936"
+				"pwdrequired"		"1"
+				"timeupdated"		"1574852337"
+			}
+			"qa_compat"
+			{
+				"buildid"		"4370865"
+				"pwdrequired"		"1"
+				"timeupdated"		"1573486143"
+			}
+			"qa_loc"
+			{
+				"buildid"		"4510237"
+				"pwdrequired"		"1"
+				"timeupdated"		"1576750014"
+			}
+			"review"
+			{
+				"buildid"		"4558155"
+				"pwdrequired"		"1"
+				"timeupdated"		"1578661324"
+			}
+			"se_ext"
+			{
+				"buildid"		"4672541"
+				"pwdrequired"		"1"
+				"timeupdated"		"1581599103"
+			}
+			"tape"
+			{
+				"buildid"		"4343499"
+				"pwdrequired"		"1"
+				"timeupdated"		"1572533704"
+			}
+			"writersroom"
+			{
+				"buildid"		"4315808"
+				"pwdrequired"		"1"
+				"timeupdated"		"1571839070"
+			}
+		}
+	}
+}
