@@ -1,0 +1,261 @@
+"appinfo"
+{
+	"appid"		"1106040"
+	"common"
+	{
+		"name"		"Wolfenstein: Youngblood Demo"
+		"section_type"		"ownersonly"
+		"type"		"Demo"
+		"parent"		"1056960"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"dc47c700a4071656b229520aa8b8357772d9937a"
+		"clienttga"		"37640a50c9d0600401c5fd3c271a81b3cb7a2fbe"
+		"icon"		"7a5bc694645b5d40b644b84f15bada8b40e3a6f8"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1106040_eula_0"
+				"name"		"Wolfenstein: Youngblood Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1106040_eula_0"
+			}
+		}
+		"name_localized"
+		{
+			"german"		"Wolfenstein: Youngblood International Version Demo"
+		}
+		"metacritic_name"		"Wolfenstein: Youngblood Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1564076048"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Machine Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Arkane Studios"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Bethesda Softworks"
+			}
+		}
+		"steam_release_date"		"1564074000"
+		"gameid"		"1106040"
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"foo"		"bla"
+		"developer"		"Machine Games"
+		"publisher"		"Bethesda Softworks"
+	}
+	"config"
+	{
+		"installdir"		"Wolfenstein Youngblood"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Youngblood_x64vk.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Youngblood_x64vk.exe"
+				"arguments"		"+bnet_env akh6hzr4ai75kvt6hrdt +r_allowComputePresent 0"
+				"description"		"Wolfenstein: Youngblood Demo (Integration)"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qa-general-test"
+				}
+			}
+			"4"
+			{
+				"executable"		"Youngblood_x64vk.exe"
+				"arguments"		"+com_safemode 1 +r_allowComputePresent 0"
+				"description"		"Wolfenstein: Youngblood (Safe Mode)"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1056963"
+		{
+			"depotfromapp"		"1056960"
+			"sharedinstall"		"2"
+		}
+		"1056964"
+		{
+			"depotfromapp"		"1056960"
+			"sharedinstall"		"2"
+		}
+		"1056965"
+		{
+			"depotfromapp"		"1056960"
+			"sharedinstall"		"2"
+		}
+		"1056961"
+		{
+			"depotfromapp"		"1056960"
+			"sharedinstall"		"2"
+		}
+		"1056966"
+		{
+			"depotfromapp"		"1056960"
+			"sharedinstall"		"2"
+		}
+		"1056967"
+		{
+			"depotfromapp"		"1056960"
+			"sharedinstall"		"2"
+		}
+		"1056968"
+		{
+			"depotfromapp"		"1056960"
+			"sharedinstall"		"2"
+		}
+		"1056969"
+		{
+			"depotfromapp"		"1056960"
+			"sharedinstall"		"2"
+		}
+		"1056991"
+		{
+			"depotfromapp"		"1056960"
+			"sharedinstall"		"2"
+		}
+		"1106041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2890484303204850627"
+					"size"		"80081560"
+					"download"		"25207840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"denuvo"
+				{
+					"gid"		"A78C78AD805AB81E38A30696174950D5"
+					"size"		"2A2B40EEBDEFB04F761F3CAE1F083D02"
+					"download"		"A910E252140AD84CF7B4B299BF97CC9B"
+				}
+				"mg-internal-test"
+				{
+					"gid"		"4A507ADD76DA0CF121E6D80E5096EF17"
+					"size"		"733CA0CB5DF496E8F0B62991F14DC54B"
+					"download"		"6495D6DBC27A6FB123687C006EF4208A"
+				}
+				"qa-general-test"
+				{
+					"gid"		"4B602F871F71D9A6C23B979342585401"
+					"size"		"0D7C7A31881755246ED0C90943B9BE71"
+					"download"		"C112078F260294E3F6955FE253B6940E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11991190"
+				"timeupdated"		"1694098998"
+			}
+			"denuvo"
+			{
+				"buildid"		"4019781"
+				"pwdrequired"		"1"
+				"timeupdated"		"1563377063"
+			}
+			"mg-internal-test"
+			{
+				"buildid"		"5708858"
+				"pwdrequired"		"1"
+				"timeupdated"		"1603186159"
+			}
+			"qa-general-test"
+			{
+				"buildid"		"11991190"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692613176"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"10000"
+		"appidredirect"		"1056960"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"MachineGames/Wolfenstein Youngblood/base/savegame.user/{64BitSteamID}"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
