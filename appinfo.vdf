@@ -1,0 +1,572 @@
+"appinfo"
+{
+	"appid"		"346330"
+	"common"
+	{
+		"name"		"BrainBread 2"
+		"type"		"Game"
+		"logo"		"391d372645ba724c0e22be05edcea9478a6a8a7e"
+		"logo_small"		"391d372645ba724c0e22be05edcea9478a6a8a7e_thumb"
+		"icon"		"de2d36d62e915082ef48da48eedc6161ca13451f"
+		"clienttga"		"f71699e3514ddda9c467ff4a3e18b47bfe95ad54"
+		"clienticon"		"712080accd6ab3df44391f098868c90ff2dde487"
+		"oslist"		"windows,macos,linux"
+		"linuxclienticon"		"8aaff2051a020eafacf02661d3c00b064d6d73c0"
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1675123200"
+			"tested_build_id"		"8917863"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1683129148"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Reperio Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Reperio Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_15"		"1"
+			"category_17"		"1"
+			"category_16"		"1"
+			"category_30"		"1"
+			"category_27"		"1"
+			"category_13"		"1"
+			"category_8"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1468998000"
+		"steam_release_date"		"1646853772"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"346330"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1659"
+			"2"		"3859"
+			"3"		"1663"
+			"4"		"1662"
+			"5"		"19"
+			"6"		"1685"
+			"7"		"1774"
+			"8"		"4345"
+			"9"		"21"
+			"10"		"1667"
+			"11"		"122"
+			"12"		"492"
+			"13"		"3839"
+			"14"		"4231"
+			"15"		"4136"
+			"16"		"1773"
+			"17"		"5547"
+			"18"		"493"
+			"19"		"4885"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"gamedir"		"brainbread2"
+		"serverbrowsername"		"BrainBread 2"
+		"developer"		"Reperio Studios"
+		"publisher"		"Reperio Studios"
+		"homepage"		"https://developer.valvesoftware.com/wiki/BrainBread_2"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"brainbread2"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"hl2.sh"
+				"arguments"		"-game brainbread2 -steam"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"hl2.sh"
+				"arguments"		"-steam -game brainbread2"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"4"
+			{
+				"executable"		"bb2.exe"
+				"arguments"		"-steam -game brainbread2"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,portuguese,polish,dutch,norwegian,swedish,czech,turkish,arabic,brazilian,bulgarian"
+		"workshopdepot"		"346330"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"346331"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6812056315565306322"
+					"size"		"6503308477"
+					"download"		"2594351856"
+				}
+				"beta_branch"
+				{
+					"gid"		"6812056315565306322"
+					"size"		"6503308477"
+					"download"		"2594351856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2015_build"
+				{
+					"gid"		"F692BDFC1EC7B0D8012D3E95176B9411"
+					"size"		"629130CF35E3A542B37149D8D6187D35"
+					"download"		"AF75ED52F686094D58FB35FA91002F8B"
+				}
+				"2016_build"
+				{
+					"gid"		"D64A5A019AEF246E1123B44B9DEFF1C4"
+					"size"		"5C7D517D3515221AD31091AEE26B53D4"
+					"download"		"0423F08496F3489C9B8F1E70FD7FD107"
+				}
+			}
+		}
+		"346332"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"355211674700523126"
+					"size"		"134072628"
+					"download"		"43705344"
+				}
+				"beta_branch"
+				{
+					"gid"		"355211674700523126"
+					"size"		"134072628"
+					"download"		"43705344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2015_build"
+				{
+					"gid"		"4AA3E86CE4E1BF40F982FFA7E72A2EE1"
+					"size"		"B792B332ABA541F8847C0C659A33CBF4"
+					"download"		"85974878A02FCA19B2F16F662E91B4AB"
+				}
+				"2016_build"
+				{
+					"gid"		"6302ACC231885F11E70372EC74B2DE51"
+					"size"		"91232DD21DB1F3DB3A833F4827CAA9AE"
+					"download"		"4ED3C2583952F565D8DF2A7233820247"
+				}
+			}
+		}
+		"346333"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2514251732101079089"
+					"size"		"102129160"
+					"download"		"25777936"
+				}
+				"beta_branch"
+				{
+					"gid"		"2514251732101079089"
+					"size"		"102129160"
+					"download"		"25777936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2015_build"
+				{
+					"gid"		"D4D62B68C33F7FB2E78F41388CE9D318"
+					"size"		"106F1F327FB487960E579670DCC1C8DA"
+					"download"		"106F1F327FB487960E579670DCC1C8DA"
+				}
+				"2016_build"
+				{
+					"gid"		"7A7C4CD59BCE58B27D4384A779E0D1A4"
+					"size"		"47143324290EDAC198A48DAC2BF6C4B0"
+					"download"		"73E6F6F71CE12B9E642FF0436B010C8B"
+				}
+			}
+		}
+		"346334"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2339811890615096629"
+					"size"		"64633996"
+					"download"		"13406656"
+				}
+				"beta_branch"
+				{
+					"gid"		"2339811890615096629"
+					"size"		"64633996"
+					"download"		"13406656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2015_build"
+				{
+					"gid"		"CECBF508C327F42A8444007A74458AFB"
+					"size"		"BEB363879CDD2B52CC1205F857DF84CB"
+					"download"		"679C863E3B66653276F95C196C8F9FDD"
+				}
+				"2016_build"
+				{
+					"gid"		"97F27CC3A7E866611E272115D07AFDAA"
+					"size"		"9263DCB8E09D80EF6B8D423E78BAEE88"
+					"download"		"86AFEEA4D72305103FE6E460760B7FC7"
+				}
+			}
+		}
+		"346335"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8434216029561066440"
+					"size"		"161772"
+					"download"		"33776"
+				}
+				"beta_branch"
+				{
+					"gid"		"8434216029561066440"
+					"size"		"161772"
+					"download"		"33776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2015_build"
+				{
+					"gid"		"CE3E6D0A83F4C4D3F7CD1F62B78AC69E"
+					"size"		"E5209FB4159F36237FAEF1CB035EAB18"
+					"download"		"7C0866C8F01ECFD4CF3AA5B5340200D0"
+				}
+				"2016_build"
+				{
+					"gid"		"A2B9766B96E9EDE43593624047B0E63B"
+					"size"		"CC18C92200BFCDCBB5C61E6C13E79F95"
+					"download"		"E7D10CF963118456471213EB7EEF4705"
+				}
+			}
+		}
+		"346336"
+		{
+			"config"
+			{
+				"language"		"arabic"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2890103048044748961"
+					"size"		"50728"
+					"download"		"8192"
+				}
+				"beta_branch"
+				{
+					"gid"		"2890103048044748961"
+					"size"		"50728"
+					"download"		"8192"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8917863"
+				"timeupdated"		"1654961638"
+			}
+			"2015_build"
+			{
+				"buildid"		"3406395"
+				"pwdrequired"		"1"
+				"timeupdated"		"1545083592"
+			}
+			"2016_build"
+			{
+				"buildid"		"3434997"
+				"pwdrequired"		"1"
+				"timeupdated"		"1546210534"
+			}
+			"beta_branch"
+			{
+				"buildid"		"8917863"
+				"description"		"Beta Branch"
+				"timeupdated"		"1654961627"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
