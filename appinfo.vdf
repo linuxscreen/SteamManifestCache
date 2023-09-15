@@ -1,0 +1,177 @@
+"appinfo"
+{
+	"appid"		"210500"
+	"common"
+	{
+		"name"		"Fray Demo"
+		"type"		"Demo"
+		"logo"		"78cea960f184cc738ada03b300d4d2805c242598"
+		"logo_small"		"78cea960f184cc738ada03b300d4d2805c242598_thumb"
+		"icon"		"defdbb40ef2a3fce3a574bfdb14c30bec6c140b2"
+		"clienttga"		"00c3e5bc7c7d38b8f88b457a4b184ebfa966d3e4"
+		"clienticon"		"d4855ad6c04ca5cea9407eba7bb39c7450d6c4a4"
+		"parent"		"210490"
+		"metacritic_name"		"Fray Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1352737225"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Brain Candy"
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+			}
+		}
+		"steam_release_date"		"1352750400"
+		"gameid"		"210500"
+	}
+	"extended"
+	{
+		"developer"		"Brain Candy"
+		"gamedir"		"ValveTestApp210500"
+		"homepage"		"http://www.fray-game.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"FrayDemo"
+		"installscriptsignature"		"21fd8fd075a9a527cc29e3aefb4e4e4489f01f11de2e539e0e7972d26c9b2d9ebcf0fcc0a3a8a7b35f30c6beb435b27d80b9b8193ff3ac7cd8b71d7aa6e17239d338ea6dc1bd4ea71db006de130e04c95f0f91abf13f464bdf3cdb3ccc568cbb3c53793740360b065220f76f007dcbcbf6218004bc1aba10603662a5df194b71"
+		"installscriptoverride"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"fray.exe"
+			}
+		}
+	}
+	"install"
+	{
+		"run process"
+		{
+			"directx"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\210500"
+				"process 1"		"%INSTALLDIR%\\install\\directx\\DXSETUP.exe"
+				"command 1"		"/silent"
+				"description"		"Microsoft DirectX"
+				"nocleanup"		"1"
+			}
+			"visual c++ 2010 redistributable"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\210500"
+				"process 1"		"%INSTALLDIR%\\install\\vcredist_x86.exe"
+				"command 1"		"/q"
+				"description"		"Visual C++ 2010 Redistributable"
+				"nocleanup"		"1"
+				"requirement_os"
+				{
+					"is64bitwindows"		"0"
+				}
+			}
+			"visual c++ 2010 redistributable"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\210500"
+				"process 1"		"%INSTALLDIR%\\install\\vcredist_x64.exe"
+				"command 1"		"/q"
+				"description"		"Visual C++ 2010 Redistributable"
+				"nocleanup"		"1"
+				"requirement_os"
+				{
+					"is64bitwindows"		"1"
+				}
+			}
+			"configuration"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\210500"
+				"process 1"		"%INSTALLDIR%\\install\\installScriptDemo.bat"
+				"command 1"		"/silent"
+				"description"		"Preparing Fray Configuration Files"
+			}
+		}
+	}
+	"depots"
+	{
+		"210491"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"160426234293127367"
+					"size"		"5574863896"
+					"download"		"0"
+				}
+				"openbeta"
+				{
+					"gid"		"7359150454868159120"
+					"size"		"5571147944"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"localtesting"
+				{
+					"gid"		"FA17A81E0AE5ADF2E52257383F5AD113"
+					"size"		"00FF3D78D6E14D3F84F94B309B8DDAB3"
+					"download"		"42D6D2B12D8BA57F6D9DC4EC9F936FE2"
+				}
+				"testing"
+				{
+					"gid"		"882597AA0E712DDA38F0CD39621D766D"
+					"size"		"88B3D8553F71212FEFD25601D3F4BE80"
+					"download"		"D5E73DC7D7D53424572460DA1D00A696"
+				}
+			}
+			"depotfromapp"		"210490"
+		}
+		"overridescddb"		"1"
+		"preloadonly"		"1"
+		"branches"
+		{
+			"localtesting"
+			{
+				"buildid"		"30597"
+				"pwdrequired"		"1"
+			}
+			"testing"
+			{
+				"buildid"		"14636"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
