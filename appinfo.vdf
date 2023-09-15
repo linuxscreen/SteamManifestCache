@@ -1,0 +1,230 @@
+"appinfo"
+{
+	"appid"		"829410"
+	"common"
+	{
+		"name"		"Project Myriad"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"814481cdcc84195293a3f0c8409fa336b469be83"
+		"clienttga"		"f2db3f47d7a5af76d99445bbd9bf5036208032a7"
+		"icon"		"57f88e78611ef5408a4b2fb2d29227ce321da116"
+		"logo"		"7074ba5596d33d81d3da02cc7dbe18988eea7fd2"
+		"logo_small"		"7074ba5596d33d81d3da02cc7dbe18988eea7fd2_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1674172800"
+			"tested_build_id"		"6999500"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Project Myriad"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"73.87717690192483"
+				"height_pct"		"68.75"
+			}
+		}
+		"store_asset_mtime"		"1624474023"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RoninGameDev"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jumpmen Gaming"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1531924740"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"829410"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"1645"
+			"3"		"19"
+			"4"		"1664"
+			"5"		"4195"
+			"6"		"4305"
+			"7"		"4562"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"RoninGameDev"
+		"publisher"		"Jumpmen Gaming"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Project Myriad"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProjectMyriad.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"829411"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"100772944544932153"
+					"size"		"194723437"
+					"download"		"159789744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6999500"
+				"timeupdated"		"1625754002"
+			}
+		}
+	}
+}
