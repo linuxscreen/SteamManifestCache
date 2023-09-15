@@ -1,0 +1,174 @@
+"appinfo"
+{
+	"appid"		"773320"
+	"common"
+	{
+		"name"		"TcNo TimeKeeper"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"e139d7951d3d8127cc883e3a2f763df10a9659c6"
+		"logo_small"		"e139d7951d3d8127cc883e3a2f763df10a9659c6_thumb"
+		"icon"		"106294af4b6b3525111a8ab458403831f8fd7ec7"
+		"clienttga"		"10dd5268ca34d638dab02083d0fa71140422d825"
+		"clienticon"		"91549fe8878fa45ed1c25097ed5f660d868f2f60"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"773320_eula_0"
+				"name"		"TcNo TimeKeeper EULA"
+				"url"		"http://store.steampowered.com//eula/773320_eula_0"
+			}
+		}
+		"metacritic_name"		"TcNo TimeKeeper"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"77.71739064761832"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1651258781"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wesley Pyburn"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wesley Pyburn"
+			}
+		}
+		"primary_genre"		"58"
+		"genres"
+		{
+			"0"		"58"
+		}
+		"category"
+		{
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1516012920"
+		"community_hub_visible"		"1"
+		"gameid"		"773320"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"784"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Wesley Pyburn"
+		"publisher"		"Wesley Pyburn"
+		"homepage"		"https://tcno.co/TimeKeeper/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TcNo TimeKeeper"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TcNo TimeKeeper32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"TcNo TimeKeeper64.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"773321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6886622923076619437"
+					"size"		"322392422"
+					"download"		"102183728"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2960020"
+				"timeupdated"		"1532020558"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavedData"
+				"pattern"		"*.bin"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
