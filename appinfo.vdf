@@ -1,0 +1,236 @@
+"appinfo"
+{
+	"appid"		"952950"
+	"common"
+	{
+		"name"		"03.04"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"fd7159fea7337e2d51f3661c50bbde2590c7c257"
+		"logo_small"		"fd7159fea7337e2d51f3661c50bbde2590c7c257_thumb"
+		"icon"		"98338109dd1a106f76df1eab2607b00cb2a28ade"
+		"clienticon"		"14ebb07b0a6396c33acef01c9223d156a7ca5e6d"
+		"clienttga"		"eaff1ad21d1957733825188bf2bf6161e40f3144"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1683331200"
+			"tested_build_id"		"3482555"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"03.04"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.431738623103854"
+				"height_pct"		"49.620042745191185"
+			}
+		}
+		"store_asset_mtime"		"1572339952"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"JPEG OF PAIN GAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JPEG OF PAIN"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1546331280"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"952950"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"19"
+			"3"		"1667"
+			"4"		"1663"
+			"5"		"3978"
+			"6"		"1662"
+			"7"		"4667"
+			"8"		"4026"
+			"9"		"4345"
+			"10"		"4166"
+			"11"		"6730"
+			"12"		"7107"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"JPEG OF PAIN GAMES"
+		"publisher"		"JPEG OF PAIN"
+		"homepage"		"https://vk.com/jpegofpaingames"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"03.04"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"03.04.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,russian"
+		"952951"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7601820513731421089"
+					"size"		"2532842008"
+					"download"		"2151063856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0F2D45416D323366ED862C0199BD766D"
+					"size"		"41A73A8B5699347BAEA1D2924DA3DAC4"
+					"download"		"BEFAD216F5F33A6152137901F8BE4EC0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3482555"
+				"timeupdated"		"1547844971"
+			}
+			"beta"
+			{
+				"buildid"		"3470692"
+				"pwdrequired"		"1"
+				"timeupdated"		"1547565073"
+			}
+		}
+	}
+}
