@@ -1,0 +1,207 @@
+"appinfo"
+{
+	"appid"		"257380"
+	"common"
+	{
+		"name"		"Fuse Basic"
+		"type"		"Demo"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"clienticon"		"1544584e4343513cbfe8ae7f159c2e467b5072d5"
+		"clienttga"		"7c21d83c871b431a9279de462b379db6e122791b"
+		"icon"		"d3e719b6963163bffeb607483207a8f9510b85ac"
+		"clienticns"		"fa05e14e5d3befd09aa1e88eddaece1af4b9ec05"
+		"logo"		"953465a1ac31d8d1247dd3a9548b885cf6a2d64a"
+		"logo_small"		"953465a1ac31d8d1247dd3a9548b885cf6a2d64a_thumb"
+		"parent"		"257400"
+		"metacritic_name"		"Fuse Basic"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1383711491"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mixamo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mixamo"
+			}
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1383782400"
+		"gameid"		"257380"
+		"exfgls"		"1"
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"installscript_macos"		"Fuse.app/installscript_osx.vdf"
+		"gamedir"		""
+		"developer"		"Mixamo"
+		"publisher"		"Mixamo"
+		"homepage"		"http://www.mixamo.com/fuse"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Fuse Basic"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Code/Build/Output/bin/Release/Fuse.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Fuse.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"257381"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3920936057409878090"
+					"size"		"319688388"
+					"download"		"412527392867"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C3604B86F977B0C5F597D082C4347B0E"
+					"size"		"2DF8FA567E764CD077D899ABAE484F7C"
+					"download"		"FD28BC27135B1555743DE49758DE4CB6"
+				}
+			}
+		}
+		"257382"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2002112908364148485"
+					"size"		"619195022"
+					"download"		"578145977025"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E55EB1EA4B73498A2A4F683F22AD595B"
+					"size"		"492BED59E4578C26D08B2C5DF8D14FED"
+					"download"		"E70CDB7C71B6C1463B0ABE9E3BAC61BF"
+				}
+			}
+		}
+		"257383"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9002378089504236651"
+					"size"		"241274358"
+					"download"		"43068070136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D54AD86FD44B0B3657698E97AD5EEA72"
+					"size"		"7E9F2E84287290254C1390666FC876BD"
+					"download"		"43445C21F6CE5717EAF9B574FB04A19B"
+				}
+			}
+		}
+		"257384"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"10769664704741197"
+					"size"		"241274358"
+					"download"		"222171515494"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BFE096EA9CE036A6CE735C299C31B10A"
+					"size"		"7E9F2E84287290254C1390666FC876BD"
+					"download"		"14D0E04CCE850842C09A24432BC2804A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"432569"
+			}
+			"beta"
+			{
+				"buildid"		"432569"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
