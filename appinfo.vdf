@@ -1,0 +1,357 @@
+"appinfo"
+{
+	"appid"		"503950"
+	"common"
+	{
+		"name"		"Star Tactics"
+		"type"		"Game"
+		"eulas"
+		{
+		}
+		"oslist"		"windows"
+		"icon"		"1927fa27ea2a3eae52c612222a5969da94756f26"
+		"logo"		"f335adffee5fb4d696c7bcf3b6218acf95ee593b"
+		"logo_small"		"f335adffee5fb4d696c7bcf3b6218acf95ee593b_thumb"
+		"clienttga"		"33138199acd88655e33318228fb6dcaa0ceb1217"
+		"clienticns"		"30f1a282874cf57cdd9691bee4881778357e30a0"
+		"clienticon"		"bcbc4cb1e25f268744e9ab8e6df0e20ed6c465e1"
+		"linuxclienticon"		"9fdb70cbff15d0ed164b66e1648e6c84ebc341da"
+		"osarch"		""
+		"releasestate"		"released"
+		"metacritic_name"		"Star Tactics"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1517517293"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Devil's Dozen Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Devil's Dozen Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1473282060"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"503950"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"599"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Devil's Dozen Games"
+		"publisher"		"Devil's Dozen Games"
+		"homepage"		"https://www.facebook.com/StarTactics/"
+		"isfreeapp"		"1"
+		"listofdlc"		"799130"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Star Tactics"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StarTactics.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"StarTactics.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"StarTactics.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"4"
+			{
+				"executable"		"StarTactics.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"503951"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"448690206961915403"
+					"size"		"404479379"
+					"download"		"56209552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_branch"
+				{
+					"gid"		"7F6830AB7BBFF1259654FEBE2C40F980"
+					"size"		"98F3B7B207A90EAFF184322EF2E34009"
+					"download"		"7E7C69FBCAE848E616899FF7C778145F"
+				}
+			}
+		}
+		"503952"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9041611587414346078"
+					"size"		"410245987"
+					"download"		"58110992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_branch"
+				{
+					"gid"		"9E428834C0649164B491208269F6A808"
+					"size"		"83F449E2F80BC9ACEBBF0AF57AF1E3B4"
+					"download"		"2AE5AF7CC9BE505ADAE61CC6134F8688"
+				}
+			}
+		}
+		"503953"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2390096929965000847"
+					"size"		"398181989"
+					"download"		"57925040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_branch"
+				{
+					"gid"		"D34F87F5A7ABFF42CCDAD60DC0AE8B8E"
+					"size"		"DF4B830F12C959D0C97F35D1ECD0FC4E"
+					"download"		"8401AD2FE867F1EC0DCAFDEEAC082E11"
+				}
+			}
+		}
+		"503954"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5974936140365333440"
+					"size"		"398398496"
+					"download"		"58508320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_branch"
+				{
+					"gid"		"E52041D5685F1D3BBE44FAF9B9690896"
+					"size"		"3767A7408520C1D0C83DA2AA2FCF2FC8"
+					"download"		"5AD48018FC61F766A353DF51C6E5CDDC"
+				}
+			}
+		}
+		"503955"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2931945077046947631"
+					"size"		"401309304"
+					"download"		"57728880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_branch"
+				{
+					"gid"		"AAE15AFD3ED20A42582465991A82C63C"
+					"size"		"4993B2D6A66C6AA100D515EEE55F212F"
+					"download"		"F4BF2E8DB522A1E5C3848272FBDC2D63"
+				}
+			}
+		}
+		"503956"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2841902965037857064"
+					"size"		"401309304"
+					"download"		"58702384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_branch"
+				{
+					"gid"		"25764BF7A8C301555E8B1849C3C1C063"
+					"size"		"4993B2D6A66C6AA100D515EEE55F212F"
+					"download"		"F11446256B572F8698A6BD160C8FB4EA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2528168"
+				"timeupdated"		"1518691531"
+			}
+			"test_branch"
+			{
+				"buildid"		"2528168"
+				"pwdrequired"		"1"
+				"timeupdated"		"1518691349"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"4194304"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"StarTactics_Data"
+				"pattern"		"game.bin"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"StarTactics_Data"
+				"pattern"		"game.bin"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"/"
+				"pattern"		"game.bin"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+		}
+	}
+}
