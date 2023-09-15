@@ -1,0 +1,477 @@
+"appinfo"
+{
+	"appid"		"343050"
+	"common"
+	{
+		"name"		"Don't Starve Together Dedicated Server"
+		"section_type"		"ownersonly"
+		"type"		"Tool"
+		"oslist"		"windows,macos,linux"
+		"logo"		"25bf2cbe5673dac84349029965749c5334a079a5"
+		"logo_small"		"25bf2cbe5673dac84349029965749c5334a079a5_thumb"
+		"icon"		"a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee"
+		"clienttga"		"a6b716e1809b13db2fb96d455b78ebab0246c8eb"
+		"clienticon"		"5176d189ff929acc8d29a2e5f0466e18798db436"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"343050_eula_0"
+				"name"		"Don't Starve Together Dedicated Server EULA"
+				"url"		"http://store.steampowered.com//eula/343050_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"clienticns"		"513ad959ff55369deac458d6c60020f4d54174cf"
+		"linuxclienticon"		"23b3e8bf7f5a6862d4699456117c4fdbfe11969a"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"associations"
+		{
+		}
+		"gameid"		"343050"
+	}
+	"extended"
+	{
+		"gamedir"		""
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Don't Starve Together Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin64/dontstarve_dedicated_server_nullrenderer_x64.exe"
+				"workingdir"		"bin64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Don't Starve Together Dedicated Server"
+				}
+				"description"		"Play Don't Starve Together Dedicated Server"
+			}
+			"1"
+			{
+				"executable"		"bin64/scripts/launch_dedicated_server.sh"
+				"workingdir"		"bin64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Don't Starve Together Dedicated Server"
+				}
+				"description"		"Play Don't Starve Together Dedicated Server"
+			}
+			"2"
+			{
+				"executable"		"dontstarve_dedicated_server_nullrenderer.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Play Don't Starve Together Dedicated Server"
+				}
+				"description"		"Play Don't Starve Together Dedicated Server"
+			}
+			"3"
+			{
+				"executable"		"bin/dontstarve_dedicated_server_nullrenderer.exe"
+				"workingdir"		"bin"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+				"description_loc"
+				{
+					"english"		"Play Don't Starve Together Dedicated Server (32-Bit)"
+				}
+				"description"		"Play Don't Starve Together Dedicated Server (32-Bit)"
+			}
+			"4"
+			{
+				"executable"		"bin/scripts/launch_dedicated_server.sh"
+				"workingdir"		"bin"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+				"description_loc"
+				{
+					"english"		"Play Don't Starve Together Dedicated Server (32-Bit)"
+				}
+				"description"		"Play Don't Starve Together Dedicated Server (32-Bit)"
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4660701598619066954"
+					"size"		"43850712"
+					"download"		"13716400"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912453647411644579"
+					"size"		"72573740"
+					"download"		"20021152"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"343051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8715257134174363045"
+					"size"		"3265897293"
+					"download"		"2294512000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"archive"
+				{
+					"gid"		"C935AE1FF1BD56106318B116AE3289B0"
+					"size"		"99B7D457D4C4D5DDA6F75B574D4992F3"
+					"download"		"F05CA32D234FF827F76B60E7485104D8"
+				}
+				"backend_coms"
+				{
+					"gid"		"28BA00090375336A9F7858F2571DFB16"
+					"size"		"2B685259A9A7A3BD8B5ACDE6D25BCE4D"
+					"download"		"9743713DCCA710F94405317A768644F7"
+				}
+				"dev"
+				{
+					"gid"		"A4DFF6AC42D763A26E768296ABA3DD08"
+					"size"		"8D2007FC02B8999424765F408A95D134"
+					"download"		"ADC47413BCFF7DBE91E09E5F1361E0B1"
+				}
+				"fmod"
+				{
+					"gid"		"66A7CD3FEDFDF5D7C6E315E7501D63C4"
+					"size"		"671119CCFE09A8BAF03048561B8CDFA3"
+					"download"		"45FF05A0049CB780BD242F2A17C401D2"
+				}
+				"notarization_test"
+				{
+					"gid"		"DA112859148E6214BCD21A8190E26B3D"
+					"size"		"A3334BD450C797B9D88910EB76FC4E1E"
+					"download"		"1AF321B8CC9C2E3CB8F761069FC731B2"
+				}
+				"release"
+				{
+					"gid"		"1E3CF07AFD361BFAA2DC4DB687B0C57B"
+					"size"		"8A8E0A4D829A2DC5D007E01C209C54DA"
+					"download"		"F33666C0D58117DB2D53CA6718C2AF38"
+				}
+				"staging"
+				{
+					"gid"		"0DD3B8F8655AA135C8DBC449E73B1BD9"
+					"size"		"86BA32CB0F044C88AFD144D36711933D"
+					"download"		"D6E349B6C4ED656F694130F5E8BCCD43"
+				}
+				"test_jesse"
+				{
+					"gid"		"E25C56CD48B3852168DD2ACC04F02C26"
+					"size"		"D245DB81227CE52B2D0A632BAF1D011C"
+					"download"		"C397BE2832F7ACADBED49C47E26ED480"
+				}
+				"test_zach"
+				{
+					"gid"		"117BF7940C054C56FAFC8DF4051DD027"
+					"size"		"329E1410CFEF0B42EFBF9A5B04901913"
+					"download"		"A7482864E864E1187CA0F458DFE3488F"
+				}
+			}
+		}
+		"343052"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5230177942439551893"
+					"size"		"3195130166"
+					"download"		"2196197728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"archive"
+				{
+					"gid"		"AEA2DAD95AB85D9CA0E36750D88403C2"
+					"size"		"6B87B4DCC7E4A0E07356E00696A479A8"
+					"download"		"A794E7A417013E5218815CBB02753026"
+				}
+				"backend_coms"
+				{
+					"gid"		"EC9D3286069ED48BACDF5D7B6B973390"
+					"size"		"97E66E7D32147DB4CFF6FF9F14F8102E"
+					"download"		"4C59A1619AB0856099755F98C90E4880"
+				}
+				"dev"
+				{
+					"gid"		"9FA83978D8733B3A1A5AF5DDB729F2E2"
+					"size"		"E746A8F290B8716C84D2B17350EF159F"
+					"download"		"3CCCE40D347EDDBC3FD3449F1532C830"
+				}
+				"fmod"
+				{
+					"gid"		"715243136F9B42C8BD2E969F85CA409B"
+					"size"		"96BDBE80F5E8FDA5B3F67A90D38C29D1"
+					"download"		"4801123DA7BA7254317B516C5CB9253B"
+				}
+				"notarization_test"
+				{
+					"gid"		"D36AB9731DD8B70F8CB8ED871D3F4389"
+					"size"		"ED844CCEBE7C0E973A9D303DF32F1C94"
+					"download"		"04EC7E7EE1E5670BDA0C6FA2C72F62D7"
+				}
+				"release"
+				{
+					"gid"		"97DE5F4082349DE48FE4E8BC862B73C8"
+					"size"		"C5C63D3D1E5B552B403D1C9A2570BE18"
+					"download"		"C011BBDA340DA3D608E418D6022A5323"
+				}
+				"staging"
+				{
+					"gid"		"B1A6443FBE5727EF467A6EA6D325A274"
+					"size"		"2E43B533D09021F9A253DCA9ECDC4B5B"
+					"download"		"4A2C099B7155E8C4E97BC2BD0B0C49AC"
+				}
+				"test_jesse"
+				{
+					"gid"		"E6E15D8E577719C8C57C6CA1FB1F767B"
+					"size"		"CB9D581347C6E21E1F643FB62CA6AA58"
+					"download"		"ED90C46D18C6153CF2566D9BE6C674B5"
+				}
+				"test_zach"
+				{
+					"gid"		"38CAEBDFCEA4E1CFD9EEC98717FEBDD6"
+					"size"		"8C18591276677B8FF5413D59E4AE3212"
+					"download"		"20371A18CB8BFC87674467E0FD57BBD4"
+				}
+			}
+		}
+		"343053"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7872519972996387098"
+					"size"		"3125219641"
+					"download"		"2178792048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"archive"
+				{
+					"gid"		"B2B8B119691F0CFD2EF5D573D10B2514"
+					"size"		"68C90A5DA1BF76F561CCE2C8B8E3A012"
+					"download"		"22CD56EBABEDD15F77251D198B4E8FB6"
+				}
+				"backend_coms"
+				{
+					"gid"		"45CACB3935D660D47A47778EBB7E3EA9"
+					"size"		"997668520CA400B10D2E226C926839F1"
+					"download"		"09ED4BE4A765495868A87C67F8A1E141"
+				}
+				"dev"
+				{
+					"gid"		"2E30A65075321D39738A3BB948375CE9"
+					"size"		"D20F9C9D867027AEA563B8028FE2EDC0"
+					"download"		"25BF72FD23CD642809221D853E36EE0A"
+				}
+				"fmod"
+				{
+					"gid"		"134F74120CF908C29FC199A9A1728A44"
+					"size"		"11E7C8F080C4B2B36F3CFF795A68E50B"
+					"download"		"7CCFCBA1A338D1D3F1F8D1ED605576C3"
+				}
+				"notarization_test"
+				{
+					"gid"		"A401F634DD5FB44B3DB03367BD5DF270"
+					"size"		"539170DC702F641CA9D6231A819308C1"
+					"download"		"278545F34D7C0E751DB2977D386286F0"
+				}
+				"release"
+				{
+					"gid"		"2B35C0FEC01B78DF60448D12EC8ED0A8"
+					"size"		"B08ED663AEC15FDAB43DF511B6F88E4C"
+					"download"		"A6BDF528703816DA20FB832C71B4E705"
+				}
+				"staging"
+				{
+					"gid"		"7BE702470A45BF27C3F1D706767119C5"
+					"size"		"7CA595CF858F20712207EA0C5EDC1393"
+					"download"		"26135D4ED26F7C070F582A5C23ED75BC"
+				}
+				"test_jesse"
+				{
+					"gid"		"4E78F2428BC08BC0076CA3507D611D5B"
+					"size"		"3AA2384509470A083EC3A1528741E8CE"
+					"download"		"503E66FB70965589F21D5BBBFB838AB9"
+				}
+				"test_zach"
+				{
+					"gid"		"252BBA664D69C1A438A038F38F70F10D"
+					"size"		"90B284906056E1EDB342423148DAE8BF"
+					"download"		"A8D0409EB3B7135F358831543C2447C5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12145552"
+				"timeupdated"		"1694211837"
+			}
+			"archive"
+			{
+				"buildid"		"1399070"
+				"pwdrequired"		"1"
+				"timeupdated"		"1476815446"
+			}
+			"backend_coms"
+			{
+				"buildid"		"8011597"
+				"pwdrequired"		"1"
+				"timeupdated"		"1642039303"
+			}
+			"dev"
+			{
+				"buildid"		"12198170"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694776076"
+			}
+			"fmod"
+			{
+				"buildid"		"3645984"
+				"pwdrequired"		"1"
+				"timeupdated"		"1552590160"
+			}
+			"notarization_test"
+			{
+				"buildid"		"4280391"
+				"pwdrequired"		"1"
+				"timeupdated"		"1570829357"
+			}
+			"release"
+			{
+				"buildid"		"12145552"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694204290"
+			}
+			"staging"
+			{
+				"buildid"		"11752199"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689891420"
+			}
+			"test_jesse"
+			{
+				"buildid"		"12172167"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694555396"
+			}
+			"test_zach"
+			{
+				"buildid"		"8233079"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645225755"
+			}
+		}
+	}
+}
