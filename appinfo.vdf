@@ -1,0 +1,232 @@
+"appinfo"
+{
+	"appid"		"1631970"
+	"common"
+	{
+		"name"		"Dispersio Demo"
+		"type"		"Demo"
+		"parent"		"563180"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"50985e86d9ef6bd7880b2d7e95487a416c4fb2cb"
+		"clienticon"		"ce1103271af754eb6c55dac5d226a0239321a9a3"
+		"icon"		"684415c63b10bb130f52decb6afc5fcc651b1ad9"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1621315954"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Achpile"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Achpile"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1621409133"
+		"gameid"		"1631970"
+	}
+	"extended"
+	{
+		"demoofappid"		"563180"
+		"developer"		"Achpile"
+		"publisher"		"Achpile"
+		"homepage"		"http://achpile.tk/"
+	}
+	"config"
+	{
+		"installdir"		"Dispersio Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"dispersio.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"dispersio"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"dispersio"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"563181"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1216254656602259652"
+					"size"		"27292380"
+					"download"		"25558736"
+				}
+			}
+			"depotfromapp"		"563180"
+		}
+		"1631971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"598207630132797370"
+					"size"		"4316960"
+					"download"		"1373056"
+				}
+			}
+		}
+		"1631972"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6058426472267852003"
+					"size"		"2873201"
+					"download"		"778480"
+				}
+			}
+		}
+		"1631973"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6944204688527081408"
+					"size"		"3042494"
+					"download"		"781456"
+				}
+			}
+		}
+		"1631974"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"699753099873901041"
+					"size"		"9804792"
+					"download"		"2113920"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7630748"
+				"timeupdated"		"1635611397"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576"
+		"maxnumfiles"		"3"
+		"appidredirect"		"563180"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"settings.json"
+			}
+		}
+	}
+}
