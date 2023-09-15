@@ -1,0 +1,351 @@
+"appinfo"
+{
+	"appid"		"424280"
+	"common"
+	{
+		"name"		"Iron Snout"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"clienttga"		"7c083c545938974ebd53ef7f11a58335baeedd56"
+		"icon"		"ec30cdaa64f3fa7e63087eded8c5ab7a4e50452e"
+		"clienticon"		"8097d301559ab655397fe5cf6f00bd200f61c014"
+		"logo"		"d37c0bb0155befb8aa08a32546c652094e44da8f"
+		"logo_small"		"d37c0bb0155befb8aa08a32546c652094e44da8f_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664582400"
+			"tested_build_id"		"6452475"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Iron Snout"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.17202305445106"
+				"height_pct"		"66.39767820759329"
+			}
+		}
+		"store_asset_mtime"		"1660720936"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SnoutUp"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SnoutUp"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"SnoutUp"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1453881600"
+		"steam_release_date"		"1453886259"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"424280"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4736"
+			"2"		"4136"
+			"3"		"19"
+			"4"		"1743"
+			"5"		"4345"
+			"6"		"3871"
+			"7"		"492"
+			"8"		"4182"
+			"9"		"4562"
+			"10"		"5228"
+			"11"		"1662"
+			"12"		"4667"
+			"13"		"1734"
+			"14"		"4158"
+			"15"		"597"
+			"16"		"1773"
+			"17"		"4726"
+			"18"		"4026"
+			"19"		"1685"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"SnoutUp"
+		"publisher"		"SnoutUp"
+		"homepage"		"http://games.snoutup.com/iron-snout"
+		"isfreeapp"		"1"
+		"listofdlc"		"826650"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Iron Snout"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"IronSnout.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Iron Snout.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"run.sh"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"424281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3718660926726869037"
+					"size"		"26756665"
+					"download"		"18597632"
+				}
+				"beta"
+				{
+					"gid"		"3718660926726869037"
+					"size"		"26756665"
+					"download"		"18597632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pirates"
+				{
+					"gid"		"820D85C828E8218FC35EB89A81746FA3"
+					"size"		"A75E1AD3E2610FDC89424D671A7DD27E"
+					"download"		"1814F43E80F59EF5D882FB0A0CE5D7B5"
+				}
+				"snoutup"
+				{
+					"gid"		"F66DCE4784D65DA3BAF6C7A79D2EF40F"
+					"size"		"10BBA10AE096FB4B391FEB3259CEFE24"
+					"download"		"D26D1227D32D9808D459EDE92A2E424D"
+				}
+			}
+		}
+		"424282"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5357474434727085688"
+					"size"		"21516118"
+					"download"		"12365792"
+				}
+				"beta"
+				{
+					"gid"		"5357474434727085688"
+					"size"		"21516118"
+					"download"		"12365792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pirates"
+				{
+					"gid"		"B1A80A9AB7DA8AEEF5F311E4995E6B24"
+					"size"		"AF7252C58D521B90D44EB971896854AC"
+					"download"		"B513B0DAE91843A5869996B23F964CD7"
+				}
+				"snoutup"
+				{
+					"gid"		"C8A63766BE6742FA06186D89C3021CA0"
+					"size"		"306DC6FB8CB3E983E35302207F6F15C7"
+					"download"		"B03F154B1B080E937627DA25158B6502"
+				}
+			}
+		}
+		"424283"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6338737864584161688"
+					"size"		"25388667"
+					"download"		"17187328"
+				}
+				"beta"
+				{
+					"gid"		"6338737864584161688"
+					"size"		"25388667"
+					"download"		"17187328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pirates"
+				{
+					"gid"		"CE2FD83CE4F567E316A20CA7B0926ABF"
+					"size"		"B34A31F5F694E54648E834B0FD01E8BB"
+					"download"		"423260581CBC5C2F658DC49D0298D08D"
+				}
+				"snoutup"
+				{
+					"gid"		"5492E3596BBF33C1592BD86E1A316877"
+					"size"		"EFB71587B9E377B2FBB279658EBF291B"
+					"download"		"8DFD89DCA5854703670532E7A7CEF45B"
+				}
+			}
+		}
+		"workshopdepot"		"424280"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6452475"
+				"timeupdated"		"1616932421"
+			}
+			"beta"
+			{
+				"buildid"		"6452475"
+				"description"		"Public beta"
+				"timeupdated"		"1616932448"
+			}
+			"pirates"
+			{
+				"buildid"		"3423991"
+				"pwdrequired"		"1"
+				"timeupdated"		"1545528769"
+			}
+			"snoutup"
+			{
+				"buildid"		"2868033"
+				"pwdrequired"		"1"
+				"timeupdated"		"1529180251"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"100"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
