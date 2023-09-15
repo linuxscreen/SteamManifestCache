@@ -1,0 +1,418 @@
+"appinfo"
+{
+	"appid"		"1013320"
+	"common"
+	{
+		"name"		"Firestone: Online Idle RPG"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienttga"		"4b351e1d5c70ba11e5730025a55a8b61ce1d24f2"
+		"clienticon"		"2146159747d8d6d9debb80685998980c1215d221"
+		"icon"		"8ef3951669ba64eec51bba8ec97b01a906f772b0"
+		"logo"		"7df773b419a6a870a93a83c452a03d42fb047368"
+		"logo_small"		"7df773b419a6a870a93a83c452a03d42fb047368_thumb"
+		"releasestate"		"released"
+		"clienticns"		"b7a588e627c80501d479639c82168f29fb1bee0c"
+		"name_localized"
+		{
+			"schinese"		"火之石 『Firestone』放置幻想王国英雄管理RPG"
+			"tchinese"		"火之石 『Firestone』放置幻想王国英雄管理RPG "
+			"koreana"		"파이어스톤「Firestone」 키우기 영웅ㆍ방치형RPG"
+			"japanese"		"ファイアストン【Firestone】放置ファンタジー王国経営"
+			"russian"		"Firestone: фэнтези кликер РПГ онлайн ММО"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"7657405"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Firestone"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"koreana"		"header_koreana.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ko,zh-cn,zh-tw,ja"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"96.48157488613685"
+				"height_pct"		"93.48111097918147"
+			}
+		}
+		"store_asset_mtime"		"1686135390"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Holyday Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Holyday Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Firestone"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"29"
+			"6"		"3"
+			"7"		"28"
+			"8"		"2"
+			"9"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_20"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1569498720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1013320"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"615955"
+			"1"		"113"
+			"2"		"122"
+			"3"		"379975"
+			"4"		"492"
+			"5"		"21"
+			"6"		"597"
+			"7"		"493"
+			"8"		"9"
+			"9"		"4182"
+			"10"		"599"
+			"11"		"19"
+			"12"		"128"
+			"13"		"3859"
+			"14"		"3871"
+			"15"		"1754"
+			"16"		"1684"
+			"17"		"1084988"
+			"18"		"16689"
+			"19"		"3993"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Holyday Studios"
+		"publisher"		"Holyday Studios"
+		"homepage"		"http://holydaygames.com/firestone-idle-rpg/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1265710,1266710,1266711,1266712,1266713,1266714,1266715,1266716,1266717,1266718,1266719,1291880,1291881,1291882,1291883,1291884,1291885,1291886,1291887,1291888,1291889,1376970,1376971,1376972,1376973,1376974"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Firestone"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Firestone.exe"
+				"arguments"		"Platform=Steam"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Firestone.app"
+				"arguments"		"Platform=Steam"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Firestone.x86_64"
+				"arguments"		"Platform=Steam"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2054675514"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1013321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5054472390172011352"
+					"size"		"570319337"
+					"download"		"153362624"
+				}
+			}
+		}
+		"1013323"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3348024433266100015"
+					"size"		"605437464"
+					"download"		"164677792"
+				}
+			}
+		}
+		"1013324"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2884540234014730436"
+					"size"		"602680094"
+					"download"		"151041152"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12166884"
+				"timeupdated"		"1694515929"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
