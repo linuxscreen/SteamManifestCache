@@ -1,0 +1,366 @@
+"appinfo"
+{
+	"appid"		"200390"
+	"common"
+	{
+		"name"		"Oil Rush"
+		"type"		"Game"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"russian"		"1"
+		}
+		"icon"		"e05fd158f61dd196822222ce77d3d847ff5aaf73"
+		"clienticon"		"36c048997542882fd01acf0311a51aa725767ada"
+		"clienttga"		"acba85bc2b5ab7c65986ba77002bd1ac1d42d943"
+		"logo"		"ec58f4b09ffbe30810e511ea6d609ae2c3dd96c8"
+		"logo_small"		"ec58f4b09ffbe30810e511ea6d609ae2c3dd96c8_thumb"
+		"oslist"		"windows,macos,linux"
+		"linuxclienticon"		"64ac74cfb69094bb05871f86471e88337860390e"
+		"clienticns"		"724c645e031eaec0ac551ec07e3e3f4baa0fd05a"
+		"metacritic_name"		"Oil Rush"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1365801946"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Unigine Corp."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Unigine Corp."
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1327530900"
+		"metacritic_score"		"67"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/oil-rush?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"200390"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"1676"
+			"3"		"1645"
+			"4"		"5030"
+			"5"		"6910"
+			"6"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"55"
+	}
+	"extended"
+	{
+		"developer"		"Unigine Corp."
+		"gamedir"		"Oil Rush"
+		"homepage"		"http://oilrush-game.com/"
+		"icon"		""
+		"installscript_macos"		"OilRush.app/installscript_osx.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"200392"
+		"primarycache_macos"		"200394"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+		"publisher"		"Unigine Corp."
+		"gamemanualurl"		"https://store.steampowered.com/manual/200390/"
+		"isfreeapp"		"1"
+		"listofdlc"		"200396"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher_steam.bat"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"OilRush.app/Contents/MacOS/oilrush_steam"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"launcher_steam.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Oil Rush"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"200392"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3975729983918230828"
+					"size"		"1329488911"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"92C32A4CFA6AF7C80E9A7D983DAF7C35"
+					"size"		"6277AB3C981F75174B9B9A2A42C20CE0"
+					"download"		"F6BC565AEDCE75FDA26FF2E758C9A1E2"
+				}
+			}
+		}
+		"200398"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2183380225604910837"
+					"size"		"1342364781"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"6CA2113DD2EE7199BF994D5F88BFC7E2"
+					"size"		"FB3BFDDCEAFD4E8B0E08E81B1B027EF1"
+					"download"		"F6BC565AEDCE75FDA26FF2E758C9A1E2"
+				}
+			}
+		}
+		"200395"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6748141430187310596"
+					"size"		"2"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"1C2E0A7FE7F3EEECE777906CB40FA048"
+					"size"		"68EC4CDFB3C68FDEE21C4D7927EEEA34"
+					"download"		"F6BC565AEDCE75FDA26FF2E758C9A1E2"
+				}
+			}
+		}
+		"200393"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1225551665609028976"
+					"size"		"2"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"C520D6E9CF91A2CE8DA5F27200289BA1"
+					"size"		"68EC4CDFB3C68FDEE21C4D7927EEEA34"
+					"download"		"F6BC565AEDCE75FDA26FF2E758C9A1E2"
+				}
+			}
+		}
+		"200396"
+		{
+			"optional"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3764683922484014206"
+					"size"		"1952207"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"3963C3E4B8F7622414A91427102B968B"
+					"size"		"8FAE1A7CC6ACB48C9BFB9B1195024EDB"
+					"download"		"F6BC565AEDCE75FDA26FF2E758C9A1E2"
+				}
+			}
+			"dlcappid"		"200396"
+		}
+		"200394"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8157251151504826298"
+					"size"		"1369152935"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"72D8C66D17E260FAF7716A03DC757855"
+					"size"		"4C0DF218E3872D596043E964F0A786B4"
+					"download"		"F6BC565AEDCE75FDA26FF2E758C9A1E2"
+				}
+			}
+		}
+		"200397"
+		{
+			"optional"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"309195763324579170"
+					"size"		"96776967"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"BB7F9D76E5A9394631C99EC78D3F0E54"
+					"size"		"3AE2D7F4284E75D0C13888137400FE06"
+					"download"		"F6BC565AEDCE75FDA26FF2E758C9A1E2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"61697"
+			}
+			"test"
+			{
+				"buildid"		"61697"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"0"
+	}
+}
