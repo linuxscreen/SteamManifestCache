@@ -1,0 +1,252 @@
+"appinfo"
+{
+	"appid"		"1195460"
+	"common"
+	{
+		"name"		"Last Year"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"14d476b3aa47319a370454349fa8476559842105"
+		"clienttga"		"d39cd491130613a3ebfa5dda999bbb54bd82451f"
+		"icon"		"02b1532cda71216adb641617f57427126762ff6c"
+		"logo"		"cf77916d113aa59827d1650e928ffab5cfcc51c4"
+		"logo_small"		"cf77916d113aa59827d1650e928ffab5cfcc51c4_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1683849600"
+			"tested_build_id"		"11157384"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Last Year"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"98.83480954241972"
+				"height_pct"		"85.41724149769284"
+			}
+		}
+		"store_asset_mtime"		"1680369471"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Undaunted Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Undaunted Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_33"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1575954060"
+		"community_hub_visible"		"1"
+		"gameid"		"1195460"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3859"
+			"2"		"1667"
+			"3"		"1685"
+			"4"		"4345"
+			"5"		"3978"
+			"6"		"4667"
+			"7"		"3839"
+			"8"		"1662"
+			"9"		"5711"
+			"10"		"4166"
+			"11"		"5611"
+			"12"		"113"
+			"13"		"492"
+			"14"		"1775"
+			"15"		"9541"
+			"16"		"7113"
+			"17"		"4747"
+			"18"		"4342"
+		}
+		"review_score"		"5"
+		"review_percentage"		"61"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=1195460"
+		"developer"		"Undaunted Games"
+		"publisher"		"Undaunted Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Last Year"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LastYear.exe"
+				"arguments"		"-dx11"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"13"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"1915292536"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1195461"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1018353865480383691"
+					"size"		"18461115446"
+					"download"		"18033009632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"131C16424AD73779683B90494B798922"
+					"size"		"CE4B915381E8745267938254A37789F5"
+					"download"		"C384FB280D09718AC799553CDD122214"
+				}
+				"testing"
+				{
+					"gid"		"E798417BAA6938CA8FF09BB470910616"
+					"size"		"C312A54F0D5BDB254DC8FA5886501E89"
+					"download"		"C04757C9D01BD2EE367F96F3E27441F6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11949544"
+				"timeupdated"		"1692208625"
+			}
+			"developer"
+			{
+				"buildid"		"12179627"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694619206"
+			}
+			"testing"
+			{
+				"buildid"		"11949544"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692136702"
+			}
+		}
+	}
+}
