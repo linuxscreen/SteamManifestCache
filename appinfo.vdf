@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"1371350"
+	"common"
+	{
+		"name"		"Solenars Edge II: Champions"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"2e41b2cd29483aa9dc88d70a0725a78d7f969392"
+		"logo_small"		"2e41b2cd29483aa9dc88d70a0725a78d7f969392_thumb"
+		"icon"		"691610083f6ccb126db9f344d915b099e2bfba7a"
+		"clienticon"		"f156c3ce0d5d7692c7a6a29871f344c266f9cf29"
+		"clienttga"		"0bb1c74a6d36a651a73e5a95ba0ac7310c2087bc"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"58.58662806054076"
+			}
+		}
+		"store_asset_mtime"		"1594687972"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Syukino"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Syukino"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Solenars Edge"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1596239520"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1371350"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"4434"
+			"2"		"10695"
+			"3"		"4747"
+			"4"		"5711"
+			"5"		"4325"
+			"6"		"4085"
+			"7"		"1684"
+			"8"		"4295"
+			"9"		"4840"
+			"10"		"3841"
+			"11"		"4182"
+			"12"		"5577"
+		}
+		"review_score"		"5"
+		"review_percentage"		"41"
+	}
+	"extended"
+	{
+		"developer"		"Team Syukino"
+		"publisher"		"Team Syukino"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Solenars Edge II Champions"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1371351"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1933264289735804264"
+					"size"		"1579404150"
+					"download"		"1038167248"
+				}
+				"co-op"
+				{
+					"gid"		"2866697144537628812"
+					"size"		"1579404152"
+					"download"		"1038167248"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6079243"
+				"timeupdated"		"1610593181"
+			}
+			"co-op"
+			{
+				"buildid"		"6079279"
+				"timeupdated"		"1610594021"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
