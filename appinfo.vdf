@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"867660"
+	"common"
+	{
+		"name"		"NYKRA: Before"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"7b2c9d390934efd444b5c6a17cc86f028bd47775"
+		"logo_small"		"7b2c9d390934efd444b5c6a17cc86f028bd47775_thumb"
+		"icon"		"61b43adacdc6a9cc630498f13c6b1c473388ebe0"
+		"clienttga"		"e61e573c5bdaf4a62a826aa523009e45ea33c291"
+		"clienticon"		"1ff9a9181bb86904657da2bb3240decfb294094b"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"42.41540256709453"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1633132020"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ENDESGA"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ENDESGA"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1632785160"
+		"community_hub_visible"		"1"
+		"gameid"		"867660"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"21"
+			"2"		"122"
+			"3"		"3964"
+			"4"		"1625"
+			"5"		"3871"
+			"6"		"3942"
+			"7"		"3834"
+			"8"		"1742"
+			"9"		"7702"
+			"10"		"9994"
+			"11"		"13782"
+			"12"		"15277"
+			"13"		"7208"
+			"14"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"ENDESGA"
+		"publisher"		"ENDESGA"
+		"homepage"		"http://www.nykra.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"NYKRA"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NYKRA.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"NYKRA"
+				}
+				"description"		"NYKRA"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"867661"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6670769945556037366"
+					"size"		"500101686"
+					"download"		"346917152"
+				}
+				"beta"
+				{
+					"gid"		"7494692877272046162"
+					"size"		"394368657"
+					"download"		"265529360"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7878359"
+				"timeupdated"		"1639450553"
+			}
+			"beta"
+			{
+				"buildid"		"7587275"
+				"description"		"test branch"
+				"timeupdated"		"1635003737"
+			}
+		}
+	}
+}
