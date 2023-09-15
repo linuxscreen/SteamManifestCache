@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"1812280"
+	"common"
+	{
+		"name"		"Cave Story's Secret Santa"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"f7f142fb12e1e9adb9f77b2a5f89322f31b43183"
+		"clienttga"		"cdcf8140faad347614b18bb109be74e540d9a120"
+		"icon"		"95edf09d089946eb058655244306674da5a945cb"
+		"logo"		"984e50c441764f86137dd6c9db87e071eeb817d7"
+		"logo_small"		"984e50c441764f86137dd6c9db87e071eeb817d7_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1650326400"
+			"tested_build_id"		"7930677"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.616265750286374"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1638325874"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nicalis, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nicalis, Inc."
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1639119727"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1812280"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1664"
+			"2"		"1687"
+			"3"		"597"
+			"4"		"4726"
+			"5"		"3964"
+			"6"		"5350"
+			"7"		"3871"
+			"8"		"3834"
+			"9"		"4182"
+			"10"		"492"
+			"11"		"7481"
+			"12"		"4004"
+			"13"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Nicalis, Inc."
+		"publisher"		"Nicalis, Inc."
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"CSSecretSanta"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Cave Story's Secret Santa.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1812282"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6454592686338097585"
+					"size"		"129042982"
+					"download"		"54304880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"260F09D442B55A55676A81D9DEB72F91"
+					"size"		"0FB1585CE30CB62F2D4CB90DB01C4313"
+					"download"		"67046F4BC85A6D075E4116F6145472D5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7930677"
+				"timeupdated"		"1640229770"
+			}
+			"beta"
+			{
+				"buildid"		"7930677"
+				"pwdrequired"		"1"
+				"timeupdated"		"1640229784"
+			}
+		}
+	}
+}
