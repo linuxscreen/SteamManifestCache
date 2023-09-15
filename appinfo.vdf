@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"839330"
+	"common"
+	{
+		"name"		"Catch Me If You Can"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"2f69ab3f04baaffa6ff0feb07ab35b5c5bfb5e4e"
+		"logo_small"		"2f69ab3f04baaffa6ff0feb07ab35b5c5bfb5e4e_thumb"
+		"icon"		"549b891a570e44d4109781578cf2ee66bc725afd"
+		"clienticon"		"7baaf20d26607f78d3d312fea355c0eb743562f1"
+		"clienttga"		"b932f1602c0f1109a2bc03cadb03a09a1aa36b51"
+		"osextended"		""
+		"market_presence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"50.78626602955429"
+			}
+		}
+		"store_asset_mtime"		"1666969517"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Glorified Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Glorified Studios"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1666988604"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"839330"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1734"
+			"1"		"8666"
+			"2"		"3878"
+			"3"		"3968"
+			"4"		"3859"
+			"5"		"7178"
+			"6"		"113"
+			"7"		"4036"
+			"8"		"3813"
+			"9"		"3839"
+			"10"		"5547"
+			"11"		"3877"
+			"12"		"1775"
+			"13"		"1773"
+			"14"		"9"
+			"15"		"4191"
+			"16"		"4136"
+			"17"		"5711"
+			"18"		"19"
+			"19"		"597"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Glorified Studios"
+		"publisher"		"Glorified Studios"
+		"homepage"		"https://glorifiedstudios.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"2199590"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Catch Me If You Can"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CatchMeIfYouCan.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"839331"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1606864462710710871"
+					"size"		"304331414"
+					"download"		"112407744"
+				}
+				"next"
+				{
+					"gid"		"9221363741001957713"
+					"size"		"295251466"
+					"download"		"103755664"
+				}
+				"unstable"
+				{
+					"gid"		"679598152884040412"
+					"size"		"304365077"
+					"download"		"112682832"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10856376"
+				"timeupdated"		"1679774516"
+			}
+			"next"
+			{
+				"buildid"		"7745524"
+				"description"		"Latest Tagged Update."
+				"timeupdated"		"1637351692"
+			}
+			"unstable"
+			{
+				"buildid"		"11661742"
+				"description"		"Latest Development Build - May be unstable."
+				"timeupdated"		"1688949776"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"config"
+				"pattern"		"*.cfg"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_inmainmenu"		"Main Menu"
+					"#status_waitingformatch"		"Waiting in Lobby (%MAP%)"
+					"#status_cursed"		"In Match - Cursed (%MAP%)"
+					"#status_hiding"		"In Match - Hiding (%MAP%)"
+					"#status_dead"		"In Match - Dead (%MAP%)"
+					"#status_gameoverwon"		"Round Over - Won (%MAP%)"
+					"#status_gameoverlost"		"Round Over - Lost (%MAP%)"
+				}
+			}
+		}
+	}
+}
