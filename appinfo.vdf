@@ -1,0 +1,147 @@
+"appinfo"
+{
+	"appid"		"2188730"
+	"common"
+	{
+		"name"		"The Hotel Demo"
+		"type"		"Demo"
+		"parent"		"2134970"
+		"clienttga"		"f0e173597dd619e33dd22c8ea2c1a3d24e16bf03"
+		"clienticon"		"a2f0eccc54fb3e8248287c4f3f49c23b9dcac871"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"f4992564b6aa08f985685a7c27383c98ab42fd47"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1665833078"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"IL PALA"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IL PALA"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666626186"
+		"gameid"		"2188730"
+	}
+	"extended"
+	{
+		"demoofappid"		"2134970"
+		"developer"		"IL PALA"
+		"publisher"		"IL PALA"
+		"homepage"		"https://www.fearmyhotel.com/"
+	}
+	"config"
+	{
+		"installdir"		"The Hotel Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"theHotelDemo.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,japanese"
+		"2188731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"972115200045074646"
+					"size"		"2046955360"
+					"download"		"1723038400"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10526302"
+				"timeupdated"		"1676051535"
+			}
+		}
+	}
+}
