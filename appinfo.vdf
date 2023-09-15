@@ -1,0 +1,207 @@
+"appinfo"
+{
+	"appid"		"378370"
+	"common"
+	{
+		"name"		"Nomad"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"0ff64bf80e1fe7737a4a119f2fe510b83ac674df"
+		"logo_small"		"0ff64bf80e1fe7737a4a119f2fe510b83ac674df_thumb"
+		"icon"		"c34113b7056542a07b43f8326a7f2918722ae8e1"
+		"clienttga"		"ebcda9b6b906e1193eb4db047c948fbf5dc592c5"
+		"clienticon"		"7809b0420d0c9b621d7a845099769b58c6ab1273"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"metacritic_name"		"Nomad"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"42.60464979457362"
+				"height_pct"		"72.52970065173226"
+			}
+		}
+		"store_asset_mtime"		"1690732268"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Diminished Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Diminished Studios"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+			"5"		"3"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_38"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1435317540"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"378370"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"3859"
+			"2"		"1100689"
+			"3"		"113"
+			"4"		"1659"
+			"5"		"1695"
+			"6"		"1702"
+			"7"		"21"
+			"8"		"19"
+			"9"		"493"
+			"10"		"1663"
+			"11"		"1685"
+			"12"		"1774"
+			"13"		"3839"
+			"14"		"492"
+			"15"		"128"
+			"16"		"3835"
+			"17"		"3964"
+			"18"		"4182"
+			"19"		"597"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"Diminished Studios"
+		"publisher"		"Diminished Studios"
+		"homepage"		"https://diminished-studios.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"431430,508800"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Nomad"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Nomad.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"378371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7704424657624157778"
+					"size"		"1236919829"
+					"download"		"917193152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"870D207EB1B43EEBD5A2BD640934CCAF"
+					"size"		"6506CC9DE64617905DA454BA87F24F87"
+					"download"		"C1CA637C0BBBD331E772B43648290BD3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11902255"
+				"timeupdated"		"1691613952"
+			}
+			"dev"
+			{
+				"buildid"		"6138831"
+				"pwdrequired"		"1"
+				"timeupdated"		"1611793161"
+			}
+		}
+	}
+}
