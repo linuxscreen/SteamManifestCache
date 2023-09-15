@@ -1,0 +1,798 @@
+"appinfo"
+{
+	"appid"		"330710"
+	"common"
+	{
+		"name"		"The Talos Principle Demo"
+		"type"		"Demo"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"c56655466430bb5c1f18482b97f3d595cedbc6c9"
+		"logo_small"		"c56655466430bb5c1f18482b97f3d595cedbc6c9_thumb"
+		"icon"		"acd071d0ffe0a48ba09f215535bd1780c9c6da4a"
+		"clienttga"		"9dd99a3584ec96ac5eaf9cfde0d164871918ce69"
+		"clienticon"		"0518809d7fc702807d7b3ee0b7f4bc351be7bfae"
+		"metacritic_name"		"The Talos Principle Public Test"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1416850696"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Croteam"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Devolver Digital"
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_17"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1415285940"
+		"community_hub_visible"		"1"
+		"gameid"		"330710"
+		"exfgls"		"1"
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Croteam"
+		"publisher"		"Devolver Digital"
+		"homepage"		"http://www.croteam.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"The Talos Principle Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bin/Talos_Demo.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Bin/Talos_Demo"
+				"description"		"Launch"
+				"workingdir"		"Bin"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Bin/Talos_Demo"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"Bin/x64/Talos_Demo"
+				"description"		"Play (64-bit)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+			"4"
+			{
+				"executable"		"Bin/x64/Talos_Demo.exe"
+				"description"		"Play (64-bit)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"checkguid"		"Talos_Demo.exe"
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"257516"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7924825898116512954"
+					"size"		"34207184"
+					"download"		"9959456"
+				}
+				"legacy"
+				{
+					"gid"		"827084533033961837"
+					"size"		"8172400"
+					"download"		"2814416"
+				}
+				"legacy_winxp"
+				{
+					"gid"		"1646028800945546522"
+					"size"		"531616"
+					"download"		"207008"
+				}
+				"legacylinux"
+				{
+					"gid"		"1646028800945546522"
+					"size"		"531616"
+					"download"		"207008"
+				}
+				"legacyosx"
+				{
+					"gid"		"537534056471328674"
+					"size"		"208576"
+					"download"		"93264"
+				}
+				"previousversion"
+				{
+					"gid"		"827084533033961837"
+					"size"		"8172400"
+					"download"		"2814416"
+				}
+				"publicbeta"
+				{
+					"gid"		"7924825898116512954"
+					"size"		"34207184"
+					"download"		"9959456"
+				}
+				"speedrun-244371"
+				{
+					"gid"		"7901792711762181252"
+					"size"		"218389"
+					"download"		"95264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedbeta"
+				{
+					"gid"		"D6170B7A5E64AD09B63C68D8683DAFC0"
+					"size"		"2DF3154DFEF926937ECCE6233143154B"
+					"download"		"F9F3F9E661AA728F4063B77A539DAA2A"
+				}
+				"dummybuild"
+				{
+					"gid"		"73116CE84D0E787CFA4767FA5B1A475A"
+					"size"		"CD03A9A49F39C908791849EC2E2E9FAB"
+					"download"		"017DF0275517F348CD0E7DCC31883E46"
+				}
+				"ihvbeta"
+				{
+					"gid"		"01FFF09011FCDEAECA04F570BD0CE190"
+					"size"		"1C9594FD452FC39B0D7CA2EFE1568E02"
+					"download"		"8357138C6D06A2B2C5B848DCFF20D4D2"
+				}
+				"internal"
+				{
+					"gid"		"F88FE2F9B4E7ABB425F178906D50731F"
+					"size"		"026C9A6DDAB3655E7B7F4E57C6593CF8"
+					"download"		"C3B7B2E78AC66FB24DA642869502F6E5"
+				}
+				"internal_gdc2015"
+				{
+					"gid"		"F9BB557CBF1BD8E3D6360E3199572112"
+					"size"		"2522CFB22117CDF2F1A77222FD7C4E49"
+					"download"		"EF6481FA9C466EBD12D1E8F6EB459BBF"
+				}
+				"preview_oct_20"
+				{
+					"gid"		"B871740FE7D79B9BAF2E0CF4B627C526"
+					"size"		"63F1B7AA9DDBC265536884C33ADFBCD6"
+					"download"		"F53A97D50DF76CE240B62E60B6DC3FD8"
+				}
+				"se2017_beta"
+				{
+					"gid"		"2B9A4703384C5CB8D56553F32F79F8BD"
+					"size"		"C6CE50D53BEDF54071F5B7A224E9417A"
+					"download"		"7DB1A63C13E592090FD17C866FB1B9DC"
+				}
+			}
+			"depotfromapp"		"257510"
+		}
+		"257517"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5072312544050288384"
+					"size"		"457332"
+					"download"		"60384"
+				}
+				"legacy"
+				{
+					"gid"		"190123832287072547"
+					"size"		"1379856"
+					"download"		"118896"
+				}
+				"legacy_winxp"
+				{
+					"gid"		"190123832287072547"
+					"size"		"1379856"
+					"download"		"118896"
+				}
+				"legacylinux"
+				{
+					"gid"		"190123832287072547"
+					"size"		"1379856"
+					"download"		"118896"
+				}
+				"legacyosx"
+				{
+					"gid"		"7446929515384932476"
+					"size"		"788928"
+					"download"		"89296"
+				}
+				"previousversion"
+				{
+					"gid"		"190123832287072547"
+					"size"		"1379856"
+					"download"		"118896"
+				}
+				"publicbeta"
+				{
+					"gid"		"5072312544050288384"
+					"size"		"457332"
+					"download"		"60384"
+				}
+				"speedrun-244371"
+				{
+					"gid"		"8186471738846046039"
+					"size"		"405327"
+					"download"		"92272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedbeta"
+				{
+					"gid"		"8730BAA6D977856017CA3B9948E7CA43"
+					"size"		"F960861961298CAC6193F6147BD0943B"
+					"download"		"680CD451EA2E977917CCE162007B6082"
+				}
+				"ihvbeta"
+				{
+					"gid"		"5019CF1506F8C6983283EF447F11A5AB"
+					"size"		"D7359C6CD5FD9D3755EEE077AE409007"
+					"download"		"D7359C6CD5FD9D3755EEE077AE409007"
+				}
+				"internal"
+				{
+					"gid"		"282D5CE610F42DAB9AD672985B56FC14"
+					"size"		"69625D34A4E21C8D13F64A40A4770EFE"
+					"download"		"3D3223328179171D491B72D605EDACE7"
+				}
+				"internal_gdc2015"
+				{
+					"gid"		"9EBC4B9E6AF3B9535599E7021C4349A8"
+					"size"		"8B41F76E31BB3C340E2512C5984DB95E"
+					"download"		"282F2B371BBD89865CB79994C5F2FE40"
+				}
+				"preview_oct_20"
+				{
+					"gid"		"65A30CC160370EE173723D5AE5F3F3AE"
+					"size"		"299EDB2765593CEC362F13FE7B7AF542"
+					"download"		"3B817A1ADC9CF9E1BBE29080EBE01952"
+				}
+				"se2017_beta"
+				{
+					"gid"		"6E28858A8071581D669A4184AD91E217"
+					"size"		"4E4272D214DE4E89ABA7E2777F2BFBAF"
+					"download"		"4E4272D214DE4E89ABA7E2777F2BFBAF"
+				}
+			}
+			"depotfromapp"		"257510"
+		}
+		"257518"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4116596187390052645"
+					"size"		"197498"
+					"download"		"41856"
+				}
+				"legacy"
+				{
+					"gid"		"4095584514446616279"
+					"size"		"824794"
+					"download"		"231472"
+				}
+				"legacy_winxp"
+				{
+					"gid"		"2663675039697799602"
+					"size"		"417625"
+					"download"		"119616"
+				}
+				"legacylinux"
+				{
+					"gid"		"2663675039697799602"
+					"size"		"417625"
+					"download"		"119616"
+				}
+				"legacyosx"
+				{
+					"gid"		"3314810407380324979"
+					"size"		"294358"
+					"download"		"103328"
+				}
+				"previousversion"
+				{
+					"gid"		"4095584514446616279"
+					"size"		"824794"
+					"download"		"231472"
+				}
+				"publicbeta"
+				{
+					"gid"		"4116596187390052645"
+					"size"		"197498"
+					"download"		"41856"
+				}
+				"speedrun-244371"
+				{
+					"gid"		"3995158495970613141"
+					"size"		"322389"
+					"download"		"108512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedbeta"
+				{
+					"gid"		"09C137FD47E1F402B991E1AA44598778"
+					"size"		"A39928FE1E331CC9FA47C41D1F6F4DB1"
+					"download"		"34B6577CF80244B6F327B50A4D09F9D8"
+				}
+				"ihvbeta"
+				{
+					"gid"		"A259859C237243DF0063D428B7DE6196"
+					"size"		"CB73705CB53CBBDE902572ABDA38A2EF"
+					"download"		"2C123BED1114D9673B8EB0B5305ABD5F"
+				}
+				"internal"
+				{
+					"gid"		"A80F4B1E8E4762FB6E04D6A0976D9838"
+					"size"		"D29DE0057F8A44F7DF680266E14AFF7E"
+					"download"		"DBAAA47807298689F0D45E7D1A6181B9"
+				}
+				"internal_gdc2015"
+				{
+					"gid"		"A992B96B5B46483E28D17E7E12ADE32E"
+					"size"		"BEEB8099271C55F81DB3D8C6CE93CFBD"
+					"download"		"231C6BCE2EC88F58A741685F5F32EC4F"
+				}
+				"preview_oct_20"
+				{
+					"gid"		"DC533247618E5DDA030E993A74E82FBC"
+					"size"		"FC2E6D5BA51EA19EEFF25F3FC9EF08AE"
+					"download"		"151ECA458B8DAFAE38733BD8C9E17CCE"
+				}
+				"se2017_beta"
+				{
+					"gid"		"C1D71C34E05A9D50740805D93EBB9B6C"
+					"size"		"C6BBCD13EAEBDA3CC92D0A531D084450"
+					"download"		"CF18C99EF0916247D4C5C20F667C2F4E"
+				}
+			}
+			"depotfromapp"		"257510"
+		}
+		"330711"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5478268927138541965"
+					"size"		"41181040"
+					"download"		"13135296"
+				}
+				"legacylinux"
+				{
+					"gid"		"8909381971298763167"
+					"size"		"41181040"
+					"download"		"13135008"
+				}
+				"legacyosx"
+				{
+					"gid"		"1676843236392552109"
+					"size"		"18378280"
+					"download"		"6044720"
+				}
+				"publicbeta"
+				{
+					"gid"		"85393988105179961"
+					"size"		"41043312"
+					"download"		"13052112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedbeta"
+				{
+					"gid"		"661DA062AA11E953489994EA9B16E3AB"
+					"size"		"CD1C3CECFBF9088660DAA0BE1A74C6D3"
+					"download"		"06F483C12B5B05386BC12CE1E009C4A1"
+				}
+				"internal"
+				{
+					"gid"		"426A2E3E200B66F970B6D46C4353E4B7"
+					"size"		"85AA33E9341C3B1E9CA49A94382CED96"
+					"download"		"3E818C7837D60059476C548CBA89B05F"
+				}
+				"internal_gdc2015"
+				{
+					"gid"		"C5B4A8A89CFDA0978622E0A4B30490D5"
+					"size"		"A538DC4F08AB6CF63601FF2B594A37DE"
+					"download"		"3B9AFDD3DB56F215B9FC429278A6201A"
+				}
+			}
+		}
+		"330712"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8392916992555238357"
+					"size"		"67463056"
+					"download"		"19850848"
+				}
+				"legacylinux"
+				{
+					"gid"		"2521672920413239587"
+					"size"		"67463056"
+					"download"		"19868144"
+				}
+				"legacyosx"
+				{
+					"gid"		"7249446268410808933"
+					"size"		"66814280"
+					"download"		"19795616"
+				}
+				"publicbeta"
+				{
+					"gid"		"5892788693696374473"
+					"size"		"67955060"
+					"download"		"20070448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedbeta"
+				{
+					"gid"		"CBAC01D92B1B4E8BDC6FE46042E65621"
+					"size"		"63F088E603BA64770CCA747744730837"
+					"download"		"1930A8774655BC4E30D0E0F264A42E29"
+				}
+				"internal"
+				{
+					"gid"		"42EBB4EE4D00EA66923456281CE4BD1C"
+					"size"		"7AC7EF336015CD4D38F7BE4FC4F1D0E6"
+					"download"		"CF9BAC7272C50F877DF6E722982B87E7"
+				}
+				"internal_gdc2015"
+				{
+					"gid"		"079A4FED5102A1C78D7D8476CF479231"
+					"size"		"6D79E2CF0ABDB2D1D40CE3D3F66784FC"
+					"download"		"6F0737C1107835BD5B78613C636F4FF0"
+				}
+			}
+		}
+		"330713"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6096336158546504868"
+					"size"		"32162305"
+					"download"		"8692960"
+				}
+				"legacylinux"
+				{
+					"gid"		"2551415701313010899"
+					"size"		"32162305"
+					"download"		"8692864"
+				}
+				"legacyosx"
+				{
+					"gid"		"2253012608252351508"
+					"size"		"32014462"
+					"download"		"8655872"
+				}
+				"publicbeta"
+				{
+					"gid"		"7140743892971343759"
+					"size"		"70991686"
+					"download"		"18953024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedbeta"
+				{
+					"gid"		"95819331A260B5BF591DE3B8FCC77643"
+					"size"		"16B69E2FE4B4CF077DA0FB653D0D808E"
+					"download"		"00043D0C6C187F30AF75C7772158A6DF"
+				}
+				"internal"
+				{
+					"gid"		"00185F868450E7341358119BC68E0EB6"
+					"size"		"C5DE50EA2896919F4DAAAF110A508450"
+					"download"		"8B036329224D5AE12D9C2D6D743D3632"
+				}
+				"internal_gdc2015"
+				{
+					"gid"		"28B5C5DD15AEB621377E7F6A3582A850"
+					"size"		"8755E45CB555F2019FC7562D7A37ECF7"
+					"download"		"17FD3690B0815F83E8B846549027DFE1"
+				}
+			}
+		}
+		"330715"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2670408055668129820"
+					"size"		"1388277209"
+					"download"		"1383681664"
+				}
+				"legacylinux"
+				{
+					"gid"		"1254459842326622068"
+					"size"		"1388277293"
+					"download"		"1383681664"
+				}
+				"legacyosx"
+				{
+					"gid"		"8003014827336061913"
+					"size"		"1376503015"
+					"download"		"1371924944"
+				}
+				"publicbeta"
+				{
+					"gid"		"8912788271350502274"
+					"size"		"1444746402"
+					"download"		"1437347744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedbeta"
+				{
+					"gid"		"66BD50911392B2FF7B05A1BF3958094D"
+					"size"		"4373331333B0FF93E2756665D87C5AE9"
+					"download"		"0B2504BE4D5969A63D89B3F33CE4764F"
+				}
+				"internal"
+				{
+					"gid"		"D914E8335FD44143C1FDCABCB9249FD0"
+					"size"		"50DA16A7BF2C1D9F7A304BD2318D5D85"
+					"download"		"EC415A635751CC6FCE28FE09046DFC62"
+				}
+				"internal_gdc2015"
+				{
+					"gid"		"1F39C5C7E6D440E60DC148757BFD81B7"
+					"size"		"4BA96D8EB85869ADA1D2B892D4FB96E5"
+					"download"		"2366E4C124890901606CCEC87DBE8026"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"880143"
+			}
+			"closedbeta"
+			{
+				"buildid"		"991979"
+				"pwdrequired"		"1"
+			}
+			"internal"
+			{
+				"buildid"		"991979"
+				"pwdrequired"		"1"
+			}
+			"internal_gdc2015"
+			{
+				"buildid"		"530797"
+				"pwdrequired"		"1"
+			}
+			"legacylinux"
+			{
+				"buildid"		"941244"
+				"description"		"For Ubuntu 13.10 or older"
+			}
+			"legacyosx"
+			{
+				"buildid"		"844660"
+				"description"		"For Mac OS X 10.6 Snow Leopard"
+			}
+			"publicbeta"
+			{
+				"buildid"		"985074"
+				"description"		"Public testing"
+			}
+			"dummybuild"
+			{
+				"buildid"		"370221"
+				"pwdrequired"		"1"
+			}
+			"ihvbeta"
+			{
+				"buildid"		"3544556"
+				"pwdrequired"		"1"
+				"timeupdated"		"1550833540"
+			}
+			"preview_oct_20"
+			{
+				"buildid"		"415174"
+				"pwdrequired"		"1"
+			}
+			"se2017_beta"
+			{
+				"buildid"		"3544556"
+				"pwdrequired"		"1"
+				"timeupdated"		"1550833493"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"5"
+	}
+}
