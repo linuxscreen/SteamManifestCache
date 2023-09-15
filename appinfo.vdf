@@ -1,0 +1,224 @@
+"appinfo"
+{
+	"appid"		"1037410"
+	"common"
+	{
+		"name"		"Captain Starshot"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"20893f993fb52b2335a884b382bab3781a76b1c6"
+		"clienticon"		"08b22684f9b20a6815f9c470a89fd451dd875b7a"
+		"icon"		"171a9f86eace0afa8d374aeab723e7c00e803c5c"
+		"logo"		"df45b15aa1c552cbf26bff757789bf43662d9326"
+		"logo_small"		"df45b15aa1c552cbf26bff757789bf43662d9326_thumb"
+		"metacritic_name"		"Captain Starshot"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1562845471"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Double Door Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Double Door Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Breda University of Applied Sciences"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1562655600"
+		"steam_release_date"		"1562695323"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1037410"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"21"
+			"3"		"19"
+			"4"		"3959"
+			"5"		"4182"
+			"6"		"1755"
+			"7"		"1720"
+			"8"		"5125"
+			"9"		"122"
+			"10"		"3942"
+			"11"		"4255"
+			"12"		"1673"
+			"13"		"4026"
+			"14"		"4885"
+			"15"		"1756"
+			"16"		"1759"
+			"17"		"493"
+			"18"		"597"
+			"19"		"4136"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Double Door Games"
+		"publisher"		"Double Door Games"
+		"homepage"		"https://www.doubledoorgame.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1110820"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"CaptainStarshot"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CaptainStarshot.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1037411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6191720252384507307"
+					"size"		"686468418"
+					"download"		"577099856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"4316C98586F218874DC3EDD21CA9BF96"
+					"size"		"013ADE6A08CB58637A7B856BD296815F"
+					"download"		"F688DC4F7F1869A760F800B78D541277"
+				}
+				"pre-release"
+				{
+					"gid"		"9F49C5E38324C5FBA22E98EAB6F0E660"
+					"size"		"54CA2B2A9E853DE7AEB3AF8C33A4FE98"
+					"download"		"61785F9AD2F3472D3D084831F38143B9"
+				}
+				"pre-release2"
+				{
+					"gid"		"77EF7BE0BCA18461B390CB03E1C0A4AE"
+					"size"		"78D6A4C10321CEF8797D38D0B629208D"
+					"download"		"195630A798B71B964B2CD3D06279254E"
+				}
+				"testing"
+				{
+					"gid"		"46C03FE0DBA38E205F989EABE06414F2"
+					"size"		"9263D761785E679399DFB61CA6396ABE"
+					"download"		"D8AA0C994DF727457BF43DEBE045FCDA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3997049"
+				"timeupdated"		"1562713068"
+			}
+			"development"
+			{
+				"buildid"		"4131317"
+				"pwdrequired"		"1"
+				"timeupdated"		"1566523025"
+			}
+			"pre-release"
+			{
+				"buildid"		"3997049"
+				"pwdrequired"		"1"
+				"timeupdated"		"1562712548"
+			}
+			"pre-release2"
+			{
+				"buildid"		"3948490"
+				"pwdrequired"		"1"
+				"timeupdated"		"1561381851"
+			}
+			"testing"
+			{
+				"buildid"		"4000845"
+				"pwdrequired"		"1"
+				"timeupdated"		"1562850016"
+			}
+		}
+	}
+}
