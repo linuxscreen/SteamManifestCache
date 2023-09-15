@@ -1,0 +1,107 @@
+"appinfo"
+{
+	"appid"		"2217970"
+	"common"
+	{
+		"name"		"Odin's Tea Party Demo"
+		"type"		"Demo"
+		"parent"		"2196110"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"c5001d181952ef208ae2aff40be3994794576c93"
+		"clienticon"		"4051165447d7237be8e480a492dc5d3a762ebaae"
+		"clienttga"		"8a0f202dbf47b13ae5d4d6a005510d6610eb2e01"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1668390870"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Corrafinium Inc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Corrafinium Inc"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1668183730"
+		"gameid"		"2217970"
+	}
+	"extended"
+	{
+		"demoofappid"		"2196110"
+		"developer"		"Corrafinium Inc"
+		"publisher"		"Corrafinium Inc"
+	}
+	"config"
+	{
+		"installdir"		"Odin's Tea Party Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Odin'sTeaPartyDemo/Odins Tea Party Steam.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2217971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6368789643887405381"
+					"size"		"255834182"
+					"download"		"111630544"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9985162"
+				"timeupdated"		"1669052275"
+			}
+		}
+	}
+}
