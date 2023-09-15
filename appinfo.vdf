@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"1418470"
+	"common"
+	{
+		"name"		"Franky the Bumwalker: REBORN"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"clienttga"		"4a7ce2e2826cc4646007adf770e1ede7ddeb3e9f"
+		"clienticon"		"f899fd5b8e85196e8c9a9d9c25bd8db3bff64e93"
+		"icon"		"1392d8a3bf2eeaca4a4a2674e427649ae4642d80"
+		"logo"		"1505d06106822f92d54fb7c1c50208bf50d02463"
+		"logo_small"		"1505d06106822f92d54fb7c1c50208bf50d02463_thumb"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"38.960403608011006"
+				"height_pct"		"92.70833333333334"
+			}
+		}
+		"store_asset_mtime"		"1667025881"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Onlyjoy's production"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Onlyjoy's production"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1614798540"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1418470"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"4182"
+			"3"		"3834"
+			"4"		"21"
+			"5"		"5900"
+			"6"		"3871"
+			"7"		"3955"
+			"8"		"6815"
+			"9"		"4305"
+			"10"		"4726"
+			"11"		"7250"
+			"12"		"5094"
+			"13"		"4195"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Onlyjoy's production"
+		"publisher"		"Onlyjoy's production"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Franky the Bumwalker REBORN"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"nw.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"nw.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1418472"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7159623216436564062"
+					"size"		"293812195"
+					"download"		"179234560"
+				}
+			}
+		}
+		"1418473"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1318069339211711243"
+					"size"		"313653991"
+					"download"		"181265024"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6324886"
+				"timeupdated"		"1614794801"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2048000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Save/"
+				"pattern"		"*.v"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
