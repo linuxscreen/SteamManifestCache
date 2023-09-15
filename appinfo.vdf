@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"1509010"
+	"common"
+	{
+		"name"		"Curiosaurios Club. Un viaje espacial"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"0c24250a55dd04a4b677417cd8a3b393169afe35"
+		"logo"		"145035af102beda22d9bd320f5ec38c678c359a4"
+		"logo_small"		"145035af102beda22d9bd320f5ec38c678c359a4_thumb"
+		"icon"		"a7ee56f918382ee2ac182c8647be65dfb3647c0d"
+		"clienticon"		"9ce3beed9e501dff899c759502f3309e9c2f53c2"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1651708800"
+			"tested_build_id"		"6061545"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"spanish"		"capsule_231x87_spanish.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"spanish"		"header_spanish.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"es,en"
+			"library_hero"		"es,en"
+			"library_logo"		"es,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.4340723453909"
+				"height_pct"		"55.69908788157696"
+			}
+		}
+		"store_asset_mtime"		"1610748918"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Digital Monster Collective"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Digital Monster Collective"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1611853380"
+		"community_hub_visible"		"1"
+		"gameid"		"1509010"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1773"
+			"2"		"3871"
+			"3"		"3798"
+			"4"		"1625"
+			"5"		"15045"
+			"6"		"5160"
+			"7"		"1755"
+			"8"		"8666"
+			"9"		"4195"
+			"10"		"6815"
+			"11"		"4305"
+			"12"		"3942"
+			"13"		"4136"
+			"14"		"1036"
+			"15"		"1673"
+			"16"		"5350"
+			"17"		"4559"
+			"18"		"1644"
+			"19"		"699"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Digital Monster Collective"
+		"publisher"		"Digital Monster Collective"
+		"homepage"		"https://www.digitalmonstercollective.com/curiosauriosclub"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Curiosaurios Club. Un viaje espacial"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Curiosaurios Club.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"spanish"
+		"hasdepotsindlc"		"0"
+		"1509011"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"41100499160124720"
+					"size"		"88923101"
+					"download"		"43706096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"curiosauriosclub"
+				{
+					"gid"		"FFF7CB9D824C505FFD6D100ABB1D9316"
+					"size"		"AAAECB8FB571377F95091F5DBFB04125"
+					"download"		"623B8F3ED9CE2D2A065DEAC8ECE112BC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6061545"
+				"timeupdated"		"1610371849"
+			}
+			"curiosauriosclub"
+			{
+				"buildid"		"6061545"
+				"pwdrequired"		"1"
+				"timeupdated"		"1610379212"
+			}
+		}
+	}
+}
