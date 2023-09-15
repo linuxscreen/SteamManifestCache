@@ -1,0 +1,259 @@
+"appinfo"
+{
+	"appid"		"1283220"
+	"common"
+	{
+		"name"		"Devolverland Expo"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"b1b9c7524982367c381c0d435468c3af11a4b4d1"
+		"logo_small"		"b1b9c7524982367c381c0d435468c3af11a4b4d1_thumb"
+		"icon"		"d6f272823e296c3df03a6c136f105f23c42ec402"
+		"clienticon"		"be6034dd450940447587b186d8353db51aa563db"
+		"clienttga"		"dc975a05fc49c823d3ebaad25d360d0d21a0990b"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1663372800"
+			"tested_build_id"		"5287223"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1594315495"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Flying Wild Hog"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Devolver Digital"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Devolver Digital"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1594496100"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1283220"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"21"
+			"3"		"1663"
+			"4"		"492"
+			"5"		"3859"
+			"6"		"4182"
+			"7"		"3839"
+			"8"		"4345"
+			"9"		"1667"
+			"10"		"4667"
+			"11"		"5900"
+			"12"		"1774"
+			"13"		"4136"
+			"14"		"4166"
+			"15"		"1721"
+			"16"		"599"
+			"17"		"4234"
+			"18"		"1685"
+			"19"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Flying Wild Hog"
+		"publisher"		"Devolver Digital"
+		"homepage"		"http://www.devolverlandexpo.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Devolverland_Expo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Devolverland_Expo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1283221"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1813022955589298871"
+					"size"		"7848315869"
+					"download"		"7716337952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"daily"
+				{
+					"gid"		"1A91BB1B385EAD52E40664961FD952F8"
+					"size"		"DD336C43281A6A066D2727A11CE6F320"
+					"download"		"605B7C570F1C5859690332852524272B"
+				}
+				"stable"
+				{
+					"gid"		"536CE749724E090BCC45D2223461DF17"
+					"size"		"D17C49B987DFAE163A290950DCE60A9A"
+					"download"		"F0C34E3BC2D3245646838C3D8FBA0920"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5287223"
+				"timeupdated"		"1594748173"
+			}
+			"daily"
+			{
+				"buildid"		"5289050"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594763969"
+			}
+			"stable"
+			{
+				"buildid"		"5287223"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594736154"
+			}
+		}
+	}
+}
