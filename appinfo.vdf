@@ -1,0 +1,287 @@
+"appinfo"
+{
+	"appid"		"1252780"
+	"common"
+	{
+		"name"		"Bloons Monkey City"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"18a84b6d384690390414b9e0a26c95018af26fd2"
+		"logo_small"		"18a84b6d384690390414b9e0a26c95018af26fd2_thumb"
+		"icon"		"0cdba2d14bf2880937a46079d6af4d9ff1995435"
+		"clienticon"		"192a28dcf333bd91e6901b608c00c2c4d7195e5a"
+		"clienttga"		"a7edf25ccf0862decd345b07cc556601f11dc315"
+		"clienticns"		"86795238b42dc7203d253c90cbd462be34b7fedf"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664409600"
+			"tested_build_id"		"5074101"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"43.015133876600714"
+				"height_pct"		"68.99786274044168"
+			}
+		}
+		"store_asset_mtime"		"1667383748"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ninja Kiwi"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ninja Kiwi"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Bloons"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Bloons®"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1417680000"
+		"steam_release_date"		"1586507160"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1252780"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"19"
+			"3"		"1645"
+			"4"		"4328"
+			"5"		"3859"
+			"6"		"5350"
+			"7"		"597"
+			"8"		"1756"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Ninja Kiwi"
+		"publisher"		"Ninja Kiwi"
+		"homepage"		"http://ninjakiwi.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1276500,1276501,1276502,1276503,1276520,1276521,1276522,1276523,1276524,1276525"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Bloons Monkey City"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BMC-Steam.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"MonkeyCity-Win.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1252781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2784700070138791106"
+					"size"		"431875201"
+					"download"		"403795712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"9BE0E4CEDA3D0EBD941A10B0201378C7"
+					"size"		"5745226283D6B2BD53E3CC4BC9BFABC5"
+					"download"		"0B65620C9C046667C3D80A7FD969967C"
+				}
+				"prerelease"
+				{
+					"gid"		"21A0C44C2D25FFE2885A8F482CDABB95"
+					"size"		"DBBFCE621FC8197711B6AD422B98E332"
+					"download"		"831EFF9A28DF2DF10F3C02289D47E22F"
+				}
+			}
+		}
+		"1252782"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7820487848919346107"
+					"size"		"328775675"
+					"download"		"309293216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"4C8D038FD20D182FBB1FFEF07A709CE2"
+					"size"		"2BBB22C8C1875D90E6BD737C736D959B"
+					"download"		"B6433473E5AC133D941BE5A3D2C724CE"
+				}
+				"prerelease"
+				{
+					"gid"		"6D9BDFD873D8375ECB982BCC9ED7BF44"
+					"size"		"E27BAED9BA4BE30FE8135E42AC21C6E7"
+					"download"		"1984E6C28A452635EFB66C40913F5083"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5074101"
+				"timeupdated"		"1590419194"
+			}
+			"development"
+			{
+				"buildid"		"5287328"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594733301"
+			}
+			"prerelease"
+			{
+				"buildid"		"5074101"
+				"pwdrequired"		"1"
+				"timeupdated"		"1590406802"
+			}
+		}
+	}
+}
