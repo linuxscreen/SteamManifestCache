@@ -1,0 +1,105 @@
+"appinfo"
+{
+	"appid"		"2194370"
+	"common"
+	{
+		"name"		"Sinus Demo"
+		"type"		"Demo"
+		"parent"		"1966400"
+		"releasestate"		"released"
+		"icon"		"f49205342f2fbf25dbfb0b53d874459c34d5524f"
+		"clienticon"		"b40d18520e91e38eefa854e627e0e8dd6431bd55"
+		"clienttga"		"02345f55dc2b14d3a5903c9970f56255cf83124b"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667198813"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Early Sun Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Early Sun Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_28"		"1"
+		}
+		"steam_release_date"		"1666420028"
+		"gameid"		"2194370"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1966400"
+		"developer"		"Early Sun Games"
+		"publisher"		"Early Sun Games"
+	}
+	"config"
+	{
+		"installdir"		"Sinus Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sinus_demo_windows_1.3.1/Sinus.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2194371"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4571117826632802347"
+					"size"		"289844704"
+					"download"		"144890416"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11145463"
+				"timeupdated"		"1683113606"
+			}
+		}
+	}
+}
