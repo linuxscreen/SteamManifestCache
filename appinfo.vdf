@@ -1,0 +1,159 @@
+"appinfo"
+{
+	"appid"		"1681380"
+	"common"
+	{
+		"name"		"Haos"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"249a92b710909857ce4526dee01f5104a8a64906"
+		"logo_small"		"249a92b710909857ce4526dee01f5104a8a64906_thumb"
+		"icon"		"b02854f6c3315f6c7ac57713bf748063f521a0f1"
+		"clienttga"		"15880fc411f66223e50cce0829658c0113cbac28"
+		"clienticon"		"5e25170ec0d9764db4a47517a749a22019814ae9"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1632413434"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PanTrakX"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PanTrakX"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1632415260"
+		"community_hub_visible"		"1"
+		"gameid"		"1681380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"5547"
+			"2"		"4637"
+			"3"		"4758"
+			"4"		"3959"
+			"5"		"6730"
+			"6"		"1774"
+			"7"		"1716"
+			"8"		"3871"
+			"9"		"4791"
+			"10"		"4115"
+			"11"		"1710"
+			"12"		"7481"
+			"13"		"6971"
+			"14"		"6869"
+			"15"		"5125"
+			"16"		"19"
+			"17"		"597"
+			"18"		"4305"
+			"19"		"4094"
+		}
+	}
+	"extended"
+	{
+		"developer"		"PanTrakX"
+		"publisher"		"PanTrakX"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Haos"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Haos.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1681381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"698676206983171827"
+					"size"		"62870048"
+					"download"		"22553296"
+				}
+				"local"
+				{
+					"gid"		"688885003159734429"
+					"size"		"62016608"
+					"download"		"21706432"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7460782"
+				"timeupdated"		"1633091291"
+			}
+			"local"
+			{
+				"buildid"		"7382978"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1631972684"
+			}
+		}
+	}
+}
