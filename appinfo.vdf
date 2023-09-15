@@ -1,0 +1,378 @@
+"appinfo"
+{
+	"appid"		"217120"
+	"common"
+	{
+		"name"		"Waves 2: Notorious"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"logo"		"64792673b04c75668ce5f132c11a7eab843f82bc"
+		"logo_small"		"64792673b04c75668ce5f132c11a7eab843f82bc_thumb"
+		"clienticon"		"591a22b0e9999ba6140ae27ca6dea8c674a899a0"
+		"clienttga"		"d46aaa3b4e10f20a7e565b19a2c6561d643a0f6d"
+		"icon"		"788d5fe77ad00516cbcdfb8568540218cb50526e"
+		"releasestate"		"released"
+		"osarch"		"64"
+		"osextended"		""
+		"metacritic_name"		"Waves 2: Notorious"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"71.12018669778297"
+				"height_pct"		"75.45713607219187"
+			}
+		}
+		"store_asset_mtime"		"1611950691"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Squid In A Box Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Squid In A Box Ltd"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Waves"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1450252800"
+		"steam_release_date"		"1450298940"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"217120"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"5547"
+			"2"		"4885"
+			"3"		"4255"
+			"4"		"4637"
+			"5"		"4758"
+			"6"		"1774"
+			"7"		"1773"
+			"8"		"4791"
+			"9"		"4115"
+			"10"		"5796"
+			"11"		"19"
+			"12"		"5125"
+			"13"		"4305"
+			"14"		"4400"
+			"15"		"5154"
+			"16"		"1714"
+			"17"		"5502"
+			"18"		"3859"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Squid In A Box Ltd"
+		"gamedir"		"Waves²"
+		"homepage"		"http://www.wavesthegame.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Squid In A Box Ltd"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Waves 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Waves.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Waves.exe"
+				"arguments"		"-opengl"
+				"description"		"Waves² (OpenGL For AMD Cards)"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"Waves.exe"
+				"arguments"		"-FeatureLevelES31"
+				"description"		"Waves² (Compatibility Mode For Low End PC's)"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"preloadonly"		"1"
+		"217121"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5369516543322501846"
+					"size"		"460687449"
+					"download"		"287461408"
+				}
+				"alpha7"
+				{
+					"gid"		"8348841168824404661"
+					"size"		"297464500"
+					"download"		"167322112"
+				}
+				"local"
+				{
+					"gid"		"5537087901144268565"
+					"size"		"108279540"
+					"download"		"48605888"
+				}
+				"preview"
+				{
+					"gid"		"8684592224668159561"
+					"size"		"437671319"
+					"download"		"266280784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha1"
+				{
+					"gid"		"FBCE58FCEC624F3FFAC285C48FAF4EE8"
+					"size"		"0D9880CF6FD7F9083EE1AB26ADE9952A"
+					"download"		"09C05FDE7E4C82AFF2B345EFE9418249"
+				}
+				"alpha4"
+				{
+					"gid"		"ED6935BDDC6AE6287C4C39A3D4C83CF8"
+					"size"		"BE867B9CC502FD4DA4AF121557639171"
+					"download"		"EF67A70A8B40611C7B0FCFA4C80D4A38"
+				}
+				"alpha6"
+				{
+					"gid"		"68C3C62D1CB96C937DC4386B66B0F314"
+					"size"		"B25F9CD76A9CBC4FEBD9331BBCE365F9"
+					"download"		"2A7E3A45B175442650EC9A5966FBD5B6"
+				}
+				"uranium"
+				{
+					"gid"		"EFD9ACC4060BA0684E953279130ED228"
+					"size"		"2E7A0B46C23765EC81AE98C3B51D386A"
+					"download"		"2CA23D89B023C127FCF56F872965F35D"
+				}
+			}
+		}
+		"217122"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3642224462417286389"
+					"size"		"542336806"
+					"download"		"274603136"
+				}
+				"alpha7"
+				{
+					"gid"		"6413311287835813609"
+					"size"		"567288556"
+					"download"		"241624352"
+				}
+				"preview"
+				{
+					"gid"		"9163271893004956479"
+					"size"		"520686447"
+					"download"		"255973728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha1"
+				{
+					"gid"		"EB77A7D4082641E426276D1C4BA9CDAB"
+					"size"		"E0869B7427866399FE628A4CC10DDD59"
+					"download"		"E0869B7427866399FE628A4CC10DDD59"
+				}
+				"alpha4"
+				{
+					"gid"		"BF8FA5F18BA56FFE2A3019527348B6ED"
+					"size"		"9E26D76F318D58D30A495F6BE5799814"
+					"download"		"6DF2809661FBECED84D8AB648E5F08C0"
+				}
+				"alpha6"
+				{
+					"gid"		"1EE74B2776C7FE665770F7C55FB98C69"
+					"size"		"06809EA0921A5903C92714EC3106D05E"
+					"download"		"06809EA0921A5903C92714EC3106D05E"
+				}
+				"uranium"
+				{
+					"gid"		"274EA9367BBE7DF175E3B2E8F966BEC8"
+					"size"		"D9CDAB3BFC4322691EE3E991BF21C7E3"
+					"download"		"93B161DC867B13A98BCD8D2F1A95B884"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6788920"
+				"timeupdated"		"1622560310"
+			}
+			"alpha1"
+			{
+				"buildid"		"3974264"
+				"pwdrequired"		"1"
+				"timeupdated"		"1562071557"
+			}
+			"alpha4"
+			{
+				"buildid"		"1785748"
+				"pwdrequired"		"1"
+				"timeupdated"		"1517594233"
+			}
+			"alpha6"
+			{
+				"buildid"		"3084288"
+				"pwdrequired"		"1"
+				"timeupdated"		"1562071491"
+			}
+			"alpha7"
+			{
+				"buildid"		"4072744"
+				"timeupdated"		"1565889772"
+			}
+			"local"
+			{
+				"buildid"		"950912"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+			"preview"
+			{
+				"buildid"		"5357819"
+				"timeupdated"		"1596222699"
+			}
+			"uranium"
+			{
+				"buildid"		"6788920"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622489788"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Waves/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
