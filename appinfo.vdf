@@ -1,0 +1,119 @@
+"appinfo"
+{
+	"appid"		"2191440"
+	"common"
+	{
+		"name"		"Project Survivor Demo"
+		"type"		"Demo"
+		"parent"		"2191310"
+		"icon"		"0b4031d84844075a0e1010d5e5d85f55ab518a55"
+		"clienttga"		"8d614849ed90b027d9f37b64f55ebf1707feb72d"
+		"clienticon"		"0826a733f9dbde81061b104c2cd175c50fe0b04a"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"65.63593932322054"
+				"height_pct"		"64.43837568273568"
+			}
+		}
+		"store_asset_mtime"		"1666626495"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PaulJang"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JR_Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1666919981"
+		"community_visible_stats"		"1"
+		"gameid"		"2191440"
+	}
+	"extended"
+	{
+		"demoofappid"		"2191310"
+		"developer"		"PaulJang"
+		"publisher"		"JR_Games"
+	}
+	"config"
+	{
+		"installdir"		"Project Survivor Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Project Survivor_Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"Project Survivor_Demo.exe"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2191441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6186205946601964416"
+					"size"		"134749649"
+					"download"		"35986496"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9868184"
+				"timeupdated"		"1667546964"
+			}
+		}
+	}
+}
