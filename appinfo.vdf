@@ -1,0 +1,240 @@
+"appinfo"
+{
+	"appid"		"1634940"
+	"common"
+	{
+		"name"		"The Altered Lands"
+		"type"		"Game"
+		"logo"		"0e32a0b0edb3ee8db7abe26f49e3d04cf1a38667"
+		"logo_small"		"0e32a0b0edb3ee8db7abe26f49e3d04cf1a38667_thumb"
+		"icon"		"d035fe3c6484844cc505cf60fa42f6ba0bf513b6"
+		"clienttga"		"f1adf07b6969e9f91f2d798f7eff1ef0532a2b2d"
+		"clienticon"		"c23a265f3c0ae436d8eaf7fa3cca84d217bb8eb4"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.69554509438353"
+				"height_pct"		"66.13983695743572"
+			}
+		}
+		"store_asset_mtime"		"1634150391"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VoidCompiler"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VoidCompiler"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1622200140"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1634940"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"29482"
+			"1"		"4026"
+			"2"		"19"
+			"3"		"4182"
+			"4"		"122"
+			"5"		"4191"
+			"6"		"4342"
+			"7"		"1695"
+			"8"		"4604"
+			"9"		"4231"
+			"10"		"1742"
+			"11"		"1716"
+			"12"		"1697"
+			"13"		"4474"
+			"14"		"4608"
+			"15"		"4175"
+			"16"		"4172"
+			"17"		"4057"
+			"18"		"8369"
+			"19"		"21"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"developer"		"VoidCompiler"
+		"publisher"		"VoidCompiler"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Altered Lands"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AlteredLands.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1634941"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2579988660065886852"
+					"size"		"18387255751"
+					"download"		"16250768256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"80B499476F305E15ED1A36597379F188"
+					"size"		"CB2504D2146013B6EEB87D3A22F244F1"
+					"download"		"FCBE2DE22944AC7F6CF6ED4EF22FA9EF"
+				}
+				"test"
+				{
+					"gid"		"2571E10CCC2E450CA3FEDC6A8FC65235"
+					"size"		"C11DA4C7118FEE488D5ABA853C2A0BD3"
+					"download"		"BAB53BD58D7838FE7922F2E57BCDD99D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7796900"
+				"timeupdated"		"1640619037"
+			}
+			"beta"
+			{
+				"buildid"		"7317887"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631026129"
+			}
+			"test"
+			{
+				"buildid"		"7354655"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631601301"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"116384"
+		"maxnumfiles"		"1000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
