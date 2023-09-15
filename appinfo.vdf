@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"2191130"
+	"common"
+	{
+		"name"		"Off Shore Demo"
+		"type"		"Demo"
+		"parent"		"2184480"
+		"icon"		"33f32b161bcd5482a5988808d7520fe6980a27fb"
+		"clienticon"		"1f754c821aea148b34fbe9b2df0718e95e4dc6c2"
+		"clienttga"		"41c25945ec6e4cf56f55c3d49ea2fc0d774ba623"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1666193780"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Panic Bot Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Panic Bot Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666156097"
+		"gameid"		"2191130"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2184480"
+		"developer"		"Panic Bot Games"
+		"publisher"		"Panic Bot Games"
+		"homepage"		"https://www.panicbot.games"
+	}
+	"config"
+	{
+		"installdir"		"Off Shore Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HouseProto.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"HouseProto/Binaries/Linux/HouseProto-Linux-Shipping"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2191131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5032891506407548643"
+					"size"		"3119802977"
+					"download"		"2835343504"
+				}
+			}
+		}
+		"2191132"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4128475989034815552"
+					"size"		"2897960278"
+					"download"		"2740801424"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10401394"
+				"timeupdated"		"1674664555"
+			}
+		}
+	}
+}
