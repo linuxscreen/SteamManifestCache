@@ -1,0 +1,223 @@
+"appinfo"
+{
+	"appid"		"1836200"
+	"common"
+	{
+		"name"		"Fallout 76 Public Test Server"
+		"type"		"Beta"
+		"parent"		"1151340"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"371ddde278809ff35f9ea406c921fc66d0510f47"
+		"clienticon"		"e70e202c276d3e49163d30f320c778ac8648ec79"
+		"icon"		"e153521098b536cc1ca5a79e03031533c44a6b05"
+		"logo"		"6fadf075d478c811dff8de8900c662e84704a01f"
+		"logo_small"		"6fadf075d478c811dff8de8900c662e84704a01f_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1663286400"
+			"tested_build_id"		"8750170"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.953488372093034"
+				"height_pct"		"77.35692234623605"
+			}
+		}
+		"store_asset_mtime"		"1641218655"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1643658448"
+		"community_hub_visible"		"1"
+		"gameid"		"1836200"
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"betaforappid"		"1151340"
+	}
+	"config"
+	{
+		"installdir"		"Fallout 76 Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fallout76.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1836201"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1746662158893256099"
+					"size"		"109547995"
+					"download"		"53591504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qavalidation"
+				{
+					"gid"		"E85BC1DC1BD34E4611512E86BE497CD6"
+					"size"		"28ECFB670E0DE78FDDE3FCF2538FD799"
+					"download"		"14B5942B117A059F7251A528DECA967E"
+				}
+			}
+		}
+		"1836202"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3420037076824697176"
+					"size"		"90439042611"
+					"download"		"83503818608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qavalidation"
+				{
+					"gid"		"9251F746F933F9A35FE3E04DE531B46B"
+					"size"		"E14BADA24B2B6A8BC3C0192C92CA15DE"
+					"download"		"F546FDA59B14482D1F8283195F8DCF38"
+				}
+			}
+		}
+		"1836203"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8046642013923680600"
+					"size"		"3384060127"
+					"download"		"2868190768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qavalidation"
+				{
+					"gid"		"5A4C7D46FE8F66F703A828FE1D5DD036"
+					"size"		"C807D6D5C8AC0E03F22B651547518BF2"
+					"download"		"B7D7D872BE9132DB716521080D3287BB"
+				}
+			}
+		}
+		"1836204"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"685950529408728112"
+					"size"		"13533071"
+					"download"		"2800432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qavalidation"
+				{
+					"gid"		"363D23E9300A31F148374A8606BF7A06"
+					"size"		"3DFC618E8483DF4573EF46852CEFDBA5"
+					"download"		"D80B20D52826128DE2D24A54B18A000C"
+				}
+			}
+		}
+		"1836205"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8184598688331497447"
+					"size"		"4348"
+					"download"		"1440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qavalidation"
+				{
+					"gid"		"4D4585D6086C7EC8DEABE94969B10B32"
+					"size"		"A4123945BE7C4BEB7DC5C63A79CE0358"
+					"download"		"5A07F8226307D614F4E3B2E716E1C2BB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11750692"
+				"timeupdated"		"1689884092"
+			}
+			"qavalidation"
+			{
+				"buildid"		"11750692"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689876699"
+			}
+		}
+	}
+}
