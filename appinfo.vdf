@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"1022320"
+	"common"
+	{
+		"name"		"Crypto Crisis: Education Edition"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"9cea26f6d4326456e22e0870d07c771737dcd2b6"
+		"logo_small"		"9cea26f6d4326456e22e0870d07c771737dcd2b6_thumb"
+		"icon"		"48d75aede8bd17e52b2ebcd35936962dfe79aec2"
+		"clienttga"		"9438171326a72a16c64165c9a767ff9b7ea367a6"
+		"clienticon"		"9bdaa47db0b2150365733a922c2094ecbc5e5604"
+		"releasestate"		"released"
+		"metacritic_name"		"Crypto Crisis: Education Edition"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1572483998"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Armoured Beans"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Armoured Beans"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1550526480"
+		"community_hub_visible"		"1"
+		"gameid"		"1022320"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"599"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Armoured Beans"
+		"publisher"		"Armoured Beans"
+		"homepage"		"https://www.armoured-beans.com/game/crypto-crisis"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Crypto Crisis EE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"crypto_crisis.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"crypto_crisis.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"crypto_crisis.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"crypto_crisis.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1022321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7122804313532933806"
+					"size"		"1014811807"
+					"download"		"348917760"
+				}
+			}
+		}
+		"1022324"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8498453117069648924"
+					"size"		"1077548785"
+					"download"		"375224960"
+				}
+			}
+		}
+		"1022325"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4715667738374791561"
+					"size"		"1040074788"
+					"download"		"357352864"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3556152"
+				"timeupdated"		"1550030888"
+			}
+		}
+	}
+}
