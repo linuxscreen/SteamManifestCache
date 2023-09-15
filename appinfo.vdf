@@ -1,0 +1,132 @@
+"appinfo"
+{
+	"appid"		"2203910"
+	"common"
+	{
+		"name"		"Allakin Demo"
+		"type"		"Demo"
+		"parent"		"2100100"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"c8e8ec5da58203b92cdfa6bfd3ae4c6f63920db7"
+		"clienttga"		"aa251e2310e6d7f48df98810f15ab9e171d6a962"
+		"clienticon"		"f2ed9f83359e5a67f611156a422c695a3129c8bb"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1667836080"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paper_Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paper_Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"gameid"		"2203910"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2100100"
+		"developer"		"Paper_Games"
+		"publisher"		"Paper_Games"
+		"homepage"		"http://paper-games-gaming.com/"
+	}
+	"config"
+	{
+		"installdir"		"Allakin_Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Allakin_Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2203911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3688750038539030835"
+					"size"		"221144078"
+					"download"		"66797536"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10390440"
+				"timeupdated"		"1674556486"
+			}
+		}
+	}
+}
