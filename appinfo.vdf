@@ -1,0 +1,252 @@
+"appinfo"
+{
+	"appid"		"2008060"
+	"common"
+	{
+		"name"		"99 Fails Lite"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"37982b00e2f83bb7b573bcd29b676eeb091f3682"
+		"clienttga"		"7894d948437e34ab063896ca5fc762ec623cebdd"
+		"clienticon"		"ab14ab6a7f7cb04ffd4f01bb24514c546041dfd3"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.783533606707046"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1675776437"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Frying Jelly"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Frying Jelly"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Neebota"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1655298420"
+		"steam_deck_blog_url"		"https://steamcommunity.com/app/2008060/allnews/"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2008060"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"4026"
+			"2"		"5379"
+			"3"		"3877"
+			"4"		"4562"
+			"5"		"1721"
+			"6"		"4182"
+			"7"		"5923"
+			"8"		"4166"
+			"9"		"1719"
+			"10"		"19"
+			"11"		"21"
+			"12"		"492"
+			"13"		"3859"
+			"14"		"4136"
+			"15"		"3968"
+			"16"		"1625"
+			"17"		"4711"
+			"18"		"4004"
+			"19"		"1775"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Frying Jelly"
+		"publisher"		"Frying Jelly"
+		"homepage"		"http://www.neebota.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"99 Fails Lite"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"99 Fails Lite.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"99 Fails Lite.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"2008061"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6649855698220505478"
+					"size"		"437862095"
+					"download"		"316978016"
+				}
+			}
+		}
+		"2008062"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2082141243182919296"
+					"size"		"504710441"
+					"download"		"329585952"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11632537"
+				"timeupdated"		"1688575203"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
