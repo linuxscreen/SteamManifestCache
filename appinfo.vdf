@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"361070"
+	"common"
+	{
+		"name"		"Sandmason Demo"
+		"type"		"Demo"
+		"parent"		"350620"
+		"oslist"		"windows"
+		"icon"		"d42ded9a2dd8b06f7ab6fabde0c39ea457fea310"
+		"clienticon"		"a7285745def28469fca2faeaace66aa7b0c65d37"
+		"clienttga"		"d6f0eb8a9025ec1c19d3fb76415f6fce085030ff"
+		"logo"		"c7f948d74f10bd88a4443285e485a8e7c9eea013"
+		"logo_small"		"c7f948d74f10bd88a4443285e485a8e7c9eea013_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"Sandmason Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1430295379"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GoodVole"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GoodVole"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1430735714"
+		"gameid"		"361070"
+	}
+	"extended"
+	{
+		"demoofappid"		"350620"
+		"developer"		"GoodVole"
+		"publisher"		"GoodVole"
+		"homepage"		"http://www.sandmason.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Sandmason Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sandmason.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229012"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"361072"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2574401989641223212"
+					"size"		"3890966"
+					"download"		"823136"
+				}
+			}
+		}
+		"350621"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6257928644148821818"
+					"size"		"473848485"
+					"download"		"416958224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"B6C7F986216B2F7592A8E663B5F63276"
+					"size"		"E704C6A43B7C3C3C4FDBE44465C5F69D"
+					"download"		"808DE0A83000763E3D9FC3B8937C817E"
+				}
+			}
+			"depotfromapp"		"350620"
+		}
+		"350622"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4721984597988333291"
+					"size"		"188282142"
+					"download"		"93456432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"FE1770611FDBE6EE33F14DA37E177071"
+					"size"		"3F242D72122CEC52A64825E1D4FE7915"
+					"download"		"F6866FF6B5AD5CF1410FBAE9231A8279"
+				}
+			}
+			"depotfromapp"		"350620"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"614417"
+			}
+			"dev"
+			{
+				"buildid"		"831864"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"350620"
+	}
+}
