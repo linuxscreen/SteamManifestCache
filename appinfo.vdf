@@ -1,0 +1,324 @@
+"appinfo"
+{
+	"appid"		"2087030"
+	"common"
+	{
+		"name"		"Shatterline"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"595dea82c36636facad5e7998abb4329be9106e2"
+		"clienticon"		"c117ce9c407074dc60b794563ed1363d6769c918"
+		"clienttga"		"8a79568f52af3c9aa728d8cfc341d1165b7e9b82"
+		"linuxclienticon"		"009be136ed4345f42ffb040240b661fe327355df"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666224000"
+			"tested_build_id"		"9649462"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.688166736400632"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1690209323"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Frag Lab LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Frag Lab LLC"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1662646998"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2087030"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1774"
+			"1"		"3859"
+			"2"		"1775"
+			"3"		"113"
+			"4"		"1685"
+			"5"		"6730"
+			"6"		"1663"
+			"7"		"1716"
+			"8"		"620519"
+			"9"		"3843"
+			"10"		"19"
+			"11"		"3839"
+			"12"		"3942"
+			"13"		"5711"
+			"14"		"3854"
+			"15"		"4747"
+			"16"		"493"
+			"17"		"128"
+			"18"		"4175"
+			"19"		"17770"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Frag Lab LLC"
+		"publisher"		"Frag Lab LLC"
+		"homepage"		"https://www.shatterline.gg/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Shatterline"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Launch_Game.exe"
+				"arguments"		"-platform_type Steam -bugsplat_enabled"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2087031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2896490222046329598"
+					"size"		"23532443902"
+					"download"		"22457508560"
+				}
+				"ptsone"
+				{
+					"gid"		"5161392103005394354"
+					"size"		"23510867531"
+					"download"		"22437285392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"creators"
+				{
+					"gid"		"D63FFDC20ECEDA75D12C696D65A9B6F0"
+					"size"		"2C216B74628A5782E9675F39DEF61E7B"
+					"download"		"1578740B66C0913EFFAB298B59D06B24"
+				}
+				"loca1"
+				{
+					"gid"		"EEC72DC2402E6D5DBE423658D2521599"
+					"size"		"23826ADCCDC47C66E1B5A748FFE2BE14"
+					"download"		"2B7AE9C4EC3D52360CC48FE32BB49BC7"
+				}
+				"rel076live"
+				{
+					"gid"		"BBA53D50B2A6DEFBA2F564D739273049"
+					"size"		"1C705325A2E13142424C9D8BF326DDC7"
+					"download"		"A859970AE903D09E40402D9492FA121B"
+				}
+				"rel078live"
+				{
+					"gid"		"C63019C83CDFF914DBEAB6051B664250"
+					"size"		"AA91740CC8932827BBDB4E64DEA3FBB3"
+					"download"		"F6669D00AE37100AB849EF10680AEBF5"
+				}
+				"tournament"
+				{
+					"gid"		"57D07762E00055A119205FB4DDF0669F"
+					"size"		"652D84B9BE3C2B9E1C3B6165804C7667"
+					"download"		"D1CB5C22DB6B9C93F8AE80264A4DC914"
+				}
+			}
+		}
+		"baselanguages"		"english,japanese,ukrainian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12200582"
+				"timeupdated"		"1694794864"
+			}
+			"creators"
+			{
+				"buildid"		"10153502"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671527823"
+			}
+			"loca1"
+			{
+				"buildid"		"9991511"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669121862"
+			}
+			"ptsone"
+			{
+				"buildid"		"12123103"
+				"description"		"Public Test Server One"
+				"timeupdated"		"1694008296"
+			}
+			"rel076live"
+			{
+				"buildid"		"11952019"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692165025"
+			}
+			"rel078live"
+			{
+				"buildid"		"12200582"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694793348"
+			}
+			"tournament"
+			{
+				"buildid"		"11911604"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691670692"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#presence"		"%sl_presence%"
+				}
+			}
+		}
+	}
+}
