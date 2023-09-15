@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1642690"
+	"common"
+	{
+		"name"		"DREAMWORLD"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"d16c5f7d7c69071ee7eb876d6c4405b809b302fd"
+		"logo"		"96b57d6a6fbc61d78fdbca3e4a8e21911ae49d9b"
+		"logo_small"		"96b57d6a6fbc61d78fdbca3e4a8e21911ae49d9b_thumb"
+		"clienttga"		"1a569a32a028bd043effc856c8972e524f84c8d6"
+		"clienticon"		"9d69832cb0d1cc0babdab073b7268501ce216a8b"
+		"clienticns"		"9d69832cb0d1cc0babdab073b7268501ce216a8b"
+		"linuxclienticon"		"9d69832cb0d1cc0babdab073b7268501ce216a8b"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+			"spanish"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1621667542"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NG STUDIO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NG STUDIO"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623749880"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1642690"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4195"
+			"1"		"5379"
+			"2"		"7208"
+			"3"		"3871"
+			"4"		"7250"
+			"5"		"4305"
+			"6"		"1684"
+			"7"		"1625"
+			"8"		"4166"
+			"9"		"21"
+			"10"		"4182"
+			"11"		"4085"
+			"12"		"6129"
+			"13"		"4057"
+			"14"		"30358"
+			"15"		"492"
+			"16"		"4726"
+			"17"		"4252"
+			"18"		"1742"
+			"19"		"5984"
+		}
+	}
+	"extended"
+	{
+		"developer"		"NG STUDIO"
+		"publisher"		"NG STUDIO"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"DREAMWORLD"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DREAMWORLD.exe"
+				"type"		"default"
+				"description_loc"
+				{
+					"english"		"DREAMWORLD"
+				}
+				"description"		"DREAMWORLD"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french,spanish"
+		"1642691"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5232059826179763350"
+					"size"		"1964875095"
+					"download"		"1469426496"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6765223"
+				"timeupdated"		"1622093679"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"3"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+}
