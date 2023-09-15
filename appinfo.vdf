@@ -1,0 +1,307 @@
+"appinfo"
+{
+	"appid"		"304690"
+	"common"
+	{
+		"name"		"Star Sonata 2"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"304690_eula_0"
+				"name"		"Star Sonata 2 EULA"
+				"url"		"http://store.steampowered.com//eula/304690_eula_0"
+			}
+		}
+		"oslist"		"windows"
+		"clienticon"		"b6d1cd4e1b396ee259a394e8a2908384291c718f"
+		"clienttga"		"7f2a8d2b74167ae1b1a925c81d9ed292686a8f49"
+		"icon"		"78498dbf1e1cbeafa0fe0f1c3695ccf0aaa53cc1"
+		"logo"		"a3a55c67f25702ad34e8d51f55d3c3a5542e20d5"
+		"logo_small"		"a3a55c67f25702ad34e8d51f55d3c3a5542e20d5_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660867200"
+			"tested_build_id"		"9302051"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Star Sonata 2"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667523050"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Landauer Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Landauer Games"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_1"		"1"
+			"category_35"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1591981200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"304690"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1755"
+			"1"		"3810"
+			"2"		"1754"
+			"3"		"7332"
+			"4"		"122"
+			"5"		"4791"
+			"6"		"1643"
+			"7"		"4202"
+			"8"		"5794"
+			"9"		"5752"
+			"10"		"113"
+			"11"		"3968"
+			"12"		"7926"
+			"13"		"16598"
+			"14"		"5125"
+			"15"		"6310"
+			"16"		"6730"
+			"17"		"1775"
+			"18"		"4975"
+			"19"		"6426"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"developer"		"Landauer Games"
+		"publisher"		"Landauer Games"
+		"homepage"		"http://www.starsonata.com?ref=steampage"
+		"isfreeapp"		"1"
+		"listofdlc"		"356410"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"StarSonata2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Star Sonata.exe"
+				"arguments"		"-steam"
+				"description"		"Launch Game"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"patchbot.exe"
+				"arguments"		"-autostart -steam"
+				"description"		"Run Patchbot"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"304691"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8966097029538880434"
+					"size"		"2554387329"
+					"download"		"1549487232"
+				}
+				"beta"
+				{
+					"gid"		"8932122490245631740"
+					"size"		"2574235851"
+					"download"		"1557847984"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12055390"
+				"timeupdated"		"1693281308"
+			}
+			"beta"
+			{
+				"buildid"		"12065924"
+				"description"		"Beta branch"
+				"timeupdated"		"1693379591"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"4"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"config"
+				"pattern"		"*.xml"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#statusloginscreen"		"At the main menu"
+					"#statusselectingcharacter"		"Selecting a character"
+					"#statusdevelopingnocharacter"		"Working hard developing new things"
+					"#statusplayingsquadandteam"		"%characterName% | Level %characterLevel% (%levelNameString%) | %teamName% | In a squad led by %squadLeader% | {#%flavortext%} "
+					"#statusplayingteam"		"%characterName% | Level %characterLevel% (%levelNameString%) | %teamName% | {#%flavortext%} "
+					"#statusplayingsquad"		"%characterName% | Level %characterLevel% (%levelNameString%) | In a squad led by %squadLeader% | {#%flavortext%} "
+					"#statusplayingnogroup"		"%characterName% | Level %characterLevel% (%levelNameString%) | {#%flavortext%} "
+					"#flavor_dev"		"Working hard developing new things"
+					"#flavor_w0"		"Exploring the safe parts of the universe"
+					"#flavor_w1"		"Exploring the universe"
+					"#flavor_w2"		"Exploring the reaches of the universe"
+					"#flavor_w3"		"Exploring the dangerous fringe of the universe"
+					"#flavor_w4"		"Exploring the deepest depths of the universe"
+					"#flavor_sol"		"Hanging out in Sol"
+					"#flavor_fm"		"Shopping"
+				}
+			}
+		}
+	}
+}
