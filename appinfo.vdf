@@ -1,0 +1,363 @@
+"appinfo"
+{
+	"appid"		"638490"
+	"common"
+	{
+		"name"		"Soldat"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"d306167067701260c36f017febcce9350b9013ca"
+		"logo_small"		"d306167067701260c36f017febcce9350b9013ca_thumb"
+		"icon"		"d9e29c9c4efa26a936c04812f068ec97ca7025f2"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"a203cffa87b131a0f01bff782176290a7d359084"
+		"clienttga"		"f241f532f7eb86f9623fe051a8df80726b036393"
+		"clienticns"		"bdd64940618cb14c273cba8e0171b123e4d90347"
+		"linuxclienticon"		"d2081d9d0bfbf78028cbb385b965176631240b50"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Soldat"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"12.616138867229694"
+				"height_pct"		"15.277777777777757"
+			}
+		}
+		"store_asset_mtime"		"1581340487"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Transhuman Design"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Soldat Team"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Transhuman Design"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Soldat"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1020927600"
+		"steam_release_date"		"1585678493"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"638490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"492"
+			"3"		"3859"
+			"4"		"1774"
+			"5"		"3871"
+			"6"		"4345"
+			"7"		"4667"
+			"8"		"1685"
+			"9"		"1775"
+			"10"		"3964"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Transhuman Design"
+		"publisher"		"Transhuman Design"
+		"homepage"		"https://soldat.pl/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1297460"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Soldat"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"soldat.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"config.exe"
+				"description"		"Game Config"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"soldat.exe"
+				"arguments"		"-dedicated"
+				"description"		"Start Game Server"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"starter.exe"
+				"description"		"Mod Starter"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"4"
+			{
+				"executable"		"startserver.bat"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"alpha"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"workshopdepot"		"638490"
+		"638491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9172943370659849925"
+					"size"		"139565924"
+					"download"		"111159136"
+				}
+				"beta"
+				{
+					"gid"		"9172943370659849925"
+					"size"		"139565924"
+					"download"		"111159136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"83FF8D6F890B1A42642737E55BB1F2A7"
+					"size"		"77B79CF685C2099B9548714F2C323E1C"
+					"download"		"B2D76D18B75E6110BDA41C2455290CB3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4991517"
+				"timeupdated"		"1588838105"
+			}
+			"alpha"
+			{
+				"buildid"		"4917104"
+				"pwdrequired"		"1"
+				"timeupdated"		"1587330738"
+			}
+			"beta"
+			{
+				"buildid"		"4991517"
+				"timeupdated"		"1588792256"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"/"
+				"pattern"		"soldat.ini"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"profiles/"
+				"pattern"		"*.ini"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"profiles/"
+				"pattern"		"*.txt"
+			}
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"/"
+				"pattern"		"taunts.txt"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#display_menu"		"Playing Soldat"
+					"#display_gameinfo"		"Playing on %servername%"
+				}
+			}
+		}
+	}
+}
