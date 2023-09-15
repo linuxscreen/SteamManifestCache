@@ -1,0 +1,174 @@
+"appinfo"
+{
+	"appid"		"1079600"
+	"common"
+	{
+		"name"		"E06-Anomaly"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"9c90b0d7fe50c63bfe3f8a25558d831af03b3a59"
+		"logo_small"		"9c90b0d7fe50c63bfe3f8a25558d831af03b3a59_thumb"
+		"icon"		"89a12ed337045f417583338f3d1f977a884bdf19"
+		"clienticon"		"3669d627b45eb560c6fd939201ed0a0a24825d72"
+		"clienttga"		"5722154187a0823960d791ac7b0d7958073d1f43"
+		"metacritic_name"		"E06-Anomaly"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1557475946"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aro Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Aro Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1559307060"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1079600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"19"
+			"2"		"21"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Aro Games"
+		"publisher"		"Aro Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"E06-Anomaly"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"E06.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german"
+		"1079601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9090711138078231618"
+					"size"		"7917255657"
+					"download"		"3366104656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"tests"
+				{
+					"gid"		"AA1054A8C9155D37FEFF0F33D1EFEDDD"
+					"size"		"31E902D4E5338C8FD28A703AF5053DC3"
+					"download"		"33A00DB2D7B4F74FFB34569EC662B6E8"
+				}
+			}
+		}
+		"1079602"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5025392"
+				"timeupdated"		"1589441103"
+			}
+			"tests"
+			{
+				"buildid"		"4089658"
+				"pwdrequired"		"1"
+				"timeupdated"		"1565333162"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"24000"
+		"maxnumfiles"		"10"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"E06/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
