@@ -1,0 +1,116 @@
+"appinfo"
+{
+	"appid"		"2189140"
+	"common"
+	{
+		"name"		"Ribby: The Game Demo"
+		"type"		"Demo"
+		"parent"		"1742740"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"40469189eae4fc7383896ce94aeb5f87118be714"
+		"clienticon"		"cd0d314734dcc044a0c060b13b547bb24927644d"
+		"icon"		"95b293a07f1b47de3e770b57f74d0539471ba33d"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1686447042"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"octolivvy"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"octolivvy"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666488004"
+		"gameid"		"2189140"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1742740"
+		"developer"		"octolivvy"
+		"publisher"		"octolivvy"
+		"homepage"		"https://octolivvy.itch.io/ribbythegamedemo"
+	}
+	"config"
+	{
+		"installdir"		"Ribby The Game Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"2189142"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3686641484583045545"
+					"size"		"216595728"
+					"download"		"78592912"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9779125"
+				"timeupdated"		"1666491122"
+			}
+		}
+	}
+}
