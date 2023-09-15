@@ -1,0 +1,282 @@
+"appinfo"
+{
+	"appid"		"2203870"
+	"common"
+	{
+		"name"		"Slumberer's Universe Demo"
+		"type"		"Demo"
+		"parent"		"2140980"
+		"icon"		"1d4a4ea8dd8fcb0655e2ae3b132abc99635b3555"
+		"clienttga"		"bbf3eaeb701da29c6cce0c13f711a9eb502aa913"
+		"clienticon"		"a29746b45ce563b5a924a0bdece71d312dc80880"
+		"linuxclienticon"		"41fcf60cbb8cc9285fafa55701c648fd4957c86a"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"clienticns"		"998de33bd9dfe4cd236500a1007c7c7b9b1dd15e"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"72.0502206721593"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693892870"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"fsorsat"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"fsorsat"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1667832958"
+		"gameid"		"2203870"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2140980"
+		"developer"		"fsorsat"
+		"publisher"		"fsorsat"
+		"homepage"		"http://slumberers-universe.fsorsat.com/"
+	}
+	"config"
+	{
+		"installdir"		"Slumberer's Universe Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"nw"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Game.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2203871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2110152584227363527"
+					"size"		"500449169"
+					"download"		"254472064"
+				}
+				"1.0.1"
+				{
+					"gid"		"4647504185525365207"
+					"size"		"494961746"
+					"download"		"251065424"
+				}
+				"fi-beta"
+				{
+					"gid"		"1483239787845500276"
+					"size"		"519231119"
+					"download"		"272378864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.5-beta"
+				{
+					"gid"		"C6FC6E5ADE399BC90F78F1BB820740E2"
+					"size"		"B69326AC31BD37DA4773DA388BEDA22D"
+					"download"		"C336929CAAF397E5BFDC81B4FA6B1236"
+				}
+			}
+		}
+		"2203872"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5590731774640587120"
+					"size"		"591156516"
+					"download"		"257861888"
+				}
+				"1.0.1"
+				{
+					"gid"		"4511936156130544590"
+					"size"		"613130545"
+					"download"		"260524144"
+				}
+				"fi-beta"
+				{
+					"gid"		"5590731774640587120"
+					"size"		"591156516"
+					"download"		"257861888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.5-beta"
+				{
+					"gid"		"C93D9F9457025455DD1045C44E00520E"
+					"size"		"2AEBB8FF60AC36D02E5299EDBA06C4FB"
+					"download"		"DD287A27FE6BE1224586CBAD59E9DA8E"
+				}
+			}
+		}
+		"2203873"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5942386312551577031"
+					"size"		"542158057"
+					"download"		"270004848"
+				}
+				"1.0.1"
+				{
+					"gid"		"6455778223238442543"
+					"size"		"536672871"
+					"download"		"266598368"
+				}
+				"fi-beta"
+				{
+					"gid"		"5942386312551577031"
+					"size"		"542158057"
+					"download"		"270004848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.5-beta"
+				{
+					"gid"		"C1A25634C22E915242F652660EC5DD1C"
+					"size"		"5EAADA4F9207BC37AB5434E0C4599FFF"
+					"download"		"9A52AC8C079B2868EE8EA6C6E55A8DDA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11066899"
+				"timeupdated"		"1682169026"
+			}
+			"1.0.1"
+			{
+				"buildid"		"10323098"
+				"description"		"Version 1.0.1 (for save compability)"
+				"timeupdated"		"1680428288"
+			}
+			"1.5-beta"
+			{
+				"buildid"		"11066899"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682167501"
+			}
+			"fi-beta"
+			{
+				"buildid"		"11218455"
+				"description"		"1.5.1 (suomi) beta"
+				"timeupdated"		"1683897527"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ALPH"
+				"pattern"		"*.rmmzsave"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"appidredirect"		"2140980"
+	}
+}
