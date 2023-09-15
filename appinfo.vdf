@@ -1,0 +1,288 @@
+"appinfo"
+{
+	"appid"		"1610780"
+	"common"
+	{
+		"name"		"Out of Space Demo"
+		"type"		"Demo"
+		"parent"		"400080"
+		"releasestate"		"released"
+		"clienticon"		"d1357680594b2a2ae9ef37f1d414d3cfbd006e31"
+		"clienttga"		"4f83cc1e54f983c3292cf0475f66e38315eeda40"
+		"icon"		"03ec723730d2cfa89083ddd148f6962cc4b1f3c2"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1618948293"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Behold Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Behold Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_27"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1619585066"
+		"gameid"		"1610780"
+	}
+	"extended"
+	{
+		"demoofappid"		"400080"
+		"developer"		"Behold Studios"
+		"publisher"		"Behold Studios"
+		"homepage"		"http://www.beholdstudios.com.br"
+	}
+	"config"
+	{
+		"installdir"		"Out of Space Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Out of Space.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Out of Space.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Out of Space.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"Out of Space.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"400081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5801353476224896223"
+					"size"		"751310781"
+					"download"		"185652480"
+				}
+				"beta"
+				{
+					"gid"		"5801353476224896223"
+					"size"		"751310781"
+					"download"		"185652480"
+				}
+				"previousversion"
+				{
+					"gid"		"355441199168260386"
+					"size"		"751310449"
+					"download"		"185652976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"84FF115D17955BE47143C13DCB04E9FE"
+					"size"		"18CC92D11E1318BFDF7698B2D6D74BA9"
+					"download"		"5AE9FB6B4DC44D3E33A9E73A4B317FC2"
+				}
+			}
+			"depotfromapp"		"400080"
+		}
+		"400082"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6800715337229911353"
+					"size"		"764700723"
+					"download"		"188836592"
+				}
+				"beta"
+				{
+					"gid"		"6800715337229911353"
+					"size"		"764700723"
+					"download"		"188836592"
+				}
+				"previousversion"
+				{
+					"gid"		"7931137214180064191"
+					"size"		"764700391"
+					"download"		"188837504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"8FDE5DF68D4E368CEE4E19027895A007"
+					"size"		"3AD0C5131B21DE4612748CE27B965579"
+					"download"		"09CC7AEF96C970CC7E590FA482AC7A40"
+				}
+			}
+			"depotfromapp"		"400080"
+		}
+		"400083"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5001463508267565257"
+					"size"		"793438939"
+					"download"		"202996336"
+				}
+				"beta"
+				{
+					"gid"		"5001463508267565257"
+					"size"		"793438939"
+					"download"		"202996336"
+				}
+				"previousversion"
+				{
+					"gid"		"6061507707588917765"
+					"size"		"793438607"
+					"download"		"202996176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"7994D5EC5739EDF5B2E6F2845BDB89ED"
+					"size"		"BA4CCF86FF7271CAD757DD53B8F742CD"
+					"download"		"D6B7930AA732644C0F535F087FB792AE"
+				}
+			}
+			"depotfromapp"		"400080"
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,japanese,brazilian"
+		"branches"
+		{
+			"development"
+			{
+				"buildid"		"6616527"
+				"pwdrequired"		"1"
+				"timeupdated"		"1619642219"
+			}
+		}
+	}
+}
