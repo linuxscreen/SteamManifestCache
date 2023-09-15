@@ -1,0 +1,334 @@
+"appinfo"
+{
+	"appid"		"314280"
+	"common"
+	{
+		"name"		"The Forgotten Ones"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"icon"		"e04cf93e070127cb44f69265ca3764d3e5c4ebc2"
+		"logo"		"c03a10dd3f458491385cf9d95635430a9685141b"
+		"logo_small"		"c03a10dd3f458491385cf9d95635430a9685141b_thumb"
+		"clienttga"		"d72cd24049c8a8936f627837be074fe7e58bad95"
+		"clienticon"		"64c1f7541314930d197dad7bf507265380affccf"
+		"eulas"
+		{
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1683129088"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bernt Andreas Eide"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bernt Andreas Eide"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1405494000"
+		"steam_release_date"		"1405612020"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"314280"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"113"
+			"2"		"21"
+			"3"		"19"
+			"4"		"1662"
+			"5"		"1663"
+			"6"		"492"
+			"7"		"1774"
+			"8"		"3978"
+			"9"		"4182"
+			"10"		"3839"
+			"11"		"1659"
+			"12"		"4150"
+			"13"		"1721"
+			"14"		"5348"
+			"15"		"4345"
+			"16"		"4106"
+			"17"		"3834"
+			"18"		"4191"
+			"19"		"4400"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"Bernt Andreas Eide"
+		"publisher"		"Bernt Andreas Eide"
+		"homepage"		"https://www.moddb.com/mods/the-forgotten-ones"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"tfo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game tfo -steam"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"The Forgotten Ones"
+				}
+				"description"		"The Forgotten Ones"
+			}
+			"2"
+			{
+				"executable"		"hl2.sh"
+				"arguments"		"-game tfo -steam"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"hl2.sh"
+				"arguments"		"-game tfo -steam"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"4"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-steam -game tfo -sw -noborder"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"The Forgotten Ones (Borderless Window)"
+				}
+				"description"		"The Forgotten Ones (Borderless Window)"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"314281"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"863258459981625701"
+					"size"		"5376937591"
+					"download"		"2903429552"
+				}
+				"previous"
+				{
+					"gid"		"4596022009140223097"
+					"size"		"7205860896"
+					"download"		"4190593936"
+				}
+				"upcoming"
+				{
+					"gid"		"863258459981625701"
+					"size"		"5376937591"
+					"download"		"2903429552"
+				}
+			}
+		}
+		"314282"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5930191788542604514"
+					"size"		"138133699"
+					"download"		"44908336"
+				}
+				"previous"
+				{
+					"gid"		"4696364005311842727"
+					"size"		"140645476"
+					"download"		"45320576"
+				}
+				"upcoming"
+				{
+					"gid"		"5930191788542604514"
+					"size"		"138133699"
+					"download"		"44908336"
+				}
+			}
+		}
+		"314283"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5574622206306578512"
+					"size"		"121151271"
+					"download"		"31495984"
+				}
+				"previous"
+				{
+					"gid"		"7758944093515683494"
+					"size"		"155684259"
+					"download"		"33003088"
+				}
+				"upcoming"
+				{
+					"gid"		"5574622206306578512"
+					"size"		"121151271"
+					"download"		"31495984"
+				}
+			}
+		}
+		"314284"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7387737807324021932"
+					"size"		"109920640"
+					"download"		"26115984"
+				}
+				"previous"
+				{
+					"gid"		"7387737807324021932"
+					"size"		"109920640"
+					"download"		"26115984"
+				}
+				"upcoming"
+				{
+					"gid"		"7387737807324021932"
+					"size"		"109920640"
+					"download"		"26115984"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11915023"
+				"timeupdated"		"1691698894"
+			}
+			"previous"
+			{
+				"buildid"		"900369"
+				"description"		"Previous Patch"
+				"timeupdated"		"1685998123"
+			}
+			"upcoming"
+			{
+				"buildid"		"11915023"
+				"description"		"Upcoming Patch"
+				"timeupdated"		"1691698423"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
