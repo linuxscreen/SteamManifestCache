@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"2205830"
+	"common"
+	{
+		"name"		"The Dark Method Demo"
+		"type"		"Demo"
+		"parent"		"1462700"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openvrsupport"		"1"
+		"icon"		"fd39ffc0972449019bae75a3ade172744b65b8b8"
+		"clienttga"		"c986f538c1ae25c64bf43470b531c1b1cab5d555"
+		"clienticon"		"553da1925d3c5463db8957ec67766d3e36fc4f0d"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1667196064"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Analog Joker LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Analog Joker LLC"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1667430358"
+		"gameid"		"2205830"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1462700"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Analog Joker LLC"
+		"publisher"		"Analog Joker LLC"
+		"homepage"		"http://www.analogjokergames.com/"
+	}
+	"config"
+	{
+		"installdir"		"The Dark Method Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The_Dark_Method_DEMO.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2205831"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1364934230860640309"
+					"size"		"11240992141"
+					"download"		"5339145616"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9837008"
+				"timeupdated"		"1667220376"
+			}
+		}
+	}
+}
