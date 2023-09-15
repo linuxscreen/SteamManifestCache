@@ -1,0 +1,646 @@
+"appinfo"
+{
+	"appid"		"544920"
+	"common"
+	{
+		"name"		"Darwin Project"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"864a1f3ac3a702bac21abba426d59257c0995cfc"
+		"logo_small"		"864a1f3ac3a702bac21abba426d59257c0995cfc_thumb"
+		"icon"		"ec8efa43138b3dd7c26d07c0e2527252fbdeeed5"
+		"clienticon"		"90da2f50133511613d67fa23c9f0d6645b0fabc2"
+		"clienttga"		"2117078820d8fb63b85f740fe22b1a363312285c"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"544920_eula_0"
+				"name"		"Darwin Project - Open Beta EULA"
+				"url"		"http://store.steampowered.com//eula/544920_eula_0"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1655856000"
+			"tested_build_id"		"6206081"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Darwin Project"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"18.874676699510246"
+				"height_pct"		"95.06055568748516"
+			}
+		}
+		"store_asset_mtime"		"1667317769"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Scavengers Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Scavengers Studio"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1578962111"
+		"metacritic_score"		"74"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/darwin-project?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"544920"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"176981"
+			"1"		"3859"
+			"2"		"1662"
+			"3"		"19"
+			"4"		"1775"
+			"5"		"1695"
+			"6"		"493"
+			"7"		"492"
+			"8"		"1685"
+			"9"		"128"
+			"10"		"1774"
+			"11"		"21"
+			"12"		"1702"
+			"13"		"9"
+			"14"		"1697"
+			"15"		"1663"
+			"16"		"3814"
+			"17"		"597"
+			"18"		"4166"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"gamedir"		"Darwin"
+		"serverbrowsername"		"The Darwin Project"
+		"developer"		"Scavengers Studio"
+		"publisher"		"Scavengers Studio"
+		"homepage"		"https://www.play-darwinproject.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Darwin Project"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Darwin.exe"
+				"description"		"Darwin Project"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Darwin.sh"
+				"description"		"Darwin Project"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,french"
+		"544921"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"262878272823548621"
+					"size"		"3612766112"
+					"download"		"3238218240"
+				}
+				"unofficial"
+				{
+					"gid"		"590626508447197772"
+					"size"		"3613767064"
+					"download"		"3238515008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"FE685B66FA14C1998A467B98D917D337"
+					"size"		"A7AFE012AE8FF38684573BB4505C83F5"
+					"download"		"672043FC472586C68EB21D530B4FA84A"
+				}
+				"develdebug"
+				{
+					"gid"		"1890F09C74A45CC48DC06B4A966FA446"
+					"size"		"288FF451E514D038EABF26B61468516B"
+					"download"		"925DAED0E9354027C574AF08421C566B"
+				}
+				"devellinuxdebug"
+				{
+					"gid"		"D046349EE57A6DDF079DED64CBC8CC58"
+					"size"		"72B761D20A59F8CB2AA2661AC3B7BD74"
+					"download"		"0C9F56D7161A89DB50DC3AE75EEB3A8D"
+				}
+				"devellinuxshipping"
+				{
+					"gid"		"5DF0E9FD5EEB222A9883DE8EFBAF2087"
+					"size"		"E706957A750F27F3D3FC4D096D98CCBA"
+					"download"		"D41914B6342C4044036FF73A69BEEA87"
+				}
+				"develshipping"
+				{
+					"gid"		"01587A5B478E80DF336B217A8475B84C"
+					"size"		"C1A504143F048F0E567A4A43D2EF410D"
+					"download"		"B121B3A8C447EDA4DC2527542317DA80"
+				}
+				"event"
+				{
+					"gid"		"A59F503979A17702F8D523E4169973F8"
+					"size"		"FD57D1B1A9BE736B71C53FA3CCE76207"
+					"download"		"95D1A3FE0D249283AADBC206BFECAFCB"
+				}
+				"integdebug"
+				{
+					"gid"		"B00F3F158661FD7178D34C1504B41FDC"
+					"size"		"9F42864A30336CAF9EA1E34259E13552"
+					"download"		"3986BC0D79EAEB676A6699A5F590EE60"
+				}
+				"integshipping"
+				{
+					"gid"		"C7FA67430911C3ACA7B4A9167971412B"
+					"size"		"1C39BA0366F9E72C1E6001E637E953B4"
+					"download"		"91C2BD1C36D54DF67296FA66FA4ACF5E"
+				}
+				"integtest"
+				{
+					"gid"		"426BE948FA485B979EB0272950F9AFD5"
+					"size"		"A209330A0158E7BB46CA5B4DEDE320E8"
+					"download"		"CE2DB1CFBADF414CE4DCB852D7B03F6C"
+				}
+				"linux"
+				{
+					"gid"		"F5285CF7EA99857E2F2D2A15E5A8E476"
+					"size"		"8CC5DDFED942F18423C5E3236C67C15B"
+					"download"		"7983BFEB901316AFCAC3A8F8F39180B6"
+				}
+				"live"
+				{
+					"gid"		"A882E955F929843625CD75F1340651B5"
+					"size"		"1DBCF304C173F437C8CC561351ADAD9B"
+					"download"		"91A2A8909E61481643869A4912F3542A"
+				}
+				"liveshipping"
+				{
+					"gid"		"649B37F24E8A183281B93A4A3BF2972C"
+					"size"		"AF87BC3181E90F9DB4EC8A1DC20B7B08"
+					"download"		"05C6771002A9310D002458DBAA7EB4F6"
+				}
+				"playtest"
+				{
+					"gid"		"3DAE4BBB0DCBB19B54CC936AF6B72FC5"
+					"size"		"469FC0AE326430CD7E3AB2D8D97AF5B8"
+					"download"		"02F30611748A8761B2E1D236F6A22707"
+				}
+				"qadebug"
+				{
+					"gid"		"2F69314752821A2D7E9BF5C14EE5A290"
+					"size"		"B116806FDE4FFFB49A5429878412B84C"
+					"download"		"04D8A4B7E26ECD892F7471F6BE1A1F19"
+				}
+				"qainteg"
+				{
+					"gid"		"8CCB3B2C854BD988C0C9A231CC1190DB"
+					"size"		"8658454BC5DA5F3594E772A7695E69D6"
+					"download"		"80036C6EA8C36ECE3FE19401884594E5"
+				}
+				"qalive"
+				{
+					"gid"		"A768D31D6F06DF88D6120F3AE7C193C1"
+					"size"		"2021E56604FED905D1923029D1801C6B"
+					"download"		"1C0B534B01139EC900AB98EBB51E92FD"
+				}
+				"qastab"
+				{
+					"gid"		"997417EDCE6A925CF353BB49ED3E1D90"
+					"size"		"2AA98A8E2E9D992E82B339B83516118C"
+					"download"		"8A3E38C4B21B40E39AFAFB3B174FD5F8"
+				}
+				"qatest"
+				{
+					"gid"		"D4C5361A52BEB992CBCB7846121F7882"
+					"size"		"C8EF39681EDE484B69CA2C137DCEC3C3"
+					"download"		"50232F8563E09F205329020FC86EF925"
+				}
+				"stabdebug"
+				{
+					"gid"		"1ED27CDF3033D822149DED9288B6AFAB"
+					"size"		"9453E9718F8B6580C651BD2EDBC6B01C"
+					"download"		"F6249037E5726EAA0570A7422235E897"
+				}
+				"stabshipping"
+				{
+					"gid"		"095AC1406F12CAA7FE02906FA0C1A3C3"
+					"size"		"AFC05FDECAC911BA6E6B9FEA65BBC3BF"
+					"download"		"579A6FE7B797676FA1163509A5DA9718"
+				}
+				"twitchreview"
+				{
+					"gid"		"036E8F9E71C9D3CFD592DAA05ECFAF33"
+					"size"		"F1F7AC17FC5E560FB4DDA597879D2869"
+					"download"		"98D39BFC25D7793C6C79342CE3841134"
+				}
+			}
+		}
+		"544922"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8147051429259261890"
+					"size"		"10967605009"
+					"download"		"2743661376"
+				}
+				"unofficial"
+				{
+					"gid"		"8147051429259261890"
+					"size"		"10967605009"
+					"download"		"2743661376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develdebug"
+				{
+					"gid"		"80CE5EAB484DEDC5FA0E2DE5E157D389"
+					"size"		"129C1BA9B6C5B9541202C655662C98FD"
+					"download"		"91122144270D45B43236B4D23FE2E0B0"
+				}
+				"devellinuxdebug"
+				{
+					"gid"		"D0FA0BB6C8C9D260FCF52701B28AEBB2"
+					"size"		"67221ECF6B9C56411391C36540B3E31E"
+					"download"		"C57CFF71A1159E0AB17C9F62F480B64A"
+				}
+				"devellinuxshipping"
+				{
+					"gid"		"26C27E39CE6742694C4BA38073440516"
+					"size"		"91A0B81C8894A8119506250E807AC8DF"
+					"download"		"AC6D56786AAA77C852CF2DE7D28178AE"
+				}
+				"event"
+				{
+					"gid"		"07B1A2805419D9B89390952A3E0A02F7"
+					"size"		"6D50DACEB1E285555EAAC92F08EDCC17"
+					"download"		"E31573BA11E29C8CCC18E62725DECA61"
+				}
+				"linux"
+				{
+					"gid"		"02846173172348675406335D32D1F7BC"
+					"size"		"2C646A2B2B4A50393A89FCD6C97C5875"
+					"download"		"6033F5880C70F4B9EC3C42AD05835BFC"
+				}
+				"live"
+				{
+					"gid"		"106EB75B1294DA9091BDADFF237E4AF7"
+					"size"		"17868B1CF6C4B17529341B76195E1FFC"
+					"download"		"7FD49788C43CEAAB3FE98D3279750080"
+				}
+				"liveshipping"
+				{
+					"gid"		"468A301E8B736EBEEC469355E1084DD4"
+					"size"		"52BEA718B76EAC7E006DBFFC0B005EFA"
+					"download"		"47647B47082354AED198DEAEAECCDA99"
+				}
+				"qainteg"
+				{
+					"gid"		"BFDC4FE248847E13B96F1C9818B9CA2B"
+					"size"		"1BCC502A086E7FE0D010C808E1F41033"
+					"download"		"099A5A544C0EE37886AEA2815649F70B"
+				}
+				"qalive"
+				{
+					"gid"		"78C3E9C6FE67CCFF8611869DD8F92C55"
+					"size"		"F34EBC808BA971E918DAF04C7500DD46"
+					"download"		"0E6C88079D0DCE430F99F4A8F5A2DE05"
+				}
+				"qastab"
+				{
+					"gid"		"98C53A8D1D4BFAEF8875A240B8D5C89F"
+					"size"		"08FCAB30F4C63AEB2C8D9EBE01946828"
+					"download"		"E82BA4F92B984BA923DB6E4CC6CD6338"
+				}
+				"qatest"
+				{
+					"gid"		"E91C23E60453E4FAFC2D96FDB114E1BB"
+					"size"		"5EA1A5D46BEB90502036B792CF699E90"
+					"download"		"8A09567796B324324AAE4815DCADDBDA"
+				}
+				"twitchreview"
+				{
+					"gid"		"AB4DC842FE9038A6D04F09E9484B4887"
+					"size"		"484BC43C290351E50E6E64A52B2B9C03"
+					"download"		"6E88B3B60BD5CF0DBAB6F4413AE155F3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6206081"
+				"timeupdated"		"1612886408"
+			}
+			"debug"
+			{
+				"buildid"		"4339624"
+				"pwdrequired"		"1"
+				"timeupdated"		"1572909841"
+			}
+			"develdebug"
+			{
+				"buildid"		"12196309"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694763664"
+			}
+			"devellinuxdebug"
+			{
+				"buildid"		"4461246"
+				"pwdrequired"		"1"
+				"timeupdated"		"1575522365"
+			}
+			"devellinuxshipping"
+			{
+				"buildid"		"4463550"
+				"pwdrequired"		"1"
+				"timeupdated"		"1575568902"
+			}
+			"develshipping"
+			{
+				"buildid"		"12196360"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694764085"
+			}
+			"event"
+			{
+				"buildid"		"4565774"
+				"pwdrequired"		"1"
+				"timeupdated"		"1578953003"
+			}
+			"integdebug"
+			{
+				"buildid"		"4106180"
+				"pwdrequired"		"1"
+				"timeupdated"		"1565814952"
+			}
+			"integshipping"
+			{
+				"buildid"		"4604854"
+				"pwdrequired"		"1"
+				"timeupdated"		"1579876705"
+			}
+			"integtest"
+			{
+				"buildid"		"3352409"
+				"pwdrequired"		"1"
+				"timeupdated"		"1543529178"
+			}
+			"linux"
+			{
+				"buildid"		"4463550"
+				"pwdrequired"		"1"
+				"timeupdated"		"1576009326"
+			}
+			"live"
+			{
+				"buildid"		"12171553"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694544002"
+			}
+			"liveshipping"
+			{
+				"buildid"		"12171556"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694544019"
+			}
+			"playtest"
+			{
+				"buildid"		"4088766"
+				"pwdrequired"		"1"
+				"timeupdated"		"1565360570"
+			}
+			"qadebug"
+			{
+				"buildid"		"3371942"
+				"pwdrequired"		"1"
+				"timeupdated"		"1544103869"
+			}
+			"qainteg"
+			{
+				"buildid"		"4601754"
+				"pwdrequired"		"1"
+				"timeupdated"		"1579808569"
+			}
+			"qalive"
+			{
+				"buildid"		"12171560"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694544037"
+			}
+			"qastab"
+			{
+				"buildid"		"6206081"
+				"pwdrequired"		"1"
+				"timeupdated"		"1617330721"
+			}
+			"qatest"
+			{
+				"buildid"		"9330950"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660732161"
+			}
+			"stabdebug"
+			{
+				"buildid"		"6481299"
+				"pwdrequired"		"1"
+				"timeupdated"		"1617361228"
+			}
+			"stabshipping"
+			{
+				"buildid"		"12170963"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694538704"
+			}
+			"twitchreview"
+			{
+				"buildid"		"4554336"
+				"pwdrequired"		"1"
+				"timeupdated"		"1578582627"
+			}
+			"unofficial"
+			{
+				"buildid"		"6479808"
+				"description"		"Unsupported builds"
+				"timeupdated"		"1617334454"
+			}
+		}
+	}
+}
