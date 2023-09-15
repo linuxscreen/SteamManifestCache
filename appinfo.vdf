@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"727730"
+	"common"
+	{
+		"name"		"Shiver"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"2544a9dc83a3fd5de6ee09bae9a4792adadeaf08"
+		"logo_small"		"2544a9dc83a3fd5de6ee09bae9a4792adadeaf08_thumb"
+		"clienticon"		"e1d4b782940bb0ec93dbaac4f8c03e10f0b117e1"
+		"clienttga"		"75cd7822964b6347461addbb2ac57081e8294a74"
+		"icon"		"1379c8f0497d47ee0b443e202f62e929930127fb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+			"schinese"		"1"
+		}
+		"metacritic_name"		"Shiver"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1508705197"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kowai Sugoi Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kowai Sugoi Studios"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1508924940"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"727730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"21"
+			"2"		"1667"
+			"3"		"1698"
+			"4"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Kowai Sugoi Studios"
+		"publisher"		"Kowai Sugoi Studios"
+		"homepage"		"https://www.shivergame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Shiver"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Shiver.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Shiver.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Shiver.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"727731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4813718225889518342"
+					"size"		"837859544"
+					"download"		"141650832"
+				}
+				"staging"
+				{
+					"gid"		"4813718225889518342"
+					"size"		"837859544"
+					"download"		"141650832"
+				}
+			}
+		}
+		"727732"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1541897979084807621"
+					"size"		"850759506"
+					"download"		"145566928"
+				}
+				"staging"
+				{
+					"gid"		"1541897979084807621"
+					"size"		"850759506"
+					"download"		"145566928"
+				}
+			}
+		}
+		"727733"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3222068877109052578"
+					"size"		"850103206"
+					"download"		"144772272"
+				}
+				"staging"
+				{
+					"gid"		"3222068877109052578"
+					"size"		"850103206"
+					"download"		"144772272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2651522"
+				"timeupdated"		"1522600965"
+			}
+			"staging"
+			{
+				"buildid"		"2651522"
+				"timeupdated"		"1522600341"
+			}
+		}
+	}
+}
