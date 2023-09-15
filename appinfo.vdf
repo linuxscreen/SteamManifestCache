@@ -1,0 +1,425 @@
+"appinfo"
+{
+	"appid"		"301520"
+	"common"
+	{
+		"name"		"Robocraft"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"icon"		"25b4f8bc206a7768638974d991b12d3943729d49"
+		"clienticon"		"0154a4ca9d1d9e474af35255ed7685b685b58f8b"
+		"clienttga"		"3af2f394fcdd7dfaa390542087cc0edc203a86de"
+		"logo"		"6bcd914a790af2f2eeb91ea5d23482c15c68fb0a"
+		"logo_small"		"6bcd914a790af2f2eeb91ea5d23482c15c68fb0a_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1647993600"
+			"tested_build_id"		"6140906"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Robocraft"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"italian"		"capsule_231x87_italian.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"portuguese"		"capsule_231x87_portuguese.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+			"brazilian"		"capsule_231x87_brazilian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"french"		"header_french.jpg"
+			"german"		"header_german.jpg"
+			"italian"		"header_italian.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"portuguese"		"header_portuguese.jpg"
+			"russian"		"header_russian.jpg"
+			"spanish"		"header_spanish.jpg"
+			"brazilian"		"header_brazilian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"36"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667302394"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Freejam"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Freejam"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Robocraft"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"3"
+			"5"		"28"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1503580635"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"301520"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"5752"
+			"2"		"1643"
+			"3"		"3859"
+			"4"		"19"
+			"5"		"1774"
+			"6"		"1775"
+			"7"		"128"
+			"8"		"3810"
+			"9"		"1702"
+			"10"		"3814"
+			"11"		"3942"
+			"12"		"9"
+			"13"		"599"
+			"14"		"493"
+			"15"		"492"
+			"16"		"1695"
+			"17"		"4136"
+			"18"		"21"
+			"19"		"122"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Freejam"
+		"publisher"		"Freejam"
+		"homepage"		"http://robocraftgame.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"450010,477790,490330,513430,545090,570960"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Robocraft"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"robocraft.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"robocraft.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Robocraft.x86"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"Robocraft.x86_64"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"301521"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1212507927783799285"
+					"size"		"1908985913"
+					"download"		"916925904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3EAAAD394D61D28B84FBC235DEDA0932"
+					"size"		"E759E3F083BD20A057DC3A370D88F3B9"
+					"download"		"46181F05CD1EC22EDE86DAC528BAC081"
+				}
+				"test"
+				{
+					"gid"		"FAB7D1697F8A09C27725F68B3A9E5AAA"
+					"size"		"C40E2AAA50A511EED0C5BE5B14E87749"
+					"download"		"369DDE3155C7DBE9D4D09C9302B91145"
+				}
+			}
+		}
+		"301522"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"440656803617254759"
+					"size"		"2003061917"
+					"download"		"976109024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"1D872BA5D6CE152D5014DB46DC5AA990"
+					"size"		"B9B27AFEEF156EE024FCF01E827459C5"
+					"download"		"8D88D8B5F43ECEF9610B5ED3B7A3F19B"
+				}
+				"test"
+				{
+					"gid"		"5812DC0A0256E526375BF275B3920F0F"
+					"size"		"9901D38D893ECCD5ED6CB65154420682"
+					"download"		"F999E43D3D4BD380CB13E51F4272339F"
+				}
+			}
+		}
+		"301523"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7107008738630499801"
+					"size"		"2265671767"
+					"download"		"990529280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BC7D486C09EA3589866C02FA5E364CC7"
+					"size"		"35798B979B4CC442810BEDA98B0280D9"
+					"download"		"27B0A878E29B4B02372646AA940DE7D3"
+				}
+				"test"
+				{
+					"gid"		"5D7D685FDDC28E7FF9530F28DBA8308F"
+					"size"		"12C2DA6DF8C6363E4C86006A7569DB2E"
+					"download"		"5496E27EBC169A1036259D980227C846"
+				}
+			}
+		}
+		"workshopdepot"		"301520"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6140906"
+				"timeupdated"		"1611756137"
+			}
+			"beta"
+			{
+				"buildid"		"3678262"
+				"pwdrequired"		"1"
+				"timeupdated"		"1619101041"
+			}
+			"test"
+			{
+				"buildid"		"3677657"
+				"pwdrequired"		"1"
+				"timeupdated"		"1619101013"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
