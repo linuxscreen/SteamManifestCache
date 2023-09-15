@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"1059210"
+	"common"
+	{
+		"name"		"Endless World Demo"
+		"type"		"Demo"
+		"parent"		"840260"
+		"clienttga"		"cfde35ee09c7ab97e96d6059b0afa33412a4dd38"
+		"clienticon"		"00d429358d2547976fea8817359506f86e8fed70"
+		"icon"		"4ca38bfc88cbc25ae5db0a884ce72feb69eea02e"
+		"clienticns"		"f6c94531151aa67e1402a28f358efce61bb48809"
+		"logo"		"46ec0245dc2009d2c74c5f629af30e351eed18ad"
+		"logo_small"		"46ec0245dc2009d2c74c5f629af30e351eed18ad_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"releasestate"		"released"
+		"metacritic_name"		"Endless World Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1557367979"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Radiance Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Radiance Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"9"
+			"6"		"3"
+			"7"		"28"
+			"8"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1557053880"
+		"gameid"		"1059210"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"840260"
+		"developer"		"Radiance Games"
+		"publisher"		"Radiance Games"
+		"homepage"		"http://www.endlessworldgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Endless World Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EndlessWorld.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"EndlessWorld.app\\Contents\\MacOS\\EndlessWorld"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"840261"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1970812039671218471"
+					"size"		"1287026211"
+					"download"		"648982800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"CB3B890CCF2F29CF891B1C624B9A9B7D"
+					"size"		"E6BD00607413A1AEE2FBAC765F181E63"
+					"download"		"E12629761E616D16B1864E3A61C75E8E"
+				}
+				"test"
+				{
+					"gid"		"16DFCD43923A21651263DFDC6EE22D57"
+					"size"		"1F45FEA30E16FAC3FF019CD123B548C9"
+					"download"		"F127143F12C6B829E36B5962F8E6F3BD"
+				}
+			}
+			"depotfromapp"		"840260"
+		}
+		"840262"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1284751172668916317"
+					"size"		"841244974"
+					"download"		"631656848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"930B36D576AF614DF03620EE410877CF"
+					"size"		"6B5CC5E06A81590A3A61CE15D09141F9"
+					"download"		"CE676E4CDBAEBB7CB58AC1AC4A98803B"
+				}
+				"test"
+				{
+					"gid"		"BDA6C841A14E1DE5C2BD545FFB9D213F"
+					"size"		"1245880FB3B36766A89637618003479F"
+					"download"		"D84CA5176B966D7AD0643A0B1FC0B7F6"
+				}
+			}
+			"depotfromapp"		"840260"
+		}
+		"840263"
+		{
+			"depotfromapp"		"840260"
+		}
+		"branches"
+		{
+			"develop"
+			{
+				"buildid"		"4638898"
+				"pwdrequired"		"1"
+				"timeupdated"		"1580799798"
+			}
+			"test"
+			{
+				"buildid"		"8991846"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655971520"
+			}
+		}
+	}
+}
