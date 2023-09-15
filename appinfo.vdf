@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"2021910"
+	"common"
+	{
+		"name"		"FPS Chess"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2021910_eula_0"
+				"name"		"FPS Chess EULA"
+				"url"		"https://store.steampowered.com//eula/2021910_eula_0"
+				"version"		"1"
+			}
+		}
+		"clienticon"		"f2b793c8c3cbaa15a147798f3daa67d1c9805438"
+		"clienttga"		"534ef36786a5eca8c3252be3ee427d92cee678ac"
+		"icon"		"e1508ba473fcaead2dd490776954e4d730a54aab"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1665014400"
+			"tested_build_id"		"9232213"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"52.55813953488372"
+				"height_pct"		"58.73901686060318"
+			}
+		}
+		"store_asset_mtime"		"1670241910"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Meta Fork"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DigiPen Institute of Technology"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_18"		"1"
+			"category_47"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1657958101"
+		"community_hub_visible"		"1"
+		"gameid"		"2021910"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"1775"
+			"2"		"1774"
+			"3"		"1770"
+			"4"		"9"
+			"5"		"701"
+			"6"		"17389"
+			"7"		"1741"
+			"8"		"4191"
+			"9"		"3859"
+			"10"		"3839"
+			"11"		"19"
+			"12"		"4136"
+			"13"		"113"
+			"14"		"1721"
+			"15"		"597"
+			"16"		"4184"
+			"17"		"4252"
+			"18"		"5350"
+			"19"		"7368"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Meta Fork"
+		"publisher"		"DigiPen Institute of Technology"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FPS Chess"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FPSChess.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2021911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3976861095473196874"
+					"size"		"1146048285"
+					"download"		"292799968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10477398"
+				"timeupdated"		"1675497795"
+			}
+		}
+	}
+}
