@@ -1,0 +1,123 @@
+"appinfo"
+{
+	"appid"		"15912"
+	"common"
+	{
+		"clienttga"		"9f7df2b8764abf0cafd8f448cb4d94eb2dfacf56"
+		"name"		"Luxor Amun Rising Demo"
+		"logo"		"216d443bee287500fd4c696a0fb3e0a11958bd27"
+		"logo_small"		"b978af87ce36bd9de8cd1ffd065e53a48dda69fc"
+		"icon"		"1b4ffc9cf479c2cfaf1855fa7657c3df9b8c8bc1"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"parent"		"15910"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MumboJumbo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MumboJumbo"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"33"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_10"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1213081200"
+		"gameid"		"15912"
+	}
+	"extended"
+	{
+		"demoofappid"		"15910"
+		"developer"		"MumboJumbo"
+		"gamedir"		"Luxor AR Demo"
+		"homepage"		""
+		"icon"		"steam/games/icon_Luxor_AR"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"15911"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"MumboJumbo"
+	}
+	"config"
+	{
+		"usemms"		""
+		"contenttype"		"3"
+		"installdir"		"Luxor AR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Luxor AR.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"15911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9203417229911749715"
+					"size"		"18543958"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"340D5E6E957FF1EDD2F67D705BC92080"
+					"size"		"63A7D0F00D3297CFE892AFBDB25D3E1D"
+					"download"		"2CEFE54062075C90525A4DA7365055C2"
+				}
+			}
+			"depotfromapp"		"15910"
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"staging"
+			{
+				"buildid"		"11580185"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687969312"
+			}
+		}
+	}
+}
