@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"982530"
+	"common"
+	{
+		"name"		"Mutant Year Zero: Road to Eden Demo"
+		"section_type"		"ownersonly"
+		"type"		"Demo"
+		"parent"		"760060"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"c062592c60eeb835a49b7011b76f5fcf0a3454c1"
+		"clienttga"		"d027d9f5d6d183b53ee4b21ac1a7a5cc1da01c14"
+		"icon"		"c72cd5e293203be284d042c410d0f51e4d08434f"
+		"logo"		"e318c6dc9c64215e356a62759f45826982fa8e9b"
+		"logo_small"		"e318c6dc9c64215e356a62759f45826982fa8e9b_thumb"
+		"metacritic_name"		"Mutant Year Zero: Road to Eden Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1542116229"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Bearded Ladies"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Funcom"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1551285060"
+		"community_hub_visible"		"1"
+		"gameid"		"982530"
+	}
+	"extended"
+	{
+		"developer"		"The Bearded Ladies"
+		"publisher"		"Funcom"
+	}
+	"config"
+	{
+		"installdir"		"Mutant Year Zero Road to Eden Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ZoneUE4.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"982531"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7464796039683287966"
+					"size"		"3216183395"
+					"download"		"2972469616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo_test"
+				{
+					"gid"		"CACD0CF1C16742DCC1F079E03BE64F80"
+					"size"		"501A8E416489834A5B28DD2BA341F6B4"
+					"download"		"D061E780D65B2707D9B486F45801C475"
+				}
+				"test"
+				{
+					"gid"		"6112D5CAF16A105D6C43E8AF24167627"
+					"size"		"E3D189C84B3D901BAA27EEC9CC0588BA"
+					"download"		"C708B75D12110B7066462A19FA5D5DFC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3599699"
+				"timeupdated"		"1551273086"
+			}
+			"demo_test"
+			{
+				"buildid"		"3599552"
+				"pwdrequired"		"1"
+				"timeupdated"		"1551270338"
+			}
+			"test"
+			{
+				"buildid"		"3310040"
+				"pwdrequired"		"1"
+				"timeupdated"		"1542285174"
+			}
+		}
+	}
+}
