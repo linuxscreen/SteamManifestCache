@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"1325270"
+	"common"
+	{
+		"name"		"Escapeworld Dilemma"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"2ab9947b13491b7fad5010fbbd60cde71fc23181"
+		"logo_small"		"2ab9947b13491b7fad5010fbbd60cde71fc23181_thumb"
+		"clienttga"		"1cb87e48b6ffac98311d2a1a9ead13347291a8c1"
+		"clienticon"		"03db7330a3d53709c02280e47c5c8112ddca74ec"
+		"icon"		"e8a70120bddffafd6d44199cdfa6ab5f296e4c09"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1686009600"
+			"tested_build_id"		"9502669"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"66.79620558305498"
+				"height_pct"		"73.54249757448706"
+			}
+		}
+		"store_asset_mtime"		"1668991604"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sonoma Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sonoma Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1611943440"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1325270"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1664"
+			"2"		"3834"
+			"3"		"1695"
+			"4"		"492"
+			"5"		"3839"
+			"6"		"5900"
+			"7"		"5716"
+			"8"		"4182"
+			"9"		"4166"
+			"10"		"8369"
+			"11"		"6129"
+			"12"		"6869"
+			"13"		"4175"
+			"14"		"4305"
+			"15"		"769306"
+			"16"		"13782"
+			"17"		"493"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"Sonoma Games"
+		"publisher"		"Sonoma Games"
+		"homepage"		"https://www.sonoma.games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Escapeworld Dilemma"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EWD.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1325271"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4323567650593405171"
+					"size"		"20443757364"
+					"download"		"8667749104"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9502669"
+				"timeupdated"		"1663030768"
+			}
+		}
+	}
+}
