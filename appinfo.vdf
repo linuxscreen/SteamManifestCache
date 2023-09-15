@@ -1,0 +1,145 @@
+"appinfo"
+{
+	"appid"		"2212930"
+	"common"
+	{
+		"name"		"Decopins Demo"
+		"type"		"Demo"
+		"parent"		"2130440"
+		"icon"		"d1588ed8723c86571908404442920ccb05972b6e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"0bbf31ed8ac408bf7966be5343dc6180da1da861"
+		"clienticon"		"bc747e6362b00cdcdab1276c85d5a2ea5510758b"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"デコピンズ 無料体験版"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667922408"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio M"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Studio M"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1667968645"
+		"gameid"		"2212930"
+	}
+	"extended"
+	{
+		"demoofappid"		"2130440"
+		"developer"		"Studio M"
+		"publisher"		"Studio M"
+	}
+	"config"
+	{
+		"installdir"		"Decopins Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DecopinsDemo.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2212931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2638783366348625049"
+					"size"		"4322388522"
+					"download"		"4191117280"
+				}
+			}
+		}
+		"2212932"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"919851165630288329"
+					"size"		"4326777322"
+					"download"		"4194373040"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10035859"
+				"timeupdated"		"1669699260"
+			}
+		}
+	}
+}
