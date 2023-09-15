@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"1667440"
+	"common"
+	{
+		"name"		"WishWorld"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticns"		"c6b89d1790a201c2d284ad1eb5dcf067268333b8"
+		"linuxclienticon"		"c6b89d1790a201c2d284ad1eb5dcf067268333b8"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"0ecdfa5c2b492a6d8e2c530dd7b3fd9d0f134774"
+		"clienticon"		"c6b89d1790a201c2d284ad1eb5dcf067268333b8"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.748815165876785"
+				"height_pct"		"61.05789505391887"
+			}
+		}
+		"store_asset_mtime"		"1668084620"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Charziot"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JoyArk Studios"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1652310660"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1667440"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5395"
+			"1"		"5652"
+			"2"		"4026"
+			"3"		"1625"
+			"4"		"4191"
+			"5"		"1697"
+			"6"		"1732"
+			"7"		"7481"
+			"8"		"7250"
+			"9"		"19"
+			"10"		"4305"
+			"11"		"1684"
+			"12"		"597"
+			"13"		"4166"
+			"14"		"21"
+			"15"		"492"
+			"16"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Charziot"
+		"publisher"		"JoyArk Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"WishWorld"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WishWorld\\WindowsNoEditor\\WishWorld.exe"
+				"arguments"		"WishWorld.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1667441"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6541354974587899497"
+					"size"		"2442730856"
+					"download"		"150100704"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9905214"
+				"timeupdated"		"1668038410"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"sync_while_suspended"		"1"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
