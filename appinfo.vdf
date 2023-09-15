@@ -1,0 +1,166 @@
+"appinfo"
+{
+	"appid"		"228240"
+	"common"
+	{
+		"name"		"You Need A Budget 4 Trial (YNAB)"
+		"type"		"Demo"
+		"parent"		"227320"
+		"logo"		"c256948d341a60db6ab711cf9226f7eb744d1e95"
+		"logo_small"		"c256948d341a60db6ab711cf9226f7eb744d1e95_thumb"
+		"clienticon"		"7e4d999323d47788f5e8177ed48d5eab78b3df47"
+		"clienttga"		"0c16aa52e9c95e5edde4a3b1d9cd1072e6257162"
+		"icon"		"2eac40e468ebe5cace383ba7f23136c5e92f7a35"
+		"clienticns"		"e649300dc3d21b473b5e2fa62f3359db1f7be9da"
+		"oslist"		"windows,macos"
+		"metacritic_name"		"You Need A Budget 4 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1355940379"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"YouNeedABudget.com"
+			}
+		}
+		"primary_genre"		"50"
+		"genres"
+		{
+			"0"		"50"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+			}
+		}
+		"steam_release_date"		"1355940300"
+		"community_visible_stats"		"1"
+		"gameid"		"228240"
+		"exfgls"		"1"
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"demoofappid"		"227320"
+		"developer"		"YouNeedABudget.com"
+		"disableoverlay"		"1"
+		"disableoverlay_macos"		"1"
+		"gamedir"		"You Need A Budget 4 Demo"
+		"homepage"		"http://www.youneedabudget.com"
+		"icon"		""
+		"installscript"		"SteamBuildInstallScript.vdf"
+		"installscriptosx"		"YNAB 4.app/installscript_osx.vdf"
+		"installscript_macos"		"YNAB 4.app/installscript_osx.vdf"
+		"noservers"		"0"
+		"onquitdemoshellexecute"		"steam://store/227320"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"validoslist"		"windows,macos"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"YNAB 4 (Demo)"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"YNAB 4.exe"
+				"description"		"Launch YNAB 4"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"YNAB 4.app"
+				"description"		"Launch YNAB 4"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"227321"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5404230832647706104"
+					"size"		"39508503"
+					"download"		"24838784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DFEB19EFC52B3DB6DAF55DA1B1B33ECE"
+					"size"		"271999A9921EE1D560E27071F466ED8F"
+					"download"		"6EE41B3E3B70F0400EB1AFC44B002C21"
+				}
+			}
+			"depotfromapp"		"227320"
+		}
+		"227322"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8368787807501593540"
+					"size"		"51345376"
+					"download"		"28317712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"747D4505C907551C0CB9104A126CD225"
+					"size"		"64AA931E6B756FAB04205C193DE1C272"
+					"download"		"80F0A893F481587CF379BEB5DC6F4303"
+				}
+			}
+			"depotfromapp"		"227320"
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"beta"
+			{
+				"buildid"		"1162965"
+				"pwdrequired"		"1"
+				"timeupdated"		"1465328027"
+			}
+		}
+	}
+}
