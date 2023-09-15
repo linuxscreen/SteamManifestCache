@@ -1,0 +1,123 @@
+"appinfo"
+{
+	"appid"		"2196990"
+	"common"
+	{
+		"name"		"WetBread Demo"
+		"type"		"Demo"
+		"parent"		"2157760"
+		"icon"		"d73f79f692a9d981e2659c8058591932260d605f"
+		"clienticon"		"09874d1efe5e82ff100ccd43aef942ea0a9ee749"
+		"clienttga"		"16068ec0ca2fc654c0adb3292971dfa2bedb9fd1"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1666533856"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"biksbit.games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"biksbit.games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666899374"
+		"gameid"		"2196990"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2157760"
+		"developer"		"biksbit.games"
+		"publisher"		"biksbit.games"
+	}
+	"config"
+	{
+		"installdir"		"WetBread Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SucharTheGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2196991"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6151514841832081325"
+					"size"		"6058783945"
+					"download"		"2324517184"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9832166"
+				"timeupdated"		"1667152569"
+			}
+		}
+	}
+}
