@@ -1,0 +1,281 @@
+"appinfo"
+{
+	"appid"		"1216470"
+	"common"
+	{
+		"name"		"Zoria: Age of Shattering Prologue"
+		"type"		"Game"
+		"logo"		"0e7bf552cb44dddc51cddb728095200c75e8387d"
+		"logo_small"		"0e7bf552cb44dddc51cddb728095200c75e8387d_thumb"
+		"icon"		"6d02cc2deed9ddc22bce4273142491cff8dadc17"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"e7254b62c711a67a90f015aa1918b9ae82c68e38"
+		"clienttga"		"8660da8795b1765091f0bb3c30b717a793dd4aea"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.64199262606766"
+				"height_pct"		"66.42395641770683"
+			}
+		}
+		"store_asset_mtime"		"1679581357"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tiny Trinket Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anshar Publishing"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1588266118"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1216470"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21"
+			"2"		"492"
+			"3"		"113"
+			"4"		"9"
+			"5"		"19"
+			"6"		"4325"
+			"7"		"1677"
+			"8"		"1684"
+			"9"		"1720"
+			"10"		"1742"
+			"11"		"10695"
+			"12"		"21725"
+			"13"		"4182"
+			"14"		"4474"
+			"15"		"3834"
+			"16"		"4166"
+			"17"		"1702"
+			"18"		"3916"
+			"19"		"4604"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Tiny Trinket Games"
+		"publisher"		"Anshar Publishing"
+		"homepage"		"https://www.zoriagame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Zoria Age of Shattering Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Zoria AoS Prologue.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Zoria AoS Prologue"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"1216471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3285271392122624032"
+					"size"		"4666084668"
+					"download"		"1931667584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"3D2C0CCFC4E8D5C6B189C5914AF7834E"
+					"size"		"110A54D2B0CCECE06D60333DE21E6042"
+					"download"		"C2B521FCD0C72116E9390ABEF5A71E8C"
+				}
+				"beta"
+				{
+					"gid"		"1E58A2A91196B747B48FD0B3C34D5E8A"
+					"size"		"78E87CBFC4F6D51B814B30AF18914152"
+					"download"		"977412ED2E5F3835571E67902E9AB663"
+				}
+			}
+		}
+		"1216472"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8384254529483246935"
+					"size"		"4719415258"
+					"download"		"1957715760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"96868A01E07A1100C601FD7B8CD0EA12"
+					"size"		"EB09D3D9181145B109B66C3FEC8E15E5"
+					"download"		"EFA8C57B147ED388352A19C4E26F8615"
+				}
+				"beta"
+				{
+					"gid"		"FA189B2652099D97E9E2DA99DED7C730"
+					"size"		"62D042CC1EA7869C8BFBA8C7FCE9C7BC"
+					"download"		"CD81F9AE9E5C27878BE5FC241773CE7F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5219078"
+				"timeupdated"		"1593455143"
+			}
+			"alpha"
+			{
+				"buildid"		"5219078"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593172449"
+			}
+			"beta"
+			{
+				"buildid"		"5417932"
+				"pwdrequired"		"1"
+				"timeupdated"		"1597540349"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Tiny Trinket Games/Zoria_ Age of Shattering/Saves/"
+				"pattern"		"*.db"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Tiny Trinket Games/Zoria_ Age of Shattering/Saves/"
+						"replace"		"config/unity3d/Tiny Trinket Games/Zoria_ Age of Shattering/Saves/"
+					}
+				}
+			}
+		}
+	}
+}
