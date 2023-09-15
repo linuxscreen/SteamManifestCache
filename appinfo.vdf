@@ -1,0 +1,436 @@
+"appinfo"
+{
+	"appid"		"311310"
+	"common"
+	{
+		"name"		"Naval Action"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"clienticon"		"76ed28d7a540ade4df4adf2596ba0deacc1eaa17"
+		"clienttga"		"029fd4f80d56612a6a4e31289c75e0d3b4300b1d"
+		"icon"		"26ff6758f68a857b687e9e73fa9825d1401a5985"
+		"logo"		"05f67e0d0b75dfd7eeaa3e7ed5fd9e8539120b7f"
+		"logo_small"		"05f67e0d0b75dfd7eeaa3e7ed5fd9e8539120b7f_thumb"
+		"osarch"		"64"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644537600"
+			"tested_build_id"		"8055635"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Naval Action"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.93465577596266"
+				"height_pct"		"68.61790548563286"
+			}
+		}
+		"store_asset_mtime"		"1597994326"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Game-Labs"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Game-Labs"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+			"5"		"3"
+			"6"		"28"
+			"7"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1560409200"
+		"steam_release_date"		"1560429660"
+		"community_hub_visible"		"1"
+		"gameid"		"311310"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4994"
+			"1"		"13577"
+			"2"		"1681"
+			"3"		"6910"
+			"4"		"1695"
+			"5"		"1754"
+			"6"		"1775"
+			"7"		"122"
+			"8"		"3810"
+			"9"		"128"
+			"10"		"4168"
+			"11"		"3987"
+			"12"		"1678"
+			"13"		"4175"
+			"14"		"1702"
+			"15"		"599"
+			"16"		"4695"
+			"17"		"1662"
+			"18"		"3993"
+			"19"		"4202"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Game-Labs"
+		"publisher"		"Game-Labs"
+		"homepage"		"http://www.navalaction.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"785910,814110,867240,885270,904370,1045170,1045190,1054070,1054071,1143890,1214480,1307430,1307440,1412530,1588640,1588830,1869320,2322810,2402190"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Naval Action"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Client.exe"
+				"arguments"		"dev -CustomArgs:logintype=steam -logFile logs\\unity_log.txt"
+				"description"		"Launch Game"
+			}
+			"3"
+			{
+				"executable"		"NavalActionCrashSender.exe"
+				"description"		"Report Crash"
+				"type"		"none"
+			}
+			"4"
+			{
+				"executable"		"NavalActionCrashSender.exe"
+				"arguments"		"-connectivityTest"
+				"description"		"Report Connection Test"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"311311"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8738493560520299668"
+					"size"		"4522090870"
+					"download"		"1746107952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"clean_openworld"
+				{
+					"gid"		"CA019C27037985C250DFBA86D9BD7751"
+					"size"		"96BCE139A0B7B4F1AD3003F4D84C6214"
+					"download"		"9463ED63467FA104FDAD5716180E904B"
+				}
+				"clean_openworld_prod_staging"
+				{
+					"gid"		"A592D4A86EABB80D5F0C03DF092B4A0D"
+					"size"		"0CD5B9DCCE535F3DFFE311031D2AEF95"
+					"download"		"E5FEF2A1DE1D016C193FF48C068E17E5"
+				}
+				"clean_openworld_prod_staging_debug"
+				{
+					"gid"		"29356FDF56CB9808772F4EE82AC68E88"
+					"size"		"BB12B3B4839A130A67EA6E5ACA21D091"
+					"download"		"357E7BA47E37D766B89614141381CFED"
+				}
+				"clean_openworld_qa"
+				{
+					"gid"		"66BCAFB1752C5E67DCD32C65BF28AB16"
+					"size"		"52DB436275AE617F23335C01745780EB"
+					"download"		"E64563CC7F0F97487E50850AF8897AF7"
+				}
+				"clean_openworld_qa_debug"
+				{
+					"gid"		"A7D93F341B5A43A069FF8D7EE0BF21E6"
+					"size"		"FF7077F22A908BC20DAB303A9B5806E4"
+					"download"		"01A028829597E43A6E56E5D93261EABE"
+				}
+				"dirty"
+				{
+					"gid"		"677590BDBDF80F91D3B703C4F9F88305"
+					"size"		"DD4F1CED215652767C41539E962B63E7"
+					"download"		"E6AD23303C7B8B1E9BA9DCE8FA2C625F"
+				}
+				"dirty_debug"
+				{
+					"gid"		"70C333B8D804C7D8BB283C97B36911BD"
+					"size"		"7BC6767DB41C169ED82DE3B8E99BC66A"
+					"download"		"8D21334DB44F61D3DF6E92E02A769CEE"
+				}
+				"dirty_massive"
+				{
+					"gid"		"3EB1B7423F30C5F77910EC8ECFBC08A0"
+					"size"		"8CAC50649F7C93AACD3A1EC88E900DA9"
+					"download"		"FBD620AA5FC8C5FE49EBADE6A181113A"
+				}
+				"dirty_prototype"
+				{
+					"gid"		"9168546C38A71483A92E0DFAA7490ED1"
+					"size"		"7463EBC145C3228450BA806A2E900CF9"
+					"download"		"C4EAA173388D5A27D13103D1208E05E8"
+				}
+				"history"
+				{
+					"gid"		"574734603D6499896167F532FAEAD70E"
+					"size"		"A67F2B541B99216DAAD3673AF9A3E6A2"
+					"download"		"76FF657C19A0B12760FADCFBD2F4B11E"
+				}
+				"test_branch"
+				{
+					"gid"		"55EDD7730E99A1D695B23CF85709FC84"
+					"size"		"EB0B53412B82F18F478223C47D64A9CA"
+					"download"		"45D7C8C756949502BE7EEC01096EB0EB"
+				}
+				"testbed"
+				{
+					"gid"		"04E8572896A5A39017CCD83C23A532DB"
+					"size"		"B14BB1DDFB9F2FC49ED91D1D68E2B03A"
+					"download"		"38BE82A72827C7A8A231B68A3065F3B7"
+				}
+				"testbed_debug"
+				{
+					"gid"		"5CE8A9A70333ADE3A62F2154C6D58075"
+					"size"		"A07757CA304194495FF3B3654CD510AC"
+					"download"		"62A1FB547DB5E4BC1E4B30E60A1498E8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12131346"
+				"timeupdated"		"1694083362"
+			}
+			"clean_openworld"
+			{
+				"buildid"		"12131346"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694083309"
+			}
+			"clean_openworld_prod_staging"
+			{
+				"buildid"		"12131346"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694082979"
+			}
+			"clean_openworld_prod_staging_debug"
+			{
+				"buildid"		"2115460"
+				"pwdrequired"		"1"
+				"timeupdated"		"1505311250"
+			}
+			"clean_openworld_qa"
+			{
+				"buildid"		"11242698"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684233406"
+			}
+			"clean_openworld_qa_debug"
+			{
+				"buildid"		"3540839"
+				"pwdrequired"		"1"
+				"timeupdated"		"1549558003"
+			}
+			"dirty"
+			{
+				"buildid"		"12187846"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694690164"
+			}
+			"dirty_debug"
+			{
+				"buildid"		"1225372"
+				"pwdrequired"		"1"
+				"timeupdated"		"1468402259"
+			}
+			"dirty_massive"
+			{
+				"buildid"		"857655"
+				"pwdrequired"		"1"
+			}
+			"dirty_prototype"
+			{
+				"buildid"		"789784"
+				"pwdrequired"		"1"
+			}
+			"history"
+			{
+				"buildid"		"11622357"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688990275"
+			}
+			"test_branch"
+			{
+				"buildid"		"1607889"
+				"pwdrequired"		"1"
+				"timeupdated"		"1486114539"
+			}
+			"testbed"
+			{
+				"buildid"		"5693371"
+				"pwdrequired"		"1"
+				"timeupdated"		"1602857440"
+			}
+			"testbed_debug"
+			{
+				"buildid"		"3494603"
+				"pwdrequired"		"1"
+				"timeupdated"		"1548254602"
+			}
+		}
+	}
+}
