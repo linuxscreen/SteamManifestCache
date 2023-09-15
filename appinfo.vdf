@@ -1,0 +1,98 @@
+"appinfo"
+{
+	"appid"		"2009240"
+	"common"
+	{
+		"name"		"生死狙击2 Test Server"
+		"type"		"Beta"
+		"parent"		"1969870"
+		"releasestate"		"released"
+		"icon"		"6eeeb4c634cb2e04bc8d6be04b69f8f8d70e5434"
+		"clienttga"		"77632640bb38d5c92e7a51cd2c5cbbbfe0dda5d7"
+		"clienticon"		"6cebdc013faad1f51c1d31b0c90e4b021b30ab86"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-xc"
+			"library_hero"		"en,zh-cn,zh-xc"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"12.466917905027685"
+				"height_pct"		"40.625000000000014"
+			}
+		}
+		"store_asset_mtime"		"1662113803"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1682329971"
+		"community_hub_visible"		"1"
+		"gameid"		"2009240"
+		"exfgls"		"1"
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"betaforappid"		"1969870"
+		"playtest_type"		"1"
+	}
+	"config"
+	{
+		"installdir"		"生死狙击2 Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"client\\ACE-Launcher64.exe"
+				"arguments"		"--ChannelId 10 --SubChannelId 40960 --DisableGc -force-d3d11-no-singlethreaded -affinity --updateurl https%3A%2F%2Fmicro-livetest.ssjj2.com%2FSSJJ2%2Fboot_config%2Fsteam_livetest"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"Playtest"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2009241"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2483702769690434007"
+					"size"		"55944168408"
+					"download"		"49031418912"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12174190"
+				"timeupdated"		"1694589690"
+			}
+		}
+		"baselanguages"		"english,schinese"
+	}
+}
