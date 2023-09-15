@@ -1,0 +1,298 @@
+"appinfo"
+{
+	"appid"		"405780"
+	"common"
+	{
+		"name"		"Alpha Polaris : A Horror Adventure Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"clienticon"		"a593d47e1e709e0b69b711263d0eda2c45b07a1c"
+		"clienttga"		"bf1b816e728e17b267cd41fa65861d5514297f84"
+		"icon"		"34a715b7472d17f1499750d5241676b846c90b6b"
+		"logo"		"ff55b7ab6a0be6e0a0e336d0230f037614fc5866"
+		"logo_small"		"ff55b7ab6a0be6e0a0e336d0230f037614fc5866_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658275200"
+			"tested_build_id"		"819805"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Alpha Polaris : A Horror Adventure Game"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1445518042"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Turmoil Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Turmoil Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1445489520"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"405780"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"1698"
+			"3"		"1667"
+			"4"		"1721"
+			"5"		"4166"
+			"6"		"7432"
+			"7"		"113"
+			"8"		"3859"
+			"9"		"4182"
+			"10"		"1697"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Turmoil Games"
+		"publisher"		"Turmoil Games"
+		"homepage"		"http://www.turmoilgames.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Alpha Polaris"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AlphaPolaris.exe"
+				"description"		"Play Alpha Polaris (1280x800)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"AlphaPolaris.exe"
+				"workingdir"		"1280x768"
+				"description"		"Play Alpha Polaris (1280x768)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"405781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"131643505400606065"
+					"size"		"1508835446"
+					"download"		"697767696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"6BB3783F5A3A3B167D2D2268D0E5AEC5"
+					"size"		"4D96C706022DD388101354622348D437"
+					"download"		"BCEB87C0525A408F2C58798E034EFC61"
+				}
+			}
+		}
+		"405782"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"983966391208607114"
+					"size"		"38503932"
+					"download"		"20158864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4AB57F46C88414E4291432CD9F8F7717"
+					"size"		"817944E98E9A984560732816C346C2AD"
+					"download"		"78965EC41393E905CA64BE285AFA4B91"
+				}
+			}
+		}
+		"405783"
+		{
+			"config"
+			{
+				"language"		"polish"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8174635134514118284"
+					"size"		"30012078"
+					"download"		"15696880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"00A4636BA840A236FA463DFD77D7F706"
+					"size"		"C31B38DD88A953459318A31978C2DE8B"
+					"download"		"FE811A89E5D06B71CB5F2A95FC67B3FE"
+				}
+			}
+		}
+		"405784"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4556062117301191326"
+					"size"		"98790226"
+					"download"		"50201456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"52578758BD247B1C4479C6A64C060151"
+					"size"		"A76366D796856336DCC16EB1FAC43F66"
+					"download"		"D930E9B8A44F9C510F4109DE237367F4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"819805"
+			}
+			"beta"
+			{
+				"buildid"		"809968"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
