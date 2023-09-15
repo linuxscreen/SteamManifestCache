@@ -1,0 +1,115 @@
+"appinfo"
+{
+	"appid"		"354060"
+	"common"
+	{
+		"name"		"RaceRoom Dedicated Server"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"clienticon"		"cbe7d4b5be469fff787e1911e4fc13292717adc8"
+		"clienttga"		"e2588aee5fa6a9b048dc3cb66e9a3cadea80482a"
+		"icon"		"214a3359f9e1a45697fcb06e1680e8211ea53bba"
+		"logo"		"48c507e4c786f41b8c2d1cbef29ec5aa9703766d"
+		"logo_small"		"48c507e4c786f41b8c2d1cbef29ec5aa9703766d_thumb"
+		"associations"
+		{
+		}
+		"gameid"		"354060"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"RaceRoom Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RRRE_dedicated.exe"
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"354061"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2547854374360420260"
+					"size"		"78892544"
+					"download"		"73352656"
+				}
+				"preview"
+				{
+					"gid"		"4950487500410289166"
+					"size"		"78927872"
+					"download"		"73370256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"livepreview"
+				{
+					"gid"		"3B548A99DD9A3D6754A1E0C76D5D60A8"
+					"size"		"2953EB27934B5673E31847ACAAB24668"
+					"download"		"49A8A3A190668470613DCBE5F11972E3"
+				}
+				"p.i."
+				{
+					"gid"		"8FF7DDFAE2561461610139527C27E576"
+					"size"		"E5534F769D8FDC250C268349484713F4"
+					"download"		"3F9E324110510D178ACEA97BE2BBD079"
+				}
+				"staging"
+				{
+					"gid"		"9BDE43FA428435278D60436BCFCB6451"
+					"size"		"6CCAF906093DDA02CEE3CFAB7671A2B1"
+					"download"		"7A219B6B9739BF9C8B31E37282BC799A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11745466"
+				"timeupdated"		"1689853237"
+			}
+			"livepreview"
+			{
+				"buildid"		"12010005"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692771567"
+			}
+			"p.i."
+			{
+				"buildid"		"11684888"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689170977"
+			}
+			"preview"
+			{
+				"buildid"		"11513827"
+				"description"		"early look"
+				"timeupdated"		"1687266024"
+			}
+			"staging"
+			{
+				"buildid"		"12010005"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692771414"
+			}
+		}
+	}
+}
