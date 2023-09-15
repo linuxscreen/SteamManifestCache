@@ -1,0 +1,115 @@
+"appinfo"
+{
+	"appid"		"2194150"
+	"common"
+	{
+		"name"		"Horde Hunters Demo"
+		"type"		"Demo"
+		"parent"		"2178560"
+		"releasestate"		"released"
+		"icon"		"7105d97e4fc4e13381dc1b6817d3ca8f15eb3ed6"
+		"clienticon"		"d09f9341171e1a7c12e4dacb9c0d8639dfb40740"
+		"clienttga"		"2bbcca586679ce640b3a3e83b1685c22a3a3250e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1666253076"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Antti Vaihia"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Antti Vaihia"
+			}
+		}
+		"steam_release_date"		"1666281000"
+		"community_visible_stats"		"1"
+		"gameid"		"2194150"
+	}
+	"extended"
+	{
+		"demoofappid"		"2178560"
+		"developer"		"Antti Vaihia"
+		"publisher"		"Antti Vaihia"
+	}
+	"config"
+	{
+		"installdir"		"Horde Hunters Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Horde_Hunters.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2194151"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7013625645746533927"
+					"size"		"40068792"
+					"download"		"22357376"
+				}
+				"betatesting"
+				{
+					"gid"		"6088488060858863102"
+					"size"		"32339899"
+					"download"		"19965200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"832800263D13D07680E2037589F97EB4"
+					"size"		"C4508A9A3D1B24292711650E6C70503F"
+					"download"		"011E7A979E6ACFCBE0673D1054B1D45E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12198242"
+				"timeupdated"		"1694776601"
+			}
+			"betatesting"
+			{
+				"buildid"		"10647556"
+				"description"		"No beta atm"
+				"timeupdated"		"1677514367"
+			}
+			"testing"
+			{
+				"buildid"		"10498575"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675790648"
+			}
+		}
+	}
+}
