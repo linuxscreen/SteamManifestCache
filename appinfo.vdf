@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"1781590"
+	"common"
+	{
+		"name"		"Valley Knights"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"8ed1255bc575eb54713360a75618f528b8b0c585"
+		"logo_small"		"8ed1255bc575eb54713360a75618f528b8b0c585_thumb"
+		"icon"		"8f334e31c7162182fb1fe900b9a5e7af294041a7"
+		"clienticon"		"da11f9a7747436603e0c5e4b24c75af67f0be360"
+		"clienttga"		"d9c10465b49854695def6659e20a25d8a3d29c86"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1781590_eula_0"
+				"name"		"Valley Knights EULA"
+				"url"		"https://store.steampowered.com//eula/1781590_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.956120092378754"
+				"height_pct"		"46.33915918752955"
+			}
+		}
+		"store_asset_mtime"		"1636167054"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Long Road Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Long Road Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1651879800"
+		"community_hub_visible"		"1"
+		"gameid"		"1781590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21725"
+			"1"		"14139"
+			"2"		"6426"
+			"3"		"122"
+			"4"		"1759"
+			"5"		"9"
+			"6"		"1716"
+			"7"		"4191"
+			"8"		"4791"
+			"9"		"4182"
+			"10"		"3835"
+			"11"		"4342"
+			"12"		"1667"
+			"13"		"1684"
+			"14"		"7743"
+			"15"		"4166"
+			"16"		"1702"
+			"17"		"4155"
+			"18"		"6276"
+			"19"		"198631"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Long Road Games"
+		"publisher"		"Long Road Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Valley Knights"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Valley Knights.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"VK - x64"
+				}
+				"description"		"VK - x64"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1781591"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8365060480332768049"
+					"size"		"4782894895"
+					"download"		"1418056576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"960E6B5817C57B3CB2052A47EB12A267"
+					"size"		"E5339EBAE96883C6E3E8A4EE568090D5"
+					"download"		"B2366A3B72D0F1F41FBF6C694F77406B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7923820"
+				"timeupdated"		"1640131505"
+			}
+			"beta"
+			{
+				"buildid"		"7934129"
+				"pwdrequired"		"1"
+				"timeupdated"		"1640284598"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2097152"
+		"maxnumfiles"		"3"
+	}
+}
