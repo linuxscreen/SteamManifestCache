@@ -1,0 +1,330 @@
+"appinfo"
+{
+	"appid"		"1008580"
+	"common"
+	{
+		"name"		"Overstep"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"fecb2e25322f586766d9920663eb6005d8e5c22d"
+		"logo_small"		"fecb2e25322f586766d9920663eb6005d8e5c22d_thumb"
+		"icon"		"e85a27b5109715481d63bf913a9a3c715ea696de"
+		"clienttga"		"cfa9282f19168e5c1f0c2cd829cd0d6e7ebab7bb"
+		"clienticon"		"6f3d0dba5d2b0625e2a23da6d3d8d1ba2a1aa831"
+		"osextended"		""
+		"metacritic_name"		"Overstep"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"28.39187721649492"
+				"height_pct"		"56.041679126049075"
+			}
+		}
+		"store_asset_mtime"		"1611834980"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gamecan"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gamecan"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1574445439"
+		"community_hub_visible"		"1"
+		"gameid"		"1008580"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"493"
+			"3"		"4036"
+			"4"		"492"
+			"5"		"3859"
+			"6"		"3814"
+			"7"		"5547"
+			"8"		"1774"
+			"9"		"3878"
+			"10"		"701"
+			"11"		"5711"
+			"12"		"4191"
+			"13"		"1685"
+			"14"		"3843"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=1008580"
+		"developer"		"Gamecan"
+		"publisher"		"Gamecan"
+		"homepage"		"https://overstepgame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Overstep"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Contenders.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contenders.exe"
+				"type"		"default"
+				"config"
+				{
+					"betakey"		"development"
+				}
+			}
+			"2"
+			{
+				"executable"		"Contenders.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"milestones"
+				}
+			}
+			"3"
+			{
+				"executable"		"Contenders.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"testing"
+				}
+			}
+			"4"
+			{
+				"executable"		"Contenders.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"testing-b"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1008581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7024086875308817354"
+					"size"		"5697654771"
+					"download"		"4833157936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"A628C5011BB80BADD887BC3E99C4BA4F"
+					"size"		"CCBFC8571FEA2D5943B79152B3442AA1"
+					"download"		"085AEF2A99D5432A7250659D7FA045C3"
+				}
+				"privatetest"
+				{
+					"gid"		"33B46CBA97CB6D6A4B1A1AA1A705DAEB"
+					"size"		"C28AF469FC3BEDC7245E824050D1EB92"
+					"download"		"DEEAC1D98D577088F1D57049916B8A96"
+				}
+				"releasecandidate"
+				{
+					"gid"		"1BBFECDFBBD76E7497378D0C1EAE7995"
+					"size"		"9F5AED82C63042E246B978DCB56A770D"
+					"download"		"C990683AD1F838D46D04110C28718813"
+				}
+				"testing"
+				{
+					"gid"		"C86529B9054F4DC07216208316C0DC40"
+					"size"		"33798723BAECA7D7B9D9EF768E8C94D7"
+					"download"		"B2EC7D6A62EEA35EFA12E5C827814A37"
+				}
+				"testing-b"
+				{
+					"gid"		"C02FF5AA773DB2D27BD685E864ECA3E4"
+					"size"		"9A182AFB7B0547D33E553B4341FB7705"
+					"download"		"A058540BBFAEF1B9976356903B5DE8CF"
+				}
+				"trunk"
+				{
+					"gid"		"7ED62A8E859B6286CFA2CA958C927445"
+					"size"		"C7768DDDFC5B3D2E62139AADACDCF536"
+					"download"		"5ED7FB63D65D5662EC44481DF8BFBBA0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5900436"
+				"timeupdated"		"1606826308"
+			}
+			"development"
+			{
+				"buildid"		"11396691"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685975689"
+			}
+			"privatetest"
+			{
+				"buildid"		"11348828"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685442917"
+			}
+			"releasecandidate"
+			{
+				"buildid"		"5900436"
+				"pwdrequired"		"1"
+				"timeupdated"		"1606826288"
+			}
+			"testing"
+			{
+				"buildid"		"11395880"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685969586"
+			}
+			"testing-b"
+			{
+				"buildid"		"10610714"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677070234"
+			}
+			"trunk"
+			{
+				"buildid"		"7835349"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638798682"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#statuswithoutscore"		"{#Status_%gamestatus%}"
+					"#statuswithscore"		"{#Status_%gamestatus%}: %score%"
+					"#status_atmainmenu"		"At the main menu"
+					"#status_waitingformatch"		"Waiting for match"
+					"#status_winning"		"Winning"
+					"#status_losing"		"Losing"
+					"#status_tied"		"Tied"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#status_atmainmenu"		"Au menu principal"
+					"#status_waitingformatch"		"En attente de match"
+					"#status_winning"		"Gagnant"
+					"#status_losing"		"Perdant"
+					"#status_tied"		"Egalité"
+				}
+			}
+		}
+	}
+}
