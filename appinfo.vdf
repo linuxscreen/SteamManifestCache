@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"740230"
+	"common"
+	{
+		"name"		"Just Ski"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"7a38c4bc42c92e4432a7fb64c911376719e0a741"
+		"clienttga"		"d9581e5cf87ff645967d8361cc020e10612a722a"
+		"icon"		"0ceffc3ef165f2cff60f22fa2b2120f22f7b8148"
+		"logo"		"23ab49660844cc1bf5e6e14fb18bec8a23399836"
+		"logo_small"		"23ab49660844cc1bf5e6e14fb18bec8a23399836_thumb"
+		"releasestate"		"released"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1651276800"
+			"tested_build_id"		"7790600"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Just Ski!"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"92.71458033703291"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1605994872"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jeff Weber"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jeff Weber"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"28"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1517990400"
+		"steam_release_date"		"1518019740"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"740230"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4026"
+			"1"		"4136"
+			"2"		"1721"
+			"3"		"1625"
+			"4"		"3968"
+			"5"		"3877"
+			"6"		"15277"
+			"7"		"4182"
+			"8"		"7309"
+			"9"		"28444"
+			"10"		"5923"
+			"11"		"3798"
+			"12"		"3871"
+			"13"		"492"
+			"14"		"19"
+			"15"		"21"
+			"16"		"597"
+			"17"		"4305"
+			"18"		"701"
+			"19"		"599"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Jeff Weber"
+		"publisher"		"Jeff Weber"
+		"homepage"		"http://www.farseergames.com/justski/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Just Ski"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"JustSki.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"JustSki.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"740231"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7804171926324578472"
+					"size"		"109907928"
+					"download"		"23475440"
+				}
+				"justskiplusbeta"
+				{
+					"gid"		"6122683080743573449"
+					"size"		"109027651"
+					"download"		"22807328"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7790600"
+				"timeupdated"		"1638107537"
+			}
+			"justskiplusbeta"
+			{
+				"buildid"		"5858586"
+				"description"		"Just Ski+ Beta"
+				"timeupdated"		"1605869155"
+			}
+		}
+	}
+}
