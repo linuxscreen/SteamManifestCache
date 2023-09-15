@@ -1,0 +1,138 @@
+"appinfo"
+{
+	"appid"		"2203400"
+	"common"
+	{
+		"name"		"BOLO Legends - An Epic Adventure Demo"
+		"type"		"Demo"
+		"parent"		"2203370"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"955159ac4e1174f60e40aa3fd7851cf9c008f165"
+		"clienttga"		"c236f00c5e931e33e95312913a0dc6ffe9e0ca6d"
+		"clienticon"		"3d62152fdb037bb919d98fa0fe4a8db7ba39e911"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1667395769"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Play Cube Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Play Cube Interactive"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1667621874"
+		"gameid"		"2203400"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2203370"
+		"deckresolutionoverride"		"Default"
+		"developer"		"Play Cube Interactive"
+		"publisher"		"Play Cube Interactive"
+	}
+	"config"
+	{
+		"installdir"		"BOLO Legends - An Epic Adventure Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BoloHaloween.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2203401"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4485153319923652612"
+					"size"		"9598255289"
+					"download"		"2037816560"
+				}
+				"demo"
+				{
+					"gid"		"4485153319923652612"
+					"size"		"9598255289"
+					"download"		"2037816560"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9821864"
+				"timeupdated"		"1667487234"
+			}
+			"demo"
+			{
+				"buildid"		"9821864"
+				"description"		"demotest"
+				"timeupdated"		"1667834855"
+			}
+		}
+	}
+}
