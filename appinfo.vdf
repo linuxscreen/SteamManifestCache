@@ -1,0 +1,115 @@
+"appinfo"
+{
+	"appid"		"2205110"
+	"common"
+	{
+		"name"		"七星探偵倶楽部-黄金虫たちの帰巣- Demo"
+		"type"		"Demo"
+		"parent"		"2205100"
+		"icon"		"1fea9d0911b902c9c19fdcb317c562d6600eb7d4"
+		"clienttga"		"9821feb44a979cc595a17bc8775e678eb774d0cf"
+		"clienticon"		"8293fe1e66eecf68bb16ff9d6fdb6705f55e7f29"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"97.34141925815806"
+				"height_pct"		"87.22225854117434"
+			}
+		}
+		"store_asset_mtime"		"1667708587"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"POTGAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"POTGAMES"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1667912891"
+		"gameid"		"2205110"
+	}
+	"extended"
+	{
+		"demoofappid"		"2205100"
+		"developer"		"POTGAMES"
+		"publisher"		"POTGAMES"
+		"homepage"		"https://game.nicovideo.jp/atsumaru/games/gm26706"
+		"gamemanualurl"		"https://store.steampowered.com/manual/2205110/"
+	}
+	"config"
+	{
+		"installdir"		"[demo]nanahoshi_tantei_club-Homing of the Golden Beetle-"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"[demo]nanahoshi_tantei_club-Homing of the Golden Beetle-\\game\\game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2205111"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2236825931837179447"
+					"size"		"332421854"
+					"download"		"191354224"
+				}
+			}
+		}
+		"baselanguages"		"japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9859065"
+				"timeupdated"		"1667452719"
+			}
+		}
+	}
+}
