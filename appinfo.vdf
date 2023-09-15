@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"2022270"
+	"common"
+	{
+		"name"		"Bakso Simulator"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"35d4af4287a82c5d7169372cc2c266ab68d64730"
+		"clienttga"		"fe0cfdd69f377347fdee9e739083d23533d66ae4"
+		"clienticon"		"95623932b0948e2f96189220ff5ffa175b76e7a2"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1691020800"
+			"tested_build_id"		"11313386"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.23720122768593"
+				"height_pct"		"79.16880032933712"
+			}
+		}
+		"store_asset_mtime"		"1688636698"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Akhir Pekan Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Akhir Pekan Studio"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1665219257"
+		"community_hub_visible"		"1"
+		"gameid"		"2022270"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"3920"
+			"2"		"8945"
+			"3"		"12472"
+			"4"		"7332"
+			"5"		"3839"
+			"6"		"4182"
+			"7"		"3968"
+			"8"		"5350"
+			"9"		"1742"
+			"10"		"1695"
+			"11"		"5716"
+			"12"		"1673"
+			"13"		"3834"
+			"14"		"4191"
+			"15"		"4136"
+			"16"		"1719"
+			"17"		"5608"
+			"18"		"3810"
+			"19"		"1702"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Akhir Pekan Studio"
+		"publisher"		"Akhir Pekan Studio"
+		"isfreeapp"		"1"
+		"listofdlc"		"2066820,2066930,2066931"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Bakso Simulator"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bakso Simulator.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2022271"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6566149499379130734"
+					"size"		"698818494"
+					"download"		"131351312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-testing"
+				{
+					"gid"		"CC9B7442ECBE52C32CB042A904973E95"
+					"size"		"1D745DC1C9C53B2DD680416403451335"
+					"download"		"57FDDF2D152D5D6CCD95F2350660DE31"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11313386"
+				"timeupdated"		"1684996906"
+			}
+			"internal-testing"
+			{
+				"buildid"		"11313386"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684996609"
+			}
+		}
+	}
+}
