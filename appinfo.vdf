@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"1521220"
+	"common"
+	{
+		"name"		"Arid Demo"
+		"type"		"Demo"
+		"parent"		"1463730"
+		"releasestate"		"released"
+		"clienttga"		"71fea977e112cdc6f7ba528d6ec3d041b6d1af1f"
+		"clienticon"		"3a86fc983d713d0e9cc53b6d4479e29429082437"
+		"icon"		"d519b580f84f0a1461df5c6ef164042eeea07f55"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"56.45927333175018"
+			}
+		}
+		"store_asset_mtime"		"1611336996"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sad Viscacha Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Breda University of Applied Sciences"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1612339200"
+		"steam_release_date"		"1612369602"
+		"gameid"		"1521220"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1463730"
+		"developer"		"Sad Viscacha Studio"
+		"publisher"		"Breda University of Applied Sciences"
+		"homepage"		"https://discord.gg/3hNJeNUVHj"
+	}
+	"config"
+	{
+		"installdir"		"Project Arid Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Arid.exe"
+				"type"		"none"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1463731"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4587843125523255991"
+					"size"		"9396448593"
+					"download"		"4365034960"
+				}
+				"legacy"
+				{
+					"gid"		"3272473900094800733"
+					"size"		"8635895117"
+					"download"		"4091956784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"91F7085DCD0854A24807A74F7D0F0E54"
+					"size"		"721615AAA068B06FB2B8562AF090AA2E"
+					"download"		"55E3FB9A5A9E11C5A1121A10CB5528E2"
+				}
+				"debug"
+				{
+					"gid"		"9FAB97D32E569A94092699A0BD0A0147"
+					"size"		"E429E2E8A76C56E9656B0E448044965A"
+					"download"		"6898A8D404EFCC4DF188D55B8001338C"
+				}
+				"shipping"
+				{
+					"gid"		"AAD22799955A449FBC9154D74BC6CFDB"
+					"size"		"80EF8CCE2FAB95BC54D7E661F026E2FE"
+					"download"		"F9E19351B16CDDD6BFDEEB09DBC4BAD4"
+				}
+				"speedrun"
+				{
+					"gid"		"4B57AE2EB44B12336EF98C1A661839B4"
+					"size"		"4EF731E46BEDC267D99C16BD98E6FC85"
+					"download"		"03105B27C5E3A482B72862E123810846"
+				}
+				"stable"
+				{
+					"gid"		"6B4CE47F3E6A93E37BC6EB733FD327F6"
+					"size"		"0608B843AC46296EC2FAD567EF0DD18B"
+					"download"		"4F945C2B82E465378F54EDBE1D3B176C"
+				}
+			}
+			"depotfromapp"		"1463730"
+		}
+		"1521221"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2703400369779618785"
+					"size"		"3646142091"
+					"download"		"1802129920"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6152304"
+				"timeupdated"		"1611842094"
+			}
+			"beta"
+			{
+				"buildid"		"7665317"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649016831"
+			}
+			"debug"
+			{
+				"buildid"		"7665317"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636132934"
+			}
+			"shipping"
+			{
+				"buildid"		"7665899"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636140477"
+			}
+			"speedrun"
+			{
+				"buildid"		"6945312"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624958386"
+			}
+			"stable"
+			{
+				"buildid"		"6893133"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624187029"
+			}
+		}
+	}
+}
