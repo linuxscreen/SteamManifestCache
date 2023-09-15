@@ -1,0 +1,292 @@
+"appinfo"
+{
+	"appid"		"1827720"
+	"common"
+	{
+		"name"		"Sabotris"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"icon"		"f4643244b4a28c9e37d40de7694f95ad98892be2"
+		"clienttga"		"6bde550b9d30757731972c2699326c700c1406ea"
+		"clienticon"		"c06215498db69db0112c010e2a5ca46eaa783bba"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1685664000"
+			"tested_build_id"		"9123511"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"italian"		"capsule_231x87_italian.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"german"		"header_german.jpg"
+			"french"		"header_french.jpg"
+			"italian"		"header_italian.jpg"
+			"spanish"		"header_spanish.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,de,fr,it,es"
+			"library_hero"		"en,de,fr,it,es"
+			"library_logo"		"en,de,fr,it,es"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"69.01983663943992"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1655156398"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Phlarfl"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Phlarfl"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"full_audio"		"true"
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"full_audio"		"true"
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"german"
+			{
+				"full_audio"		"true"
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"full_audio"		"true"
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1657516860"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1827720"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"9"
+			"2"		"1773"
+			"3"		"1664"
+			"4"		"4191"
+			"5"		"4400"
+			"6"		"4305"
+			"7"		"4726"
+			"8"		"4094"
+			"9"		"7743"
+			"10"		"6691"
+			"11"		"1643"
+			"12"		"5350"
+			"13"		"4004"
+			"14"		"7481"
+			"15"		"7569"
+			"16"		"7250"
+			"17"		"1775"
+			"18"		"3859"
+			"19"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Phlarfl"
+		"publisher"		"Phlarfl"
+		"homepage"		"https://sabotris.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Sabotris"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sabotris.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Sabotris.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Sabotris.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1827721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8489157622713835043"
+					"size"		"97060478"
+					"download"		"24338432"
+				}
+			}
+		}
+		"1827722"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2419939794278175652"
+					"size"		"111574121"
+					"download"		"25549936"
+				}
+			}
+		}
+		"1827723"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1326751861716834065"
+					"size"		"125857246"
+					"download"		"33497392"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9123411"
+				"timeupdated"		"1657828804"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
