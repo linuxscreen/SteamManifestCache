@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"1122060"
+	"common"
+	{
+		"name"		"Shadows of Kepler Demo"
+		"type"		"Demo"
+		"parent"		"1121510"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"281efcf9a4cd72befd3a63d331274c36fd2b5b06"
+		"clienticon"		"2535f47f814bd4b052ecc52eae34b0604f556c02"
+		"icon"		"c2cdd5dd6b01d3494f8e5c66d0e987eefd47450e"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Shadows of Kepler Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"60.385064177362885"
+				"height_pct"		"74.69604748683349"
+			}
+		}
+		"store_asset_mtime"		"1566380373"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Infinite Hole"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Infinite Hole"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1571286235"
+		"community_visible_stats"		"1"
+		"gameid"		"1122060"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1121510"
+		"developer"		"Infinite Hole"
+		"publisher"		"Infinite Hole"
+		"homepage"		"http://www.shadowsofkepler.com"
+	}
+	"config"
+	{
+		"installdir"		"Shadows of Kepler Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SOK.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1122061"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7859692152794318357"
+					"size"		"5273516361"
+					"download"		"1978812384"
+				}
+			}
+		}
+		"1122062"
+		{
+			"config"
+			{
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4316778"
+				"timeupdated"		"1571856712"
+			}
+		}
+	}
+}
