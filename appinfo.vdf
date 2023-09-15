@@ -1,0 +1,251 @@
+"appinfo"
+{
+	"appid"		"673560"
+	"common"
+	{
+		"name"		"IOSoccer"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"c9c9891f42cae3d1d635b8eb01eb3763aa19c89b"
+		"logo_small"		"c9c9891f42cae3d1d635b8eb01eb3763aa19c89b_thumb"
+		"icon"		"8fee12060ccdfa615e9c21bcead22b9f10020bdf"
+		"clienttga"		"fd0633c7e8bb701431ace1eb81d511a0850d76f4"
+		"clienticon"		"4a4b58e72ea7e41d5c0479e6d82a57c40ccf8fcb"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1671148800"
+			"tested_build_id"		"10003609"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"IOSoccer"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1572529039"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"IOSoccer Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IOSoccer Team"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"18"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1528473627"
+		"community_hub_visible"		"1"
+		"gameid"		"673560"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"701"
+			"2"		"3859"
+			"3"		"1254546"
+			"4"		"492"
+			"5"		"493"
+			"6"		"128"
+			"7"		"12095"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"gamedir"		"IOSoccer"
+		"serverbrowsername"		"IOSoccer"
+		"developer"		"IOSoccer Team"
+		"publisher"		"IOSoccer Team"
+		"homepage"		"https://iosoccer.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"IOSoccer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"iosoccer.exe"
+				"arguments"		"-game iosoccer"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"673561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5127144797245592393"
+					"size"		"3898823777"
+					"download"		"1158247536"
+				}
+				"beta"
+				{
+					"gid"		"5127144797245592393"
+					"size"		"3898823777"
+					"download"		"1158247536"
+				}
+				"prewinter2021"
+				{
+					"gid"		"9030080252772264362"
+					"size"		"3135676069"
+					"download"		"996192784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"3A5E92EFB071422FBC0ABA871CCF49E8"
+					"size"		"5AD5801E645DD51FD053590BA0C71C88"
+					"download"		"FA9E091BDD76D187EF1AD80D1095BEFA"
+				}
+				"donator"
+				{
+					"gid"		"7A8AF7979FDF41505A60E29607E3E7EC"
+					"size"		"90DB6D377DBD1FFCE4F341892A82A401"
+					"download"		"4377DE5C6F8236741A4790D465B33A93"
+				}
+				"testing"
+				{
+					"gid"		"1210F53046AA7F029AA3EFB2ED767AA8"
+					"size"		"B484FA1B929CF1B9D554B9E0EA5E0A70"
+					"download"		"761237569CEB66545D86DB0B2B93607D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12190432"
+				"timeupdated"		"1694709515"
+			}
+			"beta"
+			{
+				"buildid"		"12190432"
+				"description"		"BETA"
+				"timeupdated"		"1694709463"
+			}
+			"develop"
+			{
+				"buildid"		"9158990"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658346025"
+			}
+			"donator"
+			{
+				"buildid"		"9555769"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663706485"
+			}
+			"prewinter2021"
+			{
+				"buildid"		"7626974"
+				"description"		"The last version before the Winter 2021 update"
+				"timeupdated"		"1639337367"
+			}
+			"testing"
+			{
+				"buildid"		"9158990"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676497724"
+			}
+		}
+	}
+}
