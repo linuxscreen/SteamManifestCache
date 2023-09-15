@@ -1,0 +1,200 @@
+"appinfo"
+{
+	"appid"		"1479480"
+	"common"
+	{
+		"name"		"polity"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"logo"		"f5c1cf33e76ef11155d1140b2c4dc877faffa88f"
+		"logo_small"		"f5c1cf33e76ef11155d1140b2c4dc877faffa88f_thumb"
+		"clienticon"		"148ca9d089f15f6240a0f0763f3a30353ec788e9"
+		"clienttga"		"8370be5bd3b4701c0d2894d09e70d1f7a77a644a"
+		"icon"		"9e797c49401f0bc3c9dd39e81a93b78ec765706a"
+		"clienticns"		"cc3576f28fa74de922719de8ae65a8bfd1baf750"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1479480_eula_0"
+				"name"		"polity EULA"
+				"url"		"https://store.steampowered.com//eula/1479480_eula_0"
+				"version"		"1"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"20.78830475820631"
+				"height_pct"		"56.347108322998864"
+			}
+		}
+		"store_asset_mtime"		"1689339958"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jib Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jib Games"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1636096020"
+		"community_hub_visible"		"1"
+		"gameid"		"1479480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4328"
+			"1"		"8945"
+			"2"		"87918"
+			"3"		"122"
+			"4"		"3843"
+			"5"		"3859"
+			"6"		"12472"
+			"7"		"22602"
+			"8"		"1643"
+			"9"		"15172"
+			"10"		"4747"
+			"11"		"3834"
+			"12"		"599"
+			"13"		"1702"
+			"14"		"6276"
+			"15"		"1654"
+			"16"		"4305"
+			"17"		"5350"
+			"18"		"5851"
+			"19"		"4791"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"Jib Games"
+		"publisher"		"Jib Games"
+		"homepage"		"https://polityonline.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1606160,1606161,1606162,1606163"
+	}
+	"config"
+	{
+		"installdir"		"polity"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"polity.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"polity.app\\Contents\\MacOS\\polity"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1479482"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4264580735979316711"
+					"size"		"571361812"
+					"download"		"348802720"
+				}
+			}
+		}
+		"1479481"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1671343616677572070"
+					"size"		"544258988"
+					"download"		"344339088"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12143260"
+				"timeupdated"		"1694185127"
+			}
+		}
+	}
+}
