@@ -1,0 +1,289 @@
+"appinfo"
+{
+	"appid"		"2062460"
+	"common"
+	{
+		"name"		"RetroArch - Handy"
+		"type"		"DLC"
+		"parent"		"1118310"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1655664789"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Libretro"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"K. Wilkins"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Libretro"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_43"		"1"
+			"category_44"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_23"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1655820909"
+		"gameid"		"2062460"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+		}
+	}
+	"extended"
+	{
+		"dlcforappid"		"1118310"
+		"mustownapptopurchase"		"1118310"
+		"developer"		"Libretro"
+		"publisher"		"Libretro"
+		"homepage"		"https://www.retroarch.com"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+	"depots"
+	{
+		"2062460"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"2062460"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9022023897221390416"
+					"size"		"986355"
+					"download"		"140272"
+				}
+				"nightly"
+				{
+					"gid"		"4803724192166474108"
+					"size"		"992016"
+					"download"		"141488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"5273D569E087C035A9CBB173F005B981"
+					"size"		"9C7839C55A14EED5A828DEC738DB5EAF"
+					"download"		"79562330D3AE66C7E6A33DE938ADE614"
+				}
+			}
+		}
+		"2062461"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7106004594280909030"
+					"size"		"887574"
+					"download"		"79328"
+				}
+				"nightly"
+				{
+					"gid"		"186021406479922120"
+					"size"		"893878"
+					"download"		"80768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"9312582CF6B9FF0BB86EBF278717FC26"
+					"size"		"A255E230CE681D375612E1B933F84235"
+					"download"		"06C6A22C789BDCE8C8605B86C3AC8689"
+				}
+			}
+			"dlcappid"		"2062460"
+		}
+		"2062462"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"899338837616641415"
+					"size"		"1522087"
+					"download"		"132976"
+				}
+				"nightly"
+				{
+					"gid"		"8971837987693899343"
+					"size"		"1522263"
+					"download"		"134640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"A2E4C63BAD61347D7492A9C2337167D5"
+					"size"		"70E698F55407977270C0C46B4DDB8016"
+					"download"		"39C2BE462928EE3A1412339F79B6A228"
+				}
+			}
+			"dlcappid"		"2062460"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10749106"
+				"timeupdated"		"1678592495"
+			}
+			"nightly"
+			{
+				"buildid"		"12158016"
+				"description"		"Nightly unstable builds"
+				"timeupdated"		"1694426174"
+			}
+			"preview"
+			{
+				"buildid"		"10796047"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679067807"
+			}
+		}
+	}
+}
