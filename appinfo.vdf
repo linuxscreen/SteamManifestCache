@@ -1,0 +1,297 @@
+"appinfo"
+{
+	"appid"		"231350"
+	"common"
+	{
+		"name"		"3DMark Demo"
+		"type"		"Demo"
+		"parent"		"223850"
+		"oslist"		"windows"
+		"icon"		"d3977ec7e73b44c208da4e2a010156d9efd30f0b"
+		"logo"		"dc95cf9be4ebe6b38077b2dffce9bd63d24bad3c"
+		"logo_small"		"dc95cf9be4ebe6b38077b2dffce9bd63d24bad3c_thumb"
+		"clienticon"		"c0fa42ea207eb2224aad77958aef17d55c025a2d"
+		"clienttga"		"21385c469b062fc86c3e19c6ad07d4a6bdf7d970"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1659657600"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"3DMark Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1568913576"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UL"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"UL"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+			"schinese"
+			{
+				"supported"		"1"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1360000980"
+		"gameid"		"231350"
+		"exfgls"		"1"
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"demoofappid"		"223850"
+		"developer"		"UL"
+		"disableoverlay"		"1"
+		"gamedir"		"ValveTestApp231350"
+		"homepage"		"https://benchmarks.ul.com/3dmark"
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"noservers"		"0"
+		"onquitdemoshellexecute"		"steam://store/223850"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"UL"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"3DMark"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"bin/x64/3DMark.exe"
+				"workingdir"		"bin/x64/"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch 3DMark Demo"
+				}
+				"description"		"Launch 3DMark Demo"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"hasdepotsindlc"		"0"
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"223851"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"223850"
+			"sharedinstall"		"2"
+		}
+		"223855"
+		{
+			"depotfromapp"		"223850"
+		}
+		"223857"
+		{
+			"depotfromapp"		"223850"
+			"sharedinstall"		"2"
+		}
+		"223858"
+		{
+			"depotfromapp"		"223850"
+			"sharedinstall"		"2"
+		}
+		"223859"
+		{
+			"depotfromapp"		"223850"
+			"sharedinstall"		"2"
+		}
+		"223860"
+		{
+			"depotfromapp"		"223850"
+			"sharedinstall"		"2"
+		}
+		"223861"
+		{
+			"depotfromapp"		"223850"
+		}
+		"496106"
+		{
+			"depotfromapp"		"223850"
+			"sharedinstall"		"2"
+		}
+		"231351"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8000797594086481156"
+					"size"		"3347244"
+					"download"		"2830288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_beta2"
+				{
+					"gid"		"AA83C4CDEF5E6490A5B016577D2D29EA"
+					"size"		"7278BF7DA44D2C4FFDE44C55DDF7BDB8"
+					"download"		"BF0F76D1D7A9EBD4CE0C9DBFDECC9431"
+				}
+				"system_info"
+				{
+					"gid"		"6EE59D890BC6F4113B215F0599842B40"
+					"size"		"7F8B158C8231CD0FD7AC6E75DE815CF2"
+					"download"		"99384FFCE5C7146AAB135F8954CE6202"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12169819"
+				"timeupdated"		"1694601417"
+			}
+			"internal_beta2"
+			{
+				"buildid"		"8365678"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647263098"
+			}
+			"system_info"
+			{
+				"buildid"		"12169819"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694529809"
+			}
+		}
+	}
+}
