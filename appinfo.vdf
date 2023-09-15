@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"1182840"
+	"common"
+	{
+		"name"		"CONCLUSE 2 Demo"
+		"type"		"Demo"
+		"parent"		"1052230"
+		"clienticon"		"73bb5ecbc7678bf05e25c9312cf21fa7a9d033ae"
+		"clienttga"		"5cf7eb1ad7d8e5ee83115d16ac781194bbc102f1"
+		"icon"		"991426dfe0594377a23490cfcdd7a42a26428cb4"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"metacritic_name"		"CONCLUSE 2 Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"94.1656942823804"
+				"height_pct"		"97.720256471147"
+			}
+		}
+		"store_asset_mtime"		"1572935975"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Snowspot"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"T Allen Studios"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Studio Snowspot"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"T Allen Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1574100185"
+		"gameid"		"1182840"
+	}
+	"extended"
+	{
+		"demoofappid"		"1052230"
+		"developer"		"Studio Snowspot"
+		"publisher"		"Studio Snowspot"
+	}
+	"config"
+	{
+		"installdir"		"CONCLUSE 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Concluse2.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Concluse2Demo.app\\Contents\\MacOS\\Concluse2Demo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1182841"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"639967352284104874"
+					"size"		"889907174"
+					"download"		"747351120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_testing"
+				{
+					"gid"		"54BA3D38B167E3E46E9E24FBC10856AB"
+					"size"		"29160F4D3D2B588AE69E9F6CBB2BD3CC"
+					"download"		"84F2F2B498A8F89BA705C949BA5BD36C"
+				}
+			}
+		}
+		"1182842"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5103654965185335966"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_testing"
+				{
+					"gid"		"378FC1214029F777AABE4F717F24684B"
+					"size"		"A69EA1E3D50DBD38EEEF79C5C985F10D"
+					"download"		"A69EA1E3D50DBD38EEEF79C5C985F10D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8080967"
+				"timeupdated"		"1643098387"
+			}
+			"closed_testing"
+			{
+				"buildid"		"8080967"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643098375"
+			}
+		}
+	}
+}
