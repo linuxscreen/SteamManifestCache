@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"1257800"
+	"common"
+	{
+		"name"		"Hats and Hand Grenades"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"e06ae997d05ce054a74ba7d699ef18c3b01ca1ba"
+		"logo_small"		"e06ae997d05ce054a74ba7d699ef18c3b01ca1ba_thumb"
+		"icon"		"16e75e8af69795dde7a721c491fac5508497c2c4"
+		"clienticon"		"1e4e24462bdb65b38e03056c2bad7bf3c33884e1"
+		"clienttga"		"d1a930896839e34314c5e03afc3690b336fd3ff8"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"8152168"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.999179794351505"
+				"height_pct"		"98.20349769632845"
+			}
+		}
+		"store_asset_mtime"		"1666815794"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paul Bischoff"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paul Bischoff"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1668145564"
+		"community_hub_visible"		"1"
+		"gameid"		"1257800"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4667"
+			"2"		"19"
+			"3"		"492"
+			"4"		"4345"
+			"5"		"7368"
+			"6"		"4004"
+			"7"		"5851"
+			"8"		"3964"
+			"9"		"4637"
+			"10"		"4758"
+			"11"		"7481"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Paul Bischoff"
+		"publisher"		"Paul Bischoff"
+		"homepage"		"https://discord.gg/mZnGqfn"
+		"isfreeapp"		"1"
+		"listofdlc"		"1995540"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hats and Hand Grenades"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"corridor.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1257802"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5298093213295578669"
+					"size"		"406965720"
+					"download"		"319369216"
+				}
+				"test"
+				{
+					"gid"		"5298093213295578669"
+					"size"		"406965720"
+					"download"		"319369216"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10426371"
+				"timeupdated"		"1674945775"
+			}
+			"test"
+			{
+				"buildid"		"10426371"
+				"timeupdated"		"1674944333"
+			}
+		}
+	}
+}
