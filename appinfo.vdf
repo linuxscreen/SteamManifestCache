@@ -1,0 +1,157 @@
+"appinfo"
+{
+	"appid"		"2189920"
+	"common"
+	{
+		"name"		"Closer To Home Demo"
+		"type"		"Demo"
+		"parent"		"2149870"
+		"releasestate"		"released"
+		"icon"		"42a89d67ce7ddefff3347fcb0a2438b5757c1062"
+		"clienticon"		"9646c8de7494be598a901fc97413b66c5da3f0f4"
+		"clienttga"		"6df2a77753e9d2050003cfca671b3ecc9b7bddd1"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.471042825892695"
+				"height_pct"		"51.88939170674206"
+			}
+		}
+		"store_asset_mtime"		"1666852944"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cayden Bullock"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cayden Bullock"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666853038"
+		"gameid"		"2189920"
+	}
+	"extended"
+	{
+		"demoofappid"		"2149870"
+		"developer"		"Cayden Bullock"
+		"publisher"		"Cayden Bullock"
+		"homepage"		"https://isthisamug.com/"
+	}
+	"config"
+	{
+		"installdir"		"Closer To Home Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CloserToHome.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Closer To Home.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2189921"
+		{
+		}
+		"2189922"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+		}
+		"2189923"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1590069396060465679"
+					"size"		"79035782"
+					"download"		"57320720"
+				}
+			}
+		}
+		"2189924"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4818736747987684623"
+					"size"		"94448955"
+					"download"		"61225616"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9810072"
+				"timeupdated"		"1666852563"
+			}
+		}
+	}
+}
