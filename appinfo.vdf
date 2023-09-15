@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"1170970"
+	"common"
+	{
+		"name"		"Marbles on Stream"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"1447c418f8622c98e439c9aa5cde8ff1a44d010f"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1170970_eula_0"
+				"name"		"Marbles on Stream EULA"
+				"url"		"https://store.steampowered.com//eula/1170970_eula_0"
+			}
+		}
+		"logo"		"f5c98c5cf2918e5328ac5264920e2a1fe6324740"
+		"logo_small"		"f5c98c5cf2918e5328ac5264920e2a1fe6324740_thumb"
+		"icon"		"f9af9e6dba742ed3643cb0d9d8c88163ea044f9a"
+		"clienticon"		"1b424ad27ed1add952740b341176357ef2a8085d"
+		"metacritic_name"		"Marbles on Stream"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.54262814541488"
+				"height_pct"		"97.34029921633817"
+			}
+		}
+		"store_asset_mtime"		"1591212272"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pixel by Pixel Studios Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pixel by Pixel Studios Inc."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"29"
+			"3"		"9"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_15"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1522220400"
+		"steam_release_date"		"1573074380"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1170970"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"699"
+			"2"		"128"
+			"3"		"597"
+			"4"		"599"
+			"5"		"3859"
+			"6"		"1721"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Pixel by Pixel Studios Inc."
+		"publisher"		"Pixel by Pixel Studios Inc."
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Marbles on Stream"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MarblesOnStream.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Marbles on Stream"
+				}
+				"description"		"Marbles on Stream"
+			}
+			"2"
+			{
+				"executable"		"MarblesOnStream.exe"
+				"arguments"		"-d3d11"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Marbles on Stream (DirectX 11)"
+				}
+				"description"		"Play Marbles on Stream (DirectX 11)"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1170971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7501872926751136880"
+					"size"		"6824018753"
+					"download"		"5155764560"
+				}
+			}
+		}
+		"1170972"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12174171"
+				"timeupdated"		"1694570838"
+			}
+		}
+	}
+}
