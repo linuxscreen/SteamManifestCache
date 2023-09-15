@@ -1,0 +1,250 @@
+"appinfo"
+{
+	"appid"		"1098130"
+	"common"
+	{
+		"name"		"Get Stuffed!"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"25bb833a0967f01998bdfbda311aadefa1f07d9e"
+		"logo_small"		"25bb833a0967f01998bdfbda311aadefa1f07d9e_thumb"
+		"icon"		"a4e0c0b321382f9d6a1b39c746ddf5793df85b14"
+		"clienticon"		"0ca729cd7227207f86f7455b04c11c950e2c1647"
+		"clienttga"		"972c027aa188b021ffa22307431fcd67f428218a"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1098130_eula_0"
+				"name"		"Get Stuffed! EULA"
+				"url"		"https://store.steampowered.com//eula/1098130_eula_0"
+				"version"		"2"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"market_presence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"93.13953488372093"
+				"height_pct"		"87.61576822607455"
+			}
+		}
+		"store_asset_mtime"		"1666670195"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FAT BOMB STUDIOS, LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"FAT BOMB STUDIOS, LLC"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1635494452"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1098130"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"1719"
+			"2"		"1775"
+			"3"		"3859"
+			"4"		"597"
+			"5"		"1663"
+			"6"		"1774"
+			"7"		"113"
+			"8"		"3839"
+			"9"		"19"
+			"10"		"492"
+			"11"		"4252"
+			"12"		"4345"
+			"13"		"3993"
+			"14"		"4667"
+			"15"		"5030"
+			"16"		"1685"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"FAT BOMB STUDIOS, LLC"
+		"publisher"		"FAT BOMB STUDIOS, LLC"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Get Stuffed!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BearProto.exe"
+				"arguments"		"-NotInstalled"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Get Stuffed! (DirectX 12)"
+				}
+				"description"		"Get Stuffed! (DirectX 12)"
+			}
+			"1"
+			{
+				"executable"		"BearProto.exe"
+				"arguments"		"-dx11 -NotInstalled"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Get Stuffed! (DirectX 11)"
+				}
+				"description"		"Get Stuffed! (DirectX 11)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1098131"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7534038437676459677"
+					"size"		"9982594173"
+					"download"		"3753216240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"5C231878A74734B78757C4A2F8E49A22"
+					"size"		"7FC74919CC2F98CA9EA7C12F12E20D56"
+					"download"		"C8389E39254F5AB46F0A5CBA88434F40"
+				}
+				"testersroyale"
+				{
+					"gid"		"9D0EF9438B2337AC2D61BA96CE7526D6"
+					"size"		"A155CBD9B74AD003467D9AB595E0BB96"
+					"download"		"18CABEFA983DAC2C6A9EE14B52D52FD7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11145246"
+				"timeupdated"		"1683115032"
+			}
+			"devtesting"
+			{
+				"buildid"		"12094354"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693629462"
+			}
+			"testersroyale"
+			{
+				"buildid"		"12094354"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693629468"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"BearProto\\Saved\\SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
