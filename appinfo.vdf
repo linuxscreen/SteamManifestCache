@@ -1,0 +1,230 @@
+"appinfo"
+{
+	"appid"		"2192550"
+	"common"
+	{
+		"name"		"MegaFactory Titan Demo"
+		"type"		"Demo"
+		"parent"		"1803550"
+		"icon"		"eab91b91048c63d2dc7f4c0fef9fb3d6850cf121"
+		"clienttga"		"46f0675486f096da98ee3ba24b083239a247d1ba"
+		"clienticon"		"5045a5f46df7248013bcf385ffd99d23a260a939"
+		"clienticns"		"887241d7cfe784ffb983ea9c83826ff8376b7fe0"
+		"linuxclienticon"		"b6e7144afa75fe631ce5014c3332abebfd273681"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1666145529"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Q Switched Productions, LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Q Switched Productions, LLC"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666638066"
+		"gameid"		"2192550"
+	}
+	"extended"
+	{
+		"demoofappid"		"1803550"
+		"developer"		"Q Switched Productions, LLC"
+		"publisher"		"Q Switched Productions, LLC"
+		"homepage"		"https://www.megafactorytitan.com/"
+	}
+	"config"
+	{
+		"installdir"		"MegaFactory Titan Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MegaFactory Titan.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MegaFactory Titan.app\\Contents\\MacOS\\MegaFactory Titan"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"megafactorytitan"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2192551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8588986367564722657"
+					"size"		"530449286"
+					"download"		"366097504"
+				}
+			}
+		}
+		"2192552"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4547594435216828218"
+					"size"		"452790757"
+					"download"		"356216272"
+				}
+			}
+		}
+		"2192553"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"762855770185143617"
+					"size"		"748722332"
+					"download"		"408141824"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11472840"
+				"timeupdated"		"1686786080"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"appidredirect"		"1803550"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"MegaFactory Titan"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"MegaFactory Titan"
+						"replace"		"MegaFactory Titan"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgConfigHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"MegaFactory Titan"
+						"replace"		"MegaFactory Titan"
+					}
+				}
+			}
+		}
+	}
+}
