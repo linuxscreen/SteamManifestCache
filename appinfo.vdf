@@ -1,0 +1,244 @@
+"appinfo"
+{
+	"appid"		"1581050"
+	"common"
+	{
+		"name"		"Memento Infernum"
+		"type"		"Game"
+		"clienttga"		"782fa9aa0012e731ac5a1905d49c0f3167573f10"
+		"clienticon"		"cb28468c414aada395b506211e5e49e46c31dc23"
+		"icon"		"1f4f48ae52bef8f9fa2395a384d673cf850a9a5c"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"f2ac3a32d4bc2b51d96613240be9530a35ce8e6c"
+		"logo_small"		"f2ac3a32d4bc2b51d96613240be9530a35ce8e6c_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"80.33175355450237"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1617663805"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MGames Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MGames Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1618588920"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1581050"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9541"
+			"1"		"4637"
+			"2"		"4758"
+			"3"		"3964"
+			"4"		"180368"
+			"5"		"1774"
+			"6"		"3871"
+			"7"		"4342"
+			"8"		"6730"
+			"9"		"6052"
+			"10"		"4791"
+			"11"		"4975"
+			"12"		"4885"
+			"13"		"4004"
+			"14"		"19"
+			"15"		"3916"
+			"16"		"3993"
+			"17"		"4182"
+			"18"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"MGames Studio"
+		"publisher"		"MGames Studio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Memento Infernum"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MementoInfernum.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MementoInfernum.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1581051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2702034055410754222"
+					"size"		"77374192"
+					"download"		"38336800"
+				}
+				"beta"
+				{
+					"gid"		"2435565670758257720"
+					"size"		"77374192"
+					"download"		"38336752"
+				}
+			}
+		}
+		"1581052"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8422181972274021952"
+					"size"		"101797707"
+					"download"		"45116624"
+				}
+				"beta"
+				{
+					"gid"		"408912228449086432"
+					"size"		"101797707"
+					"download"		"45116624"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6602295"
+				"timeupdated"		"1619453874"
+			}
+			"beta"
+			{
+				"buildid"		"6602345"
+				"description"		"Beta branch"
+				"timeupdated"		"1619453720"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"MGames Studio/Memento Infernum"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"LinuxXdgConfigHome"
+				"path"		"MGames Studio/Memento Infernum"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+		}
+	}
+}
