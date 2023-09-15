@@ -1,0 +1,107 @@
+"appinfo"
+{
+	"appid"		"2213040"
+	"common"
+	{
+		"name"		"Athereon: Advent I Demo"
+		"type"		"Demo"
+		"parent"		"2138910"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"ff8d9aa07c1bae0aad9282e6a7691f6f0e94d3b5"
+		"clienticon"		"789a3364400060a242c6a3999d2e4e2c5e2a9175"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1668033700"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ARCHITEER"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ARCHITEER"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1667930642"
+		"gameid"		"2213040"
+	}
+	"extended"
+	{
+		"demoofappid"		"2138910"
+		"developer"		"ARCHITEER"
+		"publisher"		"ARCHITEER"
+		"homepage"		"https://www.athereon.com"
+	}
+	"config"
+	{
+		"installdir"		"ATHEREON_ADVENT_I_DEMO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Athereon.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2213041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4635287861632416557"
+					"size"		"7783277399"
+					"download"		"5568037792"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12095566"
+				"timeupdated"		"1693696082"
+			}
+		}
+	}
+}
