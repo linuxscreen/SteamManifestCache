@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"2205200"
+	"common"
+	{
+		"name"		"Orcen Axe Demo"
+		"type"		"Demo"
+		"parent"		"2139800"
+		"icon"		"633247a9d9b98606cc162d3c64cea90a97f50e11"
+		"clienticon"		"e018390c5d624af8fc8f7bdb72b3c2b5177007dc"
+		"clienttga"		"92ed4872c85cf7163459995537271af5ddea73b0"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.84947491248542"
+				"height_pct"		"41.260983139396835"
+			}
+		}
+		"store_asset_mtime"		"1667130082"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"origamihero games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"origamihero games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Treasure Hunter Man"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_18"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1667336942"
+		"gameid"		"2205200"
+	}
+	"extended"
+	{
+		"demoofappid"		"2139800"
+		"developer"		"origamihero games"
+		"publisher"		"origamihero games"
+	}
+	"config"
+	{
+		"installdir"		"Orcen Axe Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Orcen Axe.exe"
+				"type"		"default"
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2880496545"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2880496545"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2205201"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7479690343589419672"
+					"size"		"112511936"
+					"download"		"68982240"
+				}
+			}
+		}
+		"baselanguages"		"english,german,spanish,schinese,tchinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9932121"
+				"timeupdated"		"1668423451"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"3145728"
+		"maxnumfiles"		"20"
+		"appidredirect"		"2139800"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"origamihero games/Orcen Axe"
+				"pattern"		"*.*"
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
