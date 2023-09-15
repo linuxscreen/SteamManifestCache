@@ -1,0 +1,289 @@
+"appinfo"
+{
+	"appid"		"1175890"
+	"common"
+	{
+		"name"		"P.A.I.N.T."
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"910d883e5d8c6160d14bc29fb7e7347c7f1baff5"
+		"clienticon"		"ff54591766492fc2d0dbc0e6498f9ee50741c735"
+		"icon"		"855180797c30be637c4d9ac19d5d4e9db7d73353"
+		"logo"		"391f597e7c02f685df8a62e63bace2ff090cffbe"
+		"logo_small"		"391f597e7c02f685df8a62e63bace2ff090cffbe_thumb"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.39314459887457"
+				"height_pct"		"49.99999999999999"
+			}
+		}
+		"store_asset_mtime"		"1592913215"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Plankwalk Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Breda University of Applied Sciences"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1591686000"
+		"steam_release_date"		"1591906279"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1175890"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3814"
+			"1"		"3843"
+			"2"		"113"
+			"3"		"493"
+			"4"		"19"
+			"5"		"3859"
+			"6"		"1697"
+			"7"		"1685"
+			"8"		"1774"
+			"9"		"4191"
+			"10"		"6730"
+			"11"		"4182"
+			"12"		"4175"
+			"13"		"128"
+			"14"		"1662"
+			"15"		"1775"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"developer"		"Plankwalk Studio"
+		"publisher"		"Breda University of Applied Sciences"
+		"homepage"		"https://discord.gg/kx6z4GX"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"CoopGame"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CoopGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65528"
+	}
+	"depots"
+	{
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1175891"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5023178084733051501"
+					"size"		"3482168564"
+					"download"		"1049551744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"4DD2B81D8E984E8D385EAC6AA9D4E133"
+					"size"		"3501D4D61A52A9A9EAB990792CA85E24"
+					"download"		"A3993AF522860D1ADC551F2BA5DF0181"
+				}
+				"development-debug"
+				{
+					"gid"		"5DE2B8A40DD466DC8AAA695FAEC67349"
+					"size"		"D99CD9BBCC45F71E11364ED13CA1E4C7"
+					"download"		"B2348E07447488361F90E79F4749A650"
+				}
+				"stable"
+				{
+					"gid"		"4DDF3409291CECC3220AA59402DE0D12"
+					"size"		"3F2272E80E793239801CA5EC1BC5C068"
+					"download"		"FD6BAA10DE50C693E6BF14F0DC57921E"
+				}
+				"staging"
+				{
+					"gid"		"8383D512A836EB40576239474294D294"
+					"size"		"631BFEBA3D7916CA4BDB4DAD5A52C2E7"
+					"download"		"7FC74C6F3B420D5B277FE8AAC6AE199C"
+				}
+				"test-build"
+				{
+					"gid"		"3652597A74C16D2BE6A88DF0CAEB2A45"
+					"size"		"18F1A619637C35B82EC9334558CA59A6"
+					"download"		"C1DFCFBAEA724D9E71B49C9F8C43DDA0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5239933"
+				"timeupdated"		"1593688183"
+			}
+			"development"
+			{
+				"buildid"		"5586300"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600895163"
+			}
+			"development-debug"
+			{
+				"buildid"		"5239991"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593637922"
+			}
+			"stable"
+			{
+				"buildid"		"5239933"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593688092"
+			}
+			"staging"
+			{
+				"buildid"		"5239933"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593688172"
+			}
+			"test-build"
+			{
+				"buildid"		"5060396"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593122852"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#statuswithoutscore"		"{#Status_%gamestatus%}"
+					"#statuswithscore"		"{#Status_%gamestatus%}: %score%"
+					"#status_mainmenu"		"In the menu's"
+					"#status_lookingformatch"		"Looking for a match"
+					"#status_joininggame"		"Joining a match"
+					"#status_noobjective"		"Exploring the Factory"
+					"#status_machinekaputobjective"		"Machine Kaput"
+					"#status_lockdownobjective"		"Escaping the Lockdown"
+					"#status_defendcircleobjective"		"Conquering the Entrance"
+					"#status_fountainobjective"		"Conquering the Fountain"
+					"#status_posterinteractionobjective"		"Defacing the Evil Posters"
+					"#status_paintitemsobjective"		"Painting Vending Machines"
+				}
+			}
+			"dutch"
+			{
+				"tokens"
+				{
+					"#statuswithoutscore"		"{#Status_%gamestatus%} aan het Spelen"
+					"#statuswithscore"		"{#Status_%gamestatus%}: %score%"
+					"#status_mainmenu"		"In de menu's"
+					"#status_lookingformatch"		"Opzoek naar een match"
+					"#status_joininggame"		"Match aan het laden"
+					"#status_noobjective"		"Fabriek aan het verkennen"
+					"#status_machinekaputobjective"		"De Machine Kapoet maken"
+					"#status_lockdownobjective"		"Uit de lockdown zone aan het ontsnappen"
+					"#status_fountainobjective"		"Waterspelletjes aan het doen bij de fontein"
+					"#status_posterinteractionobjective"		"Posters aan het bekladderen"
+					"#status_paintitemsobjective"		"Automaten aan het verven"
+				}
+			}
+		}
+	}
+}
