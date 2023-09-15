@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"1415380"
+	"common"
+	{
+		"name"		"Overlay Studio"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"0902b4b0e91d2f3d4aed495a825f070ae651f47a"
+		"clienticon"		"bb37730cdb507ae50f0e533c636f4795fc485f52"
+		"icon"		"b5e87469f0c9f2324141f3913d85f5b10dac03a9"
+		"logo"		"b6f53cf5a6637d1e0dd4b42be3463841f63e07e2"
+		"logo_small"		"b6f53cf5a6637d1e0dd4b42be3463841f63e07e2_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"54.41289439079665"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1663057395"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RaVeN Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"RaVeN Studios"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"53"
+			"1"		"57"
+		}
+		"category"
+		{
+			"category_30"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1663088460"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1415380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+			"1"		"84"
+			"2"		"8013"
+			"3"		"597"
+			"4"		"4085"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"RaVeN Studios"
+		"publisher"		"RaVeN Studios"
+		"homepage"		"https://overlaystudio.app"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"OverlayStudio"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin/OverlayStudio.exe"
+				"arguments"		"--launch-ui"
+				"workingdir"		"bin"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1415380"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1415381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6627176128675471491"
+					"size"		"429068454"
+					"download"		"148015232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"08392A7D3AAE7F93B93FFD6A35A998E5"
+					"size"		"481C7B98BCFFC0808B443DFC4EE06CCF"
+					"download"		"EDEB1C21C1B7FD9A7917FB71439138F4"
+				}
+				"beta"
+				{
+					"gid"		"53BD7F1128A0D6531E3CE431E6AE865B"
+					"size"		"A4A1A4B8B36E24D5C29DEAC4153431D9"
+					"download"		"2AA5EBC9296DB99F773B07CBCFD838D3"
+				}
+				"staging"
+				{
+					"gid"		"3D02F50EEEA11A27BE0737E9C35BCE5F"
+					"size"		"ED379EAE2D79C616A0ECE66F36A83E51"
+					"download"		"3D1736F3932069D5DA983FAFE2B600DA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9505974"
+				"timeupdated"		"1663066995"
+			}
+			"alpha"
+			{
+				"buildid"		"8199768"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644846369"
+			}
+			"beta"
+			{
+				"buildid"		"9505304"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663060685"
+			}
+			"staging"
+			{
+				"buildid"		"6450046"
+				"pwdrequired"		"1"
+				"timeupdated"		"1616847897"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"OverlayStudio"
+				"pattern"		"config.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
