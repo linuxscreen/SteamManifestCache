@@ -1,0 +1,129 @@
+"appinfo"
+{
+	"appid"		"2193180"
+	"common"
+	{
+		"name"		"The Necromancer's Tale Demo"
+		"type"		"Demo"
+		"parent"		"1315320"
+		"icon"		"24c9126d2d8d7d4752c3927f9ce9e3a1da106bdf"
+		"clienticon"		"820781e4b914f1fd26083cc0e44fff56a239c5fb"
+		"clienttga"		"f1e14987abbb78080afad3814fa3dd973c335222"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1666187935"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Psychic Software"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Spiderwinkle Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Psychic Software"
+			}
+		}
+		"steam_release_date"		"1666610411"
+		"gameid"		"2193180"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1315320"
+		"developer"		"Psychic Software"
+		"publisher"		"Psychic Software"
+	}
+	"config"
+	{
+		"installdir"		"The Necromancer's Tale Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheNecromancer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"!build.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2193181"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7660255244367923995"
+					"size"		"4535872485"
+					"download"		"1929376944"
+				}
+			}
+		}
+		"2193182"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3965302855755835839"
+					"size"		"4507858086"
+					"download"		"1920155424"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12053678"
+				"timeupdated"		"1693263263"
+			}
+		}
+	}
+}
