@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"1094030"
+	"common"
+	{
+		"name"		"Lurk in the Dark : Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"a7f9f88f2ee77499d9307e12aebd407d384a6229"
+		"logo_small"		"a7f9f88f2ee77499d9307e12aebd407d384a6229_thumb"
+		"icon"		"b49c6ce362b4784d27fa1a6a252b58c1e1db18bb"
+		"clienticon"		"44a0f439a140debaea56772fa211883665843afe"
+		"clienttga"		"907b16de980ed0399fda9b60eb558dd0e6acc2cf"
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"metacritic_name"		"Lurk in the Dark : Prologue"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"67.67794632438739"
+				"height_pct"		"51.51982901923537"
+			}
+		}
+		"store_asset_mtime"		"1572168599"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"IDEA FRUITION"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IDEA FRUITION"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1573200000"
+		"steam_release_date"		"1573261200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1094030"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"113"
+			"2"		"3859"
+			"3"		"492"
+			"4"		"4182"
+			"5"		"19"
+			"6"		"3839"
+			"7"		"4342"
+			"8"		"5716"
+			"9"		"1742"
+			"10"		"1685"
+			"11"		"6650"
+			"12"		"1721"
+			"13"		"12095"
+			"14"		"21"
+			"15"		"4136"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"IDEA FRUITION"
+		"publisher"		"IDEA FRUITION"
+		"homepage"		"https://ideafruitionjp.wixsite.com/lurkinthedark"
+		"isfreeapp"		"1"
+		"listofdlc"		"1254380"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Lurk in the Dark Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lurk in the Dark Prologue.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"hasdepotsindlc"		"0"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1094031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1312160543171512010"
+					"size"		"4274316251"
+					"download"		"2344027216"
+				}
+			}
+		}
+		"1254380"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"dlcappid"		"1254380"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8674277556910880168"
+					"size"		"5158605622"
+					"download"		"2684518832"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4730495"
+				"timeupdated"		"1583024413"
+			}
+		}
+	}
+}
