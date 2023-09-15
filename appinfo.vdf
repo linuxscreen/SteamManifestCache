@@ -1,0 +1,164 @@
+"appinfo"
+{
+	"appid"		"2214280"
+	"common"
+	{
+		"name"		"Grimfield Mystery Demo"
+		"type"		"Demo"
+		"parent"		"2214180"
+		"icon"		"85522c008134c59f42579bb7be47e02cfd775dad"
+		"clienticon"		"24ad130e8751006e0cd9f9a620c06b732317d776"
+		"clienttga"		"aa984cbd13c5258437fd733fb933974b895278a4"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1672895465"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nachon Lab"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Ogre Pixel"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Ogre Pixel"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1668009481"
+		"gameid"		"2214280"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2214180"
+		"developer"		"Nachon Lab"
+		"publisher"		"Ogre Pixel"
+		"homepage"		"http://grimfieldmystery.com"
+	}
+	"config"
+	{
+		"installdir"		"Grimfield Mystery Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Grimfield Mystery.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"GFM-MacOs-BUILD.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"GFM-DEMO.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2214281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6768579042312777941"
+					"size"		"291565993"
+					"download"		"59944368"
+				}
+			}
+		}
+		"2214282"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3076923945899298164"
+					"size"		"163327613"
+					"download"		"49888064"
+				}
+			}
+		}
+		"2214283"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1346881553257754162"
+					"size"		"1067519879"
+					"download"		"155105792"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10924314"
+				"timeupdated"		"1680583224"
+			}
+		}
+	}
+}
