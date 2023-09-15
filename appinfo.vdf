@@ -1,0 +1,360 @@
+"appinfo"
+{
+	"appid"		"1056640"
+	"common"
+	{
+		"name"		"Phantasy Star Online 2 New Genesis"
+		"type"		"Game"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"b5e89b46d62beb95179ef30d0e2ea3b185031ab2"
+		"logo_small"		"b5e89b46d62beb95179ef30d0e2ea3b185031ab2_thumb"
+		"icon"		"c54fa2778a5ebfa0d51e240f6782eb4af73e5b63"
+		"clienticon"		"c4a7223f959f5483ef2a0c834bbecd2c203220ee"
+		"clienttga"		"b9d9739251851fba49638d0a8a6fb206b649a977"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1056640_eula_0"
+				"name"		"Phantasy Star Online 2 New Genesis EULA"
+				"url"		"https://store.steampowered.com//eula/1056640_eula_0"
+				"version"		"4"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1674604800"
+			"tested_build_id"		"10107782"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"92.2987164527421"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1687500140"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SEGA"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Phantasy Star"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+			"category_42"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1596636000"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1056640"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1754"
+			"2"		"4747"
+			"3"		"4085"
+			"4"		"3859"
+			"5"		"122"
+			"6"		"19"
+			"7"		"3843"
+			"8"		"4434"
+			"9"		"128"
+			"10"		"3942"
+			"11"		"4231"
+			"12"		"1684"
+			"13"		"4821"
+			"14"		"1685"
+			"15"		"1695"
+			"16"		"4726"
+			"17"		"6650"
+			"18"		"1756"
+			"19"		"12095"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"allowmicrotxnfromrestrictedcountries"		"0"
+		"microtxnrestrictedcountries"		"RU,BY"
+		"developer"		"SEGA"
+		"publisher"		"SEGA"
+		"homepage"		"https://pso2.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1327341,1364110,1364111,1424100,1424101,1424102,1424110,1480670,1631370,1643090,1643091,1717590,1717591,1788400,1981630,1981631,1981632,1981633,2052700,2170460,2170461,2171730,2171731,2171732,2171740,2251110,2278850,2384760"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"PHANTASYSTARONLINE2_NA_STEAM"
+		"steamcontrollertemplateindex"		"4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"pso2_bin\\pso2launcher.exe"
+				"arguments"		"-steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2258412715"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"hasdepotsindlc"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2251111"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6105761165984519888"
+					"size"		"62579317264"
+					"download"		"60294159584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"A671899C000F6155D2EE648941954D8E"
+					"size"		"A244C57E554521B0D99C324EC76B052B"
+					"download"		"EE248F9F503A3F998EA023CC01E970DD"
+				}
+				"test2"
+				{
+					"gid"		"354BFD98936ACB058B1426CA2A74AFE1"
+					"size"		"9390C23306069050788D15B42901C585"
+					"download"		"A20AD62C517B051A6248353E5CE068E5"
+				}
+				"test3"
+				{
+					"gid"		"76264CE915FC861F93623A7DC52955A2"
+					"size"		"A5514E9C5D4CAAE59BB2F9225C182F39"
+					"download"		"01C2126888EFD1C1DF7F0000813DA5C1"
+				}
+				"test4"
+				{
+					"gid"		"32D900DDDEBEBC82F7DD089D373A6BAE"
+					"size"		"5A7EF679394A4EDDEAAF8421AA35DB82"
+					"download"		"717165690B1C75D95354AB9A2EAF4182"
+				}
+				"wellbia"
+				{
+					"gid"		"9BA35E5458775C957AD448B2B938B2A3"
+					"size"		"EB436DDFC1F228236E8345BB16141983"
+					"download"		"5CD9774F651E7AB7DEBE4412B8BB10CE"
+				}
+			}
+			"dlcappid"		"2251110"
+			"depotfromapp"		"2251110"
+		}
+		"1056641"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1390119615725007098"
+					"size"		"69270560520"
+					"download"		"63425178192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"D58E71841E987E10E888534827DB15F7"
+					"size"		"3B2E42B42A7119148FB737C3B03AEE5A"
+					"download"		"C14FDD4AAB6CEA9A5119A1B72DF40ED4"
+				}
+				"test2"
+				{
+					"gid"		"808B73BC05A58B6C73EC6FBC77C3A7AC"
+					"size"		"464C1D57EBB3E4E8F9D7ABC68C39640C"
+					"download"		"85DBEF42C9BC4BE315CCE469A07A4C25"
+				}
+				"test3"
+				{
+					"gid"		"6C82BB092A0E5269F565DAE0BCED3612"
+					"size"		"2214D87013CEE64DDE44B77B02F5256A"
+					"download"		"D3D2B145C94968CD5D3585D13F346836"
+				}
+				"test4"
+				{
+					"gid"		"6BE5C024264A0221DEB18C21F01271A1"
+					"size"		"C04CBE159FC152D3034B5DB570161B76"
+					"download"		"DE861A9A948EC0867670C0AEF3BDC370"
+				}
+				"test8"
+				{
+					"gid"		"9D110A3F32256E080DA3C796CA95756B"
+					"size"		"1D0FA531FE7D5698860D77E91AA57ABB"
+					"download"		"949B1C8AFD406CEF2012AD6C06A5C86B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11919063"
+				"timeupdated"		"1693360982"
+			}
+			"test"
+			{
+				"buildid"		"11919063"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691978414"
+			}
+			"test2"
+			{
+				"buildid"		"11853738"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691029296"
+			}
+			"test3"
+			{
+				"buildid"		"12155872"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694404972"
+			}
+			"test4"
+			{
+				"buildid"		"12185007"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694668590"
+			}
+			"test8"
+			{
+				"buildid"		"6718516"
+				"pwdrequired"		"1"
+				"timeupdated"		"1642137428"
+			}
+			"wellbia"
+			{
+				"buildid"		"10189639"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678351797"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"10"
+	}
+}
