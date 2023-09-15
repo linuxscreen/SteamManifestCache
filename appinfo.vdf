@@ -338,7 +338,7 @@
 			"1"
 			{
 				"executable"		"game\\bin\\win64\\dota2.exe"
-				"arguments"		"-steam +voice_fadeouttime 0 -prewarm_panorama +r_particle_gpu_implicit 0"
+				"arguments"		"-steam +voice_fadeouttime 0 -prewarm_panorama"
 				"config"
 				{
 					"oslist"		"windows"
@@ -354,7 +354,7 @@
 			"2"
 			{
 				"executable"		"game/dota.sh"
-				"arguments"		"+@panorama_min_comp_layer_dimension 0 -prewarm_panorama +r_particle_gpu_implicit 0"
+				"arguments"		"+@panorama_min_comp_layer_dimension 0 -prewarm_panorama"
 				"config"
 				{
 					"oslist"		"macos"
@@ -369,7 +369,7 @@
 			"3"
 			{
 				"executable"		"game/dota.sh"
-				"arguments"		"+@panorama_min_comp_layer_dimension 0 -prewarm_panorama +r_particle_gpu_implicit 0"
+				"arguments"		"+@panorama_min_comp_layer_dimension 0 -prewarm_panorama"
 				"config"
 				{
 					"oslist"		"linux"
@@ -452,9 +452,9 @@
 			{
 				"public"
 				{
-					"gid"		"4344501528498111869"
-					"size"		"8076490175"
-					"download"		"3382785056"
+					"gid"		"7320265952319908084"
+					"size"		"8054225846"
+					"download"		"3396565216"
 				}
 			}
 			"encryptedmanifests"
@@ -677,9 +677,9 @@
 			{
 				"public"
 				{
-					"gid"		"795506493165729830"
-					"size"		"33678273880"
-					"download"		"16191100656"
+					"gid"		"5598209448449402455"
+					"size"		"33683405560"
+					"download"		"16172553936"
 				}
 			}
 			"encryptedmanifests"
@@ -776,9 +776,9 @@
 			{
 				"public"
 				{
-					"gid"		"7944260429466073660"
-					"size"		"463028832"
-					"download"		"117103776"
+					"gid"		"3086457922188409815"
+					"size"		"463029344"
+					"download"		"117094144"
 				}
 			}
 			"encryptedmanifests"
@@ -825,9 +825,9 @@
 			{
 				"public"
 				{
-					"gid"		"6392486725947954637"
+					"gid"		"6506746157830581628"
 					"size"		"1240917053"
-					"download"		"496868704"
+					"download"		"496883856"
 				}
 			}
 			"encryptedmanifests"
@@ -919,9 +919,9 @@
 			{
 				"public"
 				{
-					"gid"		"8876949313054717200"
+					"gid"		"613736385726333446"
 					"size"		"1319043996"
-					"download"		"495578672"
+					"download"		"495560752"
 				}
 			}
 			"encryptedmanifests"
@@ -1167,7 +1167,7 @@
 			{
 				"public"
 				{
-					"gid"		"8843950931237777361"
+					"gid"		"141181812147138970"
 					"size"		"12916674253"
 					"download"		"4090386048"
 				}
@@ -1351,8 +1351,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12184055"
-				"timeupdated"		"1694657986"
+				"buildid"		"12191398"
+				"timeupdated"		"1694716381"
 			}
 			"old_build_test"
 			{
