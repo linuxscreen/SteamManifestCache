@@ -1,0 +1,174 @@
+"appinfo"
+{
+	"appid"		"1368750"
+	"common"
+	{
+		"name"		"Jigsaw Puzzle: Master Artists of Old"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"6bae65d107445206780cb008a4edf75fe3403926"
+		"logo_small"		"6bae65d107445206780cb008a4edf75fe3403926_thumb"
+		"icon"		"c06859dfe98d085f73267efd4a523a1d4377b33b"
+		"clienttga"		"14d8b30f846544d2a34540eafea26456d9023fcc"
+		"clienticon"		"eaca8bfc222158e6b44cf5af9da4f18ed5435e2d"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"5879020"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.08401400233372"
+				"height_pct"		"70.89764901448588"
+			}
+		}
+		"store_asset_mtime"		"1594355257"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aventale Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Aventale Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1596866220"
+		"community_hub_visible"		"1"
+		"gameid"		"1368750"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1664"
+			"2"		"5411"
+			"3"		"1654"
+			"4"		"1770"
+			"5"		"3987"
+			"6"		"3871"
+			"7"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Aventale Games"
+		"publisher"		"Aventale Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Jigsaw Puzzle Master Artists of Old"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Jigsaw Puzzles Master Artists of Old.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1368751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4963055976768081570"
+					"size"		"1148779824"
+					"download"		"742690160"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5879020"
+				"timeupdated"		"1606291426"
+			}
+		}
+	}
+}
