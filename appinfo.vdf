@@ -1,0 +1,139 @@
+"appinfo"
+{
+	"appid"		"2188200"
+	"common"
+	{
+		"name"		"Luto Demo"
+		"type"		"Demo"
+		"parent"		"1729740"
+		"icon"		"73f7157265f6bf7829b2a9c69f416f9036243d25"
+		"clienticon"		"4ff5e342758d8b86b12f26321a38678a9b6c6613"
+		"clienttga"		"174ca5ceb449a4a132af32c4537c7d597d77c2fa"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+		}
+		"store_asset_mtime"		"1666712133"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Broken Bird Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Broken Bird Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666714848"
+		"gameid"		"2188200"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1729740"
+		"developer"		"Broken Bird Games"
+		"publisher"		"Broken Bird Games"
+		"homepage"		"https://brokenbirdgames.com/"
+	}
+	"config"
+	{
+		"installdir"		"Luto Demo - The Choice"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Luto.exe"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2188201"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5388364901126035640"
+					"size"		"7421925837"
+					"download"		"3058852944"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11436517"
+				"timeupdated"		"1686346492"
+			}
+		}
+	}
+}
