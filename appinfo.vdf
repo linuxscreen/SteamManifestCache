@@ -1,0 +1,160 @@
+"appinfo"
+{
+	"appid"		"2198080"
+	"common"
+	{
+		"name"		"Cosplay Club Demo"
+		"type"		"Demo"
+		"parent"		"1172180"
+		"icon"		"e3c8ae22aadc112a16d302d6db31c005da69fb56"
+		"clienttga"		"6d5753f4b9090463eba88ead628abc273663c3be"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"4c8a47f1ec0285c61acc7d321933c5197c74a264"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"85.0058343057176"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1666621900"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Behold Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Behold Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1666877253"
+		"gameid"		"2198080"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1172180"
+		"developer"		"Behold Studios"
+		"publisher"		"Behold Studios"
+		"homepage"		"http://www.beholdstudios.com.br"
+	}
+	"config"
+	{
+		"installdir"		"Cosplay Club Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mahou Senshi Cosplay Club - Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mahou Senshi Cosplay Club - Demo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2198081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5586976885540170363"
+					"size"		"2621846666"
+					"download"		"303992880"
+				}
+				"development"
+				{
+					"gid"		"5586976885540170363"
+					"size"		"2621846666"
+					"download"		"303992880"
+				}
+			}
+		}
+		"2198082"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5410003895465314201"
+					"size"		"2648473269"
+					"download"		"312030064"
+				}
+				"development"
+				{
+					"gid"		"5410003895465314201"
+					"size"		"2648473269"
+					"download"		"312030064"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9824817"
+				"timeupdated"		"1666991928"
+			}
+			"development"
+			{
+				"buildid"		"9824817"
+				"description"		"Build here before publishing"
+				"timeupdated"		"1666990840"
+			}
+		}
+	}
+}
