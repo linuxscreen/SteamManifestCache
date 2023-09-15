@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"860550"
+	"common"
+	{
+		"name"		"Secrets of the Past: Dion"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"c6a875c31f93525f9ef6f17bb32517c70205541d"
+		"logo_small"		"c6a875c31f93525f9ef6f17bb32517c70205541d_thumb"
+		"clienttga"		"886803212fbd484029037d2ec0d6153ee342f793"
+		"clienticon"		"536272f30decd026bd778bc8e46d6ecd89cb948c"
+		"icon"		"29ad05d6be8bbb5f857e1a00fa1eb59a95fa57f2"
+		"metacritic_name"		"Secrets of the Past: Dion"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1543143496"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Culturplay"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Culturplay"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1543392000"
+		"steam_release_date"		"1543435740"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"860550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"599"
+			"2"		"1664"
+			"3"		"492"
+			"4"		"1036"
+		}
+		"review_score"		"7"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Culturplay"
+		"publisher"		"Culturplay"
+		"homepage"		"https://secretsofthepastgame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Secrets of the Past Dion"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"secrets-of-the-past-dion.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,greek"
+		"860551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6950959746893922674"
+					"size"		"357329240"
+					"download"		"121739376"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3376118"
+				"timeupdated"		"1544191349"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"saveDir"
+				"pattern"		"*.json"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"saveDir"
+						"replace"		".config/unity3d/culturplay/Secrets of the Past"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"saveDir"
+						"replace"		"culturplay/Secrets of the Past"
+					}
+				}
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocalLow"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"saveDir"
+						"replace"		"culturplay/Secrets of the Past"
+					}
+				}
+			}
+		}
+	}
+}
