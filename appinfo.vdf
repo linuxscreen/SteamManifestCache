@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"1815340"
+	"common"
+	{
+		"name"		"Jivana"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"e6307635167c02065d3fcbd08c92b28e6aa5608f"
+		"logo_small"		"e6307635167c02065d3fcbd08c92b28e6aa5608f_thumb"
+		"icon"		"8e63d83e83d78fb1ef832c365d30206160550254"
+		"clienticon"		"a4e53676bd9e5f77839b72222855ba42c292de0e"
+		"clienttga"		"f3b241c9e5057147dc7b9e8422beac55900a740f"
+		"releasestate"		"released"
+		"linuxclienticon"		"6cb36d3fa56f0cdceffbf59e56944bdd8e3903c3"
+		"clienticns"		"cb6ac2256422288348a3ab4adcebe010a37630b5"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1651276800"
+			"tested_build_id"		"8114163"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"simultaneous_gamepad_mouse"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.00766635786198"
+				"height_pct"		"47.461538416845556"
+			}
+		}
+		"store_asset_mtime"		"1641580580"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Jivana"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rubika Supinfogame"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642784413"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1815340"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"5608"
+			"2"		"4182"
+			"3"		"5094"
+			"4"		"4106"
+			"5"		"1625"
+			"6"		"3834"
+			"7"		"11014"
+			"8"		"5537"
+			"9"		"4191"
+			"10"		"1697"
+			"11"		"4145"
+			"12"		"4305"
+			"13"		"4252"
+			"14"		"5984"
+			"15"		"1684"
+			"16"		"4166"
+			"17"		"4057"
+			"18"		"30358"
+			"19"		"7481"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Team Jivana"
+		"publisher"		"Rubika Supinfogame"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Jivana"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Jivana.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"1815341"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7676539209851930529"
+					"size"		"5007438496"
+					"download"		"4369627360"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8114163"
+				"timeupdated"		"1643566561"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
