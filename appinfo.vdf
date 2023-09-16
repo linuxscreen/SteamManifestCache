@@ -1,0 +1,275 @@
+"appinfo"
+{
+	"appid"		"1290490"
+	"common"
+	{
+		"name"		"UNBEATABLE [white label]"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"be6f6d630f3ae724027da6891d87c17c5ea1c541"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"82aec7ac61367952796140fd45bf26cbf8c9d7d3"
+		"logo_small"		"82aec7ac61367952796140fd45bf26cbf8c9d7d3_thumb"
+		"icon"		"fe6ec997c1bf1b395cd6f548343e73c023b5861b"
+		"clienticon"		"5af898b6664befe88fa9469569def22d3fdb0da8"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660348800"
+			"tested_build_id"		"9258386"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"49.41860465116279"
+				"height_pct"		"65.95820470197103"
+			}
+		}
+		"store_asset_mtime"		"1653508436"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"D-CELL GAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"D-CELL GAMES"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1620394560"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1290490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1752"
+			"1"		"4085"
+			"2"		"7208"
+			"3"		"4106"
+			"4"		"1742"
+			"5"		"6815"
+			"6"		"1773"
+			"7"		"4305"
+			"8"		"21"
+			"9"		"3834"
+			"10"		"5395"
+			"11"		"3871"
+			"12"		"6426"
+			"13"		"4191"
+			"14"		"5608"
+			"15"		"7481"
+			"16"		"1710"
+			"17"		"19"
+			"18"		"15172"
+			"19"		"5154"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"D-CELL GAMES"
+		"publisher"		"D-CELL GAMES"
+		"homepage"		"http://unbeatablegame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"UNBEATABLE [white label]"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UNBEATABLE [white label].exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1290491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"493427346793109445"
+					"size"		"1524625427"
+					"download"		"498200368"
+				}
+				"beta"
+				{
+					"gid"		"493427346793109445"
+					"size"		"1524625427"
+					"download"		"498200368"
+				}
+				"legacy"
+				{
+					"gid"		"3831935021420725966"
+					"size"		"1471207070"
+					"download"		"493982336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"29A21EECCA8DE012A3F6619B9F166A49"
+					"size"		"39067A345C9BF3BC311F7438430098C2"
+					"download"		"9D4F2DB449B5F7AA882BCF72C9D10E52"
+				}
+				"stream-safe"
+				{
+					"gid"		"24D3B949AD1EEC34D287F3F9D2E2AA6D"
+					"size"		"952794B17A45AF8B42CAC284FC4BE52E"
+					"download"		"7B4615B5AF4BF84C50793571B105CBD6"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11494433"
+				"timeupdated"		"1686982637"
+			}
+			"beta"
+			{
+				"buildid"		"11494433"
+				"description"		"UNBEATABLE [white label] public beta branch"
+				"timeupdated"		"1686982644"
+			}
+			"developer"
+			{
+				"buildid"		"11494433"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686982655"
+			}
+			"legacy"
+			{
+				"buildid"		"10237792"
+				"description"		"legacy branch for previous version in case of issues."
+				"timeupdated"		"1683435675"
+			}
+			"stream-safe"
+			{
+				"buildid"		"11494433"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686982649"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"D-CELL GAMES/UNBEATABLE [white label]"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
