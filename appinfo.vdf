@@ -1,0 +1,233 @@
+"appinfo"
+{
+	"appid"		"737770"
+	"common"
+	{
+		"name"		"Project CARS 2 Demo"
+		"section_type"		"ownersonly"
+		"type"		"Demo"
+		"parent"		"378860"
+		"releasestate"		"released"
+		"clienticon"		"22db1c301fac91cc7e1a4d01b53e1a89277ba5df"
+		"clienttga"		"8385c31f487ed34eae9642cdf6faccb7811eb261"
+		"icon"		"12d781d341948c66015a3f7946366deb060f74eb"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"62ae795d00cb7b7c7dab6a63b160f440bf552f75"
+		"logo_small"		"62ae795d00cb7b7c7dab6a63b160f440bf552f75_thumb"
+		"controllervr"
+		{
+			"xinput"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"app_retired_publisher_request"		"1"
+		"metacritic_name"		"Project CARS 2 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1572441144"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Slightly Mad Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BANDAI NAMCO Entertainment"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1511391600"
+		"gameid"		"737770"
+	}
+	"extended"
+	{
+		"demoofappid"		"378860"
+		"vrheadsetstreaming"		"0"
+		"developer"		"Slightly Mad Studios"
+		"publisher"		"BANDAI NAMCO Entertainment"
+		"homepage"		"http://www.slightlymadstudios.com/"
+	}
+	"config"
+	{
+		"installdir"		"Project CARS 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"pCARS2Demo.exe"
+				"arguments"		"-novr"
+				"description"		"Project CARS 2 Demo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"pCARS2Demo.exe"
+				"description"		"Project CARS 2 Demo"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"pCARS2Demo.exe"
+				"description"		"Project CARS 2 Demo"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"737771"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2283840680280238682"
+					"size"		"5283424451"
+					"download"		"3625692528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"85ECED4064DA7D9E2A159890512C3F55"
+					"size"		"02372BD36E60A3C8F9BDC09D5B0C7CCA"
+					"download"		"57A2DFDCE39E6C0A4D376D484B87F917"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2270785"
+				"timeupdated"		"1510236536"
+			}
+			"testing"
+			{
+				"buildid"		"2270785"
+				"pwdrequired"		"1"
+				"timeupdated"		"1510236025"
+			}
+		}
+	}
+}
