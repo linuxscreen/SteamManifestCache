@@ -1,0 +1,361 @@
+"appinfo"
+{
+	"appid"		"607260"
+	"common"
+	{
+		"name"		"McOsu"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"05d8d75205d9519ef9b450e3f88c9bf3a5975538"
+		"logo_small"		"05d8d75205d9519ef9b450e3f88c9bf3a5975538_thumb"
+		"clienticon"		"b849f83be62ae75389d5fa448cf74e636e635607"
+		"clienttga"		"82d8ed964c130a1c862c51ef31ad49f1988ee5cf"
+		"icon"		"41eb330acbd8e63a3ea51eeae605b562b57309b9"
+		"openvrsupport"		"1"
+		"osextended"		"macos64"
+		"metacritic_name"		"McOsu"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"56.999466308104246"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1610057793"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"McKay"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"McKay"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1490033880"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"607260"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1752"
+			"1"		"113"
+			"2"		"4085"
+			"3"		"1621"
+			"4"		"21978"
+			"5"		"492"
+			"6"		"4026"
+			"7"		"1756"
+			"8"		"1721"
+			"9"		"4182"
+			"10"		"3859"
+			"11"		"3871"
+			"12"		"12095"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"McKay"
+		"publisher"		"McKay"
+		"homepage"		"https://github.com/McKay42/McOsu"
+		"isfreeapp"		"1"
+		"listofdlc"		"608160,608170,608180"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"McOsu"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"McEngine.exe"
+				"arguments"		"-vr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"McEngine.exe"
+				"arguments"		"-novr"
+				"description"		"on Desktop"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"McEngine"
+				"arguments"		"-novr"
+				"description"		"on Desktop"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"McEngine"
+				"arguments"		"-novr"
+				"description"		"on Desktop"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"4"
+		"steamconfigurator3rdpartynative"		"65533"
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"607261"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1144096681812972411"
+					"size"		"52948567"
+					"download"		"12011312"
+				}
+				"cutting-edge"
+				{
+					"gid"		"1144096681812972411"
+					"size"		"52948567"
+					"download"		"12011312"
+				}
+				"previous-version"
+				{
+					"gid"		"1182693899044222958"
+					"size"		"52916802"
+					"download"		"12006288"
+				}
+				"wasapi-test"
+				{
+					"gid"		"2143334328884926292"
+					"size"		"52925418"
+					"download"		"12024112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"BFF30755AB663822D2904AA9E89F8313"
+					"size"		"5D74E2D5BB5C53975FF6CF43ECC5E033"
+					"download"		"4901412989DD452204A7EE52C049E55B"
+				}
+			}
+		}
+		"607263"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1854018734672410811"
+					"size"		"28072036"
+					"download"		"8275120"
+				}
+				"cutting-edge"
+				{
+					"gid"		"1854018734672410811"
+					"size"		"28072036"
+					"download"		"8275120"
+				}
+				"previous-version"
+				{
+					"gid"		"6841937672490371903"
+					"size"		"28057340"
+					"download"		"8270720"
+				}
+				"wasapi-test"
+				{
+					"gid"		"1854018734672410811"
+					"size"		"28072036"
+					"download"		"8275120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"2A94A87D350609F0C031403D57DDFA24"
+					"size"		"8DEB04993A9050146439205C19B91885"
+					"download"		"A8DA894FE8C6BEF5DB99DA0D86556399"
+				}
+			}
+		}
+		"607264"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5960928338905586369"
+					"size"		"22772631"
+					"download"		"6964240"
+				}
+				"cutting-edge"
+				{
+					"gid"		"5960928338905586369"
+					"size"		"22772631"
+					"download"		"6964240"
+				}
+				"previous-version"
+				{
+					"gid"		"1084315680727991640"
+					"size"		"23223778"
+					"download"		"7095808"
+				}
+				"wasapi-test"
+				{
+					"gid"		"5960928338905586369"
+					"size"		"22772631"
+					"download"		"6964240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"36689A73A366D417F677B0EABEC2A34D"
+					"size"		"D1F1294EFB86EEDC02B604EEBDDCB282"
+					"download"		"EDC0F7C4F82DC3D0473D58A5312ED9E3"
+				}
+			}
+		}
+		"workshopdepot"		"607260"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11946809"
+				"timeupdated"		"1692112640"
+			}
+			"cutting-edge"
+			{
+				"buildid"		"11946809"
+				"description"		"Experimental"
+				"timeupdated"		"1692112272"
+			}
+			"devtest"
+			{
+				"buildid"		"11946809"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692112375"
+			}
+			"previous-version"
+			{
+				"buildid"		"11187290"
+				"description"		"Fallback if something breaks"
+				"timeupdated"		"1692112169"
+			}
+			"wasapi-test"
+			{
+				"buildid"		"11946828"
+				"description"		"Windows only, ultra low latency audio"
+				"timeupdated"		"1692112369"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"5000"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status"		"%status%"
+				}
+			}
+		}
+	}
+}
