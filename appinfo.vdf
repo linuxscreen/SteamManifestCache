@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1293770"
+	"common"
+	{
+		"name"		"Creeper World 4 Demo"
+		"type"		"Demo"
+		"parent"		"848480"
+		"releasestate"		"released"
+		"clienticon"		"d1c188b0571820c0f527b6b1e5c54baa74e1f1fe"
+		"clienttga"		"e42a9a90022a6485169c4d9a26824fc4411cf8e9"
+		"icon"		"6b0a221ee18eaf789c17b68c0c1805dc2965ed8b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1589392295"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Knuckle Cracker"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Knuckle Cracker"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1592399252"
+		"community_visible_stats"		"1"
+		"gameid"		"1293770"
+	}
+	"extended"
+	{
+		"demoofappid"		"848480"
+		"developer"		"Knuckle Cracker"
+		"publisher"		"Knuckle Cracker"
+		"homepage"		"http://knucklecracker.com"
+	}
+	"config"
+	{
+		"installdir"		"Creeper World 4 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CW4.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1293771"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"549278584366792756"
+					"size"		"578746024"
+					"download"		"436979984"
+				}
+				"1.1.1"
+				{
+					"gid"		"549278584366792756"
+					"size"		"578746024"
+					"download"		"436979984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.0.0"
+				{
+					"gid"		"2F06BD13AA8805813A36C86AE9BEEEEE"
+					"size"		"1A47A4D537207DF886D37E20123C0320"
+					"download"		"5472C124760045E83810A1FC761E214A"
+				}
+				"demo1"
+				{
+					"gid"		"B7AF8AC374111DF981B7AC383B2F2032"
+					"size"		"91E20CB3B848D891CD0C9F28791DA5F4"
+					"download"		"6CA9614613999DFAC2E10E8BD712A645"
+				}
+				"demo2"
+				{
+					"gid"		"857762C50C25307995BA6EB9808AA7A4"
+					"size"		"F59FB75D98B3A9267FCA08664F259E22"
+					"download"		"A03D4FCCD001AF8B54FAB7E753C4BA94"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6020004"
+				"timeupdated"		"1609181018"
+			}
+			"1.0.0"
+			{
+				"buildid"		"5895726"
+				"pwdrequired"		"1"
+				"timeupdated"		"1609181063"
+			}
+			"1.1.1"
+			{
+				"buildid"		"6020004"
+				"description"		"1.1.1"
+				"timeupdated"		"1609180715"
+			}
+			"demo1"
+			{
+				"buildid"		"5196310"
+				"pwdrequired"		"1"
+				"timeupdated"		"1602078399"
+			}
+			"demo2"
+			{
+				"buildid"		"5667252"
+				"pwdrequired"		"1"
+				"timeupdated"		"1606605742"
+			}
+		}
+	}
+}
