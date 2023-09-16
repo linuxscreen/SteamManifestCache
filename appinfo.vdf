@@ -1,0 +1,133 @@
+"appinfo"
+{
+	"appid"		"2470730"
+	"common"
+	{
+		"name"		"Norland: Story Generating Strategy Demo"
+		"type"		"Demo"
+		"parent"		"1857090"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"bf2a9c9613fc3f947bcd228129b67d4b2540766b"
+		"clienticon"		"baf62c8d22d79fc57845635c9de3dd96c65e918a"
+		"clienttga"		"ddcf576fd3996166383f9571d5b945fbe9f818db"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1686328685"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Long Jaunt"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Long Jaunt"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1687190718"
+		"gameid"		"2470730"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Long Jaunt"
+		"publisher"		"Long Jaunt"
+		"homepage"		"https://www.norlandgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Norland - Story Generating Strategy - Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Norland.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2470731"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"359654948814375111"
+					"size"		"269401446"
+					"download"		"181315600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"3D0D17F1FF6D1EE0A6CAC983E7A0C770"
+					"size"		"5CE07F01CE76ACB84A054C2331F84967"
+					"download"		"A62A8CCBD491E52CE03243AA8659CDBA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11831108"
+				"timeupdated"		"1690826459"
+			}
+			"test"
+			{
+				"buildid"		"11819713"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690654652"
+			}
+		}
+	}
+}
