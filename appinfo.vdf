@@ -1,0 +1,257 @@
+"appinfo"
+{
+	"appid"		"1641270"
+	"common"
+	{
+		"name"		"枝江往事"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"c6c94429215ce9e22ca35ff66f1cb8952dabb78e"
+		"logo_small"		"c6c94429215ce9e22ca35ff66f1cb8952dabb78e_thumb"
+		"icon"		"4b1e66e1d9225d10e51ae8c0c5afe5dc58eff1a4"
+		"clienttga"		"3f3404d0e7f928cf6a064a73ea3e3dccccc439c6"
+		"clienticon"		"109a2caa94422b03b6bbcd372449f10ad03dd25c"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1692748800"
+			"tested_build_id"		"6857199"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"57.74745616856319"
+				"height_pct"		"97.30368968779565"
+			}
+		}
+		"store_asset_mtime"		"1623334637"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"A-SOUL GameMaker Project"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"A-SOUL GameMaker Project"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623427149"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1641270"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"11014"
+			"2"		"24003"
+			"3"		"3799"
+			"4"		"4434"
+			"5"		"9204"
+			"6"		"379975"
+			"7"		"3871"
+			"8"		"4085"
+			"9"		"3964"
+			"10"		"4562"
+			"11"		"5984"
+			"12"		"4726"
+			"13"		"5608"
+			"14"		"5613"
+			"15"		"3942"
+			"16"		"1742"
+			"17"		"113"
+			"18"		"6971"
+			"19"		"7208"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"A-SOUL GameMaker Project"
+		"publisher"		"A-SOUL GameMaker Project"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ZhiJiangWangShi"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AStoryInZhiJiang.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"AStoryInZhiJiang-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"Contents\\MacOS\\AStoryInZhiJiang"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1641271"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5106526080563350827"
+					"size"		"2344087470"
+					"download"		"2153159776"
+				}
+			}
+		}
+		"1641272"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3316364111677117388"
+					"size"		"2296124354"
+					"download"		"2137433424"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6857199"
+				"timeupdated"		"1623475371"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"40000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"RenPy/ZhiJiang-Save"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"MacHome"
+				"path"		"/Library/RenPy/ZhiJiang-Save"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+		}
+	}
+}
