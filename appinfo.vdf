@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"1452780"
+	"common"
+	{
+		"name"		"迷离诡夜 blurred weird night Demo"
+		"type"		"Demo"
+		"parent"		"1448000"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"955fcaca7d4e844b9d12467bcaa985a83a91415b"
+		"clienticon"		"e7bdb5228941c1e17af2f8e27941986f7bb2506c"
+		"icon"		"42d5325f7b08d3ea24899d1b6112295be6a323cc"
+		"linuxclienticon"		"e7bdb5228941c1e17af2f8e27941986f7bb2506c"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"68.56885412476048"
+				"height_pct"		"47.03846148631984"
+			}
+		}
+		"store_asset_mtime"		"1645085659"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"QSNPS2"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"QSNPS2"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1639987200"
+		"steam_release_date"		"1613098032"
+		"gameid"		"1452780"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1448000"
+		"developer"		"QSNPS2"
+		"publisher"		"QSNPS2"
+	}
+	"config"
+	{
+		"installdir"		"blurred weird night Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"blurred weird night.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"DEMO"
+				}
+				"description"		"DEMO"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,schinese,tchinese,russian,japanese,portuguese,latam"
+		"hasdepotsindlc"		"1"
+		"1452781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8245278761881753939"
+					"size"		"6871605972"
+					"download"		"5190877664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo"
+				{
+					"gid"		"1907F43A0DF067D02C4381AAA9FA842B"
+					"size"		"8E847C142893AF13789E77A8949C42A4"
+					"download"		"DFE842E1BEF7963B6CE422E73B5CB597"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9058523"
+				"timeupdated"		"1656953933"
+			}
+			"demo"
+			{
+				"buildid"		"9058523"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656953966"
+			}
+		}
+	}
+}
