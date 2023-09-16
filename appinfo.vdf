@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"1691400"
+	"common"
+	{
+		"name"		"The Market of Light"
+		"type"		"Game"
+		"logo"		"e8aabf8f5defab290b2296fbe76b1583b23cddb5"
+		"logo_small"		"e8aabf8f5defab290b2296fbe76b1583b23cddb5_thumb"
+		"icon"		"7b60c5917bedae3ce28ce387a714a6dc0ea58bcb"
+		"clienttga"		"94a1e05590c2d482c01399e7bd26560ba36a0c18"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"635942fbdedd1039827641b981667adb42038555"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1691400_eula_0"
+				"name"		"The Market of Light EULA"
+				"url"		"https://store.steampowered.com//eula/1691400_eula_0"
+				"version"		"3"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1664236800"
+			"tested_build_id"		"7431697"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1632752310"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"historia Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"historia Inc."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1632816600"
+		"community_hub_visible"		"1"
+		"gameid"		"1691400"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"5652"
+			"2"		"4191"
+			"3"		"15045"
+			"4"		"4182"
+			"5"		"113"
+			"6"		"4106"
+			"7"		"7481"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"historia Inc."
+		"publisher"		"historia Inc."
+		"homepage"		"https://historia.co.jp/TMoL_en/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"historia"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The_Market_of_Light.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"2"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1691401"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3984811622031221980"
+					"size"		"24895936691"
+					"download"		"24963282064"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7431697"
+				"timeupdated"		"1632753788"
+			}
+		}
+	}
+}
