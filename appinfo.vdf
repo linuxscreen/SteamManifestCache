@@ -1,0 +1,234 @@
+"appinfo"
+{
+	"appid"		"1690940"
+	"common"
+	{
+		"name"		"DELTARUNE (Chapter 1 & 2 DEMO)"
+		"type"		"Demo"
+		"parent"		"1671210"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienttga"		"443af9c95af37139b2a4cc85b4b83801231b888b"
+		"clienticon"		"4ae0c6c7805c502bf0bac95df98997ee7d442903"
+		"icon"		"58ac3e714fde270af60a8190cbc05f814aeadfd9"
+		"clienticns"		"ed4c9ed80ec8022b103392cc328e9e4672861aa8"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1660176000"
+			"tested_build_id"		"8272590"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1630553603"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"tobyfox"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"tobyfox"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1631923043"
+		"gameid"		"1690940"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1671210"
+		"developer"		"tobyfox"
+		"publisher"		"tobyfox"
+		"homepage"		"http://deltarune.com"
+	}
+	"config"
+	{
+		"installdir"		"DELTARUNEdemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DELTARUNE.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"DELTARUNE.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"1690941"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7280478300334929399"
+					"size"		"199670327"
+					"download"		"127703040"
+				}
+				"chapter1.2.112.windows7fix"
+				{
+					"gid"		"2367536887136698437"
+					"size"		"200299021"
+					"download"		"127982480"
+				}
+			}
+		}
+		"1690942"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1337622988459417429"
+					"size"		"215133281"
+					"download"		"131397232"
+				}
+				"chapter1.2.112.windows7fix"
+				{
+					"gid"		"1671667732983167627"
+					"size"		"217865906"
+					"download"		"131931376"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8272590"
+				"timeupdated"		"1645769472"
+			}
+			"chapter1.2.112.windows7fix"
+			{
+				"buildid"		"8878807"
+				"description"		"Attempts fix for Windows 7"
+				"timeupdated"		"1654509728"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"500"
+		"appidredirect"		"1671210"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"DELTARUNE"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"com.tobyfox.deltarune"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+		}
+	}
+}
