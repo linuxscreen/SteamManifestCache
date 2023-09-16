@@ -1,0 +1,382 @@
+"appinfo"
+{
+	"appid"		"348250"
+	"common"
+	{
+		"name"		"Google Earth VR"
+		"type"		"Game"
+		"oslist"		"windows"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+			"seated"		"1"
+		}
+		"openvrsupport"		"1"
+		"logo"		"72b13c368cfbb037c6965cf1a9465140c1f6ab26"
+		"logo_small"		"72b13c368cfbb037c6965cf1a9465140c1f6ab26_thumb"
+		"icon"		"6e7575ca3c5ac486c5b6e3520c5b881a0cb61db0"
+		"clienticon"		"57172a80fcd2418a2787bbccf60432b6b2eaeac1"
+		"clienttga"		"004582e191d1145c1c00753e2125c7871d6828fb"
+		"osarch"		"64"
+		"releasestate"		"released"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"openvr_controller_bindings"
+		{
+			"0"
+			{
+				"controller_type"		"knuckles"
+				"url"		"vr-input-workshop://1807342720"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644278400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Google Earth VR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1505359527"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Google"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Google"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_31"		"1"
+			"category_2"		"1"
+			"category_40"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1479311160"
+		"community_hub_visible"		"1"
+		"gameid"		"348250"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"113"
+			"2"		"1695"
+			"3"		"599"
+			"4"		"597"
+			"5"		"21"
+			"6"		"3834"
+			"7"		"4175"
+			"8"		"4182"
+			"9"		"5900"
+			"10"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"vrheadsetstreaming"		"1"
+		"developer"		"Google"
+		"publisher"		"Google"
+		"homepage"		"https://vr.google.com/earth"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"EarthVR"
+		"launch"
+		{
+			"3"
+			{
+				"executable"		"Earth.exe"
+				"description"		"Full app"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"vrsupport"		"openvr"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"348251"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7991951760450053422"
+					"size"		"2996347031"
+					"download"		"2013973520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dogfood"
+				{
+					"gid"		"400FAED4FDDDC64FABAD0DBCD3D704E5"
+					"size"		"24D150143F75F7C4DCF2F984AC12FDA2"
+					"download"		"18773190297DF91BA42AA772C3909C7D"
+				}
+				"imagery-dev"
+				{
+					"gid"		"980EBC6E96BC676489988AB69D3AB574"
+					"size"		"9D13792FA346D9C21C86ADAE33133935"
+					"download"		"413A9502D89A89062C2CF5BA96616EEA"
+				}
+				"internal-dev"
+				{
+					"gid"		"650F5D16C16C1A2FCB823A5B5238CA6A"
+					"size"		"8A06DD6B2046BB7C5C0CF57ED860EF44"
+					"download"		"ED8C6B8DB7E60A4F46CFF7E0FF54A7BF"
+				}
+				"internal-qa"
+				{
+					"gid"		"8632A6F56597BCCAE0E4453A0C78EF30"
+					"size"		"7B78C771AA9972253FEE3892D7BD67CF"
+					"download"		"EDED03733B44C08FF5789342207B2158"
+				}
+				"internal-qa-gyp"
+				{
+					"gid"		"5E1ED3FDDD8FE92DFAF9A2E39ED5321A"
+					"size"		"E353E7692FF68457C16D81F4E86E63CD"
+					"download"		"054BF3B3D213778FD4DC649A60078BA1"
+				}
+				"nvidia-debug"
+				{
+					"gid"		"9B4D224DE7B7CC08C486349D39920DDD"
+					"size"		"4C009174485237D965B540E8AC2D4295"
+					"download"		"C7A6844CEB141EE7C21C655DD2517F43"
+				}
+				"partner"
+				{
+					"gid"		"A9FBF66D880ABD74F26E975DA14B4432"
+					"size"		"1513D62F98529A4F6CD4EAAB376BA28C"
+					"download"		"0C3139897968A121F19670745BCF7A93"
+				}
+				"sfx-dev"
+				{
+					"gid"		"CEC72DD957E2489E62CFB114D2D4AED2"
+					"size"		"4B496B44F2B9955D872E9B1D7DD04776"
+					"download"		"ABC41C771795A1E71830C443A279B1C0"
+				}
+				"team-dev"
+				{
+					"gid"		"0698453AEB5CA10840BAA13C9596D391"
+					"size"		"D5E6BEFB9B6539C921B116522F067B17"
+					"download"		"98DA3B2A6DF3D08ABDF8A1AF01537DC2"
+				}
+				"tour-dev"
+				{
+					"gid"		"9BA655D02C46708C2573510EF93140AE"
+					"size"		"12DD092AA349F8763AF8E6E188260CB7"
+					"download"		"9CDE48AE53280897FDE86D8B37064C50"
+				}
+				"unpop-demo"
+				{
+					"gid"		"24A4364304BF4E08BD3913220335CBA7"
+					"size"		"9E5860C17EA35956BF5171751252BE28"
+					"download"		"E37174E8878AD83A56D83C05A510569B"
+				}
+				"ux-dev"
+				{
+					"gid"		"964A8601F0F3BACEE0B6CD21DC3EE39A"
+					"size"		"2E646FE9631599637CEADABCB828D068"
+					"download"		"7FB52CF944050C876BCCAA176BC8D3C2"
+				}
+				"ux-study"
+				{
+					"gid"		"37BBCB19D19FDD88FA72AF2A8CC05CF3"
+					"size"		"3E87F88C24E417821E94B3E92F3E3073"
+					"download"		"53BB9B1C37E9499389625EC43D0B806F"
+				}
+				"ux-study-backup"
+				{
+					"gid"		"9E9C1DF4C1CDB712D1514E98BAA35FAC"
+					"size"		"4E5674B4B46EA0C5FA0906C4404EB845"
+					"download"		"B540E92D3198B8A3E9337E5144A1CFFD"
+				}
+				"valve-debug"
+				{
+					"gid"		"C8768C6E8DC2363E6BA28AD08D121A4E"
+					"size"		"B4D793C51691253ADEC3ADC88C88B36D"
+					"download"		"4F8F480CDCA896E296CAA53218C68975"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2483525"
+				"timeupdated"		"1518558554"
+			}
+			"dogfood"
+			{
+				"buildid"		"2483525"
+				"pwdrequired"		"1"
+				"timeupdated"		"1517611873"
+			}
+			"imagery-dev"
+			{
+				"buildid"		"1813754"
+				"pwdrequired"		"1"
+				"timeupdated"		"1494459789"
+			}
+			"internal-dev"
+			{
+				"buildid"		"3934906"
+				"pwdrequired"		"1"
+				"timeupdated"		"1581904552"
+			}
+			"internal-qa"
+			{
+				"buildid"		"3934906"
+				"pwdrequired"		"1"
+				"timeupdated"		"1560984198"
+			}
+			"internal-qa-gyp"
+			{
+				"buildid"		"3936360"
+				"pwdrequired"		"1"
+				"timeupdated"		"1560996096"
+			}
+			"nvidia-debug"
+			{
+				"buildid"		"1452352"
+				"pwdrequired"		"1"
+				"timeupdated"		"1478828233"
+			}
+			"partner"
+			{
+				"buildid"		"2111079"
+				"pwdrequired"		"1"
+				"timeupdated"		"1505346065"
+			}
+			"sfx-dev"
+			{
+				"buildid"		"1905203"
+				"pwdrequired"		"1"
+				"timeupdated"		"1498032815"
+			}
+			"team-dev"
+			{
+				"buildid"		"2483525"
+				"pwdrequired"		"1"
+				"timeupdated"		"1517515243"
+			}
+			"tour-dev"
+			{
+				"buildid"		"1453988"
+				"pwdrequired"		"1"
+				"timeupdated"		"1478894423"
+			}
+			"unpop-demo"
+			{
+				"buildid"		"1439072"
+				"pwdrequired"		"1"
+				"timeupdated"		"1478223757"
+			}
+			"ux-dev"
+			{
+				"buildid"		"2362453"
+				"pwdrequired"		"1"
+				"timeupdated"		"1513117321"
+			}
+			"ux-study"
+			{
+				"buildid"		"2223657"
+				"pwdrequired"		"1"
+				"timeupdated"		"1508802777"
+			}
+			"ux-study-backup"
+			{
+				"buildid"		"2041469"
+				"pwdrequired"		"1"
+				"timeupdated"		"1502934042"
+			}
+			"valve-debug"
+			{
+				"buildid"		"2483525"
+				"pwdrequired"		"1"
+				"timeupdated"		"1517360798"
+			}
+		}
+	}
+}
