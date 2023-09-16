@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"1362820"
+	"common"
+	{
+		"name"		"Keysight Demo"
+		"type"		"Demo"
+		"parent"		"1325730"
+		"releasestate"		"released"
+		"clienticon"		"c984ae2f644f16c1025d403a359418a5af562862"
+		"clienttga"		"f8bf4eed0ea63ee3ebcc81c6734c981e649e4724"
+		"icon"		"e2fa8a6ddb3a73e39388c5f45312a914a4d056a0"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1645456544"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jack Sweet"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jack Sweet"
+			}
+		}
+		"primary_genre"		"53"
+		"genres"
+		{
+			"0"		"53"
+			"1"		"58"
+		}
+		"category"
+		{
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1593682787"
+		"gameid"		"1362820"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1325730"
+		"developer"		"Jack Sweet"
+		"publisher"		"Jack Sweet"
+	}
+	"config"
+	{
+		"installdir"		"Keysight Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Keysight\\Binaries\\Win64\\Keysight-Win64-Shipping.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Keysight-Mac-Shipping.app/Contents/MacOS/Keysight-Mac-Shipping"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1362821"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5985332465071354802"
+					"size"		"1250465728"
+					"download"		"565860336"
+				}
+			}
+		}
+		"1362822"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2768303909980807934"
+					"size"		"1422569900"
+					"download"		"560115504"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11229645"
+				"timeupdated"		"1684086930"
+			}
+		}
+	}
+}
