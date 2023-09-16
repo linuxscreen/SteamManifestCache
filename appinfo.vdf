@@ -1,0 +1,332 @@
+"appinfo"
+{
+	"appid"		"1273710"
+	"common"
+	{
+		"name"		"King of Crabs"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"daedf42698d00e14f5e329ff5927adfc4a982f50"
+		"logo_small"		"daedf42698d00e14f5e329ff5927adfc4a982f50_thumb"
+		"clienticon"		"962288f87f99fe311e18d5dd1cbfa9b419adaf33"
+		"clienttga"		"78b9e12c86c459d7987c6d5f6ba99842236585e2"
+		"icon"		"ee2469b799c84eca9681baf6fdabd1fef8979164"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"turkish"		"1"
+			"vietnamese"		"1"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1626819889"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Robot Squid"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Spilt Milk Studios Ltd"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Robot Squid"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"29"
+			"3"		"37"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1593778170"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1273710"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"1646"
+			"2"		"4637"
+			"3"		"6730"
+			"4"		"1775"
+			"5"		"1774"
+			"6"		"1773"
+			"7"		"176981"
+			"8"		"7481"
+			"9"		"4747"
+			"10"		"5923"
+			"11"		"4175"
+			"12"		"4136"
+			"13"		"4191"
+			"14"		"597"
+			"15"		"4305"
+			"16"		"5350"
+			"17"		"19"
+			"18"		"30358"
+			"19"		"1662"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Robot Squid"
+		"publisher"		"Robot Squid"
+		"homepage"		"https://robotsquid.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1716670"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"King of Crabs"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"King of Crabs.exe"
+				"description"		"Launch King of Crabs"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"KingOfCrabs.app\\Contents\\MacOS\\King of Crabs"
+				"description"		"Launch King of Crabs"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"staging"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,turkish,vietnamese"
+		"1273711"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8059917272049262116"
+					"size"		"852500993"
+					"download"		"764883632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"D55602B7D4514AAC246BBF9CAA498407"
+					"size"		"0003833BFE25B16EAC3F44888A9414D0"
+					"download"		"D02A734585F5DEFB0A1949B296C058E8"
+				}
+				"staging"
+				{
+					"gid"		"EB6C1990ED7B6294B1E43F0CC27FFCA1"
+					"size"		"DC5CEBDBD3BBD7EEB257401810F79A3F"
+					"download"		"0809CC4F00671C6646F3FFE6A67E7930"
+				}
+				"wipeout"
+				{
+					"gid"		"28CD91A81F7120DF2FB447B5B38F52DE"
+					"size"		"CBA2D729001EB548B48D2C9BA7215FCE"
+					"download"		"51014FB5C603745049598C3C0B70DA7D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11516997"
+				"timeupdated"		"1687282132"
+			}
+			"internal"
+			{
+				"buildid"		"12194294"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694742611"
+			}
+			"staging"
+			{
+				"buildid"		"12171879"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694546922"
+			}
+			"wipeout"
+			{
+				"buildid"		"5555280"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635172336"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10240000"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+}
