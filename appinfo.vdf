@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"968700"
+	"common"
+	{
+		"name"		"The Kite"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticon"		"d4449743892d31b93e0c862001a0dabe635cece8"
+		"clienttga"		"fa5f2d9e489d9d6e14e17d2e7b670fd17d3ec6cc"
+		"icon"		"8128a7386194e370a5d50788d64845ef0d595967"
+		"logo"		"57df2cbcbd6d5cf229f0713072b9a7fc7eb9ae7f"
+		"logo_small"		"57df2cbcbd6d5cf229f0713072b9a7fc7eb9ae7f_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"metacritic_name"		"The Kite"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"79.98244490157992"
+			}
+		}
+		"store_asset_mtime"		"1574520157"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anate Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anate Studio"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1325404800"
+		"steam_release_date"		"1542651112"
+		"community_hub_visible"		"1"
+		"gameid"		"968700"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"21"
+			"3"		"1698"
+			"4"		"1667"
+			"5"		"4234"
+			"6"		"7208"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Anate Studio"
+		"publisher"		"Anate Studio"
+		"homepage"		"http://anatestudio.net"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Kite"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Kite.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"The Kite.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"The_Kite.app\\Contents\\MacOS\\The_Kite"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian,ukrainian"
+		"968701"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"256544762432071228"
+					"size"		"542654281"
+					"download"		"118600960"
+				}
+			}
+		}
+		"968702"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3628972732341473787"
+					"size"		"538362103"
+					"download"		"117245744"
+				}
+			}
+		}
+		"968703"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"387260155578042077"
+					"size"		"551765139"
+					"download"		"120093024"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3337621"
+				"timeupdated"		"1543147653"
+			}
+		}
+	}
+}
