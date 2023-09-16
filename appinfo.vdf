@@ -1,0 +1,216 @@
+"appinfo"
+{
+	"appid"		"1192670"
+	"common"
+	{
+		"name"		"CODE VEIN Demo"
+		"type"		"Demo"
+		"parent"		"678960"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"fb4274a3f8e28ba8cc14b46739f16d0cd8fd1871"
+		"clienticon"		"d34e4fecbd9afd079dc6669465d8f2b9a3433847"
+		"icon"		"1de0bf74e00c05a1cb3f3d6594f5122bc68a0fe8"
+		"logo"		"d5e5b3513e3e62bb9732e01534efd35d40786fc4"
+		"logo_small"		"d5e5b3513e3e62bb9732e01534efd35d40786fc4_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"CODE VEIN Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1578991228"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BANDAI NAMCO Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BANDAI NAMCO Entertainment"
+			}
+		}
+		"steam_release_date"		"1576623629"
+		"gameid"		"1192670"
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"demoofappid"		"678960"
+		"developer"		"BANDAI NAMCO Studios"
+		"publisher"		"BANDAI NAMCO Entertainment"
+		"homepage"		"https://www.bandainamcoent.com/games/code-vein"
+	}
+	"config"
+	{
+		"installdir"		"CODE VEIN Demo"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"1867472407"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CodeVein.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1192671"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5724665440031963871"
+					"size"		"10324284105"
+					"download"		"9864958656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo_denuvo"
+				{
+					"gid"		"1733D66411F48B48D389654BDB987D36"
+					"size"		"787FF3F09BAEBA25F923E43E248222C2"
+					"download"		"6119028BB2ABB63FE9B10325494346C0"
+				}
+				"developer"
+				{
+					"gid"		"6CE59E9C38713409D3E8E5453379F55C"
+					"size"		"B7303E953317C968888F9C71540EE3B0"
+					"download"		"6BCF4634822A47782400021E5173BDAC"
+				}
+				"qa-debug"
+				{
+					"gid"		"C4F21F85D16D7F91F15F48927B1F6EC2"
+					"size"		"D8E93E4230691B7DCAA8D009BF10D912"
+					"download"		"A46E90190014F0D25927059CA6C62C8E"
+				}
+				"qa-release"
+				{
+					"gid"		"31AC93672363EDAB7BA8D3592DEAA955"
+					"size"		"408957C15C40111666C19695F63CE3CF"
+					"download"		"5479D9A0BA2F883E209E46AD190D8C11"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,tchinese,russian,japanese,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4461861"
+				"timeupdated"		"1576603183"
+			}
+			"demo_denuvo"
+			{
+				"buildid"		"4422452"
+				"pwdrequired"		"1"
+				"timeupdated"		"1574685664"
+			}
+			"developer"
+			{
+				"buildid"		"4430507"
+				"pwdrequired"		"1"
+				"timeupdated"		"1574845963"
+			}
+			"qa-debug"
+			{
+				"buildid"		"4462328"
+				"pwdrequired"		"1"
+				"timeupdated"		"1575547360"
+			}
+			"qa-release"
+			{
+				"buildid"		"4461861"
+				"pwdrequired"		"1"
+				"timeupdated"		"1575538254"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000000"
+		"maxnumfiles"		"10"
+		"appidredirect"		"678960"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"CodeVein/Saved/SaveGames/{Steam3AccountID}"
+				"pattern"		"GameData_*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"CodeVein/Saved/SaveGames/{Steam3AccountID}"
+				"pattern"		"GameData_*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
