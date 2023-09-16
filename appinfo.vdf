@@ -1,0 +1,72 @@
+"appinfo"
+{
+	"appid"		"1696170"
+	"common"
+	{
+		"name"		"Deadswitch 3 Multiplayer Server"
+		"type"		"Tool"
+		"parent"		"1131080"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"3882cb285cebb14cca30ffb5117beae253d75c4b"
+		"clienticon"		"a5d8404c950df6095b30d28f8c5fb4153c52d6a5"
+		"icon"		"b29eb090c3abd60779b40a9e265376d444640e02"
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"gameid"		"1696170"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Deadswitch 3 Multiplayer Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"start.bat"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1696171"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6548023623896133488"
+					"size"		"3067425"
+					"download"		"433984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devsdk"
+				{
+					"gid"		"50ABE7BC75266031F5E696A408197858"
+					"size"		"29FE243BC51A257EE8F735D7A9F517B5"
+					"download"		"F6C654EE497C323E30C2A27F2C022B64"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11603863"
+				"timeupdated"		"1688187279"
+			}
+			"devsdk"
+			{
+				"buildid"		"11603863"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688187288"
+			}
+		}
+	}
+}
