@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"1356420"
+	"common"
+	{
+		"name"		"Limiter! Demo"
+		"type"		"Demo"
+		"parent"		"1340870"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"ddbdb403729af8fd6f0c437dfab51bfa477131fa"
+		"clienticon"		"db8d4ff151789bc90bb87a496f2e10116368856a"
+		"icon"		"67358ea925fa073ce0cc38b952e0f3fd0b761b7e"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"98.48024323157946"
+			}
+		}
+		"store_asset_mtime"		"1611970963"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alex Knowles"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Alex Knowles"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1593147155"
+		"gameid"		"1356420"
+	}
+	"extended"
+	{
+		"demoofappid"		"1340870"
+		"developer"		"Alex Knowles"
+		"publisher"		"Alex Knowles"
+	}
+	"config"
+	{
+		"installdir"		"Limiter! Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Limiter.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1356421"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8732834314194782432"
+					"size"		"35846337"
+					"download"		"31677856"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5238081"
+				"timeupdated"		"1593607628"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"504"
+		"appidredirect"		"1340870"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Limiter.exe/saves/"
+				"pattern"		"*.lim"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Level Editor/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
