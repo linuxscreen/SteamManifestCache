@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"617730"
+	"common"
+	{
+		"name"		"Home Sweet Home Demo"
+		"type"		"Demo"
+		"parent"		"617160"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"controllervr"
+		{
+			"xinput"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"clienttga"		"c7b11691897a56f933f806285415f310e9defc9b"
+		"clienticon"		"84909752f972af6ebf659a3408d949bf2253198c"
+		"clienticns"		"84909752f972af6ebf659a3408d949bf2253198c"
+		"linuxclienticon"		"84909752f972af6ebf659a3408d949bf2253198c"
+		"icon"		"4323df2234558938dbcf55f74a4a0414a25b0bf9"
+		"metacritic_name"		"Home Sweet Home Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1501567831"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"YGGDRAZIL GROUP CO.,LTD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"YGGDRAZIL GROUP CO.,LTD"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"74"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1501476509"
+		"community_hub_visible"		"1"
+		"gameid"		"617730"
+		"review_score"		"7"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"demoofappid"		"617160"
+		"vrheadsetstreaming"		"1"
+		"developer"		"YGGDRAZIL GROUP CO.,LTD"
+		"publisher"		"YGGDRAZIL GROUP CO.,LTD"
+		"homepage"		"https://www.homesweethomegame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Home Sweet Home Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HomeSweetHomeDemo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"617731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4491194726178621868"
+					"size"		"1255441934"
+					"download"		"1206832720"
+				}
+				"beta"
+				{
+					"gid"		"4491194726178621868"
+					"size"		"1255441934"
+					"download"		"1206832720"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1781383"
+				"timeupdated"		"1493182771"
+			}
+			"beta"
+			{
+				"buildid"		"1781383"
+				"description"		"Beta test"
+				"timeupdated"		"1493182779"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"HomeSweetHomeDemo/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
