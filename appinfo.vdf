@@ -1,0 +1,225 @@
+"appinfo"
+{
+	"appid"		"1207270"
+	"common"
+	{
+		"name"		"Moving Out Demo"
+		"type"		"Demo"
+		"parent"		"996770"
+		"releasestate"		"released"
+		"clienticon"		"1d5f96b63a653224a064bda0291b136074d115ad"
+		"clienttga"		"b0a372648dad2e6a1969c747196ae82ac1e760ae"
+		"icon"		"4d566628e3dab3ff77ef474dd23b14e6965b379e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"metacritic_name"		"Moving Out Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"63.8533178114086"
+				"height_pct"		"89.82222222222222"
+			}
+		}
+		"store_asset_mtime"		"1575972272"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SMG Studio"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"DevM Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Team17 Digital"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_13"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1576171200"
+		"gameid"		"1207270"
+	}
+	"extended"
+	{
+		"demoofappid"		"996770"
+		"developer"		"SMG Studio"
+		"publisher"		"Team17 Digital"
+		"homepage"		"http://smgstudio.com/"
+	}
+	"config"
+	{
+		"installdir"		"Moving Out Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MovingOut.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1207271"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2256757451804457463"
+					"size"		"373497017"
+					"download"		"267282320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pax_demo"
+				{
+					"gid"		"85AC4A0B7B928AE03F10AD161FAFC9DA"
+					"size"		"A09F46121F43B99D7FDE9A10F5910BCF"
+					"download"		"BF64A55DF943A5C964D070FDC7F9D01C"
+				}
+				"qa_testing"
+				{
+					"gid"		"A6A9EEAE221F60790E69F1171DA4EA6D"
+					"size"		"2EDFD2B16066DAC93017ABCD4FB535CB"
+					"download"		"927B9A395FA396BF3D2533EEF95EAB5B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5551634"
+				"timeupdated"		"1600269821"
+			}
+			"pax_demo"
+			{
+				"buildid"		"5511228"
+				"pwdrequired"		"1"
+				"timeupdated"		"1599472722"
+			}
+			"qa_testing"
+			{
+				"buildid"		"4671917"
+				"pwdrequired"		"1"
+				"timeupdated"		"1584097170"
+			}
+		}
+	}
+}
