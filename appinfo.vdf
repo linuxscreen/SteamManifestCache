@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"2084840"
+	"common"
+	{
+		"name"		"Cavalry Girls  铁骑少女 Demo"
+		"type"		"Demo"
+		"parent"		"2055050"
+		"releasestate"		"released"
+		"clienticon"		"fca713fa3c8e14a13a24fa1e22b745a6f179a16d"
+		"clienttga"		"2279dc161bd09810054199962cdcf6e0dd92c67c"
+		"name_localized"
+		{
+			"sc_schinese"		"铁骑少女（试用版）"
+		}
+		"releasestatesteamchina"		"released"
+		"icon"		"d2223770d4b890a9aa84f08a256f2e06ec2ebea5"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-xc,zh-cn,en,ja"
+			"library_hero"		"en,zh-cn,zh-xc"
+			"library_logo"		"en,ja,zh-xc,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1675669329"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"中子星游戏研究所"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"OKJOY"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1657763296"
+		"gameid"		"2084840"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2055050"
+		"developer"		"中子星游戏研究所"
+		"publisher"		"OKJOY"
+	}
+	"config"
+	{
+		"installdir"		"Cavalry Girls  铁骑少女 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CavalryGirls.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"2084841"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3072797375760935102"
+					"size"		"3386423027"
+					"download"		"572121728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"1ACAADD2F68797777DBB503199076C68"
+					"size"		"0E60448A647891BDD87774543D97166C"
+					"download"		"FEF7BCAEED1E3361DF29454724993697"
+				}
+				"test_branch"
+				{
+					"gid"		"D6E221DBA357B347F0137D01D6634018"
+					"size"		"F93F7F9B88310EADADD13BE9BCB076A4"
+					"download"		"C9B0FB01E80102615D15682DFBAFBBA3"
+				}
+			}
+		}
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"9118161"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657772134"
+			}
+			"public"
+			{
+				"buildid"		"11498415"
+				"timeupdated"		"1687067127"
+			}
+			"test_branch"
+			{
+				"buildid"		"12195102"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694757533"
+			}
+		}
+	}
+}
