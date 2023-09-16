@@ -1,0 +1,117 @@
+"appinfo"
+{
+	"appid"		"1347930"
+	"common"
+	{
+		"name"		"Alien Defense Unit Demo"
+		"type"		"Demo"
+		"parent"		"1326080"
+		"clienticon"		"b4cb60b6477e9f36a524b971c5243693bc61b570"
+		"clienttga"		"ad295d25394405f9b2189994ba27f73b9cf24165"
+		"icon"		"da8c4cc9c5d2fac63bd31dc6224b0f06cd2c94d0"
+		"openvrsupport"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.23337222870478"
+				"height_pct"		"33.281880788411314"
+			}
+		}
+		"store_asset_mtime"		"1591934614"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lost Our Box"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lost Our Box"
+			}
+		}
+		"steam_release_date"		"1593214451"
+		"gameid"		"1347930"
+		"onlyvrsupport"		"1"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1326080"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Lost Our Box"
+		"publisher"		"Lost Our Box"
+	}
+	"config"
+	{
+		"installdir"		"Alien Defense Unit Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Alien Defense Unit.exe"
+				"arguments"		"-popupwindow"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1347931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8031853912914270592"
+					"size"		"843354814"
+					"download"		"314932784"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5152423"
+				"timeupdated"		"1591916059"
+			}
+		}
+	}
+}
