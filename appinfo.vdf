@@ -1,0 +1,219 @@
+"appinfo"
+{
+	"appid"		"1116960"
+	"common"
+	{
+		"name"		"UNDEFEATED"
+		"type"		"Game"
+		"icon"		"097fc5f837777c0d91c03aa46c50760ce1b1ed32"
+		"logo"		"54377d29aeb3a355bd296faf0fcb5383f814f1cf"
+		"logo_small"		"54377d29aeb3a355bd296faf0fcb5383f814f1cf_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"6651de84f62817f64382062d22c3603a044807fe"
+		"clienticon"		"9f97332d67574be1a2bdb890dc911bbdc6b55a5a"
+		"linuxclienticon"		"9f97332d67574be1a2bdb890dc911bbdc6b55a5a"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1653436800"
+			"tested_build_id"		"4022708"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"UNDEFEATED"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"ja,en"
+			"library_logo"		"ja,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"1"
+				"height_pct"		"2"
+			}
+		}
+		"store_asset_mtime"		"1563598782"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UNDEFEATED Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Vantan Game Academy"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"UNDEFEATED"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1564729200"
+		"steam_release_date"		"1564788888"
+		"community_hub_visible"		"1"
+		"gameid"		"1116960"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1671"
+			"2"		"1695"
+			"3"		"19"
+			"4"		"3859"
+			"5"		"492"
+			"6"		"4182"
+			"7"		"1697"
+			"8"		"3810"
+			"9"		"1743"
+			"10"		"4136"
+			"11"		"3843"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"UNDEFEATED Games"
+		"publisher"		"Vantan Game Academy"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"UNDEFEATED"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UNDEFEATED.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,japanese"
+		"1116961"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2450836912793979617"
+					"size"		"2328994366"
+					"download"		"2255674528"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4022708"
+				"timeupdated"		"1563448469"
+			}
+		}
+	}
+}
