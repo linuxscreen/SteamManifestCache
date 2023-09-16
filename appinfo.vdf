@@ -1,0 +1,468 @@
+"appinfo"
+{
+	"appid"		"1522260"
+	"common"
+	{
+		"name"		"Iragon: Prologue 18+"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"4057b3ece69d4fc455aab07fc5169f274c16d91f"
+		"logo_small"		"4057b3ece69d4fc455aab07fc5169f274c16d91f_thumb"
+		"icon"		"557349ec2f4612f98b63d6679ca62dcd2725e6ad"
+		"clienttga"		"d316faace8c9dfd5005fe45d429300ece9abe735"
+		"clienticon"		"4754b2146463a5bdec526707c2d6bb8ff209ed48"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"openvr_action_manifest_path"		"IragonProject\\Config\\SteamVRBindings\\steamvr_manifest.json"
+		"clienticns"		"83643ad59aaa7b1b6a9b348c6c1f62d8cf87b294"
+		"linuxclienticon"		"98a9542c64852d5357a2ca3a04cbffed9f20df62"
+		"openvrsupport"		"1"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1678406400"
+			"tested_build_id"		"10675793"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.741099966934883"
+				"height_pct"		"66.79663318134556"
+			}
+		}
+		"store_asset_mtime"		"1691051261"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Repulse"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SZH"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_44"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627388808"
+		"community_hub_visible"		"1"
+		"gameid"		"1522260"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"4085"
+			"2"		"4947"
+			"3"		"3799"
+			"4"		"9551"
+			"5"		"4231"
+			"6"		"6426"
+			"7"		"4726"
+			"8"		"4434"
+			"9"		"4106"
+			"10"		"4191"
+			"11"		"122"
+			"12"		"6730"
+			"13"		"15172"
+			"14"		"1742"
+			"15"		"597"
+			"16"		"1684"
+			"17"		"21"
+			"18"		"6650"
+			"19"		"12095"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"absolutemousecoordinates"		"0"
+		"developer"		"Repulse"
+		"publisher"		"SZH"
+		"homepage"		"https://repulse.com/iragon-18/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Iragon Prologue 18"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Iragon.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Iragon"
+				}
+				"description"		"Launch Iragon"
+			}
+			"1"
+			{
+				"executable"		"IragonVR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"IragonMAC.app/Contents/MacOS/VRExpPluginExample-Mac-Shipping"
+				"workingdir"		"IragonMAC.app/Contents/MacOS/"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"IragonProject/Binaries/Win64/VRExpPluginExample-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"2"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1522261"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"330245280200949085"
+					"size"		"11150713837"
+					"download"		"10555882096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"D30BFDB31EA682DB1E507427B041914C"
+					"size"		"E098AD5413D403223A684032BF8FE6BD"
+					"download"		"6608DDACDC2B3459E17923B072CCFAA9"
+				}
+				"old_build_testing"
+				{
+					"gid"		"66495CC334458DBD9C7AF8D4A669C922"
+					"size"		"8135B0CA9A240BB68239E2A1349AA8E1"
+					"download"		"F84B2A8CB4759A85860CE897217597A8"
+				}
+			}
+		}
+		"1663720"
+		{
+			"dlcappid"		"1663720"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1945483088919455235"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"E1A562AA4EBCC18D822CF1898DB08AEF"
+					"size"		"7698123FE621D2BFF518B0F30A110694"
+					"download"		"7698123FE621D2BFF518B0F30A110694"
+				}
+				"old_build_testing"
+				{
+					"gid"		"1F9B9F1AB2AA0506F65813E5A6127645"
+					"size"		"74824D396211FBAF74BA58DC96B5E762"
+					"download"		"74824D396211FBAF74BA58DC96B5E762"
+				}
+			}
+		}
+		"1522262"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"706914568246675234"
+					"size"		"12168919100"
+					"download"		"11692035280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"152A3136524AE7438DFDD652BD7EEEC2"
+					"size"		"915AD04885E7CF96FAD9A10F374692BD"
+					"download"		"D4333FFF6152372D0D028AF9675037A8"
+				}
+				"old_build_testing"
+				{
+					"gid"		"B474425C3C6F8B2895257E739AD16D82"
+					"size"		"3EAFF0521BDCB8449B2CFD5FA398681C"
+					"download"		"5B96EE12A01AFCAD195225A349AE95FE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12199893"
+				"timeupdated"		"1694788362"
+			}
+			"development"
+			{
+				"buildid"		"12192753"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694728367"
+			}
+			"old_build_testing"
+			{
+				"buildid"		"12087470"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693562411"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"3000000"
+		"maxnumfiles"		"30"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"IragonProject/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"IragonProject/Saved/SaveGames"
+						"replace"		"Epic/IragonProject/Saved/SaveGames"
+					}
+				}
+			}
+		}
+	}
+}
