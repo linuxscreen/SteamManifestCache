@@ -1,0 +1,223 @@
+"appinfo"
+{
+	"appid"		"1443440"
+	"common"
+	{
+		"name"		"Little Nightmares II Demo"
+		"type"		"Demo"
+		"parent"		"860510"
+		"clienticon"		"95e48e57338f00bdcb2cc5c9dfb3bc0cccd5cad0"
+		"clienttga"		"e170a650735ec34bf0fb81d41db020f305f30683"
+		"icon"		"8ef25028ecace8fcbb7dc7b5e8adfd49e8931e7f"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"3b0b66f80e09b212906a03fbc99c0afc4602bdbc"
+		"logo_small"		"3b0b66f80e09b212906a03fbc99c0afc4602bdbc_thumb"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1606832325"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tarsier Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BANDAI NAMCO Entertainment"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1607527560"
+		"gameid"		"1443440"
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"demoofappid"		"860510"
+		"developer"		"Tarsier Studios"
+		"publisher"		"BANDAI NAMCO Entertainment"
+		"homepage"		"https://little-nightmares.com"
+	}
+	"config"
+	{
+		"installdir"		"Little Nightmares II Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Little Nightmares II Demo.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1443441"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3182602518077013397"
+					"size"		"3830687548"
+					"download"		"1975644464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bnee-delivery"
+				{
+					"gid"		"776AB14265BE425C69F1F3D4FA9A6450"
+					"size"		"3102325D6B8940CB0BDABB9513AACD98"
+					"download"		"D321C53A43157C7A206154D46C9D4678"
+				}
+				"steamsubmissions"
+				{
+					"gid"		"B2599E86CB1661DDDED77BAC236505F7"
+					"size"		"D687DDBC103B37490304BFB194C075E3"
+					"download"		"53274C786CFD452FC81D8D8DD85C16F5"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5881237"
+				"timeupdated"		"1607501259"
+			}
+			"bnee-delivery"
+			{
+				"buildid"		"5881237"
+				"pwdrequired"		"1"
+				"timeupdated"		"1606320291"
+			}
+			"steamsubmissions"
+			{
+				"buildid"		"5881237"
+				"pwdrequired"		"1"
+				"timeupdated"		"1606407093"
+			}
+		}
+	}
+}
