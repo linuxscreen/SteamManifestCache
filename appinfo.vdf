@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"1142670"
+	"common"
+	{
+		"name"		"风信楼 Demo"
+		"type"		"Demo"
+		"parent"		"1126310"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienttga"		"8604c4f2f719f5ffd53a5b3ddf5f155a0b6c1695"
+		"clienticon"		"f9562c916a7ab9f2b32bfbd215fc8a5da9b62f47"
+		"icon"		"08ccd3dc8739978bd20f04e7b364a059134bb440"
+		"linuxclienticon"		"3a3a1f4698155e1dfcbfde1a9c69419f9b04ed2f"
+		"clienticns"		"cff43f724d95338d9f89faecd2afdb6500a8a69d"
+		"releasestate"		"released"
+		"logo"		"888e15691a8f03e6bab309581b0334a9ddc8b5d0"
+		"logo_small"		"888e15691a8f03e6bab309581b0334a9ddc8b5d0_thumb"
+		"metacritic_name"		"风信楼 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"60.99123215462682"
+				"height_pct"		"76.7404890515767"
+			}
+		}
+		"store_asset_mtime"		"1581295587"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pingfang Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pingfang Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1576391610"
+		"gameid"		"1142670"
+	}
+	"extended"
+	{
+		"demoofappid"		"1126310"
+		"developer"		"Pingfang Games"
+		"publisher"		"Pingfang Games"
+		"homepage"		"https://weibo.com/pingfanggames"
+	}
+	"config"
+	{
+		"installdir"		"FXLDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"fxldemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"fxldemo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"fxldemo.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1142671"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5425279181392027958"
+					"size"		"2018507700"
+					"download"		"1396992224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BD87DBE4B51FCD0414781BD6FACC4765"
+					"size"		"79A27EEFDDEB77F4FE3FF7ADD3DF01FD"
+					"download"		"0F282773D4C63333ACA1CAFF8914B383"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8336548"
+				"timeupdated"		"1646782286"
+			}
+			"beta"
+			{
+				"buildid"		"8336548"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646782061"
+			}
+		}
+	}
+}
