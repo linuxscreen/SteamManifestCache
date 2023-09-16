@@ -1,0 +1,289 @@
+"appinfo"
+{
+	"appid"		"1893800"
+	"common"
+	{
+		"name"		"Scuffy Game"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"f578c4ee1ac25290f1ae78faac0c4b399bab2fa7"
+		"logo_small"		"f578c4ee1ac25290f1ae78faac0c4b399bab2fa7_thumb"
+		"icon"		"0dd24bcb89baa4dae21e8ebe55c4c12a7597c474"
+		"clienticon"		"915787bad547402b349f7745d05aaab7bfba4375"
+		"clienttga"		"32325e85203fa6b1967444e7c58606c80121f295"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1677110400"
+			"tested_build_id"		"10485557"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"16.04651162790698"
+				"height_pct"		"77.96247922108762"
+			}
+		}
+		"store_asset_mtime"		"1684098540"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LeoGameDevs"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Phoenix Limit Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Alternate Universe"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Scuffy Game"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"9"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1645210920"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1893800"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1721"
+			"1"		"3859"
+			"2"		"113"
+			"3"		"176981"
+			"4"		"1775"
+			"5"		"19"
+			"6"		"3839"
+			"7"		"1663"
+			"8"		"1773"
+			"9"		"4036"
+			"10"		"4191"
+			"11"		"1625"
+			"12"		"3968"
+			"13"		"597"
+			"14"		"3993"
+			"15"		"8666"
+			"16"		"699"
+			"17"		"5395"
+			"18"		"6650"
+			"19"		"3942"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"deckresolutionoverride"		"Default"
+		"developer"		"LeoGameDevs"
+		"publisher"		"Phoenix Limit Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Scuffy Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ScuffyGame.exe"
+				"arguments"		"-Fullscreen"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"9"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1893801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8341196759488609020"
+					"size"		"3029640815"
+					"download"		"1349920560"
+				}
+				"live-event"
+				{
+					"gid"		"871033871411169199"
+					"size"		"2029498316"
+					"download"		"1684627584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A2A702CE280EB52F2D7D8098C4047CCA"
+					"size"		"9F2477240AB8B9EB0421EA4C514930CD"
+					"download"		"BADFD0988293892D046686BD4C4AF852"
+				}
+			}
+		}
+		"1893802"
+		{
+			"dlcappid"		"2416170"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10485557"
+				"timeupdated"		"1676703634"
+			}
+			"beta"
+			{
+				"buildid"		"11603625"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688183660"
+			}
+			"live-event"
+			{
+				"buildid"		"8738513"
+				"description"		"Event"
+				"timeupdated"		"1679177960"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
