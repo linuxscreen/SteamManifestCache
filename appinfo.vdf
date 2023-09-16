@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"2353760"
+	"common"
+	{
+		"name"		"Landfall Archives"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"4e9b39d637b24e668bbdbba6f33e0d570de4e25b"
+		"clienttga"		"795a4a978de7256524a3c8361cab92172110ddc6"
+		"clienticon"		"fee41efc815d17534e5802612f4ca8b190416978"
+		"linuxclienticon"		"bbb0bda627f74337f0eeb5aa74698bef16749a53"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1681344000"
+			"tested_build_id"		"10926401"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"96.38273045507584"
+				"height_pct"		"91.26098313939681"
+			}
+		}
+		"store_asset_mtime"		"1678551787"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Landfall"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Landfall"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Landfall Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"28"
+			"6"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1680267507"
+		"community_hub_visible"		"1"
+		"gameid"		"2353760"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3968"
+			"1"		"597"
+			"2"		"1719"
+			"3"		"599"
+			"4"		"4182"
+			"5"		"9"
+			"6"		"492"
+			"7"		"4684"
+			"8"		"4305"
+			"9"		"4726"
+			"10"		"4175"
+			"11"		"5350"
+			"12"		"1684"
+			"13"		"3987"
+			"14"		"1678"
+			"15"		"1775"
+			"16"		"4191"
+			"17"		"4172"
+			"18"		"3810"
+			"19"		"13190"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Landfall"
+		"publisher"		"Landfall"
+		"homepage"		"http://landfall.se"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Landfall Archives"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LandfallArchives.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2353761"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5704177214336298316"
+					"size"		"6021908423"
+					"download"		"1975391472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"landfall"
+				{
+					"gid"		"4B903F0FB5B4CB1ADF4737DD878B8942"
+					"size"		"DF7F5765628615DE810261D39F31D4E0"
+					"download"		"3B304065BCF5B7980134B024DA47E4DA"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10926401"
+				"timeupdated"		"1680604689"
+			}
+			"landfall"
+			{
+				"buildid"		"10926401"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680603900"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000"
+		"maxnumfiles"		"10"
+	}
+}
