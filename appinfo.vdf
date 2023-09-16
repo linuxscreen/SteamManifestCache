@@ -1,0 +1,112 @@
+"appinfo"
+{
+	"appid"		"24710"
+	"common"
+	{
+		"name"		"Red Alert 3 Demo"
+		"metacritic_url"		"pc/commandandconquerredalert3"
+		"logo"		"1b9a5723f68bf15ba865e151afbde9f1eb9a3846"
+		"logo_small"		"1b9a5723f68bf15ba865e151afbde9f1eb9a3846_thumb"
+		"icon"		"02f2c2f9e3511f7c6d4a0afa184cc0a121581a13"
+		"clienttga"		"f3981ff3bb9a793884bbed104370c1c578532f20"
+		"clienticon"		"7e51ee45b8a489377f4829630e7c819950c2d4bc"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"parent"		"17480"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EA Los Angeles"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Electronic Arts"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_10"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1200470400"
+		"gameid"		"24710"
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"demoofappid"		"17480"
+		"developer"		"EA Los Angeles"
+		"gamedir"		"Command & Conquer Red Alert 3 Demo"
+		"homepage"		"http://www.ea.com/redalert/main.jsp"
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"noservers"		"1"
+		"onquitdemoshellexecute"		"steam://store/17480"
+		"order"		"1"
+		"primarycache"		"24711"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"visibleonlywheninstalled"		"1"
+		"publisher"		"Electronic Arts"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Command & Conquer Red Alert 3 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RA3Demo.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"24711"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7649689939912849945"
+					"size"		"2438362746"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13123"
+			}
+		}
+	}
+}
