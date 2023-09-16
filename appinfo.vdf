@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"1905120"
+	"common"
+	{
+		"name"		"The Past Within Demo"
+		"type"		"Demo"
+		"parent"		"1515210"
+		"releasestate"		"released"
+		"clienticon"		"06f898c25b101959650e7e185a5ef36fca459288"
+		"clienttga"		"0893cf383a07e78ca4e1074ddfd5dcc1b5a9d4d3"
+		"icon"		"5a976a1fe0029632bff269de5d65342d2b707adc"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"4f5c50421dd065cc823d38efef7aaef60ab767b6"
+		"logo_small"		"4f5c50421dd065cc823d38efef7aaef60ab767b6_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1645000826"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rusty Lake"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rusty Lake"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Rusty Lake"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1645444313"
+		"gameid"		"1905120"
+	}
+	"extended"
+	{
+		"demoofappid"		"1515210"
+		"developer"		"Rusty Lake"
+		"publisher"		"Rusty Lake"
+		"homepage"		"http://www.rustylake.com"
+	}
+	"config"
+	{
+		"installdir"		"The Past Within Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"thepastwithindemo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"thepastwithindemo.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1905121"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7343939654453596045"
+					"size"		"42937716"
+					"download"		"26117888"
+				}
+			}
+		}
+		"1905122"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2817297374334222017"
+					"size"		"62179908"
+					"download"		"25175568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9721169"
+				"timeupdated"		"1665743248"
+			}
+		}
+	}
+}
