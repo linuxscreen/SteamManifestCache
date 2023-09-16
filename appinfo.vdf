@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"461040"
+	"common"
+	{
+		"name"		"PICO PARK:Classic Edition"
+		"type"		"Game"
+		"oslist"		"windows"
+		"eulas"
+		{
+		}
+		"icon"		"22e3a8031c53898cab4ea50600e0c804044fe746"
+		"logo"		"3136931c9b635123855e63a94e1607c02b739fff"
+		"logo_small"		"3136931c9b635123855e63a94e1607c02b739fff_thumb"
+		"clienttga"		"0c6057f7072e8712a012357dcfb6e3019eac3f77"
+		"clienticon"		"8d34267a67eb9431e064798abe0ad32514e64094"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1670284800"
+			"tested_build_id"		"1116018"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"PICO PARK"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1626620760"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TECOPARK"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TECOPARK"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_29"		"1"
+			"category_28"		"1"
+			"category_39"		"1"
+			"category_43"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1461826800"
+		"steam_release_date"		"1461779820"
+		"community_hub_visible"		"1"
+		"gameid"		"461040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"597"
+			"2"		"492"
+			"3"		"19"
+			"4"		"3843"
+			"5"		"113"
+			"6"		"3841"
+			"7"		"1685"
+			"8"		"1721"
+			"9"		"7368"
+			"10"		"3964"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"TECOPARK"
+		"publisher"		"TECOPARK"
+		"homepage"		"http://picoparkgame.com/en/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"PICO_PARK"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"pico_park.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"461041"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6924387914277665142"
+					"size"		"7977978"
+					"download"		"5346208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"ABADA881F21D15DDBDBB4B720C09D35B"
+					"size"		"E4FF67FB2FF0B48DBA3AA8E4F84E6E78"
+					"download"		"47B61AF78DA3D0B22E8A604F318965B3"
+				}
+			}
+		}
+		"461042"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1116018"
+				"timeupdated"		"1462708400"
+			}
+			"test"
+			{
+				"buildid"		"1116018"
+				"pwdrequired"		"1"
+				"timeupdated"		"1462707952"
+			}
+		}
+	}
+}
