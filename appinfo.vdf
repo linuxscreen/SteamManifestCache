@@ -1,0 +1,1009 @@
+"appinfo"
+{
+	"appid"		"966870"
+	"common"
+	{
+		"name"		"SinVR"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"819e63f27ef0e6958030b6c240cb0322b0ee2144"
+		"logo_small"		"819e63f27ef0e6958030b6c240cb0322b0ee2144_thumb"
+		"icon"		"87a5e39c3a5a8bce2f9f7c714cf4480944cf30a4"
+		"clienttga"		"7c3be1f6469b371647b5ba864048902540f1c1c4"
+		"clienticon"		"254f7b850b693ca2908cbe1dcf6e4d05274111d3"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1673049600"
+			"tested_build_id"		"4163706"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"SinVR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"46.35627530364371"
+				"height_pct"		"42.36111111111107"
+			}
+		}
+		"store_asset_mtime"		"1671649509"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SinVR"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SinVR"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1468566000"
+		"steam_release_date"		"1545408319"
+		"community_hub_visible"		"1"
+		"gameid"		"966870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"6650"
+			"2"		"5611"
+			"3"		"21978"
+			"4"		"113"
+			"5"		"599"
+			"6"		"24904"
+			"7"		"4182"
+			"8"		"4947"
+			"9"		"3859"
+			"10"		"4191"
+			"11"		"1721"
+			"12"		"9130"
+			"13"		"9551"
+			"14"		"3839"
+			"15"		"1663"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"SinVR"
+		"publisher"		"SinVR"
+		"homepage"		"https://www.sinvr.co/support.php"
+		"isfreeapp"		"1"
+		"listofdlc"		"998600,998620,998960,998961,998970,1000120,1000140,1000150,1000160,1000170,1000180,1000190,1000200,1000210,1000220,1000230,1000240,1000250,1111950"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Forbidden World"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SinVR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SinNoVR.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"SinVR/SinVR.exe"
+				"arguments"		"SteamPC"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"ForbiddenWorld beta version"
+				}
+				"description"		"ForbiddenWorld beta version"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"966871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4477911491340541526"
+					"size"		"601063122"
+					"download"		"111487520"
+				}
+				"beta"
+				{
+					"gid"		"4477911491340541526"
+					"size"		"601063122"
+					"download"		"111487520"
+				}
+				"legacy"
+				{
+					"gid"		"4477911491340541526"
+					"size"		"601063122"
+					"download"		"111487520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"30CD05802A98CB02C9C5E0A7BC53788F"
+					"size"		"14AB5CAB6B48B5389E8FECAF72909B95"
+					"download"		"506CAD4E232F5D04561080A33BC92DD9"
+				}
+			}
+		}
+		"998601"
+		{
+			"dlcappid"		"998600"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6437626572518416531"
+					"size"		"223778971"
+					"download"		"226840384"
+				}
+				"beta"
+				{
+					"gid"		"6437626572518416531"
+					"size"		"223778971"
+					"download"		"226840384"
+				}
+				"legacy"
+				{
+					"gid"		"6437626572518416531"
+					"size"		"223778971"
+					"download"		"226840384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"766199F6D57840CC6CFC570B73E2695D"
+					"size"		"4A07504E3F2E124451D5C2A8D434AFB0"
+					"download"		"53584D537013394E6DFF48BB99CC1F3C"
+				}
+			}
+		}
+		"998621"
+		{
+			"dlcappid"		"998620"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3204701858028290866"
+					"size"		"115249436"
+					"download"		"116826000"
+				}
+				"beta"
+				{
+					"gid"		"3204701858028290866"
+					"size"		"115249436"
+					"download"		"116826000"
+				}
+				"legacy"
+				{
+					"gid"		"3204701858028290866"
+					"size"		"115249436"
+					"download"		"116826000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"EC439BB7CE0D822971A15E2098BD0287"
+					"size"		"D7394AE7041A5DAF4C4A4C6B967BC818"
+					"download"		"31CA3E8727B73AC2206549DD77C3DFC0"
+				}
+			}
+		}
+		"998962"
+		{
+			"dlcappid"		"998960"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5872004722150256385"
+					"size"		"174066221"
+					"download"		"176448192"
+				}
+				"beta"
+				{
+					"gid"		"5872004722150256385"
+					"size"		"174066221"
+					"download"		"176448192"
+				}
+				"legacy"
+				{
+					"gid"		"5872004722150256385"
+					"size"		"174066221"
+					"download"		"176448192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"FD23EEBD36DBE2468156D23B01695152"
+					"size"		"63BCEB7EBC85410ACC4CE430DD4CA26C"
+					"download"		"BC6BB0C0DAF2DEE24A380F2632CB9606"
+				}
+			}
+		}
+		"998963"
+		{
+			"dlcappid"		"998961"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8967413195763739831"
+					"size"		"111273035"
+					"download"		"112795984"
+				}
+				"beta"
+				{
+					"gid"		"8967413195763739831"
+					"size"		"111273035"
+					"download"		"112795984"
+				}
+				"legacy"
+				{
+					"gid"		"8967413195763739831"
+					"size"		"111273035"
+					"download"		"112795984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"644E65C8E0F66AAC632691C46EF69A01"
+					"size"		"C53097E556B372C744A59FB5AEBBDE99"
+					"download"		"057EC74D58DAD7E31119DBDDAF241A0F"
+				}
+			}
+		}
+		"998971"
+		{
+			"dlcappid"		"998970"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"432873627677304150"
+					"size"		"236151662"
+					"download"		"239381104"
+				}
+				"beta"
+				{
+					"gid"		"432873627677304150"
+					"size"		"236151662"
+					"download"		"239381104"
+				}
+				"legacy"
+				{
+					"gid"		"432873627677304150"
+					"size"		"236151662"
+					"download"		"239381104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"F7881C3125100AEC7C5870E3F33E67C8"
+					"size"		"34CCFD379A3C17FBB735AC45B2F8BFB0"
+					"download"		"AFA1CEE5D56D9C52D92D9670A7460811"
+				}
+			}
+		}
+		"1000121"
+		{
+			"dlcappid"		"1000120"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1398217245817553670"
+					"size"		"298571746"
+					"download"		"302655696"
+				}
+				"beta"
+				{
+					"gid"		"1398217245817553670"
+					"size"		"298571746"
+					"download"		"302655696"
+				}
+				"legacy"
+				{
+					"gid"		"1398217245817553670"
+					"size"		"298571746"
+					"download"		"302655696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"5383121720681AF54BB02DBDBBCCA2B9"
+					"size"		"A8C6A19AA5DB763F98748330AE49D7AF"
+					"download"		"95EE906DDD44B64B45C00FE0DC4CD3DF"
+				}
+			}
+		}
+		"1000141"
+		{
+			"dlcappid"		"1000140"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7000885460165851695"
+					"size"		"170504621"
+					"download"		"172836160"
+				}
+				"beta"
+				{
+					"gid"		"7000885460165851695"
+					"size"		"170504621"
+					"download"		"172836160"
+				}
+				"legacy"
+				{
+					"gid"		"7000885460165851695"
+					"size"		"170504621"
+					"download"		"172836160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"2F0EF040601BC29C44273D9FCF3E96D2"
+					"size"		"322A088A60337A8E093A896EC0E9131E"
+					"download"		"4248036C4839EBE7C0BF959F54A37828"
+				}
+			}
+		}
+		"1000151"
+		{
+			"dlcappid"		"1000150"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4697172922282625170"
+					"size"		"140683109"
+					"download"		"142608160"
+				}
+				"beta"
+				{
+					"gid"		"4697172922282625170"
+					"size"		"140683109"
+					"download"		"142608160"
+				}
+				"legacy"
+				{
+					"gid"		"4697172922282625170"
+					"size"		"140683109"
+					"download"		"142608160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"3D9863A7C5BF1CFC16A4AADC21437CCB"
+					"size"		"CE5E843FA4B69E29B2E71CBA94BA6D8C"
+					"download"		"06CBD04FFA0D1B26C7F27F24D8F70024"
+				}
+			}
+		}
+		"1000161"
+		{
+			"dlcappid"		"1000160"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2813984339033298150"
+					"size"		"217701361"
+					"download"		"220680480"
+				}
+				"beta"
+				{
+					"gid"		"2813984339033298150"
+					"size"		"217701361"
+					"download"		"220680480"
+				}
+				"legacy"
+				{
+					"gid"		"2813984339033298150"
+					"size"		"217701361"
+					"download"		"220680480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"6EF8D350CE3DCBE62E9804D595D9EBD4"
+					"size"		"F4C17D027145A9C266F11FF49B2FFAC0"
+					"download"		"4511108DDFEF37147B2CE4B0DC8A21C7"
+				}
+			}
+		}
+		"1000171"
+		{
+			"dlcappid"		"1000170"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3613676142261578178"
+					"size"		"236981954"
+					"download"		"240224544"
+				}
+				"beta"
+				{
+					"gid"		"3613676142261578178"
+					"size"		"236981954"
+					"download"		"240224544"
+				}
+				"legacy"
+				{
+					"gid"		"3613676142261578178"
+					"size"		"236981954"
+					"download"		"240224544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"97C23821241AA8C2C056954FEC09F3E2"
+					"size"		"E2B8BA6B3BDE68FCC3D69CF4FDDEFDFA"
+					"download"		"D4ED3BEA8CF2025B85960EE7B1AAD041"
+				}
+			}
+		}
+		"1000181"
+		{
+			"dlcappid"		"1000180"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6208710053647477042"
+					"size"		"264870717"
+					"download"		"268494640"
+				}
+				"beta"
+				{
+					"gid"		"6208710053647477042"
+					"size"		"264870717"
+					"download"		"268494640"
+				}
+				"legacy"
+				{
+					"gid"		"6208710053647477042"
+					"size"		"264870717"
+					"download"		"268494640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"0530003502BD6E3769FADE14779B7ACD"
+					"size"		"0A5E0B5EC4A83FE88FADB529D0FE7E90"
+					"download"		"CF6C3A02AD299B34675F81A3790233A7"
+				}
+			}
+		}
+		"1000191"
+		{
+			"dlcappid"		"1000190"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"321810044439970256"
+					"size"		"322400826"
+					"download"		"326811808"
+				}
+				"beta"
+				{
+					"gid"		"321810044439970256"
+					"size"		"322400826"
+					"download"		"326811808"
+				}
+				"legacy"
+				{
+					"gid"		"321810044439970256"
+					"size"		"322400826"
+					"download"		"326811808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"37C029AEE19EA253642999C625C734A2"
+					"size"		"DD6697C57C66BC8DB23A0B63E513EF51"
+					"download"		"3B1E225F32DFAAA6E8C54D0263059A90"
+				}
+			}
+		}
+		"1000201"
+		{
+			"dlcappid"		"1000200"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"398109405231301355"
+					"size"		"161001465"
+					"download"		"163204496"
+				}
+				"beta"
+				{
+					"gid"		"398109405231301355"
+					"size"		"161001465"
+					"download"		"163204496"
+				}
+				"legacy"
+				{
+					"gid"		"398109405231301355"
+					"size"		"161001465"
+					"download"		"163204496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"6DFD733C7FD5AA10A4F738BDCF41971F"
+					"size"		"3A69C527F76C8930AF69DF1237642FC5"
+					"download"		"AC6CA2027FA5873EF673C0E12D9D09FF"
+				}
+			}
+		}
+		"1000211"
+		{
+			"dlcappid"		"1000210"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2522120463862495271"
+					"size"		"305715410"
+					"download"		"309897232"
+				}
+				"beta"
+				{
+					"gid"		"2522120463862495271"
+					"size"		"305715410"
+					"download"		"309897232"
+				}
+				"legacy"
+				{
+					"gid"		"2522120463862495271"
+					"size"		"305715410"
+					"download"		"309897232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"A5222AFDF1BF312B0F43D08F91FD25EB"
+					"size"		"55634CD624980E52C0B83EF034DF4B58"
+					"download"		"9AB0E70245F627283585FB9AA4A290D0"
+				}
+			}
+		}
+		"1000221"
+		{
+			"dlcappid"		"1000220"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8015569417680842933"
+					"size"		"181425369"
+					"download"		"183903616"
+				}
+				"beta"
+				{
+					"gid"		"8015569417680842933"
+					"size"		"181425369"
+					"download"		"183903616"
+				}
+				"legacy"
+				{
+					"gid"		"8015569417680842933"
+					"size"		"181425369"
+					"download"		"183903616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"284630B38FF574EF504D6165D10F7214"
+					"size"		"7EDB02C357B278CE5373FB8462A4DEC4"
+					"download"		"8A18F1BC3BFBC401C57BABC603E5765E"
+				}
+			}
+		}
+		"1000231"
+		{
+			"dlcappid"		"1000230"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4094344599776716572"
+					"size"		"158422345"
+					"download"		"160589920"
+				}
+				"beta"
+				{
+					"gid"		"4094344599776716572"
+					"size"		"158422345"
+					"download"		"160589920"
+				}
+				"legacy"
+				{
+					"gid"		"4094344599776716572"
+					"size"		"158422345"
+					"download"		"160589920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"145A272BA8D8323B9528DB4ACE233F37"
+					"size"		"D1721CECFC6D1C1ADB3B97B901A86163"
+					"download"		"9E4F81A6179C2EAC658083D2D3AF11EC"
+				}
+			}
+		}
+		"1000241"
+		{
+			"dlcappid"		"1000240"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1854436361843970872"
+					"size"		"276321057"
+					"download"		"280098864"
+				}
+				"beta"
+				{
+					"gid"		"1854436361843970872"
+					"size"		"276321057"
+					"download"		"280098864"
+				}
+				"legacy"
+				{
+					"gid"		"1854436361843970872"
+					"size"		"276321057"
+					"download"		"280098864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"4E99EDB9DA16A914D26FBC7B6021B033"
+					"size"		"979E854D178187F7CFB3323F465F0694"
+					"download"		"D5E0405AC5058624F40AF3EE22BF0122"
+				}
+			}
+		}
+		"1000251"
+		{
+			"dlcappid"		"1000250"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3164023522042669024"
+					"size"		"214827500"
+					"download"		"217767024"
+				}
+				"beta"
+				{
+					"gid"		"3164023522042669024"
+					"size"		"214827500"
+					"download"		"217767024"
+				}
+				"legacy"
+				{
+					"gid"		"3164023522042669024"
+					"size"		"214827500"
+					"download"		"217767024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"8140E847BCBDE5AD6D165E0A7378405A"
+					"size"		"775AB26781BF4CB3DB8783A0B1B4D2B4"
+					"download"		"DFD09BBF69F6C99822D19023BF88B687"
+				}
+			}
+		}
+		"1111951"
+		{
+			"dlcappid"		"1111950"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8647327264051400438"
+					"size"		"230537315"
+					"download"		"233687424"
+				}
+				"beta"
+				{
+					"gid"		"8647327264051400438"
+					"size"		"230537315"
+					"download"		"233687424"
+				}
+				"legacy"
+				{
+					"gid"		"8647327264051400438"
+					"size"		"230537315"
+					"download"		"233687424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forbiddenworld"
+				{
+					"gid"		"95D1B8E905BF41B4D3B9A7D264D8784B"
+					"size"		"38AB3A86244DACBFD6A6E399EC72BAD1"
+					"download"		"77AAB0FBF3502374031B848AA139658B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4163706"
+				"timeupdated"		"1567537400"
+			}
+			"beta"
+			{
+				"buildid"		"4163706"
+				"timeupdated"		"1567535753"
+			}
+			"forbiddenworld"
+			{
+				"buildid"		"12192912"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694730755"
+			}
+			"legacy"
+			{
+				"buildid"		"4163706"
+				"description"		"The original SinVR game"
+				"timeupdated"		"1693951462"
+			}
+		}
+	}
+}
