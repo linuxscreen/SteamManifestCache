@@ -1,0 +1,137 @@
+"appinfo"
+{
+	"appid"		"1355040"
+	"common"
+	{
+		"name"		"Curved Space Demo"
+		"type"		"Demo"
+		"parent"		"1320230"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"d90f29d7b3d95b7d4042d7591c7d42a82ad9fcdc"
+		"clienticon"		"7e295ed3ea80c5341294dfb850d4a02e7d5bf0d4"
+		"icon"		"719845d096f70641d990064fe26541eb3c5bea62"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1592944250"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Only By Midnight Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Maximum Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1593389340"
+		"gameid"		"1355040"
+	}
+	"extended"
+	{
+		"demoofappid"		"1320230"
+		"developer"		"Only By Midnight Ltd."
+		"publisher"		"Maximum Games"
+		"homepage"		"https://curvedspacegame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Curved Space Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Curved Space.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1355041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6280849325178933810"
+					"size"		"1631109001"
+					"download"		"574610960"
+				}
+			}
+		}
+		"1355042"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6113213"
+				"timeupdated"		"1611173466"
+			}
+		}
+	}
+}
