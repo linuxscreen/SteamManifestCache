@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"1352550"
+	"common"
+	{
+		"name"		"Down The Hole Demo"
+		"type"		"Demo"
+		"parent"		"1260160"
+		"clienttga"		"21603c3f326312ce01a5331591e48af43c4f2c7d"
+		"clienticon"		"0191a7b9c3dd39ae17401fa859ae7f83030fc6ee"
+		"icon"		"8ead79ce6a351613444161f0a7975286ff961b2a"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"logo"		"f6cf6ce8ac58b0690499de1e619c024492e80b06"
+		"logo_small"		"f6cf6ce8ac58b0690499de1e619c024492e80b06_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"81.97199533255542"
+				"height_pct"		"58.35905960579434"
+			}
+		}
+		"store_asset_mtime"		"1592334628"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Not-So Classic Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Not-So Classic Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592549196"
+		"gameid"		"1352550"
+	}
+	"extended"
+	{
+		"demoofappid"		"1260160"
+		"developer"		"Not-So Classic Games"
+		"publisher"		"Not-So Classic Games"
+	}
+	"config"
+	{
+		"installdir"		"Down The Hole Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Down The Hole DEMO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Down The Hole DEMO.app\\Contents\\MacOS\\Down The Hole"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Down The Hole DEMO.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1352551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1870648189118037836"
+					"size"		"54374460"
+					"download"		"26928864"
+				}
+			}
+		}
+		"1352552"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6693592461828639965"
+					"size"		"64093808"
+					"download"		"31258960"
+				}
+			}
+		}
+		"1352553"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"474444905618584207"
+					"size"		"77251537"
+					"download"		"34625936"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5181721"
+				"timeupdated"		"1592450338"
+			}
+		}
+	}
+}
