@@ -1,0 +1,125 @@
+"appinfo"
+{
+	"appid"		"1348010"
+	"common"
+	{
+		"name"		"Havoc Runner Demo"
+		"type"		"Demo"
+		"parent"		"552480"
+		"releasestate"		"released"
+		"clienttga"		"32613c5f7aca20cae51b89515a59f81bc7e402ab"
+		"clienticon"		"1ae0d335bbd90e4023f07168d2231362fbb648a1"
+		"icon"		"8f1c7a473cca5a6cf40e7a9a5eabcc9631a8e77b"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.23453908984831"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1592420708"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Havoc Runner DEMO"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Drailton Lima de Andrade"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Guara Logic"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1593500400"
+		"steam_release_date"		"1592700270"
+		"gameid"		"1348010"
+	}
+	"extended"
+	{
+		"demoofappid"		"552480"
+		"developer"		"Havoc Runner DEMO"
+		"publisher"		"Guara Logic"
+		"homepage"		"http://www.indiedb.com/games/havoc-runner"
+	}
+	"config"
+	{
+		"installdir"		"Havoc Runner Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HavocRunnerDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"1.17"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1348011"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7998726773539732840"
+					"size"		"162981190"
+					"download"		"60900480"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5328533"
+				"timeupdated"		"1595602947"
+			}
+		}
+	}
+}
