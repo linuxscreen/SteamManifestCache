@@ -1,0 +1,112 @@
+"appinfo"
+{
+	"appid"		"2082070"
+	"common"
+	{
+		"name"		"东方冰之勇者记 Demo"
+		"type"		"Demo"
+		"parent"		"1955830"
+		"clienttga"		"2ff36128f4ad71ae6f7cbb56388b96f6bf745135"
+		"clienticon"		"76b56a72118a94d48a5142afa8873b89fdd12ab8"
+		"icon"		"522301a61ddb0be2d5deaf097a8796511960f167"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1657220733"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GAMEPULSE 游戏脉冲"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GAMEPULSE 游戏脉冲"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1657962943"
+		"gameid"		"2082070"
+	}
+	"extended"
+	{
+		"demoofappid"		"1955830"
+		"developer"		"GAMEPULSE 游戏脉冲"
+		"publisher"		"GAMEPULSE 游戏脉冲"
+	}
+	"config"
+	{
+		"installdir"		"东方冰之勇者记Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Touhou Hero of Ice Fairy Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2082071"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5663374754779561760"
+					"size"		"484053482"
+					"download"		"425619888"
+				}
+				"test"
+				{
+					"gid"		"5663374754779561760"
+					"size"		"484053482"
+					"download"		"425619888"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11390334"
+				"timeupdated"		"1686248498"
+			}
+			"test"
+			{
+				"buildid"		"11390334"
+				"description"		"Test"
+				"timeupdated"		"1685882672"
+			}
+		}
+	}
+}
