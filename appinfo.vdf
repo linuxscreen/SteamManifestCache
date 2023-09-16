@@ -1,0 +1,616 @@
+"appinfo"
+{
+	"appid"		"1583720"
+	"common"
+	{
+		"name"		"Entropy : Zero 2"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"81a7ea2b514e6809a5c7b3b7d81492fd719018ff"
+		"clienttga"		"23796ff4fbe15bf97250fdeb6c76617b0c31e115"
+		"icon"		"36784eb5817acca900ffdd1ce329cc1ac91e027f"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"0037c863b2801f87763283a3c1227e859e7bd7c5"
+		"logo_small"		"0037c863b2801f87763283a3c1227e859e7bd7c5_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1668211200"
+			"tested_build_id"		"9490947"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1672232615"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Breadmen"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Breadman"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_16"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1661029219"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1583720"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"1663"
+			"3"		"5348"
+			"4"		"3839"
+			"5"		"1774"
+			"6"		"3942"
+			"7"		"11333"
+			"8"		"1742"
+			"9"		"4137"
+			"10"		"4182"
+			"11"		"5186"
+			"12"		"4667"
+			"13"		"1669"
+			"14"		"3993"
+			"15"		"11104"
+			"16"		"6730"
+			"17"		"1667"
+			"18"		"1673"
+			"19"		"8122"
+		}
+		"review_score"		"9"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"requiredappid"		"220"
+		"isfreeapp"		"1"
+		"developer"		"Breadmen"
+		"publisher"		"Breadman"
+		"homepage"		"https://www.entropyzeromod.com/"
+	}
+	"config"
+	{
+		"installdir"		"EntropyZero2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game EntropyZero2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"hl2.sh"
+				"arguments"		"-game entropyzero2"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"13"
+		"steamdecktouchscreen"		"1"
+		"steaminputmanifestpath"		"steam_input\\action_manifest_mod.vdf"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"workshopdepot"		"1583720"
+		"1583721"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6462635214839903751"
+					"size"		"13302873685"
+					"download"		"6445599216"
+				}
+				"beta-1.4"
+				{
+					"gid"		"8607628158057934316"
+					"size"		"12602023255"
+					"download"		"6275087744"
+				}
+				"beta-1.5"
+				{
+					"gid"		"7725753461418738014"
+					"size"		"12626395630"
+					"download"		"6287616224"
+				}
+				"beta-1.6"
+				{
+					"gid"		"1597408712460749170"
+					"size"		"12866039563"
+					"download"		"6376404400"
+				}
+				"beta-1.7"
+				{
+					"gid"		"1501198079599618179"
+					"size"		"12891594743"
+					"download"		"6405901440"
+				}
+				"beta-1.8"
+				{
+					"gid"		"6972854256133298435"
+					"size"		"12940041030"
+					"download"		"6423768864"
+				}
+				"beta-2.0"
+				{
+					"gid"		"8363520196431945959"
+					"size"		"12961249679"
+					"download"		"6428126944"
+				}
+				"deck-testing"
+				{
+					"gid"		"7984985560505193915"
+					"size"		"13227129983"
+					"download"		"6425682640"
+				}
+				"rc-1"
+				{
+					"gid"		"7839912523554197778"
+					"size"		"12961532387"
+					"download"		"6427954816"
+				}
+				"rc-2"
+				{
+					"gid"		"6005348177961946913"
+					"size"		"12961909169"
+					"download"		"6428661600"
+				}
+				"rc-3"
+				{
+					"gid"		"4393630361208013732"
+					"size"		"13268037391"
+					"download"		"6452476000"
+				}
+				"rc-4"
+				{
+					"gid"		"5313080214072960556"
+					"size"		"13253495478"
+					"download"		"6449957040"
+				}
+				"rc-5"
+				{
+					"gid"		"4423300392960861409"
+					"size"		"13252121440"
+					"download"		"6448928640"
+				}
+				"release-1.0"
+				{
+					"gid"		"1355433181642451374"
+					"size"		"13260042288"
+					"download"		"6450848720"
+				}
+				"release-1.1"
+				{
+					"gid"		"3709910192167634675"
+					"size"		"13271005782"
+					"download"		"6454151744"
+				}
+				"release-1.2"
+				{
+					"gid"		"3729858632501886313"
+					"size"		"13404347001"
+					"download"		"6481374864"
+				}
+				"release-1.3"
+				{
+					"gid"		"264218274029108999"
+					"size"		"13412319367"
+					"download"		"6483395456"
+				}
+				"release-1.4"
+				{
+					"gid"		"2035738521443451740"
+					"size"		"13272718315"
+					"download"		"6438251888"
+				}
+				"release-1.5"
+				{
+					"gid"		"6462635214839903751"
+					"size"		"13302873685"
+					"download"		"6445599216"
+				}
+				"release-1.6"
+				{
+					"gid"		"1114610580975946399"
+					"size"		"13319096120"
+					"download"		"6470763664"
+				}
+				"upcoming"
+				{
+					"gid"		"1114610580975946399"
+					"size"		"13319096120"
+					"download"		"6470763664"
+				}
+				"v1.0.0"
+				{
+					"gid"		"7209319250938744176"
+					"size"		"13252138678"
+					"download"		"6449101952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"FD18709CF846DA949C70F344C87B1670"
+					"size"		"3DD12C63CC3C5F18096A154078B04227"
+					"download"		"63BBB349F26E16B3CB58DF59281DF06B"
+				}
+			}
+		}
+		"1583722"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5826691208745475918"
+					"size"		"129488210"
+					"download"		"33906880"
+				}
+				"deck-testing"
+				{
+					"gid"		"8644285004608255445"
+					"size"		"125786650"
+					"download"		"32895680"
+				}
+				"release-1.4"
+				{
+					"gid"		"7185608992754719090"
+					"size"		"126723266"
+					"download"		"33260768"
+				}
+				"release-1.5"
+				{
+					"gid"		"5826691208745475918"
+					"size"		"129488210"
+					"download"		"33906880"
+				}
+				"release-1.6"
+				{
+					"gid"		"5160689496136557270"
+					"size"		"129757294"
+					"download"		"33944096"
+				}
+				"upcoming"
+				{
+					"gid"		"5160689496136557270"
+					"size"		"129757294"
+					"download"		"33944096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"947304FFEA106226ACE5DFF034E6B7F9"
+					"size"		"734BB91099B0EE493E3DA4A62C1C7F48"
+					"download"		"D1760BB5CCED605FF59671C5FA27B694"
+				}
+			}
+		}
+		"1583723"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1252952229920166122"
+					"size"		"142285577"
+					"download"		"46067552"
+				}
+				"deck-testing"
+				{
+					"gid"		"358828271523963513"
+					"size"		"140396809"
+					"download"		"45463456"
+				}
+				"release-1.4"
+				{
+					"gid"		"8187415250681004939"
+					"size"		"140743945"
+					"download"		"45618928"
+				}
+				"release-1.5"
+				{
+					"gid"		"1252952229920166122"
+					"size"		"142285577"
+					"download"		"46067552"
+				}
+				"release-1.6"
+				{
+					"gid"		"513077274395392286"
+					"size"		"142423305"
+					"download"		"46104256"
+				}
+				"upcoming"
+				{
+					"gid"		"513077274395392286"
+					"size"		"142423305"
+					"download"		"46104256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"C9C68BA27AAF4C783CD8418216F45332"
+					"size"		"69A825D9C727D5A3517886AF72B70DE4"
+					"download"		"F1B498E2C7C8CF32BB7D5FDAEC6836BC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11250168"
+				"timeupdated"		"1685207176"
+			}
+			"beta-1.4"
+			{
+				"buildid"		"8566018"
+				"description"		"Beta Branch 1.4.X (Public)"
+				"timeupdated"		"1650043875"
+			}
+			"beta-1.5"
+			{
+				"buildid"		"8655712"
+				"description"		"Beta Branch 1.5.X (Public)"
+				"timeupdated"		"1651333652"
+			}
+			"beta-1.6"
+			{
+				"buildid"		"8995634"
+				"description"		"Beta Branch 1.6.X (Public)"
+				"timeupdated"		"1656005965"
+			}
+			"beta-1.7"
+			{
+				"buildid"		"9058548"
+				"description"		"Beta Branch 1.7.X"
+				"timeupdated"		"1656953753"
+			}
+			"beta-1.8"
+			{
+				"buildid"		"9179599"
+				"description"		"Beta Branch 1.8.X (Public)"
+				"timeupdated"		"1658649783"
+			}
+			"beta-2.0"
+			{
+				"buildid"		"9202395"
+				"description"		"Pre RC beta 2.0.0"
+				"timeupdated"		"1658946809"
+			}
+			"deck-testing"
+			{
+				"buildid"		"10003736"
+				"description"		"Steam Deck, Input, and Linux testing"
+				"timeupdated"		"1669240265"
+			}
+			"developer"
+			{
+				"buildid"		"11724378"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689641984"
+			}
+			"rc-1"
+			{
+				"buildid"		"9225513"
+				"description"		"Release Candidate 1"
+				"timeupdated"		"1659295803"
+			}
+			"rc-2"
+			{
+				"buildid"		"9282340"
+				"description"		"Release Candidate 2"
+				"timeupdated"		"1660062216"
+			}
+			"rc-3"
+			{
+				"buildid"		"9305157"
+				"description"		"Release Candidate 3"
+				"timeupdated"		"1660321910"
+			}
+			"rc-4"
+			{
+				"buildid"		"9318944"
+				"description"		"Release Candidate 4"
+				"timeupdated"		"1660592031"
+			}
+			"rc-5"
+			{
+				"buildid"		"9334148"
+				"description"		"Release Candidate 5"
+				"timeupdated"		"1660762042"
+			}
+			"release-1.0"
+			{
+				"buildid"		"9490947"
+				"description"		"Release Branch 1.0"
+				"timeupdated"		"1662845078"
+			}
+			"release-1.1"
+			{
+				"buildid"		"9509136"
+				"description"		"Release Branch 1.1"
+				"timeupdated"		"1663095437"
+			}
+			"release-1.2"
+			{
+				"buildid"		"10180558"
+				"description"		"Release Branch 1.2"
+				"timeupdated"		"1671496899"
+			}
+			"release-1.3"
+			{
+				"buildid"		"10426719"
+				"description"		"Release branch 1.3"
+				"timeupdated"		"1674952658"
+			}
+			"release-1.4"
+			{
+				"buildid"		"10643379"
+				"description"		"Release Branch 1.4"
+				"timeupdated"		"1677473146"
+			}
+			"release-1.5"
+			{
+				"buildid"		"11250168"
+				"description"		"Release Branch 1.5"
+				"timeupdated"		"1684298736"
+			}
+			"release-1.6"
+			{
+				"buildid"		"11724378"
+				"description"		"Release Branch 1.6"
+				"timeupdated"		"1689642019"
+			}
+			"upcoming"
+			{
+				"buildid"		"11724378"
+				"description"		"Branch for next release version"
+				"timeupdated"		"1689642002"
+			}
+			"v1.0.0"
+			{
+				"buildid"		"9345535"
+				"description"		"Version 1.0.0"
+				"timeupdated"		"1660890610"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"4300000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"entropyzero2/save"
+				"pattern"		"*"
+			}
+		}
+	}
+}
