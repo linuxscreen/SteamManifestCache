@@ -1,0 +1,323 @@
+"appinfo"
+{
+	"appid"		"1275670"
+	"common"
+	{
+		"name"		"Outcore"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"2fc3ded9dfc51138494ab73a5327425b045d5678"
+		"clienttga"		"7dbb673e1cb94098036bf244e1be322cc8316c6c"
+		"icon"		"06df4895a914fdef89610d2efba7ea0e484b386e"
+		"logo"		"c70a6956ce53e1d9868fe9dfb3e5af9f89f93b70"
+		"logo_small"		"c70a6956ce53e1d9868fe9dfb3e5af9f89f93b70_thumb"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1691760848"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Doctor Shinobi"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Doctor Shinobi"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+			"5"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664175620"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1275670"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1742"
+			"1"		"113"
+			"2"		"6426"
+			"3"		"4305"
+			"4"		"3834"
+			"5"		"122"
+			"6"		"6129"
+			"7"		"1664"
+			"8"		"1719"
+			"9"		"4726"
+			"10"		"4136"
+			"11"		"5608"
+			"12"		"3964"
+			"13"		"492"
+			"14"		"4182"
+			"15"		"1721"
+			"16"		"3799"
+			"17"		"5379"
+			"18"		"4166"
+			"19"		"599"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"disableoverlay"		"1"
+		"developer"		"Doctor Shinobi"
+		"publisher"		"Doctor Shinobi"
+		"homepage"		"https://www.outcoregame.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"2128470,2133270"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Outcore"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Outcore.exe"
+				"arguments"		"-force-d3d11-bitblt-model"
+				"description_loc"
+				{
+					"english"		"Outcore: Desktop Adventure"
+				}
+				"description"		"Outcore: Desktop Adventure"
+			}
+			"1"
+			{
+				"executable"		"Outcore.exe"
+				"arguments"		"-force-device-index 1"
+				"description_loc"
+				{
+					"english"		"\"Choose this ONLY if your desktop doesn't show up on a laptop\" edition"
+				}
+				"description"		"\"Choose this ONLY if your desktop doesn't show up on a laptop\" edition"
+			}
+			"2"
+			{
+				"executable"		"Outcore.exe"
+				"arguments"		"-force-opengl"
+				"description_loc"
+				{
+					"english"		"\"Choose this if the other options don't work\" edition"
+				}
+				"description"		"\"Choose this if the other options don't work\" edition"
+			}
+			"3"
+			{
+				"executable"		"Outcore_Data\\StreamingAssets\\CuteAnimalsLauncher.bat"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"\"Choose this if the game works correctly, but instead of playing it, you prefer to see cute animals with clown noses\" edition"
+				}
+				"description"		"\"Choose this if the game works correctly, but instead of playing it, you prefer to see cute animals with clown noses\" edition"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish"
+		"1275671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8640560422298144118"
+					"size"		"1174885141"
+					"download"		"499613792"
+				}
+				"beta"
+				{
+					"gid"		"8640560422298144118"
+					"size"		"1174885141"
+					"download"		"499613792"
+				}
+				"italian_spiderman"
+				{
+					"gid"		"8402053106275037080"
+					"size"		"1168044306"
+					"download"		"491768512"
+				}
+				"test1"
+				{
+					"gid"		"3849014112637831701"
+					"size"		"1123708680"
+					"download"		"448126544"
+				}
+			}
+		}
+		"2133270"
+		{
+			"dlcappid"		"2133270"
+		}
+		"2128470"
+		{
+			"dlcappid"		"2128470"
+		}
+		"2133260"
+		{
+			"dlcappid"		"2133260"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12047097"
+				"timeupdated"		"1693204978"
+			}
+			"beta"
+			{
+				"buildid"		"12047097"
+				"description"		"A branch for testing builds before they reach the public branch"
+				"timeupdated"		"1693204945"
+			}
+			"italian_spiderman"
+			{
+				"buildid"		"10124132"
+				"description"		"A branch for testing the Italian translations"
+				"timeupdated"		"1670770860"
+			}
+			"test1"
+			{
+				"buildid"		"9794537"
+				"description"		"Bug testing branch #1"
+				"timeupdated"		"1666699592"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000000"
+		"maxnumfiles"		"3"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"DoctorShinobi/Outcore"
+				"pattern"		"*.me"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"DoctorShinobi/Idle Game"
+				"pattern"		"*.me"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
