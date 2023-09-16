@@ -1,0 +1,123 @@
+"appinfo"
+{
+	"appid"		"1016240"
+	"common"
+	{
+		"name"		"The Dark Pictures Anthology - Man of Medan Demo"
+		"section_type"		"ownersonly"
+		"type"		"Demo"
+		"parent"		"939850"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1016240_eula_0"
+				"name"		"The Dark Pictures Anthology - Man of Medan Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1016240_eula_0"
+			}
+		}
+		"metacritic_name"		"The Dark Pictures Anthology - Man of Medan Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1567115506"
+		"associations"
+		{
+		}
+		"gameid"		"1016240"
+	}
+	"extended"
+	{
+		"demoofappid"		"939850"
+	}
+	"config"
+	{
+		"installdir"		"The Dark Pictures Anthology - Man of Medan"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ManOfMedan.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"1811991857"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,demotest,smgdevtest"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"1016241"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7980009630075337855"
+					"size"		"22897962098"
+					"download"		"11059130384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demotest"
+				{
+					"gid"		"2F9079995110041B68E1E3480BBF0CEB"
+					"size"		"BEBCBECB0F72805673DF536B535807DB"
+					"download"		"FC04BFA46C4FDD3718100000D63444AB"
+				}
+				"smgdevtest"
+				{
+					"gid"		"EC80CA4131970342C2147F5182FC4D8B"
+					"size"		"74C710A5DDCBF248F4F7C3459DFC6486"
+					"download"		"4ACCBA6F996DD7E82B39ABBEFCABB0E2"
+				}
+			}
+		}
+		"939851"
+		{
+			"depotfromapp"		"939850"
+			"sharedinstall"		"2"
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4413158"
+				"timeupdated"		"1574932584"
+			}
+			"demotest"
+			{
+				"buildid"		"4146353"
+				"pwdrequired"		"1"
+				"timeupdated"		"1567003924"
+			}
+			"smgdevtest"
+			{
+				"buildid"		"4092166"
+				"pwdrequired"		"1"
+				"timeupdated"		"1565387616"
+			}
+		}
+	}
+}
