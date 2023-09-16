@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"1355270"
+	"common"
+	{
+		"name"		"LOGistICAL: Earth Demo"
+		"type"		"Demo"
+		"parent"		"672150"
+		"releasestate"		"released"
+		"clienticon"		"e43f1b87642eb16cebf5b11720f4caaccf95a465"
+		"clienttga"		"089b717eb003465d17b8c7cf3f22d69fdb86205a"
+		"icon"		"34375f0f66c59e0e67ed404956ee6cedaedd8b7b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"45.68764568764569"
+				"height_pct"		"43.92097222146535"
+			}
+		}
+		"store_asset_mtime"		"1592746679"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sacada"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sacada"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"LOGistICAL"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"steam_release_date"		"1593144495"
+		"community_visible_stats"		"1"
+		"gameid"		"1355270"
+	}
+	"extended"
+	{
+		"demoofappid"		"672150"
+		"developer"		"Sacada"
+		"publisher"		"Sacada"
+	}
+	"config"
+	{
+		"installdir"		"LOGistICAL Earth Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LogisticalApp.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1355271"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3862631536901945082"
+					"size"		"348035425"
+					"download"		"212559968"
+				}
+				"beta"
+				{
+					"gid"		"3862631536901945082"
+					"size"		"348035425"
+					"download"		"212559968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6868794"
+				"timeupdated"		"1623726623"
+			}
+			"beta"
+			{
+				"buildid"		"6868794"
+				"description"		"demo beta"
+				"timeupdated"		"1623726615"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+		"appidredirect"		"573060"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
