@@ -1,0 +1,231 @@
+"appinfo"
+{
+	"appid"		"1881350"
+	"common"
+	{
+		"name"		"The Odyssey of the Mammoth"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"d48f70bc29b706a715b3fce9a155056199a518b1"
+		"logo_small"		"d48f70bc29b706a715b3fce9a155056199a518b1_thumb"
+		"icon"		"32334324c5d84e9287035c5f214ab110a83066c1"
+		"clienttga"		"2dd185523c3de53cb6f2fee50edbebe4df432014"
+		"clienticon"		"db78a8f7672415e4e180bc53a9c170c48a02ad99"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1651276800"
+			"tested_build_id"		"8342484"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"63.30708661417319"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1645808921"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mighty Tusks"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CNM"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1646416702"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1881350"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"3987"
+			"2"		"9592"
+			"3"		"4252"
+			"4"		"4106"
+			"5"		"6730"
+			"6"		"597"
+			"7"		"5900"
+			"8"		"4136"
+			"9"		"4305"
+			"10"		"1697"
+			"11"		"7250"
+			"12"		"5094"
+			"13"		"9803"
+			"14"		"4182"
+			"15"		"4191"
+			"16"		"3834"
+			"17"		"7208"
+			"18"		"1654"
+			"19"		"4726"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Mighty Tusks"
+		"publisher"		"CNM"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Odyssey of the Mammoth"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OMammoth.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1881351"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1220405234905315994"
+					"size"		"3609102178"
+					"download"		"1334780320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"FEEBD4557A5626F731A12AED11866904"
+					"size"		"053E171FC8E363A7FA415AFF378BD04B"
+					"download"		"0B1ECD74FDEAC90403D88CC87F1BABC4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8342484"
+				"timeupdated"		"1646855622"
+			}
+			"beta"
+			{
+				"buildid"		"8342484"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646855735"
+			}
+		}
+	}
+}
