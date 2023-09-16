@@ -1,0 +1,387 @@
+"appinfo"
+{
+	"appid"		"374280"
+	"common"
+	{
+		"name"		"Hired Ops"
+		"type"		"Game"
+		"oslist"		"windows"
+		"logo"		"5d7b814ea8716958db911e02162465f4a0062355"
+		"logo_small"		"5d7b814ea8716958db911e02162465f4a0062355_thumb"
+		"clienticon"		"76d63cac29d404483fc6eeeb1597513346baa2e4"
+		"clienttga"		"3bfe522105c20e8d7746641961d55899f0054bc6"
+		"icon"		"9b75f63571655cdb3d849856259d38e97bdb4b66"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"osarch"		"64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666224000"
+			"tested_build_id"		"9122843"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"metacritic_name"		"Hired Ops"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"58.306889760661534"
+				"height_pct"		"44.3661112430407"
+			}
+		}
+		"store_asset_mtime"		"1573219050"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Absolut Soft LLC"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_49"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1618325040"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"374280"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"3859"
+			"2"		"113"
+			"3"		"19"
+			"4"		"1774"
+			"5"		"5673"
+			"6"		"128"
+			"7"		"3839"
+			"8"		"493"
+			"9"		"4168"
+			"10"		"4182"
+			"11"		"4166"
+			"12"		"7481"
+			"13"		"1685"
+			"14"		"1775"
+			"15"		"3834"
+			"16"		"5228"
+			"17"		"4835"
+			"18"		"6426"
+			"19"		"4486"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"gamedir"		"Contract Wars 2.0 Standalone"
+		"serverbrowsername"		"Contract Wars 2.0 Standalone"
+		"developer"		"Absolut Soft LLC"
+		"homepage"		"https://www.hiredops.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Hired Ops"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hops.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"374281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5216703780370158020"
+					"size"		"16305242398"
+					"download"		"13047974128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"anticheat_test"
+				{
+					"gid"		"7575546EF8936F03A123B35708C0D870"
+					"size"		"74490BC0331DD6C5EBFC2A807032C285"
+					"download"		"5F785778F1561D598A6AC9DBDC417C33"
+				}
+				"boris"
+				{
+					"gid"		"EC9B6F8FB822976A903F50E55E06E621"
+					"size"		"4090EAC84CACACBC1BE616802FE9F649"
+					"download"		"E7E745BFCE9F818301AE0A73B4221528"
+				}
+				"development"
+				{
+					"gid"		"C5E341CABDA91FD4AF551FAC912996E6"
+					"size"		"930E79B064FD28606CEC572316830E26"
+					"download"		"141009F27D28C13F252502EABEE541DB"
+				}
+				"hops_test"
+				{
+					"gid"		"044E2D0FBC9E66CE54E96F208C3D7A9D"
+					"size"		"20DF21068D64840A52C497477C6D2534"
+					"download"		"0B4FB7D512D0C62EB98B3326E268F0A3"
+				}
+				"il2cpp"
+				{
+					"gid"		"C3C7DD9924A72C1698D7301BA4B254C9"
+					"size"		"AF052FB1314A68239EFD9D13ABE47E4E"
+					"download"		"51B696D7B919946BBDEE1E022327F6C5"
+				}
+				"int_test"
+				{
+					"gid"		"FADAE04D5C591B9A8E51D2BFE40747A4"
+					"size"		"FF7E1F44049D30CBE5C7708EFE2B8A2C"
+					"download"		"FFD6BD784BF556CE9C177E3A90611318"
+				}
+				"kirill_a"
+				{
+					"gid"		"4909AAC5CB8E77DB007CA6966B78D5F1"
+					"size"		"7FB92CC061745B05C06BCDA080918BDA"
+					"download"		"90E1FC0EE3C6F2B7055A8DABD1F17A2E"
+				}
+				"nba1"
+				{
+					"gid"		"5481D3B0255B9C00E2B810C943F52A21"
+					"size"		"58D2E9BFF3156DC8C75118BACF6EDECE"
+					"download"		"9BA1343D8344CFF210A81D9B4BD2C05C"
+				}
+				"new_test"
+				{
+					"gid"		"C9F93471DF566584B81297325168DA7E"
+					"size"		"AA7A25DC5EE8C6AAD05BF8356DC8AA48"
+					"download"		"ECC945A943A742CC60D7C07A1477C11F"
+				}
+				"slug_arkady"
+				{
+					"gid"		"DF917ACEC1FFF418BBE6F77EC3465E69"
+					"size"		"C2873849F2B2AD5013003164E4E537A9"
+					"download"		"F748282A7B7517A36CEDC62DC8377D6F"
+				}
+				"test"
+				{
+					"gid"		"F89963634CCD5ABDDD268F8F3F6A916A"
+					"size"		"2631387D472EABAE847DB561B83EA6E4"
+					"download"		"A00429B9FD920317F38E7C51CA4AE097"
+				}
+				"test_prod"
+				{
+					"gid"		"D1038E6F57ECC049A73C0CE868A82380"
+					"size"		"C4655EEABF5CE4B4C1174C097D84B240"
+					"download"		"53FD2206D8C8757FC4A590475C385BD4"
+				}
+				"vintorezzz"
+				{
+					"gid"		"63644E106310A591A1A73F8F478F54A8"
+					"size"		"4F3D27D28889D2C9A6BAD7626FF21084"
+					"download"		"6C61EEEBD33DA4813CDF2C78CC374506"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9122843"
+				"timeupdated"		"1687924993"
+			}
+			"anticheat_test"
+			{
+				"buildid"		"5556947"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600335244"
+			}
+			"boris"
+			{
+				"buildid"		"9122843"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687924090"
+			}
+			"development"
+			{
+				"buildid"		"4510334"
+				"pwdrequired"		"1"
+				"timeupdated"		"1576749611"
+			}
+			"hops_test"
+			{
+				"buildid"		"5345603"
+				"pwdrequired"		"1"
+				"timeupdated"		"1596015847"
+			}
+			"il2cpp"
+			{
+				"buildid"		"9122843"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657822151"
+			}
+			"int_test"
+			{
+				"buildid"		"9315670"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660552917"
+			}
+			"kirill_a"
+			{
+				"buildid"		"8992922"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655980065"
+			}
+			"nba1"
+			{
+				"buildid"		"9035569"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656581665"
+			}
+			"new_test"
+			{
+				"buildid"		"5547815"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600183167"
+			}
+			"slug_arkady"
+			{
+				"buildid"		"9112153"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657703376"
+			}
+			"test"
+			{
+				"buildid"		"9122843"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687923955"
+			}
+			"test_prod"
+			{
+				"buildid"		"5853809"
+				"pwdrequired"		"1"
+				"timeupdated"		"1605798464"
+			}
+			"vintorezzz"
+			{
+				"buildid"		"9020413"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656411986"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"*.data"
+			}
+		}
+	}
+}
