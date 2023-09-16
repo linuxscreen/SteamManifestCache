@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1353100"
+	"common"
+	{
+		"name"		"SCP: The Foundation"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"e2d5b3df3abc6bc40fc55a32e87ddb80ab6076fa"
+		"logo_small"		"e2d5b3df3abc6bc40fc55a32e87ddb80ab6076fa_thumb"
+		"icon"		"86c103501f05840aa3da41cb4111501206c426b4"
+		"clienttga"		"b6050bc8e938da628a362d7deac290438aa81ad4"
+		"clienticon"		"cf5ec9103c0f9e7b59f62c0057ee5c4bf8562be9"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1598859501"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Danstarr13"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Danstarr13"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1599040712"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1353100"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3978"
+			"1"		"3834"
+			"2"		"4106"
+			"3"		"4191"
+			"4"		"1667"
+			"5"		"3839"
+			"6"		"19"
+			"7"		"6426"
+			"8"		"5125"
+			"9"		"1687"
+			"10"		"21"
+			"11"		"1662"
+			"12"		"4166"
+			"13"		"3859"
+			"14"		"4342"
+			"15"		"4295"
+			"16"		"6276"
+			"17"		"113"
+			"18"		"4182"
+			"19"		"493"
+		}
+		"review_score"		"5"
+		"review_percentage"		"48"
+	}
+	"extended"
+	{
+		"developer"		"Danstarr13"
+		"publisher"		"Danstarr13"
+		"homepage"		"http://www.scp-wiki.net/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SCPTheFoundation"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SCPTheFoundation.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"1353101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7591681047235372364"
+					"size"		"2050710142"
+					"download"		"849980416"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5914504"
+				"timeupdated"		"1606965564"
+			}
+		}
+	}
+}
