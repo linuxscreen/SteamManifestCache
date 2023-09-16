@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"1092700"
+	"common"
+	{
+		"name"		"Hello Neighbor Pre-Alpha"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"3ada8cc358f2f241df0e08f94306d7e6b41e285e"
+		"logo_small"		"3ada8cc358f2f241df0e08f94306d7e6b41e285e_thumb"
+		"icon"		"406bccd3d42ead9439061e16f7dc49c715e07523"
+		"clienttga"		"7280c9ba1556b99880f75bb9cfa02e7ff96b545c"
+		"clienticon"		"61ea3a30d1abc2bdfc93d0f4829e0823fcf4f497"
+		"releasestate"		"released"
+		"metacritic_name"		"Hello Neighbor Pre-Alpha"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"36.23103850641769"
+				"height_pct"		"74.31726430776538"
+			}
+		}
+		"store_asset_mtime"		"1570702466"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dynamic Pixels"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"tinyBuild"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"tinyBuild"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Hello Neighbor"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1559804400"
+		"steam_release_date"		"1570702680"
+		"community_hub_visible"		"1"
+		"gameid"		"1092700"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"1687"
+			"2"		"3810"
+			"3"		"8369"
+			"4"		"3978"
+			"5"		"3839"
+			"6"		"4026"
+			"7"		"1662"
+			"8"		"4191"
+			"9"		"1721"
+			"10"		"4136"
+			"11"		"5613"
+			"12"		"5125"
+			"13"		"19"
+			"14"		"1664"
+			"15"		"4195"
+			"16"		"4305"
+			"17"		"4064"
+			"18"		"1714"
+			"19"		"4166"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Dynamic Pixels"
+		"publisher"		"tinyBuild"
+		"homepage"		"http://helloneighborgame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hello Neighbor Pre-Alpha"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HelloNeighbour.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1092701"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4320896385846962115"
+					"size"		"1142517583"
+					"download"		"306534336"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3865342"
+				"timeupdated"		"1559059471"
+			}
+		}
+	}
+}
