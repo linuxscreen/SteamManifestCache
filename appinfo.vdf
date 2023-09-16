@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"1708480"
+	"common"
+	{
+		"name"		"暖雪 Warm Snow Demo"
+		"type"		"Demo"
+		"parent"		"1296830"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"f643c75ba89560af240497ccd97f5e15b2379cef"
+		"clienticon"		"28cb746b446c66501c3acd627e8dfd83cb9ed4c0"
+		"icon"		"3ee00bf4ca94330d6535fb82f7206ed99eaeed0f"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"store_asset_mtime"		"1627727937"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BadMudStudio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BadMudStudio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_23"		"1"
+		}
+		"steam_release_date"		"1639216244"
+		"gameid"		"1708480"
+	}
+	"extended"
+	{
+		"demoofappid"		"1296830"
+		"developer"		"BadMudStudio"
+		"publisher"		"BadMudStudio"
+	}
+	"config"
+	{
+		"installdir"		"暖雪 Warm Snow Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WarmSnow.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"WarmSnow.exe"
+				"type"		"none"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65532"
+	}
+	"depots"
+	{
+		"1708481"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3255435333082862137"
+					"size"		"1465614752"
+					"download"		"1039621744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"badmudstudiotest"
+				{
+					"gid"		"131C8C18B002A2A357CAD90906206ED9"
+					"size"		"79431259DEFC543CD31ECD782252C7C7"
+					"download"		"B3A94E0B6F69C95C5B04777E263F95D7"
+				}
+				"bili"
+				{
+					"gid"		"F3A8D0184539515630CA049709C8B3AB"
+					"size"		"68D9FED4D0A092498523415979D1F2D9"
+					"download"		"CE7B7470FD2E26089549E2788A421C88"
+				}
+				"daceshi"
+				{
+					"gid"		"E8DD7103E193CE1825774F1A7C1EA304"
+					"size"		"3E5879CD37C82B4557D33C0986EFD4D0"
+					"download"		"BC00BE206C59CD0AA0BD2EC691C2F0AE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8096429"
+				"timeupdated"		"1643281560"
+			}
+			"badmudstudiotest"
+			{
+				"buildid"		"7226961"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629532776"
+			}
+			"bili"
+			{
+				"buildid"		"7866952"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639215121"
+			}
+			"daceshi"
+			{
+				"buildid"		"8096429"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644569183"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"2000"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"BadMudStudio\\WarmSnow\\demo_save"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
