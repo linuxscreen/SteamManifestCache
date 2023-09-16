@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"2009690"
+	"common"
+	{
+		"name"		"Good Company Demo"
+		"type"		"Demo"
+		"parent"		"911430"
+		"clienttga"		"dcc3b0dba3dc56963aa178b2a9be38ce3639f148"
+		"clienticon"		"b5046ea3ea5facb860b8b71c9ea41bc104c4d5cd"
+		"icon"		"e98a4cd18886000e1b3886aed90ced4505b82226"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1653389517"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Chasing Carrots"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Irregular Corporation"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1655211391"
+		"gameid"		"2009690"
+	}
+	"extended"
+	{
+		"demoofappid"		"911430"
+		"developer"		"Chasing Carrots"
+		"publisher"		"The Irregular Corporation"
+		"homepage"		"http://www.goodcompanygame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Good Company Demo"
+		"uselaunchcommandline"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GoodCompany.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,schinese,russian,japanese,brazilian"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2009691"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8523226504391988449"
+					"size"		"970468859"
+					"download"		"514382272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9001711"
+				"timeupdated"		"1656083092"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1073741824"
+		"maxnumfiles"		"100"
+		"appidredirect"		"911430"
+	}
+}
