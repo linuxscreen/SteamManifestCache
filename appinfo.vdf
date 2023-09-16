@@ -1,0 +1,276 @@
+"appinfo"
+{
+	"appid"		"1806040"
+	"common"
+	{
+		"name"		"Snake Force"
+		"type"		"Game"
+		"logo"		"ec2af74466fe5d0a2aa4759c5bbd876065df91be"
+		"logo_small"		"ec2af74466fe5d0a2aa4759c5bbd876065df91be_thumb"
+		"icon"		"f9db4e8a4f3add7dd68c5b33cbd2f179fa5eaa19"
+		"clienticon"		"42c56b1b2da7cfc5b0bb1ac52c8812186e2e729f"
+		"clienttga"		"d3ec8efe5fb5034e7d0a38748cb61a825c18f9ff"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"name_localized"
+		{
+			"schinese"		"蛇行武装"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660953600"
+			"tested_build_id"		"7801621"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"78.95348837209303"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1636368793"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Soda"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Soda"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1637287500"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1806040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1774"
+			"2"		"113"
+			"3"		"4637"
+			"4"		"4191"
+			"5"		"3859"
+			"6"		"4791"
+			"7"		"1708"
+			"8"		"4136"
+			"9"		"4168"
+			"10"		"4252"
+			"11"		"492"
+			"12"		"4182"
+			"13"		"1719"
+			"14"		"3993"
+			"15"		"5923"
+			"16"		"1663"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Team Soda"
+		"publisher"		"Team Soda"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Snake Force"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Snake Force.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SnakeForce.app\\Contents\\MacOS\\Snake Force"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"1806041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7441345000469135747"
+					"size"		"714257102"
+					"download"		"128984448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0E4CF7391F4C19A142ABFF0BA1D3B415"
+					"size"		"1668CF464D002FE94CCCF46D19FB4849"
+					"download"		"E26C91E56B2AD00333D68659E8B417B0"
+				}
+			}
+		}
+		"1806042"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5617030129472959852"
+					"size"		"738222491"
+					"download"		"136504656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"221A6D07D8177B0F084AE153B405DFE3"
+					"size"		"EC95D3DFD47908719211745F8FCD6E76"
+					"download"		"5EF2129807782AEC7577EC7D92FCBEA5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7801621"
+				"timeupdated"		"1638279503"
+			}
+			"beta"
+			{
+				"buildid"		"7861789"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639137025"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Team Soda/Snake Force"
+				"pattern"		"SaveFile.es3"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
