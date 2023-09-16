@@ -1,0 +1,312 @@
+"appinfo"
+{
+	"appid"		"1046470"
+	"common"
+	{
+		"name"		"Deep the Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"f9630ed0497090fb10afaeef72d576f096a9bfa9"
+		"logo_small"		"f9630ed0497090fb10afaeef72d576f096a9bfa9_thumb"
+		"icon"		"34242f514606f8eb1689f91764351a3fa3d9c6b3"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"39c5d2cdf557c6281d07fa357f2c58fca5f88016"
+		"clienttga"		"91f716eaa05d7b1b6eeac88ba39a79fbdb1c8142"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"brazilian"		"1"
+		}
+		"market_presence"		"0"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50"
+				"height_pct"		"64.05841842792685"
+			}
+		}
+		"store_asset_mtime"		"1613728425"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Goricina Productions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Goricina Entertainment"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_17"		"1"
+			"category_25"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_15"		"1"
+			"category_30"		"1"
+			"category_44"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1543651200"
+		"steam_release_date"		"1578746940"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1046470"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21"
+			"2"		"492"
+			"3"		"19"
+			"4"		"3964"
+			"5"		"7368"
+			"6"		"1625"
+			"7"		"3871"
+			"8"		"3859"
+			"9"		"4026"
+			"10"		"5379"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,alpha,beta"
+		"developer"		"Goricina Productions"
+		"publisher"		"Goricina Entertainment"
+		"homepage"		"https://goricinaproductions.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1245390,1411530"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Deep the Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"nw.exe"
+				"description"		"Windows 32"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"nw.exe"
+				"description"		"Windows 64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"nw"
+				"arguments"		"chmod a+x"
+				"description"		"Linux 32"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"nw"
+				"arguments"		"chmod a+x"
+				"description"		"linux 64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"4"
+			{
+				"executable"		"deep.app"
+				"description"		"osx 64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2042033824"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,alpha,beta"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"workshopdepot"		"1046470"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1046471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5276030709568917613"
+					"size"		"239342607"
+					"download"		"152452880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"A7E25C54AD52468A273E4097FB72A74C"
+					"size"		"397649343B31CB814C74B787EA1E5E2E"
+					"download"		"094EDE17462FFEA6184C6135D38F5795"
+				}
+				"beta"
+				{
+					"gid"		"C009743CF4A2CF30F8BCBD183E22E1DD"
+					"size"		"EC347E0ECB855966329D7AECCCA2E1EB"
+					"download"		"7FE344EB5E0F8E18F32488F775E25D3A"
+				}
+			}
+		}
+		"1046472"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"85766217621058773"
+					"size"		"260080941"
+					"download"		"154478736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"E175EDD68AF62C1EC8CE580A6753AE2A"
+					"size"		"7E7E1C0615BC0E6FCEAA55F5356A7801"
+					"download"		"8E616C5C9FA624ADDDEA219314BE556C"
+				}
+				"beta"
+				{
+					"gid"		"85260FD8B763F10C7AB508C3982CDC04"
+					"size"		"B9C67BA3B8F9897D926514CA5DC97893"
+					"download"		"B959C84C1137D816A91F47F2DA96FD13"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6261525"
+				"timeupdated"		"1613690795"
+			}
+			"alpha"
+			{
+				"buildid"		"6261525"
+				"pwdrequired"		"1"
+				"timeupdated"		"1613690780"
+			}
+			"beta"
+			{
+				"buildid"		"6261525"
+				"pwdrequired"		"1"
+				"timeupdated"		"1613690787"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Deep"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
