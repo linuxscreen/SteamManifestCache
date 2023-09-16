@@ -1,0 +1,197 @@
+"appinfo"
+{
+	"appid"		"706990"
+	"common"
+	{
+		"name"		"BLOCKPOST"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"5163aaf4e5e7ac7139dec3f36c3012ba88796af9"
+		"logo_small"		"5163aaf4e5e7ac7139dec3f36c3012ba88796af9_thumb"
+		"icon"		"84e0869208df5df1d65605ebb5bb0b95d6f2d596"
+		"clienticon"		"f256a4bd4ab5730ed3482b6702033cc2aeef3c23"
+		"clienttga"		"24299b962845aae443716edb996f173128cd7065"
+		"market_presence"		"1"
+		"metacritic_name"		"BLOCKPOST"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ru"
+			"library_hero"		"en"
+			"library_logo"		"en,ru"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"22.2222222222222"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1661172180"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Skullcap Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Skullcap Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1556206058"
+		"community_hub_visible"		"1"
+		"gameid"		"706990"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1663"
+			"2"		"3859"
+			"3"		"3964"
+			"4"		"19"
+			"5"		"1774"
+			"6"		"3839"
+			"7"		"492"
+			"8"		"128"
+			"9"		"1643"
+			"10"		"1685"
+			"11"		"493"
+			"12"		"3843"
+			"13"		"4136"
+			"14"		"1659"
+			"15"		"1662"
+			"16"		"4345"
+			"17"		"1734"
+			"18"		"4182"
+			"19"		"599"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Skullcap Studios"
+		"publisher"		"Skullcap Studios"
+		"homepage"		"https://www.skullcapstudios.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BLOCKPOST"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"blockpost.exe"
+				"type"		"none"
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,russian,ukrainian"
+		"706991"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1282863286918707422"
+					"size"		"59528690"
+					"download"		"18968624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"2AC82EEE55099F413CC44319030CB45D"
+					"size"		"30C91818AC27F29444D2B1A8B711A10D"
+					"download"		"4334398641FEF5D3984AD18A90A5B34E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9556100"
+				"timeupdated"		"1663706252"
+			}
+			"test"
+			{
+				"buildid"		"9556100"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663706240"
+			}
+		}
+	}
+}
