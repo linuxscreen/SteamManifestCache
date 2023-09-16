@@ -1,0 +1,197 @@
+"appinfo"
+{
+	"appid"		"1819570"
+	"common"
+	{
+		"name"		"Eraser"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"bd4030f0730f26a44c3ee67e17aa8ea7565898f3"
+		"clienttga"		"f7e828531d60288db1c46b331d77b0ec1df2181d"
+		"icon"		"a40895256a5f05b39f690f2cc03399f1501d43a0"
+		"logo"		"af47e5ca285293c1b82c6e31a279300d75500713"
+		"logo_small"		"af47e5ca285293c1b82c6e31a279300d75500713_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666224000"
+			"tested_build_id"		"8010871"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"54.200700116686136"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1639591030"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ringating"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ringating"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1639591534"
+		"community_hub_visible"		"1"
+		"gameid"		"1819570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5395"
+			"1"		"3843"
+			"2"		"4026"
+			"3"		"492"
+			"4"		"3859"
+			"5"		"113"
+			"6"		"19"
+			"7"		"3993"
+			"8"		"4094"
+			"9"		"4252"
+			"10"		"29482"
+			"11"		"1685"
+			"12"		"1625"
+			"13"		"1697"
+			"14"		"6815"
+			"15"		"4191"
+			"16"		"4975"
+			"17"		"4182"
+			"18"		"4036"
+			"19"		"1710"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Ringating"
+		"publisher"		"Ringating"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Eraser"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Eraser.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1819571"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"843950974131353689"
+					"size"		"106408848"
+					"download"		"23327248"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8010871"
+				"timeupdated"		"1642025750"
+			}
+		}
+	}
+}
