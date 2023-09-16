@@ -1,0 +1,156 @@
+"appinfo"
+{
+	"appid"		"1560490"
+	"common"
+	{
+		"name"		"Sword and Fairy 7 Demo"
+		"type"		"Demo"
+		"parent"		"1543030"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"f442c9638814bcea5cb10469110541e2cf75b53d"
+		"clienticon"		"a7e79882738204fd059c6fc718009a61fa231bd0"
+		"icon"		"5c52ebb3c5cdc21925f718edd9c8d4e6bbd52ec1"
+		"name_localized"
+		{
+			"tchinese"		"仙劍奇俠傳七試玩版"
+			"schinese"		"仙剑奇侠传七试玩版"
+			"japanese"		"仙剣奇侠伝七試遊版"
+			"english"		"Sword and Fairy 7 Demo"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"71.76908116937128"
+				"height_pct"		"59.32532269008656"
+			}
+		}
+		"store_asset_mtime"		"1615964982"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"软星科技（北京）有限公司"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"方块游戏(CubeGame)"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1616396019"
+		"gameid"		"1560490"
+	}
+	"extended"
+	{
+		"demoofappid"		"1543030"
+		"developer"		"软星科技（北京）有限公司"
+		"publisher"		"方块游戏(CubeGame)"
+	}
+	"config"
+	{
+		"installdir"		"仙剑奇侠传七试玩版"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Pal7.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"schinese,tchinese"
+		"1560491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8430065928535987362"
+					"size"		"18958972717"
+					"download"		"8224539488"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6408172"
+				"timeupdated"		"1616156288"
+			}
+		}
+	}
+}
