@@ -1,0 +1,511 @@
+"appinfo"
+{
+	"appid"		"1097430"
+	"common"
+	{
+		"name"		"依盖之书 book of yog"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"name_localized"
+		{
+			"english"		"Book of Yog Idle RPG"
+			"schinese"		"依盖之书"
+		}
+		"logo"		"2b47f8287be15746bbb02074b1825d21ace67cf7"
+		"logo_small"		"2b47f8287be15746bbb02074b1825d21ace67cf7_thumb"
+		"icon"		"6174bbc1fbc78f0bebbd2c02ba16057701882e1b"
+		"clienticon"		"5bc4eff1181de48ddd689a07d6b1e3e60df9e50f"
+		"clienttga"		"b0de18a0df5b648a367c6c40c256dcebfcdff717"
+		"releasestate"		"released"
+		"linuxclienticon"		"4d91b94e2da06775cfc6fa6900cdd81aefd56f6c"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1667606400"
+			"tested_build_id"		"9625603"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Book of Yog"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"67.50685939068035"
+				"height_pct"		"99.30555555555554"
+			}
+		}
+		"store_asset_mtime"		"1688009923"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"元气工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"元气工作室"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"28"
+			"2"		"18"
+			"3"		"2"
+			"4"		"37"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_20"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1659151800"
+		"community_hub_visible"		"1"
+		"gameid"		"1097430"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4182"
+			"1"		"1084988"
+			"2"		"9"
+			"3"		"1667"
+			"4"		"6650"
+			"5"		"4236"
+			"6"		"1646"
+			"7"		"3810"
+			"8"		"12095"
+			"9"		"4231"
+			"10"		"615955"
+			"11"		"7208"
+			"12"		"379975"
+			"13"		"1662"
+			"14"		"122"
+			"15"		"9551"
+			"16"		"599"
+			"17"		"113"
+			"18"		"3859"
+			"19"		"4434"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"元气工作室"
+		"publisher"		"元气工作室"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"book of yog 依盖之书"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"依盖之书.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65527"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english,schinese"
+		"1097432"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"903370832220483260"
+					"size"		"2071289875"
+					"download"		"1349826272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatest"
+				{
+					"gid"		"1BBFD0E10CB46E20E43B75514AFCAF67"
+					"size"		"8F659C7A2FC5BC92A2A3C1419FAD0139"
+					"download"		"34E684A7E4586E1DA7DC60B8CE344883"
+				}
+				"overseastest"
+				{
+					"gid"		"5DF07297729BC0D1AFC3DB52DFBA6066"
+					"size"		"C45D944ADAEF0BD605BEFD0DAE657E51"
+					"download"		"B19C0C7BAE9BE9E454EE1D8B394C74D7"
+				}
+				"patchtest"
+				{
+					"gid"		"90BFC9A697195C78DAD7F1E2AD3895C5"
+					"size"		"440DE667E07EB4E15103703BC4C8B4E6"
+					"download"		"1958A44534F2C6C0EA219E49BD7E282F"
+				}
+				"steamdecktest"
+				{
+					"gid"		"93105FE4A81E0987D676CF81AEE79C57"
+					"size"		"716040E66214B5BA39C2CF6E51540D70"
+					"download"		"C2D6CA9C0BD34B8DBBF3EC9D7A4C28BE"
+				}
+			}
+		}
+		"1097431"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3733391343079240505"
+					"size"		"2071289875"
+					"download"		"1349978640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatest"
+				{
+					"gid"		"16A0411C2C0678FD348A007D3CA294C9"
+					"size"		"8F659C7A2FC5BC92A2A3C1419FAD0139"
+					"download"		"98C93AAB591DBC8018E41639AA4BFADA"
+				}
+				"overseastest"
+				{
+					"gid"		"6DC27B013AD90FACD9843E5AC7334CBA"
+					"size"		"C45D944ADAEF0BD605BEFD0DAE657E51"
+					"download"		"CB960E471332A5E3E15499D337EE40F1"
+				}
+				"patchtest"
+				{
+					"gid"		"69FC57CFCCD6055A6A2338E52ABBE771"
+					"size"		"440DE667E07EB4E15103703BC4C8B4E6"
+					"download"		"13971547496EDBA8EAC4511CE34D39B8"
+				}
+				"steamdecktest"
+				{
+					"gid"		"0A5AFFC8626886C3F870DACAC6270B38"
+					"size"		"716040E66214B5BA39C2CF6E51540D70"
+					"download"		"F5197E51A38AE738D956BC3DB29F9D44"
+				}
+			}
+		}
+		"1097435"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8301528771690067716"
+					"size"		"2853067586"
+					"download"		"1902857776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatest"
+				{
+					"gid"		"0368E419E18479DF5BA82C039B5809D7"
+					"size"		"0DF6AFA4FEEBF83424F4B428061A213E"
+					"download"		"10E9FC0FDAD53270CF500D9BBDA65C1C"
+				}
+				"overseastest"
+				{
+					"gid"		"957697EB9384207203D38E2D69032F52"
+					"size"		"C03482A15857B44CAC6F53B9B60EC611"
+					"download"		"10B39D94FAE4AD617E68114771425F61"
+				}
+				"patchtest"
+				{
+					"gid"		"7EC9249E853D7C14983226D2D0527E73"
+					"size"		"3D29843A2ECC34305603697E315E8AFD"
+					"download"		"8008F1DFC448811498EB08A5FC8509AB"
+				}
+				"steamdecktest"
+				{
+					"gid"		"82F07B670A1F9CF384F53F385C0E977D"
+					"size"		"D5330ECB6A87AA9A39064766A60F42BE"
+					"download"		"29BCB68C7852DA1D8DFB760F46993879"
+				}
+			}
+		}
+		"1097436"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2713355482847870309"
+					"size"		"2853067586"
+					"download"		"1902857776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatest"
+				{
+					"gid"		"6FBA12E09C18271D02FD1D5B48832327"
+					"size"		"0DF6AFA4FEEBF83424F4B428061A213E"
+					"download"		"10E9FC0FDAD53270CF500D9BBDA65C1C"
+				}
+				"overseastest"
+				{
+					"gid"		"48470CA2A3C0CACB70A0E0937010E9FB"
+					"size"		"C03482A15857B44CAC6F53B9B60EC611"
+					"download"		"10B39D94FAE4AD617E68114771425F61"
+				}
+				"patchtest"
+				{
+					"gid"		"DC0C78F4F276AB726EA8254C2568A647"
+					"size"		"3D29843A2ECC34305603697E315E8AFD"
+					"download"		"8008F1DFC448811498EB08A5FC8509AB"
+				}
+				"steamdecktest"
+				{
+					"gid"		"26E0973DE9175C8C15076D586E039636"
+					"size"		"D5330ECB6A87AA9A39064766A60F42BE"
+					"download"		"29BCB68C7852DA1D8DFB760F46993879"
+				}
+			}
+		}
+		"1097433"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3202354921097463084"
+					"size"		"1672071011"
+					"download"		"1028531472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"overseastest"
+				{
+					"gid"		"2E414E861F20D585B764DDEC29403091"
+					"size"		"ACCF9771E0E9F571BF0892A810DA13B3"
+					"download"		"FFE508237A03A6E591A9B2E68D16324A"
+				}
+				"patchtest"
+				{
+					"gid"		"8D508B53E1299275731DB004CB1BFCCF"
+					"size"		"40774635B861D0C7FE01B1CC0FB0694F"
+					"download"		"24699F9F244757EA2A90F42A38009B4F"
+				}
+				"steamdecktest"
+				{
+					"gid"		"1CEFD33754FD6B3392FD1421B3213E85"
+					"size"		"4FF11FC4D5D82EDA71728FE8C48ECFF1"
+					"download"		"CAC0E4A8C198679151572E869C196C39"
+				}
+			}
+		}
+		"1097434"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7923736654085884571"
+					"size"		"1664807573"
+					"download"		"1026270160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"overseastest"
+				{
+					"gid"		"2DD0D0C2308BCE666E99DA4CC297094F"
+					"size"		"39D415CF09BBB06FD0CCC29E63E4A856"
+					"download"		"FDA76CDC65663D91EF13270A6650E0AF"
+				}
+				"patchtest"
+				{
+					"gid"		"BF28F9CC527D9D59C57F1643BAC21F46"
+					"size"		"78DE3432028A75AE2E5B08F6513D9BF3"
+					"download"		"A6756F6E502FB8F8E5E37CF3EBEC457B"
+				}
+				"steamdecktest"
+				{
+					"gid"		"5C74739F07C2D85352324942330866B9"
+					"size"		"04C45DD6F8CBE24356D7BA7534AFE092"
+					"download"		"148AB3E528B5FAA195C937512DB56F44"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12200197"
+				"timeupdated"		"1694790501"
+			}
+			"betatest"
+			{
+				"buildid"		"9481520"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662692808"
+			}
+			"overseastest"
+			{
+				"buildid"		"12200137"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694790065"
+			}
+			"patchtest"
+			{
+				"buildid"		"11250466"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684381841"
+			}
+			"steamdecktest"
+			{
+				"buildid"		"11096000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682518782"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
