@@ -1,0 +1,153 @@
+"appinfo"
+{
+	"appid"		"1353340"
+	"common"
+	{
+		"name"		"Blue Boy: Bleeding Out Demo"
+		"type"		"Demo"
+		"parent"		"1172150"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"9170448234c5c558d09b808e6e0c2012a3b7be46"
+		"clienttga"		"4054452eff17ad4c6dc0b5d1d57092c00c5f7b6f"
+		"icon"		"fb7fee18adce15aed7d05e8e82cea56028e23fec"
+		"logo"		"c2990f56c93b06a764a080ae43429d439995a154"
+		"logo_small"		"c2990f56c93b06a764a080ae43429d439995a154_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"74.39014266256396"
+				"height_pct"		"56.600363196472216"
+			}
+		}
+		"store_asset_mtime"		"1593492948"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ben Renya"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"plufmot"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1593580617"
+		"gameid"		"1353340"
+	}
+	"extended"
+	{
+		"demoofappid"		"1172150"
+		"developer"		"Ben Renya"
+		"publisher"		"plufmot"
+	}
+	"config"
+	{
+		"installdir"		"Blue Boy Bleeding Out"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2128724371"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"2131198662"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blue Boy Bleeding Out 1.0 (DEMO).exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1353341"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6099864978705924538"
+					"size"		"9600088"
+					"download"		"8360224"
+				}
+			}
+		}
+		"1172151"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"1172150"
+			"sharedinstall"		"2"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5179254"
+				"timeupdated"		"1592410897"
+			}
+		}
+	}
+}
