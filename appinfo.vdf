@@ -1,0 +1,280 @@
+"appinfo"
+{
+	"appid"		"1114940"
+	"common"
+	{
+		"name"		"I Wanna Maker"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"5e54f464640b0c94abe026e1a60cee6befa83563"
+		"clienttga"		"4ae7aedc2dc3e059f6c7093c669ad4311db977fd"
+		"icon"		"ada0c0433b2f6204a5747a6e9c30a5bfc5e87a12"
+		"logo"		"a46bcc128b664b7647265b6e6269da33b7756aed"
+		"logo_small"		"a46bcc128b664b7647265b6e6269da33b7756aed_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658275200"
+			"tested_build_id"		"8961620"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"I Wanna Maker"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"66.06864274570984"
+				"height_pct"		"45.4861111111111"
+			}
+		}
+		"store_asset_mtime"		"1656146854"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Elephant Crew"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Elephant Crew"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_17"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1581580815"
+		"community_hub_visible"		"1"
+		"gameid"		"1114940"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3877"
+			"1"		"8122"
+			"2"		"5379"
+			"3"		"113"
+			"4"		"4747"
+			"5"		"1773"
+			"6"		"4182"
+			"7"		"3859"
+			"8"		"3964"
+			"9"		"3871"
+			"10"		"4026"
+			"11"		"1625"
+			"12"		"7481"
+			"13"		"492"
+			"14"		"493"
+			"15"		"21"
+			"16"		"19"
+			"17"		"597"
+			"18"		"4305"
+			"19"		"1684"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"The Elephant Crew"
+		"publisher"		"The Elephant Crew"
+		"homepage"		"https://www.iwannamakergame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"I Wanna Maker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"I Wanna Maker.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1114941"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3922891487131938787"
+					"size"		"601930234"
+					"download"		"558606144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_test"
+				{
+					"gid"		"E37384773A2B2F881ECB98BEE1DAD0BA"
+					"size"		"802574E1839F33A6905C4FB5FBC34C91"
+					"download"		"9A1D10C1DDD165B8754F5ECAB818F000"
+				}
+				"test"
+				{
+					"gid"		"FB545987A40F4D17312D1DB8089DAE12"
+					"size"		"AB6AABC02A022F8CEFD1BFA00F403E9F"
+					"download"		"4EAB9159C09DF317DC90C25C7EEE52FC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11338263"
+				"timeupdated"		"1685311977"
+			}
+			"dev_test"
+			{
+				"buildid"		"11752380"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689893198"
+			}
+			"test"
+			{
+				"buildid"		"11752380"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689893203"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"IWM/maps/"
+				"pattern"		"*.map"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"IWM/save/"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
