@@ -1,0 +1,128 @@
+"appinfo"
+{
+	"appid"		"1318460"
+	"common"
+	{
+		"name"		"The Invisible Hand Demo"
+		"type"		"Demo"
+		"parent"		"628200"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"ef98d44f73f1e828ce846461f2953c5217741831"
+		"clienttga"		"ee6c6272fb6ce0636547a59ad2e88a1b1618f65a"
+		"icon"		"9a08b457f715a99ecd4f053dd13ee157990ba01e"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.29988331388565"
+				"height_pct"		"73.17739254333887"
+			}
+		}
+		"store_asset_mtime"		"1589317629"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Power Struggle Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fellow Traveller"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592327652"
+		"gameid"		"1318460"
+	}
+	"extended"
+	{
+		"demoofappid"		"628200"
+		"developer"		"Power Struggle Games"
+		"publisher"		"Fellow Traveller"
+		"homepage"		"http://fellowtraveller.games/games/the-invisible-hand/"
+	}
+	"config"
+	{
+		"installdir"		"The Invisible Hand Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Invisible Hand.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1318461"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6203937368545838180"
+					"size"		"3545831571"
+					"download"		"836532944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release-candidate"
+				{
+					"gid"		"EB7647C3AAE30D1396FB88041A5712DA"
+					"size"		"08E6C3DF5B90E28A97913D7E32389472"
+					"download"		"93A0AE94C12E2642BA5C3727E84FD680"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8104775"
+				"timeupdated"		"1643373001"
+			}
+			"release-candidate"
+			{
+				"buildid"		"12200175"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694790434"
+			}
+		}
+	}
+}
