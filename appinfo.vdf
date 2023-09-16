@@ -1,0 +1,136 @@
+"appinfo"
+{
+	"appid"		"2208800"
+	"common"
+	{
+		"name"		"Infection Free Zone Demo"
+		"type"		"Demo"
+		"parent"		"1465460"
+		"icon"		"6e82a51e1c8aa34a6ecb405504f91f5535a310ea"
+		"clienttga"		"4b01e8181b6158bb0d25736ceb0d719f2c024b2d"
+		"clienticon"		"6dd2cdf8e734305c8e26ebe06702c73199770fa4"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"99.8424369798408"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668430947"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jutsu Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Games Operators"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1675699673"
+		"gameid"		"2208800"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1465460"
+		"developer"		"Jutsu Games"
+		"publisher"		"Games Operators"
+	}
+	"config"
+	{
+		"installdir"		"Infection Free Zone Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Infection Free Zone Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2208801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"179643915994986724"
+					"size"		"3014641319"
+					"download"		"1571642496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"future_candidate"
+				{
+					"gid"		"ADB4F69ACAB97B635ECB63ED4D4F9B89"
+					"size"		"D38BD444A69CA4412DDF0D58957E4B3B"
+					"download"		"83E107F62F65658C752F6AB95A2FEAC2"
+				}
+				"internal"
+				{
+					"gid"		"D7CC68B52DA7A7A0AD7BCE3F380C1D36"
+					"size"		"AA478C9945570CDFAAABF8DA0EBD9C73"
+					"download"		"2BBA344FE76DBF3256B6623ADE34FD9E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11809498"
+				"timeupdated"		"1690538615"
+			}
+			"future_candidate"
+			{
+				"buildid"		"11858522"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691139157"
+			}
+			"internal"
+			{
+				"buildid"		"11998993"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692671409"
+			}
+		}
+	}
+}
