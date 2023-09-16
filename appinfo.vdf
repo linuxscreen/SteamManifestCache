@@ -1,0 +1,152 @@
+"appinfo"
+{
+	"appid"		"2406780"
+	"common"
+	{
+		"name"		"Banana Shooter Dedicated Server"
+		"type"		"Tool"
+		"parent"		"1949740"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"dae9f64da41d60db4859a1d2cf3b0d1b7bf09926"
+		"clienticon"		"a79950bb1e6a3a38517963fe7a5a72e287d9ceb2"
+		"icon"		"658102c64beab925561849636e18a8746c87d828"
+		"releasestate"		"released"
+		"gameid"		"2406780"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BSDS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Banana Shooter Dedicated Server.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"BSDS.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Linux"
+				}
+				"description"		"Linux"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"2406780"
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1923798258558304932"
+					"size"		"44194776"
+					"download"		"13804528"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4884950798805348056"
+					"size"		"73781292"
+					"download"		"20270768"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"2406781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5797121943160578549"
+					"size"		"78350894"
+					"download"		"21745568"
+				}
+			}
+		}
+		"2406782"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5911945683286937435"
+					"size"		"96077220"
+					"download"		"22349792"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11932724"
+				"timeupdated"		"1691954672"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"9000"
+		"sync_while_suspended"		"1"
+	}
+}
