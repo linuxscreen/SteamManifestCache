@@ -1,0 +1,346 @@
+"appinfo"
+{
+	"appid"		"1656830"
+	"common"
+	{
+		"name"		"The Dark Pictures Anthology: House of Ashes Demo"
+		"type"		"Demo"
+		"parent"		"1281590"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"f7234c0bebf0a6f5622a3b7ee67188cf4e17776c"
+		"clienticon"		"8c8f52e0fa0a751a9adf63cc3145899e8fbce369"
+		"icon"		"1d506f35aef4da7596f333d5b542698a1308cc42"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1656830_eula_0"
+				"name"		"The Dark Pictures Anthology: House of Ashes Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1656830_eula_0"
+				"version"		"1"
+			}
+		}
+		"logo"		"b9cacc12b658b457347c0cdc2883ffa3a9b6c407"
+		"logo_small"		"b9cacc12b658b457347c0cdc2883ffa3a9b6c407_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1637833961"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Supermassive Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BANDAI NAMCO Entertainment Europe"
+			}
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1639066818"
+		"gameid"		"1656830"
+	}
+	"extended"
+	{
+		"demoofappid"		"1281590"
+		"developer"		"Supermassive Games"
+		"publisher"		"BANDAI NAMCO Entertainment Europe"
+		"homepage"		"https://www.thedarkpictures.com/"
+	}
+	"config"
+	{
+		"installdir"		"The Dark Pictures Anthology - House of Ashes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HouseOfAshes.exe"
+				"arguments"		"-dx11"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"HouseOfAshes.exe"
+				"arguments"		"-dx12"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"The Dark Pictures Anthology: House of Ashes (DX12)"
+				}
+				"description"		"The Dark Pictures Anthology: House of Ashes (DX12)"
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2607241289"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		""
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,arabic,brazilian,latam"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1656831"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5591362950101564871"
+					"size"		"18954324596"
+					"download"		"13220614960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qarelease"
+				{
+					"gid"		"F0FF59508E524E4683AD0CAA9F3D13F9"
+					"size"		"8F4663B826BD13F403C5DABF639D30F3"
+					"download"		"B4AEC74C2A1D7D258D46BE523E13B075"
+				}
+				"smgreview"
+				{
+					"gid"		"A4A56993B07481222501F9695D9AEA42"
+					"size"		"33289265A98DB99C488D0C69238A09EF"
+					"download"		"7717754366C68E33D2222FD0BDD698F3"
+				}
+			}
+		}
+		"1656832"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2390704249891915612"
+					"size"		"16"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qarelease"
+				{
+					"gid"		"89338DB027FAE829389D429C30CE753E"
+					"size"		"2945EFB80C3EEDEC8BC720E47FB56CD4"
+					"download"		"8A1B4F94013748AE27FEFB42A53EB41D"
+				}
+				"smgreview"
+				{
+					"gid"		"24019A5EA97113D34792E194F86052E7"
+					"size"		"ADE85D2103F5BBF255CF4CD0D41EDBBB"
+					"download"		"B8C9643ABFF741AF1EC6131ED1FC60D1"
+				}
+			}
+		}
+		"1656833"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1498976873202349341"
+					"size"		"1"
+					"download"		"48"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qarelease"
+				{
+					"gid"		"C65A075E548F0CBB3B5BF604BC16765B"
+					"size"		"396A3573CD94DF9EA753C2BACB7A58DE"
+					"download"		"DE52DFE3BD5DB515BDC47336B6439CB3"
+				}
+				"smgreview"
+				{
+					"gid"		"6997189FFA393595EC715B8BB316FC45"
+					"size"		"C02897C861A03D01179CF740552932AB"
+					"download"		"72A104A1A63824BA1190E0C9CFBB0276"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7683673"
+				"timeupdated"		"1637587764"
+			}
+			"qarelease"
+			{
+				"buildid"		"7683673"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636477569"
+			}
+			"smgreview"
+			{
+				"buildid"		"7683673"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636477561"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"10000"
+		"appidredirect"		"1281590"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"HouseOfAshes/Saved/SaveGames"
+				"pattern"		"OptionSettings.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"HouseOfAshes/Saved/SaveGames"
+				"pattern"		"SP*.sav"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"HouseOfAshes/Saved/SaveGames"
+				"pattern"		"MP*.sav"
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"HouseOfAshes/Saved/SaveGames"
+				"pattern"		"PP*.sav"
+			}
+			"4"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"HouseOfAshes/Saved/SaveGames"
+				"pattern"		"ST*.sav"
+			}
+		}
+	}
+}
