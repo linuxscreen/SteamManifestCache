@@ -1,0 +1,138 @@
+"appinfo"
+{
+	"appid"		"1328260"
+	"common"
+	{
+		"name"		"Mad Streets Demo"
+		"type"		"Demo"
+		"parent"		"1282760"
+		"clienttga"		"c5fdcab249723d85e3785d79642d5b4aafa65553"
+		"clienticon"		"e1031abb6c895b983b6344bb6932257c05a5d14a"
+		"icon"		"c7deebdf49355df757c1feaaaed665fb747ed97d"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"95.27421236872812"
+				"height_pct"		"39.74115412016147"
+			}
+		}
+		"store_asset_mtime"		"1628966438"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Craftshop Arts Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Craftshop Arts Inc."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592328411"
+		"gameid"		"1328260"
+	}
+	"extended"
+	{
+		"demoofappid"		"1282760"
+		"developer"		"Craftshop Arts Inc."
+		"publisher"		"Craftshop Arts Inc."
+		"homepage"		"http://www.craftshop-arts.com/"
+	}
+	"config"
+	{
+		"installdir"		"Mad Streets Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mad Streets.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"1328261"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"668374795325037077"
+					"size"		"1357502985"
+					"download"		"768007824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"C80D8CE6ED570C6AE3D288F87476C7A3"
+					"size"		"D761D896B591A760E4855DCF10A44554"
+					"download"		"E0162C1C75717F3F6913C0FBC0FEDDAC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8379113"
+				"timeupdated"		"1647394423"
+			}
+			"test"
+			{
+				"buildid"		"7498523"
+				"pwdrequired"		"1"
+				"timeupdated"		"1633657535"
+			}
+		}
+	}
+}
