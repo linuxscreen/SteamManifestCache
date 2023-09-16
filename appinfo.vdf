@@ -1,0 +1,113 @@
+"appinfo"
+{
+	"appid"		"2227430"
+	"common"
+	{
+		"name"		"東方謎縁塔 ~ Forsaken Labyrinth. Demo"
+		"type"		"Demo"
+		"parent"		"2227170"
+		"icon"		"db3ffc643727533551d9e2424d4662b9d5d357e3"
+		"clienticon"		"15f73c23cc58c737885204ed9a2c6798e68bd148"
+		"clienttga"		"a3f3e05c2e8350094f0a5c47f8b0cb684923d45a"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"75.42372761807306"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1678782372"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"阐幽赜书房"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"阐幽赜书房"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1670414451"
+		"gameid"		"2227430"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2227170"
+		"developer"		"阐幽赜书房"
+		"publisher"		"阐幽赜书房"
+		"gamemanualurl"		"https://store.steampowered.com/manual/2227430/"
+	}
+	"config"
+	{
+		"installdir"		"東方謎縁塔 ~ Forsaken Labyrinth. Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"thMET.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2227431"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"689075528145187519"
+					"size"		"233436314"
+					"download"		"231303296"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10854558"
+				"timeupdated"		"1679745345"
+			}
+		}
+	}
+}
