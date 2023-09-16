@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"2066510"
+	"common"
+	{
+		"name"		"Backpack Hero Demo"
+		"type"		"Demo"
+		"parent"		"1970580"
+		"clienttga"		"9e5769fb68f30b32b4b5fbd27cb60e00a3914154"
+		"clienticns"		"58b54b414f37a7c8f599faba3291c45a5a778670"
+		"linuxclienticon"		"84cb0e98d22a3aaaad583c10c59398161807ecab"
+		"clienticon"		"7cba075b7d35759ce56ab5c9ee1d43c2cf880bb3"
+		"icon"		"99f80f327a8c944b71bd0b1e4a230444ff9c7fdd"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"背包英雄 Demo"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1655914863"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jaspel"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jaspel"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"IndieArk"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1656335547"
+		"gameid"		"2066510"
+	}
+	"extended"
+	{
+		"demoofappid"		"1970580"
+		"developer"		"Jaspel"
+		"publisher"		"Jaspel"
+	}
+	"config"
+	{
+		"installdir"		"Backpack Hero Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Backpack Hero.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents\\MacOS\\Backpack Hero"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"linux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,italian,spanish,schinese,russian,portuguese,polish,danish,dutch,czech,romanian,turkish,brazilian,latam"
+		"2066512"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3492286391338098283"
+					"size"		"199895633"
+					"download"		"75184960"
+				}
+			}
+		}
+		"2066513"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3801886698277284935"
+					"size"		"222746013"
+					"download"		"81993024"
+				}
+			}
+		}
+		"2066514"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4836564861853043299"
+					"size"		"202172553"
+					"download"		"74648880"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9014423"
+				"timeupdated"		"1656339126"
+			}
+		}
+	}
+}
