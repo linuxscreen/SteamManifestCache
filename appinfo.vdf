@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"1348940"
+	"common"
+	{
+		"name"		"Unity Testing Grounds Demo"
+		"type"		"Demo"
+		"parent"		"1344390"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"a93646ffdda4b3d542b32d6497eb036361c1e6c0"
+		"clienttga"		"a23f2b26c92d7bb4ee122255be552d5dfbad0d14"
+		"icon"		"3ce89a94cd5d262259311ec36ebaeba63d304986"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"65.51925320886815"
+				"height_pct"		"73.93730705295653"
+			}
+		}
+		"store_asset_mtime"		"1592085378"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Initiative Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Initiative Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1592204400"
+		"steam_release_date"		"1592261874"
+		"gameid"		"1348940"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1344390"
+		"developer"		"Initiative Games"
+		"publisher"		"Initiative Games"
+	}
+	"config"
+	{
+		"installdir"		"Testing Grounds Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"utg.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"utg.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Contents\\MacOS\\bin"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1348941"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"12977031515235066"
+					"size"		"57135129"
+					"download"		"16965664"
+				}
+			}
+		}
+		"1348942"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3968357507723691078"
+					"size"		"72179500"
+					"download"		"20824208"
+				}
+			}
+		}
+		"1348943"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7023046344436073636"
+					"size"		"64202181"
+					"download"		"20435264"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5184258"
+				"timeupdated"		"1592489142"
+			}
+		}
+	}
+}
