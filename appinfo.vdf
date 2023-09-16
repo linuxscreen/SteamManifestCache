@@ -1,0 +1,324 @@
+"appinfo"
+{
+	"appid"		"1753410"
+	"common"
+	{
+		"name"		"King of Kinks"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"3d22819fb85892dd84a70d4da98ef7cc1c4abbfc"
+		"logo_small"		"3d22819fb85892dd84a70d4da98ef7cc1c4abbfc_thumb"
+		"icon"		"9fd1cf1f1acfe0d82c4b0d89fefbff8b6f736124"
+		"clienticon"		"8fd9d5984f5cc6e3db54d085f113a876babc59ef"
+		"clienttga"		"6befea1d2e43e3fcbbe2aecb9467409d360be6f8"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664841600"
+			"tested_build_id"		"9126806"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"42.480706523983514"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1694786548"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DPH Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nutaku Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Nutaku Publishing"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"2"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_35"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1652241600"
+		"community_hub_visible"		"1"
+		"gameid"		"1753410"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"113"
+			"2"		"6650"
+			"3"		"9130"
+			"4"		"24904"
+			"5"		"9551"
+			"6"		"122"
+			"7"		"21725"
+			"8"		"10695"
+			"9"		"4085"
+			"10"		"4182"
+			"11"		"4947"
+			"12"		"7208"
+			"13"		"1084988"
+			"14"		"1684"
+			"15"		"9"
+			"16"		"4325"
+			"17"		"4057"
+			"18"		"5711"
+			"19"		"4726"
+		}
+		"review_score"		"5"
+		"review_percentage"		"56"
+	}
+	"extended"
+	{
+		"developer"		"DPH Studio"
+		"publisher"		"Nutaku Publishing"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"King of Kinks"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"KingOfKinks.exe"
+				"arguments"		"-screen-width 454 -screen-height 804 -screen-fullscreen 0"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"KingOfKinks_Stag.exe"
+				"arguments"		"-screen-width 454 -screen-height 804 -screen-fullscreen 0"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"koks_stag"
+				}
+				"description_loc"
+				{
+					"english"		"King of Kinks - Staging Platform"
+				}
+				"description"		"King of Kinks - Staging Platform"
+			}
+			"4"
+			{
+				"executable"		"KingOfKinks_Dev.exe"
+				"arguments"		"-screen-width 454 -screen-height 804 -screen-fullscreen 0"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"koks_dev"
+				}
+				"description_loc"
+				{
+					"english"		"King of Kinks - Dev Platform"
+				}
+				"description"		"King of Kinks - Dev Platform"
+			}
+			"5"
+			{
+				"executable"		"KingOfKinks_PG.exe"
+				"arguments"		"-screen-width 454 -screen-height 804 -screen-fullscreen 0"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"koks_pg"
+				}
+				"description_loc"
+				{
+					"english"		"King of Kinks - PG Platform"
+				}
+				"description"		"King of Kinks - PG Platform"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1753411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"809667807949349344"
+					"size"		"521018117"
+					"download"		"85654912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"koks_dev"
+				{
+					"gid"		"F5B4B3C97F2A10BB275634C9E7DA8DA1"
+					"size"		"B06CCA169161B8A1A64AFA68E94B3B82"
+					"download"		"F154EE4C325521C4A7F2BD52B50DCAE5"
+				}
+				"koks_pg"
+				{
+					"gid"		"2EAA45BB238B69CB31858B3A6A600520"
+					"size"		"81542E6D7BD766CEED70F8D42232FB0D"
+					"download"		"EBC6AFB5F3032F3B4E3FEF2A256525DF"
+				}
+				"koks_prelaunch"
+				{
+					"gid"		"FCC826D87DCCB138353E1AA05D56F734"
+					"size"		"8F2C3071B479A1CF9EAE62A4D8A0AA15"
+					"download"		"BCB326103BDEF8F0A3BB9D4150955E02"
+				}
+				"koks_stag"
+				{
+					"gid"		"E8B2315CCE3028878BD53D97D49AB4C6"
+					"size"		"3DD1AA5D63E1FE1A302CE1AAFA12D595"
+					"download"		"0D10BE3A49BFA648BD22D2213806E527"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12095858"
+				"timeupdated"		"1693891782"
+			}
+			"koks_dev"
+			{
+				"buildid"		"12021903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692875336"
+			}
+			"koks_pg"
+			{
+				"buildid"		"11936191"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692009038"
+			}
+			"koks_prelaunch"
+			{
+				"buildid"		"12095858"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693662194"
+			}
+			"koks_stag"
+			{
+				"buildid"		"12067673"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693393482"
+			}
+		}
+	}
+}
