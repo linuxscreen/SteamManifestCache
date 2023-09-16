@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"537570"
+	"common"
+	{
+		"name"		"Sid Meier's Civilization VI Demo"
+		"type"		"Demo"
+		"parent"		"289070"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"084b6b5547595c418ce7d28033ef16afd57ec07e"
+		"clienticon"		"c142bb71440effac911eb3c18e4ba775c9c8e7ef"
+		"icon"		"9dc914132fec244adcede62fb8e7524a72a7398c"
+		"logo"		"715025b39f00220336f99af20c4a0bad5af88991"
+		"logo_small"		"715025b39f00220336f99af20c4a0bad5af88991_thumb"
+		"metacritic_name"		"Sid Meier's Civilization VI Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.58629435480983"
+				"height_pct"		"77.92064533127044"
+			}
+		}
+		"store_asset_mtime"		"1572543492"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Firaxis Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"2K"
+			}
+		}
+		"steam_release_date"		"1489683600"
+		"gameid"		"537570"
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"demoofappid"		"289070"
+		"developer"		"Firaxis Games"
+		"publisher"		"2K"
+		"homepage"		"https://www.civilization.com/"
+	}
+	"config"
+	{
+		"installdir"		"Sid Meier's Civilization VI Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"\\Base\\Binaries\\Win64Demo\\CivilizationVI.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"\\Base\\Binaries\\Win64Demo\\CivilizationVI_DX12.exe"
+				"description"		"Civilization VI Demo (DX12) - Win10 v1607+"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"537571"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1955041834760249758"
+					"size"		"6498486418"
+					"download"		"3486309904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo_lite"
+				{
+					"gid"		"1AB7AE7C46773F5781BDF1450DE01D51"
+					"size"		"D32BA9B6F228FD2D4797249BAB9A7F4A"
+					"download"		"4BDED739736645367AF629BD85D7D818"
+				}
+			}
+		}
+		"537572"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8944675166909731110"
+					"size"		"75033009"
+					"download"		"23370032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo_lite"
+				{
+					"gid"		"77723CBC6399869A1AA79DB975482207"
+					"size"		"E32E31EEC45BB32DAD54E89F34B39644"
+					"download"		"01C2DD51AD92F8FB32266B4149A34A19"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1659394"
+				"timeupdated"		"1488233248"
+			}
+			"demo_lite"
+			{
+				"buildid"		"1638949"
+				"pwdrequired"		"1"
+				"timeupdated"		"1487349045"
+			}
+		}
+	}
+}
