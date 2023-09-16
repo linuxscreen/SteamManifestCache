@@ -1,0 +1,300 @@
+"appinfo"
+{
+	"appid"		"1131080"
+	"common"
+	{
+		"name"		"Deadswitch 3"
+		"type"		"Game"
+		"clienticon"		"5ff7be88d379c9951204ce127fdf75209fb7f3cb"
+		"clienttga"		"5cd79243d1435437d8c0a29c323d577fe8ae6813"
+		"icon"		"2ceed457cacdaf0e2d69e9778c97ce73571ac63b"
+		"logo"		"a8d702d75baa39fffdd6dcac079a27722257d5a5"
+		"logo_small"		"a8d702d75baa39fffdd6dcac079a27722257d5a5_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1678074406"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wilkin Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wilkin Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Deadswitch"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1620425562"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1131080"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3798"
+			"1"		"1774"
+			"2"		"1775"
+			"3"		"4255"
+			"4"		"4684"
+			"5"		"4736"
+			"6"		"3871"
+			"7"		"9"
+			"8"		"4747"
+			"9"		"19"
+			"10"		"5765"
+			"11"		"4168"
+			"12"		"1659"
+			"13"		"1708"
+			"14"		"1687"
+			"15"		"1678"
+			"16"		"3859"
+			"17"		"5363"
+			"18"		"3993"
+			"19"		"1685"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Wilkin Games"
+		"publisher"		"Wilkin Games"
+		"homepage"		"https://deadswitch3.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1641200,1641201,1641202,1641203,1641204,1641205"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Deadswitch 3"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"deadswitch3.exe"
+				"type"		"none"
+			}
+			"2"
+			{
+				"executable"		"deadswitch3"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,russian,turkish"
+		"1131081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7586676137651094822"
+					"size"		"552986511"
+					"download"		"267640640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3F7DC7A6E62E3D9F90303FC05688E97D"
+					"size"		"326D5A071821A716F43807C87561DDE7"
+					"download"		"CB769C3B125CDE2E709412821D7DA36A"
+				}
+				"devsdk"
+				{
+					"gid"		"9FDD7C6FC165AAFCEF0FC86E56CFC458"
+					"size"		"4C752E0A4E2C01E502DD0676FAED23F9"
+					"download"		"AD121AADD0BC2E50E2C81589A19F0A5D"
+				}
+			}
+		}
+		"1131082"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4042654660566588047"
+					"size"		"393665017"
+					"download"		"228654768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"31FD4E87E8CA23C0B0B32F5CA99E465A"
+					"size"		"6B75C530874ED47B4802147DFC95DBB9"
+					"download"		"DE73E3E67053F54F9B8442A257CE4E5B"
+				}
+				"devsdk"
+				{
+					"gid"		"D5B4C84E99DEFB6FFDE69701E26D4C62"
+					"size"		"869197F8B8E039780F6B8D194621127B"
+					"download"		"2A33E04AA5766739E7FC8D6498B94B36"
+				}
+			}
+		}
+		"1131083"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+		}
+		"1131084"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11766835"
+				"timeupdated"		"1690084273"
+			}
+			"beta"
+			{
+				"buildid"		"11766835"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690084016"
+			}
+			"devsdk"
+			{
+				"buildid"		"11766843"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690084254"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
