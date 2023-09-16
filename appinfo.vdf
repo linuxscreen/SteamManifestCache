@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"1377450"
+	"common"
+	{
+		"name"		"圣歌德嘉的晚钟"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"logo"		"77f8bd2ac085ccc694024f702757fdd06965eda7"
+		"logo_small"		"77f8bd2ac085ccc694024f702757fdd06965eda7_thumb"
+		"icon"		"f97abdbd4e4a14570e6b1ee0d7e0a86083bea323"
+		"clienticon"		"6483a31d3077bc869a4b195604b30b88e2a73b7b"
+		"clienttga"		"92efd6c980ff8ff90abe3276a463c15d2681a31c"
+		"name_localized"
+		{
+			"english"		"Knell of St. Godhrkar"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1638452870"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"二律背反"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"旅人计划"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"-Andinomie-"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1638633923"
+		"community_hub_visible"		"1"
+		"gameid"		"1377450"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"3799"
+			"3"		"9"
+			"4"		"1742"
+			"5"		"113"
+			"6"		"24003"
+			"7"		"9204"
+			"8"		"3834"
+			"9"		"31275"
+			"10"		"1751"
+			"11"		"492"
+			"12"		"5984"
+			"13"		"493"
+			"14"		"4166"
+			"15"		"4182"
+			"16"		"11014"
+			"17"		"1664"
+			"18"		"4085"
+			"19"		"6052"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"二律背反"
+		"publisher"		"旅人计划"
+		"homepage"		"https://andinomie.site/work/knell-of-st-godhrkar"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Zsdov Thi Godhrkar"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ZsdovThiGodhrkar.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"ZsdovThiGodhrkar-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"ZsdovThiGodhrkar.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"1377451"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8254125983042432022"
+					"size"		"1269650077"
+					"download"		"1073401760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8940808"
+				"timeupdated"		"1655290016"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"/game/saves"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"/renpy/ZsdovThiGodhrkar"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
