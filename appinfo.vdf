@@ -1,0 +1,358 @@
+"appinfo"
+{
+	"appid"		"1623660"
+	"common"
+	{
+		"name"		"MIR4"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"37f456e917ec013eb123004e9a0c08bdd2c8f8a1"
+		"clienttga"		"93f31ec3ad11369114881893e465ce4659326bda"
+		"icon"		"6c4b7e10e9fbb9c2165ce07833ba715897cbc192"
+		"logo"		"defe6a5135954959dda4728b55e821fc67694b65"
+		"logo_small"		"defe6a5135954959dda4728b55e821fc67694b65_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1623660_eula_0"
+				"name"		"MIR4 EULA"
+				"url"		"https://store.steampowered.com//eula/1623660_eula_0"
+				"version"		"4"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1645660800"
+			"tested_build_id"		"7602132"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.720930232558118"
+				"height_pct"		"41.89551175492756"
+			}
+		}
+		"store_asset_mtime"		"1659502350"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wemade Next"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wemade"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"29"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629902728"
+		"community_hub_visible"		"1"
+		"gameid"		"1623660"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"6730"
+			"1"		"1775"
+			"2"		"1754"
+			"3"		"122"
+			"4"		"6915"
+			"5"		"9541"
+			"6"		"1695"
+			"7"		"4231"
+			"8"		"9564"
+			"9"		"19"
+			"10"		"1684"
+			"11"		"4191"
+			"12"		"1697"
+			"13"		"4202"
+			"14"		"1678"
+			"15"		"128"
+			"16"		"3854"
+			"17"		"4695"
+			"18"		"4057"
+			"19"		"51306"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"developer"		"Wemade Next"
+		"publisher"		"Wemade"
+		"homepage"		"https://mir4global.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MIR4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MirMobile\\Binaries\\Win64\\Mir4S.exe"
+				"arguments"		"-ResX=1280 -ResY=720 -DX11 -steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"MirMobile\\Binaries\\Win64\\ucldr_MirTrilogy4_ST_loader_x64.exe"
+				"arguments"		"Mir4S.exe -ResX=1280 -ResY=720 -DX11 -steam"
+				"config"
+				{
+					"betakey"		"beta"
+				}
+				"description_loc"
+				{
+					"english"		"Beta Loader ON"
+				}
+				"description"		"Beta Loader ON"
+			}
+			"2"
+			{
+				"executable"		"MirMobile\\Binaries\\Win64\\Mir4S.exe"
+				"arguments"		"-ResX=1280 -ResY=720 -DX11 -steam"
+				"config"
+				{
+					"betakey"		"beta"
+				}
+				"description_loc"
+				{
+					"english"		"Beta Loader OFF"
+				}
+				"description"		"Beta Loader OFF"
+			}
+			"3"
+			{
+				"executable"		"MirMobile\\Binaries\\Win64\\ucldr_MirTrilogy4_ST_loader_x64.exe"
+				"arguments"		"Mir4S.exe -ResX=1280 -ResY=720 -DX11 -steam"
+				"config"
+				{
+					"betakey"		"stage"
+				}
+				"description_loc"
+				{
+					"english"		"Stage Loader ON"
+				}
+				"description"		"Stage Loader ON"
+			}
+			"4"
+			{
+				"executable"		"MirMobile\\Binaries\\Win64\\Mir4S.exe"
+				"arguments"		"-ResX=1280 -ResY=720 -DX11 -steam"
+				"config"
+				{
+					"betakey"		"stage"
+				}
+				"description_loc"
+				{
+					"english"		"Stage Loader OFF"
+				}
+				"description"		"Stage Loader OFF"
+			}
+			"5"
+			{
+				"executable"		"MirMobile\\Binaries\\Win64\\ucldr_MirTrilogy4_ST_loader_x64.exe"
+				"arguments"		"Mir4S.exe -ResX=1280 -ResY=720 -DX11 -steam"
+				"config"
+				{
+					"betakey"		"featured "
+				}
+				"description_loc"
+				{
+					"english"		"featured Loader ON"
+				}
+				"description"		"featured Loader ON"
+			}
+			"6"
+			{
+				"executable"		"MirMobile\\Binaries\\Win64\\Mir4S.exe"
+				"arguments"		"-ResX=1280 -ResY=720 -DX11 -steam"
+				"config"
+				{
+					"betakey"		"featured "
+				}
+				"description_loc"
+				{
+					"english"		"featured Loader OFF"
+				}
+				"description"		"featured Loader OFF"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"1623661"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4318291403160484504"
+					"size"		"503283619"
+					"download"		"232566000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"FF622E26786F8693517267158289455E"
+					"size"		"334395088081A1847CAA9C713CF36DAE"
+					"download"		"E7AC84ECFD6B15C2D29B0C4D0087E8C7"
+				}
+				"featured"
+				{
+					"gid"		"4E4D52A4A34999BCF72AEB47702BC352"
+					"size"		"F45B2E7B5B70A4C80287EA270262603A"
+					"download"		"454D3DE217C10305923C907A921A95E5"
+				}
+				"stage"
+				{
+					"gid"		"5DF0F552958D3E471E1756C6F335E310"
+					"size"		"353EC20F26DC59C329ECDBD5DB89F6F9"
+					"download"		"7CB6B5D90B6FDF6F986964386D977357"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12066029"
+				"timeupdated"		"1693868532"
+			}
+			"beta"
+			{
+				"buildid"		"12176409"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694595075"
+			}
+			"featured"
+			{
+				"buildid"		"7754038"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637571104"
+			}
+			"stage"
+			{
+				"buildid"		"12109257"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693881719"
+			}
+		}
+	}
+}
