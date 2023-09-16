@@ -1,0 +1,131 @@
+"appinfo"
+{
+	"appid"		"2190140"
+	"common"
+	{
+		"name"		"Primitive Society Simulator FreeDemo"
+		"type"		"Demo"
+		"parent"		"1876880"
+		"clienticon"		"3ca762a24028e0b8ef4f3c60deca55c0aa9a487c"
+		"clienttga"		"8b412a80d23e0acc4f11c8a5490ccc4727671288"
+		"icon"		"22388e26b41a011135fb65ee4f3de4d4f362cc47"
+		"name_localized"
+		{
+			"english"		"Primitive Society Simulator FreeDemo"
+			"schinese"		"大荒先民 FreeDemo"
+			"tchinese"		"大荒先民 FreeDemo"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"en"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1682660900"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"YouShiHui"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"YouShiHui"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1688108400"
+		"gameid"		"2190140"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1876880"
+		"developer"		"YouShiHui"
+		"publisher"		"YouShiHui"
+	}
+	"config"
+	{
+		"installdir"		"CodeNameAncestorsFreeDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AncestorsFreeDemo.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2190142"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4968842632127194569"
+					"size"		"991590464"
+					"download"		"632237328"
+				}
+				"beta"
+				{
+					"gid"		"3329797529782225036"
+					"size"		"983841682"
+					"download"		"628739824"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11637728"
+				"timeupdated"		"1691378421"
+			}
+			"beta"
+			{
+				"buildid"		"12194582"
+				"description"		"some new features"
+				"timeupdated"		"1694745559"
+			}
+		}
+	}
+}
