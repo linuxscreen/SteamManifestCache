@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"1756250"
+	"common"
+	{
+		"name"		"Ikai Demo"
+		"type"		"Demo"
+		"parent"		"1315210"
+		"clienttga"		"7ddab40bd916a79b62ccbc4e1973a295f11e8cf5"
+		"clienticon"		"51de276ad5309b07bcc130512e1e48e91b5c0110"
+		"icon"		"8a0a68b9f09f685bc9a13249f0be328d9d6f8a90"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1631871896"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Endflame"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PM Studios, inc."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1632322442"
+		"gameid"		"1756250"
+	}
+	"extended"
+	{
+		"demoofappid"		"1315210"
+		"developer"		"Endflame"
+		"publisher"		"PM Studios, inc."
+		"homepage"		"http://endflame.com/ikai"
+	}
+	"config"
+	{
+		"installdir"		"Ikai Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Ikai.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1756251"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"285032130082022427"
+					"size"		"2781585857"
+					"download"		"2695659168"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"06032F0B18D35371E20B34D64F8DFADC"
+					"size"		"814015C2656CD6110CD89432B88D3EC5"
+					"download"		"57032F24E50E451EFA15DE356171F772"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7538391"
+				"timeupdated"		"1634284050"
+			}
+			"beta"
+			{
+				"buildid"		"7350742"
+				"pwdrequired"		"1"
+				"lcsrequired"		"1"
+				"timeupdated"		"1631615681"
+			}
+		}
+	}
+}
