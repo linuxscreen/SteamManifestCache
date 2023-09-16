@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"1706010"
+	"common"
+	{
+		"name"		"Escape Dungeon 2 Demo"
+		"type"		"Demo"
+		"parent"		"1309000"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"english"		"Escape Dungeon 2 Demo"
+			"tchinese"		"地牢脫出2-銀月蒼狼 蘇拉爾 Demo"
+			"schinese"		"地牢脱出2-银月苍狼 苏拉尔 Demo"
+			"japanese"		"地下牢から脱出2～銀月蒼き狼　シュラル Demo"
+			"koreana"		"던전탈출 2 은월창랑－수랄 Demo"
+		}
+		"clienttga"		"5c6faa615daa5219e7b1cc5cf61cee5c16d6e033"
+		"clienticon"		"ef98ee8a7f5638615ef408849b424169a5e693fb"
+		"icon"		"4432e442532a74857b622f648c1b04f54188fc1a"
+		"clienticns"		"ea8af5d1a7ad92562f70852d1b989f82478e00a9"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1630667023"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hide Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hide Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Lewd Formosa"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Lewd Formosa"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631221852"
+		"gameid"		"1706010"
+	}
+	"extended"
+	{
+		"demoofappid"		"1309000"
+		"developer"		"Hide Games"
+		"publisher"		"Hide Games"
+		"homepage"		"https://www.facebook.com/gaming/EscapeDungeonGame"
+	}
+	"config"
+	{
+		"installdir"		"EscapeDungeon2_Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EscapeDungeon2.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"EscapeDungeon2.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,schinese,tchinese,russian,japanese"
+		"1706011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5802948231250375207"
+					"size"		"711648036"
+					"download"		"273191120"
+				}
+			}
+		}
+		"1706012"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1602733919393705218"
+					"size"		"743613751"
+					"download"		"283708720"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8011412"
+				"timeupdated"		"1642034044"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"100"
+	}
+}
