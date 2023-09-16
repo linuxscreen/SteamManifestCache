@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"2019400"
+	"common"
+	{
+		"name"		"DORAEMON STORY OF SEASONS: Friends of the Great Kingdom DEMO"
+		"type"		"Demo"
+		"parent"		"1492730"
+		"name_localized"
+		{
+			"japanese"		"ドラえもん のび太の牧場物語 大自然の王国とみんなの家 体験版"
+			"tchinese"		"哆啦A夢 牧場物語 自然王國與和樂家人 體驗版"
+			"schinese"		"哆啦A梦 牧场物语 自然王国与和乐家人 体验版"
+			"koreana"		"도라에몽 진구의 목장이야기 대자연의 왕국과 모두의 집 체험판"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"b3216285f05cae438ce5ad88f09750da8de00a87"
+		"clienttga"		"5b9f82f615f637a571b65f20d612acb859ab327e"
+		"icon"		"e7224051532c7dec82d5ae65d0bf762baccfb130"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2019400_eula_0"
+				"name"		"DORAEMON STORY OF SEASONS: Friends of the Great Kingdom DEMO EULA"
+				"url"		"https://store.steampowered.com//eula/2019400_eula_0"
+				"version"		"2"
+			}
+		}
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"store_asset_mtime"		"1663833824"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Marvelous Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bandai Namco Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Bandai Namco Entertainment"
+			}
+		}
+		"steam_release_date"		"1664920800"
+		"gameid"		"2019400"
+	}
+	"extended"
+	{
+		"demoofappid"		"1492730"
+		"developer"		"Marvelous Inc."
+		"publisher"		"Bandai Namco Entertainment"
+	}
+	"config"
+	{
+		"installdir"		"DORAEMON STORY OF SEASONS FotGK DEMO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DORAEMON STORY OF SEASONS FotGK DEMO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2019401"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2501318109928181910"
+					"size"		"2957427290"
+					"download"		"2567049040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa-debug"
+				{
+					"gid"		"9312B87D1BE4BB44DBE12FC0B6FD420E"
+					"size"		"AB655D209089D7C6767A3FC039DF9D95"
+					"download"		"AB655D209089D7C6767A3FC039DF9D95"
+				}
+				"qa-release"
+				{
+					"gid"		"F3B0892342862822588516CE4DEEC6F5"
+					"size"		"A3E2F5B8D6619A7981681CDD922530F1"
+					"download"		"29C672F845C8B3A249932124A2C3F06A"
+				}
+			}
+		}
+		"2019402"
+		{
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"qa-debug"
+				{
+					"gid"		"38CF23F45C7FDD00686E09065A47CC03"
+					"size"		"76A33BFDEC025BCC8A0C8016833D9498"
+					"download"		"C216CF6E5D9CCFEE6EC65B7124FA127A"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,german,koreana,spanish,schinese,tchinese,thai,japanese,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9522867"
+				"timeupdated"		"1663739587"
+			}
+			"qa-debug"
+			{
+				"buildid"		"9522844"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663244687"
+			}
+			"qa-release"
+			{
+				"buildid"		"9522867"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663244894"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20971520"
+		"maxnumfiles"		"20"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"BANDAI NAMCO Entertainment Inc_\\DORAEMON STORY OF SEASONS FotGK DEMO\\Saved\\SaveGames"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
