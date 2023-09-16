@@ -1,0 +1,334 @@
+"appinfo"
+{
+	"appid"		"1301720"
+	"common"
+	{
+		"name"		"Escape Room - The Sick Colleague"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"c1591930f02177d22fe0480cf4b23bf2afaed04b"
+		"logo_small"		"c1591930f02177d22fe0480cf4b23bf2afaed04b_thumb"
+		"icon"		"ae597ce21855d7d2e9d79a1522c130b9f1738559"
+		"clienttga"		"dfa348b7740bac56476e497c23d96db7861f3c7d"
+		"clienticon"		"cb23cad6bf18d4eb0a0efce088618afff34c4d97"
+		"name_localized"
+		{
+			"german"		"Escape Room - Der kranke Kollege"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1301720_eula_0"
+				"name"		"Escape Room - The Sick Colleague EULA"
+				"url"		"https://store.steampowered.com//eula/1301720_eula_0"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"arabic"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1654041600"
+			"tested_build_id"		"8696716"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"german"		"capsule_231x87_german.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"german"		"header_german.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"de,en"
+			"library_hero"		"de,en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.41968433292921"
+				"height_pct"		"63.245033112582774"
+			}
+		}
+		"store_asset_mtime"		"1666991252"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bitbeast Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bitbeast Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1599331680"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1301720"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"113"
+			"2"		"1664"
+			"3"		"1667"
+			"4"		"8369"
+			"5"		"21"
+			"6"		"6129"
+			"7"		"3839"
+			"8"		"1721"
+			"9"		"597"
+			"10"		"5613"
+			"11"		"769306"
+			"12"		"3834"
+			"13"		"4166"
+			"14"		"6378"
+			"15"		"4175"
+			"16"		"9204"
+			"17"		"1654"
+			"18"		"12057"
+			"19"		"6971"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Bitbeast Games"
+		"publisher"		"Bitbeast Games"
+		"homepage"		"http://bitbeast-games.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1943050,1950660"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Escape Room - The Sick Colleague"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Escape Room.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1301721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5290558850239051459"
+					"size"		"1954620540"
+					"download"		"671806112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpharoom2"
+				{
+					"gid"		"06BA0401F15FE2949397353D300267D4"
+					"size"		"11727725AD7DC3EF223212380EA60AA9"
+					"download"		"B938DF6029B8FDFAD3B6A6A9F2335459"
+				}
+				"beta"
+				{
+					"gid"		"038F937952D238E38618AC6AD4B74BA4"
+					"size"		"1167DF16770A79C96D47FD7D11BF403D"
+					"download"		"2EC18C1221A46E75772B993462C27527"
+				}
+			}
+		}
+		"baselanguages"		"english,german,spanish,schinese,russian,arabic"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8696716"
+				"timeupdated"		"1651926073"
+			}
+			"alpharoom2"
+			{
+				"buildid"		"8499525"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649154810"
+			}
+			"beta"
+			{
+				"buildid"		"7413036"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632421416"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Bitbeast Games/Escape Room - The Sick Colleague"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
