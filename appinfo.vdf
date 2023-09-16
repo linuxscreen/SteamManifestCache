@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"2150330"
+	"common"
+	{
+		"name"		"Rush Rally 3 Demo"
+		"type"		"Demo"
+		"parent"		"2020860"
+		"releasestate"		"released"
+		"clienttga"		"157cb58a63d50adb34bd6fe0338311096a14971b"
+		"clienticon"		"02083f6b01195d7a81db3943f228476b2b2ff6cb"
+		"icon"		"9a1da73ba330392548892117e133c7f7f193f74b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1664541243"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Brownmonster Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Brownmonster Ltd"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1664750865"
+		"gameid"		"2150330"
+	}
+	"extended"
+	{
+		"demoofappid"		"2020860"
+		"developer"		"Brownmonster Ltd"
+		"publisher"		"Brownmonster Ltd"
+		"homepage"		"https://www.brownmonster.co.uk/rush-rally-3"
+	}
+	"config"
+	{
+		"installdir"		"Rush Rally 3 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RushRally3Demo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2150331"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8231277869358744325"
+					"size"		"365682256"
+					"download"		"123483680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo_beta"
+				{
+					"gid"		"B892E32CFBCC0513C9CB81475A24AF9A"
+					"size"		"28B773D5FCE223E3DA91CFF0A8A3A1C5"
+					"download"		"2117008C1A9587C63F0F5DC4B20304A3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10829792"
+				"timeupdated"		"1679654680"
+			}
+			"demo_beta"
+			{
+				"buildid"		"10829792"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679501270"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"67108864"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"savedata/{64BitSteamID}"
+				"pattern"		"savedata.rr"
+			}
+		}
+		"sync_while_suspended"		"1"
+		"appidredirect"		"2020860"
+	}
+}
