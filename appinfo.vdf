@@ -1,0 +1,334 @@
+"appinfo"
+{
+	"appid"		"1416130"
+	"common"
+	{
+		"name"		"Perfect Vermin"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"79f60291d933325163d32e7357396afc9762343e"
+		"clienttga"		"38e9c6dc11c50475277a598bed714c32536371fb"
+		"icon"		"379c8bd956814fd20a953c2d007d36845e18b511"
+		"logo"		"e73180309e6ac6cb5d6ba0faa8ddd769db15b47a"
+		"logo_small"		"e73180309e6ac6cb5d6ba0faa8ddd769db15b47a_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1672790400"
+			"tested_build_id"		"9622132"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"86.58064516129033"
+				"height_pct"		"75"
+			}
+		}
+		"store_asset_mtime"		"1644963554"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Talia bob Mair"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Angad Matharoo"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"ItsTheTalia"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"ItsTheTalia"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1604696843"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1416130"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"1721"
+			"3"		"21"
+			"4"		"1667"
+			"5"		"1710"
+			"6"		"4342"
+			"7"		"19"
+			"8"		"597"
+			"9"		"3839"
+			"10"		"4182"
+			"11"		"4234"
+			"12"		"4166"
+			"13"		"5363"
+			"14"		"1742"
+			"15"		"1664"
+			"16"		"1756"
+			"17"		"4345"
+			"18"		"3834"
+			"19"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Talia bob Mair"
+		"publisher"		"ItsTheTalia"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Perfect Vermin"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PerfectVermin_v1_8_windows\\PerfectVermin.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"PerfectVermin_v1_8_Linux\\PerfectVermin.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"PerfectVermin_v1_8_windows_speed\\PerfectVermin.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"speed"
+				}
+				"description_loc"
+				{
+					"english"		"Perfect Vermin: Terminal Velocity Edition"
+				}
+				"description"		"Perfect Vermin: Terminal Velocity Edition"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1416132"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4444617072353708808"
+					"size"		"338009940"
+					"download"		"285416384"
+				}
+				"speed"
+				{
+					"gid"		"6719953280044718048"
+					"size"		"337904842"
+					"download"		"285332464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"33D0CA59C3A8075A4E256B974C4B3737"
+					"size"		"03AA966BF6BCC20B01F2551CF5FACF86"
+					"download"		"B5CBC5343CF0703B35A7FA1E4E7CFC6E"
+				}
+			}
+		}
+		"1416133"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3303640857668334676"
+					"size"		"1085379009"
+					"download"		"481063024"
+				}
+				"speed"
+				{
+					"gid"		"3303640857668334676"
+					"size"		"1085379009"
+					"download"		"481063024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"ABCAD3ADBD515BC461B63C07D8CCED24"
+					"size"		"0D07DB211A2C5F03BFA5E9A0EA89C685"
+					"download"		"C0CDA18391639483BA3EA48A77BEA521"
+				}
+			}
+		}
+		"1416131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"speed"
+				{
+					"gid"		"533060868643423439"
+					"size"		"338004331"
+					"download"		"285351808"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9622132"
+				"timeupdated"		"1664495297"
+			}
+			"linux"
+			{
+				"buildid"		"9622282"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664497028"
+			}
+			"speed"
+			{
+				"buildid"		"9671914"
+				"description"		"Terminal Velocity Edition"
+				"timeupdated"		"1665105686"
+			}
+		}
+	}
+}
