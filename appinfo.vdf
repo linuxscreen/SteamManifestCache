@@ -1,0 +1,127 @@
+"appinfo"
+{
+	"appid"		"1400500"
+	"common"
+	{
+		"name"		"Contraband Police Demo"
+		"type"		"Demo"
+		"parent"		"756800"
+		"releasestate"		"released"
+		"clienticon"		"ede1f1d9341179b8691f824a01663fc52d80411b"
+		"clienttga"		"d4421f9cb8c63d9bb92c0118b1dac56dd8ba39db"
+		"icon"		"e633bbd730e3e9d6cad13cd081a7be532bd31429"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1678889613"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Crazy Rocks"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1601050029"
+		"gameid"		"1400500"
+	}
+	"extended"
+	{
+		"demoofappid"		"756800"
+		"developer"		"Crazy Rocks"
+		"publisher"		"PlayWay S.A."
+	}
+	"config"
+	{
+		"installdir"		"Contraband Police Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ContrabandPolice.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"1400501"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4593654925420162025"
+					"size"		"11089615015"
+					"download"		"5623082496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"plqa"
+				{
+					"gid"		"C5123BED18173C3C69E1460D79682AB0"
+					"size"		"0E88464FB0DC4A85B1E3FE097F92DF9E"
+					"download"		"C169162E1A10808F4704849C2C30B7F5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11403367"
+				"timeupdated"		"1686047044"
+			}
+			"plqa"
+			{
+				"buildid"		"11403367"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686046144"
+			}
+		}
+	}
+}
