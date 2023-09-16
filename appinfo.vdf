@@ -1,0 +1,114 @@
+"appinfo"
+{
+	"appid"		"562080"
+	"common"
+	{
+		"name"		"Hello Neighbor Demo"
+		"type"		"Demo"
+		"parent"		"521890"
+		"clienttga"		"98495e877c3591459c1f53d3a7f92df20f70f292"
+		"clienticon"		"6c2de081ae52a91a4f5255f4305db4a71666829f"
+		"icon"		"5fcd6f22e93f8be2d2c72fb4a2bd2e92ebc8fe8c"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"releasestate"		"released"
+		"metacritic_name"		"Hello Neighbor Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1479914200"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dynamic Pixels"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"tinyBuild"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1499357218"
+		"gameid"		"562080"
+		"review_score"		"7"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"demoofappid"		"521890"
+		"developer"		"Dynamic Pixels"
+		"publisher"		"tinyBuild"
+		"homepage"		"http://helloneighborgame.com"
+	}
+	"config"
+	{
+		"installdir"		"Hello Neighbor Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HelloNeighbour.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"562082"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1942559970503143904"
+					"size"		"1142515645"
+					"download"		"306533840"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1926593"
+				"timeupdated"		"1499270903"
+			}
+		}
+	}
+}
