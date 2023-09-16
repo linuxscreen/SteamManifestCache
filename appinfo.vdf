@@ -1,0 +1,155 @@
+"appinfo"
+{
+	"appid"		"1342420"
+	"common"
+	{
+		"name"		"Everlasting Guilt Demo"
+		"type"		"Demo"
+		"parent"		"1342360"
+		"releasestate"		"released"
+		"linuxclienticon"		"735524294d0cf5907425b2874110f2e43e9eab7d"
+		"clienticns"		"735524294d0cf5907425b2874110f2e43e9eab7d"
+		"clienticon"		"574ec6ca449672805ec86fa042e1001493638e5a"
+		"clienttga"		"732e806ee06c8d98120e5012d4ff0df1dc75ed96"
+		"icon"		"2529c8554cb946568182609b72931f2ffb2df3fa"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.23103850641773"
+				"height_pct"		"68.61790548563286"
+			}
+		}
+		"store_asset_mtime"		"1592214355"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Geeky Mouse"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Geeky Mouse"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1593586800"
+		"steam_release_date"		"1593622260"
+		"gameid"		"1342420"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1342360"
+		"developer"		"Geeky Mouse"
+		"publisher"		"Geeky Mouse"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Everlasting Guilt Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EverlastingGuiltDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1342421"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6350179131808502017"
+					"size"		"8031236510"
+					"download"		"7180076896"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6782319"
+				"timeupdated"		"1622391480"
+			}
+		}
+	}
+}
