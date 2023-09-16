@@ -1,0 +1,185 @@
+"appinfo"
+{
+	"appid"		"1212060"
+	"common"
+	{
+		"name"		"Galaxy in Turmoil Demo"
+		"type"		"Demo"
+		"parent"		"488430"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1212060_eula_0"
+				"name"		"Galaxy in Turmoil Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1212060_eula_0"
+			}
+		}
+		"icon"		"4bd74dc37fec72e28c44e02c61a0a4ee88845be2"
+		"clienticon"		"32aad47a8f6a6f65c0a61b428688e93aef5ec5ce"
+		"clienttga"		"8f06adb374d8f0711e8849853ab8534f8daaadfe"
+		"metacritic_name"		"Galaxy in Turmoil Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"46.32438739789967"
+				"height_pct"		"57.44681048422536"
+			}
+		}
+		"store_asset_mtime"		"1576250369"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Frontwire Studios, LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Frontwire Studios, LLC"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_13"		"1"
+			"category_35"		"1"
+			"category_15"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1576864800"
+		"gameid"		"1212060"
+		"exfgls"		"1"
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"demoofappid"		"488430"
+		"gamedir"		"Galaxy in Turmoil"
+		"serverbrowsername"		"Galaxy in Turmoil"
+		"developer"		"Frontwire Studios, LLC"
+		"publisher"		"Frontwire Studios, LLC"
+		"homepage"		"https://galaxyinturmoil.com"
+	}
+	"config"
+	{
+		"installdir"		"Galaxy in Turmoil Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GalaxyinTurmoil.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1212061"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4773562675848625721"
+					"size"		"22175107396"
+					"download"		"7797993328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"C7696744FB0F504098D84241A7050F50"
+					"size"		"7929CEEF2599CD9F5787B73EA7D78B4C"
+					"download"		"A762D2A1FD77FB5C6A67902F5F4F8491"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4529758"
+				"timeupdated"		"1577499894"
+			}
+			"devtest"
+			{
+				"buildid"		"4777690"
+				"pwdrequired"		"1"
+				"timeupdated"		"1584187674"
+			}
+		}
+	}
+}
