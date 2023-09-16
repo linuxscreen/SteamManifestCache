@@ -1,0 +1,343 @@
+"appinfo"
+{
+	"appid"		"450390"
+	"common"
+	{
+		"name"		"The Lab"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"0088902f6db0e8b94e0be47590370b9167633a81"
+		"clienttga"		"54f984de4e86ddf17de85229f9e9a0f01b8babbc"
+		"icon"		"69ca11312e3a1779946de8871d6bdb003636ffbf"
+		"logo"		"dde7f70d5d590ba242ca8fcfaac9fe9b5e5e8754"
+		"logo_small"		"dde7f70d5d590ba242ca8fcfaac9fe9b5e5e8754_thumb"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"openvr_controller_bindings"
+		{
+			"0"
+			{
+				"controller_type"		"holographic_controller"
+				"url"		"vr-input-workshop://2028041343"
+			}
+			"1"
+			{
+				"controller_type"		"oculus_touch"
+				"url"		"vr-input-workshop://2028042868"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644278400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"The Lab"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.62368763426221"
+				"height_pct"		"95.13888888888889"
+			}
+		}
+		"store_asset_mtime"		"1567099747"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Valve"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Valve"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_31"		"1"
+			"category_25"		"1"
+			"category_40"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1459864020"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"450390"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21978"
+			"2"		"4182"
+			"3"		"19"
+			"4"		"3839"
+			"5"		"4136"
+			"6"		"21"
+			"7"		"3810"
+			"8"		"597"
+			"9"		"3942"
+			"10"		"5350"
+			"11"		"1663"
+			"12"		"1664"
+			"13"		"1774"
+			"14"		"10397"
+			"15"		"9"
+			"16"		"13382"
+			"17"		"4166"
+			"18"		"599"
+			"19"		"3859"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Valve"
+		"publisher"		"Valve"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"The Lab"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheLab/win64/TheLab.exe"
+				"arguments"		"-popupwindow"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"450391"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7552577434957620257"
+					"size"		"16625763869"
+					"download"		"6632340800"
+				}
+				"archive"
+				{
+					"gid"		"8292688149952795374"
+					"size"		"15593340233"
+					"download"		"6262260096"
+				}
+				"beta"
+				{
+					"gid"		"7552577434957620257"
+					"size"		"16625763869"
+					"download"		"6632340800"
+				}
+				"mgpu_beta"
+				{
+					"gid"		"1941234179277305251"
+					"size"		"15593879233"
+					"download"		"6262417168"
+				}
+			}
+		}
+		"branches"
+		{
+			"retaildemo"
+			{
+				"defaultforsubs"		"115574, 114271"
+				"unlockforsubs"		"115574, 114271"
+			}
+			"public"
+			{
+				"buildid"		"7242747"
+				"timeupdated"		"1630033751"
+			}
+			"archive"
+			{
+				"buildid"		"1505229"
+				"timeupdated"		"1567105352"
+			}
+			"beta"
+			{
+				"buildid"		"7242747"
+				"description"		"testing"
+				"timeupdated"		"1629827543"
+			}
+			"mgpu_beta"
+			{
+				"buildid"		"1714202"
+				"timeupdated"		"1490403697"
+			}
+		}
+	}
+}
