@@ -1,0 +1,252 @@
+"appinfo"
+{
+	"appid"		"1142130"
+	"common"
+	{
+		"name"		"They Can't Stop All Of Us"
+		"type"		"Game"
+		"logo"		"7d5ff1e86b86c8d8484bfcc270ec2c88efce1e0e"
+		"logo_small"		"7d5ff1e86b86c8d8484bfcc270ec2c88efce1e0e_thumb"
+		"icon"		"2b724c6ceccb79aa563509042385fd0d28880c1c"
+		"clienticon"		"262c242d77af322b9e755cafc272a162a23325a8"
+		"clienttga"		"e32adad852bf34e349fbcbff68fba9fd7d10e136"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1683936000"
+			"tested_build_id"		"5379676"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"They Can't Stop All Of Us"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1590685404"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"B Michael B"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"ChainWave Games"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Blake Gillman"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"ChainWave Games"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"They Can't Stop All Of Us"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1572618813"
+		"community_hub_visible"		"1"
+		"gameid"		"1142130"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"3859"
+			"3"		"10397"
+			"4"		"492"
+			"5"		"1645"
+			"6"		"19"
+			"7"		"4667"
+			"8"		"1685"
+			"9"		"4136"
+			"10"		"7332"
+			"11"		"1719"
+			"12"		"3843"
+			"13"		"1697"
+			"14"		"4711"
+			"15"		"493"
+			"16"		"4182"
+			"17"		"1774"
+			"18"		"1643"
+			"19"		"4885"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"B Michael B"
+		"publisher"		"ChainWave Games"
+		"homepage"		"https://tcsaou.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1147770,1184240,1347340,1347341"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"They Can't Stop All Of Us"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"They Cant Stop All Of Us.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1142131"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4172283662797906662"
+					"size"		"502758022"
+					"download"		"138308688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"58ADAAB4EF168679E990C135F68B8D65"
+					"size"		"502D6D2D29211A77CECF10F2307F4D95"
+					"download"		"697D40E6127C8169E4F013951BB1DA86"
+				}
+				"development"
+				{
+					"gid"		"4C1699E145C736D03394B2C1A9A41D9B"
+					"size"		"E663AE0001182DD361D87F6F70AF9BBE"
+					"download"		"137CDF1ACB9C2BE2CCF425494C95281D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5379676"
+				"timeupdated"		"1596721263"
+			}
+			"beta"
+			{
+				"buildid"		"5379676"
+				"pwdrequired"		"1"
+				"timeupdated"		"1596721275"
+			}
+			"development"
+			{
+				"buildid"		"4785734"
+				"pwdrequired"		"1"
+				"timeupdated"		"1585237222"
+			}
+		}
+	}
+}
