@@ -1,0 +1,223 @@
+"appinfo"
+{
+	"appid"		"1641650"
+	"common"
+	{
+		"name"		"Airline Manager 4"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"0d70289eaee0202c9f0b20ed0c7f28851cff0c99"
+		"logo_small"		"0d70289eaee0202c9f0b20ed0c7f28851cff0c99_thumb"
+		"icon"		"7922e8e372e03c0e8a93612820a1a0c14529649e"
+		"clienticon"		"7ecffbbe05fc0734db635103a250cae1f1ac43a6"
+		"clienttga"		"9840213e3b6c876aba5f37ef110ea0171d5c85a8"
+		"clienticns"		"34064eba3eb72cff82899105b6bcd5daa0c9ac6c"
+		"linuxclienticon"		"2dd4d7347d0e35b024909ac40b985d504200e1cc"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1688515200"
+			"tested_build_id"		"8676531"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"57.7053321906061"
+				"height_pct"		"80.94397525738259"
+			}
+		}
+		"store_asset_mtime"		"1680595838"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Trophy Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Trophy Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1624434963"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1641650"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"15045"
+			"2"		"9"
+			"3"		"113"
+			"4"		"10383"
+			"5"		"4695"
+			"6"		"17770"
+			"7"		"3871"
+			"8"		"1676"
+			"9"		"9204"
+			"10"		"1695"
+			"11"		"12472"
+			"12"		"1100687"
+			"13"		"4791"
+			"14"		"8945"
+			"15"		"6426"
+			"16"		"3859"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Trophy Games"
+		"publisher"		"Trophy Games"
+		"homepage"		"https://airlinemanager.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Airline Manager 4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Airline Manager 4.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1641651"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2007746473572419173"
+					"size"		"297050575"
+					"download"		"96597056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"776F9C423D85D3A1D9A325BC29F9132F"
+					"size"		"45F50AD4BFE338F53FF031733C59A27F"
+					"download"		"8724925FEBFB8CFFAE0EC54C85724F3E"
+				}
+				"windowstestbranch"
+				{
+					"gid"		"6F3662A7777E3F3FAFAC4E7B0CCFEEA4"
+					"size"		"952FD915497DFA3E7E347B621B67EB85"
+					"download"		"F3F51BEC81622CF1EA416B7A01294E00"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8676531"
+				"timeupdated"		"1651668653"
+			}
+			"test"
+			{
+				"buildid"		"6846105"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623326227"
+			}
+			"windowstestbranch"
+			{
+				"buildid"		"8676531"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651668012"
+			}
+		}
+	}
+}
