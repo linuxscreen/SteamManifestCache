@@ -1,0 +1,275 @@
+"appinfo"
+{
+	"appid"		"1077500"
+	"common"
+	{
+		"name"		"Journey of Greed Demo"
+		"type"		"Demo"
+		"parent"		"1032790"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"icon"		"a3b4edcbc91a0a76ba1a8a867ec1479767a86e69"
+		"logo"		"9fc9cac95d7e9e4a29dc3334357c8ae90a4737aa"
+		"logo_small"		"9fc9cac95d7e9e4a29dc3334357c8ae90a4737aa_thumb"
+		"clienttga"		"fcf4d4f862dff8f630dd83f87b3a0a28f235f6a1"
+		"clienticon"		"1eaf3d02dcdf6a2fa2d31bac584ba2a0d8cdddad"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"clienticns"		"33256ec59fc21f083245806792fa10e8318cd2e2"
+		"name_localized"
+		{
+			"schinese"		"冒险公社（试玩版）"
+			"tchinese"		"冒險公社（試玩版）"
+			"sc_schinese"		"冒险公社（试玩版）"
+		}
+		"releasestatesteamchina"		"released"
+		"section_type"		"ownersonly"
+		"metacritic_name"		"Journey of Greed Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"german"		"header_german.jpg"
+			"russian"		"header_russian.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,de,ru,zh-tw,ja,zh-cn,zh-xc"
+			"library_hero"		"en,de,zh-cn,zh-tw,ru,ja,zh-xc"
+			"library_logo"		"en,zh-tw,ru,ja,de,zh-cn,zh-xc"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"62.538589408691514"
+			}
+		}
+		"store_asset_mtime"		"1612250896"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dird Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"X.D. Network Inc."
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1556694000"
+		"steam_release_date"		"1556712974"
+		"gameid"		"1077500"
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"demoofappid"		"1032790"
+		"developer"		"Dird Games"
+		"publisher"		"X.D. Network Inc."
+	}
+	"config"
+	{
+		"installdir"		"Journey of Greed Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Journey of Greed.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"JourneyOfGreedDemo.app\\Contents\\MacOS\\Journey of Greed"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,schinese,tchinese"
+		"1077501"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7976723375371048859"
+					"size"		"1320537872"
+					"download"		"413753888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_demo"
+				{
+					"gid"		"049ADA1C5D105935EA949FD7DDAB7762"
+					"size"		"6B82D82FC32606EEAAE0C5FD07169544"
+					"download"		"6C805CB6685BB04F4E239AD6637CA348"
+				}
+			}
+		}
+		"1077502"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6451575247916961767"
+					"size"		"1313223064"
+					"download"		"411468656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_demo"
+				{
+					"gid"		"C5DCE044EF224BE62B6AE0D2E460B28E"
+					"size"		"37059F410581E685A5F69BCF814C4AFF"
+					"download"		"724EEC4C2EEFFC1EDAAABAA1D3ED1756"
+				}
+			}
+		}
+		"1077503"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1886404656832322738"
+					"size"		"1322387494"
+					"download"		"414345488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_demo"
+				{
+					"gid"		"E0F5544D904C05E6BC731B4268EA166F"
+					"size"		"C8EBC4960C4CE249085FCEA522090681"
+					"download"		"639BF13BF4545DF3D5D4ED138A65F7C9"
+				}
+			}
+		}
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+			}
+			"test_demo"
+			{
+				"sc_schinese"		"Demo測試"
+				"buildid"		"7580562"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634897158"
+			}
+			"public"
+			{
+				"buildid"		"7592586"
+				"timeupdated"		"1635149707"
+			}
+		}
+	}
+}
