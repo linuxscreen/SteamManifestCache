@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"1744570"
+	"common"
+	{
+		"name"		"U-ena -遠花火の少女-"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"U-ena -空焰火少女-"
+			"english"		"U-ena -Far fireworks-"
+			"koreana"		"U-ena"
+		}
+		"logo"		"cc89ef44aff378e1832ae234a0af306e96d8dba5"
+		"logo_small"		"cc89ef44aff378e1832ae234a0af306e96d8dba5_thumb"
+		"icon"		"8ae9ec4735cc1df0497c380d81c8e276a63cddfc"
+		"clienttga"		"43c990925ba953ed51a445b28a0b33e70424904d"
+		"linuxclienticon"		"e828775709515ebd504e326d4c63348b5cf53fd5"
+		"clienticon"		"e828775709515ebd504e326d4c63348b5cf53fd5"
+		"clienticns"		"7a4a3285cdc233710ff919938e3044ad0f03e8a3"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1639752842"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HemiolaStudio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HemiolaStudio"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1652009546"
+		"community_hub_visible"		"1"
+		"gameid"		"1744570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"9551"
+			"2"		"597"
+			"3"		"4726"
+			"4"		"1742"
+			"5"		"113"
+			"6"		"21"
+			"7"		"4085"
+			"8"		"5608"
+			"9"		"4486"
+			"10"		"4166"
+			"11"		"31275"
+			"12"		"12095"
+			"13"		"9130"
+			"14"		"4182"
+			"15"		"5379"
+			"16"		"6650"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"HemiolaStudio"
+		"publisher"		"HemiolaStudio"
+		"homepage"		"https://www.u-ena.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"U-ena"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LightApp.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,schinese,japanese"
+		"1744571"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3216728134748347821"
+					"size"		"2614598713"
+					"download"		"2374566672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"317797ACB42E10DA83168F139D030ECD"
+					"size"		"6ADCB0EBBB38AE02CD8221E2878B1AFE"
+					"download"		"762EAB805FD71E92D615233E603369FC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8726186"
+				"timeupdated"		"1652356721"
+			}
+			"beta"
+			{
+				"buildid"		"8726186"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652356730"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SaveData"
+				"pattern"		"*"
+			}
+		}
+	}
+}
