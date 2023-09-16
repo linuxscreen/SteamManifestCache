@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"1356400"
+	"common"
+	{
+		"name"		"Block Breaker Ninja Demo"
+		"type"		"Demo"
+		"parent"		"1349370"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"2bb32a4b3d0c6a650f7c620e2354a6fca988da94"
+		"clienticns"		"27919093ef212f9a15e04bff16cddb18517129c4"
+		"clienticon"		"9b94a618b16e10f0070bdab390ef66d0ac23c8cc"
+		"icon"		"30d51b7697640742851e1d2140ba9b0dc4f1127b"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.48661233993014"
+				"height_pct"		"67.09807646639753"
+			}
+		}
+		"store_asset_mtime"		"1593525252"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"OldNewGameStudio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"OldNewGameStudio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1593781973"
+		"gameid"		"1356400"
+	}
+	"extended"
+	{
+		"demoofappid"		"1349370"
+		"developer"		"OldNewGameStudio"
+		"publisher"		"OldNewGameStudio"
+	}
+	"config"
+	{
+		"installdir"		"Block Breaker Ninja Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BBNinja_Mac_demo4.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"BBNinja_demo4\\Block Breaker Ninja.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1356401"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4377669215083777693"
+					"size"		"210745670"
+					"download"		"42585680"
+				}
+			}
+		}
+		"1356402"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3161524441938363811"
+					"size"		"205851854"
+					"download"		"42081440"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6050621"
+				"timeupdated"		"1610031504"
+			}
+		}
+	}
+}
