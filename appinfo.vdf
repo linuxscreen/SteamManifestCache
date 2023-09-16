@@ -1,0 +1,254 @@
+"appinfo"
+{
+	"appid"		"2059380"
+	"common"
+	{
+		"name"		"Clone Drone in the Danger Zone Demo"
+		"type"		"Demo"
+		"parent"		"597170"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienttga"		"a5ceddd5e0d5b838278b9bd2940ff0d1aca45d1d"
+		"clienticon"		"92209b661ee8e039d6f0ec2a4acdc42eef6d5986"
+		"icon"		"2806ddb5bc592eba4752e7ec6684959b125c06f9"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1655387059"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Doborog Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Doborog Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1655924628"
+		"gameid"		"2059380"
+	}
+	"extended"
+	{
+		"demoofappid"		"597170"
+		"developer"		"Doborog Games"
+		"publisher"		"Doborog Games"
+		"homepage"		"https://www.clonedroneinthedangerzone.com"
+	}
+	"config"
+	{
+		"installdir"		"Clone Drone in the Danger Zone Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Clone Drone in the Danger Zone.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Clone Drone in the Danger Zone.app/Contents/MacOS/Clone Drone in the Danger Zone"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2059381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"820026647585591295"
+					"size"		"1189807533"
+					"download"		"745043200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"E82356C310E657746A56F0E967438BE3"
+					"size"		"E20E244DECCEE30BB79DA44467A5B3AC"
+					"download"		"03CAD33C48055631F179A687D1D9937E"
+				}
+				"experimental-macbuilt"
+				{
+					"gid"		"62F4C9B1CFD0BB5BF000BD66B8489B32"
+					"size"		"3F41553CF6BCC7A0AD3FF82CFC3A4A39"
+					"download"		"C07C84D1444654FA21E14356530BD2F8"
+				}
+			}
+		}
+		"2059382"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3380489136052013966"
+					"size"		"1198433100"
+					"download"		"747143536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"FC9B76F5818D15214B642D2194DECA28"
+					"size"		"75EAE2C0079C4AEE6E4D108653C5EF5B"
+					"download"		"948F38A331EEA63972FB22EDF467F071"
+				}
+				"experimental-macbuilt"
+				{
+					"gid"		"410848AF115942829FB20D02555A671C"
+					"size"		"5694D44CD2193AB5A9C3D1D036914272"
+					"download"		"B4ABBA2A1DF1CADE560B0D4A48355F03"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8980244"
+				"timeupdated"		"1655834336"
+			}
+			"experimental"
+			{
+				"buildid"		"8980321"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655832000"
+			}
+			"experimental-macbuilt"
+			{
+				"buildid"		"8980244"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655831327"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Doborog/Clone Drone in the Danger Zone Demo/demo"
+				"pattern"		"*.json"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
