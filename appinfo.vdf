@@ -1,0 +1,160 @@
+"appinfo"
+{
+	"appid"		"1356560"
+	"common"
+	{
+		"name"		"OhShape Demo"
+		"type"		"Demo"
+		"parent"		"1098100"
+		"releasestate"		"released"
+		"openvroverlaysupport"		"1"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+		}
+		"clienttga"		"cc469ea87a41ba393a229ba83226f0158a2a8137"
+		"clienticon"		"63091359c243f7a204f6f16b7727279bfd3f476c"
+		"icon"		"e23ee616e9eeb7d7bdea6978eafdf59ba124e87c"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.183197199533254"
+				"height_pct"		"64.43837568273568"
+			}
+		}
+		"store_asset_mtime"		"1611749371"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Odders Lab"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Odders Lab"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1593017864"
+		"gameid"		"1356560"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1098100"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Odders Lab"
+		"publisher"		"Odders Lab"
+		"homepage"		"http://ohshapevr.com"
+	}
+	"config"
+	{
+		"installdir"		"OhShape Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OhShapeDemo.exe"
+				"type"		"openvroverlay"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1356561"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8852051764042256760"
+					"size"		"345556853"
+					"download"		"149534688"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5199229"
+				"timeupdated"		"1592839314"
+			}
+		}
+	}
+}
