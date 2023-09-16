@@ -1,0 +1,159 @@
+"appinfo"
+{
+	"appid"		"770990"
+	"common"
+	{
+		"name"		"Blade Runner 9732"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"770990_eula_0"
+				"name"		"Blade Runner 9732 EULA"
+				"url"		"http://store.steampowered.com//eula/770990_eula_0"
+			}
+		}
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"cbfcf82179903244b4dc8053b5dd9ad1379a5b9d"
+		"logo_small"		"cbfcf82179903244b4dc8053b5dd9ad1379a5b9d_thumb"
+		"icon"		"df2fab91538eae200628c7747b785e7656ba1552"
+		"clienttga"		"130571b6c0bfa1539a4a3bed967d0907ef62b7f3"
+		"clienticon"		"30feb70cea3021226eb0c7e0cb53f2896684374d"
+		"openvrsupport"		"1"
+		"metacritic_name"		"Blade Runner 9732"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1516069664"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Quentin Lengele"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Quentin Lengele"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1515340680"
+		"community_hub_visible"		"1"
+		"gameid"		"770990"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4115"
+			"1"		"21978"
+			"2"		"5900"
+			"3"		"492"
+			"4"		"597"
+			"5"		"4166"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Quentin Lengele"
+		"publisher"		"Quentin Lengele"
+		"homepage"		"http://www.br9732.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BR9732"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BR9732.exe"
+				"description"		"FPS Mode"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"BR9732.exe"
+				"arguments"		"-vrmode"
+				"description"		"VR Mode"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"770991"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1487220655628474783"
+					"size"		"4426902815"
+					"download"		"1114817584"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2423594"
+				"timeupdated"		"1515514765"
+			}
+		}
+	}
+}
