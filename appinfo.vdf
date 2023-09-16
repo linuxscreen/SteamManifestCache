@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"1472250"
+	"common"
+	{
+		"name"		"ROG CITADEL XV"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"1b413535bcba5cd3aecbb289902c887a83f1effe"
+		"logo_small"		"1b413535bcba5cd3aecbb289902c887a83f1effe_thumb"
+		"icon"		"c83ecb902cba3e6ee69a6fe1ed7bc1d91049735f"
+		"clienticon"		"790dd41864299d2fb342e80f1896c2b2531ac473"
+		"clienttga"		"d14dd17e5c039f209ecfb3eb6f0ddd5dc1551f4c"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1649376000"
+			"tested_build_id"		"8007704"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"simultaneous_gamepad_mouse"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.32108027006757"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1654162950"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ASUS GLOBAL PTE. LTD"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Moonshine Creation CO., LTD."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"ASUS GLOBAL PTE. LTD"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1610438400"
+		"steam_release_date"		"1610474442"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1472250"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"1774"
+			"3"		"4106"
+			"4"		"4231"
+			"5"		"1663"
+			"6"		"113"
+			"7"		"4191"
+			"8"		"3839"
+			"9"		"4166"
+			"10"		"3942"
+			"11"		"4182"
+			"12"		"1742"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"ASUS GLOBAL PTE. LTD"
+		"publisher"		"ASUS GLOBAL PTE. LTD"
+		"isfreeapp"		"1"
+		"listofdlc"		"1938470"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ROG CITADEL XV"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ROG CITADEL XV.exe"
+				"arguments"		"-single-instance"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1472251"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6470278596563001932"
+					"size"		"21780960300"
+					"download"		"8599104512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"close_beta"
+				{
+					"gid"		"AE011BE4323D33266F08EE23EDDF69E2"
+					"size"		"7604547FCAE42DEAB1873001FE5D65FD"
+					"download"		"E26BCB5B23434770ED96BA78647A189F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9042226"
+				"timeupdated"		"1656655944"
+			}
+			"close_beta"
+			{
+				"buildid"		"9042226"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656655928"
+			}
+		}
+	}
+}
