@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"1155470"
+	"common"
+	{
+		"name"		"Mythic Ocean: Prologue"
+		"type"		"Game"
+		"logo"		"a845708fc1dd1d91dde8d71ff964bdf4ade8b64a"
+		"logo_small"		"a845708fc1dd1d91dde8d71ff964bdf4ade8b64a_thumb"
+		"icon"		"1d7819bb0246c27e4ef7c8f967363c4d9984e862"
+		"clienticon"		"95224d9e81bb539faaed69d5c0c0bc490f1e3c87"
+		"clienttga"		"fb341c2c9d7825590024819adec5cc76185020bb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1155470_eula_0"
+				"name"		"Mythic Ocean: Prologue EULA"
+				"url"		"https://store.steampowered.com//eula/1155470_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"metacritic_name"		"Mythic Ocean: Prologue"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.966161026837796"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1578550505"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paralune LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paralune LLC"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1570456797"
+		"community_hub_visible"		"1"
+		"gameid"		"1155470"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21"
+			"2"		"492"
+			"3"		"3799"
+			"4"		"9157"
+			"5"		"3834"
+			"6"		"4166"
+			"7"		"6426"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Paralune LLC"
+		"publisher"		"Paralune LLC"
+		"homepage"		"http://mythicoceangame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mythic Ocean Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OceanGods.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1155471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5213279972418554724"
+					"size"		"1523174805"
+					"download"		"656419088"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4661818"
+				"timeupdated"		"1581377499"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"7"
+		"appidredirect"		"814360"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"OceanGods/Saved/SaveGames"
+				"pattern"		"DemoSaveSlot.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
