@@ -1,0 +1,314 @@
+"appinfo"
+{
+	"appid"		"1202910"
+	"common"
+	{
+		"name"		"Spiritfarer Demo"
+		"type"		"Demo"
+		"parent"		"972660"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"87d08ba847080aa2e7742ef37bcb50b3a9d932cc"
+		"clienttga"		"5cf41d552e48ab71657d6e265517cc7d2c5faece"
+		"icon"		"21c6c86b51df38e9480231792acf0cfc30f51820"
+		"releasestate"		"released"
+		"metacritic_name"		"Spiritfarer Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"70.83333333333333"
+			}
+		}
+		"store_asset_mtime"		"1592341725"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Thunder Lotus Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Thunder Lotus Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_23"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1576170780"
+		"gameid"		"1202910"
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"demoofappid"		"972660"
+		"developer"		"Thunder Lotus Games"
+		"publisher"		"Thunder Lotus Games"
+		"homepage"		"https://thunderlotusgames.com/spiritfarer"
+	}
+	"config"
+	{
+		"installdir"		"Spiritfarer Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Spiritfarer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Spiritfarer.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"Spiritfarer.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"Spiritfarer.app"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65528"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"1934900947"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default,backup,devtest"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"1202911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5586888236812900920"
+					"size"		"2826089760"
+					"download"		"610274656"
+				}
+				"backup"
+				{
+					"gid"		"609579510406531384"
+					"size"		"2820489808"
+					"download"		"610135440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"CF9B3ABD6EBA6F0044EF621FD66CFB83"
+					"size"		"1E43EF8EA4FBA50AEFCD084AFDC84A7F"
+					"download"		"8EE161EB0D9A220E894796A21106C612"
+				}
+			}
+		}
+		"1202912"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2169563224113835026"
+					"size"		"2862645521"
+					"download"		"619682352"
+				}
+				"backup"
+				{
+					"gid"		"2169563224113835026"
+					"size"		"2862645521"
+					"download"		"619682352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"38455F2A7758C5BB9B3915A850F75298"
+					"size"		"7DF3CF90F8E69EA2B2B06EDA90D059A8"
+					"download"		"F16635A99F23060ED72482E44D393320"
+				}
+			}
+		}
+		"1202913"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6170348161149979433"
+					"size"		"2848099745"
+					"download"		"619457472"
+				}
+				"backup"
+				{
+					"gid"		"7002375498181409965"
+					"size"		"2850760205"
+					"download"		"619093200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"E2646137028BD0A0D0944AF011CA9432"
+					"size"		"22618B3AEBDF35694D3D867D63EA793D"
+					"download"		"DA67422E6B13509C8FC877D8B3609CAA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4487082"
+				"timeupdated"		"1576185646"
+			}
+			"backup"
+			{
+				"buildid"		"4487174"
+				"timeupdated"		"1576185654"
+			}
+			"devtest"
+			{
+				"buildid"		"4487082"
+				"pwdrequired"		"1"
+				"timeupdated"		"1576183347"
+			}
+		}
+	}
+}
