@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"1836100"
+	"common"
+	{
+		"name"		"The Bridge Curse Road to Salvation Demo"
+		"type"		"Demo"
+		"parent"		"1611430"
+		"clienticon"		"0f820663b5498b1171caec48d46a6f3eacd2413a"
+		"clienttga"		"329960bf0ba154096f3ae74b26d3b8e38bb55fcb"
+		"icon"		"85bc9f34bc2cc98087230be196f3abcd5ed49a49"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"tchinese"		"女鬼橋 開魂路 體驗版"
+			"schinese"		"女鬼桥 开魂路 体验版"
+			"thai"		"คำสาปสะพานเฮี้ยนถนนสู่ความรอด Demo"
+		}
+		"logo"		"78753eaa2bcede7516fd54ba0837147b969c7adc"
+		"logo_small"		"78753eaa2bcede7516fd54ba0837147b969c7adc_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-tw,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-tw,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.91010482415635"
+				"height_pct"		"77.77720381898406"
+			}
+		}
+		"store_asset_mtime"		"1645150807"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"softstar"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"softstar"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644487347"
+		"gameid"		"1836100"
+	}
+	"extended"
+	{
+		"demoofappid"		"1611430"
+		"developer"		"softstar"
+		"publisher"		"softstar"
+	}
+	"config"
+	{
+		"installdir"		"TBC"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TBC_Demo\\Binaries\\Win64\\TBC-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"The Bridge Curse Demo"
+				}
+				"description"		"The Bridge Curse Demo"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1836101"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6989984348715344054"
+					"size"		"2147260101"
+					"download"		"2050821328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"04549A7EBBA38F48BE0676F596CE0054"
+					"size"		"D4EBF9EB3BD716FDDD87D77FEC72CAE1"
+					"download"		"0CD6726A64C9EAEEF60C5E7DA3DC35FF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9605466"
+				"timeupdated"		"1664510527"
+			}
+			"develop"
+			{
+				"buildid"		"9605466"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664336959"
+			}
+		}
+	}
+}
