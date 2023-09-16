@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"950860"
+	"common"
+	{
+		"name"		"Spiral Clicker"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"158176e26c580c1d08ddecc11c02cc7d56638faf"
+		"logo_small"		"158176e26c580c1d08ddecc11c02cc7d56638faf_thumb"
+		"icon"		"8d0d57faf706798ea6f3fda60453bc645cba04b6"
+		"clienticon"		"b0d71f3b3bcc8bec44a8075fd4ec0f83d1ee6c38"
+		"clienttga"		"86314d2265f435af7bae42200e4f9e29d651dd51"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1644969600"
+			"tested_build_id"		"8052199"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Spiral Clicker"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"22.112018669778294"
+				"height_pct"		"42.78115535000251"
+			}
+		}
+		"store_asset_mtime"		"1571537747"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Changer"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Changer"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Shady Corner Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1535785200"
+		"steam_release_date"		"1540443891"
+		"community_hub_visible"		"1"
+		"gameid"		"950860"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"6650"
+			"2"		"113"
+			"3"		"5611"
+			"4"		"379975"
+			"5"		"9130"
+			"6"		"24904"
+			"7"		"4085"
+			"8"		"493"
+			"9"		"492"
+			"10"		"4182"
+			"11"		"3871"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Changer"
+		"publisher"		"Changer"
+		"isfreeapp"		"1"
+		"listofdlc"		"1045810"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Spiral Clicker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Spiral Clicker.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"950861"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7911959362914386003"
+					"size"		"1552927290"
+					"download"		"1471361152"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11879240"
+				"timeupdated"		"1691351427"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Stencyl/Spiral Clicker Resized"
+				"pattern"		"*.sol"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
