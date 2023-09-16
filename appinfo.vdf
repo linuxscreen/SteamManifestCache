@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"1591680"
+	"common"
+	{
+		"name"		"Open Mod"
+		"type"		"Game"
+		"logo"		"31ad959a4fc22246c83e2abadfb382b7a1422a66"
+		"logo_small"		"31ad959a4fc22246c83e2abadfb382b7a1422a66_thumb"
+		"icon"		"c254e02d6efb45399524ddb2f78c305ea7941634"
+		"clienttga"		"04257575491ee03f10c7f14fc2066e6c653293e7"
+		"clienticns"		"71f3303d656c6cd88cac5517b1f0c7c064fbd10d"
+		"clienticon"		"056e9d6c873583da136502acfa55d08d31ee45f6"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"34.51605938823991"
+				"height_pct"		"60.29703931250024"
+			}
+		}
+		"store_asset_mtime"		"1651055847"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hyper Gamey"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hyper Gamey"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1687799075"
+		"community_hub_visible"		"1"
+		"gameid"		"1591680"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"3839"
+			"2"		"5711"
+			"3"		"1708"
+			"4"		"3878"
+			"5"		"1775"
+			"6"		"493"
+			"7"		"5765"
+			"8"		"19"
+			"9"		"4168"
+			"10"		"7423"
+			"11"		"1669"
+			"12"		"4175"
+			"13"		"1680"
+			"14"		"5673"
+			"15"		"1663"
+			"16"		"1774"
+			"17"		"6276"
+			"18"		"3993"
+			"19"		"5348"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"developer"		"Hyper Gamey"
+		"publisher"		"Hyper Gamey"
+		"homepage"		"http://open-mod.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Open Mod Early Access Prototype"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Open Mod.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1591681"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2167931808308593386"
+					"size"		"31240090534"
+					"download"		"9868644208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"authenticationdebugbranch"
+				{
+					"gid"		"2AC242BCE0BBB4D0C1C4BD55119DCD15"
+					"size"		"5851A34BA2670DAF301C5B65A3E4D564"
+					"download"		"EAAAE621AFF92555D5462AD20C61996C"
+				}
+				"omclosedtesting"
+				{
+					"gid"		"A036BA2B179CB4D1C5E68AB063590223"
+					"size"		"BD6E562BCF2F7901B443BA6FE93D1361"
+					"download"		"47EB968E41E10016C4AFFB45BE6D36E3"
+				}
+				"omdebugbranch"
+				{
+					"gid"		"DD1C1FE392E36EAC7B8181D9263F2078"
+					"size"		"40017B7A0F56E172FF59CF5BFCD15824"
+					"download"		"ECAF5C7C6792BFE4E67A6761620D6C49"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11705952"
+				"timeupdated"		"1689359701"
+			}
+			"authenticationdebugbranch"
+			{
+				"buildid"		"11659548"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688903074"
+			}
+			"omclosedtesting"
+			{
+				"buildid"		"12190243"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694707395"
+			}
+			"omdebugbranch"
+			{
+				"buildid"		"11715804"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689552586"
+			}
+		}
+	}
+}
