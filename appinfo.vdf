@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1689750"
+	"common"
+	{
+		"name"		"武者斗天师"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"774f28be33166f12e25e9f1dc559aa30ae5f8994"
+		"logo_small"		"774f28be33166f12e25e9f1dc559aa30ae5f8994_thumb"
+		"icon"		"9cc7cf35a85ee263f54b394a17b7a7effa0a0d4f"
+		"clienticon"		"15bbb2ac7b261ef63f7468fc31fc2240978fd1d2"
+		"clienttga"		"0ee3c34ad922bb67d03002aa4d44f70115e1d720"
+		"clienticns"		"124c56ea9e74fce5d3aa120639c65657a68054b0"
+		"linuxclienticon"		"124c56ea9e74fce5d3aa120639c65657a68054b0"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"zh-cn,en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.48837209302326"
+				"height_pct"		"46.96034196152932"
+			}
+		}
+		"store_asset_mtime"		"1677841151"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AGAGamer"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"AGAGamer"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629357267"
+		"community_hub_visible"		"1"
+		"gameid"		"1689750"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1775"
+			"1"		"4608"
+			"2"		"6915"
+			"3"		"1688"
+			"4"		"4106"
+			"5"		"3839"
+			"6"		"1697"
+			"7"		"19"
+			"8"		"4747"
+			"9"		"21"
+			"10"		"4182"
+			"11"		"122"
+			"12"		"4231"
+			"13"		"42804"
+			"14"		"3813"
+			"15"		"4191"
+			"16"		"21725"
+			"17"		"113"
+			"18"		"492"
+			"19"		"493"
+		}
+		"review_score"		"7"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"AGAGamer"
+		"publisher"		"AGAGamer"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"武者斗天师"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TRON_LEGACY.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Start the game "
+					"schinese"		"该启动项用于启动游戏程序。"
+				}
+				"description"		"Start the game "
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1689751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1782053844866631577"
+					"size"		"2299178371"
+					"download"		"930049296"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11483819"
+				"timeupdated"		"1686880214"
+			}
+		}
+	}
+}
