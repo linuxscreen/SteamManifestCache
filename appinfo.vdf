@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"1542920"
+	"common"
+	{
+		"name"		"Justice.exe Demo"
+		"type"		"Demo"
+		"parent"		"1291210"
+		"clienttga"		"2d60726170f1fb0331c79a65b3301ab4b54338a8"
+		"clienticon"		"d1d2e763715cc41fc3262df9aca45fab200e7a2d"
+		"icon"		"467553abd7aa2dc28b0a371f2e1a2894d15354c3"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"62.558139534883765"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1654742645"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Late Game Clutch"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Gameclaw Studio"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Gameclaw Studio"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"IndieArk"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1612373931"
+		"gameid"		"1542920"
+	}
+	"extended"
+	{
+		"demoofappid"		"1291210"
+		"developer"		"Late Game Clutch"
+		"publisher"		"Gameclaw Studio"
+	}
+	"config"
+	{
+		"installdir"		"Justice.exe Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Justice.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Justice.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1542921"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2432782878128213779"
+					"size"		"845040736"
+					"download"		"135278688"
+				}
+			}
+		}
+		"1542922"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2315863646056591255"
+					"size"		"844499523"
+					"download"		"134341616"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8917857"
+				"timeupdated"		"1654961151"
+			}
+		}
+	}
+}
