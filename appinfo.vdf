@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"207100"
+	"common"
+	{
+		"name"		"Castle Crashers Demo"
+		"type"		"Demo"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+		}
+		"logo"		"793216ec14c639bdaf2f0119c8cc408b8e9ad7b1"
+		"logo_small"		"793216ec14c639bdaf2f0119c8cc408b8e9ad7b1_thumb"
+		"icon"		"9b7625f9b70f103397fd0416fd92abb583db8659"
+		"clienttga"		"27fcc5cebada7612863ee3b17c42d1587a2fef43"
+		"clienticon"		"ffe01563bb70af59a261798b8296b2d7c61db933"
+		"clienticns"		"40b8a9d7b74977016bf2a9f22d87919df588cd4f"
+		"freeondemand"		"1"
+		"oslist"		"windows,macos"
+		"parent"		"204360"
+		"metacritic_name"		"Castle Crashers Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1348793139"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Behemoth"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Behemoth"
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"3"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+			"french"
+			{
+				"supported"		"1"
+			}
+			"italian"
+			{
+				"supported"		"1"
+			}
+			"koreana"
+			{
+				"supported"		"1"
+			}
+			"spanish"
+			{
+				"supported"		"1"
+			}
+			"schinese"
+			{
+				"supported"		"1"
+			}
+			"tchinese"
+			{
+				"supported"		"1"
+			}
+			"japanese"
+			{
+				"supported"		"1"
+			}
+			"portuguese"
+			{
+				"supported"		"1"
+			}
+		}
+		"gameid"		"207100"
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"demoofappid"		"204360"
+		"developer"		"The Behemoth"
+		"gamedir"		"ValveTestApp207100"
+		"homepage"		"http://www.thebehemoth.com"
+		"icon"		""
+		"languages"		"english,spanish,portuguese,german,french,italian,koreana,japanese,schinese,tchinese"
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"The Behemoth"
+	}
+	"config"
+	{
+		"installscriptsignature"		"7d7fbfe97aa3a4f86c4444a964820abf4fe0c4ce0ddcb6b8b119f13f6b247bf16364773677f0c7f814d80621dea7ecf45e3721db3df7a945227a7afc7dc546302d3216785ffb7aa98be94a78a9f1daa774c53678b0f262bccb9bf7af20be5a2c4705a9e5d45fbb3b6e89de68dc16ae340533dd0bf2e7af04704db1bcf545efa6"
+		"installscriptoverride"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"castle.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Castle Crashers Demo.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"CastleCrashersDemo"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"directx"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\207100"
+				"process 1"		"%INSTALLDIR%\\directx\\DXSETUP.exe"
+				"command 1"		"/silent"
+				"nocleanup"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"207101"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5764201852311863199"
+					"size"		"193810412"
+					"download"		"166829168"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patch_2_8"
+				{
+					"gid"		"9C95F608703927C82D8C594A94908188"
+					"size"		"C335E1435BF9F171D7983EDD2314038D"
+					"download"		"ADD8F974CA647512EF18AF7A45AFE290"
+				}
+			}
+		}
+		"207102"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7504270916026048042"
+					"size"		"243975213"
+					"download"		"194401392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patch_2_8"
+				{
+					"gid"		"65EF58EF23A5D1737917145AE6504EEC"
+					"size"		"5D07C2D1F9A28B24CBD5216D4FCFD7B9"
+					"download"		"19E57CDD60ABAF41631D673285CFDFE5"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1487684"
+				"timeupdated"		"1480524809"
+			}
+			"patch_2_8"
+			{
+				"buildid"		"4355159"
+				"pwdrequired"		"1"
+				"timeupdated"		"1572890376"
+			}
+		}
+	}
+}
