@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"1489650"
+	"common"
+	{
+		"name"		"Winter Survival Demo"
+		"type"		"Demo"
+		"parent"		"1394960"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"920030da379ed67df04449c80e065ee3e70262ee"
+		"clienticon"		"e1bc7e16b85f0b3148910a60596e50a07dbc06b3"
+		"icon"		"525c2b543d2e018611bdb4ac001ad7da392025b2"
+		"logo"		"57ae547a204868834601eb97ea1815639beb7fd6"
+		"logo_small"		"57ae547a204868834601eb97ea1815639beb7fd6_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.15567846036429"
+				"height_pct"		"97.02424476845546"
+			}
+		}
+		"store_asset_mtime"		"1645189024"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DRAGO entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Movie Games S.A."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1612351200"
+		"gameid"		"1489650"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1394960"
+		"developer"		"DRAGO entertainment"
+		"publisher"		"Movie Games S.A."
+	}
+	"config"
+	{
+		"installdir"		"Winter Survival Simulator Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WSS.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1489651"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4305942077705019582"
+					"size"		"11985585801"
+					"download"		"5748480368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-test"
+				{
+					"gid"		"FD9F576676803EBDB267BAC391EBBEB1"
+					"size"		"EDBD451C01F90542EE5CA13BA9238DCE"
+					"download"		"26CE2B0A0136E632ABA47206A9326122"
+				}
+			}
+		}
+		"1489652"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5810097836989897299"
+					"size"		"11985585801"
+					"download"		"5748506544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-test"
+				{
+					"gid"		"DAF651611C494B852CA51F23B45A8F5E"
+					"size"		"EDBD451C01F90542EE5CA13BA9238DCE"
+					"download"		"1A6AB08D41370A7941021C006E5DFE45"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8228937"
+				"timeupdated"		"1645443436"
+			}
+			"dev-test"
+			{
+				"buildid"		"8228937"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645181106"
+			}
+		}
+	}
+}
