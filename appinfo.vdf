@@ -1,0 +1,186 @@
+"appinfo"
+{
+	"appid"		"2385060"
+	"common"
+	{
+		"name"		"Sea of Stars Demo"
+		"type"		"Demo"
+		"parent"		"1244090"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"d30f24c54995e2b9b3c8265df44ced6bfa01d0e2"
+		"clienttga"		"1339cad00d5fb20a49633455d848a97f33451e09"
+		"clienticon"		"7d51e52f1d96c72d5ae29ce9050127bdc79db135"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+		}
+		"store_asset_mtime"		"1687201422"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sabotage Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sabotage Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1687185593"
+		"gameid"		"2385060"
+	}
+	"extended"
+	{
+		"demoofappid"		"1244090"
+		"developer"		"Sabotage Studio"
+		"publisher"		"Sabotage Studio"
+		"homepage"		"https://seaofstarsgame.co/"
+	}
+	"config"
+	{
+		"installdir"		"Sea of Stars Demo"
+		"steamdecktouchscreen"		"5"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SeaOfStars.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2385061"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8759817554824653850"
+					"size"		"1258006490"
+					"download"		"294212288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_branch"
+				{
+					"gid"		"3CEA96EE0D99134A94F859D410DBF475"
+					"size"		"3EAC98A181344CABCB4962681A9F5297"
+					"download"		"79656C1A6C83613C735D845A6C547C44"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11562449"
+				"timeupdated"		"1687980968"
+			}
+			"dev_branch"
+			{
+				"buildid"		"11616903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688412961"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"4000000"
+		"maxnumfiles"		"24"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Sabotage Studio/Sea of Stars Demo"
+				"pattern"		"*.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
