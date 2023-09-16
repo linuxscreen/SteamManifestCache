@@ -1,0 +1,319 @@
+"appinfo"
+{
+	"appid"		"1645600"
+	"common"
+	{
+		"name"		"Ys IX: Monstrum Nox Demo"
+		"type"		"Demo"
+		"parent"		"1351630"
+		"clienticon"		"3fc7313ac673d343909e66611dbfb3194dd9ebcf"
+		"clienttga"		"e688eb5cd59900497b9ac5bf065c20648bfe911d"
+		"icon"		"2e26bae226dea1afd37cb733326c7e9bdea5be24"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1623348482"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nihon Falcom"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Engine Software BV"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"PH3 GmbH"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"NIS America, Inc."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623862817"
+		"gameid"		"1645600"
+	}
+	"extended"
+	{
+		"demoofappid"		"1351630"
+		"developer"		"Nihon Falcom"
+		"publisher"		"NIS America, Inc."
+	}
+	"config"
+	{
+		"installdir"		"Ys IX Monstrum Nox Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ys9_demo.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"ys9_demo_debugopt.exe"
+				"type"		"option1"
+				"config"
+				{
+					"betakey"		"test"
+				}
+				"description_loc"
+				{
+					"english"		"English Debug Optimized"
+				}
+				"description"		"English Debug Optimized"
+			}
+			"2"
+			{
+				"executable"		"ys9_demo_JP.exe"
+				"type"		"option2"
+				"config"
+				{
+					"betakey"		"test"
+				}
+				"description_loc"
+				{
+					"english"		"Japanese Release"
+				}
+				"description"		"Japanese Release"
+			}
+			"3"
+			{
+				"executable"		"ys9_demo_debugopt_JP.exe"
+				"type"		"option3"
+				"config"
+				{
+					"betakey"		"test"
+				}
+				"description_loc"
+				{
+					"english"		"Japanese Debug Optimized"
+				}
+				"description"		"Japanese Debug Optimized"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1645601"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2834319783848813672"
+					"size"		"3190337645"
+					"download"		"2051147600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ph3_internal"
+				{
+					"gid"		"DD9E4D68BB58A5D06709AD3AEB5453D1"
+					"size"		"87765735C3592B0659C3E5B38D7A93C3"
+					"download"		"5B35753F2E91574F5450A0EAD533FA78"
+				}
+				"test"
+				{
+					"gid"		"958A5A462B1E944563EDD98D01CA72BD"
+					"size"		"5F18C0AED3CFDA2E91E070A2598E8904"
+					"download"		"CF0096F66EB832E8F34AB1B0721C314A"
+				}
+				"v0.9.1"
+				{
+					"gid"		"A60FA6E6221654DC41EC797C3047B879"
+					"size"		"2428C46012AFD47B8BCCA124A5A83494"
+					"download"		"C9215A8E85D9A778D6B01A401A566DB0"
+				}
+				"v0.9.2"
+				{
+					"gid"		"FEA4E23F7D29399CA752515FB0ED482B"
+					"size"		"7D08101C3AB647EA95405B845B2F82D5"
+					"download"		"1C807171E5A3784099101D9721E78A65"
+				}
+				"v0.9.3"
+				{
+					"gid"		"EA90D17B19F4862DCE0E36E065062DB4"
+					"size"		"559A5896CB76FD93276540083546299B"
+					"download"		"274364EA450BD4E14741F9B16143BDE5"
+				}
+				"v0.9.4"
+				{
+					"gid"		"9D1CFA382393CB8AE893E422777B1147"
+					"size"		"CA1F9DA2B5561C251DAFF438F25C7286"
+					"download"		"A1CD4BAA77D5875EAE8426E582066522"
+				}
+				"v0.9.5"
+				{
+					"gid"		"E3A9B9953D7F3E75166E09F1C64E0EA7"
+					"size"		"EBFF3D604E2A53416146000897FC87B0"
+					"download"		"7AD8163B8312D7D32CF044CF0D00E622"
+				}
+				"v1.0.0"
+				{
+					"gid"		"982BAC9DDE8A8409FE9D5C6D694FEA66"
+					"size"		"2EACF33839CAF8FE2F00864C68A75F3A"
+					"download"		"554C86977DF82C2E361F3628C29CE443"
+				}
+				"v1.0.3"
+				{
+					"gid"		"78ADF0D978F8127D1C557F7EC0C63B98"
+					"size"		"147F10B1DE8B2EC0F625C49A2F8B8FB6"
+					"download"		"3D34D7B12C6BA0393DEAC854AF50D364"
+				}
+				"v1.0.4"
+				{
+					"gid"		"147AD09EF080AEA7225AD8A2CAC119AB"
+					"size"		"45B615F63DC1F32C48C83E7CAAE5D188"
+					"download"		"29FAC9C8CB17FA50BB5CC7E7EB20913A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7084633"
+				"timeupdated"		"1653426868"
+			}
+			"ph3_internal"
+			{
+				"buildid"		"8788481"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653252666"
+			}
+			"test"
+			{
+				"buildid"		"7084633"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653426885"
+			}
+			"v0.9.1"
+			{
+				"buildid"		"6745709"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622199122"
+			}
+			"v0.9.2"
+			{
+				"buildid"		"6774658"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622830113"
+			}
+			"v0.9.3"
+			{
+				"buildid"		"6815141"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623437772"
+			}
+			"v0.9.4"
+			{
+				"buildid"		"6855326"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623698677"
+			}
+			"v0.9.5"
+			{
+				"buildid"		"6866933"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623845816"
+			}
+			"v1.0.0"
+			{
+				"buildid"		"6878820"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625232315"
+			}
+			"v1.0.3"
+			{
+				"buildid"		"6970482"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625504896"
+			}
+			"v1.0.4"
+			{
+				"buildid"		"6982202"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625588465"
+			}
+		}
+	}
+}
