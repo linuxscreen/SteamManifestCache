@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"1471600"
+	"common"
+	{
+		"name"		"warDrive"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"ccec292658dda62231569e4fa3dc185cdaafe249"
+		"logo"		"f0d41d223696f15d980f2f36936d80073c88f5ee"
+		"logo_small"		"f0d41d223696f15d980f2f36936d80073c88f5ee_thumb"
+		"clienttga"		"2dabb6c9e37024e49adbdba0c0110db3b13cca91"
+		"clienticon"		"11c302be8d3275abe4c9a12147726195df831abc"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.01875468867216"
+				"height_pct"		"71.12324863452861"
+			}
+		}
+		"store_asset_mtime"		"1651331322"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bardic Bytes LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bardic Bytes LLC"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"warDrive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1648835834"
+		"community_hub_visible"		"1"
+		"gameid"		"1471600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4115"
+			"1"		"5796"
+			"2"		"11104"
+			"3"		"5502"
+			"4"		"5851"
+			"5"		"4252"
+			"6"		"597"
+			"7"		"615955"
+			"8"		"7926"
+			"9"		"4182"
+			"10"		"4137"
+			"11"		"4231"
+			"12"		"5923"
+			"13"		"44868"
+			"14"		"5030"
+			"15"		"19"
+			"16"		"7250"
+			"17"		"379975"
+			"18"		"56690"
+			"19"		"4305"
+		}
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"1"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"Bardic Bytes LLC"
+		"publisher"		"Bardic Bytes LLC"
+		"homepage"		"http://www.playwardrive.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"warDrive"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"warDrive.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"8"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1471601"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5229306761073630299"
+					"size"		"168675104"
+					"download"		"58403712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"0E2D3F46CDA7BAFB1092BC59D7996113"
+					"size"		"8AC61CBC5557A0FB7A2DD9D6B71BA112"
+					"download"		"EEC6FB2C61655CABC84E5839C1061D49"
+				}
+				"staging"
+				{
+					"gid"		"5B09B5B9E7779D8FE9F871D2F72C5590"
+					"size"		"56F9382A6A734B32860CDE0202A548E7"
+					"download"		"4F3AA4FC1442F82F383C88B305E25B8B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8832465"
+				"timeupdated"		"1653871454"
+			}
+			"internal"
+			{
+				"buildid"		"8714360"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652219461"
+			}
+			"staging"
+			{
+				"buildid"		"8832465"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653870483"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Bardic Bytes LLC/warDrive/savedata/steam/"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
