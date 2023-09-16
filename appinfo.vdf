@@ -1,0 +1,247 @@
+"appinfo"
+{
+	"appid"		"312990"
+	"common"
+	{
+		"name"		"The Expendabros"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"2f79038df0cb083412a603adcf933a082698a1b7"
+		"logo_small"		"2f79038df0cb083412a603adcf933a082698a1b7_thumb"
+		"clienticon"		"9bb9adcffe24e0063cac3bf259104b2a34637b6c"
+		"clienttga"		"9102887047800c907ac768f529a5718185974559"
+		"icon"		"63305a7d0473b92c6d8830a3f62527e64c479e7c"
+		"oslist"		"windows,macos"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1654041600"
+			"tested_build_id"		"413147"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"The Expendabros"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1407104918"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Free Lives"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Devolver Digital"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Free Lives"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_44"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1407222000"
+		"steam_release_date"		"1407249960"
+		"community_hub_visible"		"1"
+		"gameid"		"312990"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"3964"
+			"3"		"3871"
+			"4"		"3859"
+			"5"		"3841"
+			"6"		"1774"
+			"7"		"1685"
+			"8"		"7368"
+			"9"		"1625"
+			"10"		"492"
+			"11"		"21"
+			"12"		"4182"
+			"13"		"4136"
+			"14"		"13190"
+			"15"		"3798"
+			"16"		"7481"
+			"17"		"1719"
+			"18"		"1693"
+			"19"		"1695"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Free Lives"
+		"publisher"		"Devolver Digital"
+		"homepage"		"http://www.broforcegame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Broforce The Expendables Missions"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Expendabros.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Expendabros.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2068346502"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"312991"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2085341841438002893"
+					"size"		"669975131"
+					"download"		"392435181630"
+				}
+				"expandabrosbeta"
+				{
+					"gid"		"2085341841438002893"
+					"size"		"669975131"
+					"download"		"392435181630"
+				}
+			}
+		}
+		"312992"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6253536114073886153"
+					"size"		"677253070"
+					"download"		"678233503998"
+				}
+				"expandabrosbeta"
+				{
+					"gid"		"6253536114073886153"
+					"size"		"677253070"
+					"download"		"678233503998"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"413147"
+			}
+			"expandabrosbeta"
+			{
+				"buildid"		"413147"
+			}
+		}
+	}
+}
