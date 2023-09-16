@@ -1,0 +1,239 @@
+"appinfo"
+{
+	"appid"		"1073390"
+	"common"
+	{
+		"name"		"Aircar"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+			"xinput"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"logo"		"02bbdac611debe858a471e90c9b4237b42ed9132"
+		"logo_small"		"02bbdac611debe858a471e90c9b4237b42ed9132_thumb"
+		"icon"		"5ae7abd78a0f5393aa38c61b842592ae14c790ee"
+		"openvrsupport"		"1"
+		"clienticon"		"b45dfa50ccb0a4ae1e3d75bc2d0455c9f89620bb"
+		"clienttga"		"1e0cae5ba7594cb31b2f541639338b80ef9f501f"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"releasestate"		"released"
+		"openvr_action_manifest_path"		"Aircar/Config/SteamVRBindings/steamvr_manifest.json"
+		"openvr_controller_bindings"
+		{
+			"0"
+			{
+				"controller_type"		"vive_controller"
+				"url"		"vr-input-workshop://1831080405"
+			}
+			"1"
+			{
+				"controller_type"		"holographic_controller"
+				"url"		"vr-input-workshop://1831236832"
+			}
+			"2"
+			{
+				"controller_type"		"knuckles"
+				"url"		"vr-input-workshop://1826996787"
+			}
+			"3"
+			{
+				"controller_type"		"oculus_touch"
+				"url"		"vr-input-workshop://1826994569"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1653523200"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Aircar"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"63.36715998669456"
+				"height_pct"		"80.08324757909179"
+			}
+		}
+		"store_asset_mtime"		"1564629941"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Giant Form Entertainment, LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Giant Form Entertainment, LLC"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Aircar"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1502953200"
+		"steam_release_date"		"1565334858"
+		"community_hub_visible"		"1"
+		"gameid"		"1073390"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"597"
+			"2"		"492"
+			"3"		"21978"
+			"4"		"4115"
+			"5"		"15045"
+			"6"		"1654"
+			"7"		"599"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Giant Form Entertainment, LLC"
+		"publisher"		"Giant Form Entertainment, LLC"
+		"homepage"		"https://www.giantform.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Aircar"
+		"steamcontrollertemplateindex"		"2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Aircar.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamconfigurator3rdpartynative"		"6"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1073391"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1310052055377678008"
+					"size"		"892980026"
+					"download"		"843647920"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4505210"
+				"timeupdated"		"1576641522"
+			}
+		}
+	}
+}
