@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"1307570"
+	"common"
+	{
+		"name"		"烟火 / Firework Demo"
+		"type"		"Demo"
+		"parent"		"1288310"
+		"releasestate"		"released"
+		"clienticon"		"d9541c6d77f0e58411d53f182ded942239abb415"
+		"clienttga"		"c5ff15a98bd5d6dc68e00b6d488c3e3dacb0b308"
+		"icon"		"2fecd5d1aeb6c1048437cf5c9fe13355e7c2170f"
+		"name_localized"
+		{
+			"schinese"		"烟火 Demo"
+			"english"		"Firework Demo"
+			"tchinese"		"煙火 Demo"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.00002046688373"
+				"height_pct"		"60.06944444444444"
+			}
+		}
+		"store_asset_mtime"		"1590467113"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"拾英工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gamera Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1594791961"
+		"gameid"		"1307570"
+	}
+	"extended"
+	{
+		"demoofappid"		"1288310"
+		"developer"		"拾英工作室"
+		"publisher"		"Gamera Games"
+	}
+	"config"
+	{
+		"installdir"		"烟火  Firework Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"1307571"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1642358446306758378"
+					"size"		"565905579"
+					"download"		"369993632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"0720"
+				{
+					"gid"		"3F6AAC75AD4E1FA2E753D9F1EAEB8C64"
+					"size"		"B08A7A3E85C9D0FD69BAC7F195E27B5E"
+					"download"		"4368A55118F0192F2906D8EDEB90FDCD"
+				}
+				"entest0924"
+				{
+					"gid"		"ABA6D995F3E5021B52B7ACACCDB17BB3"
+					"size"		"EBC6859AE3642E8E518AC72976A17F66"
+					"download"		"9DA2CFBB8B861ED72E5A2BA13C043712"
+				}
+			}
+		}
+		"1307572"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9028787584730537067"
+					"size"		"595641433"
+					"download"		"395279536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"entest0924"
+				{
+					"gid"		"26763B51A0C38B43B804AB4D7CC181A3"
+					"size"		"DD03F9774A7F2685A37031B06A9942B8"
+					"download"		"A638625BB197377528A25C38CD90F5E2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5594565"
+				"timeupdated"		"1601033703"
+			}
+			"0720"
+			{
+				"buildid"		"5312052"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595303488"
+			}
+			"entest0924"
+			{
+				"buildid"		"5594483"
+				"pwdrequired"		"1"
+				"timeupdated"		"1601033746"
+			}
+		}
+	}
+}
