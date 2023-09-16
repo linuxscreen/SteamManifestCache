@@ -1,0 +1,444 @@
+"appinfo"
+{
+	"appid"		"382260"
+	"common"
+	{
+		"name"		"8Bit Fiesta"
+		"type"		"Game"
+		"logo"		"0df9542db5203dad60fb89cdd35170e017f4c29f"
+		"logo_small"		"0df9542db5203dad60fb89cdd35170e017f4c29f_thumb"
+		"icon"		"95cffb00a1bf11c90d2919b0e988f719bf0cf35f"
+		"clienttga"		"8221c6f00ea7aeb03493e4b43d1d6173636cdf9e"
+		"clienticon"		"841c125ceca73b32a8fe18d1d9f48aa2849448d6"
+		"oslist"		"windows"
+		"releasestate"		"released"
+		"clienticns"		"768c66732addbfa9f86ab60d008af353f4964203"
+		"linuxclienticon"		"12ff2994aedcf2f3628b46c077a635a7f97a88dc"
+		"osarch"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"382260_eula_0"
+				"name"		"8Bit Fiesta EULA"
+				"url"		"http://store.steampowered.com//eula/382260_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1647302400"
+			"tested_build_id"		"2704035"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"8Bit Fiesta"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"1"
+				"height_pct"		"2"
+			}
+		}
+		"store_asset_mtime"		"1614171462"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Linus Fredriksson"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Frozen Dev"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"8Bit Fiesta"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_39"		"1"
+			"category_25"		"1"
+			"category_37"		"1"
+			"category_44"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1475218800"
+		"steam_release_date"		"1475241120"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"382260"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"7178"
+			"1"		"4840"
+			"2"		"10816"
+			"3"		"5228"
+			"4"		"113"
+			"5"		"7108"
+			"6"		"19"
+			"7"		"3877"
+			"8"		"492"
+			"9"		"597"
+			"10"		"7368"
+			"11"		"3841"
+			"12"		"3964"
+			"13"		"5923"
+			"14"		"7481"
+			"15"		"1719"
+			"16"		"1625"
+			"17"		"3859"
+			"18"		"3871"
+			"19"		"10397"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Linus Fredriksson"
+		"publisher"		"Frozen Dev"
+		"homepage"		"http://www.frozendev.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"845580,845581,845582"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"8Bit Fiesta Steam"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"nw.exe"
+				"description"		"Latest Version"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"nw"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"382261"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3702928028983025849"
+					"size"		"143744607"
+					"download"		"69100256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"8bitfiestaf2p"
+				{
+					"gid"		"F2502A1BEBB088B0FC46AE7ABD58CEFA"
+					"size"		"344629792309D66230C4EE689CCA46A6"
+					"download"		"09330E0FCE91F51086DA58D4159F8D90"
+				}
+				"linux"
+				{
+					"gid"		"99C6D719A0D4D10B0CC186015C41FE67"
+					"size"		"E4808A36B8C559A433F4677F0536AD97"
+					"download"		"1FBF84EEA7C3DA46A2F818A4DE882037"
+				}
+				"testing"
+				{
+					"gid"		"CC4F041E695E506169DC73C381BE4FAD"
+					"size"		"4AD5B84C1F72F3E92606387DC3E8EE4C"
+					"download"		"4BDD4FA0E7814B804D792F8BF06F5C21"
+				}
+			}
+		}
+		"382262"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"9DFFCFC9A91AF7BCA1B58B9125769413"
+					"size"		"B727DC6BA4BC4CD1D65A56D6F89FD8CF"
+					"download"		"5D1BC18803144B9CD3F25F54387BB9A1"
+				}
+			}
+		}
+		"382263"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8509973971913492768"
+					"size"		"143744607"
+					"download"		"69099008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"8bitfiestaf2p"
+				{
+					"gid"		"3B94DF39C371CD27A287DA125B3542CE"
+					"size"		"344629792309D66230C4EE689CCA46A6"
+					"download"		"2FD84309202130B9DAE86392FB38ED98"
+				}
+				"linux"
+				{
+					"gid"		"FC844D803C67E05109F6B9D2FD1C60C4"
+					"size"		"1C1E020B13B8B47EFD56B1BAB32011FF"
+					"download"		"506BFA6808EA7AD08E7EDBE580E04D79"
+				}
+				"testing"
+				{
+					"gid"		"351D0053626912BC80420258CD72C451"
+					"size"		"4AD5B84C1F72F3E92606387DC3E8EE4C"
+					"download"		"3C351C3574AF8F33CE9D78D8997B77FC"
+				}
+			}
+		}
+		"382264"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4950110130806599720"
+					"size"		"175526047"
+					"download"		"70345808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"8bitfiestaf2p"
+				{
+					"gid"		"678ECC5F59E38966057C173479EFD3CF"
+					"size"		"DA76CFE6D2004DD8B682B2891522521F"
+					"download"		"4858D1D13B00EC3BB5866244D4ADF384"
+				}
+				"testing"
+				{
+					"gid"		"169245B171C80E1A112CF3185208529D"
+					"size"		"CDD6DE26BA5363CF0115CBC8DE938171"
+					"download"		"B8996BC63F485B54D191E50C955ED580"
+				}
+			}
+		}
+		"382265"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4129212150175958991"
+					"size"		"175353110"
+					"download"		"69520464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"8bitfiestaf2p"
+				{
+					"gid"		"A51DDDF79E6E2CC76841C024E7BF270A"
+					"size"		"D70941EA4EE6594302398BB65D8392C5"
+					"download"		"A5C492C2CB608F09D1D90A2ED019A477"
+				}
+				"testing"
+				{
+					"gid"		"BB0DAACA067ADB23B7753017052EA68B"
+					"size"		"14757199A56780C2140F9EE114E35C0F"
+					"download"		"6778EC297B71204144843ACC8A807037"
+				}
+			}
+		}
+		"845581"
+		{
+			"dlcappid"		"845581"
+		}
+		"845582"
+		{
+			"dlcappid"		"845582"
+		}
+		"845580"
+		{
+			"dlcappid"		"845580"
+		}
+		"382266"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2704035"
+				"timeupdated"		"1524156657"
+			}
+			"8bitfiestaf2p"
+			{
+				"buildid"		"2686910"
+				"pwdrequired"		"1"
+				"timeupdated"		"1523634560"
+			}
+			"linux"
+			{
+				"buildid"		"1183489"
+				"pwdrequired"		"1"
+				"timeupdated"		"1466061451"
+			}
+			"testing"
+			{
+				"buildid"		"6305958"
+				"pwdrequired"		"1"
+				"timeupdated"		"1614474344"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+}
