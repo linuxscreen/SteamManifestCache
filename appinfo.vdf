@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"1837200"
+	"common"
+	{
+		"name"		"一坨便便 YTBB"
+		"type"		"Game"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"logo"		"38477bb5bc1ae788ab325703c355603fe7685ee5"
+		"logo_small"		"38477bb5bc1ae788ab325703c355603fe7685ee5_thumb"
+		"icon"		"ed3f649a97a7b6d67775b2f6c37e1bf48aa97a6b"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"a1f965f9055cff9d5e4c7c26d991cdaa9f915291"
+		"name_localized"
+		{
+			"schinese"		"一坨便便"
+			"english"		"YTBB"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1651622400"
+			"tested_build_id"		"8205406"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"zh-cn,en"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.621739860906615"
+				"height_pct"		"45.38232930201168"
+			}
+		}
+		"store_asset_mtime"		"1640920259"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"套鹿工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"波克城市"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1643618015"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1837200"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1625"
+			"2"		"4106"
+			"3"		"4182"
+			"4"		"6052"
+			"5"		"5379"
+			"6"		"113"
+			"7"		"3871"
+			"8"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"developer"		"套鹿工作室"
+		"publisher"		"波克城市"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ytbb"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"YTBB.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1837201"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1584251503953883297"
+					"size"		"511216720"
+					"download"		"77421552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"shittest"
+				{
+					"gid"		"95BD9E2D99D1A6F72278F21E57083D6F"
+					"size"		"603D755B336529F70B38ABA3007F6823"
+					"download"		"8015B68A0BF380E88CD736149E9CDFD6"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8205406"
+				"timeupdated"		"1644919993"
+			}
+			"shittest"
+			{
+				"buildid"		"8205406"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644918793"
+			}
+		}
+	}
+}
