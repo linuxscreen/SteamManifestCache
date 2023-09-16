@@ -1,0 +1,152 @@
+"appinfo"
+{
+	"appid"		"1072970"
+	"common"
+	{
+		"name"		"The Third Building 三教 Demo"
+		"type"		"Demo"
+		"parent"		"942010"
+		"clienticon"		"f0629bfeaed679ef13d901090af145e1aa4baa9d"
+		"clienttga"		"83b06163d8e92df2d32613450321017c96d04a1f"
+		"icon"		"2380c7ba6edf51007f36c5321951ddb5de298e6f"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"The Third Building 三教 Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"66.31944617371519"
+			}
+		}
+		"store_asset_mtime"		"1591017179"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"F-Greetings"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1590996292"
+		"gameid"		"1072970"
+	}
+	"extended"
+	{
+		"demoofappid"		"942010"
+		"developer"		"F-Greetings"
+	}
+	"config"
+	{
+		"installdir"		"The Third Building 三教 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HorrorEngineV424.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1072971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4601983705994759962"
+					"size"		"1863514447"
+					"download"		"1761594192"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5108980"
+				"timeupdated"		"1591089875"
+			}
+		}
+	}
+}
