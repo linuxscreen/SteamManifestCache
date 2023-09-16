@@ -1,0 +1,152 @@
+"appinfo"
+{
+	"appid"		"1361890"
+	"common"
+	{
+		"name"		"RONY - Rise Of New York Demo"
+		"type"		"Demo"
+		"parent"		"1331660"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"6f034be39daf6691adbcd56f6d5516289feed712"
+		"clienticon"		"a7192727bb0242809b7c4b2ea0665aa86075c5f5"
+		"icon"		"be3048e55f1c126d13dde47b6e675c38f0a5061c"
+		"clienticns"		"e11c5cc720aebb3bcde5349222011f41ca869e24"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.917620137299764"
+				"height_pct"		"70.1377345048682"
+			}
+		}
+		"store_asset_mtime"		"1593675157"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"games mill"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"games mill"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1593846000"
+		"steam_release_date"		"1593802176"
+		"gameid"		"1361890"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1331660"
+		"developer"		"games mill"
+		"publisher"		"games mill"
+	}
+	"config"
+	{
+		"installdir"		"RONY - Rise Of New York Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"rony.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents\\MacOS\\rony"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1361891"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8226110941951085160"
+					"size"		"365422938"
+					"download"		"118581056"
+				}
+			}
+		}
+		"1361892"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"703657627829629593"
+					"size"		"367802685"
+					"download"		"119688288"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5236864"
+				"timeupdated"		"1593589139"
+			}
+		}
+	}
+}
