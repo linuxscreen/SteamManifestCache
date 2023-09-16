@@ -1,0 +1,166 @@
+"appinfo"
+{
+	"appid"		"1856540"
+	"common"
+	{
+		"name"		"Mirror News Center"
+		"type"		"Application"
+		"logo"		"10a9e9983445e14bd7b805ef1f9e01e4c5a4f8fe"
+		"logo_small"		"10a9e9983445e14bd7b805ef1f9e01e4c5a4f8fe_thumb"
+		"icon"		"dbd0f8f30bcb244364962aff9a96cc946da9711e"
+		"clienticon"		"01982e26cfaae2a88033fc774ea394304d9e05df"
+		"clienttga"		"007ea2362c4162dcb300c1480aa2eb1b20a63957"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658534400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"17.619135473644562"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1641954800"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NIJICO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NIJICO"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+			"1"		"59"
+			"2"		"60"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642138275"
+		"community_hub_visible"		"1"
+		"gameid"		"1856540"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+			"1"		"1038"
+			"2"		"13906"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"NIJICO"
+		"publisher"		"NIJICO"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mirror News Center"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mirror.NewsCenter.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1856541"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5982484528180610673"
+					"size"		"447202245"
+					"download"		"136880528"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8448346"
+				"timeupdated"		"1648432725"
+			}
+		}
+	}
+}
