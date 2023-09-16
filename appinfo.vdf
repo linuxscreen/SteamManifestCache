@@ -1,0 +1,273 @@
+"appinfo"
+{
+	"appid"		"705210"
+	"common"
+	{
+		"name"		"Cube Racer"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"logo"		"31e01522ef19ff3f1173e1b6a91e70afe4e5a3b3"
+		"logo_small"		"31e01522ef19ff3f1173e1b6a91e70afe4e5a3b3_thumb"
+		"icon"		"729bcef1b009c32e0c99b7418bac2e5873ae872f"
+		"clienticon"		"69e1e0d7589761e8e9a7a41457e132c39e92928c"
+		"clienttga"		"116dc1d2b38484a791bcdb6bb706d2d352dae9d1"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1677542400"
+			"tested_build_id"		"6343850"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Cube Racer"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1532000367"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Simon Blasen"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Simon Blasen"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_22"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_17"		"1"
+			"category_18"		"1"
+			"category_25"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1509382920"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"705210"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"699"
+			"3"		"597"
+			"4"		"113"
+			"5"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Simon Blasen"
+		"publisher"		"Simon Blasen"
+		"isfreeapp"		"1"
+		"listofdlc"		"898130"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Cube Racer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CubeRacer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CubeRacer.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"workshopdepot"		"705210"
+		"705211"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8867305674808530337"
+					"size"		"934215224"
+					"download"		"186969936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"299B844143AFBB0519726068B56B532F"
+					"size"		"B38889548D86F0136CD0F5F6A3203A3F"
+					"download"		"FA3932BDF37AEA5F35015955C8C22596"
+				}
+			}
+		}
+		"705212"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4673345699719803518"
+					"size"		"991922818"
+					"download"		"213546880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"00C5D142DD885219323EB5A0A66D2D45"
+					"size"		"C3AA50C3997302FA9DFD69A796DD93E6"
+					"download"		"940238FE6E3F472C600147D0159592CD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6343850"
+				"timeupdated"		"1615137014"
+			}
+			"beta"
+			{
+				"buildid"		"5800757"
+				"pwdrequired"		"1"
+				"timeupdated"		"1604855027"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"config"
+				"pattern"		"*.cfg"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"maps"
+				"pattern"		"*.crm"
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"maps"
+				"pattern"		"*.png"
+				"recursive"		"1"
+			}
+		}
+	}
+}
