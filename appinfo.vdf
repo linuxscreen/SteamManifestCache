@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"1349240"
+	"common"
+	{
+		"name"		"Sharecare YOU Demo"
+		"type"		"Demo"
+		"parent"		"753200"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"clienticon"		"1668144ff0cd3e06875fa1fe2b70ac845091065a"
+		"clienttga"		"f8bfd13ad1e053b97261d240cf0e77ca055fc695"
+		"icon"		"7adfaf92acde2227845f3d4b9efca5f05ac30f62"
+		"clienticns"		"8123ee4ee1ee7e9ee093594604ccd42e3785c7c9"
+		"logo"		"51dcad31dac61cdcac19c9d531ac900a83ca17d4"
+		"logo_small"		"51dcad31dac61cdcac19c9d531ac900a83ca17d4_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1349240_eula_0"
+				"name"		"Sharecare YOU Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1349240_eula_0"
+			}
+		}
+		"app_retired_publisher_request"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"13.678696158323632"
+				"height_pct"		"23.02431736053572"
+			}
+		}
+		"store_asset_mtime"		"1593627901"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sharecare Reality Lab"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sharecare, Inc."
+			}
+		}
+		"primary_genre"		"54"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"54"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1593525777"
+		"gameid"		"1349240"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"753200"
+		"developer"		"Sharecare Reality Lab"
+		"publisher"		"Sharecare, Inc."
+		"homepage"		"https://www.sharecareyou.com/"
+	}
+	"config"
+	{
+		"installdir"		"Sharecare YOU Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sharecare YOU.exe"
+				"arguments"		"--demo-mode"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Sharecare YOU.app/Contents/MacOS/Sharecare YOU"
+				"arguments"		"--demo-mode"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1349241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8664463130138761635"
+					"size"		"2454084370"
+					"download"		"2101275280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2276F513E0BF1A2E2A45E70A1A88E9D8"
+					"size"		"5D8AD1421FABA28071E11B0C2BAD8D0F"
+					"download"		"6D2E4B0076703028BB7A9474F74E6CDF"
+				}
+			}
+		}
+		"1349242"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2723645083255621592"
+					"size"		"2470439741"
+					"download"		"2106222832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"85F06D912014F1B49D4DC1A0872679BC"
+					"size"		"8F68D1F34720152E4AB4284A9391B4F3"
+					"download"		"1F5921BF26B984BDECA533EC70789C24"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7897162"
+				"timeupdated"		"1639760494"
+			}
+			"beta"
+			{
+				"buildid"		"7897162"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639680814"
+			}
+		}
+	}
+}
