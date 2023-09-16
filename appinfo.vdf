@@ -1,0 +1,499 @@
+"appinfo"
+{
+	"appid"		"1084520"
+	"common"
+	{
+		"name"		"雀姬"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticon"		"b4881964c524180912e9c093f107302e30d24d3b"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"icon"		"73f2bce2e8562dd06faa00956b91e6bd9e74ab02"
+		"clienticns"		"3e664a2d5fa757e5f20e4dc3b74ad6d0545894c9"
+		"logo"		"517c267f3726a7e71fed2d0fc0679d81b3239676"
+		"logo_small"		"517c267f3726a7e71fed2d0fc0679d81b3239676_thumb"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"linuxclienticon"		"2e4f99005163639dc9a3b3ecb1d835d9b6792ad9"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1673308800"
+			"tested_build_id"		"10110814"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"1"
+				"height_pct"		"35.147822891336205"
+			}
+		}
+		"store_asset_mtime"		"1666353358"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jack Tech"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Smile Tech"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"3"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1564988400"
+		"steam_release_date"		"1565068592"
+		"community_hub_visible"		"1"
+		"gameid"		"1084520"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"33572"
+			"2"		"597"
+			"3"		"4085"
+			"4"		"493"
+			"5"		"9"
+			"6"		"122"
+			"7"		"1770"
+			"8"		"12095"
+		}
+		"review_score"		"5"
+		"review_percentage"		"56"
+	}
+	"extended"
+	{
+		"developer"		"Jack Tech"
+		"publisher"		"Smile Tech"
+		"homepage"		"http://queji.tw"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"sparrowhime"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"game.app\\Contents\\MacOS\\game"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese,tchinese,japanese"
+		"1084521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6360050784524386833"
+					"size"		"1550318953"
+					"download"		"1225521472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"competition"
+				{
+					"gid"		"83BBF175B482B65B0CEE3932D4EB3796"
+					"size"		"99D9425088C52649FEB3101B2F0EA3C0"
+					"download"		"B78F00B4763441582DCA5A2CBB46009B"
+				}
+				"english"
+				{
+					"gid"		"14E9A412A8C3A43B149D75E53FEAF9D9"
+					"size"		"042556BB236F15232B592D053E67A65C"
+					"download"		"4767535641F3426D9BE7D8CA2B4D4470"
+				}
+				"test"
+				{
+					"gid"		"67DD93215B845922DCBD402CC8077F1F"
+					"size"		"5C81E0DA9B3AF829C04CB78BB8CE0423"
+					"download"		"8C681464B22655D6D1FFDD086C378F68"
+				}
+			}
+		}
+		"1084522"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1215858627734581475"
+					"size"		"1539859576"
+					"download"		"1215360048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"competition"
+				{
+					"gid"		"0293CE186EFF2FB52127E900D08E47AA"
+					"size"		"7AB4211A550D786D63C8322F3BA29037"
+					"download"		"089044B73EDE7FFD582A1D1E4A86BB60"
+				}
+				"english"
+				{
+					"gid"		"784F0BB49211187BF8F720F31A11190E"
+					"size"		"392718EAC75B98CE9445EB959425F9D3"
+					"download"		"8F034FAB03C6E3472BEDC08D7C4981A1"
+				}
+				"test"
+				{
+					"gid"		"F8784CF63BF4A0A263698935ACA29731"
+					"size"		"BED60573A788B074ABDF4C1DDEAC102C"
+					"download"		"A2A64CD09913288723165496301A9E6E"
+				}
+			}
+		}
+		"1084524"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5688534397717982375"
+					"size"		"1550347662"
+					"download"		"1225396816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"competition"
+				{
+					"gid"		"DBAD035C0AAA3D3D494B9F8CFE27DA21"
+					"size"		"D75FC5661E61FEC4C557F81EA9AB24F1"
+					"download"		"6406EF4F4DF961444CC2F6F9012CA8A8"
+				}
+				"english"
+				{
+					"gid"		"5866EE71E484D6964BEABA30E2388EA0"
+					"size"		"DFC291D4487E78577175E695DA0E8BDE"
+					"download"		"06E9AD7BBC80A7B10E3C99D0D07BE747"
+				}
+				"test"
+				{
+					"gid"		"EEF013B4AC9B727C81C60CDD948E422F"
+					"size"		"08407B27DB5F681A5740FB98EB85C76A"
+					"download"		"94E0E294A152A8FFB535A21BE564A114"
+				}
+			}
+		}
+		"1084523"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5957530987274514605"
+					"size"		"1549540890"
+					"download"		"1222980288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"competition"
+				{
+					"gid"		"1DA26685AB10CC9C12A67E120B7A8991"
+					"size"		"2EA2E32E74EAC954344A161129E22DC7"
+					"download"		"71980F50FAD988938286FEE1125D9DD5"
+				}
+				"english"
+				{
+					"gid"		"F3ECC19F767F96347F9675A4E3014EDD"
+					"size"		"60B484F1F9A660347BF72F3E385D7B7F"
+					"download"		"8181FE0867F1A4788E80BEC21DF1D4FE"
+				}
+				"test"
+				{
+					"gid"		"6A3D7129DD5DD916A2AF6F5CCD2303A1"
+					"size"		"D53C1D83C6AC4E64A21F7E35E3572A4B"
+					"download"		"D5C51EBD340A115CA640EFE9BF904761"
+				}
+			}
+		}
+		"1084525"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8896100365562937183"
+					"size"		"1550222021"
+					"download"		"1225371872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"competition"
+				{
+					"gid"		"7DDCCE9A18ABADE81946965B1C6F4939"
+					"size"		"FF7688AA3E713B7BFF8E67E7165948FB"
+					"download"		"94E81F9A090FCE511D3E3CE23A8E713F"
+				}
+				"english"
+				{
+					"gid"		"AFF17D3238CE02B7D340532D7B7EF8C4"
+					"size"		"BAB77B84E8A26869779B9F9DA9D0181F"
+					"download"		"2EF03C7B15D2E6DCEFD44D06AE3E69DB"
+				}
+				"test"
+				{
+					"gid"		"72D0761DC798AEA7ECCEB7EF7B973021"
+					"size"		"98B5EF6BA3D7833D45B3DE22CDEEBBB1"
+					"download"		"DFA6B4CCEE1608E5E9C7BCDA2108275C"
+				}
+			}
+		}
+		"1084526"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"171639773339580102"
+					"size"		"1518501528"
+					"download"		"1197365568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"competition"
+				{
+					"gid"		"C39EA88640BE1C6203EDA2EB634E0D42"
+					"size"		"4E1B8EF3C91545BC464727F2377C4519"
+					"download"		"D72EE7AE4D4B43AC31595FE977E7DBB7"
+				}
+				"english"
+				{
+					"gid"		"5FE291FE52539E60B35906B9A077F160"
+					"size"		"4370F7107B5B22F32E7CC23D45EC8F3F"
+					"download"		"38159239DCC8EB2E8A391F2D6FDC4F28"
+				}
+				"test"
+				{
+					"gid"		"2A948CC23CB252817C9115103863E113"
+					"size"		"5C0600D9B3A1A401D05CA7FA4A79581E"
+					"download"		"40B90E85C45D985F71EC30E32F5D2FA9"
+				}
+			}
+		}
+		"1084527"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"english"
+				{
+					"gid"		"97868BC12A935C9C866B7DC19813EB95"
+					"size"		"1D5BE17ECB528EB9787FFB88C67F5F29"
+					"download"		"6792C3C62468A95FEC9EE7BD70EC99B4"
+				}
+				"test"
+				{
+					"gid"		"F9F8FBCD22C89E800EF70F8A255C3ED2"
+					"size"		"93363220FBBF5E29162610E9F0FAB477"
+					"download"		"5BA56A79EF6EE83D437149D254739147"
+				}
+			}
+		}
+		"1084528"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"english"
+				{
+					"gid"		"5B8D57C53E12B710C4B41482BF1AE542"
+					"size"		"18A3BF8A96E77AA6F9F1C40DB1F2D27E"
+					"download"		"D1A03BB170FAFE97E82F8BA504662DAB"
+				}
+				"test"
+				{
+					"gid"		"462162CFE6C2CBCA229228C7AB026F79"
+					"size"		"F35207B913A4C420F757CE4B923DE6ED"
+					"download"		"9AC819C86464EAB23F4EC23EB13CAA1F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12102887"
+				"timeupdated"		"1693813594"
+			}
+			"competition"
+			{
+				"buildid"		"6144434"
+				"pwdrequired"		"1"
+				"timeupdated"		"1611736178"
+			}
+			"english"
+			{
+				"buildid"		"5691400"
+				"pwdrequired"		"1"
+				"timeupdated"		"1602827792"
+			}
+			"test"
+			{
+				"buildid"		"12102595"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693810009"
+			}
+		}
+	}
+}
