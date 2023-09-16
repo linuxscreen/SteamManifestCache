@@ -1,0 +1,305 @@
+"appinfo"
+{
+	"appid"		"1961460"
+	"common"
+	{
+		"name"		"Project Playtime"
+		"type"		"Game"
+		"icon"		"c443ac07bed8665c5bef29464351c3b236684759"
+		"clienttga"		"e0a15cbc1e87cd79ec7044608b65e3c9469a8de2"
+		"clienticon"		"114c81f0227b6ab844b270bbe6600aaaaaa9f7a7"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1674864000"
+			"tested_build_id"		"10147965"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1685659427"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mob Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mob Entertainment"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1670860784"
+		"community_hub_visible"		"1"
+		"gameid"		"1961460"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"3978"
+			"2"		"1667"
+			"3"		"1664"
+			"4"		"3843"
+			"5"		"5711"
+			"6"		"4947"
+			"7"		"4191"
+			"8"		"4726"
+			"9"		"4747"
+			"10"		"3839"
+			"11"		"4342"
+			"12"		"1721"
+			"13"		"19"
+			"14"		"3854"
+			"15"		"4166"
+			"16"		"3834"
+			"17"		"493"
+			"18"		"1697"
+			"19"		"4175"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=1961460"
+		"developer"		"Mob Entertainment"
+		"publisher"		"Mob Entertainment"
+		"homepage"		"https://www.mobentertainment.com/project-playtime"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Poppy Playtime - Multiplayer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Playtime_Multiplayer.exe"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1961461"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6133874248792856680"
+					"size"		"13430066065"
+					"download"		"12969786352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_alpha"
+				{
+					"gid"		"1AD3251BC5801AF627C7A48236C3AB53"
+					"size"		"82B4D3DD3D86756ABF21B457A729FA1A"
+					"download"		"E20027FF2FB1464D0E733A093360D3ED"
+				}
+				"dev_build"
+				{
+					"gid"		"8D48CA88DB2D59F4684DDBD780034204"
+					"size"		"9DE223CFDD3DC10A2274C6F3A72A693D"
+					"download"		"FC73A584A6E09F763714CBF3A671ADBB"
+				}
+				"dev_filming"
+				{
+					"gid"		"D3E48030475D353034C41F920CDC3704"
+					"size"		"1AC85A22508D6ABF89C1A84DCAEF9928"
+					"download"		"BABC924DF15325151E61329119AD37D3"
+				}
+				"dev_prototyping"
+				{
+					"gid"		"F263B2A110F3B7D549B727C467077C01"
+					"size"		"B21A64A8FCC2632CABE0F687F4C9C58E"
+					"download"		"38541111405B2ECE50D24E16E076EA02"
+				}
+				"lemon"
+				{
+					"gid"		"7888E9F7A81100655E75EA6CEBA9CBE1"
+					"size"		"7F19E4470588A8B245E223C6C1A860D5"
+					"download"		"22B4462435A3F551591338D69F5F65B8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11784410"
+				"timeupdated"		"1690313909"
+			}
+			"dev_alpha"
+			{
+				"buildid"		"12035721"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692995411"
+			}
+			"dev_build"
+			{
+				"buildid"		"12202422"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694808451"
+			}
+			"dev_filming"
+			{
+				"buildid"		"11328544"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685122418"
+			}
+			"dev_prototyping"
+			{
+				"buildid"		"11538757"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687465629"
+			}
+			"lemon"
+			{
+				"buildid"		"11784410"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690302543"
+			}
+		}
+	}
+}
