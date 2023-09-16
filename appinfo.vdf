@@ -1,0 +1,242 @@
+"appinfo"
+{
+	"appid"		"2125130"
+	"common"
+	{
+		"name"		"Havendock Demo"
+		"type"		"Demo"
+		"parent"		"2020710"
+		"releasestate"		"released"
+		"clienticon"		"ab7baf0b611648b54e8055b0dce352c487d3d3b8"
+		"clienttga"		"388deb9455d30833c0edab08ed3926d0ca98c0fb"
+		"icon"		"5cf67e93177dbe0ca83a3383196d6424f36b3480"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"海港物语 Havendock Demo"
+			"tchinese"		"海港物語 Havendock Demo"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1677147191"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"YYZ"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"YYZ"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Different Tales"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664540429"
+		"gameid"		"2125130"
+	}
+	"extended"
+	{
+		"demoofappid"		"2020710"
+		"developer"		"YYZ"
+		"publisher"		"YYZ"
+	}
+	"config"
+	{
+		"installdir"		"Havendock Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HavendockDemo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"HavendockDemo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"HavendockDemo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2125131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2665481387121347710"
+					"size"		"709320609"
+					"download"		"221653472"
+				}
+				"experimental"
+				{
+					"gid"		"6914983379131427337"
+					"size"		"1058054900"
+					"download"		"263312752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"default_auto"
+				{
+					"gid"		"2D9F6EF64C095338B262C343CC78E127"
+					"size"		"69D872B04FF5B1C0B9B7EA5C5A216B7A"
+					"download"		"5B66764F88C591C8C1ACBA5BF00765B6"
+				}
+				"testing"
+				{
+					"gid"		"AA09CCCC6A88F6C5ED622A6E448D78AB"
+					"size"		"3B77B920176F0F2D1F4866761104F3C4"
+					"download"		"A88ABCB98995156ECB003EF6E03DA2EA"
+				}
+				"unsupported_platforms"
+				{
+					"gid"		"AE22175D0379EA249E96FEF29FEB6C68"
+					"size"		"3D519AAD24DA28CB1564AB56382E1B4C"
+					"download"		"9EDCF59A50CA8BF48BD54AD25F1BCA1C"
+				}
+			}
+		}
+		"2125132"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"303473571100150458"
+					"size"		"732073171"
+					"download"		"228430224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"unsupported_platforms"
+				{
+					"gid"		"ABBC3D64AED13DFA43F62BCCB7779338"
+					"size"		"FCF3123808132123310666C263634ECC"
+					"download"		"F91EA1128107926886C119282101C275"
+				}
+			}
+		}
+		"2125133"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5438474783892466491"
+					"size"		"793688292"
+					"download"		"245489088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"unsupported_platforms"
+				{
+					"gid"		"7A6DD683BA361666B498C4ED528A72B5"
+					"size"		"230FD6E69A469D8B81AD109A4FBFDB20"
+					"download"		"69FC2D33952830047D01300B25A14CEC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11365711"
+				"timeupdated"		"1685585464"
+			}
+			"default_auto"
+			{
+				"buildid"		"11666092"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688997407"
+			}
+			"experimental"
+			{
+				"buildid"		"12187991"
+				"description"		"Windows experimental builds"
+				"timeupdated"		"1694691134"
+			}
+			"testing"
+			{
+				"buildid"		"10931093"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680642755"
+			}
+			"unsupported_platforms"
+			{
+				"buildid"		"11750225"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689872305"
+			}
+		}
+	}
+}
