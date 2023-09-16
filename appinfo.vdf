@@ -1,0 +1,1028 @@
+"appinfo"
+{
+	"appid"		"1675900"
+	"common"
+	{
+		"name"		"Warlander"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"9bc63957995b5210dea55b07db9053005719926c"
+		"clienttga"		"4b321fec12f86f7e823bfe83d9698a1ac1f83288"
+		"clienticon"		"ac4c715a9f163e5adefe05a8ee320ceb9af66d3a"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1675468800"
+			"tested_build_id"		"10428385"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.239406207239675"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1674554652"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Toylogic Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PLAION"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_28"		"1"
+			"category_35"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1674575676"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1675900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1718"
+			"1"		"1775"
+			"2"		"1646"
+			"3"		"3878"
+			"4"		"21725"
+			"5"		"1697"
+			"6"		"4747"
+			"7"		"4231"
+			"8"		"4191"
+			"9"		"5711"
+			"10"		"4608"
+			"11"		"4136"
+			"12"		"19"
+			"13"		"1684"
+			"14"		"3859"
+			"15"		"4057"
+			"16"		"113"
+			"17"		"4172"
+			"18"		"4155"
+			"19"		"128"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"allowmicrotxnfromrestrictedcountries"		"0"
+		"microtxnrestrictedcountries"		"RU,BY"
+		"developer"		"Toylogic Inc."
+		"publisher"		"PLAION"
+		"homepage"		"https://playwarlander.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"warlander"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher.exe"
+				"arguments"		"--exec=\"warlander.exe\" --argv=\"\""
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"release_candidate"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander"
+					"japanese"		"Warlander をプレイ"
+				}
+				"description"		"Play Warlander"
+			}
+			"1"
+			{
+				"executable"		"warlander.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"libra_tl_external ds_testing dev_testing libra_tl_latest_build libra_tl_latest_build_dev libra_tl_next_dev libra_tl_dev_test_play libra2_latest_build_develop_opt libra2_daily_develop_opt"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander"
+					"japanese"		"Warlander をプレイ"
+				}
+				"description"		"Play Warlander"
+			}
+			"2"
+			{
+				"executable"		"dev/profile/warlander.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"ds_testing dev_testing libra_tl_latest_build libra_tl_latest_build_dev libra_tl_next_dev libra_tl_dev_test_play libra2_latest_build_develop_opt libra2_daily_develop_opt"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander (TestBuild : Profile with Denuvo)"
+					"japanese"		"Warlander をプレイ (Profileビルド Denuvo有効)"
+				}
+				"description"		"Play Warlander (TestBuild : Profile with Denuvo)"
+			}
+			"3"
+			{
+				"executable"		"dev/release/warlander.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"ds_testing dev_testing libra_tl_latest_build libra_tl_latest_build_dev libra_tl_next_dev libra_tl_dev_test_play libra2_latest_build_develop_opt libra2_daily_develop_opt"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander(TestBuild : ReleaseTest with Denuvo)"
+					"japanese"		"Warlander をプレイ(ReleaseTestビルド Denuvo有効)"
+				}
+				"description"		"Play Warlander(TestBuild : ReleaseTest with Denuvo)"
+			}
+			"4"
+			{
+				"executable"		"dev\\developopt_orig\\warlander.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"ds_testing dev_testing libra_tl_latest_build libra_tl_latest_build_dev libra_tl_next_dev libra_tl_dev_test_play libra2_latest_build_develop_opt libra2_daily_develop_opt"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander (TestBuild : DevelopOpt)"
+					"japanese"		"Warlander をプレイ (DevelopOptビルド)"
+				}
+				"description"		"Play Warlander (TestBuild : DevelopOpt)"
+			}
+			"5"
+			{
+				"executable"		"dev\\profile_orig\\warlander.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"ds_testing dev_testing libra_tl_latest_build libra_tl_latest_build_dev libra_tl_next_dev libra_tl_dev_test_play libra2_latest_build_develop_opt libra2_daily_develop_opt"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander (TestBuild : Profile)"
+					"japanese"		"Warlander をプレイ (Profileビルド)"
+				}
+				"description"		"Play Warlander (TestBuild : Profile)"
+			}
+			"6"
+			{
+				"executable"		"dev\\release_orig\\warlander.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"ds_testing dev_testing libra_tl_latest_build libra_tl_latest_build_dev libra_tl_next_dev libra_tl_dev_test_play libra2_latest_build_develop_opt libra2_daily_develop_opt"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander (TestBuild : ReleaseTest)"
+					"japanese"		"Warlander をプレイ (ReleaseTestビルド)"
+				}
+				"description"		"Play Warlander (TestBuild : ReleaseTest)"
+			}
+			"7"
+			{
+				"executable"		"dev/profile/warlander.exe"
+				"arguments"		"--argv=\"/timing\""
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"libra_tl_latest_build"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander (Profile Log Enable)"
+					"japanese"		"Warlander をプレイ (Profile ログ有効)"
+				}
+				"description"		"Play Warlander (Profile Log Enable)"
+			}
+			"8"
+			{
+				"executable"		"dev/release/warlander.exe"
+				"arguments"		"--argv=\"/timing\""
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"libra_tl_latest_build"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander (Release Log Enable)"
+					"japanese"		"Warlander をプレイ (Release ログ有効)"
+				}
+				"description"		"Play Warlander (Release Log Enable)"
+			}
+			"9"
+			{
+				"executable"		"launcher.exe"
+				"arguments"		"--exec=\"dev/profile/warlander.exe\" --working-directory=\"./\" --argv=\"--dev\""
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"libra_tl_sentry libra_tl_latest_build"
+				}
+				"description_loc"
+				{
+					"english"		"Sentry Warlander"
+					"japanese"		"SentryからWarlanderを起動"
+				}
+				"description"		"Sentry Warlander"
+			}
+			"10"
+			{
+				"executable"		"warlander.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"libra_tl_sentry2"
+				}
+				"description_loc"
+				{
+					"english"		"Sentry Warlander"
+				}
+				"description"		"Sentry Warlander"
+			}
+			"11"
+			{
+				"executable"		"launcher.exe"
+				"arguments"		"--exec=\"warlander.exe\" --argv=\"\""
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"libra_tl_patch_dev libra_tl_external"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander (Sentry)"
+					"japanese"		"Warlander をプレイ(Sentry)"
+				}
+				"description"		"Play Warlander (Sentry)"
+			}
+			"12"
+			{
+				"executable"		"launcher.exe"
+				"arguments"		"--exec=\"dev/release/warlander.exe\" --working-directory=\"./\" --argv=\"--dev\""
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"libra_tl_patch_dev"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander (Release Sentry)"
+					"japanese"		"Warlander をプレイ(Release Sentry)"
+				}
+				"description"		"Play Warlander (Release Sentry)"
+			}
+			"13"
+			{
+				"executable"		"launcher.exe"
+				"arguments"		"--exec=\"dev/profile/warlander.exe\" --working-directory=\"./\" --argv=\"--dev\""
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"libra_tl_patch_dev"
+				}
+				"description_loc"
+				{
+					"english"		"Play Warlander (Profile Sentry)"
+					"japanese"		"Warlander をプレイ(Profile Sentry)"
+				}
+				"description"		"Play Warlander (Profile Sentry)"
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"5"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,turkish,brazilian,latam"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1675901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1013651087741278450"
+					"size"		"6109728745"
+					"download"		"5686019312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_testing"
+				{
+					"gid"		"3710ED1D0B2B71717A99978862042349"
+					"size"		"C088DCDCA757BC82328CE7BD523B70EE"
+					"download"		"48534D9A0B429229EAD6A4B9ECCEE946"
+				}
+				"ds_testing"
+				{
+					"gid"		"D482C997827622CFAF8578EA7F4C3C06"
+					"size"		"258DB52DA0E5167D936A8F2B88879B13"
+					"download"		"8381010C2C38E44931F7245D33D24D8A"
+				}
+				"ds_testing_compat"
+				{
+					"gid"		"BB8F560BB16EEFA7514507CEFA7EB0B8"
+					"size"		"5018B3CC51872CB6E6BB6DC9D1885C5B"
+					"download"		"E017FB391BC2DCD1379AB1951F054C5B"
+				}
+				"libra_external"
+				{
+					"gid"		"CC62CB0CFFFD1EABAFE1B39EA8A45D5C"
+					"size"		"1DF78472447330DC46089DF6EAD651F2"
+					"download"		"EFC84F98B3384C60AE54E7FB7BB8E208"
+				}
+				"libra_tl_dev_test_play"
+				{
+					"gid"		"1AC7A74654B685AA4AF6A42BF40AF49F"
+					"size"		"C4B456581F15DA81319DEC609FEE742E"
+					"download"		"99AA2DB390BAC7E6B2B99FF3A54F062F"
+				}
+				"libra_tl_external"
+				{
+					"gid"		"EC13479D1078F418887F015153BC6E8F"
+					"size"		"D0007FFD13A712EC757FE393893C39E4"
+					"download"		"FCF8BD5C636B60154E525EEF3CE418D9"
+				}
+				"libra_tl_latest_build"
+				{
+					"gid"		"8DB020EC5586F8910509FE78CCB635CF"
+					"size"		"69E1D67870F75D26DDDF3779433ED8D4"
+					"download"		"941568DA73499B5F2B30EA8FCB5A00CD"
+				}
+				"libra_tl_latest_build_dev"
+				{
+					"gid"		"7718E1F57BAE9CD3A40910F07E256339"
+					"size"		"B1DCCF43CEE7962D9497722A9D353DE4"
+					"download"		"3BE5F87221E1589798D5DE0DE1B65263"
+				}
+				"libra_tl_latest_build_release"
+				{
+					"gid"		"F0F44AE9404FDBE698075CE0E1B91E4D"
+					"size"		"BDB16672FE0E151591206F73CC2465CB"
+					"download"		"A5536572AD2A8F7054255C40FBF13F07"
+				}
+				"libra_tl_next_dev"
+				{
+					"gid"		"21B8AC3904C50CB528C389F739F215AE"
+					"size"		"4D45DD6DB5A94558AA7CF0A125CD3912"
+					"download"		"5AFA94239C4FDD37F8E71AAAE8E50207"
+				}
+				"libra_tl_next_release"
+				{
+					"gid"		"096242BC11E660DD0961DD0C20324C09"
+					"size"		"3F382E7E338CB323ACC73FB9F0CC6411"
+					"download"		"59FE583137D6393725AE8423906A7F5F"
+				}
+				"libra_tl_patch_dev"
+				{
+					"gid"		"E8EA9F29E8ECCAE7801270E862F752CF"
+					"size"		"A1354016A8B1206A16D3EDC8BE4297EC"
+					"download"		"441D8CA3CD00FFD276DE5B55F629C150"
+				}
+				"libra_tl_patch_release"
+				{
+					"gid"		"EF01907D25A71691EB1B932945AC67B3"
+					"size"		"2DE4888778C603EA401321D6E50BD802"
+					"download"		"2CE68518CD4FD3627FDF3C6AE58E7BB1"
+				}
+				"libra_tl_prod_test"
+				{
+					"gid"		"F125231AC98CF996C49177643219E24A"
+					"size"		"B5EBE4DB8441ED5428C15E3D557DE941"
+					"download"		"F13A9DF426957067C66C288D695BC796"
+				}
+				"libra_tl_sentry"
+				{
+					"gid"		"EF9B3C21C9282B59E9225B698BF184FF"
+					"size"		"FC458764A24725161640D34CCFE7E8A7"
+					"download"		"FA41577EA697124A63D9F02725409163"
+				}
+				"libra_tl_sentry2"
+				{
+					"gid"		"13E10D9B4033C2496C17782628BC1A3F"
+					"size"		"F74C5AE43B78EE1F5279A1604C9B73A5"
+					"download"		"12A29C728749C97972CD1B55EBD1E1BD"
+				}
+				"libra2_daily_develop_opt"
+				{
+					"gid"		"CC5BA301D0FB5FDB1F19D85001362B2F"
+					"size"		"AD8B3565E24D8A1B9A9910D9E33B555C"
+					"download"		"7B28588057339791F2345E7E6A002A83"
+				}
+				"libra2_latest_build_develop_opt"
+				{
+					"gid"		"FCF00FE425961E26A1D204E56A5DA956"
+					"size"		"4B26585E5028F9E27B3088E57F442446"
+					"download"		"58F16CA87D8DCB6B25F1BEE8304D728A"
+				}
+				"open_beta"
+				{
+					"gid"		"F2BD283076D2A7054EF7FD5971C816DA"
+					"size"		"24A2245CC5DE735F5FCA5AFE8B867A14"
+					"download"		"5193E1B080E5A23C3D6998DBE3437D90"
+				}
+				"preview_event"
+				{
+					"gid"		"C59F3AD9605DF60F884AAEF21C9DC953"
+					"size"		"CE08E701649FDAFABCBAABBFE36B5685"
+					"download"		"E187835429520C6083D39EA292BD11BD"
+				}
+				"preview_event_jp"
+				{
+					"gid"		"CAE596FD4D75DF653D90BFB2A93EBB8D"
+					"size"		"74A4B09C4A52E121CB7571131D657427"
+					"download"		"D73DBD4DAC49EE3A3E9F5D1EAFB724E5"
+				}
+				"release_candidate"
+				{
+					"gid"		"2F4B416A4098B6704E7E3E8350058C92"
+					"size"		"50EB71974333E18345D140C4123E75A1"
+					"download"		"A1895A33EE0FD29CDACF93FC592C709D"
+				}
+				"testing_gbtn"
+				{
+					"gid"		"B90832C685B15375A7CC62780BCA0A25"
+					"size"		"CAC9F6C32808ABE3CB9B5524F055A36C"
+					"download"		"E750006AF7CD6C9EDA8C3B2E85353075"
+				}
+			}
+		}
+		"1675902"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8794185638516547617"
+					"size"		"2708883737"
+					"download"		"1282730368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_testing"
+				{
+					"gid"		"8B4EE7902218114B9BAE3A92481CD95C"
+					"size"		"A826FF540F941DC3A6FB93DDE9CE45CE"
+					"download"		"179902229E5C59ADCF9339C5C15FA8BE"
+				}
+				"ds_testing"
+				{
+					"gid"		"0B11B4FB173685A1AC7FCFEBE17220D6"
+					"size"		"6C9A3346B66479A7F06AF9783A1590BD"
+					"download"		"7EFF878CC32632E54D13F9C1229918D9"
+				}
+				"ds_testing_compat"
+				{
+					"gid"		"B7F9F1BD59DACF754D6B136C31D90CA7"
+					"size"		"7E1504FC433C176B6F8DF0A307CB53D4"
+					"download"		"08895992DC347F294C62CC59DD681136"
+				}
+				"libra_external"
+				{
+					"gid"		"33172319AA39A51A8DB3A9EEC155AB28"
+					"size"		"EC2BCB4E1EB04E0B7F30B5403517ACCC"
+					"download"		"0530AE24C34A911130BDA0A10BD89591"
+				}
+				"libra_tl_dev_test_play"
+				{
+					"gid"		"BD60BBE8E2661A424B8314A2DE9BF6AD"
+					"size"		"1B152C4BCF474F18DEC373855AC1561E"
+					"download"		"BAEAF1C2A8FFB5FCD3B3F7436C3C2021"
+				}
+				"libra_tl_external"
+				{
+					"gid"		"1506BD378E69550E13EAF1840891FA37"
+					"size"		"A6EF4EC1C32F3BF6DD0D04641A1436A3"
+					"download"		"F2499505237836C5D51EDD1522FBD59D"
+				}
+				"libra_tl_latest_build"
+				{
+					"gid"		"09D11F2DE77C92A1A9536E2215329C7B"
+					"size"		"16A365675B516AB5EAB0A0D53A922952"
+					"download"		"B67F5292A9E347D4C87314BC3467D72E"
+				}
+				"libra_tl_latest_build_dev"
+				{
+					"gid"		"DC2210EE1B1671F26A21ADD81881E361"
+					"size"		"FACA1EE33D820965A394161129D65838"
+					"download"		"3813967AD846D765ECF6D4FD4E0A5773"
+				}
+				"libra_tl_latest_build_release"
+				{
+					"gid"		"BE80853CF5CFB03EBCFFB5ED30FE195D"
+					"size"		"2239BB3F2C065E133AF24E57E2087CDD"
+					"download"		"BF2E6E88ABD73AAE38AED5489DEB97C1"
+				}
+				"libra_tl_next_dev"
+				{
+					"gid"		"3EA03DBBF61C5808ADE6A58C3BE203C7"
+					"size"		"F72C38438F10E42B666C1920FB8B644E"
+					"download"		"EF018255ABA7761BF8E1A402FDDF17A2"
+				}
+				"libra_tl_next_release"
+				{
+					"gid"		"A9BB880A2832DF093D9231FBB5B52348"
+					"size"		"5A8B1300E69034879CC85297F762266E"
+					"download"		"291BAD02511618349BACB1AF2D3657F5"
+				}
+				"libra_tl_patch_dev"
+				{
+					"gid"		"543F899A9732AD50420D3990BC1367E9"
+					"size"		"B2393C57CD9DA8A9051A079F3D4A0088"
+					"download"		"2A7F6EDAD4EED333BFE132B02F4E8E5E"
+				}
+				"libra_tl_patch_release"
+				{
+					"gid"		"C5847C1DBD314E73847879E9DE4E2181"
+					"size"		"C6587FFC4A9221854D2F0B4E56AFBF57"
+					"download"		"98C0C4A792B795C577B9B062A79814AE"
+				}
+				"libra_tl_prod_test"
+				{
+					"gid"		"57E82FC83442DE4F61324A80814058A7"
+					"size"		"BB8DA08111600AD3E79FA1DD9408DB5D"
+					"download"		"27EB3EE5BEFDFA11CCECE9418A1AE672"
+				}
+				"libra_tl_sentry"
+				{
+					"gid"		"F2CA8F9CD23B55BB078432EE4DA5F4D6"
+					"size"		"3E8335D62709DCA30D1AEFB2C440CC8E"
+					"download"		"26FE8B5389943B7A760856A0EF5AA24E"
+				}
+				"libra_tl_sentry2"
+				{
+					"gid"		"CCE2A15F80576B00380CB67DE3356537"
+					"size"		"274C98F8B2491201AFE04DFFA384064B"
+					"download"		"E59F2107A9FAB5A53A0E3D57C9C8202D"
+				}
+				"libra2_daily_develop_opt"
+				{
+					"gid"		"F07D2832A37BB54190511AA433C3E337"
+					"size"		"1831034F13339B0E1BDB19B7B53A2F68"
+					"download"		"FE005079E8869634A805A05BAF84FD8B"
+				}
+				"libra2_latest_build_develop_opt"
+				{
+					"gid"		"813E5C6FA789325191EEDB8622D7C565"
+					"size"		"16D5C8EA404EE2BE679E56A89A21881E"
+					"download"		"EC9E351A46D75AFBD3FFC4978B9CF1BC"
+				}
+				"open_beta"
+				{
+					"gid"		"9EC19EF190C8A1284D5BA04D20E38CE5"
+					"size"		"AC9548466BE099A65F2439196536581E"
+					"download"		"51186B152F57D48BCAFE5945477A94B2"
+				}
+				"preview_event"
+				{
+					"gid"		"EAA3999416CA8412DC2F421F53133387"
+					"size"		"3D0191248FD593F8E1192FB2DF54D234"
+					"download"		"1E8D8D7973C575FFAAD40F6795F5ECDA"
+				}
+				"preview_event_jp"
+				{
+					"gid"		"D94B468E92B9B1C0AD900684844FE230"
+					"size"		"68051DF6B2DBC54EFC8B52C3F06A901C"
+					"download"		"3F28BC9E71FFC0424794666C6129BAAA"
+				}
+				"release_candidate"
+				{
+					"gid"		"5A8131B1BB6860ACCD6F99AE1F7F4087"
+					"size"		"187398F3966F624077CC8936B04A0E6D"
+					"download"		"DE142AE32C036EE9D7EFBEB819933A3A"
+				}
+				"testing_gbtn"
+				{
+					"gid"		"ACFD99119A8669DFC51E14AEDF5E0B4B"
+					"size"		"248CB8E460A639B5028D7EF87C97D14A"
+					"download"		"3A30843E74043F28417D2157603DCAD9"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12175177"
+				"timeupdated"		"1694761203"
+			}
+			"dev_testing"
+			{
+				"buildid"		"12143201"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694411069"
+			}
+			"ds_testing"
+			{
+				"buildid"		"12140378"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694164272"
+			}
+			"ds_testing_compat"
+			{
+				"buildid"		"9259787"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659696222"
+			}
+			"libra_external"
+			{
+				"buildid"		"9413425"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661835979"
+			}
+			"libra_tl_dev_test_play"
+			{
+				"buildid"		"12196002"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694761173"
+			}
+			"libra_tl_external"
+			{
+				"buildid"		"12176778"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694597850"
+			}
+			"libra_tl_latest_build"
+			{
+				"buildid"		"12203108"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694815900"
+			}
+			"libra_tl_latest_build_dev"
+			{
+				"buildid"		"11935852"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692622290"
+			}
+			"libra_tl_latest_build_release"
+			{
+				"buildid"		"11906406"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692622271"
+			}
+			"libra_tl_next_dev"
+			{
+				"buildid"		"12192390"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694725056"
+			}
+			"libra_tl_next_release"
+			{
+				"buildid"		"12192401"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694725193"
+			}
+			"libra_tl_patch_dev"
+			{
+				"buildid"		"12175169"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694583221"
+			}
+			"libra_tl_patch_release"
+			{
+				"buildid"		"12175177"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694583316"
+			}
+			"libra_tl_prod_test"
+			{
+				"buildid"		"11393246"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685942975"
+			}
+			"libra_tl_sentry"
+			{
+				"buildid"		"10574298"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676625670"
+			}
+			"libra_tl_sentry2"
+			{
+				"buildid"		"12103775"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693821912"
+			}
+			"libra2_daily_develop_opt"
+			{
+				"buildid"		"10415791"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674803802"
+			}
+			"libra2_latest_build_develop_opt"
+			{
+				"buildid"		"12186331"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694679306"
+			}
+			"open_beta"
+			{
+				"buildid"		"9722139"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665751168"
+			}
+			"preview_event"
+			{
+				"buildid"		"10015036"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669638561"
+			}
+			"preview_event_jp"
+			{
+				"buildid"		"9515108"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663163795"
+			}
+			"release_candidate"
+			{
+				"buildid"		"11906406"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692002827"
+			}
+			"testing_gbtn"
+			{
+				"buildid"		"9234991"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659422596"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"Top Menu"
+					"#test_presence_0002"		"2-Army Battle"
+					"#test_presence_0003"		"5-Army Battle"
+				}
+			}
+			"japanese"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"トップメニュー"
+					"#test_presence_0002"		"2チームバトル"
+					"#test_presence_0003"		"5チームバトル"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"Top Menu"
+					"#test_presence_0002"		"2-Armeen-Gefecht"
+					"#test_presence_0003"		"5-Armeen-Gefecht"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"au menu principal"
+					"#test_presence_0002"		"Bat. à 2 armées"
+					"#test_presence_0003"		"Bat. à 5 armées"
+				}
+			}
+			"italian"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"menu principale"
+					"#test_presence_0002"		"Batt. 2 eserciti"
+					"#test_presence_0003"		"Batt. 5 eserciti"
+				}
+			}
+			"spanish"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"menú principal"
+					"#test_presence_0002"		"Bat. 2 ejércitos"
+					"#test_presence_0003"		"Bat. 5 ejércitos"
+				}
+			}
+			"schinese"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"备战中"
+					"#test_presence_0002"		"两军对决"
+					"#test_presence_0003"		"五军争霸"
+				}
+			}
+			"tchinese"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"備戰中"
+					"#test_presence_0002"		"兩軍對決"
+					"#test_presence_0003"		"五軍爭霸"
+				}
+			}
+			"polish"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"Menu główne"
+					"#test_presence_0002"		"Bitwa 2 armii"
+					"#test_presence_0003"		"Bitwa 5 armii"
+				}
+			}
+			"turkish"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"Üst Menüde"
+					"#test_presence_0002"		"2 Ordu Savaşı"
+					"#test_presence_0003"		"5 Ordu Savaşı"
+				}
+			}
+			"brazilian"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"menu principal"
+					"#test_presence_0002"		"Bat. 2 Exércitos"
+					"#test_presence_0003"		"Bat. 5 Exércitos"
+				}
+			}
+			"koreana"
+			{
+				"tokens"
+				{
+					"#test_presence_0001"		"최상위 메뉴"
+					"#test_presence_0002"		"2부대 전투"
+					"#test_presence_0003"		"5부대 전투"
+				}
+			}
+		}
+	}
+}
