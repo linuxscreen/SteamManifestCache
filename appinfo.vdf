@@ -1,0 +1,177 @@
+"appinfo"
+{
+	"appid"		"1959960"
+	"common"
+	{
+		"name"		"Burg"
+		"type"		"Game"
+		"clienttga"		"a146cf66395a5e9ab2d57699eeb4bf7ce7c31a9f"
+		"clienticon"		"4d41abfccf4d4091265da5ce22908b0ba59eecb7"
+		"icon"		"f4c8668e1ba277488b2a24c108212ee7b47e8df3"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1657060382"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Barji"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Barji"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1657449900"
+		"community_hub_visible"		"1"
+		"gameid"		"1959960"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"19"
+			"2"		"1775"
+			"3"		"1687"
+			"4"		"10397"
+			"5"		"597"
+			"6"		"5395"
+			"7"		"1625"
+			"8"		"9"
+			"9"		"3834"
+			"10"		"4191"
+			"11"		"3839"
+			"12"		"4252"
+			"13"		"1719"
+			"14"		"113"
+			"15"		"5350"
+			"16"		"4136"
+			"17"		"492"
+			"18"		"4747"
+			"19"		"1721"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Barji"
+		"publisher"		"Barji"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Burg"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Burg.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1959961"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4244707198137633087"
+					"size"		"230014127"
+					"download"		"37809008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A4CD892FFCE1E9ECC3136FD6E9B6F7C4"
+					"size"		"443D0D99BA6DCA4D8279AC4221605E3D"
+					"download"		"7E8FFCADF9E35B84FBA1673574DEAA2E"
+				}
+				"closed_beta"
+				{
+					"gid"		"F533991CB9341920F87B398B9EC132DE"
+					"size"		"E5164F5246BDB9E7D43FD6A7EBBD921B"
+					"download"		"81C7DA3779E1F4DB759910138C7B0AED"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9181619"
+				"timeupdated"		"1658704855"
+			}
+			"beta"
+			{
+				"buildid"		"9181386"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658699797"
+			}
+			"closed_beta"
+			{
+				"buildid"		"9094043"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657452810"
+			}
+		}
+	}
+}
