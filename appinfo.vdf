@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"1942120"
+	"common"
+	{
+		"name"		"The Complex: Found Footage"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"f2cb6deae87e00f014c5619e0d5dcc1579da4a18"
+		"clienttga"		"1a8a4a6f9c32b52b22d47f8e95b88d73ad662ab5"
+		"clienticon"		"5a774fcc79c15ff392a4732eb1c1385ace0f96b1"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1665014400"
+			"tested_build_id"		"9540391"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"56.39182334835993"
+				"height_pct"		"48.06651716900859"
+			}
+		}
+		"store_asset_mtime"		"1665349439"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"pgWave."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"pgWave."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"The Complex"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1660838379"
+		"community_hub_visible"		"1"
+		"gameid"		"1942120"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"1721"
+			"2"		"3839"
+			"3"		"3859"
+			"4"		"4182"
+			"5"		"3834"
+			"6"		"4175"
+			"7"		"5716"
+			"8"		"1695"
+			"9"		"5900"
+			"10"		"6691"
+			"11"		"21"
+			"12"		"4166"
+			"13"		"1742"
+			"14"		"113"
+			"15"		"4342"
+			"16"		"4191"
+			"17"		"6971"
+			"18"		"492"
+			"19"		"6869"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"pgWave."
+		"publisher"		"pgWave."
+		"homepage"		"https://www.patreon.com/user?u=23359502"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Complex Found Footage"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheComplexFF.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1942121"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2155955105409264324"
+					"size"		"1859698798"
+					"download"		"1728548096"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11039480"
+				"timeupdated"		"1681902917"
+			}
+		}
+	}
+}
