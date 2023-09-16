@@ -1,0 +1,266 @@
+"appinfo"
+{
+	"appid"		"1317860"
+	"common"
+	{
+		"name"		"The Riftbreaker Demo"
+		"type"		"Demo"
+		"parent"		"780310"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"ddfe367334485ae6527f2269e5ac92dde6c65248"
+		"clienticon"		"464c2ef7bed634b0671da9d95ce5b3f9d365c267"
+		"icon"		"0b857e062de70768f4bfded1f98db209a2820535"
+		"logo"		"2fce9339a8cd381c1a900939e17e042a1d6eb829"
+		"logo_small"		"2fce9339a8cd381c1a900939e17e042a1d6eb829_thumb"
+		"section_type"		"ownersonly"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1589363698"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EXOR Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"EXOR Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"EXOR Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592434740"
+		"gameid"		"1317860"
+	}
+	"extended"
+	{
+		"demoofappid"		"780310"
+		"developer"		"EXOR Studios"
+		"publisher"		"EXOR Studios"
+		"homepage"		"https://www.riftbreaker.com/"
+	}
+	"config"
+	{
+		"installdir"		"The Riftbreaker Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin/riftbreaker_win_release.exe"
+				"workingdir"		"bin"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"bin/Launcher.exe"
+				"workingdir"		"bin"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"bin/riftbreaker_win_release.exe"
+				"arguments"		"config=conf/benchmark/benchmark_intense_steam.cfg"
+				"workingdir"		"bin"
+				"description"		"CPU Benchmark"
+				"type"		"option2"
+			}
+			"3"
+			{
+				"executable"		"bin/riftbreaker_win_release.exe"
+				"arguments"		"config=conf/benchmark/benchmark_gpu_steam.cfg"
+				"workingdir"		"bin"
+				"description"		"GPU Benchmark"
+				"type"		"option3"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1317861"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1021390684417655715"
+					"size"		"5275075180"
+					"download"		"4967545312"
+				}
+				"experimental"
+				{
+					"gid"		"1021390684417655715"
+					"size"		"5275075180"
+					"download"		"4967545312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_dev"
+				{
+					"gid"		"6594C2B5C9C923FE40807AC04ED235DA"
+					"size"		"00BEAA9DCBEB66749BBA3471F0291BA3"
+					"download"		"B25CDF940448933E42BE79C1CEAE8193"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8166329"
+				"timeupdated"		"1644409720"
+			}
+			"beta_dev"
+			{
+				"buildid"		"12176696"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694597988"
+			}
+			"experimental"
+			{
+				"buildid"		"8166329"
+				"description"		"Experimental testing branc"
+				"timeupdated"		"1644409737"
+			}
+		}
+	}
+}
