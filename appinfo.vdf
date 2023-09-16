@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1332390"
+	"common"
+	{
+		"name"		"F.I.S.T.:Forged In Shadow Torch Demo"
+		"type"		"Demo"
+		"parent"		"1330470"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"2cf7bec99d707c3ae60173a99be1d81eb1b56981"
+		"clienttga"		"c850b6e55104d8f1ec44136c927a61e2c667d745"
+		"icon"		"11bb39de13b581e986f51264ba37634f2fbbe438"
+		"name_localized"
+		{
+			"english"		"F.I.S.T.:Forged In Shadow Torch Demo"
+			"schinese"		"暗影火炬城 Demo"
+		}
+		"releasestate"		"released"
+		"logo"		"a17dd44d43a98c93eea218c7caa734ca7735d25e"
+		"logo_small"		"a17dd44d43a98c93eea218c7caa734ca7735d25e_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw,ja"
+			"library_hero"		"en,zh-cn,ja,zh-tw"
+			"library_logo"		"en,zh-cn,ja,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"69.52165481577245"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1597982720"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TiGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"bilibili"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1602079143"
+		"gameid"		"1332390"
+	}
+	"extended"
+	{
+		"demoofappid"		"1330470"
+		"developer"		"TiGames"
+		"publisher"		"bilibili"
+	}
+	"config"
+	{
+		"installdir"		"FISTDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ZingangGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1332391"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"860339349249085540"
+					"size"		"11038264019"
+					"download"		"10879790464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"C944C68F607CD835C1220BE795183B63"
+					"size"		"C057ECFB31D18E730AAAF6A54AD9D4E0"
+					"download"		"9E847345C3EFD1E901EE780E6F6D1DBE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7943927"
+				"timeupdated"		"1640690979"
+			}
+			"test"
+			{
+				"buildid"		"7943927"
+				"pwdrequired"		"1"
+				"timeupdated"		"1640682461"
+			}
+		}
+	}
+}
