@@ -1,0 +1,1542 @@
+"appinfo"
+{
+	"appid"		"365670"
+	"common"
+	{
+		"name"		"Blender"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"icon"		"48733cd333eea6e40711a1b9c6dde32ffe363ced"
+		"logo"		"5c4f9e482338e1ac7de6eb063d1a7dcf6df1e312"
+		"logo_small"		"5c4f9e482338e1ac7de6eb063d1a7dcf6df1e312_thumb"
+		"clienttga"		"00f1df173e113d0ed67f975b5964526d6590352d"
+		"clienticon"		"2c766c741133c157e0a3c3ac5648a3155fb79f4e"
+		"clienticns"		"55c1120fb03918646f21d1affc683d293da22c71"
+		"linuxclienticon"		"33efb85d4419f1f5457cec97dc8f30157d78a263"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658534400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Blender"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.83720930232559"
+				"height_pct"		"53.96794768388555"
+			}
+		}
+		"store_asset_mtime"		"1680077479"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Blender Foundation"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Blender Foundation"
+			}
+		}
+		"primary_genre"		"51"
+		"genres"
+		{
+			"0"		"51"
+			"1"		"53"
+			"2"		"58"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"757497600"
+		"steam_release_date"		"1429885020"
+		"community_hub_visible"		"1"
+		"gameid"		"365670"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"872"
+			"1"		"84"
+			"2"		"8013"
+			"3"		"1721"
+			"4"		"113"
+			"5"		"13906"
+			"6"		"784"
+			"7"		"4191"
+			"8"		"4026"
+			"9"		"1649"
+			"10"		"29482"
+			"11"		"4182"
+			"12"		"87"
+			"13"		"3968"
+			"14"		"29363"
+			"15"		"3810"
+			"16"		"3871"
+			"17"		"1669"
+			"18"		"1643"
+			"19"		"1667"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"disableoverlay"		"1"
+		"developer"		"Blender Foundation"
+		"publisher"		"Blender Foundation"
+		"homepage"		"https://www.blender.org"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Blender"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"blender.app/Contents/MacOS/blender"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+			"7"
+			{
+				"executable"		"blender.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		" 2.79b"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender with console (fallback)"
+				}
+				"description"		"Launch Blender with console (fallback)"
+			}
+			"8"
+			{
+				"executable"		"blender.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"2.80"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender with console (fallback)"
+				}
+				"description"		"Launch Blender with console (fallback)"
+			}
+			"9"
+			{
+				"executable"		"blender.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"2.81"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender with console (fallback)"
+				}
+				"description"		"Launch Blender with console (fallback)"
+			}
+			"10"
+			{
+				"executable"		"blender.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"2.82"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender with console (fallback)"
+				}
+				"description"		"Launch Blender with console (fallback)"
+			}
+			"11"
+			{
+				"executable"		"blender.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"2.83"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender with console (fallback)"
+				}
+				"description"		"Launch Blender with console (fallback)"
+			}
+			"12"
+			{
+				"executable"		"blender.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"2.83lts"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender with console (fallback)"
+				}
+				"description"		"Launch Blender with console (fallback)"
+			}
+			"13"
+			{
+				"executable"		"blender.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"2.90"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender with console (fallback)"
+				}
+				"description"		"Launch Blender with console (fallback)"
+			}
+			"14"
+			{
+				"executable"		"blender.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"2.91"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender with console (fallback)"
+				}
+				"description"		"Launch Blender with console (fallback)"
+			}
+			"15"
+			{
+				"executable"		"blender.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"2.92"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender with console (fallback)"
+				}
+				"description"		"Launch Blender with console (fallback)"
+			}
+			"16"
+			{
+				"executable"		"blender.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		" 2.93"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender with console (fallback)"
+				}
+				"description"		"Launch Blender with console (fallback)"
+			}
+			"21"
+			{
+				"executable"		"blender-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"daily"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender without console"
+				}
+				"description"		"Launch Blender without console"
+			}
+			"22"
+			{
+				"executable"		"blender-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"daily-3.3"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender without console"
+				}
+				"description"		"Launch Blender without console"
+			}
+			"23"
+			{
+				"executable"		"blender-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"devtest"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender without console"
+				}
+				"description"		"Launch Blender without console"
+			}
+			"24"
+			{
+				"executable"		"blender-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"v3.0"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender without console"
+				}
+				"description"		"Launch Blender without console"
+			}
+			"25"
+			{
+				"executable"		"blender-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"v3.1"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender without console"
+				}
+				"description"		"Launch Blender without console"
+			}
+			"26"
+			{
+				"executable"		"blender-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"v3.2"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender without console"
+				}
+				"description"		"Launch Blender without console"
+			}
+			"27"
+			{
+				"executable"		"blender-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"v3.3"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender without console"
+				}
+				"description"		"Launch Blender without console"
+			}
+			"28"
+			{
+				"executable"		"blender-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender without console"
+				}
+				"description"		"Launch Blender without console"
+			}
+			"29"
+			{
+				"executable"		"blender-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"v3.4"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender without console"
+				}
+				"description"		"Launch Blender without console"
+			}
+			"30"
+			{
+				"executable"		"blender-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"v3.5"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender without console"
+				}
+				"description"		"Launch Blender without console"
+			}
+			"31"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		" 2.79b"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"32"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"2.80"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"33"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"2.81"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"34"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"2.82"
+				}
+				"description_loc"
+				{
+					"english"		"blender"
+				}
+				"description"		"blender"
+			}
+			"35"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"2.83"
+				}
+				"description_loc"
+				{
+					"english"		"blender"
+				}
+				"description"		"blender"
+			}
+			"36"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"2.90"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"37"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"2.91"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"38"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"2.92"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"39"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"2.93"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"40"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"v3.0"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"41"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"v3.1"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"42"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"v3.2"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"44"
+			{
+				"executable"		"blender"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"v3.4"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Blender"
+				}
+				"description"		"Launch Blender"
+			}
+			"49"
+			{
+				"executable"		"blender-launcher"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Legacy Launcher"
+				}
+				"description"		"Legacy Launcher"
+			}
+			"50"
+			{
+				"executable"		"blender-launcher"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"v3.6"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"365671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8011938782774087908"
+					"size"		"1139364386"
+					"download"		"267230720"
+				}
+				"2.79b"
+				{
+					"gid"		"7586666587986390751"
+					"size"		"321409780"
+					"download"		"85584880"
+				}
+				"2.80"
+				{
+					"gid"		"331297447791553373"
+					"size"		"313743169"
+					"download"		"85820176"
+				}
+				"2.81"
+				{
+					"gid"		"3934412375782044911"
+					"size"		"369927665"
+					"download"		"123210976"
+				}
+				"2.82"
+				{
+					"gid"		"3897822584122811946"
+					"size"		"380210397"
+					"download"		"125571968"
+				}
+				"2.83"
+				{
+					"gid"		"7725485919076094085"
+					"size"		"433687617"
+					"download"		"132251072"
+				}
+				"2.90"
+				{
+					"gid"		"7485108968176215586"
+					"size"		"430553066"
+					"download"		"141095488"
+				}
+				"2.91"
+				{
+					"gid"		"7360822704544552849"
+					"size"		"548959057"
+					"download"		"158472432"
+				}
+				"2.92"
+				{
+					"gid"		"2575038000628555613"
+					"size"		"566753308"
+					"download"		"161233696"
+				}
+				"2.93"
+				{
+					"gid"		"3310219657955637917"
+					"size"		"662168263"
+					"download"		"170270960"
+				}
+				"daily"
+				{
+					"gid"		"4810275727007263166"
+					"size"		"1145120150"
+					"download"		"268811456"
+				}
+				"daily-3.3"
+				{
+					"gid"		"8702842540230682438"
+					"size"		"882902321"
+					"download"		"213017856"
+				}
+				"daily-3.6"
+				{
+					"gid"		"8760498790289131242"
+					"size"		"1139125535"
+					"download"		"267279136"
+				}
+				"v3.0"
+				{
+					"gid"		"3918621466549045760"
+					"size"		"694950561"
+					"download"		"189022416"
+				}
+				"v3.1"
+				{
+					"gid"		"8537503966563894453"
+					"size"		"703560577"
+					"download"		"190907920"
+				}
+				"v3.2"
+				{
+					"gid"		"6747375327480634340"
+					"size"		"773692118"
+					"download"		"197077264"
+				}
+				"v3.3"
+				{
+					"gid"		"972013424211011770"
+					"size"		"883044441"
+					"download"		"213029232"
+				}
+				"v3.4"
+				{
+					"gid"		"4747576744398483899"
+					"size"		"946648920"
+					"download"		"232351680"
+				}
+				"v3.5"
+				{
+					"gid"		"4256910983295108412"
+					"size"		"1025818288"
+					"download"		"251025632"
+				}
+				"v3.6"
+				{
+					"gid"		"8011938782774087908"
+					"size"		"1139364386"
+					"download"		"267230720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"44C5EA1EC6C5569882A23F6CEC1ED7FB"
+					"size"		"9EE7EB5AC57F5BD1EEF3DFCAE254E946"
+					"download"		"076F1F024288237AE745C620852D225B"
+				}
+			}
+		}
+		"365672"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"2.79b"
+				{
+					"gid"		"8163411599387566861"
+					"size"		"290161285"
+					"download"		"78587216"
+				}
+				"2.80"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"2.81"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"2.82"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"2.83"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"2.90"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"2.91"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"2.92"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"2.93"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"daily"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"daily-3.3"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"daily-3.6"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"v3.0"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"v3.1"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"v3.2"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"v3.3"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"v3.4"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"v3.5"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+				"v3.6"
+				{
+					"gid"		"7178515723770090470"
+					"size"		"247223701"
+					"download"		"69856864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"614EEB82148653FB6730EDD2067E3195"
+					"size"		"8643991792E48591A5324C91A3B8A836"
+					"download"		"3A51007D596B44E5AF1F22D689C68CB6"
+				}
+			}
+		}
+		"365673"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1437425669768477578"
+					"size"		"1276614623"
+					"download"		"282976752"
+				}
+				"2.79b"
+				{
+					"gid"		"5646927732911106265"
+					"size"		"439447434"
+					"download"		"120306064"
+				}
+				"2.80"
+				{
+					"gid"		"8628427177109083377"
+					"size"		"427795977"
+					"download"		"113852272"
+				}
+				"2.81"
+				{
+					"gid"		"3204333888626038086"
+					"size"		"472076063"
+					"download"		"147893152"
+				}
+				"2.82"
+				{
+					"gid"		"8942840523334402920"
+					"size"		"512338671"
+					"download"		"159906768"
+				}
+				"2.83"
+				{
+					"gid"		"1779453853123731885"
+					"size"		"544380908"
+					"download"		"163106288"
+				}
+				"2.90"
+				{
+					"gid"		"4524844378458474415"
+					"size"		"560948354"
+					"download"		"174588016"
+				}
+				"2.91"
+				{
+					"gid"		"886289158528358950"
+					"size"		"577640098"
+					"download"		"179887088"
+				}
+				"2.92"
+				{
+					"gid"		"6313101205241179300"
+					"size"		"593887347"
+					"download"		"182617280"
+				}
+				"2.93"
+				{
+					"gid"		"2474432622674466044"
+					"size"		"686673483"
+					"download"		"187094736"
+				}
+				"daily"
+				{
+					"gid"		"3991504473371050851"
+					"size"		"1301365901"
+					"download"		"289174080"
+				}
+				"daily-3.3"
+				{
+					"gid"		"3792039697975452810"
+					"size"		"882456150"
+					"download"		"226818688"
+				}
+				"daily-3.6"
+				{
+					"gid"		"3586468963895035165"
+					"size"		"1277052123"
+					"download"		"283047264"
+				}
+				"v3.0"
+				{
+					"gid"		"6616233524210475661"
+					"size"		"701373028"
+					"download"		"205808160"
+				}
+				"v3.1"
+				{
+					"gid"		"1794017992210664681"
+					"size"		"716073849"
+					"download"		"207572512"
+				}
+				"v3.2"
+				{
+					"gid"		"4821839266338818520"
+					"size"		"784280357"
+					"download"		"213262272"
+				}
+				"v3.3"
+				{
+					"gid"		"4840473013909968093"
+					"size"		"882434075"
+					"download"		"226802768"
+				}
+				"v3.4"
+				{
+					"gid"		"8935003143519197664"
+					"size"		"940881281"
+					"download"		"244818240"
+				}
+				"v3.5"
+				{
+					"gid"		"8052370741578791232"
+					"size"		"1225863161"
+					"download"		"276570752"
+				}
+				"v3.6"
+				{
+					"gid"		"1437425669768477578"
+					"size"		"1276614623"
+					"download"		"282976752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"E79082BED32EBFFB5A426B006F87F60D"
+					"size"		"4B8CFA4B5157FBEA952F8E49D1B4C146"
+					"download"		"9171C2263162100C4B34C7B7440A6734"
+				}
+			}
+		}
+		"365674"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5593472363247753264"
+					"size"		"780313023"
+					"download"		"202930960"
+				}
+				"2.79b"
+				{
+					"gid"		"267991738402385154"
+					"size"		"437646480"
+					"download"		"102343488"
+				}
+				"2.80"
+				{
+					"gid"		"8514368588897614685"
+					"size"		"375595092"
+					"download"		"102976464"
+				}
+				"2.81"
+				{
+					"gid"		"7530829795793694690"
+					"size"		"444444249"
+					"download"		"143774816"
+				}
+				"2.82"
+				{
+					"gid"		"3013669308851078507"
+					"size"		"472015693"
+					"download"		"149325680"
+				}
+				"2.83"
+				{
+					"gid"		"557905933694103918"
+					"size"		"413625492"
+					"download"		"134643328"
+				}
+				"2.90"
+				{
+					"gid"		"5611973671871918231"
+					"size"		"453660115"
+					"download"		"144619280"
+				}
+				"2.91"
+				{
+					"gid"		"5328759925699827693"
+					"size"		"462336587"
+					"download"		"147807184"
+				}
+				"2.92"
+				{
+					"gid"		"7920643879095038724"
+					"size"		"467305755"
+					"download"		"149077104"
+				}
+				"2.93"
+				{
+					"gid"		"8684442655267766095"
+					"size"		"533195173"
+					"download"		"148088544"
+				}
+				"daily"
+				{
+					"gid"		"3541878037236281700"
+					"size"		"775253207"
+					"download"		"204197712"
+				}
+				"daily-3.3"
+				{
+					"gid"		"8643169748288216064"
+					"size"		"636656525"
+					"download"		"174610048"
+				}
+				"daily-3.6"
+				{
+					"gid"		"5117956299140438535"
+					"size"		"780348896"
+					"download"		"202943568"
+				}
+				"v3.0"
+				{
+					"gid"		"1681080977347751425"
+					"size"		"559647323"
+					"download"		"161428912"
+				}
+				"v3.1"
+				{
+					"gid"		"4800097391715491892"
+					"size"		"586815889"
+					"download"		"168154704"
+				}
+				"v3.2"
+				{
+					"gid"		"4103484009860928816"
+					"size"		"616402362"
+					"download"		"166936224"
+				}
+				"v3.3"
+				{
+					"gid"		"5087991121284867601"
+					"size"		"636656407"
+					"download"		"174614704"
+				}
+				"v3.4"
+				{
+					"gid"		"524063263190044987"
+					"size"		"641033975"
+					"download"		"183684000"
+				}
+				"v3.5"
+				{
+					"gid"		"7149870253501321944"
+					"size"		"781624507"
+					"download"		"205133552"
+				}
+				"v3.6"
+				{
+					"gid"		"5593472363247753264"
+					"size"		"780313023"
+					"download"		"202930960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"4859D409DB9530824F7D6CD3D164CC5C"
+					"size"		"22643CD50F28808915C26E669109C3F3"
+					"download"		"A44D0F8CAA4D0623B03718ABF4743E72"
+				}
+			}
+		}
+		"365675"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"2.79b"
+				{
+					"gid"		"8187715308962668497"
+					"size"		"417232175"
+					"download"		"116181744"
+				}
+				"2.80"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"2.81"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"2.82"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"2.83"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"2.90"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"2.91"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"2.92"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"2.93"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"daily"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"daily-3.3"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"daily-3.6"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"v3.0"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"v3.1"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"v3.2"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"v3.3"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"v3.4"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"v3.5"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+				"v3.6"
+				{
+					"gid"		"4840874658931434709"
+					"size"		"355190273"
+					"download"		"101253216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"ED79C245A8507EAF2A1BF65D62C9DB37"
+					"size"		"2C3C7F6E1175EF8A27A52E0E2CB78FEA"
+					"download"		"DDBACC92ECE6EE03C4D535331DE10765"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11961728"
+				"timeupdated"		"1692265672"
+			}
+			"2.79b"
+			{
+				"buildid"		"2633890"
+				"description"		"Archive"
+				"timeupdated"		"1594037417"
+			}
+			"2.80"
+			{
+				"buildid"		"4058612"
+				"description"		"Archive"
+				"timeupdated"		"1593675918"
+			}
+			"2.81"
+			{
+				"buildid"		"5241766"
+				"description"		"Archive"
+				"timeupdated"		"1593675748"
+			}
+			"2.82"
+			{
+				"buildid"		"4770715"
+				"description"		"Archive"
+				"timeupdated"		"1593675455"
+			}
+			"2.83"
+			{
+				"buildid"		"8128850"
+				"description"		"Stable - LTS"
+				"timeupdated"		"1643800715"
+			}
+			"2.90"
+			{
+				"buildid"		"5583141"
+				"description"		"Archive"
+				"timeupdated"		"1600851441"
+			}
+			"2.91"
+			{
+				"buildid"		"6110289"
+				"description"		"Archive"
+				"timeupdated"		"1611146267"
+			}
+			"2.92"
+			{
+				"buildid"		"6292909"
+				"description"		"Archive"
+				"timeupdated"		"1614264019"
+			}
+			"2.93"
+			{
+				"buildid"		"11294302"
+				"description"		"Stable - LTS"
+				"timeupdated"		"1684836455"
+			}
+			"daily"
+			{
+				"buildid"		"12195406"
+				"description"		"Alpha"
+				"timeupdated"		"1694754926"
+			}
+			"daily-3.3"
+			{
+				"buildid"		"12195344"
+				"description"		"Candidate - LTS"
+				"timeupdated"		"1694754313"
+			}
+			"daily-3.6"
+			{
+				"buildid"		"12195380"
+				"description"		"Candidate - LTS"
+				"timeupdated"		"1694754601"
+			}
+			"devtest"
+			{
+				"buildid"		"11525977"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687359899"
+			}
+			"v3.0"
+			{
+				"buildid"		"8086737"
+				"description"		"Stable"
+				"timeupdated"		"1643212667"
+			}
+			"v3.1"
+			{
+				"buildid"		"8478727"
+				"description"		"Stable"
+				"timeupdated"		"1648796033"
+			}
+			"v3.2"
+			{
+				"buildid"		"9242958"
+				"description"		"Stable"
+				"timeupdated"		"1659512864"
+			}
+			"v3.3"
+			{
+				"buildid"		"11961698"
+				"description"		"Stable - LTS"
+				"timeupdated"		"1692265552"
+			}
+			"v3.4"
+			{
+				"buildid"		"10182737"
+				"description"		"Stable"
+				"timeupdated"		"1671524504"
+			}
+			"v3.5"
+			{
+				"buildid"		"11525977"
+				"description"		"Stable"
+				"timeupdated"		"1687359939"
+			}
+			"v3.6"
+			{
+				"buildid"		"11961728"
+				"description"		"Stable - LTS"
+				"timeupdated"		"1692265603"
+			}
+		}
+	}
+}
