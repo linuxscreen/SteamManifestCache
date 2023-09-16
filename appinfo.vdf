@@ -1,0 +1,281 @@
+"appinfo"
+{
+	"appid"		"1363430"
+	"common"
+	{
+		"name"		"Propagation VR"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1363430_eula_0"
+				"name"		"Propagation VR EULA"
+				"url"		"https://store.steampowered.com//eula/1363430_eula_0"
+				"version"		"1"
+			}
+		}
+		"openvrsupport"		"1"
+		"clienticon"		"cc75accf0b46c1d8a247e78f6b488bcb64f9f871"
+		"clienttga"		"b65ed7d4164ea42b2f5c545c4e2153f0af140a15"
+		"icon"		"8ef27962c6e615dc0e6c20c759fa2fa2709346e8"
+		"logo"		"06f57d8ae096cea1afe1c9dc7c581c10decbb077"
+		"logo_small"		"06f57d8ae096cea1afe1c9dc7c581c10decbb077_thumb"
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"openvr_action_manifest_path"		"PropagationSteam\\Config\\SteamVRBindings\\steamvr_manifest.json"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1662595200"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"58.12101876133494"
+				"height_pct"		"80.77219953174186"
+			}
+		}
+		"store_asset_mtime"		"1660643726"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"WanadevStudio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"WanadevStudio"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1601017647"
+		"community_hub_visible"		"1"
+		"gameid"		"1363430"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"19"
+			"2"		"1667"
+			"3"		"1659"
+			"4"		"4345"
+			"5"		"3859"
+			"6"		"1662"
+			"7"		"4667"
+			"8"		"113"
+			"9"		"1663"
+			"10"		"3978"
+			"11"		"1774"
+			"12"		"3839"
+			"13"		"4182"
+			"14"		"3835"
+			"15"		"492"
+			"16"		"1685"
+			"17"		"3843"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"WanadevStudio"
+		"publisher"		"WanadevStudio"
+		"homepage"		"https://www.propagation-vr.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1487770"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Propagation VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PropagationVR.exe"
+				"arguments"		"-vr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1363431"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3207166147100530433"
+					"size"		"3678643621"
+					"download"		"1663703728"
+				}
+				"pre-release"
+				{
+					"gid"		"3207166147100530433"
+					"size"		"3678643621"
+					"download"		"1663703728"
+				}
+				"previous-stable"
+				{
+					"gid"		"7201454306789592149"
+					"size"		"3656225726"
+					"download"		"1654071536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bhaptics"
+				{
+					"gid"		"09A5DA714A02225C475CC90BCD24A862"
+					"size"		"B1BC7FB70636694A2503B08422E9A9FC"
+					"download"		"96377AFC4F0DBEAAC2B572C8E9948085"
+				}
+				"integration"
+				{
+					"gid"		"5418F0E6EA03398B0D9335897F291714"
+					"size"		"8C1C24DD9935FD480B4932BD3E690AEB"
+					"download"		"91589BE89EAAC25BE48735A845661E71"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11347745"
+				"timeupdated"		"1685699740"
+			}
+			"bhaptics"
+			{
+				"buildid"		"6282236"
+				"pwdrequired"		"1"
+				"timeupdated"		"1614158841"
+			}
+			"integration"
+			{
+				"buildid"		"11347745"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685431879"
+			}
+			"pre-release"
+			{
+				"buildid"		"11347745"
+				"description"		"Public branch featuring preview content (obviously less stable than default)"
+				"timeupdated"		"1685699771"
+			}
+			"previous-stable"
+			{
+				"buildid"		"6282236"
+				"description"		"Public branch hosting the previous official version (in case of troubles on default branch, you can check here if the issue was already there before the last update)"
+				"timeupdated"		"1685699762"
+			}
+		}
+	}
+}
