@@ -1,0 +1,156 @@
+"appinfo"
+{
+	"appid"		"1290810"
+	"common"
+	{
+		"name"		"他人世界末 Demo"
+		"type"		"Demo"
+		"parent"		"1225780"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"70879e27a793c5fef041b2b62715bdca8bc04b07"
+		"clienttga"		"f0b75d55496555ab7d759c86ef5c742467ceb5ed"
+		"icon"		"463921c64154e68536ac68b8391cf4d8b52f2ed6"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"zh-cn,en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.86549707602338"
+				"height_pct"		"45.05170350924063"
+			}
+		}
+		"store_asset_mtime"		"1586885405"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"8A studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"昆布科技"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+			"5"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1587038795"
+		"gameid"		"1290810"
+	}
+	"extended"
+	{
+		"demoofappid"		"1225780"
+		"developer"		"8A studio"
+		"publisher"		"昆布科技"
+	}
+	"config"
+	{
+		"installdir"		"他人世界末 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"他人世界末.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1290811"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8698987154919710431"
+					"size"		"670197872"
+					"download"		"519664384"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4916250"
+				"timeupdated"		"1587302434"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"2000"
+		"appidredirect"		"1225780"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"savedata"
+				"pattern"		"*.*"
+			}
+		}
+	}
+}
