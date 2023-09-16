@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"1128760"
+	"common"
+	{
+		"name"		"失落的琴弦 Demo"
+		"type"		"Demo"
+		"parent"		"1128750"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"df4b0b3b0c0eaa46632e61d3ed143146ebd48701"
+		"clienticon"		"4755733f24cd0e7c8679f3d27a7ed665f7b3ed33"
+		"icon"		"11da56618278b21026e64546e76ddc9a903419e2"
+		"clienticns"		"928483e7a46f5aa2bed11214c3c742afa834abe1"
+		"linuxclienticon"		"57713e8f6251a0dd3399836caa2de359020bb0f0"
+		"releasestate"		"released"
+		"metacritic_name"		"失落的琴弦 Demo"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"zh-cn,en"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1564552414"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Glass Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Glass Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1565586230"
+		"gameid"		"1128760"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1128750"
+		"developer"		"Glass Studio"
+		"publisher"		"Glass Studio"
+	}
+	"config"
+	{
+		"installdir"		"Lost Strings Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Lost Strings.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TheLostStringsv0.065.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"1128761"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7923097217752419254"
+					"size"		"456693923"
+					"download"		"58579968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"DA28BDF4AE3F824613AC2A8F6A42E386"
+					"size"		"5EAEEF0622E9A1D62CCF0FCE95880EA6"
+					"download"		"5DBB4D6E19B39C2A680CD157239ABA04"
+				}
+			}
+		}
+		"1128762"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4242112299160469383"
+					"size"		"495490763"
+					"download"		"71361696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"03582B4CBE02156D766558713A4016B7"
+					"size"		"E129B0D9456F63FA222776333F3572EF"
+					"download"		"2FB64FD08854B579FA45F3441D63D84B"
+				}
+			}
+		}
+		"1128763"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3802300497304781335"
+					"size"		"945741867"
+					"download"		"83662448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"BD2DB24AA219AFD63706C73B698FF7B1"
+					"size"		"995B810D7139D6C4BD96303D92939091"
+					"download"		"28C50AA9E2B9F20806805023526BD271"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4138092"
+				"timeupdated"		"1566791293"
+			}
+			"test"
+			{
+				"buildid"		"4075048"
+				"pwdrequired"		"1"
+				"timeupdated"		"1564990418"
+			}
+		}
+	}
+}
