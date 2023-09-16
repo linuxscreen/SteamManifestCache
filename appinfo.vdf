@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"1582890"
+	"common"
+	{
+		"name"		"My Catgirl Maid Thinks She Runs the Place"
+		"type"		"Game"
+		"icon"		"3b81604b1ce68b51c1a50ebed82b88e829c84eff"
+		"logo"		"c0c5674f5485e2c8f874313a366c74ff889fb8bd"
+		"logo_small"		"c0c5674f5485e2c8f874313a366c74ff889fb8bd_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"960a14b07ae1307af9d76e213a8a79b4b62016d1"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.63192914378685"
+				"height_pct"		"65.97222222222221"
+			}
+		}
+		"store_asset_mtime"		"1618169948"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Uncle Artie"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Uncle Artie"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1618398075"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1582890"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"597"
+			"2"		"6650"
+			"3"		"3799"
+			"4"		"4085"
+			"5"		"9130"
+			"6"		"4726"
+			"7"		"31275"
+			"8"		"3871"
+			"9"		"113"
+			"10"		"1719"
+			"11"		"6971"
+			"12"		"4136"
+			"13"		"1742"
+			"14"		"4182"
+			"15"		"492"
+			"16"		"24904"
+			"17"		"5611"
+			"18"		"4947"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Uncle Artie"
+		"publisher"		"Uncle Artie"
+		"isfreeapp"		"1"
+		"listofdlc"		"1702900"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"My Catgirl Maid Thinks She Runs the Place"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MyCatgirlMaidComplete-1.0-pc/MyCatgirlMaidComplete.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1582891"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5739442598265078"
+					"size"		"425110561"
+					"download"		"317579296"
+				}
+			}
+		}
+		"1702900"
+		{
+			"dlcappid"		"1702900"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"754613178040470522"
+					"size"		"443008202"
+					"download"		"334127744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7064132"
+				"timeupdated"		"1626877583"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"/MyCatgirlMaidComplete-1.0-pc/game/saves"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
