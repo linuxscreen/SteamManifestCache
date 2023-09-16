@@ -1,0 +1,278 @@
+"appinfo"
+{
+	"appid"		"1962920"
+	"common"
+	{
+		"name"		"けものフレンズ Cellien May Cry"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"english"		"Kemono Friends Cellien May Cry"
+			"schinese"		"兽娘动物园 Cellien May Cry"
+			"tchinese"		"動物朋友 Cellien May Cry"
+			"koreana"		"케모노 프렌즈 Cellien May Cry"
+			"thai"		"เคะโมะโนะเฟรนด์ส Cellien May Cry"
+		}
+		"clienticon"		"616a9e8a111e36dba04141e63aabc29d29b7a4b5"
+		"clienttga"		"00e55357e7bef08be050434db98275b74cf633f0"
+		"icon"		"78c1d6313e00fe671fdfb23be8bf8146f085cbc7"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1649871873"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"坂本龍"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"霧雨前線"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1651410630"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1962920"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"1646"
+			"2"		"19"
+			"3"		"7208"
+			"4"		"4231"
+			"5"		"4191"
+			"6"		"4726"
+			"7"		"1697"
+			"8"		"4085"
+			"9"		"3835"
+			"10"		"1684"
+			"11"		"17894"
+			"12"		"1669"
+			"13"		"4182"
+			"14"		"30358"
+			"15"		"113"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"坂本龍"
+		"publisher"		"霧雨前線"
+		"homepage"		"https://freegame-mugen.jp/action/game_9372.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"KemonoFriendsCMC"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"KemonoFriendsCMC.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Start Game (Windows)"
+					"schinese"		"开始游戏（Windows）"
+					"japanese"		"ゲームを開始する（Windows）"
+				}
+				"description"		"Start Game (Windows)"
+			}
+			"2"
+			{
+				"executable"		"ReadMe_EN.txt"
+				"type"		"manual"
+				"description_loc"
+				{
+					"english"		"Readme (English)"
+					"schinese"		"使用说明（英文）"
+					"japanese"		"説明書（英語）"
+				}
+				"description"		"Readme (English)"
+			}
+			"5"
+			{
+				"executable"		"KemonoFriendsCMC.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Start Game (Mac)"
+					"schinese"		"开始游戏（Mac）"
+					"japanese"		"ゲームを開始する（Mac）"
+				}
+				"description"		"Start Game (Mac)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,schinese,japanese"
+		"1962921"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8106772548882911255"
+					"size"		"2062883709"
+					"download"		"1464822272"
+				}
+			}
+		}
+		"1962922"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"310076614123074662"
+					"size"		"2189540339"
+					"download"		"1526144096"
+				}
+			}
+		}
+		"1962923"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3945246817173764036"
+					"size"		"2056150093"
+					"download"		"1462852304"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11986063"
+				"timeupdated"		"1692537787"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"KirisameZensen/KemonoFriendsCMC"
+				"pattern"		"*.savedata.json"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
