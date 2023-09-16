@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"1351760"
+	"common"
+	{
+		"name"		"Student Union Demo"
+		"type"		"Demo"
+		"parent"		"1351670"
+		"releasestate"		"released"
+		"clienttga"		"d07f1dd7b6368a0528afb83b5afe2389c8360959"
+		"linuxclienticon"		"fd811945b78aa5b27a06c11e884bb517cc6c1fb8"
+		"clienticns"		"fd811945b78aa5b27a06c11e884bb517cc6c1fb8"
+		"clienticon"		"fd811945b78aa5b27a06c11e884bb517cc6c1fb8"
+		"icon"		"da6c77e48fbf79ee5b620af22dc88deca095e0f9"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.33666352577232"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1592360813"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Visual Novel Village"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Visual Novel Village"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592503785"
+		"gameid"		"1351760"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1351670"
+		"developer"		"Visual Novel Village"
+		"publisher"		"Visual Novel Village"
+	}
+	"config"
+	{
+		"installdir"		"Student Union Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StudentUnion-v0.1.5-market\\StudentUnion.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"StudentUnion-v0.1.5-market\\StudentUnion.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"StudentUnion-v0.1.5-market\\StudentUnion.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1351761"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8605252701616898155"
+					"size"		"758316917"
+					"download"		"633654064"
+				}
+				"macbranch"
+				{
+					"gid"		"4463642390945014997"
+					"size"		"683536739"
+					"download"		"612650528"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6669246"
+				"timeupdated"		"1620481011"
+			}
+			"macbranch"
+			{
+				"buildid"		"5211736"
+				"timeupdated"		"1593050858"
+			}
+		}
+	}
+}
