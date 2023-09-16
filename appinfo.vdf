@@ -1,0 +1,261 @@
+"appinfo"
+{
+	"appid"		"612020"
+	"common"
+	{
+		"name"		"Zombidle: REMONSTERED"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"7597f674cdc5dbff068563bad8b419fbdf614879"
+		"clienttga"		"3c3f3e3ba8195dc2e76286ebe04d465091de017d"
+		"icon"		"ffb5376342b5650dc47688093c98dd9ef9ee69ca"
+		"logo"		"d243bca54ba3c98be527679d4c6d59e49ba4538f"
+		"logo_small"		"d243bca54ba3c98be527679d4c6d59e49ba4538f_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1691020800"
+			"tested_build_id"		"6083442"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"Zombidle"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.542986425339365"
+				"height_pct"		"77.77777777777777"
+			}
+		}
+		"store_asset_mtime"		"1569338240"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Berzerk Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Berzerk Studio"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1496149697"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"612020"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"379975"
+			"2"		"597"
+			"3"		"492"
+			"4"		"1659"
+			"5"		"9"
+			"6"		"3871"
+			"7"		"4136"
+			"8"		"3859"
+			"9"		"4182"
+			"10"		"615955"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Berzerk Studio"
+		"publisher"		"Berzerk Studio"
+		"homepage"		"http://www.zombidle.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"705520,705540,705560,746230,1074560"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Zombidle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Zombidle.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"612021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7940416519490937287"
+					"size"		"272214587"
+					"download"		"218666800"
+				}
+				"beta"
+				{
+					"gid"		"7940416519490937287"
+					"size"		"272214587"
+					"download"		"218666800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"no-save-beta"
+				{
+					"gid"		"3A7A2393F416250DA51085D4F59F1647"
+					"size"		"8FB6D5BC1F4077513C0D2C3A498996BB"
+					"download"		"29F1D4494A91444A359D25D28509EB86"
+				}
+				"testing"
+				{
+					"gid"		"236703F821722EB73DB49791D5E7CB49"
+					"size"		"29475B32ABF94A4F9B99FE9DD1CBC391"
+					"download"		"AA102F7648B049AF36F8504279AFC56B"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,japanese,polish,danish,dutch,norwegian,turkish"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6083442"
+				"timeupdated"		"1610651890"
+			}
+			"beta"
+			{
+				"buildid"		"6083442"
+				"description"		"beta version of zombidle"
+				"timeupdated"		"1610651873"
+			}
+			"no-save-beta"
+			{
+				"buildid"		"3193106"
+				"pwdrequired"		"1"
+				"timeupdated"		"1539022278"
+			}
+			"testing"
+			{
+				"buildid"		"6083442"
+				"pwdrequired"		"1"
+				"timeupdated"		"1610651595"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1"
+	}
+}
