@@ -1,0 +1,356 @@
+"appinfo"
+{
+	"appid"		"1098050"
+	"common"
+	{
+		"name"		"A Perfect Day Demo"
+		"type"		"Demo"
+		"parent"		"843810"
+		"clienttga"		"3f010139a04f04c0b22b1327cf0aec462653561d"
+		"clienticon"		"25ec8a46b66fe119d10004a3a1a7c6227a54a6f2"
+		"icon"		"6f262ce24e8c35cd63bbe80e5e63e04a523bef3b"
+		"name_localized"
+		{
+			"english"		"A Perfect Day Demo"
+			"schinese"		"完美的一天试玩版"
+			"sc_schinese"		"完美的一天试玩版"
+			"japanese"		"完璧な一日 Demo"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"releasestate"		"released"
+		"releasestatesteamchina"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"sc_schinese"		"1"
+		}
+		"metacritic_name"		"完美的一天 / A Perfect Day Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,ja"
+			"library_hero"		"zh-cn,en,ja"
+			"library_logo"		"en,zh-cn,zh-xc,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.116664413205967"
+				"height_pct"		"75.08487071342651"
+			}
+		}
+		"store_asset_mtime"		"1680060541"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Perfect Day Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Perfect Day Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1577771400"
+		"community_visible_stats"		"1"
+		"gameid"		"1098050"
+	}
+	"extended"
+	{
+		"demoofappid"		"843810"
+		"developer"		"Perfect Day Studio"
+		"publisher"		"Perfect Day Studio"
+	}
+	"config"
+	{
+		"installdir"		"A Perfect Day Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"APerfectDay.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"realm"		"steamglobal"
+				}
+			}
+			"1"
+			{
+				"executable"		"APerfectDay.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"realm"		"steamchina"
+				}
+			}
+			"2"
+			{
+				"executable"		"APerfectDay.app/Contents/MacOS/A Perfect Day"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+					"realm"		"steamglobal"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"6207465"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612799663"
+			}
+			"1.0.0bugfix1"
+			{
+				"sc_schinese"		"1.0.0bugfix1"
+			}
+			"prologue1.02"
+			{
+				"sc_schinese"		"prologue1.02"
+				"buildid"		"8221643"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645097430"
+			}
+			"public"
+			{
+				"buildid"		"10764276"
+				"timeupdated"		"1680159553"
+			}
+			"fortest"
+			{
+				"buildid"		"8213765"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645016435"
+			}
+			"reviewer_en_jp"
+			{
+				"buildid"		"10764276"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678789401"
+			}
+		}
+		"baselanguages"		"english,schinese,japanese"
+		"1098051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3736688356406619821"
+					"size"		"1265150718"
+					"download"		"1017523728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fortest"
+				{
+					"gid"		"8DB88A7F4E71F4A60B686E6E83ABFF83"
+					"size"		"0332D95A9368E5F4F884085F10B31B1E"
+					"download"		"8D0FE09678A3B3F25137C3E4DCB34F42"
+				}
+				"prologue1.02"
+				{
+					"gid"		"B5810B4B34A2640B50E91DF73526EB3B"
+					"size"		"AFDF0C01A7B3E3A2A93122BF03DAB69F"
+					"download"		"C5E8B6508B1D99153F4EF1A0FE520F42"
+				}
+				"reviewer_en_jp"
+				{
+					"gid"		"1F13955ACF01CE0E3F5B7E86A9119527"
+					"size"		"3D87741678C107ECE3C8E31402467053"
+					"download"		"C883C3B98092B600E7E032AE40F896A3"
+				}
+				"steam_china_only"
+				{
+					"gid"		"0764A5B0673EC86B570BFC177F6C6E5E"
+					"size"		"108956AF9E3E211C33329AFD98076FDA"
+					"download"		"95094610B7AAA4E4E6E1092C885EC8AA"
+				}
+			}
+		}
+		"1098053"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1470783596591660986"
+					"size"		"1237886450"
+					"download"		"1008807808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fortest"
+				{
+					"gid"		"7A2B9F75003A027EE84730582480AAF6"
+					"size"		"AD33F7AB89616D0B6C004A6C1D5BFE87"
+					"download"		"8196B708BE06478F0B730F2928A5911F"
+				}
+				"prologue1.02"
+				{
+					"gid"		"7257D3168F1418E1B2562EB86B6F6D64"
+					"size"		"BA2742EA135CC4DD874D3A034E12EFE9"
+					"download"		"8B23CEF8A019488612396022B1324618"
+				}
+				"reviewer_en_jp"
+				{
+					"gid"		"210D2818F0695D4258449ED2C7290FF8"
+					"size"		"D2AF59EEF141608C1244901E3E688972"
+					"download"		"8F2224FCBAEAE76B4567CFC57EDD6E24"
+				}
+			}
+		}
+		"1098052"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamchina"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7445480974031261020"
+					"size"		"2779137198"
+					"download"		"1011928432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"prologue1.02"
+				{
+					"gid"		"9AA57B61F8A8D157967BA1C80C3B5711"
+					"size"		"60E3FAD339D06D11272BD1A75F352153"
+					"download"		"8C004E89FCE395370B2857E5CCD8F60D"
+				}
+				"reviewer_en_jp"
+				{
+					"gid"		"6D8475DCAB4E10BB533FAD213FD79FB5"
+					"size"		"4466794A229681840925A67BE07DD168"
+					"download"		"E3E021DD4841626E62558554F0A03606"
+				}
+				"steam_china_only"
+				{
+					"gid"		"90884FDF74943F6A6028137FBAD543AB"
+					"size"		"71472EAB2FC2F1229D168189B8E2DE0F"
+					"download"		"718C6C8B939EAA72032D9A1F8FBC978B"
+				}
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Coconut Island Games/A Perfect Day/{64BitSteamID}/Prologue"
+				"pattern"		"savedata.dat"
+			}
+		}
+		"appidredirect"		"843810"
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
