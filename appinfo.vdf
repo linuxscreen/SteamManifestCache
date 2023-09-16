@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1362230"
+	"common"
+	{
+		"name"		"Bubble Bounce Demo"
+		"type"		"Demo"
+		"parent"		"1256980"
+		"clienttga"		"8e25b2e1cf15ba25cd9c1de60ac163bdff56d98b"
+		"clienticon"		"eea5aeb90d1fc3e2b3a91742a5b90dc2e8554cdf"
+		"icon"		"bec5004df39401acf84da7453d01e231183427de"
+		"name_localized"
+		{
+		}
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"53.26721120186698"
+				"height_pct"		"65.19829019235337"
+			}
+		}
+		"store_asset_mtime"		"1593492682"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TipperNockey"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TipperNockey"
+			}
+		}
+		"steam_release_date"		"1593737712"
+		"gameid"		"1362230"
+	}
+	"extended"
+	{
+		"demoofappid"		"1256980"
+		"developer"		"TipperNockey"
+		"publisher"		"TipperNockey"
+	}
+	"config"
+	{
+		"installdir"		"Bubble Bounce Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bubble Bounce Demo\\Windows\\Bubble Bounce Demo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Bubble Bounce Demo\\Linux\\Bubble Bounce Demo.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Bubble Bounce Demo\\Mac\\Bubble Bounce Demo.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1362231"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2838066387455509307"
+					"size"		"327357076"
+					"download"		"73700736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"5F691E764515FFDA953DAD0D936EB2EE"
+					"size"		"F38F7D24C117E47661C8CF937E51BCC0"
+					"download"		"A34EB67168D59774C115EAD3A12433B2"
+				}
+			}
+		}
+		"1362232"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3856878263879576437"
+					"size"		"105820183"
+					"download"		"44654688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"E412A69F3FD7FD5BCE0F604F7392BEBB"
+					"size"		"5AF88915C50BC07467C1C0AEB6D8D2D4"
+					"download"		"48FF4E0D75D396F73FCA9F0FC4C3A63A"
+				}
+			}
+		}
+		"1362233"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7253228589259991834"
+					"size"		"115569460"
+					"download"		"46112240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"BD720EAAAF079F3007E1FD662F0A0360"
+					"size"		"691274CE5A61672878F995E060837578"
+					"download"		"570AAD2AD54B017E1A1C1F1293B502A0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5541966"
+				"timeupdated"		"1600101346"
+			}
+			"devtest"
+			{
+				"buildid"		"5475880"
+				"pwdrequired"		"1"
+				"timeupdated"		"1598654828"
+			}
+		}
+	}
+}
