@@ -1,0 +1,408 @@
+"appinfo"
+{
+	"appid"		"1435990"
+	"common"
+	{
+		"name"		"OUTRIDERS Demo"
+		"type"		"Demo"
+		"parent"		"680420"
+		"logo"		"a2c811d521d38c9a91274ffbdee69aa80938a9cc"
+		"logo_small"		"a2c811d521d38c9a91274ffbdee69aa80938a9cc_thumb"
+		"clienticon"		"92a45134a6f98c9f34bb7126095d0c02d7f23d68"
+		"clienttga"		"93bbb552e8d5f7a25320575d5633a58b2f33b603"
+		"icon"		"35088a2e2cbca86852288051fb34eac760577f83"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1435990_eula_0"
+				"name"		"OUTRIDERS Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1435990_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1660176000"
+			"tested_build_id"		"6951274"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1613575394"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"People Can Fly"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Square Enix"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1614272191"
+		"gameid"		"1435990"
+	}
+	"extended"
+	{
+		"demoofappid"		"680420"
+		"developer"		"People Can Fly"
+		"publisher"		"Square Enix"
+		"homepage"		"https://outriders.square-enix-games.com/en-gb/"
+	}
+	"config"
+	{
+		"installdir"		"OUTRIDERS Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OUTRIDERS-Win64-Shipping.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"age-ratings,main,pcf-engine-devqa,pcf_qa1,qautomation,se_locqa,se_qa1,se_qa2"
+				}
+				"description_loc"
+				{
+					"english"		"Shipping"
+				}
+				"description"		"Shipping"
+			}
+			"1"
+			{
+				"executable"		"Madness.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"age-ratings,main,pcf-engine-devqa,pcf_qa1,qautomation,se_locqa,se_qa1,se_qa2"
+				}
+				"description_loc"
+				{
+					"english"		"Development"
+				}
+				"description"		"Development"
+			}
+			"2"
+			{
+				"executable"		"Madness-Win64-Test.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"age-ratings,main,pcf-engine-devqa,pcf_qa1,qautomation,se_locqa,se_qa1,se_qa2"
+				}
+				"description_loc"
+				{
+					"english"		"Test"
+				}
+				"description"		"Test"
+			}
+			"3"
+			{
+				"executable"		"EAC_OUTRIDERS.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Outriders"
+				}
+				"description"		"Outriders"
+			}
+		}
+	}
+	"depots"
+	{
+		"1435991"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8398424851827517391"
+					"size"		"22563436033"
+					"download"		"21964049488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age-ratings"
+				{
+					"gid"		"AA60E9F3D3AA9EE9F9496D2FA944748F"
+					"size"		"8044B58C61A40EDCDCDC61DC8F23C01D"
+					"download"		"332E68A38DDAAFF91A9966A0013488DB"
+				}
+				"distribution"
+				{
+					"gid"		"7EC24383F670E103B753CD92A894FBC1"
+					"size"		"75D0C1F048C436E82AB27D1954C5E45C"
+					"download"		"FB2C533934DA9180F42F51ED444E5887"
+				}
+				"main"
+				{
+					"gid"		"567AB9FCF192B384E032C5DC46D5ACC4"
+					"size"		"E353FD52C51E032F77698627983FE813"
+					"download"		"22DE24FEED624EEF10974DC33BC1877E"
+				}
+				"pcf-engine-devqa"
+				{
+					"gid"		"431E4781FA50616BD9B60FD184C66147"
+					"size"		"0C5475AB48CE645003B1D648BDB82C6A"
+					"download"		"1A4A5C9E2AE8608834DC5DC69D032ABC"
+				}
+				"pcf_qa1"
+				{
+					"gid"		"E0FD586CBDBF9F0358368C8E5697A2B8"
+					"size"		"130DE2B23BDB107EECDFAA5EDA44FFA5"
+					"download"		"5F01FC2897E981F415143C8A44104BCD"
+				}
+				"qautomation"
+				{
+					"gid"		"2FC4FAFBC88E50FA57864570EBD4C051"
+					"size"		"6B1B55B9329D65B218A4C2940B4F9B0B"
+					"download"		"72D9BBB3AD0FBBF278BF72FEDEAA6890"
+				}
+				"se_locqa"
+				{
+					"gid"		"4FE46E9901A71D4C46CB840BA9420759"
+					"size"		"9EA021AC8BBDED152E18BD9AE8023C68"
+					"download"		"A5682AD6BA77FEACD37B1C880B9D3FD1"
+				}
+				"se_qa1"
+				{
+					"gid"		"361632B82BB593FB65D0721E69400371"
+					"size"		"73C8F67D09DF2A34FB0347A62C1F3E1C"
+					"download"		"E6D02F5B094D2B486CCE0F99B3E974FA"
+				}
+				"se_qa2"
+				{
+					"gid"		"851939A6F86745BAA55C280C023CA508"
+					"size"		"24C12DB38232B96DE26ACE2AC27C4ECF"
+					"download"		"2C1A268B14165E1C5C4F98D5F8DE2796"
+				}
+				"se_qagm"
+				{
+					"gid"		"7F9B6FB1A152EC560F2F3561EFC36437"
+					"size"		"52F3FC337A47B807023940EF645F7D2F"
+					"download"		"D7501BF54DBCE7A869EB288194F7F4DC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6951274"
+				"timeupdated"		"1625757940"
+			}
+			"age-ratings"
+			{
+				"buildid"		"6401124"
+				"pwdrequired"		"1"
+				"timeupdated"		"1616154030"
+			}
+			"distribution"
+			{
+				"buildid"		"6951274"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624974872"
+			}
+			"main"
+			{
+				"buildid"		"6950961"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624971812"
+			}
+			"pcf-engine-devqa"
+			{
+				"buildid"		"6213732"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612888854"
+			}
+			"pcf_qa1"
+			{
+				"buildid"		"5987432"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622536692"
+			}
+			"qautomation"
+			{
+				"buildid"		"6951274"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624982871"
+			}
+			"se_locqa"
+			{
+				"buildid"		"6196091"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612544941"
+			}
+			"se_qa1"
+			{
+				"buildid"		"6951274"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624979410"
+			}
+			"se_qa2"
+			{
+				"buildid"		"6401124"
+				"pwdrequired"		"1"
+				"timeupdated"		"1616079592"
+			}
+			"se_qagm"
+			{
+				"buildid"		"6401124"
+				"pwdrequired"		"1"
+				"timeupdated"		"1616154252"
+			}
+		}
+	}
+}
