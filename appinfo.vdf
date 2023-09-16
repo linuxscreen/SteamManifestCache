@@ -1,0 +1,89 @@
+"appinfo"
+{
+	"appid"		"204680"
+	"common"
+	{
+		"name"		"Shank 2 Demo"
+		"type"		"Demo"
+		"clienticon"		"67589fd5e47560df57230c55e780b64b87a81e3a"
+		"clienttga"		"c904dcc2857160aa4966a940f5177ee2a1adf5eb"
+		"icon"		"6f916b594b1056789013a3e210cdc89a5245cd6d"
+		"freeondemand"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1328672739"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Klei Entertainment"
+			}
+		}
+		"primary_genre"		"0"
+		"steam_release_date"		"1328672580"
+		"gameid"		"204680"
+	}
+	"extended"
+	{
+		"developer"		"Klei Entertainment"
+		"gamedir"		"Shank 2 Demo"
+		"homepage"		""
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"204681"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Shank 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\shank2.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"204681"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3528121625566583744"
+					"size"		"770627768"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"29953"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"102840"
+		"hidecloudui"		"0"
+	}
+}
