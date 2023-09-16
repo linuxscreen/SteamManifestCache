@@ -1,0 +1,241 @@
+"appinfo"
+{
+	"appid"		"1511860"
+	"common"
+	{
+		"name"		"Swallow the Sea"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"bebc70659fdddbc9ced7233a0eb7c1c29fd63dc3"
+		"logo_small"		"bebc70659fdddbc9ced7233a0eb7c1c29fd63dc3_thumb"
+		"icon"		"7a9d10fe75be578185e809e247946a6206c82e2d"
+		"clienticon"		"998ebb9e68e08ff2f038a14c9d1b9fe653194e30"
+		"clienttga"		"2d2e76b077ffef386c63b8f1cc4f4f086e148349"
+		"clienticns"		"cb72834ea5e0c056dec1d997be3c5c6a3b127bc7"
+		"linuxclienticon"		"c99834050d232ee97009775e582565cb023ef5a7"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1659744000"
+			"tested_build_id"		"7386347"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"48.7388389810221"
+				"height_pct"		"80.13409178817079"
+			}
+		}
+		"store_asset_mtime"		"1644961833"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Talia bob Mair"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Nicolás Delgado"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"ItsTheTalia"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"ItsTheTalia"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630694182"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1511860"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"113"
+			"2"		"21"
+			"3"		"3834"
+			"4"		"597"
+			"5"		"1662"
+			"6"		"3871"
+			"7"		"492"
+			"8"		"3964"
+			"9"		"4342"
+			"10"		"4726"
+			"11"		"4166"
+			"12"		"19995"
+			"13"		"7432"
+			"14"		"5923"
+			"15"		"30358"
+			"16"		"9157"
+			"17"		"19780"
+			"18"		"4182"
+			"19"		"3993"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Talia bob Mair"
+		"publisher"		"ItsTheTalia"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Swallow the Sea"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SwallowTheSea.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"SwallowTheSea_Steam_v1_0.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1511861"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6451751354725515129"
+					"size"		"289176989"
+					"download"		"40660880"
+				}
+			}
+		}
+		"1511863"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3034119776672165516"
+					"size"		"292205663"
+					"download"		"40635968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7386347"
+				"timeupdated"		"1632077497"
+			}
+		}
+	}
+}
