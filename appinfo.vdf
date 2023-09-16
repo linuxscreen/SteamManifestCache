@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"1840540"
+	"common"
+	{
+		"name"		"街机捕鱼嘉年华"
+		"type"		"Game"
+		"logo"		"009fdf717a4229a736418437a48ef219b16642e8"
+		"logo_small"		"009fdf717a4229a736418437a48ef219b16642e8_thumb"
+		"icon"		"341613dcbda284af97150b35669b5865eed55d4b"
+		"clienticon"		"08c4c3769906e46843a4024f6839207ec2555faa"
+		"clienttga"		"70b708758227b0ebe18a269373dfeaf7c4770693"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1840540_eula_1"
+				"name"		"街机捕鱼嘉年华 EULA"
+				"url"		"https://store.steampowered.com//eula/1840540_eula_1"
+				"version"		"1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1681948800"
+			"tested_build_id"		"7853240"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-1"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"45.39170506912444"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1651751092"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"郑州百易科技有限公司"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" BIFROST CLOUD PTE. LTD."
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644804685"
+		"community_hub_visible"		"1"
+		"gameid"		"1840540"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1774"
+			"2"		"1773"
+			"3"		"5379"
+			"4"		"4637"
+			"5"		"4885"
+			"6"		"3871"
+			"7"		"4791"
+			"8"		"4305"
+			"9"		"6691"
+			"10"		"1684"
+			"11"		"1708"
+			"12"		"1654"
+			"13"		"4136"
+			"14"		"4166"
+			"15"		"113"
+			"16"		"3993"
+			"17"		"1775"
+			"18"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"郑州百易科技有限公司"
+		"publisher"		" BIFROST CLOUD PTE. LTD."
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"jjbyjnh"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1840541"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6935872957649814422"
+					"size"		"433032390"
+					"download"		"202435680"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7853240"
+				"timeupdated"		"1639033284"
+			}
+		}
+	}
+}
