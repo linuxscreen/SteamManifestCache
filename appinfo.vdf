@@ -1,0 +1,432 @@
+"appinfo"
+{
+	"appid"		"1088150"
+	"common"
+	{
+		"name"		"Scribble It!"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"icon"		"a7a683dce57646a59a0fca326d0ceae5a74b8c2f"
+		"clienticon"		"9543dadb9ec6d29837be7f9f5da54a4d45361013"
+		"clienttga"		"fe618fdc27887b6807e9a18cf1601ea48d4aaa1d"
+		"logo"		"b80a1870ae7753966c9a7e4f5d548bfe11db935a"
+		"logo_small"		"b80a1870ae7753966c9a7e4f5d548bfe11db935a_thumb"
+		"clienticns"		"c92b673e3a9032d8a8c32b0809285147b58e53bc"
+		"linuxclienticon"		"d1ef799f120e0516711b274f6af37cf6c4e8d470"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1088150_eula_0"
+				"name"		"Scribble It! EULA"
+				"url"		"https://store.steampowered.com//eula/1088150_eula_0"
+				"version"		"2"
+			}
+		}
+		"osextended"		"macos64"
+		"metacritic_name"		"Scribble It!"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.789443150198807"
+				"height_pct"		"57.29475738532871"
+			}
+		}
+		"store_asset_mtime"		"1679574405"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Detach Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Detach Entertainment"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"slovak"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"hindi"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1603213208"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1088150"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"24003"
+			"2"		"3859"
+			"3"		"4136"
+			"4"		"5350"
+			"5"		"1719"
+			"6"		"1674"
+			"7"		"1775"
+			"8"		"597"
+			"9"		"71389"
+			"10"		"5711"
+			"11"		"6815"
+			"12"		"4305"
+			"13"		"1036"
+			"14"		"1685"
+			"15"		"3843"
+			"16"		"4182"
+			"17"		"3871"
+			"18"		"1756"
+			"19"		"1721"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Detach Entertainment"
+		"publisher"		"Detach Entertainment"
+		"homepage"		"https://detach-entertainment.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1418300,1452610"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Scribble It!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ScribbleIt.exe"
+				"arguments"		"-NOSPLASH -checkgpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ScribbleIt.app"
+				"arguments"		"-NOSPLASH"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"ScribbleIt.sh"
+				"arguments"		"-NOSPLASH"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"workshopdepot"		"1088150"
+		"baselanguages"		"english,german,french,italian,spanish,russian,polish,dutch,swedish,romanian,turkish,ukrainian,vietnamese"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1088153"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3359032668276158458"
+					"size"		"903568856"
+					"download"		"188639616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build"
+				{
+					"gid"		"6DDE953EE9A32F3F4221BF07A2900233"
+					"size"		"C9F9D7A024DC7BA2749CB39AF2936F7D"
+					"download"		"4C1C26299D5EAC3248DF1DE34A7F6831"
+				}
+				"epic-games-store"
+				{
+					"gid"		"E11A978FA25F8DDCA7899C9326488D63"
+					"size"		"6732B7BF8FA6F45B03A95532D3FA3D12"
+					"download"		"BC78D8E6CBDDC81438C290E75709722A"
+				}
+			}
+		}
+		"1088155"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8680892577259827967"
+					"size"		"1074056252"
+					"download"		"213181040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build"
+				{
+					"gid"		"A940675985787B4C0D937BD55318AB80"
+					"size"		"02DE9A9A8386636C5EE82A212B364DEE"
+					"download"		"11FD9AB77A88EBBB07F1E919ED2610BC"
+				}
+				"epic-games-store"
+				{
+					"gid"		"5119A5B686B4F58188133038448031A7"
+					"size"		"6BB51E4A1BF7B7B70CBDF5EBCE465138"
+					"download"		"A4D55C165374E21735014E4067DA200C"
+				}
+			}
+		}
+		"1088156"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5283993976167174053"
+					"size"		"930912750"
+					"download"		"193693680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build"
+				{
+					"gid"		"100056CBBDFB785631705D0CB77BE302"
+					"size"		"9D8698B5B2875C3FACB552411E511808"
+					"download"		"B244929ACC96A91FDC7C0AF8CE2C32BE"
+				}
+				"epic-games-store"
+				{
+					"gid"		"8D3C2C351578F32FB7DFABD095E10F36"
+					"size"		"2AB0B803B14CBE45C19404DEA25F9F28"
+					"download"		"3583558834B123EF1CFC65759DFE64A2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12080006"
+				"timeupdated"		"1693588648"
+			}
+			"build"
+			{
+				"buildid"		"12080006"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693494650"
+			}
+			"epic-games-store"
+			{
+				"buildid"		"11435938"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686343325"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"2500"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ScribbleIt/Artworks/Metadata"
+				"pattern"		"*.txt"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ScribbleIt/Artworks/Favorites"
+				"pattern"		"*.*"
+			}
+		}
+		"rootoverrides"
+		{
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		".config/"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#default"		"%RICH_PRESENCE%"
+					"#status_menu"		"Main Menu"
+					"#status_lobby"		"%gamemode% - Lobby"
+					"#status_workshop"		"Workshop"
+					"#status_freedraw"		"Free Draw"
+					"#status_playing"		"%gamemode% - Round %current_round% of %max_rounds%"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#status_menu"		"Hauptmenü"
+					"#status_playing"		"%gamemode% - Runde %current_round% von %max_rounds%"
+				}
+			}
+		}
+	}
+}
