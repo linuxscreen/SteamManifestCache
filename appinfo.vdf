@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"1703370"
+	"common"
+	{
+		"name"		"Tavern Master Demo"
+		"type"		"Demo"
+		"parent"		"1525700"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"0e8b71815198ae5236f1932a85316ecc45bc70cb"
+		"clienticon"		"99a12e9e9bb93c69e361135b6ed198e2209f2a3f"
+		"icon"		"5a6d2935a5b42c927f98e0b2afb25244d6322f07"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1630828715"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Untitled Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Untitled Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1631603022"
+		"gameid"		"1703370"
+	}
+	"extended"
+	{
+		"demoofappid"		"1525700"
+		"developer"		"Untitled Studio"
+		"publisher"		"Untitled Studio"
+	}
+	"config"
+	{
+		"installdir"		"Tavern Master Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tavern Master.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TavernMaster_Mac.app\\Contents\\MacOS\\Tavern Master"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1703371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1458501890963453252"
+					"size"		"905289981"
+					"download"		"331391872"
+				}
+			}
+		}
+		"1703372"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5178186531987860924"
+					"size"		"929936165"
+					"download"		"339295296"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7354772"
+				"timeupdated"		"1631602925"
+			}
+		}
+	}
+}
