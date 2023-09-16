@@ -1,0 +1,267 @@
+"appinfo"
+{
+	"appid"		"1054840"
+	"common"
+	{
+		"name"		"Fling to the Finish Demo"
+		"type"		"Demo"
+		"parent"		"1054430"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienttga"		"c90c23c22b528bbc76ed9ebfa63a2076053053b4"
+		"clienticon"		"9224af715b5f2cf35a301461b09475a00854fa5f"
+		"icon"		"614fa1bf166f03f941b71a6128399ae9382b824d"
+		"logo"		"9b4eb15d4499dc0e5a9078aaf2e887e13a764717"
+		"logo_small"		"9b4eb15d4499dc0e5a9078aaf2e887e13a764717_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1589223703"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SplitSide Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SplitSide Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1592327444"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1054840"
+	}
+	"extended"
+	{
+		"demoofappid"		"1054430"
+		"developer"		"SplitSide Games"
+		"publisher"		"SplitSide Games"
+	}
+	"config"
+	{
+		"installdir"		"Fling to the Finish Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fling to the Finish Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Fling to the Finish Demo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Fling to the Finish Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1054841"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3485708071258116122"
+					"size"		"2951623715"
+					"download"		"835482752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"7D34E1D808BF530FF25A44F9F43C7D93"
+					"size"		"939154A383C5E424907F2ABBFC0A42A6"
+					"download"		"E5EF880FB0C0CDB5C5994340FAB1F42C"
+				}
+				"staging"
+				{
+					"gid"		"40BC099EC36BA85AD4F2177A176F2D42"
+					"size"		"5000D5AE227D058564FDD0D097C5841D"
+					"download"		"837390EDB8152ED41A41F931AA198ABB"
+				}
+			}
+		}
+		"1054842"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1648402329698624742"
+					"size"		"2937052175"
+					"download"		"831343744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"E5D88F0D26B3CFD8F91FDE57C2FA8AC2"
+					"size"		"4BDDA2A646F682468D2AA6A1849233D2"
+					"download"		"B8B43F16F2DE915502E23E5B68748724"
+				}
+				"staging"
+				{
+					"gid"		"A1643DF4A009BC7E787858AA2C33362F"
+					"size"		"B4442910B462E35519DFE2AE93FFFE58"
+					"download"		"7124CBE2A0B6FAD1D9983BCDA29BB038"
+				}
+			}
+		}
+		"1054843"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7925177154965528085"
+					"size"		"2950408393"
+					"download"		"836445904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"E9F9B4FD282C78E201B60D70CCB59105"
+					"size"		"4CC3DABB619F449400D3B0B92C400971"
+					"download"		"C2F5D885C7F12A5C23997D4BAFADB2B8"
+				}
+				"staging"
+				{
+					"gid"		"4A4D974F07E8542D4BE72A7EE4F1A12F"
+					"size"		"EE79FBFAF69180CB62496A1C7C80E530"
+					"download"		"B2923FB5562D9C4401399A6A197B7FF3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10757563"
+				"timeupdated"		"1678725523"
+			}
+			"devtesting"
+			{
+				"buildid"		"10737057"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678434064"
+			}
+			"staging"
+			{
+				"buildid"		"10757563"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678724649"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"2"
+		"appidredirect"		"1054430"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_inlobby"		"In a lobby"
+					"#status_racing"		"In race"
+				}
+			}
+		}
+	}
+}
