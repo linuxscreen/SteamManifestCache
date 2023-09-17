@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"2314570"
+	"common"
+	{
+		"name"		"Love Too Easily Demo"
+		"type"		"Demo"
+		"parent"		"2274500"
+		"icon"		"3b24755d21b23927c521d287f0ae5c4999872870"
+		"clienticon"		"b02ddd32945ef4e09b1d2e3289956ea8a796823f"
+		"clienttga"		"49d4c6e7f12a502d379e3b3dcd5695d4dd660cb3"
+		"linuxclienticon"		"5ea9244b101d6484e32ff1bfbe9bdabe44d0ef1b"
+		"clienticns"		"090ee156386cc5f6d20cf84abfffd7e0bb814610"
+		"name_localized"
+		{
+			"koreana"		"과몰입금지 데모"
+			"schinese"		"禁止过分投入 演示版(Love Too Easily Demo)"
+			"tchinese"		"禁止過分投入 演示版(Love Too Easily Demo)"
+			"japanese"		"沼落ち禁止 デモ版(Love Too Easily Demo)"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-tw,zh-cn,ja,ko"
+			"library_hero"		"en"
+			"library_logo"		"ja,ko,zh-cn,zh-tw,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.9922111867798"
+				"height_pct"		"74.30555555555556"
+			}
+		}
+		"store_asset_mtime"		"1677219778"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Monster Guide inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MediBang Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1675993486"
+		"gameid"		"2314570"
+	}
+	"extended"
+	{
+		"demoofappid"		"2274500"
+		"developer"		"Monster Guide inc."
+		"publisher"		"MediBang Games"
+	}
+	"config"
+	{
+		"installdir"		"Love Too Easily Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LoveTooEasily_Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"LoveTooEasily_Demo.exe"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2314571"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4224893266501312447"
+					"size"		"2983616989"
+					"download"		"2250917808"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12128494"
+				"timeupdated"		"1694060070"
+			}
+		}
+	}
+}
