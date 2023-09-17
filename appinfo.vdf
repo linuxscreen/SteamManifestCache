@@ -1,0 +1,299 @@
+"appinfo"
+{
+	"appid"		"1959910"
+	"common"
+	{
+		"name"		"The Dark Pictures Anthology: The Devil in Me Demo"
+		"type"		"Demo"
+		"parent"		"1567020"
+		"releasestate"		"released"
+		"clienticon"		"d76ae98a1a811605b6a71643d7dc9028f9575219"
+		"clienttga"		"bac948ecb2cb06799671283ae73c7df8563cfdc4"
+		"icon"		"f77b13f0e2acb6f64c790803d2e8880dc3bbdd85"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1668703278"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Supermassive Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bandai Namco Entertainment Europe"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"The Dark Pictures"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Bandai Namco Entertainment Europe"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1669047780"
+		"gameid"		"1959910"
+	}
+	"extended"
+	{
+		"demoofappid"		"1567020"
+		"developer"		"Supermassive Games"
+		"publisher"		"Bandai Namco Entertainment Europe"
+		"homepage"		"https://www.thedarkpictures.com/"
+	}
+	"config"
+	{
+		"installdir"		"The Dark Pictures Anthology - The Devil In Me"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2883040360"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheDevilInMe.exe"
+				"arguments"		"-dx11"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"TheDevilInMe.exe"
+				"arguments"		"-dx12"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"The Dark Pictures Anthology: The Devil In Me (DX12)"
+				}
+				"description"		"The Dark Pictures Anthology: The Devil In Me (DX12)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1959911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3162564029322602462"
+					"size"		"19045700850"
+					"download"		"10199331920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"smgreview"
+				{
+					"gid"		"F75D89C05578F98EA5F9F19F1E5B2A4B"
+					"size"		"1A4A94D127B46692CF4D8BA8157BB068"
+					"download"		"F8622014CCD3B1BC553595628ED1C5CE"
+				}
+			}
+		}
+		"1959912"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1260939221246133658"
+					"size"		"16"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"smgreview"
+				{
+					"gid"		"A1C517A5B6BD65B2B1861AA4C2C61C4C"
+					"size"		"F3AB1541D7C521D4919B231647B42424"
+					"download"		"6F647C405AF60842586B39DF722F72F1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9966887"
+				"timeupdated"		"1668788489"
+			}
+			"smgreview"
+			{
+				"buildid"		"9966887"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668766747"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"105000000"
+		"maxnumfiles"		"10000"
+		"appidredirect"		"1567020"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TheDevilInMe/Saved/SaveGames"
+				"pattern"		"OptionSettings.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TheDevilInMe/Saved/SaveGames"
+				"pattern"		"SP*.sav"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TheDevilInMe/Saved/SaveGames"
+				"pattern"		"MP*.sav"
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TheDevilInMe/Saved/SaveGames"
+				"pattern"		"PP*.sav"
+			}
+			"4"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TheDevilInMe/Saved/SaveGames"
+				"pattern"		"ST*.sav"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
