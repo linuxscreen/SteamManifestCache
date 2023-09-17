@@ -1,0 +1,112 @@
+"appinfo"
+{
+	"appid"		"2141300"
+	"common"
+	{
+		"name"		"Road to Vostok Demo"
+		"type"		"Demo"
+		"parent"		"1963610"
+		"icon"		"3f030b72dc288d5468435e2ffcab30b9c6319367"
+		"clienticon"		"ff4f47507a06f8b85b9a936d93f76f26488f22a3"
+		"clienttga"		"5b20327a8af7bc8593e8dbc5fef941383f59539a"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1681996560"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Road to Vostok"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Road to Vostok"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664215776"
+		"gameid"		"2141300"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1963610"
+		"developer"		"Road to Vostok"
+		"publisher"		"Road to Vostok"
+		"homepage"		"https://roadtovostok.com/"
+	}
+	"config"
+	{
+		"installdir"		"Road to Vostok Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Public_Demo_1.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2141301"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4885414531088280907"
+					"size"		"3214096463"
+					"download"		"1626810144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"225C8A9469EB88EA801E39ACCE689367"
+					"size"		"F16A65BFF02341F18E7AD5B0452A3CC2"
+					"download"		"96F02430F59D09E66140DF33EB4D2CA0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11015084"
+				"timeupdated"		"1681656639"
+			}
+			"developer"
+			{
+				"buildid"		"9579905"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681571837"
+			}
+		}
+	}
+}
