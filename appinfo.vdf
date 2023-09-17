@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"1486660"
+	"common"
+	{
+		"name"		"Dragon VR"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"1"
+			}
+		}
+		"logo"		"c4ad1a3a11c13bb28d4ed29e16f9434e6ea105a1"
+		"logo_small"		"c4ad1a3a11c13bb28d4ed29e16f9434e6ea105a1_thumb"
+		"icon"		"9d41c09031ea436f253be442124b469fc9754e6e"
+		"clienticon"		"f9ca3b20afe261eb728ae6f5fd4966144f041beb"
+		"clienttga"		"5d921a76f05e28d1832a14034e99b8afb5131302"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"63.258166784704585"
+			}
+		}
+		"store_asset_mtime"		"1616701618"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anvio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anvio"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1619858248"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1486660"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"21978"
+			"2"		"19"
+			"3"		"4046"
+			"4"		"1664"
+			"5"		"21"
+			"6"		"3834"
+			"7"		"1773"
+			"8"		"5900"
+			"9"		"1036"
+			"10"		"4191"
+			"11"		"3839"
+			"12"		"4175"
+			"13"		"5160"
+			"14"		"6129"
+			"15"		"29363"
+			"16"		"5094"
+			"17"		"4106"
+			"18"		"4182"
+			"19"		"15045"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Anvio"
+		"publisher"		"Anvio"
+		"homepage"		"https://anvio.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dragon VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DragonVR.exe"
+				"arguments"		"-NotInstalled"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1486661"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"957935089597632816"
+					"size"		"3769239717"
+					"download"		"1507137440"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6553724"
+				"timeupdated"		"1618589378"
+			}
+		}
+	}
+}
