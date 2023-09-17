@@ -1,0 +1,133 @@
+"appinfo"
+{
+	"appid"		"1884590"
+	"common"
+	{
+		"name"		"Tinykin Demo"
+		"type"		"Demo"
+		"parent"		"1599020"
+		"clienticon"		"d0a93bc7f753cf9cf0f6164fe87ba817b821b7f6"
+		"clienttga"		"696a136b24972e13dc50d8c001cab2faee53305d"
+		"icon"		"13bf4240abf92c852231e7a4167bb37645542de4"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1644006929"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Splashteam"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"tinyBuild"
+			}
+		}
+		"steam_release_date"		"1645206691"
+		"gameid"		"1884590"
+	}
+	"extended"
+	{
+		"demoofappid"		"1599020"
+		"developer"		"Splashteam"
+		"publisher"		"tinyBuild"
+	}
+	"config"
+	{
+		"installdir"		"Tinykin Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tinykin.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1884591"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"23424476839625299"
+					"size"		"3762639882"
+					"download"		"2598618816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-branch"
+				{
+					"gid"		"E5E54570AD42491EB21A7AABF5BF7435"
+					"size"		"BA0E67639525E9F1156DE4DDD5058FB9"
+					"download"		"115D0DBB50B2519398CD4941428C5445"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9299880"
+				"timeupdated"		"1660319624"
+			}
+			"dev-branch"
+			{
+				"buildid"		"9401747"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661636723"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"appidredirect"		"1599020"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"tinyBuild Games/Tinykin"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"tinyBuild Games/Tinykin"
+				"pattern"		"achievements.data"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"tinyBuild Games/Tinykin"
+				"pattern"		"*.bak"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
