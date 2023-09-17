@@ -1,0 +1,144 @@
+"appinfo"
+{
+	"appid"		"1048390"
+	"common"
+	{
+		"name"		"M.A.S.S. Builder Demo"
+		"type"		"Demo"
+		"parent"		"956680"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"affd7b7f00e364ecb9aab6ceb83e655c62557d1f"
+		"clienttga"		"109679be02b3f9cbe716b57df478b0f64753459a"
+		"icon"		"5a475c6f3f12c22870ed0b85b56a19c2554cc79a"
+		"osextended"		""
+		"metacritic_name"		"M.A.S.S. Builder Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"96.32438739789964"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1572300378"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Vermillion Digital"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sekai Project"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1553574158"
+		"community_visible_stats"		"1"
+		"gameid"		"1048390"
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"demoofappid"		"956680"
+		"developer"		"Vermillion Digital"
+		"publisher"		"Sekai Project"
+	}
+	"config"
+	{
+		"installdir"		"M.A.S.S. Builder Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MASS_Builder.exe"
+				"arguments"		"-novr -nohmd"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1048391"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1657130813903033019"
+					"size"		"8142791002"
+					"download"		"3011968320"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8047911"
+				"timeupdated"		"1642601747"
+			}
+		}
+	}
+}
