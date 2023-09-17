@@ -1,0 +1,234 @@
+"appinfo"
+{
+	"appid"		"1283930"
+	"common"
+	{
+		"name"		"Half-Life: Restored"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"9e425e97c484d2c7ea4b742b6ed8f17e546105fe"
+		"clienttga"		"891e5f1bf9af67b8d8b4a517b19822954780c614"
+		"icon"		"839eb0ac7a66297d2545af002a8eac7e53946861"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"c4b7db9c6288a80473c4d29b57ccb1a21bb361f0"
+		"logo_small"		"c4b7db9c6288a80473c4d29b57ccb1a21bb361f0_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1667347200"
+			"tested_build_id"		"8962684"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.65993866384825"
+				"height_pct"		"84.48039327010332"
+			}
+		}
+		"store_asset_mtime"		"1652455204"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Vect0R"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Vect0R"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1593586800"
+		"steam_release_date"		"1593601522"
+		"community_hub_visible"		"1"
+		"gameid"		"1283930"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"5348"
+			"3"		"3942"
+			"4"		"1663"
+			"5"		"492"
+			"6"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Vect0R"
+		"publisher"		"Vect0R"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Half-Life Restored"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"restored.exe"
+				"arguments"		"-nobindless +cl_lw 0"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"With MetaRenderer"
+				}
+				"description"		"With MetaRenderer"
+			}
+			"1"
+			{
+				"executable"		"restored.exe"
+				"arguments"		"-nometa -nobindless +cl_lw 0"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Without MetaRenderer"
+				}
+				"description"		"Without MetaRenderer"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"1283939"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9218645753167460402"
+					"size"		"524300086"
+					"download"		"248849152"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8962684"
+				"timeupdated"		"1655536103"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"vector/SAVE"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
