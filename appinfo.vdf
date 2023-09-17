@@ -1,0 +1,238 @@
+"appinfo"
+{
+	"appid"		"770460"
+	"common"
+	{
+		"name"		"The Dummy Experiment"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"32cfa3ac231b3ca28d1b1e234dee1213d0f0a0d1"
+		"logo_small"		"32cfa3ac231b3ca28d1b1e234dee1213d0f0a0d1_thumb"
+		"icon"		"cb26290eacd191d3e0866d130914a4aea985e7cd"
+		"clienttga"		"e22207e8c502921ab6227d8887e03c8e90188c0b"
+		"clienticon"		"753912b478265a6f76ef21ff78ca1a3235444169"
+		"metacritic_name"		"The Dummy Experiment"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1516188947"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kai van Ommeren"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Sedat Bilen"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Niek Oosterbaan"
+			}
+			"3"
+			{
+				"type"		"developer"
+				"name"		"Wesley Kroon"
+			}
+			"4"
+			{
+				"type"		"developer"
+				"name"		"Martijn de Vree"
+			}
+			"5"
+			{
+				"type"		"developer"
+				"name"		"Max Geraci"
+			}
+			"6"
+			{
+				"type"		"developer"
+				"name"		"Plaisir Nzuzi"
+			}
+			"7"
+			{
+				"type"		"developer"
+				"name"		"Kevin van Huit"
+			}
+			"8"
+			{
+				"type"		"publisher"
+				"name"		"Cetus Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+			"category_14"		"1"
+			"category_13"		"1"
+			"category_15"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1516348800"
+		"steam_release_date"		"1516386433"
+		"community_hub_visible"		"1"
+		"gameid"		"770460"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"21"
+			"3"		"4026"
+			"4"		"3859"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"developer"		"Kai van Ommeren"
+		"publisher"		"Cetus Studios"
+		"homepage"		"https://cetusstudios.com/the-dummy-experiment/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Dummy Experiment"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"thedummyexperiment.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"thedummyexperiment.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"2"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"770465"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2507610931710867142"
+					"size"		"1575917323"
+					"download"		"309273328"
+				}
+			}
+		}
+		"770466"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7871229355663674170"
+					"size"		"1581240692"
+					"download"		"310895104"
+				}
+			}
+		}
+		"770467"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3611319664586144981"
+					"size"		"1586499637"
+					"download"		"312869088"
+				}
+			}
+		}
+		"770468"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3827573247815647722"
+					"size"		"1587595273"
+					"download"		"313169312"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2468462"
+				"timeupdated"		"1516885073"
+			}
+		}
+	}
+}
