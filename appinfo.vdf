@@ -1,0 +1,228 @@
+"appinfo"
+{
+	"appid"		"2334220"
+	"common"
+	{
+		"name"		"Home Sweet Home : Online"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"50fb47d11a10b2901feb78b798f5f7b55541ead1"
+		"clienttga"		"b538efc1e8d91ac15d8c87a8e7605e417c5d337a"
+		"clienticon"		"f9266a5693da37ab50824914cfdddd92bab5a2b6"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1694783433"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"YGGDRAZIL GROUP PUBLIC COMPANY LIMITED"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Shift Now"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"2"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1687403521"
+		"community_hub_visible"		"1"
+		"gameid"		"2334220"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"9"
+			"2"		"3978"
+			"3"		"1662"
+			"4"		"113"
+			"5"		"3859"
+			"6"		"5055"
+			"7"		"1685"
+			"8"		"1697"
+			"9"		"492"
+			"10"		"3843"
+			"11"		"1667"
+		}
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"developer"		"YGGDRAZIL GROUP PUBLIC COMPANY LIMITED"
+		"publisher"		"Shift Now"
+		"homepage"		"https://www.homesweethomegame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"HSHO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HSHO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2334221"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4833328583968463303"
+					"size"		"13314798363"
+					"download"		"12398755152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"blindtest"
+				{
+					"gid"		"B35E3717C0B6F17AB81B89930404F230"
+					"size"		"D4FE8C84A9865E09BC5C3D81EE90DC34"
+					"download"		"D4FE8C84A9865E09BC5C3D81EE90DC34"
+				}
+				"devlive"
+				{
+					"gid"		"7FB073F4A9A0EC54C1E20EF874E3D870"
+					"size"		"8E5B64825056B870A8DB31BED768CBC2"
+					"download"		"5AA58B116DBA6325F1CF0F04A369BE20"
+				}
+				"devonly"
+				{
+					"gid"		"425D131133F9061A7C7EA9FA6B197559"
+					"size"		"D22465F511A91EAE8D09953BF4C64846"
+					"download"		"0C060D98C31D1AADB75B2A5AAF02286D"
+				}
+				"test"
+				{
+					"gid"		"13ECB224934B3C812F21466036B615BD"
+					"size"		"07BDF8B523840971F3116C7390B52792"
+					"download"		"86C73D814E699ED2A44EA02D3E084472"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12186530"
+				"timeupdated"		"1694680918"
+			}
+			"blindtest"
+			{
+				"buildid"		"10880267"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683466991"
+			}
+			"devlive"
+			{
+				"buildid"		"12119483"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693979468"
+			}
+			"devonly"
+			{
+				"buildid"		"11762821"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689993745"
+			}
+			"test"
+			{
+				"buildid"		"12194304"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694745771"
+			}
+		}
+	}
+}
