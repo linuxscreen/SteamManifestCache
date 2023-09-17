@@ -1,0 +1,253 @@
+"appinfo"
+{
+	"appid"		"1494460"
+	"common"
+	{
+		"name"		"Desktop+"
+		"type"		"Application"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"c110dae4e497ab46e8553a37c384e76c10ca353d"
+		"logo_small"		"c110dae4e497ab46e8553a37c384e76c10ca353d_thumb"
+		"openvrsupport"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"action_manifest.json"
+		"clienticon"		"28deec02f7c6619ecad4926a721b8747ed768cdb"
+		"clienttga"		"e01e53d19cc905e5f1db6ca89817a41ea201b4c1"
+		"icon"		"2508f8e058e4ea4db3c37a2878aae42d0e977309"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1648684800"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1640619950"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"elvissteinjr"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"elvissteinjr"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+			"category_23"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1569049200"
+		"steam_release_date"		"1609516790"
+		"community_hub_visible"		"1"
+		"gameid"		"1494460"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+			"1"		"21978"
+			"2"		"113"
+			"3"		"8013"
+			"4"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"elvissteinjr"
+		"publisher"		"elvissteinjr"
+		"homepage"		"https://github.com/elvissteinjr/DesktopPlus"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"DesktopPlus"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DesktopPlus.exe"
+				"type"		"openvroverlay"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1494461"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3367719310084832263"
+					"size"		"3340111"
+					"download"		"1284112"
+				}
+				"beta"
+				{
+					"gid"		"826061118831565536"
+					"size"		"3339087"
+					"download"		"1283920"
+				}
+				"newui"
+				{
+					"gid"		"546625795763872024"
+					"size"		"4750457"
+					"download"		"1579760"
+				}
+				"newui-browser"
+				{
+					"gid"		"4470925681672305391"
+					"size"		"244786928"
+					"download"		"84698752"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11409751"
+				"timeupdated"		"1686101059"
+			}
+			"beta"
+			{
+				"buildid"		"11282558"
+				"description"		"Desktop+ Beta Testing"
+				"timeupdated"		"1684687320"
+			}
+			"newui"
+			{
+				"buildid"		"11993681"
+				"description"		"Desktop+ NewUI Preview"
+				"timeupdated"		"1692633161"
+			}
+			"newui-browser"
+			{
+				"buildid"		"11993669"
+				"description"		"Desktop+ NewUI Preview + Browser"
+				"timeupdated"		"1692633095"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"256"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"config.ini"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"profiles"
+				"pattern"		"*.ini"
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"config_newui.ini"
+			}
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"app_profiles.ini"
+			}
+		}
+	}
+}
