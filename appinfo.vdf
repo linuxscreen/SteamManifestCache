@@ -1,0 +1,200 @@
+"appinfo"
+{
+	"appid"		"471610"
+	"common"
+	{
+		"name"		"UNO Demo"
+		"type"		"Demo"
+		"parent"		"470220"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"6ea004509aca96eb5f9bb9c7ba101da2dd8b2509"
+		"clienttga"		"42694fd5ba83d26f050eafefc9b5164aacaf5c1b"
+		"icon"		"53e769738ddbad1e22d9080fa0bd6dbc84def637"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"471610_eula_0"
+				"name"		"UNO Demo EULA"
+				"url"		"http://store.steampowered.com//eula/471610_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"metacritic_name"		"UNO Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1478658518"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ubisoft Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ubisoft Entertainment"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_29"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1481184000"
+		"steam_release_date"		"1483541322"
+		"gameid"		"471610"
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"demoofappid"		"470220"
+		"developer"		"Ubisoft Entertainment"
+		"publisher"		"Ubisoft Entertainment"
+		"homepage"		"https://support.ubi.com/en-US/games/5133"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"UNO Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UNO.exe"
+				"arguments"		"-upc_steam_free_package_id 9020 -uplay_steam_mode"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"471611"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8265547150894602999"
+					"size"		"2066752359"
+					"download"		"517932688"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese,dutch"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1491525"
+				"timeupdated"		"1480586233"
+			}
+		}
+	}
+}
