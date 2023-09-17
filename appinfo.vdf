@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"446750"
+	"common"
+	{
+		"name"		"Portal Stories: VR"
+		"type"		"Game"
+		"oslist"		"windows"
+		"openvrsupport"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+			}
+		}
+		"logo"		"2efa3dae34e17dad2cdcadc9f63d5ec93adde047"
+		"logo_small"		"2efa3dae34e17dad2cdcadc9f63d5ec93adde047_thumb"
+		"icon"		"d7c4e5bb2c26c244c2022c438b21505a1ee2db50"
+		"clienttga"		"1b0870ed0f5041ac5a039af2babf10a188375772"
+		"clienticon"		"b2a0ce9782f06333770e6d7fe9d5e30492e9b39a"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"446750_eula_0"
+				"name"		"Portal Stories: VR EULA"
+				"url"		"http://store.steampowered.com//eula/446750_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1688688000"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Portal Stories: VR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1569269499"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Prism Game Studios Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Prism Game Studios Ltd."
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_31"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1463431816"
+		"community_hub_visible"		"1"
+		"gameid"		"446750"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"21978"
+			"2"		"1664"
+			"3"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"requiredappid"		"620"
+		"developer"		"Prism Game Studios Ltd."
+		"publisher"		"Prism Game Studios Ltd."
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Portal Stories VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lift.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"446751"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2321925497524248704"
+					"size"		"4455761053"
+					"download"		"995030480"
+				}
+				"beta"
+				{
+					"gid"		"2321925497524248704"
+					"size"		"4455761053"
+					"download"		"995030480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devbeta"
+				{
+					"gid"		"EE2C182804C061E802379A3AEDEAEC5A"
+					"size"		"137E45582F4DE8DABB44AD63BC8D6C3A"
+					"download"		"157B4B0AD853049F5A5C789C43549387"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1122204"
+				"timeupdated"		"1463069304"
+			}
+			"beta"
+			{
+				"buildid"		"1122204"
+				"timeupdated"		"1463069294"
+			}
+			"devbeta"
+			{
+				"buildid"		"1122204"
+				"pwdrequired"		"1"
+				"timeupdated"		"1463010548"
+			}
+		}
+	}
+}
