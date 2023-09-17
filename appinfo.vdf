@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"809150"
+	"common"
+	{
+		"name"		"Tesseract VR"
+		"type"		"Game"
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"clienticon"		"835ab915b9dcccb9caeb906a2c0c6a0d8ba175d8"
+		"clienttga"		"d460888a2db246c59b431d872dc32dfa12143245"
+		"icon"		"90c81a847535af05c16d8dfc2ef8a6165573b3ca"
+		"logo"		"ed3e7c6ffb9b8b5651ec65bfd91129d35455e0cb"
+		"logo_small"		"ed3e7c6ffb9b8b5651ec65bfd91129d35455e0cb_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"releasestate"		"released"
+		"metacritic_name"		"Tesseract VR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1524555242"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dreambox"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dreambox"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1523602800"
+		"steam_release_date"		"1525246448"
+		"community_hub_visible"		"1"
+		"gameid"		"809150"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"597"
+			"3"		"21978"
+		}
+		"review_score"		"5"
+		"review_percentage"		"61"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Dreambox"
+		"publisher"		"Dreambox"
+		"homepage"		"http://www.dream-box.tv/en/home"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tesseract VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"\\Tesseract VR\\WindowsNoEditor\\Tesseract.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"809151"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7262022338347072704"
+					"size"		"1012079030"
+					"download"		"293169536"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2671947"
+				"timeupdated"		"1523279737"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000"
+		"maxnumfiles"		"10"
+	}
+}
