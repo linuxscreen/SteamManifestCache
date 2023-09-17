@@ -1,0 +1,406 @@
+"appinfo"
+{
+	"appid"		"1635730"
+	"common"
+	{
+		"name"		"VIVE Console for SteamVR"
+		"type"		"Application"
+		"releasestate"		"released"
+		"parent"		"250820"
+		"isplugin"		"1"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"cb3b85c4d490f6c796026a176c2eceddfb526dda"
+		"clienttga"		"5d8594e5191ffc276b633fe78dbeabe25e79e729"
+		"icon"		"2f1720a07d2e3e0cd0988796d71e80a3b44a198b"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1635730_eula_0"
+				"name"		"VIVE Console for SteamVR EULA"
+				"url"		"https://store.steampowered.com//eula/1635730_eula_0"
+				"version"		"1"
+			}
+		}
+		"logo"		"e474c3b14018c39aabebb6a9259980fe9b150366"
+		"logo_small"		"e474c3b14018c39aabebb6a9259980fe9b150366_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658534400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"96.72525561824466"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1622682568"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HTC Corp."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HTC Corp."
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"1635730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+		}
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"developer"		"HTC Corp."
+		"publisher"		"HTC Corp."
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"VIVEDriver"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EZLauncher.exe"
+				"arguments"		"-launchCU"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,schinese,tchinese,japanese,arabic,latam"
+		"hasdepotsindlc"		"0"
+		"1635731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6889829864516794089"
+					"size"		"1695496399"
+					"download"		"603875584"
+				}
+				"backup"
+				{
+					"gid"		"1116656264355788974"
+					"size"		"1695253271"
+					"download"		"603821536"
+				}
+				"beta"
+				{
+					"gid"		"4561778201076256843"
+					"size"		"1693401962"
+					"download"		"613731440"
+				}
+				"elite7"
+				{
+					"gid"		"6284402983186897381"
+					"size"		"248154640"
+					"download"		"73639344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"cosmosxr"
+				{
+					"gid"		"8E7C0916004CA1996BD7840511D8F827"
+					"size"		"E2C478528F045BBACD82E65B927AA868"
+					"download"		"E68EEFDC618B3B4FA978D55585A0CA0C"
+				}
+				"intel"
+				{
+					"gid"		"D1D7AB42B6E2A230C1D49A1618858698"
+					"size"		"CA6455C29638449BBA39AB3FFD00E567"
+					"download"		"4D8288A874E61C9D21F6CA0750C7CA68"
+				}
+				"mwcdemo"
+				{
+					"gid"		"034BCF741B41CB727E25C98C4A1580CF"
+					"size"		"1F3AD82D6E5C6AF5293A5681F155D068"
+					"download"		"DE3CE225F33E4D83E90C174B905FC50F"
+				}
+				"prebeta"
+				{
+					"gid"		"453B128F2F6F413FDA148C08A0CD8FF1"
+					"size"		"A7E05A2DB685DD923E0B22507899BE1D"
+					"download"		"0855BE04EBFB6E1073F94FA11796C418"
+				}
+				"prepublic"
+				{
+					"gid"		"0FD2B1808FADC9481A339134FA8E3050"
+					"size"		"776902972509103AE4A227D972E673CD"
+					"download"		"586225165CE6E91E583B314A7244B626"
+				}
+				"preview"
+				{
+					"gid"		"C56E768D474E256BBCFDFB3BA1981AF6"
+					"size"		"94BC337A18DB52DFC4362301C942081A"
+					"download"		"FC953F03A365AE043BBD2FEE306EFC67"
+				}
+				"private"
+				{
+					"gid"		"93E405778A0426465D6BCCC170C97FC6"
+					"size"		"E6D19C28A9883FCBED01D0D407C6B502"
+					"download"		"68D282D9F307BFD0EAF43FF1CF36FD5B"
+				}
+				"sertest"
+				{
+					"gid"		"0065BEDAFEBCC0907FC22235E467943B"
+					"size"		"A2B6F4004059F03E877EDDA2B7B40E98"
+					"download"		"7517B0D22E7C4E0D41118FF0D0DB1AF5"
+				}
+				"vp2test"
+				{
+					"gid"		"F5B0E8542EE06DDFDF9E52AA683CB360"
+					"size"		"4C6E74B07C7DD1734BA61CF6A5307B26"
+					"download"		"8D96EA9EDAF8392B24D02DCFA76BB09B"
+				}
+				"xrtest"
+				{
+					"gid"		"3A275131C4C03CABF30104FD630F23B6"
+					"size"		"7F6D3961488BC407CCC2E16BB12ECBD4"
+					"download"		"F31BFB7D48CD36DA992A5652235E326F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10615932"
+				"timeupdated"		"1677132196"
+			}
+			"backup"
+			{
+				"buildid"		"9897519"
+				"description"		"Public backup"
+				"timeupdated"		"1675151560"
+			}
+			"beta"
+			{
+				"buildid"		"11430494"
+				"description"		"VIVE Console Beta Update"
+				"timeupdated"		"1686635887"
+			}
+			"cosmosxr"
+			{
+				"buildid"		"7982948"
+				"pwdrequired"		"1"
+				"timeupdated"		"1641526042"
+			}
+			"elite7"
+			{
+				"buildid"		"7021366"
+				"description"		"June 2021 final release for Win7 & Win8"
+				"timeupdated"		"1626171638"
+			}
+			"intel"
+			{
+				"buildid"		"9835472"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667204951"
+			}
+			"mwcdemo"
+			{
+				"buildid"		"8086974"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662080462"
+			}
+			"prebeta"
+			{
+				"buildid"		"11027575"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684289354"
+			}
+			"prepublic"
+			{
+				"buildid"		"10615932"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677116440"
+			}
+			"preview"
+			{
+				"buildid"		"9422190"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662080306"
+			}
+			"private"
+			{
+				"buildid"		"11430494"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686295052"
+			}
+			"sertest"
+			{
+				"buildid"		"8776343"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653027012"
+			}
+			"vp2test"
+			{
+				"buildid"		"12195814"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694759434"
+			}
+			"xrtest"
+			{
+				"buildid"		"9551594"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663665777"
+			}
+		}
+	}
+}
