@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"786680"
+	"common"
+	{
+		"name"		"Dungeons Forever"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"logo"		"1547d2b03d1f84dfe1519d7d12424ea15c8758a7"
+		"logo_small"		"1547d2b03d1f84dfe1519d7d12424ea15c8758a7_thumb"
+		"icon"		"425b05f0724f695f0b9e65a76b502a513f37bc2c"
+		"clienttga"		"d47790060bea2330e3677c42655cc11483877224"
+		"clienticon"		"1032a4be271b369f16036f750640b3d2eb7701fa"
+		"linuxclienticon"		"21b20d127bbc6f56a12e2682e0b5311494499c2d"
+		"metacritic_name"		"Dungeons Forever"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1516319891"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Timedrop Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Timedrop Studios"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1517841437"
+		"community_hub_visible"		"1"
+		"gameid"		"786680"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"492"
+			"3"		"8122"
+			"4"		"3871"
+			"5"		"1625"
+			"6"		"3964"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Timedrop Studios"
+		"publisher"		"Timedrop Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dungeons Forever"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DF_Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"DF_Game.x86"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"786681"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"165922378805641058"
+					"size"		"93920577"
+					"download"		"46319136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"C362FAC6E6232B41B6065AAF183C889D"
+					"size"		"AD48E7A92535D6EFC411232E344E7D12"
+					"download"		"35ECB11C274399D9967B4765677F4B28"
+				}
+			}
+		}
+		"786682"
+		{
+			"sharedinstall"		""
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8667090750627621616"
+					"size"		"144411634"
+					"download"		"49748928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"0C8E126DA38EE8210430049F9D53DF12"
+					"size"		"09F2FC73430D7C1BE155E18C60768629"
+					"download"		"E40C3DBCB92B0A0DB54AECD27F461663"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7017344"
+				"timeupdated"		"1626111413"
+			}
+			"testing"
+			{
+				"buildid"		"7017344"
+				"pwdrequired"		"1"
+				"timeupdated"		"1626111084"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"/"
+				"pattern"		"*.HAT"
+			}
+		}
+	}
+}
