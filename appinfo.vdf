@@ -1,0 +1,414 @@
+"appinfo"
+{
+	"appid"		"755540"
+	"common"
+	{
+		"name"		"LIV"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"kbm"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"clienticon"		"1f014d873d7c47ee077c9be46ebbe3d7c30cfe7e"
+		"clienttga"		"023a63553c447d95fe7be8c0c6041ed755c0cd4b"
+		"icon"		"f8cd0a47aa9c4ec76bb88276dd939021429f2f9c"
+		"logo"		"bf5bac486813bac1b387d009a037d54b48f07bc8"
+		"logo_small"		"bf5bac486813bac1b387d009a037d54b48f07bc8_thumb"
+		"openvroverlaysupport"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"755540_eula_1"
+				"name"		"LIV EULA"
+				"url"		"https://store.steampowered.com//eula/755540_eula_1"
+				"version"		"3"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1659657600"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"LIV"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"43.02059496567508"
+				"height_pct"		"32.901923533602485"
+			}
+		}
+		"store_asset_mtime"		"1626284497"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LIV Inc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LIV Inc"
+			}
+		}
+		"primary_genre"		"58"
+		"genres"
+		{
+			"0"		"57"
+			"1"		"58"
+			"2"		"59"
+		}
+		"category"
+		{
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1565605157"
+		"community_hub_visible"		"1"
+		"gameid"		"755540"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"784"
+			"1"		"87"
+			"2"		"1038"
+			"3"		"21978"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"0"
+		"disableoverlayinjection"		"1"
+		"developer"		"LIV Inc"
+		"publisher"		"LIV Inc"
+		"homepage"		"https://liv.tv/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"LIV"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"LIV.App.exe"
+				"description"		"LIV"
+				"type"		"openvroverlay"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"755541"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8150491405116860410"
+					"size"		"491842382"
+					"download"		"150180432"
+				}
+				"latest"
+				{
+					"gid"		"1043008716006781213"
+					"size"		"491840846"
+					"download"		"150179408"
+				}
+				"public_beta"
+				{
+					"gid"		"7951837342092223389"
+					"size"		"491838286"
+					"download"		"150177264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"next_release"
+				{
+					"gid"		"F9A710779D8E9B39CD7DD21DF97FC635"
+					"size"		"B2DC1B1282E8588A0C1B752D21FCADC1"
+					"download"		"5E6DFC2BB292A88BFF14CB1E219847CF"
+				}
+				"segmentive_removal"
+				{
+					"gid"		"5190C7195011696059B6977F5441C04E"
+					"size"		"BF9A79022468C6DF83FBDD3FBFFD3E97"
+					"download"		"96DAA2EAD42A44D0D6A40A5D991677F3"
+				}
+				"vail_unrestricted"
+				{
+					"gid"		"57EC6E9CF91C42CE02267653A3C5B5D1"
+					"size"		"73EE7E0F601283F9326F26B6A1720BE9"
+					"download"		"E97739C5F28D2C44E4D7C38397110116"
+				}
+				"volcap_camera"
+				{
+					"gid"		"8BABF717D07A92A2EE3B108A44519894"
+					"size"		"4A4B426633BEB3A0B739D6ADADF0B834"
+					"download"		"535A378AF2444290187BBA901AC89976"
+				}
+				"volcap_camera_internal"
+				{
+					"gid"		"4B126D3A2A22668A7A779B4BF048F66A"
+					"size"		"7A0E5EA79689C86B3F9D5D78EE7528CD"
+					"download"		"1372F20FA216AAE0406BAE799470C081"
+				}
+				"volcap_labs_internal"
+				{
+					"gid"		"77DBF807DF8A5EBE644C509B1AF0EB83"
+					"size"		"93894B8EB41BC75FD5E4724274B78754"
+					"download"		"401C127BD19751A1B1D97085EBC15F0C"
+				}
+				"volcap_live_chat"
+				{
+					"gid"		"0C253930AF7F16CEFA813CBF8EE19834"
+					"size"		"B1877C56C23C41C8C9667F62561BB02D"
+					"download"		"1D3B34FF70C48043343B4E76FDF99804"
+				}
+				"volcap_live_chat_internal"
+				{
+					"gid"		"0139E249A7966925892162AE4D0E4F7B"
+					"size"		"5078331795AC8FFA32FB1B53AD955E6C"
+					"download"		"153509076A45B837E6BD02401BC89FDB"
+				}
+				"volcap_message_internal"
+				{
+					"gid"		"07A660F8163BAEEC44BA6BD44BAD74B4"
+					"size"		"DE47173FD030301CD0DA4887F8713470"
+					"download"		"F98213E38F15740327B68D89BE38DBAE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11360194"
+				"timeupdated"		"1685607167"
+			}
+			"latest"
+			{
+				"buildid"		"11350557"
+				"description"		"Warning! This is our development branch, and will break from time to time."
+				"timeupdated"		"1685454868"
+			}
+			"next_release"
+			{
+				"buildid"		"10383887"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674493161"
+			}
+			"public_beta"
+			{
+				"buildid"		"11351335"
+				"description"		"Try out the latest LIV features!"
+				"timeupdated"		"1685460409"
+			}
+			"segmentive_removal"
+			{
+				"buildid"		"10186101"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671556039"
+			}
+			"vail_unrestricted"
+			{
+				"buildid"		"9289508"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660144332"
+			}
+			"volcap_camera"
+			{
+				"buildid"		"10619512"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677151957"
+			}
+			"volcap_camera_internal"
+			{
+				"buildid"		"10619340"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677150551"
+			}
+			"volcap_labs_internal"
+			{
+				"buildid"		"11047257"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681975527"
+			}
+			"volcap_live_chat"
+			{
+				"buildid"		"10918389"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680525923"
+			}
+			"volcap_live_chat_internal"
+			{
+				"buildid"		"10935862"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680690088"
+			}
+			"volcap_message_internal"
+			{
+				"buildid"		"10096304"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670410329"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"102400"
+		"maxnumfiles"		"10"
+	}
+}
