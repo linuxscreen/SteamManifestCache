@@ -1,0 +1,370 @@
+"appinfo"
+{
+	"appid"		"495910"
+	"common"
+	{
+		"name"		"Dungeon Fighter Online"
+		"type"		"Game"
+		"oslist"		"windows"
+		"clienttga"		"4413d2a799556365483ac5e0d1e023fee0a9bd5f"
+		"clienticon"		"133e835b5c0388232af8181542aa283ef6efc905"
+		"icon"		"5c004c9660e2a453199d2222f72407056cd97570"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"495910_eula_0"
+				"name"		"Neople_DFO EULA"
+				"url"		"http://store.steampowered.com//eula/495910_eula_0"
+			}
+		}
+		"logo"		"6ae81e4aa01ed9ccac7ab4c256a2381cb8655451"
+		"logo_small"		"6ae81e4aa01ed9ccac7ab4c256a2381cb8655451_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1674000000"
+			"tested_build_id"		"4547839"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"proton_compat_config"		"gamedrive,"
+			}
+		}
+		"metacritic_name"		"Dungeon Fighter Online"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"42.057392675268474"
+			}
+		}
+		"store_asset_mtime"		"1690302014"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Neople"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Neople"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"29"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_33"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1470726000"
+		"steam_release_date"		"1470761866"
+		"metacritic_score"		"78"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/dungeon-fighter-online?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"495910"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4085"
+			"2"		"128"
+			"3"		"122"
+			"4"		"19"
+			"5"		"4158"
+			"6"		"3871"
+			"7"		"1646"
+			"8"		"3798"
+			"9"		"1754"
+			"10"		"21"
+			"11"		"4736"
+			"12"		"1743"
+			"13"		"4231"
+			"14"		"3843"
+			"15"		"1720"
+			"16"		"6650"
+			"17"		"1695"
+			"18"		"1756"
+			"19"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"developer"		"Neople"
+		"publisher"		"Neople"
+		"homepage"		"http://www.dfoneople.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"495920,495930,502790,503380,558130,904260,1134360,2492770,2492771"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"DFO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NeopleLauncher.exe"
+				"arguments"		"data:14"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"NeopleLauncher.exe"
+				"arguments"		"data:14"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollerconfigfileids"		"727282360"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"495911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3615903286038964233"
+					"size"		"35399369714"
+					"download"		"30862994624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg1"
+				{
+					"gid"		"60654BD2C071AC9787EBB63800321991"
+					"size"		"3C4EE18785B3D76A6DAFA07E26545AFF"
+					"download"		"F045A53E3D7844DE3B2F36503011AF77"
+				}
+				"stg2"
+				{
+					"gid"		"EEB9951C62975294DED1A2C963BECDDC"
+					"size"		"52032EB4B9C4F37ED777784B9B7E0DA1"
+					"download"		"00749A37D21764D37F245D925515692A"
+				}
+				"stg3"
+				{
+					"gid"		"3698BB7F1C3AE4AF1B45AFF0F3ACAE76"
+					"size"		"CA93D4C99FCF97931E1CF39CA994F75F"
+					"download"		"B41EB319DB3D4D5871F4310F7BD15E91"
+				}
+			}
+		}
+		"558130"
+		{
+			"dlcappid"		"558130"
+		}
+		"495920"
+		{
+			"dlcappid"		"495920"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4457552873795021699"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg1"
+				{
+					"gid"		"5637011E5C01CEB30AF4315B777B32DC"
+					"size"		"F0B1A4809D863990BC727375134D883F"
+					"download"		"F0B1A4809D863990BC727375134D883F"
+				}
+				"stg2"
+				{
+					"gid"		"926D111B86C2A0E3587B8820B1F111AA"
+					"size"		"EAC6CC076016F6B17DB24206B6CA7F35"
+					"download"		"EAC6CC076016F6B17DB24206B6CA7F35"
+				}
+				"stg3"
+				{
+					"gid"		"D097A586B4E25655F601BB787EA47C3C"
+					"size"		"83C26014BBDF02EDD00279B42D104A1A"
+					"download"		"83C26014BBDF02EDD00279B42D104A1A"
+				}
+			}
+		}
+		"495930"
+		{
+			"dlcappid"		"495930"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1055450109350660365"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg1"
+				{
+					"gid"		"C1743138931CFBFF66C643AFAA734ED4"
+					"size"		"F0B1A4809D863990BC727375134D883F"
+					"download"		"F0B1A4809D863990BC727375134D883F"
+				}
+				"stg2"
+				{
+					"gid"		"2D4DFBBA30565AE13F01FE419CC32D2C"
+					"size"		"EAC6CC076016F6B17DB24206B6CA7F35"
+					"download"		"EAC6CC076016F6B17DB24206B6CA7F35"
+				}
+				"stg3"
+				{
+					"gid"		"0078C405C8A3A28282B6E2EE39E8E383"
+					"size"		"83C26014BBDF02EDD00279B42D104A1A"
+					"download"		"83C26014BBDF02EDD00279B42D104A1A"
+				}
+			}
+		}
+		"502790"
+		{
+			"dlcappid"		"502790"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3132797066059469360"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg1"
+				{
+					"gid"		"4354F54EA404A219FADF6D1D120E959B"
+					"size"		"F0B1A4809D863990BC727375134D883F"
+					"download"		"F0B1A4809D863990BC727375134D883F"
+				}
+				"stg2"
+				{
+					"gid"		"EA0ACCACC1D4E792C8006157D1234812"
+					"size"		"EAC6CC076016F6B17DB24206B6CA7F35"
+					"download"		"EAC6CC076016F6B17DB24206B6CA7F35"
+				}
+				"stg3"
+				{
+					"gid"		"A917C17E5A79D6FE676896F4A2F1F603"
+					"size"		"83C26014BBDF02EDD00279B42D104A1A"
+					"download"		"83C26014BBDF02EDD00279B42D104A1A"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"502790"
+			}
+		}
+		"503380"
+		{
+			"dlcappid"		"503380"
+			"config"
+			{
+				"optionaldlc"		"503380"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11780072"
+				"timeupdated"		"1690266941"
+			}
+			"stg1"
+			{
+				"buildid"		"11692738"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689302231"
+			}
+			"stg2"
+			{
+				"buildid"		"11205026"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683787300"
+			}
+			"stg3"
+			{
+				"buildid"		"11908756"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691646872"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+}
