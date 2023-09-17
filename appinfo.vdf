@@ -1,0 +1,372 @@
+"appinfo"
+{
+	"appid"		"457550"
+	"common"
+	{
+		"name"		"Bigscreen Beta"
+		"type"		"Game"
+		"controllervr"
+		{
+			"kbm"		"1"
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"oslist"		"windows"
+		"icon"		"159819f9fa0765ddab16ae93be9aa956789817bc"
+		"logo"		"f85f453d356a898d6c971ad1219092ec1c636f3d"
+		"logo_small"		"f85f453d356a898d6c971ad1219092ec1c636f3d_thumb"
+		"clienttga"		"2792b7b2e1a049d05bfec264d898547ac974b3ca"
+		"clienticon"		"4674666832a7decafe5f4c662ae559b1aeea6b1b"
+		"releasestate"		"released"
+		"openvr_mime_types"		"vr/game_theater"
+		"osarch"		"64"
+		"openvr_controller_bindings"
+		{
+			"0"
+			{
+				"controller_type"		"knuckles"
+				"url"		"vr-input-workshop://1773191532"
+			}
+		}
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"metacritic_name"		"Bigscreen Beta"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"57.747436490811765"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1685670643"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bigscreen, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bigscreen, Inc."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1461855000"
+		"community_hub_visible"		"1"
+		"gameid"		"457550"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"113"
+			"2"		"8013"
+			"3"		"1695"
+			"4"		"87"
+			"5"		"10816"
+			"6"		"3859"
+			"7"		"4191"
+			"8"		"4700"
+			"9"		"3839"
+			"10"		"597"
+			"11"		"4486"
+			"12"		"3834"
+			"13"		"4145"
+			"14"		"599"
+			"15"		"4295"
+			"16"		"30358"
+			"17"		"1654"
+			"18"		"3942"
+			"19"		"15172"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Bigscreen, Inc."
+		"publisher"		"Bigscreen, Inc."
+		"homepage"		"https://bigscreenvr.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Bigscreen"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bigscreen.exe"
+				"arguments"		"-popupwindow -store steam -logFile ./Bigscreen_Data/output_log.txt"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"Bigscreen.exe"
+				"arguments"		"-popupwindow -store steam -logFile ./Bigscreen_Data/output_log.txt"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"457551"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"74893588455501927"
+					"size"		"3919547547"
+					"download"		"1573702768"
+				}
+				"alpha"
+				{
+					"gid"		"74893588455501927"
+					"size"		"3919547547"
+					"download"		"1573702768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha-2022"
+				{
+					"gid"		"CF7E3F2C95FEE66CFEE4FF9A0F00BBEC"
+					"size"		"279DB12E955B0628D7EE984676AFEFB9"
+					"download"		"6142BAD29EF48218038F940BE27A549E"
+				}
+				"alpha-brutalist"
+				{
+					"gid"		"DCC539733127E2424896FF94396027AD"
+					"size"		"B5D455D91727626A993E7CC90EF56A21"
+					"download"		"EED165D52BF802C5DE65F5F68D1CE68A"
+				}
+				"alpha-gamepad"
+				{
+					"gid"		"F9F24F8E31FA4BA922C088EE42496AEB"
+					"size"		"5EE66914967006AAFF720D6D4A139F9E"
+					"download"		"FE8E3524B1D62285526C0BE79815E60D"
+				}
+				"alpha-pluto"
+				{
+					"gid"		"CA53B44B05A51F0777D0CF36E83E1262"
+					"size"		"DB788D79ED54E90E648D7729020CDE24"
+					"download"		"81243B9EC501C93C46941B66E1157703"
+				}
+				"alpha-ui-2020"
+				{
+					"gid"		"FBBA1FF4C720EE6C1CBECE3DEDC51CDA"
+					"size"		"9DAC9E78B092ACDA21B53591DE2A4706"
+					"download"		"F9B74200280329B34044CCC5993455C1"
+				}
+				"alpha-youtube"
+				{
+					"gid"		"70AD86BFC38DCBD0CABCE0F11C12D987"
+					"size"		"3E792476164C81A71F0A2C85E68414ED"
+					"download"		"BF479FE1973A96642778CF6D9C8F4421"
+				}
+				"alpha_arch5"
+				{
+					"gid"		"EAA4212A7E1878E225B3356DA44BF7B4"
+					"size"		"0EFB47B2F30B865DCBBD3AF89D0D4168"
+					"download"		"D5AEB6FB28CA1ABFBDC67F98218C4FF7"
+				}
+				"alpha_avatars"
+				{
+					"gid"		"550A459AB7B1AFBE0B3FF23561186F10"
+					"size"		"9A9B90129EA3302A472E6F16E76EB7C4"
+					"download"		"BDF3CA8481717EC8515A05C60B57798A"
+				}
+				"alpha_friends"
+				{
+					"gid"		"837A39E87A14D067AECE81D1E1B364DF"
+					"size"		"3087BB27C13DD2B8878C4118FD4C6B35"
+					"download"		"299D14150AE569670BE7327CF230A901"
+				}
+				"beta"
+				{
+					"gid"		"CC5B687394B4E1A002463A3747514BA1"
+					"size"		"006AF5B0ED423BA2C9F85FAB9C5EC93E"
+					"download"		"101E0442B1202673839CDB3E17FC8D26"
+				}
+				"dev_internal"
+				{
+					"gid"		"FCA712AA07C599E34EB3FFE818521E22"
+					"size"		"77247DF1E16EAE738EDD32C49F73CFDD"
+					"download"		"154F5F55AFAFB405C1C8D3FED0A58E72"
+				}
+				"test-friends"
+				{
+					"gid"		"10D30F47C383C498C578BC01806A6EB0"
+					"size"		"6B821ACE707703AAEB32629FE63D082C"
+					"download"		"AF394101CA6B4548494C827A234E7DDD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12036212"
+				"timeupdated"		"1693339250"
+			}
+			"alpha"
+			{
+				"buildid"		"12036212"
+				"description"		"Bigscreen alpha build"
+				"timeupdated"		"1693001080"
+			}
+			"alpha-2022"
+			{
+				"buildid"		"11815339"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690579858"
+			}
+			"alpha-brutalist"
+			{
+				"buildid"		"9814853"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666892437"
+			}
+			"alpha-gamepad"
+			{
+				"buildid"		"9247818"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659560880"
+			}
+			"alpha-pluto"
+			{
+				"buildid"		"10174723"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671428902"
+			}
+			"alpha-ui-2020"
+			{
+				"buildid"		"6684780"
+				"pwdrequired"		"1"
+				"timeupdated"		"1620775774"
+			}
+			"alpha-youtube"
+			{
+				"buildid"		"9003791"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656104683"
+			}
+			"alpha_arch5"
+			{
+				"buildid"		"8085469"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643148128"
+			}
+			"alpha_avatars"
+			{
+				"buildid"		"11258315"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684367027"
+			}
+			"alpha_friends"
+			{
+				"buildid"		"11926157"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691803058"
+			}
+			"beta"
+			{
+				"buildid"		"6466625"
+				"pwdrequired"		"1"
+				"timeupdated"		"1617239650"
+			}
+			"dev_internal"
+			{
+				"buildid"		"3954322"
+				"pwdrequired"		"1"
+				"timeupdated"		"1561496954"
+			}
+			"test-friends"
+			{
+				"buildid"		"11651303"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688749428"
+			}
+		}
+	}
+}
