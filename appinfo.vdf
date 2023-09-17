@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"719950"
+	"common"
+	{
+		"name"		"Windows Mixed Reality for SteamVR "
+		"section_type"		"ownersonly"
+		"type"		"Application"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"parent"		"250820"
+		"isplugin"		"1"
+		"controllervr"
+		{
+			"kbm"		"1"
+			"xinput"		"1"
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"clienticon"		"8d15f26d9052e07c28b629292005a78669e4e980"
+		"clienttga"		"78cd36fb6c33cbb856981b9417465fcd1af7aba0"
+		"icon"		"53631c300aebe62643d23abfbb0e07a364cb2a0f"
+		"logo"		"81b0a101736f0cd6c1083095f1b4e6ab8e5ab9ca"
+		"logo_small"		"81b0a101736f0cd6c1083095f1b4e6ab8e5ab9ca_thumb"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"719950_eula_0"
+				"name"		"Windows Mixed Reality for SteamVR  EULA"
+				"url"		"https://store.steampowered.com//eula/719950_eula_0"
+			}
+		}
+		"openvrsupport"		"1"
+		"metacritic_name"		"Windows Mixed Reality for SteamVR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1595351392"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Microsoft Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Microsoft Studios"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1525132380"
+		"community_hub_visible"		"1"
+		"gameid"		"719950"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+			"1"		"21978"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"aaalaunchredirect"		"250820"
+		"developer"		"Microsoft Studios"
+		"publisher"		"Microsoft Studios"
+		"homepage"		"http://aka.ms/WindowsMixedRealitySteamVR"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MixedRealityVRDriver"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\win64\\Launch.exe"
+				"arguments"		"250820"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"719951"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6407788757742854244"
+					"size"		"9287014"
+					"download"		"3374560"
+				}
+				"beta"
+				{
+					"gid"		"6407788757742854244"
+					"size"		"9287014"
+					"download"		"3374560"
+				}
+				"lkg_release"
+				{
+					"gid"		"8768264019415794719"
+					"size"		"9233126"
+					"download"		"3333040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"C6D914379E84B7828959D5A8578E6E9C"
+					"size"		"BA3A7327984697C38AEA80C025B633C7"
+					"download"		"4D0112F8AC6FE09D3705A1F44D9AA076"
+				}
+				"beta_internal"
+				{
+					"gid"		"EE2C4D4EB6C338299BC6ADE5C28DFBA5"
+					"size"		"767E372FD288F525E142176BD3EF8E0E"
+					"download"		"828C66F1B7A69CDB76C91F8C318500DC"
+				}
+				"remoting"
+				{
+					"gid"		"DD9E9A599A2C5322EA0A78606D10485F"
+					"size"		"7D243C25A3AD533E959F7B64AD326B05"
+					"download"		"D870128C3ACD364FEF1051A73F2FB31E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10420873"
+				"timeupdated"		"1677005108"
+			}
+			"alpha"
+			{
+				"buildid"		"10420873"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674849487"
+			}
+			"beta"
+			{
+				"buildid"		"10420873"
+				"description"		"public beta"
+				"timeupdated"		"1675442376"
+			}
+			"beta_internal"
+			{
+				"buildid"		"9168023"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658449674"
+			}
+			"lkg_release"
+			{
+				"buildid"		"7698163"
+				"timeupdated"		"1649320293"
+			}
+			"remoting"
+			{
+				"buildid"		"6960679"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625096380"
+			}
+		}
+	}
+}
