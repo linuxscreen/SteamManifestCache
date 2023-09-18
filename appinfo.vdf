@@ -1,0 +1,275 @@
+"appinfo"
+{
+	"appid"		"2445660"
+	"common"
+	{
+		"name"		"Shipping Manager"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"94f9fef000487e07ed5dfc0c9dc5f53e571b1896"
+		"clienticns"		"baf5c983a0f3c53390852dc04bbf4e08f40fe11c"
+		"linuxclienticon"		"aac5b05654a338eb5098f302727a956ee9b3e0f7"
+		"clienticon"		"bcda0d4534b9896d4a3861e145bc6b4deedd8b48"
+		"clienttga"		"467c71bda63ac3a6b0ba24901e3372c5624b6f05"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"51.86697782963827"
+				"height_pct"		"64.43837568273568"
+			}
+		}
+		"store_asset_mtime"		"1693218880"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Trophy Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Trophy Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1696057200"
+		"community_hub_visible"		"1"
+		"gameid"		"2445660"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"599"
+			"2"		"12472"
+			"3"		"1708"
+			"4"		"4695"
+			"5"		"220585"
+			"6"		"1643"
+			"7"		"8945"
+			"8"		"4364"
+			"9"		"4175"
+			"10"		"3813"
+			"11"		"21725"
+			"12"		"16689"
+			"13"		"3871"
+			"14"		"4791"
+			"15"		"4845"
+			"16"		"6310"
+			"17"		"6129"
+			"18"		"5673"
+			"19"		"6910"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Trophy Games"
+		"publisher"		"Trophy Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Shipping Manager"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"sm.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"1"
+			{
+				"executable"		"sm_sdl_steam.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2445661"
+		{
+		}
+		"2445662"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1557594202397035384"
+					"size"		"3362587"
+					"download"		"2399776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"EC75A5D50B84948BD556268D5EC52F18"
+					"size"		"36A7F8B5C0A47FAB9E1D5D5C2BA47387"
+					"download"		"AD55BF4C54040C076A4BEACF0B331896"
+				}
+			}
+		}
+		"2445663"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5166319700748535502"
+					"size"		"7044858"
+					"download"		"3668944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"EBDA215F7A392A888BDE506A2F4BF586"
+					"size"		"6ACB8D3D465F4D737EE28D12C52F1A8F"
+					"download"		"49ED73015E5DEE8F52A720D120BA54F5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11975545"
+				"timeupdated"		"1692364725"
+			}
+			"staging"
+			{
+				"buildid"		"11975581"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692364935"
+			}
+		}
+	}
+}
