@@ -77,8 +77,8 @@
 		"genres"
 		{
 			"0"		"1"
-			"1"		"37"
-			"2"		"23"
+			"1"		"23"
+			"2"		"37"
 		}
 		"category"
 		{
@@ -93,6 +93,7 @@
 			"category_25"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
+			"category_29"		"1"
 		}
 		"supported_languages"
 		{
@@ -211,9 +212,9 @@
 			"2"		"4036"
 			"3"		"1774"
 			"4"		"1775"
-			"5"		"4191"
-			"6"		"3839"
-			"7"		"3859"
+			"5"		"3859"
+			"6"		"4191"
+			"7"		"3839"
 			"8"		"4747"
 			"9"		"113"
 			"10"		"5765"
@@ -225,7 +226,7 @@
 			"16"		"492"
 			"17"		"3964"
 			"18"		"9130"
-			"19"		"7481"
+			"19"		"12095"
 		}
 		"review_score"		"8"
 		"review_percentage"		"93"
@@ -268,15 +269,15 @@
 			{
 				"public"
 				{
-					"gid"		"7740109160290075522"
-					"size"		"1254360238"
-					"download"		"343491968"
+					"gid"		"1554598283187640101"
+					"size"		"1270270929"
+					"download"		"344325600"
 				}
 				"beta"
 				{
-					"gid"		"7717382728906500991"
-					"size"		"1253211288"
-					"download"		"343438192"
+					"gid"		"1554598283187640101"
+					"size"		"1270270929"
+					"download"		"344325600"
 				}
 			}
 			"encryptedmanifests"
@@ -326,14 +327,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12153236"
-				"timeupdated"		"1694351483"
+				"buildid"		"12220669"
+				"timeupdated"		"1695085188"
 			}
 			"beta"
 			{
-				"buildid"		"12138789"
+				"buildid"		"12220668"
 				"description"		"testing updates before release"
-				"timeupdated"		"1694150634"
+				"timeupdated"		"1695085178"
 			}
 			"legacy"
 			{
@@ -365,6 +366,16 @@
 				"root"		"WinAppDataLocalLow"
 				"path"		"Redlabs/Redmatch 2/config"
 				"pattern"		"keybinds.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Redlabs/Redmatch 2/match_setting_presets"
+				"pattern"		"*.json"
 				"platforms"
 				{
 					"1"		"Windows"
