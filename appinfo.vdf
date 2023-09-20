@@ -28,51 +28,46 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1667606400"
-			"tested_build_id"		"9625603"
+			"test_timestamp"		"1694563200"
+			"tested_build_id"		"12156214"
 			"tests"
 			{
 				"0"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 				}
 				"1"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 				}
 				"2"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"3"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 				"4"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
-				}
-				"5"
-				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
 				}
 			}
 			"configuration"
 			{
 				"supported_input"		"gamepad"
-				"requires_manual_keyboard_invoke"		"1"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"1"
 				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
-				"requires_internet_for_singleplayer"		"0"
+				"requires_internet_for_singleplayer"		"1"
 				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
@@ -318,9 +313,9 @@
 			{
 				"public"
 				{
-					"gid"		"9151246740694082981"
-					"size"		"2853079839"
-					"download"		"1902843648"
+					"gid"		"4800626558374427049"
+					"size"		"2853080351"
+					"download"		"1902847184"
 				}
 			}
 			"encryptedmanifests"
@@ -333,9 +328,9 @@
 				}
 				"overseastest"
 				{
-					"gid"		"F94C316E613943D94E8E4FF71DC6B9CC"
-					"size"		"AD08985BEA5CAED793B8AEA90D743CDA"
-					"download"		"20C94541ABC7AAA9F56E704698555746"
+					"gid"		"FBF6715D4209030397C9A0B2BBDCBD6E"
+					"size"		"15A4E14D26CAD8904CE6DF7065D37974"
+					"download"		"ED544A852710402A9072CD93141BBF6D"
 				}
 				"patchtest"
 				{
@@ -361,9 +356,9 @@
 			{
 				"public"
 				{
-					"gid"		"3446113576740816687"
-					"size"		"2853079839"
-					"download"		"1902843648"
+					"gid"		"1733193070990764659"
+					"size"		"2853080351"
+					"download"		"1902847184"
 				}
 			}
 			"encryptedmanifests"
@@ -376,9 +371,9 @@
 				}
 				"overseastest"
 				{
-					"gid"		"6E412475A0CF4C209351EBDA631D518F"
-					"size"		"AD08985BEA5CAED793B8AEA90D743CDA"
-					"download"		"20C94541ABC7AAA9F56E704698555746"
+					"gid"		"B89DDB1F1B4462CF2A4646D76F3FD996"
+					"size"		"15A4E14D26CAD8904CE6DF7065D37974"
+					"download"		"ED544A852710402A9072CD93141BBF6D"
 				}
 				"patchtest"
 				{
@@ -474,8 +469,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12215075"
-				"timeupdated"		"1695035617"
+				"buildid"		"12233110"
+				"timeupdated"		"1695190203"
 			}
 			"betatest"
 			{
@@ -485,9 +480,9 @@
 			}
 			"overseastest"
 			{
-				"buildid"		"12215039"
+				"buildid"		"12232420"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695035326"
+				"timeupdated"		"1695182400"
 			}
 			"patchtest"
 			{
