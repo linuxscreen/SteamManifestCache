@@ -6,7 +6,7 @@
 		"name"		"CRSED"
 		"type"		"Game"
 		"oslist"		"windows,linux"
-		"osarch"		""
+		"osarch"		"64"
 		"logo"		"b90911f9c5f154c30bfe454266340a4bc58c6d02"
 		"logo_small"		"b90911f9c5f154c30bfe454266340a4bc58c6d02_thumb"
 		"icon"		"e4c07740f6f49341f830565c91e05bca0bb10d64"
@@ -227,7 +227,7 @@
 		"publisher"		"Gaijin Distribution KFT"
 		"homepage"		"https://crsed.net"
 		"isfreeapp"		"1"
-		"listofdlc"		"892580,997120,1142900,1142910,1142920,1168130,1168131,1207240,1249310,1486830,1486831,1486832,1486833,1486834,1486835,1486836,1611670,1698180,1830750,1901820,2139750"
+		"listofdlc"		"892580,997120,1142900,1142910,1142920,1168130,1168131,1207240,1249310,1486830,1486831,1486832,1486833,1486834,1486835,1486836,1611670,1698180,1830750,1901820,2139750,2561800"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -244,17 +244,6 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-				}
-			}
-			"1"
-			{
-				"executable"		"cuisine_royale_eac_launcher.exe"
-				"arguments"		" -eac_dir EasyAntiCheat/cuisine_royale -config:circuit:t=venus -game:cuisine_royale -circuit:venus -skip_pkg_validation -eac_launcher_settings Settings32.json"
-				"type"		"none"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"32"
 				}
 			}
 			"2"
@@ -283,15 +272,15 @@
 			{
 				"public"
 				{
-					"gid"		"1718797806433907572"
-					"size"		"12259925031"
-					"download"		"11642302544"
+					"gid"		"4385168285785681057"
+					"size"		"12979521602"
+					"download"		"11958123264"
 				}
 				"release_candidate"
 				{
-					"gid"		"3397309344379566909"
-					"size"		"12228036275"
-					"download"		"11615352208"
+					"gid"		"4385168285785681057"
+					"size"		"12979521602"
+					"download"		"11958123264"
 				}
 			}
 		}
@@ -312,15 +301,15 @@
 			{
 				"public"
 				{
-					"gid"		"5938552527146392947"
-					"size"		"207119325"
-					"download"		"43982976"
+					"gid"		"6211348605714643895"
+					"size"		"247816533"
+					"download"		"51704752"
 				}
 				"release_candidate"
 				{
-					"gid"		"8962034331998050110"
-					"size"		"182038189"
-					"download"		"38981008"
+					"gid"		"6211348605714643895"
+					"size"		"247816533"
+					"download"		"51704752"
 				}
 			}
 		}
@@ -328,14 +317,14 @@
 		{
 			"public"
 			{
-				"buildid"		"11349214"
-				"timeupdated"		"1685444094"
+				"buildid"		"12245349"
+				"timeupdated"		"1695291371"
 			}
 			"release_candidate"
 			{
-				"buildid"		"8359323"
+				"buildid"		"12245349"
 				"description"		"release candidate builds"
-				"timeupdated"		"1647081385"
+				"timeupdated"		"1695291325"
 			}
 		}
 	}
