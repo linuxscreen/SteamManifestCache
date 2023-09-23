@@ -1,0 +1,299 @@
+"appinfo"
+{
+	"appid"		"1168460"
+	"common"
+	{
+		"name"		"DRAGON QUEST BUILDERS 2 JUMBO DEMO"
+		"type"		"Demo"
+		"parent"		"1072420"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"japanese"		"ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島　たっぷり遊べる体験版"
+			"english"		"DRAGON QUEST BUILDERS 2 JUMBO DEMO"
+			"french"		"DRAGON QUEST BUILDERS 2 SUPER DÉMO"
+			"italian"		"DRAGON QUEST BUILDERS 2 - DEMO ENORME"
+			"german"		"DRAGON QUEST BUILDERS 2 XXL-DEMO"
+			"spanish"		"DRAGON QUEST BUILDERS 2 - MEGA DEMO"
+			"latam"		"DRAGON QUEST BUILDERS 2 - MEGA DEMO"
+			"tchinese"		"勇者鬥惡龍 創世小玩家２　破壞神席德與空蕩島　玩個過癮體驗版"
+			"koreana"		"드래곤 퀘스트 빌더즈 2 파괴신 시도와 텅 빈 섬 마음껏 플레이 체험판"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1168460_eula_0"
+				"name"		"DRAGON QUEST BUILDERS 2 JUMBO DEMO EULA"
+				"url"		"https://store.steampowered.com//eula/1168460_eula_0"
+			}
+		}
+		"clienticon"		"6fd041bacc5750d63f13df5f477225dd026b3386"
+		"clienttga"		"d71a76a18b94101e42fc686313950ef92d3c7b00"
+		"icon"		"ece056146b654af3232ff92ba7420fa87cdf39bb"
+		"logo"		"4cbd457c9f011eaa1d98f0ae22f5bbefd4818407"
+		"logo_small"		"4cbd457c9f011eaa1d98f0ae22f5bbefd4818407_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"DRAGON QUEST BUILDERS 2 JUMBO DEMO"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.69778296382731"
+				"height_pct"		"68.61790548563286"
+			}
+		}
+		"store_asset_mtime"		"1579856957"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Square Enix"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Square Enix"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"DRAGON QUEST"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1575478834"
+		"gameid"		"1168460"
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"demoofappid"		"1072420"
+		"developer"		"Square Enix"
+		"publisher"		"Square Enix"
+		"homepage"		"https://dragonquest.square-enix-games.com/builders2/en-gb/home/"
+	}
+	"config"
+	{
+		"installdir"		"DRAGON QUEST BUILDERS 2 JUMBO DEMO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GameLauncher.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Config.exe"
+				"description"		"Configuration"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"1915472210"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,beta,beta_dev"
+				"use_action_block"		"false"
+			}
+			"1915495487"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		"default,beta,beta_dev"
+				"use_action_block"		"false"
+			}
+			"1915495720"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,beta,beta_dev"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1168461"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"339033759355461059"
+					"size"		"3562543512"
+					"download"		"3379445872"
+				}
+			}
+		}
+		"baselanguages"		""
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6587007"
+				"timeupdated"		"1619600411"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"6291456000"
+		"maxnumfiles"		"60"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/DRAGON QUEST BUILDERS II TRIAL/Steam/{64BitSteamID}/SD/B00"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/DRAGON QUEST BUILDERS II TRIAL/Steam/{64BitSteamID}/SD/B01"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/DRAGON QUEST BUILDERS II TRIAL/Steam/{64BitSteamID}/SD/B02"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"3"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/DRAGON QUEST BUILDERS II TRIAL/Steam/{64BitSteamID}/SD/S00"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
