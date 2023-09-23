@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1744730"
+	"common"
+	{
+		"name"		"Firebird: Legend of the Crystal Goddesses Demo"
+		"type"		"Demo"
+		"parent"		"1743430"
+		"clienttga"		"b1d89a4a98208020c48b5608218fdb903d8997ec"
+		"clienticon"		"41a25a0c0d7273f301c07184f8b55b2f9753e98a"
+		"icon"		"d0f4ff7dae098933306fd5827066fce59928ae3d"
+		"clienticns"		"421b39d9398ea45bd398f823b32f6210ace8bb7b"
+		"linuxclienticon"		"c8128013fe93a83c5a8a2ca64317035d646add69"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1744730_eula_0"
+				"name"		"Firebird: Legend of the Crystal Goddesses Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1744730_eula_0"
+				"version"		"1"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"59.76744186046511"
+				"height_pct"		"67.09807646639752"
+			}
+		}
+		"store_asset_mtime"		"1630539257"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"171st Street Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"171st Street Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Firebird"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630616083"
+		"gameid"		"1744730"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1743430"
+		"developer"		"171st Street Games"
+		"publisher"		"171st Street Games"
+		"homepage"		"https://www.171stStreetGames.com"
+	}
+	"config"
+	{
+		"installdir"		"Firebird Legend of the Crystal Goddesses Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Game.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Game"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"1744731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1028905205383907417"
+					"size"		"1156312330"
+					"download"		"1075802384"
+				}
+			}
+		}
+		"1744732"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6399630560119355222"
+					"size"		"1168517001"
+					"download"		"1075776704"
+				}
+			}
+		}
+		"1744733"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2371229762661094547"
+					"size"		"1180763957"
+					"download"		"1078753760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9232047"
+				"timeupdated"		"1659383764"
+			}
+		}
+	}
+}
