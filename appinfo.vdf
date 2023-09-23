@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"1473940"
+	"common"
+	{
+		"name"		"MultiVerse"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"49aa9e48bb36ce029525904f6093a2bcce3dcde6"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+		}
+		"logo"		"670b52cd4e6657e23830e7acd8258d9b7ab91701"
+		"logo_small"		"670b52cd4e6657e23830e7acd8258d9b7ab91701_thumb"
+		"icon"		"bf58297057f93c853c39d9ae76dfa01af1e53883"
+		"clienticon"		"7cf3a69aa968a4b309a47a42226a7acb92594e06"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.23255813953489"
+				"height_pct"		"64.66397530277845"
+			}
+		}
+		"store_asset_mtime"		"1646347569"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hero Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hero Studio"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1625122800"
+		"steam_release_date"		"1647690044"
+		"community_hub_visible"		"1"
+		"gameid"		"1473940"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"13782"
+			"2"		"5395"
+			"3"		"620519"
+			"4"		"4255"
+			"5"		"4191"
+			"6"		"4747"
+			"7"		"7368"
+			"8"		"128"
+			"9"		"3859"
+			"10"		"4182"
+			"11"		"21"
+			"12"		"4106"
+			"13"		"176981"
+			"14"		"4158"
+			"15"		"3834"
+			"16"		"1663"
+			"17"		"8666"
+			"18"		"113"
+			"19"		"1775"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"Hero Studio"
+		"publisher"		"Hero Studio"
+		"homepage"		"https://sites.google.com/view/mvo10"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"hero"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MultiVerse.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"1473941"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"311761995939396399"
+					"size"		"9550091598"
+					"download"		"9130314080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"86B090E67C3F4CF2869421AF3F05AEFF"
+					"size"		"F61BD6A9B09C48D3FE02124535D27F96"
+					"download"		"2A007B6D7EB5B644EBC15274921D3671"
+				}
+			}
+		}
+		"1473942"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8911017"
+				"timeupdated"		"1654858719"
+			}
+			"alpha"
+			{
+				"buildid"		"8259314"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645621717"
+			}
+		}
+	}
+}
