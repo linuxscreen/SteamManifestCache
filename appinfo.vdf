@@ -1,0 +1,212 @@
+"appinfo"
+{
+	"appid"		"1486350"
+	"common"
+	{
+		"name"		"VRoid Studio"
+		"type"		"Application"
+		"logo"		"cf0a840083299765956df31dab6842c87d1713ef"
+		"logo_small"		"cf0a840083299765956df31dab6842c87d1713ef_thumb"
+		"icon"		"073fad6ef8835699852ba5653f04c69122080e6f"
+		"clienttga"		"1b8b1f16196ddd288477c0c07c08c70dd240507d"
+		"clienticon"		"7e8e6b042ba15dcd5238bda279d8c9c02ceb53ce"
+		"clienticns"		"071a0225714b837b2273cba71c40b00d01177002"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1486350_eula_0"
+				"name"		"VRoid Studio EULA"
+				"url"		"https://store.steampowered.com//eula/1486350_eula_0"
+				"version"		"7"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658534400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"76.37963268448257"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1694067279"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"pixiv Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"pixiv Inc."
+			}
+		}
+		"primary_genre"		"51"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"51"
+			"2"		"53"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1608782418"
+		"community_hub_visible"		"1"
+		"gameid"		"1486350"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"872"
+			"2"		"4085"
+			"3"		"84"
+			"4"		"4747"
+			"5"		"8013"
+			"6"		"4182"
+			"7"		"1751"
+			"8"		"21978"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"pixiv Inc."
+		"publisher"		"pixiv Inc."
+		"homepage"		"https://vroid.com/studio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"VRoid Studio"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VRoidStudio.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"VRoidStudio.app\\Contents\\MacOS\\VRoid Studio"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"1486351"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3279818178503899231"
+					"size"		"1030702126"
+					"download"		"509706592"
+				}
+			}
+		}
+		"1486352"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"323582773646066566"
+					"size"		"1050177372"
+					"download"		"513076576"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12235135"
+				"timeupdated"		"1695276002"
+			}
+		}
+	}
+}
