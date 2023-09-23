@@ -1,0 +1,171 @@
+"appinfo"
+{
+	"appid"		"217470"
+	"common"
+	{
+		"name"		"Intrusion 2 Demo"
+		"type"		"Demo"
+		"logo"		"e9e9f648eff33732e542ad4cba9ecf6c9b3c0d3e"
+		"logo_small"		"e9e9f648eff33732e542ad4cba9ecf6c9b3c0d3e_thumb"
+		"icon"		"9947d871a4cda7f0483ce64c62358dbcfb333228"
+		"clienticon"		"9f0633126beb7d790f248e2fe1c5e7e2724b4b70"
+		"clienttga"		"3e4de319ace301dc4da8ebee32dc39b522ca3e27"
+		"freeondemand"		"1"
+		"oslist"		"windows,linux"
+		"metacritic_name"		"Intrusion 2 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1347379531"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aleksey Abramenko"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1347379380"
+		"community_visible_stats"		"1"
+		"gameid"		"217470"
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Aleksey Abramenko"
+		"gamedir"		"Intrustion II Demo"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Intrusion 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"intrusion2.exe"
+				"description"		"Windows launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"intrusion2"
+				"description"		"Normal launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"installscriptsignature"		"197be660d07dedb4a4c74de09ea5f70a5c459a26c61e27173ea77cee8299cee6bdc9c85d09f034ec161c898441c2c74fcfc51f8536422c6f3b6aaa41fec2322896b199251cc961344d38c6c66df4725c4318eb016afb05e6a019e510bc14de180f897b3e9d885cac4d3c6d5fbe432c579479520747da5261005f8ecbca5f165a"
+		"installscriptoverride"		"1"
+	}
+	"install"
+	{
+		"registry"
+		{
+			"hkey_local_machine\software\vapgames\intrusion2demo"
+			{
+				"string"
+				{
+					"install_path"		"%INSTALLDIR%"
+					"exe_path"		"%INSTALLDIR%\\intrusion2.exe"
+				}
+			}
+		}
+		"run process"
+		{
+			"directx"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\217470"
+				"process 1"		"%INSTALLDIR%\\DirectX\\DXSETUP.exe"
+				"command 1"		"/silent"
+				"nocleanup"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"217471"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2901009566897472603"
+					"size"		"65461275"
+					"download"		"0"
+				}
+			}
+		}
+		"217472"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1058042936172734406"
+					"size"		"69023511"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"preloadonly"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"44161"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1"
+		"appidredirect"		"214970"
+	}
+}
