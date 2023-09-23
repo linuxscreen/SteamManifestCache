@@ -1,0 +1,165 @@
+"appinfo"
+{
+	"appid"		"1677820"
+	"common"
+	{
+		"name"		"HAAK 免费试玩版"
+		"type"		"Demo"
+		"parent"		"1352930"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"cfe4e40ba54a7948b61e6f0100d4ffac20c2701f"
+		"clienticon"		"bc952a9cb3cd077cbe8368f0c639a8c0fde4dcab"
+		"icon"		"282b2bd455a775b831d162441b226658fe070ba7"
+		"name_localized"
+		{
+			"english"		"HAAK Free Demo"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.310729921793936"
+				"height_pct"		"51.800309554872875"
+			}
+		}
+		"store_asset_mtime"		"1632967427"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Blingame"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lightning Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Lightning Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625635464"
+		"gameid"		"1677820"
+	}
+	"extended"
+	{
+		"demoofappid"		"1352930"
+		"developer"		"Blingame"
+		"publisher"		"Lightning Games"
+		"homepage"		"http://haakgame.com"
+	}
+	"config"
+	{
+		"installdir"		"HAAK Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"haak.exe"
+				"type"		"none"
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"1677821"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6249127668846480722"
+					"size"		"1064392721"
+					"download"		"184702368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"tdemo"
+				{
+					"gid"		"3DB82FF4E1981FFF01FB8D744608A2BE"
+					"size"		"FB99709A2FF3C17EC6C9399CF11EF5FB"
+					"download"		"ED2FF38037D7DD2A3E5DC5C22364830A"
+				}
+			}
+		}
+		"baselanguages"		"english,koreana,schinese,tchinese,russian,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9583987"
+				"timeupdated"		"1664021379"
+			}
+			"tdemo"
+			{
+				"buildid"		"9583987"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664021325"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"67108864"
+		"maxnumfiles"		"16"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"blingame/haakspt324/Luxko.Serde"
+				"pattern"		"slot*.haaks"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"blingame/haakspt324/Luxko.Serde"
+				"pattern"		"_b*.haaks"
+			}
+		}
+		"appidredirect"		"1352930"
+	}
+}
