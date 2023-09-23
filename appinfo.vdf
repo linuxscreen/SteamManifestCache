@@ -1,0 +1,138 @@
+"appinfo"
+{
+	"appid"		"1216170"
+	"common"
+	{
+		"name"		"SCP: Fragmented Minds Demo"
+		"type"		"Demo"
+		"parent"		"1184790"
+		"clienticon"		"e6490eff1d444b8a054465e6b587807bc402ea89"
+		"clienttga"		"e569151427df2e9691f1fc5ee36bd89dfee77d03"
+		"icon"		"e5cba50d875862fe948cc3886323adc3c4c32dd4"
+		"clienticns"		"e6490eff1d444b8a054465e6b587807bc402ea89"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"20.08403361344537"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1659458374"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HST Studios LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HST Studios LLC"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592275618"
+		"gameid"		"1216170"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1184790"
+		"developer"		"HST Studios LLC"
+		"publisher"		"HST Studios LLC"
+	}
+	"config"
+	{
+		"installdir"		"SCP Fragmented Minds Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Windows\\FragmentedMinds.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launches FM Demo"
+				}
+				"description"		"Launches FM Demo"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1216172"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8718698538687267303"
+					"size"		"10449454821"
+					"download"		"10135049424"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9341360"
+				"timeupdated"		"1660840941"
+			}
+		}
+	}
+}
