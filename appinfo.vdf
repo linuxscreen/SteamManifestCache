@@ -1,0 +1,125 @@
+"appinfo"
+{
+	"appid"		"1678380"
+	"common"
+	{
+		"name"		"自動切るクリップ Demo"
+		"type"		"Demo"
+		"parent"		"1632800"
+		"releasestate"		"released"
+		"clienttga"		"9145e8b6f42eed29ce4efe284b72cd96312efc80"
+		"clienticon"		"51581b9be1e5e3c23e928d563247b94c92a805fd"
+		"icon"		"801c8db7781cc936d07a80a2963401645c340db9"
+		"name_localized"
+		{
+			"english"		"Auto Montage Demo"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1659285048"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Twilight Wings Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Twilight Wings Studio"
+			}
+		}
+		"steam_release_date"		"1625099115"
+		"gameid"		"1678380"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1632800"
+		"developer"		"Twilight Wings Studio"
+		"publisher"		"Twilight Wings Studio"
+	}
+	"config"
+	{
+		"installdir"		"AutoMontageDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AutoMontage.exe"
+				"arguments"		"27c40425bfe84842a5b87ab4e3bc9f4d1020d43f65c5ee65a68396e8e04aed4a2634be2556686ceb0baeca17d07cee74"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1678381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3405890831912992757"
+					"size"		"223838955"
+					"download"		"75621088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"E537AC54FA3CAD6869E75C0E7A0595D1"
+					"size"		"9FA1B3F050D6CBBDE2B65E322FB01D69"
+					"download"		"DB28F555173C1CC5E26EF4062AC0657D"
+				}
+			}
+		}
+		"baselanguages"		"english,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11234198"
+				"timeupdated"		"1684152519"
+			}
+			"test"
+			{
+				"buildid"		"11234198"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684152196"
+			}
+		}
+	}
+}
