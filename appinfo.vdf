@@ -1,0 +1,113 @@
+"appinfo"
+{
+	"appid"		"35710"
+	"common"
+	{
+		"name"		"Trine Demo"
+		"logo"		"b4cc556db2d1101effb23e576aaeeb3b799157c6"
+		"logo_small"		"b4cc556db2d1101effb23e576aaeeb3b799157c6_thumb"
+		"icon"		"298185d8ef9d688fe96a5fa15ee8174892f1c000"
+		"clienttga"		"87afb9453c48ac0067ae3c08af1cfb6b1120bf56"
+		"clienticon"		"04bab7fcd0ca6609a4dd1077289c4c2dfc141895"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"parent"		"35700"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Frozenbyte"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Frozenbyte"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1246049220"
+		"gameid"		"35710"
+	}
+	"extended"
+	{
+		"demoofappid"		"35700"
+		"developer"		"Frozenbyte"
+		"gamedir"		"Trine Demo"
+		"homepage"		"http://www.trine-thegame.com/"
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"noservers"		"1"
+		"onquitdemoshellexecute"		"steam://store/35700"
+		"order"		"1"
+		"primarycache"		"35711"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Frozenbyte"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Trine Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"trine_launcher.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"35711"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"540505165044823132"
+					"size"		"493617378"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13185"
+			}
+		}
+	}
+}
