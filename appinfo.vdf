@@ -1,0 +1,132 @@
+"appinfo"
+{
+	"appid"		"2176480"
+	"common"
+	{
+		"name"		"A.D.K. Demo"
+		"type"		"Demo"
+		"parent"		"953120"
+		"icon"		"a575c878894ee5ea04604221f2ff84c2c1a6e996"
+		"clienttga"		"3455113b6a3bd5fdf98a76c2d31c8e66adf1a45d"
+		"clienticon"		"3e196b2e3571d48ee4a89dc83c9dfe7dbef597ca"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1664891093"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rabbit Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mario Andronico"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Erik Andronico"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1665659140"
+		"gameid"		"2176480"
+	}
+	"extended"
+	{
+		"demoofappid"		"953120"
+		"developer"		"Rabbit Studios"
+		"publisher"		"Mario Andronico"
+	}
+	"config"
+	{
+		"installdir"		"A.D.K. Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ADK.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2176481"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6654959973215116949"
+					"size"		"6019661428"
+					"download"		"5691669872"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9692940"
+				"timeupdated"		"1665438658"
+			}
+		}
+	}
+}
