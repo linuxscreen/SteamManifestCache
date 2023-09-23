@@ -1,0 +1,306 @@
+"appinfo"
+{
+	"appid"		"533780"
+	"common"
+	{
+		"name"		"Zombie Defense"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"clienttga"		"2f9be0f3bd503ca19bb789f30ba9dae7e38372ae"
+		"clienticon"		"133503dcb45e1b5365a9b3145bdfc5dd256eb223"
+		"clienticns"		"59ded39c689269eec3e20072dc09914318d4d384"
+		"linuxclienticon"		"4dea014cd13f32887e08a78f9698591a2f6e70ea"
+		"logo"		"6a646d31c0da811de39dbb7ec913be9418828da3"
+		"logo_small"		"6a646d31c0da811de39dbb7ec913be9418828da3_thumb"
+		"icon"		"c790cda413130480207704190f4e7f762bd215a4"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"metacritic_name"		"Zombie Defense"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1569845483"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Home Net Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Home Net Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1475230469"
+		"community_hub_visible"		"1"
+		"gameid"		"533780"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1659"
+			"2"		"1645"
+			"3"		"9"
+			"4"		"1662"
+			"5"		"3859"
+			"6"		"19"
+			"7"		"597"
+			"8"		"492"
+			"9"		"4182"
+			"10"		"1667"
+			"11"		"1676"
+			"12"		"1774"
+			"13"		"1685"
+			"14"		"4791"
+			"15"		"3871"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Home Net Games"
+		"publisher"		"Home Net Games"
+		"homepage"		"http://www.homenetgames.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Zombie Defense"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ZombieDefense.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ZombieDefenseOSX.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"ZombieDefense.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"533781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3955789862500972414"
+					"size"		"184102377"
+					"download"		"46256512"
+				}
+				"ver12.7"
+				{
+					"gid"		"6285303244527482214"
+					"size"		"158219420"
+					"download"		"38627776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"01B79F651F328EB25881DE019D3341C7"
+					"size"		"A9D7468E69434715F5AD3428DFE60EAA"
+					"download"		"6CD95AC8458BA6D16D48CBB9ED63D2A1"
+				}
+			}
+		}
+		"533782"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8460188246565825393"
+					"size"		"210477939"
+					"download"		"55856448"
+				}
+				"ver12.7"
+				{
+					"gid"		"4368022106194976547"
+					"size"		"179384960"
+					"download"		"45746736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D875845856315E8CFD6D2EA7A1F9DB28"
+					"size"		"C5C220D5DC41CE2DC3971AC35AB6003F"
+					"download"		"67DD5AF9198AD31E9EDD83BE5348C360"
+				}
+			}
+		}
+		"533783"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6515696184836485324"
+					"size"		"187169654"
+					"download"		"46709008"
+				}
+				"ver12.7"
+				{
+					"gid"		"7747534400953016903"
+					"size"		"172034727"
+					"download"		"43179824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9C48DD1203C586ECB1125CF2CA7CD2A2"
+					"size"		"94941550D5159F921704FA9CF4D55240"
+					"download"		"478F3077155FE04F7870CF12DC94DBBC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10173429"
+				"timeupdated"		"1671439067"
+			}
+			"beta"
+			{
+				"buildid"		"10173429"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671404341"
+			}
+			"ver12.7"
+			{
+				"buildid"		"5080761"
+				"description"		"compability version 12.7"
+				"timeupdated"		"1631700130"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+	}
+}
