@@ -1,0 +1,233 @@
+"appinfo"
+{
+	"appid"		"1752430"
+	"common"
+	{
+		"name"		"Friends of little Yus"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"fe3e7cb5f6971e448e32192eef4ba522f5720351"
+		"clienttga"		"a487ca85d321a604be6f2bb947d87b2458a4142c"
+		"icon"		"a22b7ae8a8775c60f821627cfe754f6898ca50ce"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"700d29748c607987201689cc558a027a251b4d76"
+		"logo_small"		"700d29748c607987201689cc558a027a251b4d76_thumb"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1631271355"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"friendsoflittleyus"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"friendsoflittleyus"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1632735374"
+		"community_hub_visible"		"1"
+		"gameid"		"1752430"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"597"
+			"2"		"699"
+			"3"		"4106"
+			"4"		"5379"
+			"5"		"3871"
+			"6"		"3964"
+			"7"		"5608"
+			"8"		"113"
+			"9"		"492"
+			"10"		"493"
+			"11"		"5154"
+			"12"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"friendsoflittleyus"
+		"publisher"		"friendsoflittleyus"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Friends of little Yus"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"foly.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"foly.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1752431"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2007520872991460976"
+					"size"		"32563056"
+					"download"		"9263104"
+				}
+				"helios"
+				{
+					"gid"		"4167581849475509048"
+					"size"		"32108160"
+					"download"		"9261760"
+				}
+				"radians"
+				{
+					"gid"		"8402243291034294377"
+					"size"		"30323520"
+					"download"		"8776688"
+				}
+				"test"
+				{
+					"gid"		"2719271861940924058"
+					"size"		"32283344"
+					"download"		"9264176"
+				}
+			}
+		}
+		"1752432"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5017185746580678153"
+					"size"		"53825806"
+					"download"		"12594336"
+				}
+				"helios"
+				{
+					"gid"		"1129582663038514025"
+					"size"		"53370910"
+					"download"		"12592992"
+				}
+				"radians"
+				{
+					"gid"		"2730058196716507716"
+					"size"		"51904969"
+					"download"		"12132336"
+				}
+				"test"
+				{
+					"gid"		"4484917358645458575"
+					"size"		"53546094"
+					"download"		"12595408"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9615162"
+				"timeupdated"		"1664433354"
+			}
+			"helios"
+			{
+				"buildid"		"9567374"
+				"description"		"Public Helios branch"
+				"timeupdated"		"1663827164"
+			}
+			"radians"
+			{
+				"buildid"		"7500375"
+				"description"		"Public Radians branch"
+				"timeupdated"		"1657197543"
+			}
+			"test"
+			{
+				"buildid"		"9576577"
+				"description"		"Branch for testing new features"
+				"timeupdated"		"1663924111"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
