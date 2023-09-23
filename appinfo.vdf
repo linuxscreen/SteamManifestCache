@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"1730400"
+	"common"
+	{
+		"name"		"Your Show Has Been Cancelled Demo"
+		"type"		"Demo"
+		"parent"		"1730390"
+		"clienticon"		"db09925bed58ad18b08e5d7080b71b30d7e5cd77"
+		"clienttga"		"7f9974d04923b611ea06e088b6fb7e463902c849"
+		"icon"		"8daa25f468edba596a64b5f08e6acd4d639b5ba8"
+		"clienticns"		"f222ad6bd44990c6017b61be04a7dcf76cce5922"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"4a95d7f417979ec8760e61d3afc9a1657ddedcf6"
+		"logo_small"		"4a95d7f417979ec8760e61d3afc9a1657ddedcf6_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"60.10448824507243"
+			}
+		}
+		"store_asset_mtime"		"1629562028"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Christopher Hahn"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Christopher Hahn"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629948526"
+		"gameid"		"1730400"
+	}
+	"extended"
+	{
+		"demoofappid"		"1730390"
+		"developer"		"Christopher Hahn"
+		"publisher"		"Christopher Hahn"
+		"homepage"		"https://stormyman.itch.io/your-show-has-been-cancelled-demo"
+	}
+	"config"
+	{
+		"installdir"		"Your Show Has Been Cancelled Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"YourShowHasBeenCancelledDemo\\YourShowHasBeenCancelledDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"The Game (Windows)"
+				}
+				"description"		"The Game (Windows)"
+			}
+			"1"
+			{
+				"executable"		"YourShowHasBeenCancelledDemo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"The Game (Mac)"
+				}
+				"description"		"The Game (Mac)"
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2586481621"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"1730402"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3124970709371787093"
+					"size"		"291072292"
+					"download"		"163135264"
+				}
+			}
+		}
+		"1730403"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5787377113408905099"
+					"size"		"314053714"
+					"download"		"170204688"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10238637"
+				"timeupdated"		"1672547347"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Christopher Hahn\\YourShowHasBeenCancelledDemo"
+				"pattern"		"*.show"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Christopher Hahn\\YourShowHasBeenCancelledDemo"
+						"replace"		"com.ChristopherHahn.YourShowHasBeenCancelledDemo"
+					}
+				}
+			}
+		}
+		"appidredirect"		"1730390"
+	}
+}
