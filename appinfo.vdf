@@ -1,0 +1,131 @@
+"appinfo"
+{
+	"appid"		"2473490"
+	"common"
+	{
+		"name"		"Tactical Squad – SWAT Stories: First Shot Playtest"
+		"type"		"Beta"
+		"parent"		"2428730"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"dbc3e6fa227a0e5097d9ff03ac73bc1bc50f7c78"
+		"clienticon"		"0ecc09212cc69fc18255a91d1b6afa8ae77ad538"
+		"clienttga"		"8026b39eef72978e6b7485c05451689942ee78f6"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"54.3913711340308"
+				"height_pct"		"56.41232147019636"
+			}
+		}
+		"store_asset_mtime"		"1686762119"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1689585463"
+		"community_hub_visible"		"1"
+		"gameid"		"2473490"
+		"exfgls"		"1"
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"playtest_type"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tactical Squad - SWAT Stories - First Shot Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TacticalSquad.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Default playtest launch"
+				}
+				"description"		"Default playtest launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2473492"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6221819075265754931"
+					"size"		"12753930669"
+					"download"		"12203919168"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12016037"
+				"timeupdated"		"1693236240"
+			}
+		}
+	}
+}
