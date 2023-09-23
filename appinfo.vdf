@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"2265230"
+	"common"
+	{
+		"name"		"Yet Another Zombie Survivors Demo"
+		"type"		"Demo"
+		"parent"		"2163330"
+		"clienttga"		"9933b9049a82fe6755439d04d43cbf877937e6e0"
+		"clienticon"		"622a676d9622056b24fd85f24d91c35bf7a7df4c"
+		"icon"		"3a95a37789111df594461a0c5a6f28487e1e565c"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"67.16713603849058"
+				"height_pct"		"91.31944444444444"
+			}
+		}
+		"store_asset_mtime"		"1683555109"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Awesome Games Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Awesome Games Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1675440866"
+		"gameid"		"2265230"
+	}
+	"extended"
+	{
+		"demoofappid"		"2163330"
+		"developer"		"Awesome Games Studio"
+		"publisher"		"Awesome Games Studio"
+	}
+	"config"
+	{
+		"installdir"		"Yet Another Zombie Survivors Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Yet Another Zombie Survivors.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"2265231"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4638226622384228206"
+					"size"		"3704914567"
+					"download"		"986055104"
+				}
+				"previousdemobuild"
+				{
+					"gid"		"7942273748494905877"
+					"size"		"1973899757"
+					"download"		"491842016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"1F9BAC3F7D3421327BF993EB640AB61F"
+					"size"		"5DEE1DF9B4441BB73D66C8B3A3B66BE6"
+					"download"		"3F9456A9B4E47DDCAAE083BD6CDB710D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11693133"
+				"timeupdated"		"1689249184"
+			}
+			"developer"
+			{
+				"buildid"		"11693133"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689247228"
+			}
+			"previousdemobuild"
+			{
+				"buildid"		"10507112"
+				"description"		"Previous Demo Version"
+				"timeupdated"		"1687361814"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"5"
+	}
+}
