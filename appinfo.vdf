@@ -1,0 +1,156 @@
+"appinfo"
+{
+	"appid"		"334660"
+	"common"
+	{
+		"name"		"NEKOPARA Vol. 1 Demo"
+		"type"		"Demo"
+		"parent"		"333600"
+		"clienticon"		"6ace564bb27ab1c0d5ea5343a0620d2e065b56af"
+		"clienttga"		"4d2b34e3069f78684356db1d10b74090732cf585"
+		"icon"		"dc8a35b04deece2b870c4ea8c5e46283d822932e"
+		"oslist"		"windows"
+		"logo"		"98672426502c14d4e5375ca4ad8e1fa52bea8687"
+		"logo_small"		"98672426502c14d4e5375ca4ad8e1fa52bea8687_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"NEKOPARA Vol. 1 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"41.32578582479769"
+				"height_pct"		"87.5"
+			}
+		}
+		"store_asset_mtime"		"1572299478"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NEKO WORKs"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sekai Project"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"71"
+			"1"		"72"
+			"2"		"4"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1416596850"
+		"gameid"		"334660"
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"demoofappid"		"333600"
+		"developer"		"NEKO WORKs"
+		"publisher"		"Sekai Project"
+		"homepage"		"https://sekaiproject.com/portfolio/nekopara-vol-1/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"NEKOPARA Vol. 1 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"nekopara_vol1_trial.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"334661"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"74515645417582893"
+					"size"		"1082855876"
+					"download"		"370191856"
+				}
+			}
+		}
+		"baselanguages"		"english,tchinese,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"468641"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000000"
+		"maxnumfiles"		"100"
+	}
+}
