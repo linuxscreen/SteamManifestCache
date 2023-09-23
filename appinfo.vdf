@@ -1,0 +1,177 @@
+"appinfo"
+{
+	"appid"		"1726600"
+	"common"
+	{
+		"name"		"Zen: A Gay Sequel Demo"
+		"type"		"Demo"
+		"parent"		"1724600"
+		"clienticon"		"a84e54348a4840cdb03b084a33adc766933cfbef"
+		"clienttga"		"e7f32c05d169fe0b5a8d89ca83e827a108695740"
+		"icon"		"c27e1a0018e70129f5bb84c8684d62989c4ed46e"
+		"clienticns"		"8cc4eb641844af32f8191ec6687f950b166252d3"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.22727272727273"
+				"height_pct"		"88.80597014925372"
+			}
+		}
+		"store_asset_mtime"		"1629169019"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"bobcgames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Project Ensō"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"A Gay Series"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630595207"
+		"gameid"		"1726600"
+	}
+	"extended"
+	{
+		"demoofappid"		"1724600"
+		"developer"		"bobcgames"
+		"publisher"		"Project Ensō"
+	}
+	"config"
+	{
+		"installdir"		"Zen A Gay Sequel Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ZAGS-demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"ZAGS-demo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"ZAGS-demo.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"1726601"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2627409534621256597"
+					"size"		"285991915"
+					"download"		"198347584"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7188004"
+				"timeupdated"		"1628890461"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"500"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*"
+			}
+		}
+	}
+}
