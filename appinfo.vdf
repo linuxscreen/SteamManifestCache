@@ -1,0 +1,104 @@
+"appinfo"
+{
+	"appid"		"1722650"
+	"common"
+	{
+		"name"		"Door3:Insignia Demo"
+		"type"		"Demo"
+		"parent"		"1720790"
+		"clienttga"		"889be3a0409ff7e74422edfbaf1d037d0def3580"
+		"clienticon"		"0a51ca33869dc957d0e0cbe9919de31612b3e0c2"
+		"icon"		"2793158f1de73375de556f86c89e5d85f95fcb06"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"62.488174077578044"
+			}
+		}
+		"store_asset_mtime"		"1629367214"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SVGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SVGames"
+			}
+		}
+		"steam_release_date"		"1629624369"
+		"gameid"		"1722650"
+	}
+	"extended"
+	{
+		"demoofappid"		"1720790"
+		"developer"		"SVGames"
+		"publisher"		"SVGames"
+	}
+	"config"
+	{
+		"installdir"		"Door3Insignia Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Door3.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1722651"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7368606716435781429"
+					"size"		"694396617"
+					"download"		"153586672"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7200183"
+				"timeupdated"		"1629169305"
+			}
+		}
+	}
+}
