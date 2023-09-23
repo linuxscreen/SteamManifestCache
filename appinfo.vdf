@@ -1,0 +1,156 @@
+"appinfo"
+{
+	"appid"		"1127780"
+	"common"
+	{
+		"name"		"Daymare: 1998 Demo"
+		"type"		"Demo"
+		"parent"		"842100"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"5cc886193711a0abd55562ec8cbc21c0faec2d5b"
+		"logo_small"		"5cc886193711a0abd55562ec8cbc21c0faec2d5b_thumb"
+		"icon"		"73c5cf8bd8d313164b22a1349491d95c5427f731"
+		"clienticon"		"6ae483bdb9e138bc52fdb89cc41c3cec130a5347"
+		"clienttga"		"526763a9045fe749be2d07bd4ec791a4b83cb64a"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Daymare: 1998 Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1567514507"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Invader Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Destructive Creations"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"All in! Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1565773727"
+		"community_hub_visible"		"1"
+		"gameid"		"1127780"
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"demoofappid"		"842100"
+		"developer"		"Invader Studios"
+		"publisher"		"Destructive Creations"
+		"homepage"		"https://www.daymarethegame.com"
+	}
+	"config"
+	{
+		"installdir"		"Daymare 1998 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Daymare_MASTER.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1127781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5852475177574653132"
+					"size"		"6807301449"
+					"download"		"6692090448"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4217359"
+				"timeupdated"		"1569067876"
+			}
+		}
+	}
+}
