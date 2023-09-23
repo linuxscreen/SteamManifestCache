@@ -1,0 +1,254 @@
+"appinfo"
+{
+	"appid"		"1669280"
+	"common"
+	{
+		"name"		"60 Seconds! Reatomized Demo"
+		"type"		"Demo"
+		"parent"		"1012880"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienttga"		"c502a650c09b263386f44c268ee110e5eb084b6b"
+		"clienticon"		"4567d9a30faa8d2d5becc5c4bec16a5978155407"
+		"icon"		"9a004a1a6e0cf37b1bd4cb6c5f60f9166bdf235e"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1669280_eula_0"
+				"name"		"60 Seconds! Reatomized Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1669280_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1631606222"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Robot Gentleman"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" Robot Gentleman"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"60"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642415396"
+		"gameid"		"1669280"
+	}
+	"extended"
+	{
+		"demoofappid"		"1012880"
+		"developer"		"Robot Gentleman"
+		"publisher"		" Robot Gentleman"
+		"homepage"		"http://60secondsgame.com"
+	}
+	"config"
+	{
+		"installdir"		"60 Seconds! Reatomized Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"60SecondsReatomized.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"60SecondsReatomized.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1669281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1466769295175380269"
+					"size"		"2698582194"
+					"download"		"515107552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"jenkins_dev"
+				{
+					"gid"		"66D0A48AEDCC04C552CA80B2DB5B870B"
+					"size"		"04DB29AC530B874D9BDBC718E39CEB44"
+					"download"		"7919021A9768FEA77A62ECFB951BAB44"
+				}
+				"jenkins_release"
+				{
+					"gid"		"F94B21418EEF48008C4AD9291AB2FE40"
+					"size"		"A30830A60D485BBE89E70DCA8F0ABAE1"
+					"download"		"E4CAEDD1FAA96396BA176AFBB0B90F83"
+				}
+			}
+		}
+		"1669282"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2821924492992623527"
+					"size"		"2722560684"
+					"download"		"521982912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"jenkins_dev"
+				{
+					"gid"		"4B6F8D1C00ECC61FE72C1035B2DDD8AC"
+					"size"		"FA90E4D08B5BE7AFB1429B61458108EF"
+					"download"		"D6C756D90A622FE5AD8583B1C1C5D824"
+				}
+				"jenkins_release"
+				{
+					"gid"		"39883BE1109565CD389DF352C78C853B"
+					"size"		"2287C59568C5598E89863BA57BA1FF0B"
+					"download"		"DEB7F55322E8FC4011035E2984706B48"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9899500"
+				"timeupdated"		"1667989288"
+			}
+			"jenkins_dev"
+			{
+				"buildid"		"7559958"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634722656"
+			}
+			"jenkins_release"
+			{
+				"buildid"		"9899500"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667984449"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"209715200"
+		"maxnumfiles"		"10"
+		"appidredirect"		"1012880"
+	}
+}
