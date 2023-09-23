@@ -1,0 +1,157 @@
+"appinfo"
+{
+	"appid"		"2101220"
+	"common"
+	{
+		"name"		"书之旅人 Story Walker"
+		"type"		"Game"
+		"icon"		"022ed2570042fc0e0f90bf4ec0918ba1c1a0d88f"
+		"clienticon"		"90e5df4750aa0f4f70db810a58693615d29d9b08"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-xc,en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"31.987295825771355"
+				"height_pct"		"73.61111111111111"
+			}
+		}
+		"store_asset_mtime"		"1658835494"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KARELITSUN薰"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KARELITSUN薰"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1660327763"
+		"community_hub_visible"		"1"
+		"gameid"		"2101220"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"4231"
+			"2"		"5395"
+			"3"		"4975"
+			"4"		"4195"
+			"5"		"1684"
+			"6"		"113"
+			"7"		"15172"
+			"8"		"122"
+			"9"		"492"
+			"10"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"KARELITSUN薰"
+		"publisher"		"KARELITSUN薰"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"StoryWalker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StoryWalker.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2101221"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1912724969722611163"
+					"size"		"1558631447"
+					"download"		"1455240592"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9395701"
+				"timeupdated"		"1661529453"
+			}
+		}
+	}
+}
