@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"1057700"
+	"common"
+	{
+		"name"		"Battle Grounds III"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"53e0421ddb58288e7ca80ce2124c59e9f9122891"
+		"clienttga"		"e07bc0104648002eed2a57eefc72c76f65008b89"
+		"icon"		"7521ba50e83883e7209feb0c7fd6973fbd7e9a1f"
+		"logo"		"e6f4df14e125f70e585c039bbf4421601a200689"
+		"logo_small"		"e6f4df14e125f70e585c039bbf4421601a200689_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1057700_eula_0"
+				"name"		"Battle Grounds III EULA"
+				"url"		"https://store.steampowered.com//eula/1057700_eula_0"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"8203095"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Battle Grounds III"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.05136792022941"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1573852006"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Battle Grounds Game Development Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Battle Grounds Game Development Team"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_16"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1561921064"
+		"community_hub_visible"		"1"
+		"gameid"		"1057700"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3987"
+			"1"		"113"
+			"2"		"3859"
+			"3"		"19"
+			"4"		"1663"
+			"5"		"492"
+			"6"		"4667"
+			"7"		"493"
+			"8"		"1678"
+			"9"		"3839"
+			"10"		"1774"
+			"11"		"4182"
+			"12"		"13190"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"The Battle Grounds Game Development Team"
+		"publisher"		"The Battle Grounds Game Development Team"
+		"homepage"		"https://battlegrounds3.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Battle Grounds III"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bg3.exe"
+				"arguments"		"-steam -novid -game bg3"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1057701"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1357693061893996922"
+					"size"		"6979767674"
+					"download"		"2756021536"
+				}
+				"beta"
+				{
+					"gid"		"1357693061893996922"
+					"size"		"6979767674"
+					"download"		"2756021536"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11658306"
+				"timeupdated"		"1688872227"
+			}
+			"beta"
+			{
+				"buildid"		"11658306"
+				"description"		"Public Beta Branch ;D"
+				"timeupdated"		"1688871973"
+			}
+		}
+	}
+}
