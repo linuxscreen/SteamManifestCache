@@ -1,0 +1,242 @@
+"appinfo"
+{
+	"appid"		"1721640"
+	"common"
+	{
+		"name"		"Human Apocalypse Demo"
+		"type"		"Demo"
+		"parent"		"1661900"
+		"releasestate"		"released"
+		"clienticon"		"bdc66a7245deb6ffcd6c89b374691af7866671ee"
+		"clienttga"		"0012d25c390d044325207d2339c9ed7f93d3583a"
+		"icon"		"fcbf24dc89f866a94b3c19aa7be5c85a25a562e7"
+		"clienticns"		"4d580707cd99f7084c8b82805fc7f5c55b6de34a"
+		"linuxclienticon"		"816f6d71a778e05bd5a39d28dc09141d7450939c"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1628612600"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Euphoric Brothers"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Euphoric Brothers"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629644716"
+		"gameid"		"1721640"
+	}
+	"extended"
+	{
+		"demoofappid"		"1661900"
+		"developer"		"Euphoric Brothers"
+		"publisher"		"Euphoric Brothers"
+		"homepage"		"https://www.euphoricbrothers.com"
+	}
+	"config"
+	{
+		"installdir"		"Human Apocalypse Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Human Apocalypse Demo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"humanapocalypse.app\\Contents\\MacOS\\humanapocalypsedemo"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Human Apocalypse Demo"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1721641"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1402765057563492685"
+					"size"		"253110131"
+					"download"		"123560000"
+				}
+			}
+		}
+		"1721642"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8242053278302396618"
+					"size"		"379093617"
+					"download"		"148387936"
+				}
+			}
+		}
+		"1721643"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3307545515615100271"
+					"size"		"294216021"
+					"download"		"123254976"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7317993"
+				"timeupdated"		"1631027286"
+			}
+		}
+	}
+}
