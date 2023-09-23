@@ -1,0 +1,291 @@
+"appinfo"
+{
+	"appid"		"610080"
+	"common"
+	{
+		"name"		"Realm Grinder"
+		"type"		"Game"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"brazilian"		"1"
+		}
+		"logo"		"ca44a315946ee632927dc6e62170949c6e2a5070"
+		"logo_small"		"ca44a315946ee632927dc6e62170949c6e2a5070_thumb"
+		"icon"		"67df032543bc5c8b24c2e704a63e11f3b2c1e926"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticon"		"8983d95d1117b8a30403ae1182f413d5b1304239"
+		"clienttga"		"23f35866af3293bafa30eb0349d29a70750c224f"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1643846400"
+			"tested_build_id"		"7581015"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+			}
+		}
+		"metacritic_name"		"Realm Grinder"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1572786269"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Divine Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kongregate"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"3"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1497548364"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"610080"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"379975"
+			"2"		"9"
+			"3"		"3964"
+			"4"		"4328"
+			"5"		"4182"
+			"6"		"122"
+			"7"		"615955"
+			"8"		"597"
+			"9"		"3871"
+			"10"		"1643"
+			"11"		"8945"
+			"12"		"492"
+			"13"		"3859"
+			"14"		"599"
+			"15"		"4190"
+			"16"		"1684"
+			"17"		"7332"
+			"18"		"1698"
+			"19"		"1695"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Divine Games"
+		"publisher"		"Kongregate"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Realm Grinder"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RealmGrinderDesktop.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"RealmGrinderDesktop.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"610081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2211704792873571841"
+					"size"		"48272064"
+					"download"		"30088960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D9971B87FFCB1D96BD59DE201558228D"
+					"size"		"093C46C85A19DEDD0769793CB1558128"
+					"download"		"84B65285BB3C6D64594ABD7685070878"
+				}
+				"test"
+				{
+					"gid"		"6AEC945DB21E458D504A4922CD171041"
+					"size"		"C4B140D8EC3CF49CAB6EB2DFCC50135E"
+					"download"		"7202C50A8646B3344C4A76CE9067D04C"
+				}
+			}
+		}
+		"610082"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1936687065531339025"
+					"size"		"65936848"
+					"download"		"33113408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"86847282CEB878B5B7C398A0CCA555BC"
+					"size"		"948C3DC3BCD4A113DDBAACCF38BF3EA4"
+					"download"		"1E3FBE86C1EB109B7141B9B9120CE4F7"
+				}
+				"test"
+				{
+					"gid"		"6D58550923596E42240E09C76176F6F2"
+					"size"		"3CA33111095BDA2651E083CC7FBA90C3"
+					"download"		"E6A72E34B40B980790887D21CBDBA23A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12104822"
+				"timeupdated"		"1695035785"
+			}
+			"beta"
+			{
+				"buildid"		"12104822"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693830304"
+			}
+			"test"
+			{
+				"buildid"		"12264130"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695472769"
+			}
+		}
+	}
+}
