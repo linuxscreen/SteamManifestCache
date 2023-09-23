@@ -1,0 +1,107 @@
+"appinfo"
+{
+	"appid"		"1686410"
+	"common"
+	{
+		"name"		"Twilight Drive Demo"
+		"type"		"Demo"
+		"parent"		"1537410"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"067328d7d6be888c0f478f27722a0b9b346b7e66"
+		"clienticon"		"910e9bf417bd5e17dc9f83435dc1027f81911191"
+		"icon"		"829484967ac5098748d066e7009c273f105af722"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1625325944"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Eponymouse"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Eponymouse"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1625557675"
+		"gameid"		"1686410"
+	}
+	"extended"
+	{
+		"demoofappid"		"1537410"
+		"developer"		"Eponymouse"
+		"publisher"		"Eponymouse"
+		"homepage"		"https://www.twilight-drive.com/"
+	}
+	"config"
+	{
+		"installdir"		"Twilight Drive Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"twilight_drive.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1686411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4004218807847808870"
+					"size"		"1792335040"
+					"download"		"1495223744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6987209"
+				"timeupdated"		"1625586231"
+			}
+		}
+	}
+}
