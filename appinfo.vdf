@@ -1,0 +1,172 @@
+"appinfo"
+{
+	"appid"		"1726280"
+	"common"
+	{
+		"name"		"The Babysitter"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"23bab24a59f33b95d591c9898eed3ffef2c51f6c"
+		"logo_small"		"23bab24a59f33b95d591c9898eed3ffef2c51f6c_thumb"
+		"icon"		"4fe4ded376c8af01dc24e5b2e94b44fbdfddf17f"
+		"clienticon"		"f903a690626affbd709dd2d9d5575b84cc99f1da"
+		"clienttga"		"a9ccadd5d78b982ab97d04a353d2db3b1cd3a8db"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1628958813"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AlephOneHalf"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"AlephOneHalf"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630504111"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1726280"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1742"
+			"1"		"6426"
+			"2"		"5608"
+			"3"		"492"
+			"4"		"4182"
+			"5"		"1664"
+			"6"		"16689"
+			"7"		"7208"
+			"8"		"1698"
+			"9"		"3871"
+			"10"		"113"
+			"11"		"4791"
+			"12"		"597"
+			"13"		"1684"
+			"14"		"21"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"AlephOneHalf"
+		"publisher"		"AlephOneHalf"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Babysitter"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Game.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1726281"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3930949624130682646"
+					"size"		"447278392"
+					"download"		"248370096"
+				}
+			}
+		}
+		"1726282"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3654075726490219159"
+					"size"		"560850820"
+					"download"		"280942336"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8042666"
+				"timeupdated"		"1642533836"
+			}
+		}
+	}
+}
