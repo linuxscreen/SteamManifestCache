@@ -1,0 +1,122 @@
+"appinfo"
+{
+	"appid"		"1745270"
+	"common"
+	{
+		"name"		"SCP: Doki Doki Anomaly Demo"
+		"type"		"Demo"
+		"parent"		"1743380"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"a73c7c3230e84baf72d5f0c6070ec87a672accb7"
+		"clienticon"		"aa109436165efa73fe07ac340e16b876afb38c62"
+		"icon"		"34c70c661c4030bba57429d214f0d318de78372c"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1630625218"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Flightyfelon Games Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Flightyfelon Games Inc."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Doki Doki Anomaly"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630689553"
+		"gameid"		"1745270"
+	}
+	"extended"
+	{
+		"demoofappid"		"1743380"
+		"developer"		"Flightyfelon Games Inc."
+		"publisher"		"Flightyfelon Games Inc."
+	}
+	"config"
+	{
+		"installdir"		"SCP Doki Doki Anomaly Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DDA_FinalJamBuild_01_PC/DokiDoki_Anomaly.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1745271"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3500800242158238628"
+					"size"		"239423993"
+					"download"		"128318496"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7279740"
+				"timeupdated"		"1630518168"
+			}
+		}
+	}
+}
