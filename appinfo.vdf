@@ -1,0 +1,273 @@
+"appinfo"
+{
+	"appid"		"581130"
+	"common"
+	{
+		"name"		"Metal Waltz"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"94bf96e1a726bba198d2f9910d99560ae547cb4f"
+		"logo_small"		"94bf96e1a726bba198d2f9910d99560ae547cb4f_thumb"
+		"icon"		"8b4d91d4127dca1f94f95a390eeb0bfe2dcbce31"
+		"clienttga"		"db885248bddec203fc2bc62342b988c1d601eb4b"
+		"clienticon"		"fa8655cc5104b448518896679cca40f1a7381360"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+		}
+		"metacritic_name"		"Metal Waltz"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+			"arabic"		"capsule_231x87_arabic.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"french"		"capsule_231x87_french.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"german"		"header_german.jpg"
+			"russian"		"header_russian.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"arabic"		"header_arabic.jpg"
+			"english"		"header.jpg"
+			"french"		"header_french.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"38.124132412366436"
+				"height_pct"		"45.76986308374998"
+			}
+		}
+		"store_asset_mtime"		"1681804308"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Shanghai JingCai Computer Software Development Co., Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Shanghai JingCai Computer Software Development Co., Ltd"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1492585200"
+		"steam_release_date"		"1493784377"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"581130"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4085"
+			"1"		"113"
+			"2"		"6650"
+			"3"		"9"
+			"4"		"122"
+			"5"		"12095"
+			"6"		"599"
+			"7"		"21"
+			"8"		"13276"
+			"9"		"4168"
+			"10"		"5611"
+			"11"		"3799"
+			"12"		"9130"
+			"13"		"3859"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Shanghai JingCai Computer Software Development Co., Ltd"
+		"publisher"		"Shanghai JingCai Computer Software Development Co., Ltd"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MetalWaltz"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sherman.exe"
+				"arguments"		"RunningResources"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,german,french,koreana,schinese,russian,japanese,arabic"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"581131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8829754807033683511"
+					"size"		"1324103084"
+					"download"		"1092390320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha_test"
+				{
+					"gid"		"913FFFBE64998AECD7D3BF87D326DB12"
+					"size"		"8AB542B8F7457C853ED60E7045B2B2B3"
+					"download"		"80E227F3BB054C09040A9616E3965718"
+				}
+			}
+		}
+		"581133"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12029178"
+				"timeupdated"		"1693193739"
+			}
+			"alpha_test"
+			{
+				"buildid"		"12029178"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692940098"
+			}
+		}
+	}
+}
