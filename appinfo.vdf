@@ -1,0 +1,133 @@
+"appinfo"
+{
+	"appid"		"640730"
+	"common"
+	{
+		"name"		"ICED Demo"
+		"type"		"Demo"
+		"parent"		"575570"
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"4a694600238bf5244eda46d93ff033508e5b4dfc"
+		"logo"		"b98b4b32161af3485daff6da75dd2ed306cb4c38"
+		"logo_small"		"b98b4b32161af3485daff6da75dd2ed306cb4c38_thumb"
+		"clienticon"		"935b48de342907d3b3bf7fe9b82a94b5b547f43b"
+		"clienttga"		"5f6b596ac970a210acd6e5c3f4b063510f27f254"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"metacritic_name"		"ICED Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1495069080"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AneaGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"AneaGames"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1494831600"
+		"steam_release_date"		"1495155509"
+		"gameid"		"640730"
+	}
+	"extended"
+	{
+		"demoofappid"		"575570"
+		"developer"		"AneaGames"
+		"publisher"		"AneaGames"
+	}
+	"config"
+	{
+		"installdir"		"ICED Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ICED_demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ICED_demo.exe"
+				"arguments"		"-force-d3d9"
+				"description"		"Force DX9"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"640731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9195767079110086289"
+					"size"		"1465988953"
+					"download"		"395365776"
+				}
+			}
+		}
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1840944"
+				"timeupdated"		"1495561417"
+			}
+		}
+	}
+}
