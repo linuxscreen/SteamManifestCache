@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"1448310"
+	"common"
+	{
+		"name"		"_keyboardkommander"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"863ba78e94a89243376d37d6cef419e1d3934b97"
+		"logo_small"		"863ba78e94a89243376d37d6cef419e1d3934b97_thumb"
+		"icon"		"fd7e795a5584884f26940b8d73e0dd2854d584e6"
+		"clienttga"		"37e724f3600acfa998c55d80d93f5c742f3b01ac"
+		"clienticon"		"7e4fe9c76b6bf2795b94fc977dd0142994984790"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1683331200"
+			"tested_build_id"		"10532466"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"99.88928387289354"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1671323183"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"William Pheloung"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Chunko Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1636876800"
+		"steam_release_date"		"1671648912"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1448310"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1674"
+			"1"		"31275"
+			"2"		"4637"
+			"3"		"9"
+			"4"		"1645"
+			"5"		"1774"
+			"6"		"6052"
+			"7"		"3835"
+			"8"		"7332"
+			"9"		"9592"
+			"10"		"1742"
+			"11"		"19"
+			"12"		"5030"
+			"13"		"1659"
+			"14"		"1719"
+			"15"		"7743"
+			"16"		"4182"
+			"17"		"113"
+			"18"		"492"
+			"19"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"William Pheloung"
+		"publisher"		"Chunko Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"_keyboardkommander"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		".\\Beta_Candidate_13\\_KeyboardKommander.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1448311"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4736717269450933209"
+					"size"		"1829402714"
+					"download"		"632641824"
+				}
+				"development"
+				{
+					"gid"		"4736717269450933209"
+					"size"		"1829402714"
+					"download"		"632641824"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10532466"
+				"timeupdated"		"1676157583"
+			}
+			"development"
+			{
+				"buildid"		"10532466"
+				"description"		"Play in development features"
+				"timeupdated"		"1676157595"
+			}
+		}
+	}
+}
