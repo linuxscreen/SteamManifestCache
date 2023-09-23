@@ -1,0 +1,232 @@
+"appinfo"
+{
+	"appid"		"385030"
+	"common"
+	{
+		"name"		"C. Kane"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"logo"		"a841a503c8a6119bd5e03e6b192fe0b0d1a7e456"
+		"logo_small"		"a841a503c8a6119bd5e03e6b192fe0b0d1a7e456_thumb"
+		"icon"		"0e5b29110b50a0dbe52978f1e289f8c16789c3e0"
+		"clienticns"		"7232340c0375268c1eb47265cdfa665a7261550d"
+		"clienttga"		"e76e730f2366ed24666728282ea1887bffc694ab"
+		"clienticon"		"b2585f88137144abd7e698904099b542a20b3cac"
+		"linuxclienticon"		"8502b87c0cac9e2c208e2c2838bfd7b66712021b"
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		""
+		"metacritic_name"		"C. Kane"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1658529890"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Super Walrus Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Super Walrus Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1453449600"
+		"steam_release_date"		"1453775160"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"385030"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4434"
+			"1"		"597"
+			"2"		"1677"
+			"3"		"10695"
+			"4"		"122"
+			"5"		"3871"
+			"6"		"6052"
+			"7"		"4947"
+			"8"		"4136"
+			"9"		"19995"
+			"10"		"4325"
+			"11"		"3964"
+			"12"		"4195"
+			"13"		"1719"
+			"14"		"5350"
+			"15"		"1651"
+			"16"		"3916"
+			"17"		"4004"
+			"18"		"492"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Super Walrus Games"
+		"publisher"		"Super Walrus Games"
+		"homepage"		"http://superwalrusland.com"
+		"gamemanualurl"		"https://store.steampowered.com/manual/385030/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"CKane"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ckane.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ckane.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"ckane"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"1523051606"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		""
+			}
+		}
+	}
+	"depots"
+	{
+		"385031"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2891261243196918230"
+					"size"		"33243152"
+					"download"		"24659904"
+				}
+			}
+		}
+		"385032"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8664363678633284333"
+					"size"		"34591221"
+					"download"		"24919360"
+				}
+			}
+		}
+		"385033"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2885566014172586267"
+					"size"		"31920702"
+					"download"		"24368256"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10977678"
+				"timeupdated"		"1681226537"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"ckane.saves"
+				"pattern"		"*.rsav"
+			}
+		}
+	}
+}
