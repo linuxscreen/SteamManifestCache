@@ -1,0 +1,218 @@
+"appinfo"
+{
+	"appid"		"1189650"
+	"common"
+	{
+		"name"		"Post Scriptum CTG: Collectible Token Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"1c1a58e69d2a81fbe97179b664f954a91ddb4536"
+		"icon"		"c48834fd4cb4cfb285dc6e29b322a4acd034634f"
+		"logo"		"9f0f1f789a34a98320afd6c88dcb9e8c9fd12cd6"
+		"logo_small"		"9f0f1f789a34a98320afd6c88dcb9e8c9fd12cd6_thumb"
+		"clienticon"		"665c0453d4576c0c933311e9fd06513c239a7608"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"metacritic_name"		"Post Scriptum CTG: Collectible Token Game"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1593615312"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alien Intelligence UAB"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Alien Intelligence UAB"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1584016200"
+		"community_hub_visible"		"1"
+		"gameid"		"1189650"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"599"
+			"3"		"493"
+			"4"		"1770"
+			"5"		"597"
+			"6"		"1677"
+			"7"		"128"
+			"8"		"1708"
+			"9"		"17389"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Alien Intelligence UAB"
+		"publisher"		"Alien Intelligence UAB"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Post Scriptum CTG Collectible Token Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PS CTG.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1189651"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4247904578965057228"
+					"size"		"1623752152"
+					"download"		"583305104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"03313CD227A215FE96419F6BF8891B6B"
+					"size"		"58C840A728A5154AB00706582587DBED"
+					"download"		"968E1CA20BDF24FFC1E467BDA14E5B9F"
+				}
+				"beta-dev"
+				{
+					"gid"		"4F11198BF3E334EFB9DBB7FC336934C4"
+					"size"		"48DB779859B550C345FBAE27CF01C2BA"
+					"download"		"4AE8FF37B164FE4CB487E5D617AFDBB9"
+				}
+			}
+		}
+		"1189652"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"beta-dev"
+				{
+					"gid"		"51AA0DD26E4350A681E94839C1C483FF"
+					"size"		"76E9062B336C1BA340469F9A065C4046"
+					"download"		"E4DE7715E2A1E9E3F7B8FF026C6D5076"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5183422"
+				"timeupdated"		"1592579469"
+			}
+			"beta"
+			{
+				"buildid"		"5323345"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595511091"
+			}
+			"beta-dev"
+			{
+				"buildid"		"5323340"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595510947"
+			}
+		}
+	}
+}
