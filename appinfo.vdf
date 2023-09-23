@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"1857180"
+	"common"
+	{
+		"name"		"Agony VR Demo"
+		"type"		"Demo"
+		"parent"		"1654170"
+		"openvrsupport"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"83b4aa9bbb97ace4646357e9f02956dabc19e70f"
+		"clienticon"		"a52df4409df86ee61c8b1ad7f6149de6500cfe12"
+		"icon"		"7b11d99d0cbd53926140e0da6fc3776a009fd1ab"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"59.53488372093023"
+				"height_pct"		"66.7181192115887"
+			}
+		}
+		"store_asset_mtime"		"1649076071"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ignibit"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ignibit"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Madmind Studio"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Agony"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1646986188"
+		"gameid"		"1857180"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1654170"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Ignibit"
+		"publisher"		"Ignibit"
+	}
+	"config"
+	{
+		"installdir"		"Agony VR Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Agony.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1857181"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6446366755549625209"
+					"size"		"12852834712"
+					"download"		"12479229632"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7927626"
+				"timeupdated"		"1640184945"
+			}
+		}
+	}
+}
