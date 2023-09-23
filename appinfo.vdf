@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1974090"
+	"common"
+	{
+		"name"		"Slava Ukraini!"
+		"type"		"Game"
+		"clienticon"		"c71ead0034e1d7b349a8b01e35c7add63069f6d0"
+		"clienttga"		"41619140a9dee714bc598e2e2e7d064b46e55cf0"
+		"icon"		"ad9ccf244fe5eaa53c0936e1edcdd8e8eddc747b"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1652387068"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Thor Gaming"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Thor Gaming"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1653375377"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1974090"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1774"
+			"1"		"4168"
+			"2"		"4684"
+			"3"		"19"
+			"4"		"7423"
+			"5"		"599"
+			"6"		"3993"
+			"7"		"9"
+			"8"		"3839"
+			"9"		"1676"
+			"10"		"1663"
+			"11"		"1723"
+			"12"		"620519"
+			"13"		"3871"
+			"14"		"4191"
+			"15"		"4791"
+			"16"		"3987"
+			"17"		"5673"
+			"18"		"1708"
+			"19"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Thor Gaming"
+		"publisher"		"Thor Gaming"
+		"homepage"		"https://thorgaming.eu/slava-ukraini/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Slava Ukraini"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Slava Ukraini\\Slava Ukraini.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1974091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2914008049041991375"
+					"size"		"3977569766"
+					"download"		"985830304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"D990BFD4A12797E61A77C92225C4E13C"
+					"size"		"6F6DE11E0F1ECB8A9EED0A34B7F9362D"
+					"download"		"A49CC82C608C054EF23372BA8DF4FC20"
+				}
+				"updatetests"
+				{
+					"gid"		"5AC53FB3EB8B9EAF0CB52787125B9D2E"
+					"size"		"44D3882B731AB090064C122F8890A876"
+					"download"		"AB56EDC1AACD2D7B43681F6CF050DD48"
+				}
+			}
+		}
+		"baselanguages"		""
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8996834"
+				"timeupdated"		"1656019925"
+			}
+			"devtesting"
+			{
+				"buildid"		"9059961"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656974269"
+			}
+			"updatetests"
+			{
+				"buildid"		"9059961"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656974812"
+			}
+		}
+	}
+}
