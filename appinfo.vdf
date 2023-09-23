@@ -1,0 +1,407 @@
+"appinfo"
+{
+	"appid"		"212500"
+	"common"
+	{
+		"name"		"The Lord of the Rings Online™"
+		"type"		"Game"
+		"icon"		"6dbff8345f6b3e5f092a834985c8f851859bfbf2"
+		"clienttga"		"b8f56cfe877a4030348fc49b5d95df58a84a860e"
+		"logo"		"bbe89aa0f4cd84242c8d748519bb49b1d8ef6113"
+		"logo_small"		"bbe89aa0f4cd84242c8d748519bb49b1d8ef6113_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"d84025a0c2fb186671de66c02516b89f26672296"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1649376000"
+			"tested_build_id"		"7449199"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"german"		"capsule_231x87_german.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"french"		"header_french.jpg"
+			"german"		"header_german.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"39"
+			}
+		}
+		"store_asset_mtime"		"1655920426"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Standing Stone Games, LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Standing Stone Games, LLC"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"29"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_18"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1338991200"
+		"community_hub_visible"		"1"
+		"gameid"		"212500"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1754"
+			"2"		"128"
+			"3"		"1695"
+			"4"		"1684"
+			"5"		"122"
+			"6"		"21"
+			"7"		"3859"
+			"8"		"4747"
+			"9"		"3796"
+			"10"		"3834"
+			"11"		"19"
+			"12"		"1742"
+			"13"		"3843"
+			"14"		"1685"
+			"15"		"1662"
+			"16"		"1697"
+			"17"		"1775"
+			"18"		"4182"
+			"19"		"4604"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Standing Stone Games, LLC"
+		"gamedir"		"Lord of the Rings Online"
+		"homepage"		"https://signup.lotro.com/lotro.php?ftui=LOTROSteam&amp;abrs=1"
+		"icon"		""
+		"inhibitautoversionroll"		"1"
+		"installscript"		"LOTROinstallscript.vdf"
+		"installscript_macos"		"LotroLauncher.app/installscript_osx.vdf"
+		"isfreeapp"		"1"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"212501"
+		"primarycache_macos"		"212505"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+		"publisher"		"Standing Stone Games, LLC"
+		"listofdlc"		"213170,213171,213172,213173,213174,213175,213176,213177,213178,213179,258800,258803,258804"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"lotrolauncher.exe"
+				"arguments"		"-steam"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"LotroLauncher.app"
+				"arguments"		"-steam"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Lord of the Rings Online"
+		"noupdatesafterinstall"		"1"
+	}
+	"depots"
+	{
+		"212505"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8385128744054315523"
+					"size"		"1699561"
+					"download"		"1676336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa"
+				{
+					"gid"		"CAE591A73AC360FE459FB2FC4749964D"
+					"size"		"BBF3783E33B63F533416CE97BFAF6CEE"
+					"download"		"DD9A02E4C2204710065EF3701EA55665"
+				}
+				"test"
+				{
+					"gid"		"857437FDACD0B05F36D3678971037042"
+					"size"		"965E7F718869883476BB6F0DD62F78AB"
+					"download"		"01EB5967DA91927DFF89872EE45AFB70"
+				}
+			}
+		}
+		"212501"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4798451165668847185"
+					"size"		"32303601053"
+					"download"		"25621627424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa"
+				{
+					"gid"		"E9D4E874BE94E0DE225684CFD92E8FEC"
+					"size"		"F806DE1C9522D879F1C9E2D07F1B8D94"
+					"download"		"7F147CA4DD772EBC4208295B94404527"
+				}
+				"test"
+				{
+					"gid"		"5B88B5A48F7DFCC5CB4D1FB6D23E764F"
+					"size"		"13C33ACEA44FFFC91C416F5DF17B6E9B"
+					"download"		"3452EBBB916D314FA3A2A3F1344EDA48"
+				}
+			}
+		}
+		"212502"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8842777443152731058"
+					"size"		"3427954496"
+					"download"		"3189640784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa"
+				{
+					"gid"		"550FC99317E87788E0A3DB400E598E5A"
+					"size"		"533C11AD45E039A57DE38DC2E9AAA5A8"
+					"download"		"CA4C61E8E0B9CA323F77562569D55A7F"
+				}
+				"test"
+				{
+					"gid"		"C9A47C6BE370786836CB5F80CE744A63"
+					"size"		"7A3078B02682D22F012022F1D10B051D"
+					"download"		"21774BDADD74918A128369CF137D4D7D"
+				}
+			}
+		}
+		"212503"
+		{
+			"config"
+			{
+				"language"		"french"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7288374287661281927"
+					"size"		"3287530363"
+					"download"		"3024075472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa"
+				{
+					"gid"		"32BA8C69DF985D6B899B56F16FA755B8"
+					"size"		"3C21F7678B7816242893405F0D73CC9F"
+					"download"		"69266B94B0E871C1CE8066E0D554BD46"
+				}
+				"test"
+				{
+					"gid"		"33C63EF67543CC75755F0443D1D41D46"
+					"size"		"9118ED5BB2AA05956E56694850F7AF1F"
+					"download"		"9039A5BD56E96A9EA47F87176231388C"
+				}
+			}
+		}
+		"212504"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2353467731593996257"
+					"size"		"4139527545"
+					"download"		"3832954832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa"
+				{
+					"gid"		"7C3F274193D3870F802E67E361E35540"
+					"size"		"73B33664BE68D1DDCFDF9466234E3512"
+					"download"		"93D241139C36E76DC64119219993B88C"
+				}
+				"test"
+				{
+					"gid"		"DC81A75CAEBD4B0E2D3AD51A879ACD88"
+					"size"		"2CBFED3D624A57A586D54DE4A9359334"
+					"download"		"8F8AA42D0930F608075218AFAE1ED0EF"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9165699"
+				"timeupdated"		"1658765798"
+			}
+			"qa"
+			{
+				"buildid"		"12250101"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695325710"
+			}
+			"test"
+			{
+				"buildid"		"8679720"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651700738"
+			}
+		}
+	}
+}
