@@ -1,0 +1,137 @@
+"appinfo"
+{
+	"appid"		"1272310"
+	"common"
+	{
+		"name"		"Disaster Report 4: Summer Memories Demo"
+		"type"		"Demo"
+		"parent"		"1060210"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"03ec765a271c77d756534d5e52383d4ff88fbfa9"
+		"clienticon"		"6feb7011f155429ba5514bd915d7f79ad44194f6"
+		"icon"		"fbef9399695f70d39c0054cfd2ae628a88664bfd"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"絶体絶命都市4Plus -Summer Memories- 体験版"
+			"koreana"		"절체절명도시4 Plus -Summer Memories- Demo"
+			"tchinese"		"絕體絕命都市 4 Plus：夏日回憶 - Demo"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"69.13652275379229"
+				"height_pct"		"72.03752077891238"
+			}
+		}
+		"store_asset_mtime"		"1585290437"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Granzella Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NIS America, Inc."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Disaster Report"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1586278847"
+		"gameid"		"1272310"
+	}
+	"extended"
+	{
+		"demoofappid"		"1060210"
+		"developer"		"Granzella Inc."
+		"publisher"		"NIS America, Inc."
+		"homepage"		"https://nisamerica.com/disaster-report"
+	}
+	"config"
+	{
+		"installdir"		"Disaster Report 4 Summer Memories Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DisasterReport4Demo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1272311"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6935617238839263952"
+					"size"		"4668680202"
+					"download"		"4463284560"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5064855"
+				"timeupdated"		"1590174546"
+			}
+		}
+	}
+}
