@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"1728930"
+	"common"
+	{
+		"name"		"Spiral Demo"
+		"type"		"Demo"
+		"parent"		"1579390"
+		"clienticon"		"6c8d40a3650072078aa3de347f90a466bd3e30db"
+		"clienttga"		"0dc65783dac315d7bf9b4a195721c721bc6c65d5"
+		"icon"		"74e7b98597b93457ae6ca7ed4d376827603451a3"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1646521288"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Folklore Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Folklore Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629563618"
+		"community_visible_stats"		"1"
+		"gameid"		"1728930"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1579390"
+		"developer"		"Folklore Games"
+		"publisher"		"Folklore Games"
+	}
+	"config"
+	{
+		"installdir"		"Spiral Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Spiral.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1728931"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5893353357435723979"
+					"size"		"4589486383"
+					"download"		"1456392720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"localization"
+				{
+					"gid"		"492E0E60AF42125233A97F563BFEBD50"
+					"size"		"29A06A29CB5D192ADF008C1A4AF88C93"
+					"download"		"85A13188E08D4998176498EB4496BFE7"
+				}
+				"playtests"
+				{
+					"gid"		"1BC4B077442302F478D73C06F70B0C7C"
+					"size"		"9D540407730E834490C5D8CA4D882528"
+					"download"		"FAF160AA6FA3B8D2083C35377A48D895"
+				}
+				"qa-testing"
+				{
+					"gid"		"1AC51605C6795E6DAB2932A4BB65514D"
+					"size"		"69058F374343F7FE3E258E238E8A5EEF"
+					"download"		"1605E5438CFB8B0AA61AA6C6434BAAB5"
+				}
+				"testbuild"
+				{
+					"gid"		"8C7D2352C49EB3CC8B9EE7184A393C34"
+					"size"		"B08EF829A6C1A923B95C70095BFBF308"
+					"download"		"3DB4041F6FFEFE0E6F6B19EDE78EBC37"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11086873"
+				"timeupdated"		"1682433886"
+			}
+			"localization"
+			{
+				"buildid"		"12049759"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693228959"
+			}
+			"playtests"
+			{
+				"buildid"		"12163367"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694470487"
+			}
+			"qa-testing"
+			{
+				"buildid"		"10929919"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680632666"
+			}
+			"testbuild"
+			{
+				"buildid"		"10720747"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678289497"
+			}
+		}
+	}
+}
