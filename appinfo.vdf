@@ -1,0 +1,116 @@
+"appinfo"
+{
+	"appid"		"1679440"
+	"common"
+	{
+		"name"		"Fossilfuel Demo"
+		"type"		"Demo"
+		"parent"		"1597040"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"3bcb9dfc4de246380f9eea243727db4001701845"
+		"clienticon"		"1fdd1b0986ac105cc1ce69ab34ac56f2f5641d11"
+		"icon"		"8a67806200c6b653722ec3ca41b3277036ca3a72"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1624938647"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"franchise"
+				"name"		"Fossilfuel"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1625170840"
+		"gameid"		"1679440"
+	}
+	"extended"
+	{
+		"demoofappid"		"1597040"
+	}
+	"config"
+	{
+		"installdir"		"Fossilfuel Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fossilfuel.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1679441"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6463122065363501730"
+					"size"		"6058812632"
+					"download"		"5918716976"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7908457"
+				"timeupdated"		"1639873267"
+			}
+		}
+	}
+}
