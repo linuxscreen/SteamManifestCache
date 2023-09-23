@@ -1,0 +1,130 @@
+"appinfo"
+{
+	"appid"		"1706860"
+	"common"
+	{
+		"name"		"Monomyth Demo"
+		"type"		"Demo"
+		"parent"		"908360"
+		"clienttga"		"ac8c0350ea083270ca4a04f291e7883c12c3fcf9"
+		"clienticon"		"e4f53f4f6ba72027fed54a1e82b5b2f03580d30c"
+		"icon"		"9eb2efa5471fbf31141306e1f651169f25d45fd9"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1627679632"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rat Tower"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rat Tower"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627681419"
+		"gameid"		"1706860"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"908360"
+		"developer"		"Rat Tower"
+		"publisher"		"Rat Tower"
+		"homepage"		"http://www.rattower.com"
+	}
+	"config"
+	{
+		"installdir"		"Monomyth Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Monomyth.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1706861"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5970029743072412441"
+					"size"		"1138533399"
+					"download"		"1026684944"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7161399"
+				"timeupdated"		"1628523314"
+			}
+		}
+	}
+}
