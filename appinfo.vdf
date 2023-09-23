@@ -1,0 +1,305 @@
+"appinfo"
+{
+	"appid"		"326360"
+	"common"
+	{
+		"name"		"Warspear Online"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"portuguese"		"1"
+			"brazilian"		"1"
+		}
+		"osarch"		""
+		"logo"		"bef448d37ffddc9471ae0f240bcfd93347e11eb7"
+		"logo_small"		"bef448d37ffddc9471ae0f240bcfd93347e11eb7_thumb"
+		"icon"		"c0a02b7e7b291e2ebe6d637cbd8d2459ff005d98"
+		"clienticon"		"13e570efa13e9a410627ab8f9010f8993318a08c"
+		"clienttga"		"3d8814b50b57519e19a2269cd0eb545c34110a1b"
+		"clienticns"		"13e570efa13e9a410627ab8f9010f8993318a08c"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"326360_eula_0"
+				"name"		"Warspear Online MMORPG EULA"
+				"url"		"http://store.steampowered.com//eula/326360_eula_0"
+			}
+		}
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"metacritic_name"		"Warspear Online"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34"
+				"height_pct"		"40"
+			}
+		}
+		"store_asset_mtime"		"1620997456"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Titulum Enterprises Limited"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Titulum Enterprises Limited"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1509627600"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"326360"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1754"
+			"2"		"3964"
+			"3"		"128"
+			"4"		"122"
+			"5"		"3859"
+			"6"		"3843"
+			"7"		"4026"
+			"8"		"4004"
+			"9"		"1684"
+			"10"		"4166"
+			"11"		"1775"
+			"12"		"3871"
+			"13"		"21"
+			"14"		"1742"
+			"15"		"1695"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Titulum Enterprises Limited"
+		"publisher"		"Titulum Enterprises Limited"
+		"homepage"		"http://warspear-online.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"744340,746060"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Warspear Online MMORPG"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"warspear.exe"
+				"description"		"Win32 build"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"warspear.app/Contents/MacOS/Warspear Online Steam"
+				"description"		"OSX build"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"warspear_32"
+				"description"		"Linux32 build"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"warspear_64"
+				"description"		"Linux64 build"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"326361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7538127629829897129"
+					"size"		"164284249"
+					"download"		"150415200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"9D40FBB99D4176AAB7CD9F28BD5B7F3E"
+					"size"		"886FA7DD8ABA0189F32EC697B09FB582"
+					"download"		"B1C39D8ADD1ECD6003804DAA80909C96"
+				}
+			}
+		}
+		"326362"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4937556050507065057"
+					"size"		"168009609"
+					"download"		"151263712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"3D693CF91D7CE5725EC9B4D34C2F8836"
+					"size"		"96DB566C7C2DF60105785B52CE93B8A4"
+					"download"		"6DBAF1421BE1903C0E0056DEE750D1AF"
+				}
+			}
+		}
+		"326363"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1309679560039609644"
+					"size"		"180520198"
+					"download"		"153997264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"55C1FCC728CECB5FDB6216B98FA2A7E9"
+					"size"		"BB6050EC0E6F3DD35650F86E859CBBFB"
+					"download"		"2DF367E5AA2ECC7B22183252E2555FE5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12216541"
+				"timeupdated"		"1695114746"
+			}
+			"preview"
+			{
+				"buildid"		"12216541"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695047762"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"2"
+	}
+}
