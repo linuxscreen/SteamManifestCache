@@ -1,0 +1,142 @@
+"appinfo"
+{
+	"appid"		"1693810"
+	"common"
+	{
+		"name"		"functional (demo)"
+		"type"		"Demo"
+		"parent"		"1636730"
+		"releasestate"		"released"
+		"clienticon"		"4bcb24ab2483ff5c46084afb556246176f3e6ba6"
+		"clienttga"		"51a626f222778e3870f9eb85d09445e068f961f1"
+		"icon"		"233fb2d72a71c0f8064fbe3435e8e282e3d1bb6c"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1626046557"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"yancouto"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Marvellous Soft"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"steam_release_date"		"1626198730"
+		"gameid"		"1693810"
+	}
+	"extended"
+	{
+		"demoofappid"		"1636730"
+		"developer"		"yancouto"
+		"publisher"		"Marvellous Soft"
+	}
+	"config"
+	{
+		"installdir"		"functional Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"functional.exe"
+				"arguments"		"--steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1693811"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5454551059196430414"
+					"size"		"29724425"
+					"download"		"8140752"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7013198"
+				"timeupdated"		"1626047023"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"1636730"
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataRoaming"
+				"addpath"		"yancouto/functional/data"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		"yancouto.functional"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgDataHome"
+				"addpath"		"functional"
+			}
+		}
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
