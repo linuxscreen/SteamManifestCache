@@ -1,0 +1,132 @@
+"appinfo"
+{
+	"appid"		"1763200"
+	"common"
+	{
+		"name"		"Bread & Fred Demo"
+		"type"		"Demo"
+		"parent"		"1607680"
+		"clienttga"		"10c973d00f05296a1bfb9c65e37990e146f671d0"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"0cf816ca0e7d0ea235bc7e528785b2dd60091217"
+		"icon"		"7a21fd08ade1b2e2c7837dedb548c748b970f38b"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"spanish"		"header_spanish.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,es"
+			"library_hero"		"en,es"
+			"library_logo"		"es,en"
+		}
+		"store_asset_mtime"		"1671811433"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sand Castles Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sand Castles Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1633098420"
+		"gameid"		"1763200"
+	}
+	"extended"
+	{
+		"demoofappid"		"1607680"
+		"developer"		"Sand Castles Studio"
+		"publisher"		"Sand Castles Studio"
+	}
+	"config"
+	{
+		"installdir"		"Bread &amp;amp; Fred Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bread&Fred.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,spanish"
+		"1763201"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4817766098110077606"
+					"size"		"388763885"
+					"download"		"99081200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"217B3A4FDC523EE41CF08B65EEADF7AB"
+					"size"		"E0D89DA66C8F21FCF8996326000B3960"
+					"download"		"1192172286C45BA391CCD223BF40DB53"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11139859"
+				"timeupdated"		"1683052107"
+			}
+			"beta"
+			{
+				"buildid"		"11138901"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683042918"
+			}
+		}
+	}
+}
