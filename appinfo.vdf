@@ -1,0 +1,136 @@
+"appinfo"
+{
+	"appid"		"2337600"
+	"common"
+	{
+		"name"		"Cook Fest Demo"
+		"type"		"Demo"
+		"parent"		"2235210"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"aebee5d2a932da6fefa8c04400b6c9486692c9ee"
+		"clienttga"		"d6bc63acc69daa881c4d01d3f0bd21e33e6f3fd7"
+		"clienticon"		"8e168a0de2b78189ce07602c32f45c42b83bfcf1"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.767616623886774"
+				"height_pct"		"88.76495751866804"
+			}
+		}
+		"store_asset_mtime"		"1677638511"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sigma Indie"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sigma Indie"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_9"		"1"
+		}
+		"steam_release_date"		"1677723200"
+		"gameid"		"2337600"
+	}
+	"extended"
+	{
+		"demoofappid"		"2235210"
+		"developer"		"Sigma Indie"
+		"publisher"		"Sigma Indie"
+		"homepage"		"https://sigmaindie.com/#games"
+	}
+	"config"
+	{
+		"installdir"		"Cook Fest Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CookFest.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2337601"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2391709386107212077"
+					"size"		"778104376"
+					"download"		"322885440"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11985879"
+				"timeupdated"		"1692528993"
+			}
+		}
+	}
+}
