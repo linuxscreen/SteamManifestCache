@@ -1,0 +1,384 @@
+"appinfo"
+{
+	"appid"		"215020"
+	"common"
+	{
+		"name"		"Orcs Must Die! 2 Demo"
+		"type"		"Demo"
+		"logo"		"c345d9b205f349f0e7f4e6cdf8af4d0b7d242505"
+		"logo_small"		"c345d9b205f349f0e7f4e6cdf8af4d0b7d242505_thumb"
+		"icon"		"fabd8658e8e76f7c99c56f26b69d29882756f9b4"
+		"clienttga"		"eec42054aa43d4ad538178b825d506be66b52d58"
+		"clienticon"		"62fa4b646156b2b306ae645e745fc127bb0453e8"
+		"freeondemand"		"1"
+		"parent"		"201790"
+		"metacritic_name"		"Orcs Must Die! 2 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1343247053"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Robot Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Robot Entertainment"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"french"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"italian"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"spanish"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"russian"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"japanese"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"polish"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"brazilian"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+		}
+		"steam_release_date"		"1343405520"
+		"gameid"		"215020"
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"demoofappid"		"201790"
+		"developer"		"Robot Entertainment"
+		"gamedir"		"ValveTestApp215020"
+		"homepage"		"http://www.robotentertainment.com/games/omd2"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Robot Entertainment"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Orcs Must Die 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"build\\release\\orcsmustdie2.exe"
+				"workingdir"		"build\\release"
+			}
+		}
+		"installscriptsignature"		"1295b1379e0b46a01ada9eafba84214b2cd21d55a5dcd1b772cedc81037184ed9ec3795d8e76c784bd6b61b17de61ab02d65449c2ee2277fd9404c400086ef40d84fa4db0a34aa772862038d011b61f014d83316c7f31559ae928074fde2a85e773ba3040f18625c635e4919bf7b5cf5cded42653f51f29f9ac9a3d4a410f2ed"
+		"installscriptoverride"		"1"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"msvc redist"
+			{
+				"process 1"		"%INSTALLDIR%\\installer\\vcredist_x86.exe"
+				"command 1"		"/qb!"
+				"nocleanup"		"1"
+			}
+			"directx"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\201790"
+				"process 1"		"%INSTALLDIR%\\installer\\DXSETUP.exe"
+				"command 1"		"/silent"
+				"nocleanup"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"215021"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5896207336771312125"
+					"size"		"1342914867"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"5896207336771312125"
+					"size"		"1342914867"
+					"download"		"0"
+				}
+			}
+		}
+		"215030"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5095208389525397429"
+					"size"		"114326664"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"5095208389525397429"
+					"size"		"114326664"
+					"download"		"0"
+				}
+			}
+		}
+		"215022"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5820099449243239822"
+					"size"		"101405530"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"5820099449243239822"
+					"size"		"101405530"
+					"download"		"0"
+				}
+			}
+		}
+		"215023"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"249979591516221990"
+					"size"		"111935926"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"249979591516221990"
+					"size"		"111935926"
+					"download"		"0"
+				}
+			}
+		}
+		"215024"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7064366250859611045"
+					"size"		"162082212"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"7064366250859611045"
+					"size"		"162082212"
+					"download"		"0"
+				}
+			}
+		}
+		"215025"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1485808629180484489"
+					"size"		"102430742"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"1485808629180484489"
+					"size"		"102430742"
+					"download"		"0"
+				}
+			}
+		}
+		"215026"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6212865074890472408"
+					"size"		"172808850"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"6212865074890472408"
+					"size"		"172808850"
+					"download"		"0"
+				}
+			}
+		}
+		"215027"
+		{
+			"config"
+			{
+				"language"		"polish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5069786530476199432"
+					"size"		"112577420"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"5069786530476199432"
+					"size"		"112577420"
+					"download"		"0"
+				}
+			}
+		}
+		"215028"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7298290115126806372"
+					"size"		"96090822"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"7298290115126806372"
+					"size"		"96090822"
+					"download"		"0"
+				}
+			}
+		}
+		"215029"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5384330761206100987"
+					"size"		"125172790"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"5384330761206100987"
+					"size"		"125172790"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7035"
+			}
+			"local"
+			{
+				"buildid"		"7034"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+		}
+	}
+}
