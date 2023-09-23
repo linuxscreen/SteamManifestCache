@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"1589390"
+	"common"
+	{
+		"name"		"Leenie Boog Demo"
+		"type"		"Demo"
+		"parent"		"1572420"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"9c5b51f609024c8ea690a012cc4414cfc69d882b"
+		"clienttga"		"dcd08920647473207a0d070132d214fcdff3a2b4"
+		"icon"		"be89d688aca057c94887eb229ffa8004d9d3a306"
+		"logo"		"b3760f19a34ac805898541e17fddd0fafcb1771d"
+		"logo_small"		"b3760f19a34ac805898541e17fddd0fafcb1771d_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,ja,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1617197520"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aleksander Bazhenov"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"AB Developer"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1617376769"
+		"gameid"		"1589390"
+	}
+	"extended"
+	{
+		"demoofappid"		"1572420"
+		"developer"		"Aleksander Bazhenov"
+		"publisher"		"AB Developer"
+	}
+	"config"
+	{
+		"installdir"		"Leenie Boog Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LeenieBoog.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1589391"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1068097319289629109"
+					"size"		"2085152386"
+					"download"		"520227408"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6659410"
+				"timeupdated"		"1620319217"
+			}
+		}
+	}
+}
