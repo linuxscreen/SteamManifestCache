@@ -1,0 +1,286 @@
+"appinfo"
+{
+	"appid"		"1193240"
+	"common"
+	{
+		"name"		"GearCity Demo"
+		"type"		"Demo"
+		"parent"		"285110"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"bd6acdf3f5d67849f3438634e4e9eecc3a83bd80"
+		"logo"		"78666c1afc467eac9463b525f6e3038c52722204"
+		"logo_small"		"78666c1afc467eac9463b525f6e3038c52722204_thumb"
+		"clienticon"		"a4aea4761e346889af7ad1fe335bd9486d43f2d0"
+		"clienttga"		"b974e2115e72f64e4f1692a5c3610234ca042bd6"
+		"metacritic_name"		"GearCity Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"54.64037122969839"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1573606560"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Visual Entertainment And Technologies"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Visual Entertainment And Technologies"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"GearCity"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1401433200"
+		"steam_release_date"		"1573741060"
+		"gameid"		"1193240"
+	}
+	"extended"
+	{
+		"demoofappid"		"285110"
+		"developer"		"Visual Entertainment And Technologies"
+		"publisher"		"Visual Entertainment And Technologies"
+	}
+	"config"
+	{
+		"installdir"		"GearCity Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GearCity.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"GearCity.app"
+				"arguments"		"--use-mock-keychain"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"runGearCity"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"./ModTools/launchVS.sh"
+				"workingdir"		"./ModTools/"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"4"
+			{
+				"executable"		"./ModTools/VideoSettings.exe"
+				"workingdir"		"./ModTools/"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"5"
+			{
+				"executable"		"./GearCity.app/Contents/MacOS/VideoSettings"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1193241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"611982233735498762"
+					"size"		"3533424583"
+					"download"		"3098501392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B74EFFCCFC53B48D5E2212A3E6784335"
+					"size"		"901EED8B588C8F9754535AA7113A07DA"
+					"download"		"42AADBFEC2A243CAB983C96056C4B9BB"
+				}
+			}
+		}
+		"1193242"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1557719779444044762"
+					"size"		"4475984678"
+					"download"		"3278099904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8B947DE096A75F235584ED386B4B6D69"
+					"size"		"5605D1110D10F053B46D3751C1A970D1"
+					"download"		"84BE1847F6BE596362A57D61D859100D"
+				}
+			}
+		}
+		"1193243"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2433139538839786968"
+					"size"		"3646059950"
+					"download"		"3121289088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"48B9209FCCCD726A73BB25F4BAF37B68"
+					"size"		"50B54AB52B26A083B19BF0D8447B62EB"
+					"download"		"033FBCA937F01C42C6772EF799F7E6BE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11455075"
+				"timeupdated"		"1686635654"
+			}
+			"beta"
+			{
+				"buildid"		"11455075"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686632456"
+			}
+		}
+	}
+}
