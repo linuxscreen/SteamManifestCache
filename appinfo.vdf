@@ -1,0 +1,112 @@
+"appinfo"
+{
+	"appid"		"950900"
+	"common"
+	{
+		"name"		"Operation: Harsh Doorstop - Dedicated Server"
+		"type"		"Tool"
+		"parent"		"736590"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"304c2a17ff96e09a88c56d20359e77af0d3c9336"
+		"clienttga"		"7ccd4e3efa6360fdfd4d87b28a83ce36e8da0ec7"
+		"icon"		"c6bab4b59297f21d7c58195d2de0054662ec47d4"
+		"logo"		"de07dc35292c5e4ecc0d15f43dd0ad3ce7266891"
+		"logo_small"		"de07dc35292c5e4ecc0d15f43dd0ad3ce7266891_thumb"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1676495052"
+		"gameid"		"950900"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Harsh Doorstop Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HarshDoorstopServer.bat"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"950901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"602646202627418837"
+					"size"		"2644485734"
+					"download"		"795956688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"07A255AD40899233BF25E8D777E232C4"
+					"size"		"6D201A91ADAD8A8380FB477CBBE09A4F"
+					"download"		"D76FC601BB7D5A929C664F849C08BF0B"
+				}
+			}
+		}
+		"950902"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4575621423556208586"
+					"size"		"2672561303"
+					"download"		"801342320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"267923136C27647023E7A9A862DBEF5B"
+					"size"		"17812A81B900F63B8EF848944F7042E6"
+					"download"		"7757D5D33D663D38F13074FA6A708178"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11368435"
+				"timeupdated"		"1686044526"
+			}
+			"staging"
+			{
+				"buildid"		"11368435"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685612345"
+			}
+		}
+	}
+}
