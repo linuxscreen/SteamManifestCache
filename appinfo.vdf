@@ -1,0 +1,468 @@
+"appinfo"
+{
+	"appid"		"622050"
+	"common"
+	{
+		"name"		"Slime Rancher Demo"
+		"section_type"		"ownersonly"
+		"type"		"Demo"
+		"parent"		"433340"
+		"releasestate"		"released"
+		"clienttga"		"917c0c8b316400031555ed74930ba742d6bc52d5"
+		"clienticon"		"2ee0a3613e9c28aed5582bca68d742ec586d8422"
+		"icon"		"814236b2c3a100cf76b00390585f351708e4c1e4"
+		"clienticns"		"0238231ebb1bf74d7291f6a943d372f996db721a"
+		"linuxclienticon"		"5e1f2fdb83856a1511636f7e5b8ba5360c72ead5"
+		"logo"		"18d0773ee9317fa397fba8e5b881ad7ef92b5a9b"
+		"logo_small"		"18d0773ee9317fa397fba8e5b881ad7ef92b5a9b_thumb"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"metacritic_name"		"Slime Rancher Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"56.69570700723881"
+				"height_pct"		"65.65384642945239"
+			}
+		}
+		"store_asset_mtime"		"1572298909"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Monomi Park"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Monomi Park"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1501606800"
+		"gameid"		"622050"
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"demoofappid"		"433340"
+		"developer"		"Monomi Park"
+		"publisher"		"Monomi Park"
+	}
+	"config"
+	{
+		"installdir"		"Slime Rancher Demo"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"841031397"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default"
+			}
+		}
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SlimeRancher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents/MacOS/SlimeRancher"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"SlimeRancher.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"SlimeRancher.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"4"
+			{
+				"executable"		"SlimeRancher.exe"
+				"arguments"		"-lowGraphics"
+				"type"		"benchmark"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"5"
+			{
+				"executable"		"Contents/MacOS/SlimeRancher"
+				"arguments"		"-lowGraphics"
+				"type"		"benchmark"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"6"
+			{
+				"executable"		"SlimeRancher.x86"
+				"arguments"		"-lowGraphics"
+				"type"		"benchmark"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"7"
+			{
+				"executable"		"SlimeRancher.x86_64"
+				"arguments"		"-lowGraphics"
+				"type"		"benchmark"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"622051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8259039959335885674"
+					"size"		"1206931462"
+					"download"		"521073424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.4.2-rc-debug"
+				{
+					"gid"		"9C420DADE0F8EA257DD427D419816951"
+					"size"		"C3BA8C1D71CF5E60522F26F2A458FD7C"
+					"download"		"1BDAB982E3DA2780FD99CADA065D95AD"
+				}
+				"1.4.2-rc-release"
+				{
+					"gid"		"03696840391801FB5A7AD592B0E8630B"
+					"size"		"E6CD2D2B7FA223D41E363D9225DB0D3F"
+					"download"		"B926365B3EBBF34DD3D52992E3B09ACF"
+				}
+				"1.4.2-testbuild-release"
+				{
+					"gid"		"02CA6DF5BFDAF5768869B0B1CCCF9ECE"
+					"size"		"DB547B1F5545665A4AB777E7E12C2329"
+					"download"		"9A51B870FBA2C141B891B468ABB0923F"
+				}
+				"test"
+				{
+					"gid"		"C7D20646D021514821D90D4331488A64"
+					"size"		"3ABD792FEB778EEAF1F3DB088465F8BA"
+					"download"		"D243C366B7B84849FDF4C7B465668D16"
+				}
+			}
+		}
+		"622052"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4284099802090839927"
+					"size"		"1214046660"
+					"download"		"523305568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.4.2-rc-debug"
+				{
+					"gid"		"E451AEE742AA6FD1DA6ADB961F77C057"
+					"size"		"C161B1E06896CF932569C35B1972EAE7"
+					"download"		"ADC37CF59E437AD69B5281C62B7EB085"
+				}
+				"1.4.2-rc-release"
+				{
+					"gid"		"C8F998DCEF648DC148C68596D69A249C"
+					"size"		"1D12B2D1F6925CD1E7C30AF54EAE59C0"
+					"download"		"B73F8B3203475C3369CFB9CF5F1828E2"
+				}
+				"1.4.2-testbuild-release"
+				{
+					"gid"		"8AB4DCDDF9A8F80D4B5B137686EF83A9"
+					"size"		"73391862862D9A044217BB3EF1813CB2"
+					"download"		"100956C1C638C994E771CA80F21AB88A"
+				}
+				"test"
+				{
+					"gid"		"01A16117C451FFC98316894BA79DE772"
+					"size"		"A6688A8FB32814CC492D61A058F6EE5E"
+					"download"		"7F3AEA48A9184E5281DF618824FDC4C5"
+				}
+			}
+		}
+		"622053"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4209940550183976201"
+					"size"		"1226773507"
+					"download"		"527846640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.4.2-rc-debug"
+				{
+					"gid"		"501D9845D0383CA6564C30F8B315B69F"
+					"size"		"4221CF7880E284C97118ED19552A8E34"
+					"download"		"88183A828D5B7551B113BC74711FAD1F"
+				}
+				"1.4.2-rc-release"
+				{
+					"gid"		"90550165BE782B082E41A5575EC1F5CC"
+					"size"		"A664797C6159566D109C171623AF8173"
+					"download"		"70B08A60303B37473A0C3CD352FEB5EE"
+				}
+				"1.4.2-testbuild-release"
+				{
+					"gid"		"50B8859C356FCB1B5C33D1471DCC4929"
+					"size"		"F93DD68BC4AD14CC805714E01CF21BEE"
+					"download"		"33B4F2743C772CD196D9811B10854089"
+				}
+				"test"
+				{
+					"gid"		"3878CD5BDB0881BF5113AAEC0B60CE29"
+					"size"		"2164AD2ED2D34D095EB07726887B54AC"
+					"download"		"9E5F275DA8612411099AB3DB13AE2F9E"
+				}
+			}
+		}
+		"622054"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4839233106406790180"
+					"size"		"1231287916"
+					"download"		"530588064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.4.2-rc-debug"
+				{
+					"gid"		"73116E6CC1E7A242026B1120902380DC"
+					"size"		"21C597A68E8B1F59E0E83703A90B0D39"
+					"download"		"85D50AD12927FB19D725219DE0E3E458"
+				}
+				"1.4.2-rc-release"
+				{
+					"gid"		"5925664B8D694634C1D0A2AB8D58DE27"
+					"size"		"928D77DF6182E5ACD22F3996B8DE63B3"
+					"download"		"A471A39BF58C30C4570E9E2F6F3FC9FA"
+				}
+				"1.4.2-testbuild-release"
+				{
+					"gid"		"EE6AF8180BA79CCEB2C2CC21C72C1AE6"
+					"size"		"C57D5186B1B545F4737DE6A9E6EB207C"
+					"download"		"7662C8C65EA565DF6F96A214D37A8994"
+				}
+				"test"
+				{
+					"gid"		"5336E47C1AC63DE8334BD685D0A798D7"
+					"size"		"68F9CB393400350706C9AB105B1383F9"
+					"download"		"4AF1ADC668F9F70DF6195A14DD5829AD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5066442"
+				"timeupdated"		"1590515248"
+			}
+			"1.4.2-rc-debug"
+			{
+				"buildid"		"5066681"
+				"pwdrequired"		"1"
+				"timeupdated"		"1590184740"
+			}
+			"1.4.2-rc-release"
+			{
+				"buildid"		"5066442"
+				"pwdrequired"		"1"
+				"timeupdated"		"1590175318"
+			}
+			"1.4.2-testbuild-release"
+			{
+				"buildid"		"5011172"
+				"pwdrequired"		"1"
+				"timeupdated"		"1589214415"
+			}
+			"test"
+			{
+				"buildid"		"3247392"
+				"pwdrequired"		"1"
+				"timeupdated"		"1540492629"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"433340"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Monomi Park/Slime Rancher"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Monomi Park/Slime Rancher"
+				"pattern"		"slimerancher.prf"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Monomi Park/Slime Rancher"
+						"replace"		"Monomi Park/Slime Rancher"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Monomi Park/Slime Rancher"
+						"replace"		".config/unity3d/Monomi Park/Slime Rancher"
+					}
+				}
+			}
+		}
+	}
+}
