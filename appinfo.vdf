@@ -1,0 +1,263 @@
+"appinfo"
+{
+	"appid"		"1098260"
+	"common"
+	{
+		"name"		"Creativerse Dedicated Server"
+		"type"		"Tool"
+		"parent"		"280790"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"8157af0e9252743f51b530705bc8275af49b81e3"
+		"clienttga"		"9eb803db54252189b910f2dc347a41ed755b2419"
+		"clienticon"		"4c51dc39a673a4d27bceb7c3b35c69564f4df1ae"
+		"clienticns"		"4c51dc39a673a4d27bceb7c3b35c69564f4df1ae"
+		"linuxclienticon"		"4c51dc39a673a4d27bceb7c3b35c69564f4df1ae"
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"gameid"		"1098260"
+	}
+	"config"
+	{
+		"installdir"		"Creativerse Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CreativerseServer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Server"
+				}
+				"description"		"Launch Server"
+			}
+			"1"
+			{
+				"executable"		"CreativerseServer"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"CreativerseServer"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Server"
+				}
+				"description"		"Launch Server"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1098260"
+		"hasdepotsindlc"		"0"
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1923798258558304932"
+					"size"		"44194776"
+					"download"		"13804528"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4884950798805348056"
+					"size"		"73781292"
+					"download"		"20270768"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1098262"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7124527858510835069"
+					"size"		"213427846"
+					"download"		"76229280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"5096BCDE07798063383E53658451503F"
+					"size"		"8041DD64F759AC21E78C22F939BEFD2D"
+					"download"		"FB29C44E8D2C9D6B907DBA42A08E69CA"
+				}
+				"standalone"
+				{
+					"gid"		"88D8E172A68B220EC5C7418F9429F5D8"
+					"size"		"DD38916B9D15C4025AA1894C525ABBD1"
+					"download"		"2C13D2492940E3879C769E1578533423"
+				}
+				"upcoming"
+				{
+					"gid"		"00D0147CD558796DE7D5B21FCB3F2F85"
+					"size"		"C977AF29475E3CADAA3CDB0D3DEC457C"
+					"download"		"FB726A64DE92CAC8AE5741B257853963"
+				}
+			}
+		}
+		"1098263"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2330859510159872492"
+					"size"		"185331292"
+					"download"		"67848544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"4ACAE4FF6C6BD98275E38610B3017227"
+					"size"		"6F5747708F7A4208ABF6B8667D55735E"
+					"download"		"7D99985F6798854E9039663504E26BC8"
+				}
+				"standalone"
+				{
+					"gid"		"68E67C048C48B03475CB15E68D9A75CD"
+					"size"		"98F4A6B91723D5E8396F7A8B33C4F088"
+					"download"		"422235519242AECF1A0D4ECAFB3657B2"
+				}
+				"upcoming"
+				{
+					"gid"		"775988F8DB3487A4BB9D2DFD012C701B"
+					"size"		"3805735F68566A1254D324F3B7E1474E"
+					"download"		"6579BDD890F9CFF15F30181ECB093501"
+				}
+			}
+		}
+		"1098264"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6529066005483214255"
+					"size"		"214884057"
+					"download"		"75718416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"F210BFB7E8FDF6CB15BA8A3347B1774C"
+					"size"		"2C1A4B7942A1189612F54B55A0B29668"
+					"download"		"0707C0C4F2EAD278C5A25D430416DFA0"
+				}
+				"standalone"
+				{
+					"gid"		"C14F60160977931B2E2881DE3092D107"
+					"size"		"EBEAC0472ED5314DB743463355329030"
+					"download"		"E8FEAD22DF288E5B47D4D03BAFA049A6"
+				}
+				"upcoming"
+				{
+					"gid"		"79AD142F3291F9E6FFC9A5A24981872C"
+					"size"		"1FF6B2433B5601F24EA3659468CF1D67"
+					"download"		"EBFBFD3DC36E776B495910BEE4316D0D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12081089"
+				"timeupdated"		"1693503821"
+			}
+			"experimental"
+			{
+				"buildid"		"10859604"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679858724"
+			}
+			"standalone"
+			{
+				"buildid"		"9922341"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668226427"
+			}
+			"upcoming"
+			{
+				"buildid"		"12099266"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693745541"
+			}
+		}
+	}
+}
