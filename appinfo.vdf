@@ -1,0 +1,222 @@
+"appinfo"
+{
+	"appid"		"1264380"
+	"common"
+	{
+		"name"		"Lonely Mountains: Downhill Demo"
+		"type"		"Demo"
+		"parent"		"711540"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"c558ddf06bad0c56e8fb9b64795b1d476cdb2101"
+		"clienttga"		"6552328b80b6ce2c9a3abf52d8388c5533fc77e0"
+		"icon"		"40b723d7f5715b410e29ca8f3fd5011e0a740943"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1606901948"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Megagon Industries"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Thunderful Publishing"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"9"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1607078579"
+		"gameid"		"1264380"
+	}
+	"extended"
+	{
+		"demoofappid"		"711540"
+		"developer"		"Megagon Industries"
+		"publisher"		"Thunderful Publishing"
+	}
+	"config"
+	{
+		"installdir"		"Lonely Mountains Downhill - Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LMD_Demo_Win_x64.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"LMD_Demo_MacOS.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,japanese,brazilian"
+		"1264381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4407394300617709952"
+					"size"		"652588359"
+					"download"		"450609760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"1CE525E365540638322D19B64E22B84C"
+					"size"		"071E8A9B666FB7275243573BDB4362AF"
+					"download"		"E2BE50A004F0A3E57C57D5FBC9CC4BCE"
+				}
+			}
+		}
+		"1264382"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+		}
+		"1264383"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"858893280770332239"
+					"size"		"710796948"
+					"download"		"508239632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"F96AB4806719C90526B87E8F6C77A16B"
+					"size"		"A75ED1310237C0ACBCA66387C63A8DB0"
+					"download"		"31CB74828D0058795BDD0CD3E61CDDA2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5919525"
+				"timeupdated"		"1607074193"
+			}
+			"staging"
+			{
+				"buildid"		"5919525"
+				"pwdrequired"		"1"
+				"timeupdated"		"1607038494"
+			}
+		}
+	}
+}
