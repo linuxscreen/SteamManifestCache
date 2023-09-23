@@ -1,0 +1,150 @@
+"appinfo"
+{
+	"appid"		"1732880"
+	"common"
+	{
+		"name"		"Return to Nangrim - Playable Teaser"
+		"type"		"Demo"
+		"parent"		"860210"
+		"releasestate"		"released"
+		"clienticon"		"2502d9c5232420d1e12c183844e067cfb257e00d"
+		"clienttga"		"5cd45bdaf40a67f2af4caf62e9ad56ca7592ab86"
+		"icon"		"5170eb0ff51c46419b28b256df6b41db6592a702"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"59.35334872979214"
+				"height_pct"		"63.60415682569674"
+			}
+		}
+		"store_asset_mtime"		"1629378601"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sycoforge"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sycoforge"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1629928293"
+		"gameid"		"1732880"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"860210"
+		"developer"		"Sycoforge"
+		"publisher"		"Sycoforge"
+		"homepage"		"https://www.return-to-nangrim.com/"
+	}
+	"config"
+	{
+		"installdir"		"Return to Nangrim Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Return to Nangrim.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1732881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1011480022284465076"
+					"size"		"19207099329"
+					"download"		"8987449456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fallback"
+				{
+					"gid"		"F407135862FE7EB8419151903817D214"
+					"size"		"7302488393316FB78AE3AFF040B41995"
+					"download"		"B1C62001C84613D04C738DA0B6BF457C"
+				}
+				"preview"
+				{
+					"gid"		"86974A130ED5F0DFD5CF91AE9DFF0E1D"
+					"size"		"3527E7341E9A6B976B78049599138007"
+					"download"		"F81DCC91765A712941889CB53E13F46B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7642127"
+				"timeupdated"		"1667371737"
+			}
+			"fallback"
+			{
+				"buildid"		"7636109"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635848948"
+			}
+			"preview"
+			{
+				"buildid"		"7642127"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667371755"
+			}
+		}
+	}
+}
