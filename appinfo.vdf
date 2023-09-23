@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"2431090"
+	"common"
+	{
+		"name"		"FISHGUN"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"1dd915da51d770fde8bb8414701c24117e81c51f"
+		"clienticns"		"ee9b9ecb005afaaeab75a60a8684f3898df1781f"
+		"linuxclienticon"		"209a45517715d6308532f103fca529c2304d5632"
+		"icon"		"832c6c1d171846b9c04fcabcdc9883acd270ccf9"
+		"clienticon"		"de30c6dfbd95c1bbeaa8af6f51773e8ab67e5c30"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"32.646541497934265"
+				"height_pct"		"70.877057598595"
+			}
+		}
+		"store_asset_mtime"		"1687365356"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FISHGUNNERS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"FISHGUNNERS"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1688572787"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2431090"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1663"
+			"2"		"1774"
+			"3"		"1710"
+			"4"		"3993"
+			"5"		"5547"
+			"6"		"3839"
+			"7"		"4191"
+			"8"		"113"
+			"9"		"4136"
+			"10"		"1714"
+			"11"		"492"
+			"12"		"7481"
+			"13"		"7250"
+			"14"		"6730"
+			"15"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"FISHGUNNERS"
+		"publisher"		"FISHGUNNERS"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FISHGUN"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FISHGUN.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"2431091"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1467021362531361422"
+					"size"		"983390651"
+					"download"		"339781024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"6EB1FAC4A641D3A60B58C5855E1CA0C9"
+					"size"		"17ED47189C82D77F1F7CB9B1F6B3550A"
+					"download"		"846D228526E51E2169E6FE90EAB77B17"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11969517"
+				"timeupdated"		"1692310253"
+			}
+			"beta"
+			{
+				"buildid"		"11969517"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692310269"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"FISHGUN/FISHGUN"
+				"pattern"		"*.fish"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#customstatus"		"%custom%"
+				}
+			}
+		}
+	}
+}
