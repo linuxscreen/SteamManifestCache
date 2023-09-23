@@ -1,0 +1,120 @@
+"appinfo"
+{
+	"appid"		"2120860"
+	"common"
+	{
+		"name"		"Fortune's Run Demo"
+		"type"		"Demo"
+		"parent"		"1692240"
+		"releasestate"		"released"
+		"icon"		"a94cdafd0c724f8c09b98d2a80620c231ec9e8b1"
+		"clienttga"		"a63c36f3e38f0fca3c4ea6e61ab1e2260b6ec3d4"
+		"clienticon"		"0c7470480c3d046b4fde7ce4803c6c4d79e7f1f3"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1684818084"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Fortune"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Fortune"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1663336539"
+		"gameid"		"2120860"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1692240"
+		"developer"		"Team Fortune"
+		"publisher"		"Team Fortune"
+	}
+	"config"
+	{
+		"installdir"		"Fortune's Run Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FortunesRun.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"FortunesRun.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2120861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2220903699106521154"
+					"size"		"1073349535"
+					"download"		"407640080"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11511636"
+				"timeupdated"		"1687232640"
+			}
+		}
+	}
+}
