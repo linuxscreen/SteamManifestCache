@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1269460"
+	"common"
+	{
+		"name"		"Dark Fracture Demo"
+		"type"		"Demo"
+		"parent"		"1268790"
+		"releasestate"		"released"
+		"clienticon"		"bdded998ce361d2e05c134ed1de63bece96a7384"
+		"clienttga"		"222b3c0a67a4f3aba82124c190fb68dd4591351b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"8daffc76f38c8cc0ae70182752635d63e54ddeaa"
+		"logo_small"		"8daffc76f38c8cc0ae70182752635d63e54ddeaa_thumb"
+		"icon"		"b1e12db4bb16d2f1806c421298ba918fe45ab93b"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"35.752942742872165"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1602065697"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Twisted II Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Twisted II Studio "
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Feardemic"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1591933914"
+		"gameid"		"1269460"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1268790"
+		"developer"		"Twisted II Studio"
+		"publisher"		"Twisted II Studio "
+		"homepage"		"https://www.darkfracture.com"
+	}
+	"config"
+	{
+		"installdir"		"Dark Fracture Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DarkFractureDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1269461"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6687675468299079413"
+					"size"		"2589168180"
+					"download"		"2479968176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6157387"
+				"timeupdated"		"1611918308"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"10"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
