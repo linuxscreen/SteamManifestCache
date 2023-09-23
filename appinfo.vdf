@@ -1,0 +1,250 @@
+"appinfo"
+{
+	"appid"		"1702980"
+	"common"
+	{
+		"name"		"AGRYOS: Recovering Eden"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"ff4fc1b8f6336af0a298d990526f187999931e20"
+		"clienttga"		"73bb205b18323263d6c0be27b9637a4b7828a1c2"
+		"icon"		"7e95e1b57bfff81477784f649dd4f060c1e5f760"
+		"logo"		"5d8e9a7bedd66b1439b0cb900bff4223bfe918bb"
+		"logo_small"		"5d8e9a7bedd66b1439b0cb900bff4223bfe918bb_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1702980_eula_0"
+				"name"		"AGRYOS: Recovering Eden EULA"
+				"url"		"https://store.steampowered.com//eula/1702980_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1660348800"
+			"tested_build_id"		"8254294"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.18604651162792"
+				"height_pct"		"48.48017098076467"
+			}
+		}
+		"store_asset_mtime"		"1639496682"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SMU Guildhall"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SMU Guildhall"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644602288"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1702980"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5547"
+			"1"		"4885"
+			"2"		"3814"
+			"3"		"3942"
+			"4"		"7208"
+			"5"		"4255"
+			"6"		"6730"
+			"7"		"1774"
+			"8"		"19"
+			"9"		"1697"
+			"10"		"4191"
+			"11"		"5094"
+			"12"		"5350"
+			"13"		"7926"
+			"14"		"4166"
+			"15"		"5752"
+			"16"		"4295"
+			"17"		"3993"
+			"18"		"4182"
+			"19"		"1743"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"SMU Guildhall"
+		"publisher"		"SMU Guildhall"
+		"homepage"		"http://agryosgame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"AGRYOS Recovering Eden"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AGRYOSRecoveringEden.exe"
+				"type"		"default"
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"2"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1702981"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3300200786237833920"
+					"size"		"4321648975"
+					"download"		"1411174944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-test"
+				{
+					"gid"		"FDF3B029A5A58BF9346D30C27BB64FB3"
+					"size"		"7FC2C8A772B37F3B1F198EC8AEF639D7"
+					"download"		"609BAE74114B86D08FD5CB8EA505B24F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8254294"
+				"timeupdated"		"1649267548"
+			}
+			"dev-test"
+			{
+				"buildid"		"8254294"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646067809"
+			}
+		}
+	}
+}
