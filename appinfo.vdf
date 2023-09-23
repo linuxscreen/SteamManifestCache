@@ -1,0 +1,298 @@
+"appinfo"
+{
+	"appid"		"1660910"
+	"common"
+	{
+		"name"		"Tanks: The Crusades"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"clienticon"		"612e661b5812b2e3d5dcaccd6809fa8fb9c604c5"
+		"clienttga"		"9c813b5e8f075a4992c53eb5241f0e3eb13481ed"
+		"icon"		"2f9722aad57038ba6375a0680c7201c4e5efe4a9"
+		"clienticns"		"8088ab1c621dafd20a6443a992e991d722ccc314"
+		"logo"		"a467f53124152663dad40c3dee7588486cf58b93"
+		"logo_small"		"a467f53124152663dad40c3dee7588486cf58b93_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1691452800"
+			"tested_build_id"		"10859546"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"34.4120136003512"
+				"height_pct"		"68.05555555555557"
+			}
+		}
+		"store_asset_mtime"		"1646511516"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aehmttw (Matei Budiu)"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Aehmttw (Matei Budiu)"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_9"		"1"
+			"category_48"		"1"
+			"category_27"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1624561222"
+		"community_hub_visible"		"1"
+		"gameid"		"1660910"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"13276"
+			"1"		"1773"
+			"2"		"9"
+			"3"		"5547"
+			"4"		"4004"
+			"5"		"3859"
+			"6"		"1774"
+			"7"		"4182"
+			"8"		"597"
+			"9"		"4094"
+			"10"		"8122"
+			"11"		"1669"
+			"12"		"5350"
+			"13"		"4975"
+			"14"		"1775"
+			"15"		"6730"
+			"16"		"4637"
+			"17"		"19"
+			"18"		"4791"
+			"19"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Aehmttw (Matei Budiu)"
+		"publisher"		"Aehmttw (Matei Budiu)"
+		"homepage"		"https://github.com/aehmttw/tanks"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tanks"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"jdk-16.0.2\\bin\\javaw.exe"
+				"arguments"		"-jar Tanks.jar"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Windows launch configuration"
+				}
+				"description"		"Windows launch configuration"
+			}
+			"1"
+			{
+				"executable"		"Tanks.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Mac launch configuration"
+				}
+				"description"		"Mac launch configuration"
+			}
+			"2"
+			{
+				"executable"		"./jdk-20/bin/java"
+				"arguments"		"-jar Tanks.jar"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"1660911"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2642780500927467397"
+					"size"		"427756944"
+					"download"		"283695104"
+				}
+			}
+		}
+		"1660912"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3100767159321233530"
+					"size"		"252441177"
+					"download"		"179802592"
+				}
+			}
+		}
+		"1660914"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+		}
+		"1660915"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1660913"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7337900240763079365"
+					"size"		"459091818"
+					"download"		"291934080"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10859546"
+				"timeupdated"		"1680409481"
+			}
+		}
+	}
+}
