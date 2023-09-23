@@ -1,0 +1,139 @@
+"appinfo"
+{
+	"appid"		"212350"
+	"common"
+	{
+		"name"		"The Dream Machine Demo"
+		"type"		"Demo"
+		"logo"		"02197bd30b9c652b900355c52c9284b66ddb8ef0"
+		"logo_small"		"02197bd30b9c652b900355c52c9284b66ddb8ef0_thumb"
+		"icon"		"6c876b1ffd82d9aeb59cdde2520c6939610e0acc"
+		"clienttga"		"ac7eb5325ba754834c276161121e8420c182184e"
+		"clienticon"		"eedbb3d8801eeaecea94f480d9172db580486fb1"
+		"clienticns"		"8dc2bcadc9d73b02d41f14a7c55c63e0bdb0f1f7"
+		"freeondemand"		"1"
+		"oslist"		"windows,macos"
+		"metacritic_name"		"The Dream Machine Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1572520673"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cockroach Ink."
+			}
+		}
+		"primary_genre"		"0"
+		"steam_release_date"		"1336779300"
+		"gameid"		"212350"
+	}
+	"extended"
+	{
+		"developer"		"Cockroach Ink."
+		"gamedir"		"The Dream Machine Demo"
+		"homepage"		""
+		"icon"		""
+		"installscript_macos"		"the_dream_machine.app/installscript_osx.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"212351"
+		"primarycache_macos"		"212351"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"the_dream_machine.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"the_dream_machine.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"The Dream Machine Demo"
+	}
+	"depots"
+	{
+		"212351"
+		{
+			"config"
+			{
+				"oslist"		"windows,macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"72777271443098987"
+					"size"		"107071021"
+					"download"		"67467776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"1007B5C01DDAF5BDE4B213028C0132DB"
+					"size"		"055B46A6827F760B007D224EB51A6ACE"
+					"download"		"8CBD1BD9A5812772C9161DBE90C501BE"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2198565"
+				"timeupdated"		"1507975794"
+			}
+			"beta"
+			{
+				"buildid"		"2195674"
+				"pwdrequired"		"1"
+				"timeupdated"		"1507888662"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"hidecloudui"		"0"
+	}
+}
