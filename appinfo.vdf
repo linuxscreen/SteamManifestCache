@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"2347540"
+	"common"
+	{
+		"name"		"HexeD Demo"
+		"type"		"Demo"
+		"parent"		"1587880"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"c8152d223fecffe8b76214b974eb397f28d912ea"
+		"clienticon"		"0baafdc641ea0d15383a077cb37cd26aea7fd67f"
+		"clienttga"		"5b47f6c9b1910297467297bfe7801f22747a23bb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1678219046"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"OAKgames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"OAKgames"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678813181"
+		"gameid"		"2347540"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1587880"
+		"developer"		"OAKgames"
+		"publisher"		"OAKgames"
+	}
+	"config"
+	{
+		"installdir"		"HexeD Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HexeD.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"HexeD.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"HexeD.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2347541"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"981366762568110357"
+					"size"		"402314985"
+					"download"		"199331664"
+				}
+			}
+		}
+		"2347542"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2935735381256389105"
+					"size"		"414546435"
+					"download"		"203889168"
+				}
+			}
+		}
+		"2347543"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5581704740839767231"
+					"size"		"424026357"
+					"download"		"204953952"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10767409"
+				"timeupdated"		"1678813278"
+			}
+		}
+	}
+}
