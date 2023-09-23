@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"1549200"
+	"common"
+	{
+		"name"		"Anachronism"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"icon"		"bb26b4fe88c8301f69ff5e0ba87329bf37b7367c"
+		"logo"		"2460a8da12293bb976dddc427f16b514bf1ba39c"
+		"logo_small"		"2460a8da12293bb976dddc427f16b514bf1ba39c_thumb"
+		"clienttga"		"6ce48ff927c30b82cd4d2b37fd712b83ffe87dd9"
+		"clienticon"		"f8278426c03446a6b7ad19a23bad1b765bd7d241"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1617291598"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EloThere"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Easy~ Interactive Software"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1620141720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1549200"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"11014"
+			"1"		"31275"
+			"2"		"6691"
+			"3"		"1674"
+			"4"		"3799"
+			"5"		"4486"
+			"6"		"4182"
+			"7"		"6426"
+			"8"		"7208"
+			"9"		"8013"
+			"10"		"44868"
+			"11"		"3871"
+			"12"		"6971"
+			"13"		"597"
+			"14"		"1742"
+			"15"		"3964"
+			"16"		"5608"
+			"17"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"developer"		"EloThere"
+		"publisher"		"Easy~ Interactive Software"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Anachronism"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"mac_content/Anachronism.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"win_content/Anachronism.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"1549201"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6352499376491594611"
+					"size"		"171282602"
+					"download"		"42101056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5A87894E85FF38857DCAE759C80C5F8B"
+					"size"		"C4432496A92948F1EAA1F9DE1A296706"
+					"download"		"F0EE0FA647B6F240367E1E3378AC87E3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7052617"
+				"timeupdated"		"1626714990"
+			}
+			"beta"
+			{
+				"buildid"		"6812934"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622807230"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"5"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
