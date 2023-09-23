@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"2185290"
+	"common"
+	{
+		"name"		"VTuber Connect"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"1b5e76ac26292338b5efb73ce93c355a9299193a"
+		"clienticon"		"d57d3c81be3f86fc6bc40bd7c29b3e98c29c8066"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticns"		"1c4fa930d409485b6241715b315b097f368f1fe0"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"84.19363257375473"
+				"height_pct"		"84.80170980764665"
+			}
+		}
+		"store_asset_mtime"		"1667927002"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VerumVincula"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VerumVincula"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1669053622"
+		"community_hub_visible"		"1"
+		"gameid"		"2185290"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"492"
+			"2"		"597"
+			"3"		"5608"
+			"4"		"4947"
+			"5"		"4085"
+			"6"		"5984"
+			"7"		"113"
+			"8"		"1742"
+			"9"		"599"
+			"10"		"3871"
+			"11"		"7250"
+			"12"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"VerumVincula"
+		"publisher"		"VerumVincula"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"VTuber Connect"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VTuberConnect.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"VTuberConnect.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"VTuberConnect.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"2185291"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2606968858720894564"
+					"size"		"510396444"
+					"download"		"400260672"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9984013"
+				"timeupdated"		"1669042574"
+			}
+		}
+	}
+}
