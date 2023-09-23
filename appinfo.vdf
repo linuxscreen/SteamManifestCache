@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"1702950"
+	"common"
+	{
+		"name"		"Jupiter Moons: Mecha Demo"
+		"type"		"Demo"
+		"parent"		"1288540"
+		"clienticon"		"3033bc282ce64084f3b08b030df9308dcf953244"
+		"clienttga"		"af5006a8147d935fd72a35a5ba38b5d8930ccc8f"
+		"icon"		"d8487982a18fccec614ebecbc6783b6bec5d8ed7"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.23172467486495"
+				"height_pct"		"63.16688475699266"
+			}
+		}
+		"store_asset_mtime"		"1648635591"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RockAndBushes"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"RockAndBushes"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"RockAndBushes"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1626935378"
+		"gameid"		"1702950"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1288540"
+		"developer"		"RockAndBushes"
+		"publisher"		"RockAndBushes"
+		"homepage"		"https://jupitermoons.org"
+	}
+	"config"
+	{
+		"installdir"		"Jupiter Moons Mecha Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Jupiter Moons Mecha.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"JupiterMoonsMecha.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian"
+		"1702951"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6272796593992157535"
+					"size"		"449664565"
+					"download"		"198889520"
+				}
+				"stable_chn"
+				{
+					"gid"		"2290644705557129203"
+					"size"		"390521396"
+					"download"		"155702528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"6003C98308E4AEE95C29172D616D3FA3"
+					"size"		"67936E3FE990681DC89AB61CCB061AD1"
+					"download"		"AC6D0B30AA21ED83D76140C9E606DDD9"
+				}
+			}
+		}
+		"1702952"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5805219748601162031"
+					"size"		"472918926"
+					"download"		"201106560"
+				}
+				"stable_chn"
+				{
+					"gid"		"8066408757826532692"
+					"size"		"430546895"
+					"download"		"157788080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B6314BEB4741B1328E26812CC687FD1A"
+					"size"		"93F86AF405ABD8AD8783D81CA1B9FB0C"
+					"download"		"114E416D213B438624D010C749DE16C8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7835842"
+				"timeupdated"		"1638804545"
+			}
+			"beta"
+			{
+				"buildid"		"7835842"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638804269"
+			}
+			"stable_chn"
+			{
+				"buildid"		"7066283"
+				"description"		"stable_chn"
+				"timeupdated"		"1638470044"
+			}
+		}
+	}
+}
