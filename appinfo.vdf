@@ -1,0 +1,117 @@
+"appinfo"
+{
+	"appid"		"2408100"
+	"common"
+	{
+		"name"		"Power Sink Demo"
+		"type"		"Demo"
+		"parent"		"2289740"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"823d6807ebec47902a46d64a534432caf634c1d8"
+		"clienttga"		"673d4b5f42a528a9a181f7ed5bc555154c62ee47"
+		"clienticon"		"4051949406e44fef09cfce8c6ed02f2164f88503"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"25.379229871645293"
+				"height_pct"		"42.78081215863214"
+			}
+		}
+		"store_asset_mtime"		"1682357709"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Winterwire Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Winterwire Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1682522966"
+		"gameid"		"2408100"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2289740"
+		"developer"		"Winterwire Games"
+		"publisher"		"Winterwire Games"
+	}
+	"config"
+	{
+		"installdir"		"Power Sink Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Power Sink.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2408101"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6513886561762609634"
+					"size"		"581699917"
+					"download"		"108345312"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11078917"
+				"timeupdated"		"1682433679"
+			}
+		}
+	}
+}
