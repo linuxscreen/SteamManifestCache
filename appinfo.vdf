@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1690460"
+	"common"
+	{
+		"name"		"Another Tomorrow Demo"
+		"type"		"Demo"
+		"parent"		"1690440"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"clienticon"		"1f43ad41e9cdbd297d10626ba1e6aad11babf0a3"
+		"clienttga"		"ab3105c6b3420e8f156232e843a0480997628da4"
+		"icon"		"d922b1add261507a9fc30fe7101a2767af71eace"
+		"clienticns"		"0ef5631d18eff628ff594f6f756e21a20e2d6e5b"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1628883426"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Glitch Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Glitch Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"The Glitchverse"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631018340"
+		"gameid"		"1690460"
+	}
+	"extended"
+	{
+		"demoofappid"		"1690440"
+		"developer"		"Glitch Games"
+		"publisher"		"Glitch Games"
+		"homepage"		"https://www.glitch.games"
+	}
+	"config"
+	{
+		"installdir"		"Another Tomorrow Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Another Tomorrow Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Another Tomorrow Demo.app\\Contents\\MacOS\\Another Tomorrow Demo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1690461"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7051916582027391174"
+					"size"		"2068943898"
+					"download"		"1878700224"
+				}
+			}
+		}
+		"1690462"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5097207299568811640"
+					"size"		"1124081250"
+					"download"		"961719696"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8950035"
+				"timeupdated"		"1655391741"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Glitch Games Ltd/Another Tomorrow Demo/Documents"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"Another Tomorrow Demo/Documents"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
