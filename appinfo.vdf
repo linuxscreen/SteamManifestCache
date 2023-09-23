@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"2132940"
+	"common"
+	{
+		"name"		"Black Trail Demo"
+		"type"		"Demo"
+		"parent"		"1576420"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"actions.json"
+		"icon"		"c329caf9ba30f99878d9fa4742e841724e9537ba"
+		"clienttga"		"21e45a67603a021b4e4259c0032a1b1089a55aa3"
+		"clienticon"		"7454f019e7a1fd23c065f0910ef5f897bac7fd3f"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"99.53325554259044"
+				"height_pct"		"86.09593920683923"
+			}
+		}
+		"store_asset_mtime"		"1663868799"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Red Horizon"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Red Horizon"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1663878240"
+		"gameid"		"2132940"
+		"onlyvrsupport"		"1"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1576420"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Red Horizon"
+		"publisher"		"Red Horizon"
+		"homepage"		"http://www.blacktrailgame.com"
+	}
+	"config"
+	{
+		"installdir"		"Black Trail Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Black Trail Demo.exe"
+				"arguments"		"-vrmode OpenVR"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Black Trail Demo.exe"
+				"arguments"		"-vrmode Oculus"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2132941"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3278877163963546854"
+					"size"		"7743457785"
+					"download"		"2788162496"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9681253"
+				"timeupdated"		"1665229240"
+			}
+		}
+	}
+}
