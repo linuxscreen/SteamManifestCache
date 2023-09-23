@@ -1,0 +1,629 @@
+"appinfo"
+{
+	"appid"		"248570"
+	"common"
+	{
+		"name"		"Toribash"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"a364e4ad7f1a9084d8d98a1997a0696967e70c50"
+		"logo_small"		"a364e4ad7f1a9084d8d98a1997a0696967e70c50_thumb"
+		"clienticon"		"274c79fed320166acf564eeb1ea246d3a929906a"
+		"clienttga"		"e6ff761bd47c9f5a24417246541a4e7df492d593"
+		"icon"		"7642e8aaf8d97a5fca68d749ed5cdd548cbb6d35"
+		"clienticns"		"fc3abdca932ff6d92b65aff0faa9610400b7095f"
+		"linuxclienticon"		"4ff24da5525d88a802076eed6c973221607ce9b3"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1651276800"
+			"tested_build_id"		"8415684"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"Toribash"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"68.83964680586534"
+				"height_pct"		"65.29064091400829"
+			}
+		}
+		"store_asset_mtime"		"1651755480"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nabi Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nicalis, Inc."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_27"		"1"
+			"category_17"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1141200000"
+		"steam_release_date"		"1400283720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"248570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"6506"
+			"2"		"1743"
+			"3"		"3859"
+			"4"		"3968"
+			"5"		"4345"
+			"6"		"19"
+			"7"		"9"
+			"8"		"1677"
+			"9"		"6915"
+			"10"		"4136"
+			"11"		"492"
+			"12"		"5228"
+			"13"		"599"
+			"14"		"1669"
+			"15"		"3810"
+			"16"		"4026"
+			"17"		"4036"
+			"18"		"4182"
+			"19"		"1741"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Nabi Studios"
+		"publisher"		"Nicalis, Inc."
+		"homepage"		"https://www.toribash.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Toribash"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Toribash.app"
+				"description"		"Play Toribash"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"Toribash.exe"
+				"description"		"Play Toribash"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"toribash_steam"
+				"description"		"Play Toribash"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"baselanguages"		"english,french,russian,portuguese"
+		"248571"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5885180000342879045"
+					"size"		"331872840"
+					"download"		"123671920"
+				}
+				"alpha"
+				{
+					"gid"		"5885180000342879045"
+					"size"		"331872840"
+					"download"		"123671920"
+				}
+				"beta"
+				{
+					"gid"		"5885180000342879045"
+					"size"		"331872840"
+					"download"		"123671920"
+				}
+				"fallback"
+				{
+					"gid"		"3800790168551804060"
+					"size"		"330781052"
+					"download"		"123214976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest2"
+				{
+					"gid"		"8DCAAAF80790FEFD0507E4F06AA26FB8"
+					"size"		"AB1648633443CC00C58498EF57B9F041"
+					"download"		"2C253CED552F32F5A38DB67CFAE4C579"
+				}
+			}
+		}
+		"248572"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2978918577740892205"
+					"size"		"30283941"
+					"download"		"8283360"
+				}
+				"alpha"
+				{
+					"gid"		"2978918577740892205"
+					"size"		"30283941"
+					"download"		"8283360"
+				}
+				"beta"
+				{
+					"gid"		"2978918577740892205"
+					"size"		"30283941"
+					"download"		"8283360"
+				}
+				"fallback"
+				{
+					"gid"		"321132760986241575"
+					"size"		"30267797"
+					"download"		"8266672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest2"
+				{
+					"gid"		"47413824E0FBC16C9EBA4D7AA816CD03"
+					"size"		"6866675B8D67B1BD7CC804EE4936256F"
+					"download"		"90D2E0F9FAF6DD6668518ED811D4D2D9"
+				}
+			}
+		}
+		"248573"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"361859612083386139"
+					"size"		"19378779"
+					"download"		"7507856"
+				}
+				"alpha"
+				{
+					"gid"		"361859612083386139"
+					"size"		"19378779"
+					"download"		"7507856"
+				}
+				"beta"
+				{
+					"gid"		"361859612083386139"
+					"size"		"19378779"
+					"download"		"7507856"
+				}
+				"fallback"
+				{
+					"gid"		"6696573122549724386"
+					"size"		"19332699"
+					"download"		"7495040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest2"
+				{
+					"gid"		"20EC1CA3273828A7717B50D86D5FD5EA"
+					"size"		"A4F7760AF539FF6798DA6C80E90A43CA"
+					"download"		"5A616D65E500E5F7CB4CB93F4660A388"
+				}
+			}
+		}
+		"248574"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1228400777109130915"
+					"size"		"17135507"
+					"download"		"6094912"
+				}
+				"alpha"
+				{
+					"gid"		"1228400777109130915"
+					"size"		"17135507"
+					"download"		"6094912"
+				}
+				"beta"
+				{
+					"gid"		"1228400777109130915"
+					"size"		"17135507"
+					"download"		"6094912"
+				}
+				"fallback"
+				{
+					"gid"		"8261663752212598847"
+					"size"		"19657987"
+					"download"		"7011296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest2"
+				{
+					"gid"		"7BD4E168E3ACAA19802B4CA25CC6D71A"
+					"size"		"7B2D77C98678AC58AFAA33FC681EE513"
+					"download"		"9A14DF8DF76F1E788DBFC3C1515E237E"
+				}
+			}
+		}
+		"248575"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3607358884738217895"
+					"size"		"66"
+					"download"		"112"
+				}
+				"alpha"
+				{
+					"gid"		"3607358884738217895"
+					"size"		"66"
+					"download"		"112"
+				}
+				"beta"
+				{
+					"gid"		"3607358884738217895"
+					"size"		"66"
+					"download"		"112"
+				}
+				"fallback"
+				{
+					"gid"		"3607358884738217895"
+					"size"		"66"
+					"download"		"112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest2"
+				{
+					"gid"		"776C0C89FEFF3036E8AC33C4720E60EA"
+					"size"		"CFDD09B5CF9B0C47F623DC6CBAFE9DAE"
+					"download"		"2F6CF89EE5240040A80C8129CE35E51C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12169775"
+				"timeupdated"		"1694529589"
+			}
+			"alpha"
+			{
+				"buildid"		"12169775"
+				"description"		"Alpha Builds (newest features, unstable performance)"
+				"timeupdated"		"1694529567"
+			}
+			"beta"
+			{
+				"buildid"		"12169775"
+				"description"		"Beta Builds"
+				"timeupdated"		"1694529576"
+			}
+			"devtest2"
+			{
+				"buildid"		"12169775"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694529495"
+			}
+			"fallback"
+			{
+				"buildid"		"11686079"
+				"description"		"Previous stable release"
+				"timeupdated"		"1691410001"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"data/mod/modmaker/"
+				"pattern"		"*.tbm"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"tb_login.dat"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"data/"
+				"pattern"		"buddies.txt"
+			}
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"data/mod_assets/"
+				"pattern"		"*.obj"
+				"recursive"		"1"
+			}
+			"4"
+			{
+				"root"		"gameinstall"
+				"path"		"data/mod_assets/"
+				"pattern"		"*.tga"
+				"recursive"		"1"
+			}
+			"5"
+			{
+				"root"		"gameinstall"
+				"path"		"data/mod_assets/"
+				"pattern"		"*.wav"
+				"recursive"		"1"
+			}
+			"6"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Toribash/"
+				"pattern"		"tb_login.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"7"
+			{
+				"root"		"MacHome"
+				"path"		"Library/Application/Toribash/"
+				"pattern"		"tb_login.dat"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+			"8"
+			{
+				"root"		"LinuxHome"
+				"path"		".local/share/Toribash/"
+				"pattern"		"tb_login.dat"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+			"9"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/Toribash/"
+				"pattern"		"tb_login.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"10"
+			{
+				"root"		"gameinstall"
+				"path"		"data/script/system/"
+				"pattern"		"movememory.mm"
+			}
+			"11"
+			{
+				"root"		"gameinstall"
+				"path"		"replay/my replays/"
+				"pattern"		"*.rpl"
+				"recursive"		"1"
+			}
+			"12"
+			{
+				"root"		"gameinstall"
+				"path"		"data/"
+				"pattern"		"flames_stored.dat"
+			}
+		}
+	}
+}
