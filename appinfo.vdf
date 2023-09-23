@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"1739540"
+	"common"
+	{
+		"name"		"Moon Caves Demo"
+		"type"		"Demo"
+		"parent"		"1469450"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"0b08a8f624bf25438786365adefdfaccd625c373"
+		"clienttga"		"7cc238e2d876b64a07413120db1d30e064d385d7"
+		"icon"		"8ca830c7a4f63ffe0a1d49166ff5f64f241f065a"
+		"logo"		"0224794ccfb78f4a47de4d4e646ba54c1361373e"
+		"logo_small"		"0224794ccfb78f4a47de4d4e646ba54c1361373e_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1630028923"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RPROGaming"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"RPROGaming"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630519237"
+		"gameid"		"1739540"
+	}
+	"extended"
+	{
+		"demoofappid"		"1469450"
+		"developer"		"RPROGaming"
+		"publisher"		"RPROGaming"
+	}
+	"config"
+	{
+		"installdir"		"Moon Caves Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Moon Caves.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian"
+		"workshopdepot"		"1739540"
+		"1739541"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7932400591468508908"
+					"size"		"78358873"
+					"download"		"20704352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"1E5E11A92D2BF8482E6349E1F18C467A"
+					"size"		"BEDBBC34B658C8A3F714E0C2DDD02BE9"
+					"download"		"F978BF936496BCD61C05758A7DD06384"
+				}
+				"private_beta"
+				{
+					"gid"		"524D0E5F5051C29422894010FBB623B7"
+					"size"		"201962FCCAFBDE8D90AC6C1684FC0584"
+					"download"		"1ED8B9A246A37551719519D4E34AA1A7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9490842"
+				"timeupdated"		"1662827228"
+			}
+			"development"
+			{
+				"buildid"		"9490842"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662826466"
+			}
+			"private_beta"
+			{
+				"buildid"		"9490842"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662826476"
+			}
+		}
+	}
+}
