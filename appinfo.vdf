@@ -1,0 +1,156 @@
+"appinfo"
+{
+	"appid"		"1769300"
+	"common"
+	{
+		"name"		"Countess in Crimson Demo"
+		"type"		"Demo"
+		"parent"		"1455070"
+		"releasestate"		"released"
+		"clienticon"		"250dd622795c154e19fb85ebf46a373b50277ee2"
+		"clienttga"		"cea77a18a71a14b33445c510ab9d58f0623374e5"
+		"icon"		"8088c01fa5dcb2ef93aec27e060926c859c169ad"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1632343713"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Digital Seductions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Digital Seductions"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1632694617"
+		"community_visible_stats"		"1"
+		"gameid"		"1769300"
+	}
+	"extended"
+	{
+		"demoofappid"		"1455070"
+		"developer"		"Digital Seductions"
+		"publisher"		"Digital Seductions"
+		"homepage"		"https://digitalseductions.com"
+	}
+	"config"
+	{
+		"installdir"		"Countess in Crimson Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Countess in Crimson Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1769301"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1818181556760372627"
+					"size"		"2309378305"
+					"download"		"2232595536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"45642AF66BCEF67D402AED251C478852"
+					"size"		"691841011158275D59419C8CF70D5B93"
+					"download"		"E50DFA974BFD076188D0DB4096AF9A52"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8773503"
+				"timeupdated"		"1652992122"
+			}
+			"test"
+			{
+				"buildid"		"8773503"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652991798"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Digital Seductions/Countess in Crimson Demo/Savegames/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"scenes"
+				"pattern"		"bc.x"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
