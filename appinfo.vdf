@@ -1,0 +1,171 @@
+"appinfo"
+{
+	"appid"		"214710"
+	"common"
+	{
+		"name"		"KungFu Strike Demo"
+		"type"		"Demo"
+		"clienticon"		"0421dec2e1d5449c1f8d24a066cd8342a3b05fc3"
+		"clienttga"		"7d81dfa53b2e9adc17d1a39d4d94a50ed1602129"
+		"icon"		"97a2dcc75d66a8a2c707ba7053a67aae2bbff264"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+		}
+		"freeondemand"		"1"
+		"parent"		"212030"
+		"metacritic_name"		"KungFu Strike"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1343856779"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Qooc Software "
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Digital Tribes"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"steam_release_date"		"1343952180"
+		"community_visible_stats"		"1"
+		"gameid"		"214710"
+	}
+	"extended"
+	{
+		"demoofappid"		"212030"
+		"developer"		"Qooc Software "
+		"gamedir"		"KungFuStrike Demo"
+		"homepage"		""
+		"icon"		""
+		"installscript"		"214710_install.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"214711"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Digital Tribes"
+	}
+	"config"
+	{
+		"installscriptsignature"		"4e6564d04b314c4085e6d699057f773d608eedf24597502b97dc87a3f7d4cd94c4b463e736819d9a1e22a4b69f3e5a03ea6a1d0a5ecbdbd60a2b46469cf7bc153f97643971eb7ec6b880cacf4c1a83c618cb6ab13c2ea43965846e1dff55846ffee36560ebbed220d0eeca433e2651d670c2643fc5492a078a0b0cd16a9d5084"
+		"installscriptoverride"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"KungFuStrikeDemo.exe"
+			}
+			"1"
+			{
+				"description"		"FullScreen"
+				"executable"		"KungFuStrikeDemo.exe"
+				"arguments"		"-f"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"KungFuStrike Demo"
+	}
+	"install"
+	{
+		"registry"
+		{
+			"hkey_local_machine\software\qooc\kungfustrikewr"
+			{
+				"string"
+				{
+					"install_path"		"%INSTALLDIR%"
+					"exe_path"		"%INSTALLDIR%\\KungFuStrikeDemo.exe"
+				}
+			}
+		}
+		"run process"
+		{
+			".net20_32"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\NET Framework Setup\\NDP\\v2.0.50727"
+				"process 1"		"%INSTALLDIR%\\redist\\dotnetfx.exe"
+				"command 1"		"/Q /C:\"install.exe /Q\""
+				"nocleanup"		"1"
+				"requirement_os"
+				{
+					"is64bitwindows"		"0"
+				}
+			}
+			".net20_64"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\NET Framework Setup\\NDP\\v2.0.50727"
+				"process 1"		"%INSTALLDIR%\\redist\\NetFx64.exe"
+				"command 1"		"/Q /C:\"install.exe /Q\""
+				"nocleanup"		"1"
+				"requirement_os"
+				{
+					"is64bitwindows"		"1"
+				}
+			}
+			"xna31"
+			{
+				"process 1"		"msiexec.exe"
+				"command 1"		"/quiet /i \"%INSTALLDIR%\\redist\\xnafx31_redist.msi\""
+				"nocleanup"		"0"
+			}
+			"directx"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Qooc\\KungFuStrike\\Req\\dx"
+				"process 1"		"%INSTALLDIR%\\DirectX\\DXSETUP.exe"
+				"command 1"		"/silent"
+				"nocleanup"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"214711"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6472582730393374955"
+					"size"		"1112819153"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"66091"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"212030"
+	}
+}
