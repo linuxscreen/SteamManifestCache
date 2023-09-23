@@ -1,0 +1,315 @@
+"appinfo"
+{
+	"appid"		"852780"
+	"common"
+	{
+		"name"		"Temperia: Soul of Majestic"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"7d977b6574bcec8884ec05ffc8795729599e0924"
+		"clienticon"		"fa091b8f4c332732373aaa8cd42164c41063d2aa"
+		"icon"		"2dd4b657559a00b01e858aab6b83c22c65df9dad"
+		"clienticns"		"36a029f5ce18abc8b152d3791ea26b286819b148"
+		"linuxclienticon"		"d162c01656e8ccbcdab6df661eec53dd591e1f2c"
+		"osextended"		""
+		"logo"		"ed2a988a45ea440ce3f6452ba4caec783106653f"
+		"logo_small"		"ed2a988a45ea440ce3f6452ba4caec783106653f_thumb"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"852780_eula_0"
+				"name"		"Temperia: Soul of Majestic EULA"
+				"url"		"https://store.steampowered.com//eula/852780_eula_0"
+				"version"		"1"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"52.2093023255814"
+				"height_pct"		"67.47803372120637"
+			}
+		}
+		"store_asset_mtime"		"1675866099"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MoonWolf Entertainment"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"A2  Softworks"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"MoonWolf Entertainment"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1658832763"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"852780"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"1666"
+			"3"		"32322"
+			"4"		"9271"
+			"5"		"122"
+			"6"		"3859"
+			"7"		"791774"
+			"8"		"1684"
+			"9"		"1775"
+			"10"		"493"
+			"11"		"3878"
+			"12"		"1770"
+			"13"		"128"
+			"14"		"17389"
+			"15"		"1677"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+		"review_score_bombs"		"8"
+		"review_percentage_bombs"		"88"
+	}
+	"extended"
+	{
+		"developer"		"MoonWolf Entertainment"
+		"publisher"		"MoonWolf Entertainment"
+		"homepage"		"https://playtemperia.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TemperiaSoulofMajestic"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Temperia Soul of Majestic.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Majestic.app\\Contents\\MacOS\\Majestic"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Temperia Soul of Majestic.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,italian"
+		"852781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6586742494190985402"
+					"size"		"2271317288"
+					"download"		"573305280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a2s_internal"
+				{
+					"gid"		"EAEACA10B59F4D8B1EC92118D0C28F44"
+					"size"		"5D59E57B1286E27934ACCFB315F12FB4"
+					"download"		"C671D725D3903DA647B496D5D5E07115"
+				}
+				"mw_internal"
+				{
+					"gid"		"1AD81997FA71B0E6D9726EAD4061BFA4"
+					"size"		"63DC30E92B416862AC7EBB1BE666DAAD"
+					"download"		"5AC870A50EC80FCB1E4F623FEADD5574"
+				}
+			}
+		}
+		"852782"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2713427600826907286"
+					"size"		"1047954139"
+					"download"		"456126784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a2s_internal"
+				{
+					"gid"		"ED78802A1794E7A680ECDE5243051AB5"
+					"size"		"C87135A4B9E6695BE9B8C2446809933F"
+					"download"		"2F0636E919B885D72E7F22AAE53FBC3F"
+				}
+				"mw_internal"
+				{
+					"gid"		"D2D281D43E5DD9AADD4F90FCF61EEF0F"
+					"size"		"DA70C33F33504C9D0DE57BEAFF4B3784"
+					"download"		"F7B630292726C869BC6B6F055537BBA5"
+				}
+			}
+		}
+		"852783"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+		}
+		"852784"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4656669314350757983"
+					"size"		"1010001278"
+					"download"		"449336672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"a2s_internal"
+				{
+					"gid"		"55C2DB816FFDD24373C0ED334B3640F1"
+					"size"		"D464DD8E9A244DE0303CEA7A35B2A256"
+					"download"		"C79F146FCC4BE6A4A53E4C484AED1423"
+				}
+				"mw_internal"
+				{
+					"gid"		"7D9D575B683B24CFA9A706FDA8FB15A9"
+					"size"		"7712314B75BF068916B2A1E1383AE1D9"
+					"download"		"45E36E7AE05402A07AD5608E8EECCFC4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11113177"
+				"timeupdated"		"1682674871"
+			}
+			"a2s_internal"
+			{
+				"buildid"		"11113177"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682674708"
+			}
+			"mw_internal"
+			{
+				"buildid"		"11113177"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682674879"
+			}
+		}
+	}
+}
