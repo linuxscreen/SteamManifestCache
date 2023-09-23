@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"1698620"
+	"common"
+	{
+		"name"		"Spindle Demo"
+		"type"		"Demo"
+		"parent"		"1386750"
+		"clienttga"		"6e8c8dedda75f8740c8052ac683febc6a36f098a"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"8ccc0bd2bbcacd32664df754cd79f7683f5fe707"
+		"icon"		"197b1dde51e6e9f15938c9135db1eb6cf8945c2d"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.46448615120959"
+				"height_pct"		"45.84382903485206"
+			}
+		}
+		"store_asset_mtime"		"1626766262"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Let's GameDev"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Wobble Ghost"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Deck13"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627559464"
+		"gameid"		"1698620"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1386750"
+		"developer"		"Let's GameDev"
+		"publisher"		"Deck13"
+		"homepage"		"https://www.spindle-adventure.com/"
+	}
+	"config"
+	{
+		"installdir"		"Spindle Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"gamescom_demo_win\\spindle.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"gamescom_demo_mac\\spindle.app\\Contents\\MacOS\\spindle"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"gamescom_demo_linux/spindle.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,japanese"
+		"1698621"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3137682227278597251"
+					"size"		"263316656"
+					"download"		"210057984"
+				}
+			}
+		}
+		"1698622"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5963054581851533405"
+					"size"		"267231456"
+					"download"		"212299472"
+				}
+			}
+		}
+		"1698623"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3142797438404983550"
+					"size"		"301065728"
+					"download"		"220807808"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12005387"
+				"timeupdated"		"1692724329"
+			}
+		}
+	}
+}
