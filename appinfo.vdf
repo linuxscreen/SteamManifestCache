@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"2327660"
+	"common"
+	{
+		"name"		"Pigeon Protocol"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"89c8a7cd450d908085b7191459988b4b27627529"
+		"clienttga"		"5723f759be44dc335d5fe7add936b1590e5ab7eb"
+		"clienticon"		"2875ff9f340302b4d64eacedbe56df6caa47f493"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1686009600"
+			"tested_build_id"		"11125662"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"95.21586931155193"
+				"height_pct"		"74.92401332106135"
+			}
+		}
+		"store_asset_mtime"		"1680704903"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bronze Box Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bronze Box Interactive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1682095850"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2327660"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3859"
+			"2"		"4747"
+			"3"		"15045"
+			"4"		"599"
+			"5"		"3993"
+			"6"		"597"
+			"7"		"4136"
+			"8"		"4195"
+			"9"		"4726"
+			"10"		"1775"
+			"11"		"492"
+			"12"		"4191"
+			"13"		"113"
+			"14"		"1697"
+			"15"		"7481"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Bronze Box Interactive"
+		"publisher"		"Bronze Box Interactive"
+		"isfreeapp"		"1"
+		"listofdlc"		"2395920"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Pigeon Protocol"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Pigeon Protocol.exe"
+				"description_loc"
+				{
+					"english"		"Standard Launch Method"
+				}
+				"description"		"Standard Launch Method"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"2327661"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"118117568435140642"
+					"size"		"594769413"
+					"download"		"280997792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"hotfix"
+				{
+					"gid"		"C0CF56FBAE455C64F9E0B726AEE23E20"
+					"size"		"A84FEC5B4D00B54B8C58F3548CD1CA6D"
+					"download"		"6C12724DB155A9C1821CCD2DF070E9E0"
+				}
+				"test"
+				{
+					"gid"		"21D63FE79281B37A42E0307BFE2FD3B9"
+					"size"		"399397B893BC1BDD3336704A42FFF63D"
+					"download"		"EC9F41E2D9F8B5661BC79C603352CF8B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11440041"
+				"timeupdated"		"1686847779"
+			}
+			"hotfix"
+			{
+				"buildid"		"10969342"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681134405"
+			}
+			"test"
+			{
+				"buildid"		"11440041"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686406908"
+			}
+		}
+	}
+}
