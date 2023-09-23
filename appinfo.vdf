@@ -1,0 +1,266 @@
+"appinfo"
+{
+	"appid"		"1710390"
+	"common"
+	{
+		"name"		"いの べーしょん! 2007"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"name_localized"
+		{
+			"english"		"INNO VATION! 2007"
+		}
+		"logo"		"02fbf3bb0249ba175d36dd5d53c9d368d1a8f529"
+		"logo_small"		"02fbf3bb0249ba175d36dd5d53c9d368d1a8f529_thumb"
+		"icon"		"77cb929f31875b94e3a51965600cff37acf14a54"
+		"clienttga"		"ca1afdd2f3994fc91b5dc08efecb57fd5c24c8e7"
+		"clienticon"		"5a9553fa1bf6279f447cab978e0a035dfe97426b"
+		"clienticns"		"5a160661139fcc1481ef6eeba40d18f4dddae61b"
+		"linuxclienticon"		"a53d5719adcbd9229dbe49a416765134bb9df20b"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ja,en"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1630066405"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hajime Hoshi"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hajime Hoshi"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630094461"
+		"community_hub_visible"		"1"
+		"gameid"		"1710390"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4106"
+			"2"		"1625"
+			"3"		"5379"
+			"4"		"5652"
+			"5"		"3871"
+			"6"		"4726"
+			"7"		"3964"
+			"8"		"113"
+			"9"		"7481"
+			"10"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Hajime Hoshi"
+		"publisher"		"Hajime Hoshi"
+		"homepage"		"http://o-mega.sakura.ne.jp/product/ino.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"innovation2007"
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65535"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"innovation2007_windows_386.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"innovation2007_windows_amd64.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"Innovation2007.app\\Contents\\MacOS\\innovation2007"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"4"
+			{
+				"executable"		"innovation2007_linux_386"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"5"
+			{
+				"executable"		"innovation2007_linux_amd64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"hasdepotsindlc"		"0"
+		"1710394"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"487947241587527305"
+					"size"		"9117696"
+					"download"		"5353408"
+				}
+			}
+		}
+		"1710391"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2633985859915984244"
+					"size"		"9640960"
+					"download"		"5484032"
+				}
+			}
+		}
+		"1710392"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1478805715979439353"
+					"size"		"10419536"
+					"download"		"5415552"
+				}
+			}
+		}
+		"1710393"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5065589809949153683"
+					"size"		"12256575"
+					"download"		"4540288"
+				}
+			}
+		}
+		"1710395"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2505772188583481505"
+					"size"		"14440839"
+					"download"		"4659680"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7266194"
+				"timeupdated"		"1630150573"
+			}
+		}
+	}
+}
