@@ -1,0 +1,242 @@
+"appinfo"
+{
+	"appid"		"1949970"
+	"common"
+	{
+		"name"		"J-Jump Arena"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"48e022b9c9a34e06dbd53f4d2bd212482cdba374"
+		"clienttga"		"7743b682f89e8317676847cd08ded1f3322f964e"
+		"icon"		"ab45abad16c9b0bacd43f2e4aad18df44563cbfa"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1949970_eula_0"
+				"name"		"J-Jump Arena EULA"
+				"url"		"https://store.steampowered.com//eula/1949970_eula_0"
+				"version"		"2"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"49.30232558139534"
+				"height_pct"		"87.84136784611732"
+			}
+		}
+		"store_asset_mtime"		"1692794173"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pawel Zajac (Artbarian Games)"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pawel Zajac (Artbarian Games)"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"37"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1692892602"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1949970"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1663"
+			"2"		"19"
+			"3"		"176981"
+			"4"		"492"
+			"5"		"1677"
+			"6"		"14139"
+			"7"		"1775"
+			"8"		"3859"
+			"9"		"4136"
+			"10"		"4726"
+			"11"		"3877"
+			"12"		"4562"
+			"13"		"4305"
+			"14"		"5395"
+			"15"		"1625"
+			"16"		"597"
+			"17"		"7178"
+			"18"		"3843"
+			"19"		"3968"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Pawel Zajac (Artbarian Games)"
+		"publisher"		"Pawel Zajac (Artbarian Games)"
+		"homepage"		"http://artbariangames.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"2401760"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"J-Jump Arena"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"J-Jump Arena.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1949971"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"553478083469616603"
+					"size"		"210391346"
+					"download"		"125311648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"CFE59C20409CBE749D60F83A5DE31FFE"
+					"size"		"7D42E8C88D5275EF517D09B0AEE77E27"
+					"download"		"AA79AFFF8590516CB0DE02B1C5E2F50B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12206727"
+				"timeupdated"		"1694878267"
+			}
+			"beta"
+			{
+				"buildid"		"12206727"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694878102"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#menu"		"Chilling in Main Menu"
+					"#publicroom"		"Awaiting for a game in a public room"
+					"#privateroom"		"Awaiting for a game in a private room"
+					"#public_m0"		"Public Game - The Last Man Standing"
+					"#public_m1"		"Public Game - Disappearing Platforms"
+					"#public_m2"		"Public Game - Treasure Hunt"
+					"#public_m3"		"Public Game - Peaceful Race"
+					"#public_m4"		"Public Game - Weapon Race"
+					"#public_m5"		"Public Game - Deathmatch"
+					"#private_m0"		"Private Game - The Last Man Standing"
+					"#private_m1"		"Private Game - Disappearing Platforms"
+					"#private_m2"		"Private Game - Treasure Hunt"
+					"#private_m3"		"Private Game - Peaceful Race"
+					"#private_m4"		"Private Game - Weapon Race"
+					"#private_m5"		"Private Game - Deathmatch"
+					"#bots"		"Practicing with bots"
+				}
+			}
+			"polish"
+			{
+				"tokens"
+				{
+					"#menu"		"Chilluje w Menu Głównym"
+					"#publicroom"		"Oczekuje na grę online w pokoju publicznym"
+					"#privateroom"		"Oczekuje na grę online w pokoju prywatnym"
+					"#public_m0"		"Gra Publiczna - Do Ostatniego Żywego"
+					"#public_m1"		"Gra Publiczna - Znikające Platformy"
+					"#public_m2"		"Gra Publiczna - Łowy Skarbów"
+					"#public_m3"		"Gra Publiczna - Spokojny Wyścig"
+					"#public_m4"		"Gra Publiczna - Rozwałka"
+					"#private_m0"		"Gra Prywatna - Do Ostatniego Żywego"
+					"#private_m1"		"Gra Prywatna - Znikające Platformy"
+					"#private_m2"		"Gra Prywatna - Łowy Skarbów"
+					"#private_m3"		"Gra Prywatna - Spokojny Wyścig"
+					"#private_m4"		"Gra Prywatna - Wyścig z Brońmi"
+					"#private_m5"		"Gra Prywatna - Rozwałka"
+					"#bots"		"Trenuje z botami"
+				}
+			}
+		}
+	}
+}
