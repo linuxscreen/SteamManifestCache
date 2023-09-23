@@ -1,0 +1,128 @@
+"appinfo"
+{
+	"appid"		"1683980"
+	"common"
+	{
+		"name"		"Super Astreus 2 Demo"
+		"type"		"Demo"
+		"parent"		"1253240"
+		"releasestate"		"released"
+		"clienticon"		"f32944add371d3e1109239725b79cbff6f8cbd62"
+		"clienttga"		"33f2862b0166c91918a21e105c5ff220b84a90d3"
+		"icon"		"dc2574dbadcee7302ef113a811ea08af1deb95c3"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1625083389"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"4M2Q Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"4M2Q Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Super Astreus"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629394550"
+		"gameid"		"1683980"
+	}
+	"extended"
+	{
+		"demoofappid"		"1253240"
+		"developer"		"4M2Q Games"
+		"publisher"		"4M2Q Games"
+	}
+	"config"
+	{
+		"installdir"		"Super Astreus 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Super Astreus 2.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1683981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"216481073184331184"
+					"size"		"536487528"
+					"download"		"86410320"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7522075"
+				"timeupdated"		"1634076074"
+			}
+		}
+	}
+}
