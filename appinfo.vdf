@@ -1,0 +1,197 @@
+"appinfo"
+{
+	"appid"		"1696820"
+	"common"
+	{
+		"name"		"Low Light Combat"
+		"type"		"Game"
+		"logo"		"235649625142996ab5491619592b76f0dfa52a26"
+		"logo_small"		"235649625142996ab5491619592b76f0dfa52a26_thumb"
+		"icon"		"393d3b7970ce28aef4b36d6e23c556b8d3c2dc85"
+		"clienticon"		"d8198299322a537789e16123a19bc3bcc9d29905"
+		"clienttga"		"6c50529eae778af9c8cda8da864fa146bf72a41c"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"48.6046511627907"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1626786578"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wolfire Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wolfire Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Wolfire Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626879570"
+		"community_hub_visible"		"1"
+		"gameid"		"1696820"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1774"
+			"2"		"5547"
+			"3"		"113"
+			"4"		"1663"
+			"5"		"1687"
+			"6"		"3839"
+			"7"		"3859"
+			"8"		"4342"
+			"9"		"4295"
+			"10"		"1775"
+			"11"		"3916"
+			"12"		"492"
+			"13"		"3993"
+			"14"		"3878"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Wolfire Games"
+		"publisher"		"Wolfire Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Low Light Combat"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LowLightCombat.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"LowLightCombat.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1696821"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2455845042711081244"
+					"size"		"2666514639"
+					"download"		"1804140928"
+				}
+			}
+		}
+		"1696822"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8048173416619242422"
+					"size"		"3719065993"
+					"download"		"1981326176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7593744"
+				"timeupdated"		"1635163367"
+			}
+		}
+	}
+}
