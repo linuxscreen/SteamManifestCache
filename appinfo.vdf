@@ -1,0 +1,143 @@
+"appinfo"
+{
+	"appid"		"1722490"
+	"common"
+	{
+		"name"		"Guild of Dungeoneering Demo"
+		"type"		"Demo"
+		"parent"		"317820"
+		"releasestate"		"released"
+		"clienticon"		"b09d39c7bc758b0a121239dcd560439b6ee09181"
+		"clienttga"		"54740f24bce25cae6b2587d8ba2ab71e24b27c8b"
+		"icon"		"0806371ce3f03d4ffb6c9fb61230a36049f3331b"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.9825378346915"
+				"height_pct"		"64.43768929999496"
+			}
+		}
+		"store_asset_mtime"		"1628697745"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gambrinous"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gambrinous"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1629714454"
+		"gameid"		"1722490"
+	}
+	"extended"
+	{
+		"demoofappid"		"317820"
+		"developer"		"Gambrinous"
+		"publisher"		"Gambrinous"
+		"homepage"		"http://www.guildofdungeoneering.com"
+	}
+	"config"
+	{
+		"installdir"		"Guild of Dungeoneering Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Ultimate Dungeoneering.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"GuildUltimate.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1722491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4980702042536293195"
+					"size"		"655442327"
+					"download"		"560003936"
+				}
+			}
+		}
+		"1722492"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7913860210730496700"
+					"size"		"676405183"
+					"download"		"566776224"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7272923"
+				"timeupdated"		"1630332706"
+			}
+		}
+	}
+}
