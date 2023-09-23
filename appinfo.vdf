@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"207770"
+	"common"
+	{
+		"name"		"Men Of War: Assault Squad GOTY Demo"
+		"logo"		"86309a14c61192243a260a3bdbf51707cf7ea190"
+		"logo_small"		"86309a14c61192243a260a3bdbf51707cf7ea190_thumb"
+		"clienticon"		"4826ee62704b06709628ea5abc46195ce533f4f2"
+		"clienttga"		"76b2ac1b0c530cbab6c6cf00aed05c806de66538"
+		"icon"		"7c6cd9e61afc348bb95f2b5a54adcd488c2efbc4"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"parent"		"64000"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1332257672"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Digitalmindsoft"
+			}
+		}
+		"primary_genre"		"0"
+		"steam_release_date"		"1332257460"
+		"gameid"		"207770"
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"demoofappid"		"64000"
+		"developer"		"Digitalmindsoft"
+		"gamedir"		"Men Of War Assault Squad GOTY Demo"
+		"homepage"		""
+		"icon"		""
+		"installscript"		"207770_install.vdf"
+		"noservers"		"1"
+		"onquitdemoshellexecute"		"steam://store/64000"
+		"order"		"1"
+		"primarycache"		"207771"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+	}
+	"config"
+	{
+		"installscriptsignature"		"5f7ae0daffc9ab8df3305ba36adbdc4ac0027ad245e7e7a236544c390876ff6d70bc3fc3b92dafb3224fda846e2a3638104332fa032b5882d5457040df7c018fad1fe3eab48c29c49ae8ba18da99a46c99738284240af22d053285e3bee53d3205a1ce278cb6072621858a927f2440ead5366d188c6b400a082ae895717bfbb9"
+		"installscriptoverride"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"mow_assault_squad.exe"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Men Of War Assault Squad GOTY Demo"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"directx"
+			{
+				"process 1"		"%INSTALLDIR%\\DirectX\\DXSETUP.exe"
+				"command 1"		"/silent"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"207771"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"961575330175200631"
+					"size"		"3462879917"
+					"download"		"0"
+				}
+			}
+		}
+		"207772"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4387780272520586465"
+					"size"		"142926459"
+					"download"		"0"
+				}
+			}
+		}
+		"207773"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3026706452536440845"
+					"size"		"115171504"
+					"download"		"0"
+				}
+			}
+		}
+		"207774"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1629956548400568328"
+					"size"		"110409091"
+					"download"		"0"
+				}
+			}
+		}
+		"207775"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5107820920623382922"
+					"size"		"140229184"
+					"download"		"0"
+				}
+			}
+		}
+		"207776"
+		{
+			"config"
+			{
+				"language"		"polish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6115723659272868407"
+					"size"		"115577584"
+					"download"		"0"
+				}
+			}
+		}
+		"207778"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"571416046361052788"
+					"size"		"104617632"
+					"download"		"0"
+				}
+			}
+		}
+		"markdlcdepots"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"66096"
+			}
+		}
+	}
+}
