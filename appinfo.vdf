@@ -1,0 +1,118 @@
+"appinfo"
+{
+	"appid"		"1673860"
+	"common"
+	{
+		"name"		"念诗姬 Poetry Tuber Demo"
+		"type"		"Demo"
+		"parent"		"1668270"
+		"releasestate"		"released"
+		"icon"		"0de677f58a8ea1e3ecc69c770230d6abff72e8df"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"465d7db1f54d28e30927a083c6b84bd41518186e"
+		"clienttga"		"df7e63e40d556842f144fbd312b6040b74c68459"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.93023255813953"
+				"height_pct"		"93.31512704820707"
+			}
+		}
+		"store_asset_mtime"		"1628954830"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"1kvoidsoft 仟虚软件"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"1kvoidsoft 仟虚软件"
+			}
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1629434936"
+		"gameid"		"1673860"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1668270"
+		"developer"		"1kvoidsoft 仟虚软件"
+		"publisher"		"1kvoidsoft 仟虚软件"
+	}
+	"config"
+	{
+		"installdir"		"PoetryTuberDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PoetryTuber.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"1673861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1558677272507832264"
+					"size"		"1069539648"
+					"download"		"373051648"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12074573"
+				"timeupdated"		"1693450562"
+			}
+		}
+	}
+}
