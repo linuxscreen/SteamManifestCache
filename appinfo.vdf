@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"1709860"
+	"common"
+	{
+		"name"		"Bill Hates Videogames Demo"
+		"type"		"Demo"
+		"parent"		"1370420"
+		"releasestate"		"released"
+		"clienticon"		"28cfdb76228993c146aa517ac69e15ab2e238058"
+		"clienttga"		"3891160703611a1774e68cc532f518ca96fb50a9"
+		"icon"		"7c1023fb91b50e81e34e75b1af712556e788d6f9"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1627482723"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Saam"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"M. James Short"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"SaamSoft"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1629133413"
+		"gameid"		"1709860"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1370420"
+		"developer"		"Saam"
+		"publisher"		"SaamSoft"
+		"homepage"		"http://billhatesgames.com"
+	}
+	"config"
+	{
+		"installdir"		"Bill Hates Videogames Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bill_hates_videogames.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"bhv_upgrade.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1709861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6810091476248368175"
+					"size"		"131886907"
+					"download"		"52113440"
+				}
+			}
+		}
+		"1709862"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"565793614944396847"
+					"size"		"134981401"
+					"download"		"53589712"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7194360"
+				"timeupdated"		"1629084942"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"1"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
