@@ -1,0 +1,132 @@
+"appinfo"
+{
+	"appid"		"2355300"
+	"common"
+	{
+		"name"		"PAIN-TO-WIN Demo"
+		"type"		"Demo"
+		"parent"		"727690"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"bc493550c24705011456a46a2850a54f6ccd6f2e"
+		"clienticon"		"0e19c58cea9b4fb77d31d3fc1a27d2603f1be127"
+		"clienttga"		"f436136492114eb5b3bb003f9a001636aa4521b2"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"72.87047841306884"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1695417962"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PTW"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PTW"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PAIN-TO-WIN"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678814367"
+		"community_hub_visible"		"1"
+		"gameid"		"2355300"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"727690"
+		"developer"		"PTW"
+		"publisher"		"PTW"
+	}
+	"config"
+	{
+		"installdir"		"PAIN-TO-WIN Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ptw-demo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"2355301"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1719370537456223471"
+					"size"		"876464253"
+					"download"		"134890096"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12250394"
+				"timeupdated"		"1695328129"
+			}
+		}
+	}
+}
