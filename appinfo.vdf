@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"1675600"
+	"common"
+	{
+		"name"		"Holt"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"de6a66ecf7ea16ee7b1c38f21763d74b4753ba13"
+		"logo_small"		"de6a66ecf7ea16ee7b1c38f21763d74b4753ba13_thumb"
+		"icon"		"75bbb26354bc9acd59812fec5cc2c2b462dd64b1"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"7e0f96a9a54796f1203685db6f280d06e3f105f1"
+		"clienticon"		"27a9a08ededce8d8c768252deb7a869509c6eda2"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1650326400"
+			"tested_build_id"		"8068179"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1650847848"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Void Hook"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Void Hook"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1640733600"
+		"community_hub_visible"		"1"
+		"gameid"		"1675600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4106"
+			"3"		"1625"
+			"4"		"5379"
+			"5"		"3871"
+			"6"		"4145"
+			"7"		"4094"
+			"8"		"3964"
+			"9"		"4604"
+			"10"		"5030"
+			"11"		"4295"
+			"12"		"3952"
+			"13"		"4821"
+			"14"		"4172"
+			"15"		"4004"
+			"16"		"3942"
+			"17"		"5794"
+			"18"		"1755"
+			"19"		"3993"
+		}
+		"review_score"		"7"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Void Hook"
+		"publisher"		"Void Hook"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Holt"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Holt.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1675601"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1577874358285153747"
+					"size"		"23608687"
+					"download"		"12516176"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11895990"
+				"timeupdated"		"1691524343"
+			}
+		}
+	}
+}
