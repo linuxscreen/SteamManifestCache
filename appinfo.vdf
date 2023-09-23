@@ -1,0 +1,152 @@
+"appinfo"
+{
+	"appid"		"2358130"
+	"common"
+	{
+		"name"		"过阴 Demo"
+		"type"		"Demo"
+		"parent"		"1772060"
+		"releasestate"		"released"
+		"icon"		"084146c5e8856d88c217a346a86184b58eae08d2"
+		"clienticon"		"a67ee3e15d02f983ff320a1acbfcfd4b8ec5875d"
+		"clienttga"		"52ce3352412f270f338c8ac7a1539f3d1d2129bd"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.591097431663698"
+				"height_pct"		"49.65279746091191"
+			}
+		}
+		"store_asset_mtime"		"1680189450"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"漫森游戏工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"East2West Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"East2West Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"漫森游戏工作室"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"回门"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1680508844"
+		"gameid"		"2358130"
+	}
+	"extended"
+	{
+		"demoofappid"		"1772060"
+		"developer"		"漫森游戏工作室"
+		"publisher"		"East2West Games"
+	}
+	"config"
+	{
+		"installdir"		"过阴"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"过阴.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"2358131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4394240070587418940"
+					"size"		"7657714327"
+					"download"		"7252182256"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11174458"
+				"timeupdated"		"1683456286"
+			}
+		}
+	}
+}
