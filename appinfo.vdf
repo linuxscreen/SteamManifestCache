@@ -1,0 +1,141 @@
+"appinfo"
+{
+	"appid"		"1312030"
+	"common"
+	{
+		"name"		"Glitchphobia Demo"
+		"type"		"Demo"
+		"parent"		"1300880"
+		"releasestate"		"released"
+		"clienticon"		"31d21e082d40502b55c8fe15b9e286ced77f3d27"
+		"clienttga"		"d63a16f248dc905ba256d03644701a8414afcafc"
+		"icon"		"51c12f088b4cf86efc646536583dbc09bfa49486"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1588725045"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Apply Damage"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Apply Damage"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"steam_release_date"		"1588723348"
+		"gameid"		"1312030"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1300880"
+		"developer"		"Apply Damage"
+		"publisher"		"Apply Damage"
+	}
+	"config"
+	{
+		"installdir"		"Glitchphobia Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Glitch.exe"
+				"arguments"		"-nosteamvr -nohmd -nodasboard"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1312031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7275945925970852834"
+					"size"		"1124645309"
+					"download"		"459954384"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4978295"
+				"timeupdated"		"1588555857"
+			}
+		}
+	}
+}
