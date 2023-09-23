@@ -1,0 +1,305 @@
+"appinfo"
+{
+	"appid"		"1252600"
+	"common"
+	{
+		"name"		"ANOTHER EDEN"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"bb3d761149351e83506ce58bad3f8e3688178355"
+		"clienticon"		"871ec73f025c56193ffb721b68ef56e5bf488768"
+		"clienttga"		"7fe64998b8cea7df46d6b0edd54abfceea289fa0"
+		"logo"		"51e77e70538aabfa68b69c9b19fed555f6aa2dab"
+		"logo_small"		"51e77e70538aabfa68b69c9b19fed555f6aa2dab_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644537600"
+			"tested_build_id"		"7861102"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"koreana"		"header_koreana.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ko,zh-tw"
+			"library_hero"		"en,ko,zh-tw"
+			"library_logo"		"en,ko,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"77.94392523364485"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1661495980"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"WFS, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"WFS, Inc."
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1617163819"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1252600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4434"
+			"2"		"122"
+			"3"		"4182"
+			"4"		"10679"
+			"5"		"4975"
+			"6"		"1684"
+			"7"		"1742"
+			"8"		"4085"
+			"9"		"4004"
+			"10"		"1677"
+			"11"		"17894"
+			"12"		"3942"
+			"13"		"21"
+			"14"		"10695"
+			"15"		"14139"
+			"16"		"4726"
+			"17"		"8461"
+			"18"		"4325"
+			"19"		"7948"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"WFS, Inc."
+		"publisher"		"WFS, Inc."
+		"homepage"		"https://en.another-eden.jp/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ANOTHER EDEN"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AnotherEden.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1252601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8760244471210788597"
+					"size"		"8826603630"
+					"download"		"7779933600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest-develop21"
+				{
+					"gid"		"4AF030CF2B4FA1269F8CBDA92AD2A6AA"
+					"size"		"F65CFD91E4EAE06485280DD2C63BAC20"
+					"download"		"22648EBD79C4304CD7542692DBE4D9DC"
+				}
+				"latest-develop22"
+				{
+					"gid"		"AB99445E0853FCF7A79E3555882177E2"
+					"size"		"4E738670671928411F5F666205A1235A"
+					"download"		"605A146A83AAB0DBE571943E76A2CF89"
+				}
+				"latest-develop23"
+				{
+					"gid"		"D2AAD2F8A22D4854589600FD013D9F44"
+					"size"		"1F5A023186D54767B7309D058157CECF"
+					"download"		"ADDDFD568CC6808396255FF861128224"
+				}
+				"latest-develop24"
+				{
+					"gid"		"7FC3B740E475D3794C6C292BDB14F4B6"
+					"size"		"2DC1B420FE3656423FBE4A34D69911ED"
+					"download"		"C76C2DED9CB4B87C1227FBBC535BCFF7"
+				}
+				"latest-develop25"
+				{
+					"gid"		"3A7B2F884085BC8E559703AA31B43D79"
+					"size"		"F8355EE0AFD182FAC58DA915E9169371"
+					"download"		"76AAA7356A9BB6C54DA890D9F3BFE76E"
+				}
+				"latest-develop26"
+				{
+					"gid"		"5B954A572DD608C822F57D5032BF0D20"
+					"size"		"C2C1120D8978C8C050497AEF86B3D790"
+					"download"		"E660D7DF4FD5E79B1B631FC4A43D4A8D"
+				}
+				"latest-production-global"
+				{
+					"gid"		"1052954A7F8CEB63B161062DFBB90D4A"
+					"size"		"8BB8246CDA77CB39BEA14FD0FBC23632"
+					"download"		"6D28FE8552414F3C9161FCB2C0044975"
+				}
+				"qa-production-global"
+				{
+					"gid"		"991BA0C7512E16D5C53ED6B85819FE54"
+					"size"		"1224EF3F92FC876B167A1EB096CD54FE"
+					"download"		"BC6F517CBF6059F1EAB2FDF4B181474C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12174741"
+				"timeupdated"		"1694747068"
+			}
+			"latest-develop21"
+			{
+				"buildid"		"12248984"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695317267"
+			}
+			"latest-develop22"
+			{
+				"buildid"		"12263362"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695458105"
+			}
+			"latest-develop23"
+			{
+				"buildid"		"12259851"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695408596"
+			}
+			"latest-develop24"
+			{
+				"buildid"		"12257208"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695389804"
+			}
+			"latest-develop25"
+			{
+				"buildid"		"12260860"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695419037"
+			}
+			"latest-develop26"
+			{
+				"buildid"		"12261517"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695426051"
+			}
+			"latest-production-global"
+			{
+				"buildid"		"12253987"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695366348"
+			}
+			"qa-production-global"
+			{
+				"buildid"		"12253987"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695367250"
+			}
+		}
+	}
+}
