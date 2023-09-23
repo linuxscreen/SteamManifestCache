@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"1081670"
+	"common"
+	{
+		"name"		"Fitforce"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"fc09f4bebf3b7d377e1a4cb05d5eee4532efc63d"
+		"logo_small"		"fc09f4bebf3b7d377e1a4cb05d5eee4532efc63d_thumb"
+		"icon"		"b38035c2b008d0b17b4d71a18fd7ed666e2ea8a7"
+		"clienttga"		"bd449d39a2a29f8cdd505afe4bd6bdf74cc2aad3"
+		"linuxclienticon"		"1a6065fac631d6c6d1b8cd70965145e4e89c42af"
+		"clienticon"		"34d984ea2fb2dc95f88f6bec80a7fb97bb3a13c4"
+		"clienticns"		"570df0e9b61a9ee0c31db9e60e8fdf95fa1c7e67"
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.52718399971276"
+				"height_pct"		"82.05255523609031"
+			}
+		}
+		"store_asset_mtime"		"1611906037"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Runnex Technology"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Runnex Technology"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_49"		"1"
+			"category_24"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1611894120"
+		"community_hub_visible"		"1"
+		"gameid"		"1081670"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"113"
+			"2"		"19"
+			"3"		"492"
+			"4"		"597"
+			"5"		"493"
+			"6"		"3859"
+			"7"		"8093"
+			"8"		"4191"
+			"9"		"4106"
+			"10"		"1775"
+			"11"		"4182"
+			"12"		"1685"
+			"13"		"3841"
+			"14"		"1698"
+			"15"		"4667"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Runnex Technology"
+		"publisher"		"Runnex Technology"
+		"homepage"		"https://fitforce.fun/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Fitforce"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fitforce.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents\\MacOS\\Fitforce"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,thai"
+		"hasdepotsindlc"		"0"
+		"1081671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1809575339785978700"
+					"size"		"1636857713"
+					"download"		"932155088"
+				}
+			}
+		}
+		"1081672"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"139065139249580635"
+					"size"		"1656083491"
+					"download"		"935646400"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6913609"
+				"timeupdated"		"1624383392"
+			}
+		}
+	}
+}
