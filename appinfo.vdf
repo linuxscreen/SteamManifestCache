@@ -1,0 +1,379 @@
+"appinfo"
+{
+	"appid"		"429790"
+	"common"
+	{
+		"name"		"AdventureQuest 3D"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"clienttga"		"a727feb797b9c18292be8dda263dae5d6e8fe7fe"
+		"clienticon"		"e2d6d9abff063ce01d311becbf15ddf8c80c3f0d"
+		"icon"		"7ef837355a4765d4ea92fc65ae7d89d0761315e8"
+		"linuxclienticon"		"b982647ccb3c18e4775a297aa0433ee7cd6a8481"
+		"clienticns"		"4dc1a6a0797ab726b4d1ed9ebabe141f28ab4f2c"
+		"logo"		"16e71d36812045d22dfd46a07030751508fa64ce"
+		"logo_small"		"16e71d36812045d22dfd46a07030751508fa64ce_thumb"
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1644969600"
+			"tested_build_id"		"8024290"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"AdventureQuest 3D"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"52.9171528588098"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1678238686"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Artix Entertainment, LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Artix Entertainment, LLC"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"AdventureQuest"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"29"
+			"6"		"3"
+		}
+		"category"
+		{
+			"category_27"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1666991067"
+		"community_hub_visible"		"1"
+		"gameid"		"429790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1754"
+			"1"		"3834"
+			"2"		"1646"
+			"3"		"4036"
+			"4"		"6730"
+			"5"		"1775"
+			"6"		"4191"
+			"7"		"4231"
+			"8"		"4106"
+			"9"		"4747"
+			"10"		"122"
+			"11"		"1697"
+			"12"		"4046"
+			"13"		"4136"
+			"14"		"1695"
+			"15"		"1742"
+			"16"		"597"
+			"17"		"1684"
+			"18"		"4085"
+			"19"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Artix Entertainment, LLC"
+		"publisher"		"Artix Entertainment, LLC"
+		"homepage"		"http://www.AQ3D.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"AdventureQuest3D"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"aq3d\\aq3d.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"AQ3D.app\\Contents\\MacOS\\AQ3D"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"429794"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5093915317662791095"
+					"size"		"386540780"
+					"download"		"101233968"
+				}
+				"publictest"
+				{
+					"gid"		"6461299728432485291"
+					"size"		"386631692"
+					"download"		"101336032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"code"
+				{
+					"gid"		"09604B54EB3837ACB16D764A3D9297FA"
+					"size"		"0542258F3A4B6B34EDBBA89AB3726BDD"
+					"download"		"CAF94DEE0E48AAB6A26A5EF1195927D0"
+				}
+				"code2"
+				{
+					"gid"		"D46D3D0134B188631C0119661684A363"
+					"size"		"F552E850604287185C628764BA417F69"
+					"download"		"896A3E1FD3E80346EE9ACEFE9CB76C65"
+				}
+				"content"
+				{
+					"gid"		"3AF5499FB68D541256B780C6E092680D"
+					"size"		"21FD5AAFD57FDA6264EB9D665F559F82"
+					"download"		"B241E0B9E8ED5B0DB8229D1BC5C4E120"
+				}
+				"percy"
+				{
+					"gid"		"EF2487FE6AD92CF396D15F252210FF22"
+					"size"		"E2A4A9485379A5D007FA307B2EDA9941"
+					"download"		"4D7C175C2E697D4060634218ABFB233D"
+				}
+				"stage"
+				{
+					"gid"		"FC6B58E99EF395A52CF7FCD5CA5B59A6"
+					"size"		"9D1477C6BB1981E119A2BC7E16E5F0F7"
+					"download"		"06A4B397AAF86460B0777C3F83875F21"
+				}
+				"titan"
+				{
+					"gid"		"E811B19FA4C403D0CD16DA78AB433D6C"
+					"size"		"2D3813EFB168215D4FCDC5BA43CB0183"
+					"download"		"FB37CC17AA729AB5B9FE6F5DFF55C17A"
+				}
+			}
+		}
+		"429793"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3887407104140176407"
+					"size"		"176866930"
+					"download"		"66830400"
+				}
+				"publictest"
+				{
+					"gid"		"996145247495903597"
+					"size"		"176957866"
+					"download"		"66931632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"code"
+				{
+					"gid"		"A3D0058BC9A0CC168F098A7C524F5457"
+					"size"		"9E7A6476A8B77CAFA4CB4594E41837AA"
+					"download"		"A21DC61AB08FBEB7C9034CEEF67BA144"
+				}
+				"code2"
+				{
+					"gid"		"78B1C7937DE9CE8C9D574B6735ADFF29"
+					"size"		"68BB8DCF140CB047802646043F5B7803"
+					"download"		"31E9F793AEF9624AC15BAB845948B1C2"
+				}
+				"content"
+				{
+					"gid"		"652FD561A3B369B86174731EC6C75D27"
+					"size"		"82F3901AE0528266718C6B056CC532EC"
+					"download"		"3A243EF560BFEE568DB2369E8CB0A676"
+				}
+				"percy"
+				{
+					"gid"		"6D58FD9ECA4F94D02E7E980E63B5BDE8"
+					"size"		"8E768E498F577EE36ED1CEBF3DF2382B"
+					"download"		"277ED880BCC22F7D0880EDF5BB3CC95D"
+				}
+				"stage"
+				{
+					"gid"		"E8AC03F6AA736374C75337A2B9F6F40D"
+					"size"		"E458A312FA5067A3524E510D01FDB390"
+					"download"		"98A24EB7CBCCF7C5F41F926EE96384AA"
+				}
+				"titan"
+				{
+					"gid"		"43CE3FFEE8142A496FAD024C4634E420"
+					"size"		"72E9CA7A34A69289F6180B39782352C2"
+					"download"		"72E9CA7A34A69289F6180B39782352C2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11897100"
+				"timeupdated"		"1691609724"
+			}
+			"code"
+			{
+				"buildid"		"10116563"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671046764"
+			}
+			"code2"
+			{
+				"buildid"		"3095123"
+				"pwdrequired"		"1"
+				"timeupdated"		"1536173477"
+			}
+			"content"
+			{
+				"buildid"		"12230173"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695162624"
+			}
+			"percy"
+			{
+				"buildid"		"3068212"
+				"pwdrequired"		"1"
+				"timeupdated"		"1535398110"
+			}
+			"publictest"
+			{
+				"buildid"		"12034562"
+				"description"		"PTR"
+				"timeupdated"		"1692984067"
+			}
+			"stage"
+			{
+				"buildid"		"12219755"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695076153"
+			}
+			"titan"
+			{
+				"buildid"		"2933924"
+				"pwdrequired"		"1"
+				"timeupdated"		"1531238132"
+			}
+		}
+	}
+}
