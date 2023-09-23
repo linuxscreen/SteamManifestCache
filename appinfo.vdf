@@ -1,0 +1,105 @@
+"appinfo"
+{
+	"appid"		"210720"
+	"common"
+	{
+		"name"		"Blades of Time Demo"
+		"type"		"Demo"
+		"logo"		"1d3d3d42f41e9a0c6aa7c43970a4b4b30f2dcc11"
+		"logo_small"		"1d3d3d42f41e9a0c6aa7c43970a4b4b30f2dcc11_thumb"
+		"clienticon"		"aac26870e2d00b464593733e6fc87f97f2958fb4"
+		"clienttga"		"b804dad89018a63b6ce2169972ada23d4beb43d6"
+		"icon"		"3995fc3484966919fee62b53d1c66b11914798e9"
+		"clienticns"		"f0b7509097f5ecc61449fd833722042cbea68afb"
+		"freeondemand"		"1"
+		"oslist"		"windows"
+		"osarch"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1334883024"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gaijin Entertainment Corporation"
+			}
+		}
+		"primary_genre"		"0"
+		"steam_release_date"		"1334967840"
+		"gameid"		"210720"
+	}
+	"extended"
+	{
+		"developer"		"Gaijin Entertainment Corporation"
+		"gamedir"		"Blades of Time Demo"
+		"homepage"		""
+		"icon"		""
+		"installscript_macos"		"BladesOfTime.app/installscript_osx.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"210721"
+		"primarycache_macos"		"208672"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Blades of Time Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bladesoftime.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"BladesOfTime.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"210721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"151189738129251605"
+					"size"		"781466498"
+					"download"		"0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"30077"
+			}
+		}
+	}
+}
