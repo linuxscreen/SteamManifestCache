@@ -1,0 +1,234 @@
+"appinfo"
+{
+	"appid"		"1287260"
+	"common"
+	{
+		"name"		"BarnFinders: The Pilot"
+		"type"		"Game"
+		"icon"		"6d52536f1b7abaa6ee5c763798cb59b9da250a1c"
+		"logo"		"ccbca113aa29769cd4805c398b86483de8cb0048"
+		"logo_small"		"ccbca113aa29769cd4805c398b86483de8cb0048_thumb"
+		"clienttga"		"8306277f14fac873b38abb0e00e3b762fd2979ed"
+		"clienticon"		"ffca199ec570d4589d4142a5b6c87a8a98639409"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1678406400"
+			"tested_build_id"		"4951405"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.854695080759065"
+				"height_pct"		"72.64417947868985"
+			}
+		}
+		"store_asset_mtime"		"1629370174"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Duality Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Duality Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Duality Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1588089651"
+		"community_hub_visible"		"1"
+		"gameid"		"1287260"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"21"
+			"3"		"599"
+			"4"		"4182"
+			"5"		"3834"
+			"6"		"12472"
+			"7"		"4175"
+			"8"		"4711"
+			"9"		"113"
+			"10"		"5350"
+			"11"		"6276"
+			"12"		"1664"
+			"13"		"3839"
+			"14"		"4136"
+			"15"		"1719"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Duality Games"
+		"publisher"		"Duality Games"
+		"homepage"		"https://dualitygames.eu"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BarnFindersFreeSample"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BarnFinders.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1287261"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6458705756063376965"
+					"size"		"9243534535"
+					"download"		"4177452656"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4951405"
+				"timeupdated"		"1588013339"
+			}
+		}
+	}
+}
