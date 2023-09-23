@@ -1,0 +1,340 @@
+"appinfo"
+{
+	"appid"		"466170"
+	"common"
+	{
+		"name"		"Idling to Rule the Gods"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"logo"		"1743b41dfd2b7a6684738fdf5fdff9b400aeedf8"
+		"logo_small"		"1743b41dfd2b7a6684738fdf5fdff9b400aeedf8_thumb"
+		"icon"		"e5cf44039bd3cd934c0e8f4730599d97d424ee0c"
+		"clienttga"		"8442de1bcbff1ef81c2a7395525d4705d8117bce"
+		"clienticon"		"a1342838f584794afd84165dbd008622d2227b05"
+		"clienticns"		"adc622079a6e38283bd31e25872a3acbc268b8c6"
+		"linuxclienticon"		"63d56c6245c3a305a23e4c043ae0a1cef7ecf571"
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1653436800"
+			"tested_build_id"		"8622101"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Idling to Rule the Gods"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"37.21994884910487"
+				"height_pct"		"55.5"
+			}
+		}
+		"store_asset_mtime"		"1635713055"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Shugasu GmbH"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Shugasu GmbH"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_25"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1464371975"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"466170"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"599"
+			"2"		"492"
+			"3"		"597"
+			"4"		"4182"
+			"5"		"31275"
+			"6"		"9"
+			"7"		"5300"
+			"8"		"12472"
+			"9"		"379975"
+			"10"		"1684"
+			"11"		"4085"
+			"12"		"122"
+			"13"		"16689"
+			"14"		"3871"
+			"15"		"16094"
+			"16"		"4136"
+			"17"		"3942"
+			"18"		"10808"
+			"19"		"4094"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Shugasu GmbH"
+		"publisher"		"Shugasu GmbH"
+		"homepage"		"https://shugasu.com/games/itrtg/index.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Idling to Rule the Gods"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"itrtg.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"itrtg.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"5"
+			{
+				"executable"		"Idling to Rule the Gods.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"466171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6497479958503329532"
+					"size"		"187504705"
+					"download"		"110392000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patreons"
+				{
+					"gid"		"FC59F8B6B67A160224B7438499479825"
+					"size"		"22CFEC02B10C99EE2A992FCB43ADB0F5"
+					"download"		"6F17C340E3B6E9C11D6ADB1ECCDB35FD"
+				}
+			}
+		}
+		"466172"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7956920318164461717"
+					"size"		"237816315"
+					"download"		"113114128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patreons"
+				{
+					"gid"		"40E8AE70FB71F9260414D8791E4AB427"
+					"size"		"EC85A85D0443C2A25DD1428DB7E6C828"
+					"download"		"5EA32FF5CDD94DD550F02E27EC0B745C"
+				}
+			}
+		}
+		"466173"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5747329695978125863"
+					"size"		"218653656"
+					"download"		"119940144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patreons"
+				{
+					"gid"		"E0972963A08E13692AED4AFEA6D13D99"
+					"size"		"CA6609B920EE1BA03B211DF5A716959B"
+					"download"		"0D756E1BB4AB8F87CC0E869F17559BD5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12173155"
+				"timeupdated"		"1694560016"
+			}
+			"patreons"
+			{
+				"buildid"		"12173155"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694560008"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"5"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Shugasu/Idling to Rule the Gods/ItRtG_Steam_"
+				"pattern"		"*.txt"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Shugasu/Idling to Rule the Gods/ItRtG_Steam_"
+						"replace"		"unity.Shugasu.Idling to Rule the Gods.ItRtG_Steam_"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Shugasu/Idling to Rule the Gods/ItRtG_Steam_"
+						"replace"		".config/unity3D/Shugasu/Idling to Rule the Gods/ItRtG_Steam_"
+					}
+				}
+			}
+		}
+	}
+}
