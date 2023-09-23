@@ -1,0 +1,237 @@
+"appinfo"
+{
+	"appid"		"1504150"
+	"common"
+	{
+		"name"		"Hello Guest: Hello Neighbor 2 pre-alpha"
+		"type"		"Game"
+		"logo"		"f61be552314394affc74eb1803dd398e5ad964dc"
+		"logo_small"		"f61be552314394affc74eb1803dd398e5ad964dc_thumb"
+		"icon"		"24aa765289100bc31cfeac0f6f7bee472d934e4f"
+		"clienttga"		"209ab41bc51f664305fc82699e66fa73cf98c589"
+		"clienticon"		"3145ea4446e5c8632d69cb98706086d9857f042f"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1683072000"
+			"tested_build_id"		"5984456"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-1"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"80.24722932651326"
+				"height_pct"		"73.26388888888887"
+			}
+		}
+		"store_asset_mtime"		"1609245825"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Eerie Guest"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"tinyBuild"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"tinyBuild"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Hello Neighbor"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"tinyBuild"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1608662227"
+		"community_hub_visible"		"1"
+		"gameid"		"1504150"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"9"
+			"2"		"1664"
+			"3"		"1667"
+			"4"		"1687"
+			"5"		"4106"
+			"6"		"3978"
+			"7"		"4191"
+			"8"		"4305"
+			"9"		"3839"
+			"10"		"4166"
+			"11"		"5350"
+			"12"		"4136"
+			"13"		"1721"
+			"14"		"4064"
+			"15"		"6971"
+			"16"		"4182"
+			"17"		"3968"
+			"18"		"3859"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Eerie Guest"
+		"publisher"		"tinyBuild"
+		"homepage"		"http://helloneighbor2.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hello Guest Hello Neighbor 2 pre-alpha"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HelloGuest.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1504151"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4067730251650010435"
+					"size"		"3342959723"
+					"download"		"1216034160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"98374DB32DB5CFE6248D0B8AE44DD804"
+					"size"		"5EED52E41082BD83CA8859C18B0A2286"
+					"download"		"3595E77B021F0487D63A19DD31597510"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5984456"
+				"timeupdated"		"1608245217"
+			}
+			"testing"
+			{
+				"buildid"		"5984456"
+				"pwdrequired"		"1"
+				"timeupdated"		"1608583506"
+			}
+		}
+	}
+}
