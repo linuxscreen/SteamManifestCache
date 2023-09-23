@@ -1,0 +1,133 @@
+"appinfo"
+{
+	"appid"		"1682760"
+	"common"
+	{
+		"name"		"The Strange Story Of Brian Fisher: Chapter 2 Demo"
+		"type"		"Demo"
+		"parent"		"1682400"
+		"releasestate"		"released"
+		"clienticon"		"b422aec504cd12f54b16c5b8fa7bf698bb4b649b"
+		"clienttga"		"39f2df324a1557d2b78cb8601c881e499f217390"
+		"icon"		"3100415b8c29894b319abb3c789fedb4ccacf907"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"9a624c525cff23e35a4a930330e664be4c47e27d"
+		"logo_small"		"9a624c525cff23e35a4a930330e664be4c47e27d_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"80.29602262930678"
+				"height_pct"		"96.97256385998108"
+			}
+		}
+		"store_asset_mtime"		"1625234310"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Intetic"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Intetic"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625232862"
+		"gameid"		"1682760"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1682400"
+		"developer"		"Intetic"
+		"publisher"		"Intetic"
+		"homepage"		"https://www.intetic.com/"
+	}
+	"config"
+	{
+		"installdir"		"The Strange Story Of Brian Fisher Chapter 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"tssobfchapter2.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1682761"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6402394340251122413"
+					"size"		"1136461940"
+					"download"		"962205280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"7E0BC4F8101F69E39F45C40028A3AD5E"
+					"size"		"1CF2B45B7ECEF809C8EEC129F894AF0A"
+					"download"		"4C365CD29FD541CA07D9A644F8C94AF2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6957341"
+				"timeupdated"		"1625055937"
+			}
+			"release_candidate"
+			{
+				"buildid"		"6957341"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625055955"
+			}
+		}
+	}
+}
