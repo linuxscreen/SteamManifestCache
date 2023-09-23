@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"2100980"
+	"common"
+	{
+		"name"		"Barji Kart"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"28374d3709a1ca4e415ab85274feab7c62a49793"
+		"clienttga"		"dbee7848f7a25fa602709b66a1057a894afc3077"
+		"clienticon"		"6878c4cb537b7b8be08b80c45e52f1e82b27246d"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667020308"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Barji"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Barji"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"9"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1667040312"
+		"community_hub_visible"		"1"
+		"gameid"		"2100980"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"3859"
+			"2"		"4102"
+			"3"		"1644"
+			"4"		"4305"
+			"5"		"1775"
+			"6"		"4191"
+			"7"		"19"
+			"8"		"10397"
+			"9"		"1719"
+			"10"		"4252"
+			"11"		"1773"
+			"12"		"1697"
+			"13"		"4136"
+			"14"		"4747"
+			"15"		"7481"
+			"16"		"113"
+			"17"		"4182"
+			"18"		"492"
+			"19"		"597"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Barji"
+		"publisher"		"Barji"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Barji Kart"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BarjiKart.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2100981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2703568022558552991"
+					"size"		"160497591"
+					"download"		"50353120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3405C52BF9A61A1FA44B2E3673AE4DD4"
+					"size"		"A44E7AC8764E7EA3806BE2D2559550FF"
+					"download"		"D0A0215D8E87BA2FCCFB18C7A308B7D5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9872612"
+				"timeupdated"		"1667586393"
+			}
+			"beta"
+			{
+				"buildid"		"9831871"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667146548"
+			}
+		}
+	}
+}
