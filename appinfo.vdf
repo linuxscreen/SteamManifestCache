@@ -1,0 +1,233 @@
+"appinfo"
+{
+	"appid"		"450110"
+	"common"
+	{
+		"name"		"Amigdala"
+		"type"		"Game"
+		"controllervr"
+		{
+			"xinput"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"oslist"		"windows"
+		"icon"		"c1d6b2fccf57ea4fb0dee6a9e443f35fdb722549"
+		"logo"		"e8aeb41c26e6a4ef40b8c636a5f159c32657d302"
+		"logo_small"		"e8aeb41c26e6a4ef40b8c636a5f159c32657d302_thumb"
+		"clienttga"		"121ad6dee21d2362faab7a89e00472130a44e62b"
+		"clienticon"		"d3cf435111151df36f8aa79d32bb9f7494203187"
+		"othervrsupport"		"1"
+		"releasestate"		"released"
+		"othervrsupport_rift_13"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1689206400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Amigdala"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1458999483"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GuidiGermano"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GuidiGermano"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_31"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1459148400"
+		"steam_release_date"		"1459206480"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"450110"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"19"
+			"3"		"21978"
+			"4"		"1667"
+			"5"		"1721"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"GuidiGermano"
+		"publisher"		"GuidiGermano"
+		"homepage"		"http://www.novavirtualreality.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Amigdala"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Amigdala.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"450111"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3068044000353860575"
+					"size"		"1948520653"
+					"download"		"1606664288"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1061506"
+				"timeupdated"		"1460833487"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Amigdala/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
