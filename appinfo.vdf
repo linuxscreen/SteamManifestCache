@@ -1,0 +1,128 @@
+"appinfo"
+{
+	"appid"		"2347850"
+	"common"
+	{
+		"name"		"Radio Free Europa Demo"
+		"type"		"Demo"
+		"parent"		"1897420"
+		"releasestate"		"released"
+		"icon"		"30d0bf850a9a9d533233ab729a51418b5ef7ee6a"
+		"clienttga"		"2918b1f4f3c7c00757081d680c63b88ceaf7a699"
+		"clienticon"		"4a46d22e8cfada3cc00012e1afe65d2f996f059b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1678468578"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Scott McClusky"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Coffee Puck Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1678730918"
+		"gameid"		"2347850"
+	}
+	"extended"
+	{
+		"demoofappid"		"1897420"
+		"developer"		"Scott McClusky"
+		"publisher"		"Coffee Puck Games"
+	}
+	"config"
+	{
+		"installdir"		"Radio Free Europa Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProjectOverride.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2347851"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8868224786085082629"
+					"size"		"1746030543"
+					"download"		"1627856320"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12249396"
+				"timeupdated"		"1695320619"
+			}
+		}
+	}
+}
