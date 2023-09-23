@@ -1,0 +1,228 @@
+"appinfo"
+{
+	"appid"		"1061290"
+	"common"
+	{
+		"name"		"VR Paradise Demo"
+		"type"		"Demo"
+		"parent"		"896890"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"clienttga"		"d6f56ad1e96dff367a99ac20f5a88f44be26acc1"
+		"clienticon"		"01228fd5f18f1971120219520a16b007d4cd1c02"
+		"icon"		"43eb73e3dfb39173ba8bab05ca720fb59637ddb5"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1645747200"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"VR Paradise Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1620823324"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Totem Entertainement"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Totem Entertainment"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1557389309"
+		"gameid"		"1061290"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"896890"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Totem Entertainement"
+		"publisher"		"Totem Entertainment"
+		"homepage"		"https://www.vrparadise.com/"
+	}
+	"config"
+	{
+		"installdir"		"VR Paradise"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VRParadise.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"896891"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"depotfromapp"		"896890"
+			"sharedinstall"		"2"
+		}
+		"1061291"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3149291033079108675"
+					"size"		"31538598426"
+					"download"		"7333207360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatest"
+				{
+					"gid"		"32BA48E624CAE65314C5FFC879BFA727"
+					"size"		"E9EFA9B1FB92B6352368114C2D9F917F"
+					"download"		"98872CFD0E997108B31370A46589E394"
+				}
+				"devs"
+				{
+					"gid"		"2DFBEE298499912489B9F935D8EF9D64"
+					"size"		"789A045EB88AFE09C8B3080FC0DB715F"
+					"download"		"6C2A5974E3C279C935267AC6D4A71BAC"
+				}
+				"tests"
+				{
+					"gid"		"CF73C39B837E104772D871A7E2C85BBA"
+					"size"		"E90F26BDD5F4A0C06EC7BD99DA4DAFF5"
+					"download"		"601C8A4440F2B2E81940E6555E42A4F3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9676874"
+				"timeupdated"		"1665160284"
+			}
+			"betatest"
+			{
+				"buildid"		"9676874"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665160273"
+			}
+			"devs"
+			{
+				"buildid"		"9674148"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665134501"
+			}
+			"tests"
+			{
+				"buildid"		"9676874"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665158776"
+			}
+		}
+	}
+}
