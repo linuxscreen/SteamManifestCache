@@ -1,0 +1,128 @@
+"appinfo"
+{
+	"appid"		"2410070"
+	"common"
+	{
+		"name"		"Ziggy's Labyrinth Demo"
+		"type"		"Demo"
+		"parent"		"2383520"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"linuxclienticon"		"4544f1fa6b76f4ba3cc8d2388d11f9c8ad944375"
+		"clienttga"		"f2e13984e95f957b9b556103b4c20b1925b18ce2"
+		"clienticon"		"3157a36d355577dfb954533f1fca7dc6b2c3115b"
+		"icon"		"1009d0ee8bc3e11cd187ddceae810ae7d3742d32"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688993545"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"lankyware"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"lankyware"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682560200"
+		"gameid"		"2410070"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2383520"
+		"developer"		"lankyware"
+		"publisher"		"lankyware"
+	}
+	"config"
+	{
+		"installdir"		"Ziggy's Labyrinth Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ziggydemo.exe"
+			}
+			"1"
+			{
+				"executable"		"ziggyedit.exe"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Level Editor"
+				}
+				"description"		"Level Editor"
+			}
+		}
+	}
+	"depots"
+	{
+		"2410071"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5774953399634684484"
+					"size"		"278648000"
+					"download"		"107346880"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12210645"
+				"timeupdated"		"1694972288"
+			}
+		}
+	}
+}
