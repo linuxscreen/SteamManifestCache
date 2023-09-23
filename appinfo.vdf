@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"1768550"
+	"common"
+	{
+		"name"		"A.R.D. Alien Removal Division"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"e857101adef3acce448e583331176d13ade450b6"
+		"logo_small"		"e857101adef3acce448e583331176d13ade450b6_thumb"
+		"icon"		"f4e0b950f52270ec096b81d13e7ab457d8cc0f5a"
+		"clienttga"		"b9e016758c9706a52fe219703c513698ca56d82c"
+		"clienticon"		"ae82f22bd60ec9268933959f09c4714c065040dd"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.477350380249092"
+				"height_pct"		"78.4083378516778"
+			}
+		}
+		"store_asset_mtime"		"1687024671"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Enchanted Bean Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Breda University of Applied Sciences"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1655497962"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1768550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4036"
+			"1"		"1663"
+			"2"		"19"
+			"3"		"1673"
+			"4"		"1734"
+			"5"		"4182"
+			"6"		"1625"
+			"7"		"1774"
+			"8"		"7250"
+			"9"		"3993"
+			"10"		"4667"
+			"11"		"4191"
+			"12"		"113"
+			"13"		"3877"
+			"14"		"3839"
+			"15"		"3942"
+			"16"		"4234"
+			"17"		"5395"
+			"18"		"1719"
+			"19"		"4345"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Enchanted Bean Studios"
+		"publisher"		"Breda University of Applied Sciences"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ARD"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ARD.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1768551"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1007970578825751900"
+					"size"		"5971190273"
+					"download"		"5798593920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"34D0E415510910B61156A00FDCEB6293"
+					"size"		"261B9C8C16689F78B1490E4F1D5BBA76"
+					"download"		"18B61C8CB0F3EFDD516E238F4490ED01"
+				}
+				"shipping"
+				{
+					"gid"		"87A8587CEDC9864C0CE7C9B3141966F8"
+					"size"		"A36AC1B48B1F5966838CEF83D7DB7B26"
+					"download"		"F810C6002830A09FE4ADFDA2C0B65C8F"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9004006"
+				"timeupdated"		"1656112884"
+			}
+			"debug"
+			{
+				"buildid"		"9132613"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657941950"
+			}
+			"shipping"
+			{
+				"buildid"		"9129277"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657897548"
+			}
+		}
+	}
+}
