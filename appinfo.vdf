@@ -1,0 +1,156 @@
+"appinfo"
+{
+	"appid"		"942420"
+	"common"
+	{
+		"name"		"Touhou: Dreaming Butterfly | 东方蝶梦志 Demo"
+		"type"		"Demo"
+		"parent"		"941410"
+		"releasestate"		"released"
+		"clienttga"		"0f412cb86f0868328f84931112237e842872290b"
+		"clienticon"		"d9fe952dbf863ebf8cc6cfdf97cd60d3589b5f94"
+		"icon"		"779cb8c7f1e9c28ab279e20e901cb3f7c3c2bc17"
+		"oslist"		"windows"
+		"osarch"		""
+		"metacritic_name"		"东方蝶梦志 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"tchinese"		"header_tchinese.jpg"
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"store_asset_mtime"		"1536910139"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"弦语蝶梦"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"弦语蝶梦"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1537460465"
+		"gameid"		"942420"
+	}
+	"extended"
+	{
+		"demoofappid"		"941410"
+		"developer"		"弦语蝶梦"
+		"publisher"		"弦语蝶梦"
+		"homepage"		"https://thdmz.club"
+	}
+	"config"
+	{
+		"installdir"		"ThdmzDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NThgfm.exe"
+				"description"		"东方蝶梦志 体验版"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"config.exe"
+				"description"		"东方蝶梦志 体验版 设置"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"schinese"
+		"942421"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6278823249683411761"
+					"size"		"398097735"
+					"download"		"223674928"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3119360"
+				"timeupdated"		"1536862212"
+			}
+		}
+	}
+}
