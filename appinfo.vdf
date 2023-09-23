@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"1290260"
+	"common"
+	{
+		"name"		"Dark Roll: Free Kick Challenge"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"0a9746efab67a866245951723e1b19abe12332af"
+		"clienticon"		"168dc249ff284e2b5a57b7a082150d547bf6fe5a"
+		"clienttga"		"38f64a2fec660794c741ef98cac30d94244bb26d"
+		"logo"		"2a7106713691c34fd5fa12fffae5d3d025ed8930"
+		"logo_small"		"2a7106713691c34fd5fa12fffae5d3d025ed8930_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1290260_eula_0"
+				"name"		"Dark Roll: Free Kick Challenge EULA"
+				"url"		"https://store.steampowered.com//eula/1290260_eula_0"
+				"version"		"10"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"74.03733955659276"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1628640167"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pawel Zajac (Artbarian Games)"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pawel Zajac (Artbarian Games)"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dark Roll"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"18"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1628182128"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1290260"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4026"
+			"1"		"113"
+			"2"		"3878"
+			"3"		"5055"
+			"4"		"701"
+			"5"		"3859"
+			"6"		"9204"
+			"7"		"1775"
+			"8"		"1773"
+			"9"		"3877"
+			"10"		"3968"
+			"11"		"19"
+			"12"		"4182"
+			"13"		"4747"
+			"14"		"5350"
+			"15"		"5395"
+			"16"		"1697"
+			"17"		"1721"
+			"18"		"597"
+			"19"		"1254546"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Pawel Zajac (Artbarian Games)"
+		"publisher"		"Pawel Zajac (Artbarian Games)"
+		"homepage"		"http://artbariangames.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1329100"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dark Roll Free Kick Challenge"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dark Roll Free Kick Challenge.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1290261"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7543255637474464263"
+					"size"		"1128451252"
+					"download"		"928933344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8292701BD780A22DAE9C5D093D89B298"
+					"size"		"7DFC7E73A97F59770BFF9A3B84A1FB60"
+					"download"		"8ADAF4B974FBFC1D78D5546B19240D24"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12099845"
+				"timeupdated"		"1693758552"
+			}
+			"beta"
+			{
+				"buildid"		"12099845"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693758169"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"cloud/{64BitSteamID}"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
