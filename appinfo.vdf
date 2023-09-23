@@ -1,0 +1,738 @@
+"appinfo"
+{
+	"appid"		"453480"
+	"common"
+	{
+		"name"		"Shadowverse"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"clienticon"		"0c6852ac74455a0aa6ae29df55d47e6b1e098dba"
+		"clienttga"		"ee3091784370bc74d8d61ed169e7f58b79256d3f"
+		"icon"		"65663ec45ad1ea015a242fb7738ff06f38d114fe"
+		"logo"		"6fe9a7a34cafb6d3c2b68374e2cff1e8b2713a7b"
+		"logo_small"		"6fe9a7a34cafb6d3c2b68374e2cff1e8b2713a7b_thumb"
+		"clienticns"		"791e331cc38c74ffb41feb4b58c889a36713acc4"
+		"eulas"
+		{
+			"1"
+			{
+				"id"		"453480_eula_1"
+				"name"		"Shadowverse EULA 1"
+				"url"		"http://store.steampowered.com//eula/453480_eula_1"
+				"version"		"5"
+			}
+		}
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"7675025"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Shadowverse"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"italian"		"capsule_231x87_italian.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"french"		"header_french.jpg"
+			"german"		"header_german.jpg"
+			"italian"		"header_italian.jpg"
+			"spanish"		"header_spanish.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"55.79732103488803"
+				"height_pct"		"71.18215033354699"
+			}
+		}
+		"store_asset_mtime"		"1687840029"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cygames, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cygames, Inc."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Cygames Korea Inc."
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1477634166"
+		"community_hub_visible"		"1"
+		"gameid"		"453480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"791774"
+			"2"		"9271"
+			"3"		"32322"
+			"4"		"4085"
+			"5"		"1666"
+			"6"		"9"
+			"7"		"12095"
+			"8"		"3859"
+			"9"		"1684"
+			"10"		"6650"
+			"11"		"1677"
+			"12"		"4182"
+			"13"		"1775"
+			"14"		"3878"
+			"15"		"4726"
+			"16"		"597"
+			"17"		"122"
+			"18"		"21"
+			"19"		"4434"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Cygames, Inc."
+		"publisher"		"Cygames, Inc."
+		"homepage"		"https://shadowverse.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Shadowverse"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Shadowverse.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Shadowverse.app\\Contents\\MacOS\\Shadowverse"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"453483"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7116118865291158226"
+					"size"		"178314896"
+					"download"		"48781680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"application"
+				{
+					"gid"		"53D331C7FBA15CAAE54713B34089CD8D"
+					"size"		"0CA478162BACF793B15DE6DAD5BD8123"
+					"download"		"D2C6573C1B822914CA57E649F3EACD92"
+				}
+				"check"
+				{
+					"gid"		"A5F23BE10951ED59455E2DA995426CDE"
+					"size"		"391108374A564426D1CFC26BBA80300E"
+					"download"		"5E2978CCFDC199B90976E0CF86D976BC"
+				}
+				"debug"
+				{
+					"gid"		"3FF4B01C8BE90017AF82DA60A40AE5E6"
+					"size"		"791E1E01D970847949F9773B569C3820"
+					"download"		"A395B9E6EB4DF79146CB0A8EF66EF787"
+				}
+				"debug02"
+				{
+					"gid"		"8C4E625F808CBA53DBF78D38B2DAF034"
+					"size"		"A23F3E8D18742F5C13C86539D8BC8B7A"
+					"download"		"D21A8CD27D06687F4C2BED5C3FA77359"
+				}
+				"debug03"
+				{
+					"gid"		"C0EF036DD6223E5304095BAAA1FBAD2C"
+					"size"		"65C01F22C3A024063544ECA93E90D26C"
+					"download"		"34D545C2F26A88C49E55CC505F099E5C"
+				}
+				"debug04"
+				{
+					"gid"		"3BDAD4E030C5A7CD3E23FF6EEB7F8F7A"
+					"size"		"F67AEA0403E574C8DF2088A540E96DF2"
+					"download"		"576BB312A222792A53613E12CA3385C4"
+				}
+				"develop"
+				{
+					"gid"		"7712823D5F096AEAE64E356F1D213C8F"
+					"size"		"99A82EFFE909056BD06C2F42D64D54D6"
+					"download"		"D47EB1D28D93C366B663D52D02C127FB"
+				}
+				"maintenance"
+				{
+					"gid"		"99F9D735A1A7BB5271A919F620C5AD16"
+					"size"		"A52A496C312B5E32C147D9B1DB18A57F"
+					"download"		"1C5119B97783B0EDA881ED8E6E5B5022"
+				}
+				"rating"
+				{
+					"gid"		"AB3092BD06C9C1C1AE64D8E5B0978AC1"
+					"size"		"A65CAD3E1E0FEB58426227CC976E9038"
+					"download"		"F9B598671AAAFDBF955E441ABEDC543E"
+				}
+				"staging"
+				{
+					"gid"		"3E445105398CE03AFE47BD004C315642"
+					"size"		"02879A166084F439448BA53FCB378688"
+					"download"		"A8B5C2F4391D22A57991CFA678B45188"
+				}
+				"staging2"
+				{
+					"gid"		"7BAB22D93D381121289A2559A83062AC"
+					"size"		"94054BBA5AFE68A2F1C520568CF5A0C7"
+					"download"		"0CCE68A2B9EDCFEBCEC06E5464B6D46A"
+				}
+				"staging3"
+				{
+					"gid"		"C52F7AF471DAAD7E3B519FA3B9D6F65F"
+					"size"		"2E0C7FED66228D6FBF55EF4A14BF815F"
+					"download"		"5A13962ED241A7F41EC875E924C894F4"
+				}
+				"staging4"
+				{
+					"gid"		"020976B0605EA0B099D92BB603170808"
+					"size"		"346899203440645CE0E970C59BED0367"
+					"download"		"53CDC6259AC29EA344F9920A39568CA8"
+				}
+			}
+		}
+		"453484"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8933841620809647850"
+					"size"		"171071328"
+					"download"		"47355296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"application"
+				{
+					"gid"		"4771B7E9871907404F65332A015B4FBB"
+					"size"		"604BDD41D6B97F003CC7C18BAA0BAF44"
+					"download"		"0C213BA1D8157DE8EE0E639158EDFC7F"
+				}
+				"check"
+				{
+					"gid"		"8AA5747BEF0DB8957B4A6AC758B58638"
+					"size"		"4E7BBB67E261E77642D627A6386FEB20"
+					"download"		"7D1CDED40BBA397301DC2E484DBF051D"
+				}
+				"debug"
+				{
+					"gid"		"E66FA1A4F02AA5C89F25CD280C66160B"
+					"size"		"D683746BF275A245E3B349601212388A"
+					"download"		"FB3486BF1CDE170BBB8A3FEA2BB49A58"
+				}
+				"debug02"
+				{
+					"gid"		"6A7F26077B35C790BD3C3867FE2B4EF2"
+					"size"		"16EFD642906C8656E3F34D58A76CAA18"
+					"download"		"F4A2117AC851EF48F75033E3FAD98A2B"
+				}
+				"debug03"
+				{
+					"gid"		"ED1352E176D955DCC41089493035A531"
+					"size"		"78B274232E0D55A0C74DDEF550057EE7"
+					"download"		"F974DF9C9E35CBA2EAC44A882A3E69FE"
+				}
+				"debug04"
+				{
+					"gid"		"C5AD4953B331EBECC10F507D35DB4483"
+					"size"		"1590D16916DA1E4778905A683AD18F5F"
+					"download"		"7FCCFE2E23070DA7617ECA236176B9BB"
+				}
+				"develop"
+				{
+					"gid"		"E1C4DB3E8A2AC8B9C26D16BAA5ECAFDB"
+					"size"		"82E7D6A8181D7BFEDCF07ADA6224295E"
+					"download"		"9C52E5EA21DD1658228574EB9C56FE1C"
+				}
+				"maintenance"
+				{
+					"gid"		"F41C14D7509DAE95D0AF246A3CCC3DEC"
+					"size"		"0D91AAF59E1A8BED6A900FE0E1373670"
+					"download"		"7B41D9E9FC7DADA7DD3B38FF1951D917"
+				}
+				"rating"
+				{
+					"gid"		"93F8F6959A7584010183930C56FC1A34"
+					"size"		"F9146D8CD686CF6100274BEEFD012706"
+					"download"		"B1241FE8C00E8FBBF0910BFB6046B1BD"
+				}
+				"staging"
+				{
+					"gid"		"2BB2DC295A13711DE759852791BA59D9"
+					"size"		"3E1EC6A9EEAC6F8A160F99D386D24F06"
+					"download"		"E85795F4D3D0CEF49853D8C45CD11D7A"
+				}
+				"staging2"
+				{
+					"gid"		"41E06710429411140DE0F63DD35A49F8"
+					"size"		"B300331C334D1D14D6E5A8924E85BB71"
+					"download"		"C3A0DC4EEAD73AD9DCAFFD0539FCFD06"
+				}
+				"staging3"
+				{
+					"gid"		"0D78AB37E73960E6033732B14C41DF87"
+					"size"		"2CAD6A499B96FC20B1698327BA42A41E"
+					"download"		"6958257A2B83CD09F91389D4AF6517AA"
+				}
+				"staging4"
+				{
+					"gid"		"19A7A543332CEC319CB59CE85CE1082F"
+					"size"		"AE53B043A09684F8AF74FBD3C184FD8C"
+					"download"		"AEE65F7CD18C2005B1740617514AD62E"
+				}
+			}
+		}
+		"453481"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2443990115747938440"
+					"size"		"178314520"
+					"download"		"48783504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"application"
+				{
+					"gid"		"5C14F53E10A922230F96DE95FC648A2C"
+					"size"		"579190DC4DC163DFB674F20D0899B4C9"
+					"download"		"6CC7FF38B5C47BD5B718F4840EFAF971"
+				}
+				"check"
+				{
+					"gid"		"30845B744DBA0A48FDF1EE1BE461363B"
+					"size"		"5DB7B6E3295A934736E3ADEA507FC0E6"
+					"download"		"EFE21662A02E1931C9ACB374B8B713DD"
+				}
+				"debug"
+				{
+					"gid"		"85838CA426D27F378EC1333469214ABB"
+					"size"		"E33E8E3FDBC1D9AF0E8D280D2310778C"
+					"download"		"8AE1E324F1E8DEA2AAA9CC8700C6178F"
+				}
+				"debug02"
+				{
+					"gid"		"66E0E38B31D75121960DEB79A7BA6775"
+					"size"		"01B1EDCC9E21F4BEAC8DCB823DFE610F"
+					"download"		"70CBE49736AEF7C934A5C444745E064E"
+				}
+				"debug03"
+				{
+					"gid"		"E991508ACDA2CB67E9F69623BD59D563"
+					"size"		"ECDD63FE59DC2B17C6737C3A5A4E6199"
+					"download"		"A00F2C91E1B2CE497074B7719E336701"
+				}
+				"debug04"
+				{
+					"gid"		"9206C4203C48FE0EBF6CA8A44DF2D171"
+					"size"		"843434CCC02FE6CFE36508D1F032C123"
+					"download"		"5AAB5E0942DBD405A77D923462F4779F"
+				}
+				"develop"
+				{
+					"gid"		"A91591DBCE8F3F47F42EDFCC8E810366"
+					"size"		"7C2FF152B5E1E88DBFF7119DDDAE5621"
+					"download"		"B7C499EC1D1A6B29E8E78721720C42EB"
+				}
+				"maintenance"
+				{
+					"gid"		"E35EF8B95EF3B50A540149867BBDA72E"
+					"size"		"6E5B1BBC8C23FA51AB2315D5E22CE815"
+					"download"		"A05E0DCF8A3339B39F2622E880CE0D14"
+				}
+				"rating"
+				{
+					"gid"		"1155A6087A2FD79F31AA2E5A71E53465"
+					"size"		"CE20523B3E44D129C6E56D8315DD7A9C"
+					"download"		"0AC517D72211098EB473C484265256BD"
+				}
+				"staging"
+				{
+					"gid"		"531E5A6EEBA82FEC48C1C4232F0BC0E8"
+					"size"		"A8A936DC1254B26923A3455E46D08275"
+					"download"		"673CB22C928C241E6E1AA0F12711B575"
+				}
+				"staging2"
+				{
+					"gid"		"9BFDAD31F436A907E8A63D913671FFC5"
+					"size"		"A520DB45294204CAFE4F26DFCE8924BC"
+					"download"		"229B960C56CDD942A889B2B970BBBB60"
+				}
+				"staging3"
+				{
+					"gid"		"5298EBA648BB6BB6CFBABEA18958F0E1"
+					"size"		"ACA854E12058AE4FEE3D4992B7580436"
+					"download"		"9000CD6DD862D3781A47E994C3E277F6"
+				}
+				"staging4"
+				{
+					"gid"		"F85749003B27501163E789B66CBACDAC"
+					"size"		"B6700E33C48C20216DD20EC8FD16A370"
+					"download"		"D858FE5514B7F0711FF5122DBCB1A9C8"
+				}
+			}
+		}
+		"453482"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7757147187401145972"
+					"size"		"171070952"
+					"download"		"47357584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"application"
+				{
+					"gid"		"47FBFA8C2D018CEF8C05EA7F21515283"
+					"size"		"B3D83FCA0E0A25AAF69CF734D29E0500"
+					"download"		"C39DC8162F3832834C0A7D07EBBD08A5"
+				}
+				"check"
+				{
+					"gid"		"9C600C12F34C905943E2CDE88A3CB6AD"
+					"size"		"0F9904386CEC69248EB3958087B1D2C1"
+					"download"		"BC3E804971742B99A98A93B49D273E26"
+				}
+				"debug"
+				{
+					"gid"		"ED6FD861FA16811805D69E8BB6F825D7"
+					"size"		"BFFD6C4327501B7495033F340CD90227"
+					"download"		"586D56C3964ADDF29B139E7D5706A7B5"
+				}
+				"debug02"
+				{
+					"gid"		"6CBE1653238EF3134569B4C3D3DC50AA"
+					"size"		"5E73A6A2A95BBD38CF281EBCA5ACC556"
+					"download"		"F0FAC9F3189945ED4B9B6BC5730BCB24"
+				}
+				"debug03"
+				{
+					"gid"		"8F2AF7403FE3C6E6B68BF7916B56AF18"
+					"size"		"65B053ACC1EDF274F68407A1514A2235"
+					"download"		"F04468E680EDF17768EB4EB734AAC086"
+				}
+				"debug04"
+				{
+					"gid"		"FE18CF66225D2E3E559DDBC4AB4DD280"
+					"size"		"841A5E2A7FA0DF7511F33F11DF6F4A25"
+					"download"		"E8721BB7DD6228C9B8E6B4728962E722"
+				}
+				"develop"
+				{
+					"gid"		"1251A84C803BC05A2BE2C04B442E1FD0"
+					"size"		"8DC8E7B977B435CAC37A5ACBD15D8E50"
+					"download"		"277B565CD93319698B991227D1BE47C6"
+				}
+				"maintenance"
+				{
+					"gid"		"B9A3C35F7468553002E93E53D7406D15"
+					"size"		"0D91AAF59E1A8BED6A900FE0E1373670"
+					"download"		"7B41D9E9FC7DADA7DD3B38FF1951D917"
+				}
+				"rating"
+				{
+					"gid"		"6EFB6626C913CA73060EFBE945DEAFC9"
+					"size"		"21AA6DF02EA494D8AB00AD11424073D4"
+					"download"		"440B2831E4222888757E3A50B984A277"
+				}
+				"staging"
+				{
+					"gid"		"5FC80DFD728DAA5A9677EC03373CC70C"
+					"size"		"1FF6F271824525CCCA106F3FF9038281"
+					"download"		"CF40A0502B0CAC580ED9D178A01D791E"
+				}
+				"staging2"
+				{
+					"gid"		"10E64982B849332D2F70C6FAF9C3A0C2"
+					"size"		"726F7E724C21685F28D9F4AC628BC4AC"
+					"download"		"45D77B42F2D02495B91661E14FE738B7"
+				}
+				"staging3"
+				{
+					"gid"		"841CFCBECEDB3542DF0E42CE37BF60E5"
+					"size"		"DE4BB8C21BD4CA011D2D34F2C63DD6A0"
+					"download"		"5FB0DA389AEC3DA2AA66D2E73C7FB4D6"
+				}
+				"staging4"
+				{
+					"gid"		"8934FDDCC1ABFBD76435FBF0C133DD8C"
+					"size"		"0706460882776D37A9B1C89FB59769BB"
+					"download"		"D786E6441FC7518618F5939761590696"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12055444"
+				"timeupdated"		"1694056273"
+			}
+			"application"
+			{
+				"buildid"		"12196586"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694765971"
+			}
+			"check"
+			{
+				"buildid"		"11754630"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689917636"
+			}
+			"debug"
+			{
+				"buildid"		"12252026"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695344777"
+			}
+			"debug02"
+			{
+				"buildid"		"12045616"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693184884"
+			}
+			"debug03"
+			{
+				"buildid"		"12194086"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694740726"
+			}
+			"debug04"
+			{
+				"buildid"		"11888414"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691457052"
+			}
+			"develop"
+			{
+				"buildid"		"11899373"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691561168"
+			}
+			"maintenance"
+			{
+				"buildid"		"12198774"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694780479"
+			}
+			"rating"
+			{
+				"buildid"		"1951572"
+				"pwdrequired"		"1"
+				"timeupdated"		"1499756321"
+			}
+			"staging"
+			{
+				"buildid"		"12252060"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695345092"
+			}
+			"staging2"
+			{
+				"buildid"		"12018091"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692839437"
+			}
+			"staging3"
+			{
+				"buildid"		"12196122"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694762228"
+			}
+			"staging4"
+			{
+				"buildid"		"12194045"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694740380"
+			}
+		}
+	}
+}
