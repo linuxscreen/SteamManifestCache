@@ -1,0 +1,297 @@
+"appinfo"
+{
+	"appid"		"1674340"
+	"common"
+	{
+		"name"		"仙侠世界2"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"94e6abd16286270ee5400ec90fe190c3f2fc880c"
+		"logo"		"d69a59c622db6cafca75767c03101c54ea65cf9f"
+		"logo_small"		"d69a59c622db6cafca75767c03101c54ea65cf9f_thumb"
+		"clienttga"		"521877d4cc5cc0c7114cc4715408e737e2b11a2a"
+		"clienticon"		"ed2d7f39c46cf9765426f7c53a1fec1a6bc9549f"
+		"name_localized"
+		{
+			"sc_schinese"		"仙侠世界2"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1674340_eula_0"
+				"name"		"仙侠世界2 EULA"
+				"url"		"https://store.steampowered.com//eula/1674340_eula_0"
+				"version"		"4"
+			}
+		}
+		"releasestatesteamchina"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1666051200"
+			"tested_build_id"		"9701970"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-xc"
+			"library_hero"		"zh-xc,en"
+			"library_logo"		"en,zh-cn,zh-xc"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"90.11627906976744"
+				"height_pct"		"75.83709332700073"
+			}
+		}
+		"store_asset_mtime"		"1646286417"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"上海巨人网络科技有限公司"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"上海巨人网络科技有限公司"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642729800"
+		"community_hub_visible"		"1"
+		"gameid"		"1674340"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"1754"
+			"2"		"4191"
+			"3"		"3959"
+			"4"		"4305"
+			"5"		"128"
+			"6"		"1697"
+			"7"		"5984"
+			"8"		"4598"
+			"9"		"4004"
+			"10"		"16094"
+			"11"		"1775"
+			"12"		"4747"
+			"13"		"1742"
+			"14"		"3843"
+			"15"		"15045"
+			"16"		"42804"
+			"17"		"3813"
+			"18"		"4182"
+			"19"		"1685"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"上海巨人网络科技有限公司"
+		"publisher"		"上海巨人网络科技有限公司"
+		"homepage"		"http://xx2.ztgame.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1873680,1873690,1873700,1873710"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"仙侠世界2"
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+			"steam_china_duration_control_show_interstitial"		"0"
+		}
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\win64_dx11_release\\xxsj2.exe"
+				"arguments"		"uuid={8B102CD0-89C1-4DD6-807E-1975A4F3A4CB} --steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"12231872"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695177220"
+			}
+			"public"
+			{
+				"buildid"		"12231872"
+				"timeupdated"		"1695177227"
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"1674341"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2357472206729723496"
+					"size"		"20577391366"
+					"download"		"18892744544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"17F5D17408D4362211058C1B8FFC18B8"
+					"size"		"932BED651F44D86AEDAA2BA9487AE8CE"
+					"download"		"A28F56F86328C34BBAA7FC289526F6D6"
+				}
+			}
+		}
+		"1873680"
+		{
+			"dlcappid"		"1873680"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		"schinese"
+			}
+		}
+		"1873690"
+		{
+			"dlcappid"		"1873690"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		"schinese"
+			}
+		}
+		"1873700"
+		{
+			"dlcappid"		"1873700"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		"schinese"
+			}
+		}
+		"1873710"
+		{
+			"dlcappid"		"1873710"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		"schinese"
+			}
+		}
+		"baselanguages"		"schinese"
+	}
+}
