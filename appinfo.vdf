@@ -1,0 +1,123 @@
+"appinfo"
+{
+	"appid"		"2406710"
+	"common"
+	{
+		"name"		"Backrooms Society Demo"
+		"type"		"Demo"
+		"parent"		"2304620"
+		"icon"		"b1e447555678b2c20c7020aec677e79b62c53c53"
+		"clienticon"		"5adb77753974c0b4ae0601ea27abd51fa4a8ac28"
+		"clienttga"		"7206d99055fc977587f83e087a7e657e413a92d7"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1682526661"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mikael Bihl"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mikael Bihl"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+		}
+		"steam_release_date"		"1682689677"
+		"gameid"		"2406710"
+	}
+	"extended"
+	{
+		"demoofappid"		"2304620"
+		"developer"		"Mikael Bihl"
+		"publisher"		"Mikael Bihl"
+	}
+	"config"
+	{
+		"installdir"		"Backrooms Society Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GameBackroomsSociety"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2406711"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8344405466609940169"
+					"size"		"2319478741"
+					"download"		"2194401808"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11309272"
+				"timeupdated"		"1684952657"
+			}
+		}
+	}
+}
