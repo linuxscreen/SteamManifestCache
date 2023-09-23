@@ -1,0 +1,207 @@
+"appinfo"
+{
+	"appid"		"2302640"
+	"common"
+	{
+		"name"		"SkyIsland"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"25c3fbb59491852e9d37b1dd523430165317012b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"429ea271e52b0b75ff079ea458688a5e6f505754"
+		"name_localized"
+		{
+			"koreana"		"하늘섬"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1677283200"
+			"tested_build_id"		"10587105"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"koreana"		"header_koreana.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ko"
+			"library_hero"		"en"
+			"library_logo"		"en,ko"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"51.63360560093349"
+				"height_pct"		"51.51982901923532"
+			}
+		}
+		"store_asset_mtime"		"1676170789"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team.Olympus"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team.Olympus"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1676456293"
+		"community_hub_visible"		"1"
+		"gameid"		"2302640"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4106"
+			"3"		"3834"
+			"4"		"4182"
+			"5"		"7250"
+			"6"		"3993"
+			"7"		"113"
+			"8"		"5395"
+			"9"		"597"
+			"10"		"492"
+			"11"		"1697"
+			"12"		"4791"
+			"13"		"1684"
+			"14"		"3854"
+			"15"		"4166"
+			"16"		"30358"
+			"17"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Team.Olympus"
+		"publisher"		"Team.Olympus"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SkyIsland"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SkyIsland.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,schinese,japanese"
+		"2302641"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4746830316950338360"
+					"size"		"2002577311"
+					"download"		"513614640"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10862843"
+				"timeupdated"		"1680080649"
+			}
+		}
+	}
+}
