@@ -1,0 +1,148 @@
+"appinfo"
+{
+	"appid"		"2176860"
+	"common"
+	{
+		"name"		"Suffer The Night Demo"
+		"type"		"Demo"
+		"parent"		"2176850"
+		"icon"		"8f3037f7e833fe8ed59d495328ce27507e76a3ae"
+		"clienttga"		"4ecdecafd9c667162667a3c4d7d98783f614f2ac"
+		"clienticon"		"4f73aa9749bce4ee1647553176251b049fe259f2"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1664987108"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tainted Pact"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Assemble Entertainment"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1665074574"
+		"gameid"		"2176860"
+	}
+	"extended"
+	{
+		"demoofappid"		"2176850"
+		"developer"		"Tainted Pact"
+		"publisher"		"Assemble Entertainment"
+	}
+	"config"
+	{
+		"installdir"		"Suffer_The_Night_Demo"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Suffer_The_Night.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2176861"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8808332125429310698"
+					"size"		"1578290762"
+					"download"		"1456776832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"FF96EB79C2C2BDAA14D144F754C5D9AF"
+					"size"		"3B2DAC9CA4011B60831855B207EE38AA"
+					"download"		"2B2DE47B317A648E248667C343F2CA62"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10455063"
+				"timeupdated"		"1675344929"
+			}
+			"development"
+			{
+				"buildid"		"10455063"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675279450"
+			}
+		}
+	}
+}
