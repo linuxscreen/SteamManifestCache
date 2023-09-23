@@ -1,0 +1,170 @@
+"appinfo"
+{
+	"appid"		"1700260"
+	"common"
+	{
+		"name"		"Fishards Demo"
+		"type"		"Demo"
+		"parent"		"1637140"
+		"clienticns"		"21f9469899900ed255415dd2796b01386c6655c7"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"e8dfd5469b018303d81007407b5c1bbae4ba13e4"
+		"clienttga"		"a93afe1a386b13dd9f0473389e782c9919c936be"
+		"icon"		"277cfab2c035ba2aee4b969f71330c0f95f707ac"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1639066032"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rivernotch Game Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rivernotch Game Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628355142"
+		"gameid"		"1700260"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1637140"
+		"developer"		"Rivernotch Game Studio"
+		"publisher"		"Rivernotch Game Studio"
+	}
+	"config"
+	{
+		"installdir"		"Fishards Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fishards_Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Fishards Demo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Fishards_Demo.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1700261"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5491801060256705139"
+					"size"		"195811432"
+					"download"		"51627648"
+				}
+			}
+		}
+		"1700262"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7934117232796659534"
+					"size"		"245399212"
+					"download"		"62744224"
+				}
+			}
+		}
+		"1700263"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7659475798745602394"
+					"size"		"205509702"
+					"download"		"53998064"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7669548"
+				"timeupdated"		"1636228365"
+			}
+		}
+	}
+}
