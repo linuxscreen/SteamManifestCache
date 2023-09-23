@@ -1,0 +1,225 @@
+"appinfo"
+{
+	"appid"		"1719020"
+	"common"
+	{
+		"name"		"Neversong Demo"
+		"type"		"Demo"
+		"parent"		"733210"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"dc2f54c7d09ffdd4cd19d4a8eb389a81fd2137f5"
+		"clienttga"		"60038fef00bf80dfcfc48d79f7e04a28213b0f17"
+		"icon"		"c07d66e4dddaf064c5fad1f00bf9d23e14625d63"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1628276376"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Atmos Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Serenity Forge"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Serenity Forge"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Serenity Forge"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1628535011"
+		"gameid"		"1719020"
+	}
+	"extended"
+	{
+		"demoofappid"		"733210"
+		"developer"		"Atmos Games"
+		"publisher"		"Serenity Forge"
+		"homepage"		"http://www.neversonggame.com"
+	}
+	"config"
+	{
+		"installdir"		"Neversong Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Neversong Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Neversong Demo.x86"
+				"arguments"		"-screen-fullscreen 1"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"Neversong Demo.x86_64"
+				"arguments"		"-screen-fullscreen 1"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1719021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6366576467562599382"
+					"size"		"1073431893"
+					"download"		"342796096"
+				}
+			}
+		}
+		"1719022"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2751409011538595033"
+					"size"		"1040633593"
+					"download"		"301159840"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7151934"
+				"timeupdated"		"1628282250"
+			}
+		}
+	}
+}
