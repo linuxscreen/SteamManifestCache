@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1742460"
+	"common"
+	{
+		"name"		"Esports History Demo"
+		"type"		"Demo"
+		"parent"		"1742360"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"f9da98f2a470ca8230cd7bea6f7bb8147aeae00c"
+		"clienticon"		"d5ecec4ebe8504afbc067f096fb56a5b92f2b13b"
+		"icon"		"fb7df121dc0e165bf14c1f446660e3239b249f70"
+		"logo"		"6ea3f2d4a47315f1857aba06ed810c3773e766c1"
+		"logo_small"		"6ea3f2d4a47315f1857aba06ed810c3773e766c1_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"polish"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"62.15863215388269"
+			}
+		}
+		"store_asset_mtime"		"1666990744"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Quantum Gear Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Quantum Gear Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630769775"
+		"community_visible_stats"		"1"
+		"gameid"		"1742460"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1742360"
+		"developer"		"Quantum Gear Studios"
+		"publisher"		"Quantum Gear Studios"
+		"homepage"		"http://quantumgearstudios.com/"
+	}
+	"config"
+	{
+		"installdir"		"Esports History Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Esports History.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,russian,polish"
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1742461"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3295524113721828391"
+					"size"		"862555346"
+					"download"		"166886656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta2"
+				{
+					"gid"		"715FC2A7EEE0CF6207E380FD5831FE2C"
+					"size"		"DC598CA4BE68D174A18479155CA40B0C"
+					"download"		"1D1F6175B99D6714F35C931924FC2E42"
+				}
+				"beta3"
+				{
+					"gid"		"81CF6B7AD773D0D080FCC95F0C557ECF"
+					"size"		"03C78FADCD92122D2D067324EF3B497E"
+					"download"		"2EDADF121375B8A0F96C9C27DB460BDE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9448888"
+				"timeupdated"		"1662293940"
+			}
+			"beta2"
+			{
+				"buildid"		"9924867"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678991249"
+			}
+			"beta3"
+			{
+				"buildid"		"11488417"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686920574"
+			}
+		}
+	}
+}
