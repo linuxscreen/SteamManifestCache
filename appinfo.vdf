@@ -1,0 +1,133 @@
+"appinfo"
+{
+	"appid"		"1474560"
+	"common"
+	{
+		"name"		"圣三国英杰传 Demo"
+		"type"		"Demo"
+		"parent"		"1453920"
+		"releasestate"		"released"
+		"clienttga"		"47bc278bbc72d10bddaa42cf8b3272376f683762"
+		"clienticon"		"911a982ca57a89b307c735c4101b130fb9b6d796"
+		"icon"		"de28a809b7ce50ac7c6a0b9c83f45b82eaac1224"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.906976744186046"
+				"height_pct"		"59.118974115412016"
+			}
+		}
+		"store_asset_mtime"		"1605750919"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"无畏"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bantu"
+			}
+		}
+		"steam_release_date"		"1605843347"
+		"gameid"		"1474560"
+	}
+	"extended"
+	{
+		"demoofappid"		"1453920"
+		"developer"		"无畏"
+		"publisher"		"Bantu"
+	}
+	"config"
+	{
+		"installdir"		"ssgyjz Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bantuge_v2.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1474561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"453898070056911825"
+					"size"		"3766159041"
+					"download"		"2520238288"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5884366"
+				"timeupdated"		"1606372334"
+			}
+		}
+	}
+}
