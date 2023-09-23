@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1853820"
+	"common"
+	{
+		"name"		"Colony Simulator"
+		"type"		"Game"
+		"logo"		"377f7b329f561c7f71cb41437cec645525cb0ae8"
+		"logo_small"		"377f7b329f561c7f71cb41437cec645525cb0ae8_thumb"
+		"icon"		"ca7e6c2afbcacaf44da92424ebf385de588a2aea"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"7fad695bef10cee7cf5e14f09c71bb2c9b9cb39e"
+		"clienttga"		"fd02689d7f4a3e5784371affa29796ad1692dfc9"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1662076800"
+			"tested_build_id"		"8758469"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"3"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.29493087557605"
+				"height_pct"		"63.95622908219205"
+			}
+		}
+		"store_asset_mtime"		"1639774079"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Indie Marc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Indie Marc"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644355489"
+		"community_hub_visible"		"1"
+		"gameid"		"1853820"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"4328"
+			"2"		"220585"
+			"3"		"113"
+			"4"		"4191"
+			"5"		"3835"
+			"6"		"7332"
+			"7"		"1702"
+			"8"		"4182"
+			"9"		"492"
+			"10"		"3859"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Indie Marc"
+		"publisher"		"Indie Marc"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Colony Simulator"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Colony Simulator.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1853821"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8923343935850628510"
+					"size"		"138264426"
+					"download"		"26413952"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11998657"
+				"timeupdated"		"1692667906"
+			}
+		}
+	}
+}
