@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1701090"
+	"common"
+	{
+		"name"		"SafeZoneVR"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"d31ffc3470365a2b93069c192bf4606aee73cd57"
+		"logo_small"		"d31ffc3470365a2b93069c192bf4606aee73cd57_thumb"
+		"icon"		"cb2f4ab8c037107960e5ccf3d70b7a5620bb0321"
+		"controllervr"
+		{
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"clienttga"		"b4dcd17c8425864886f0dc79563c37457f88cec5"
+		"clienticns"		"5f0f59fa4b8e6ac8dce3d942995ed1da3994cdd5"
+		"linuxclienticon"		"5f0f59fa4b8e6ac8dce3d942995ed1da3994cdd5"
+		"clienticon"		"2ed12f80d913e30fe337eb85f1cf2b3c6bf07e95"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"82.46445497630336"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1641257315"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lost Frame Development"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lost Frame Development"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"SafeZone"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1630372948"
+		"community_hub_visible"		"1"
+		"gameid"		"1701090"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1667"
+			"2"		"21978"
+			"3"		"4175"
+			"4"		"4166"
+			"5"		"1742"
+			"6"		"3834"
+			"7"		"10808"
+			"8"		"1721"
+			"9"		"4145"
+			"10"		"5716"
+			"11"		"5094"
+			"12"		"4106"
+			"13"		"5608"
+			"14"		"19"
+			"15"		"3835"
+			"16"		"3978"
+			"17"		"9541"
+			"18"		"5186"
+			"19"		"4342"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Lost Frame Development"
+		"publisher"		"Lost Frame Development"
+		"homepage"		"https://lostframedevelopment.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1733210"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SafeZoneVR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"vrgame.exe"
+				"type"		"vr"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"1701091"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"202911686335489233"
+					"size"		"3594331605"
+					"download"		"3180264768"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7660531"
+				"timeupdated"		"1636073508"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
