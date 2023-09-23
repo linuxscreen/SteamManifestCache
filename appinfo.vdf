@@ -1,0 +1,437 @@
+"appinfo"
+{
+	"appid"		"1258040"
+	"common"
+	{
+		"name"		"Super Bernie World"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"c934a76763f385f08f755af754b77ce021ae3944"
+		"logo_small"		"c934a76763f385f08f755af754b77ce021ae3944_thumb"
+		"clienticon"		"e29b8ccd8a7bf5c493007c5c2a45d5875bfa60fb"
+		"clienttga"		"c86dbbc059771d150c56159d4a73c590fdd0fbac"
+		"icon"		"9320a29e8124f5bda4ae6447f1603892ce402f8f"
+		"clienticns"		"50e2af7aa05f7f478dad6695c77fff4b37301452"
+		"linuxclienticon"		"0c574b439ee093a0357416774af474d6ae6f2f28"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1663113600"
+			"tested_build_id"		"9494555"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"77.7712952158693"
+				"height_pct"		"79.25531779209507"
+			}
+		}
+		"store_asset_mtime"		"1627877335"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gamedevs for Bernie"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kitsune Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Kitsune Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1583764199"
+		"community_hub_visible"		"1"
+		"gameid"		"1258040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"19"
+			"3"		"21"
+			"4"		"4853"
+			"5"		"5379"
+			"6"		"1721"
+			"7"		"1625"
+			"8"		"3964"
+			"9"		"4004"
+			"10"		"10397"
+			"11"		"4182"
+			"12"		"3798"
+			"13"		"3916"
+			"14"		"12095"
+			"15"		"3871"
+			"16"		"4195"
+			"17"		"1773"
+			"18"		"597"
+			"19"		"4234"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Gamedevs for Bernie"
+		"publisher"		"Kitsune Games"
+		"isfreeapp"		"1"
+		"listofdlc"		"1278240,1947550"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SuperBernieWorld"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SuperBernieWorld.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"./SuperBernieWorld"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Super Bernie World.app/Contents/MacOS/SuperBernieWorld"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1258041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5182566287871436891"
+					"size"		"23762992"
+					"download"		"7893232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxbuildtest"
+				{
+					"gid"		"FD91DA9E45343529CD7CED8F32558D8D"
+					"size"		"E16C5467C0DD3D3B77D817BF0B8BBECD"
+					"download"		"5C67F60FDD10208F7AD396197C79DC6C"
+				}
+				"macbuildtest"
+				{
+					"gid"		"6DB2BDE73B293F90978EF30A128A486A"
+					"size"		"6AE87B197041C1441E421E3B5B27315B"
+					"download"		"BAE0E68E2140F10AD5C895DD09E614C0"
+				}
+				"speedrun_beta"
+				{
+					"gid"		"8A1844F606E0D1A9C6994F4F35D2F866"
+					"size"		"C302B09888B9D72CFF2B7CB778CB4B65"
+					"download"		"5065455D5B1DB094D48C004DF9D66554"
+				}
+				"steamdeck"
+				{
+					"gid"		"7A51C7B9A3491572EB8334DE30DB5F65"
+					"size"		"7D12477C82CBB4F67AB24027F569FB7F"
+					"download"		"45BD04E3F8774EE37BC1646EA4808D80"
+				}
+				"v1_2_0_test"
+				{
+					"gid"		"50E0447C1995DAA94E356335F02F2A85"
+					"size"		"B83E7133AB50CA86D235F519B33D1F8E"
+					"download"		"936912BF4E3B885926455AC8FC9A428A"
+				}
+				"zero"
+				{
+					"gid"		"A2BF801847CB269323E66D02A8D67275"
+					"size"		"17EB3C1A4225198C42FD635196D60EFA"
+					"download"		"3C4A71D7B05E423C19A266BBE94BA4FB"
+				}
+			}
+		}
+		"1258042"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6811139840636996601"
+					"size"		"32495403"
+					"download"		"10813184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxbuildtest"
+				{
+					"gid"		"9F28574AEE961BB93A3156C3517FBE3A"
+					"size"		"D9A51D746B54AC453C0853F307335E71"
+					"download"		"D47F3F7932A882B2E2C3929BF43FB8E1"
+				}
+				"macbuildtest"
+				{
+					"gid"		"AC9D34C8D39482CC8AF1C7C32EFDC2AD"
+					"size"		"1541B961441A1AEBC74EF5E817D3DAEA"
+					"download"		"F771935EC2FD38AAD784DBBB7F62F562"
+				}
+				"speedrun_beta"
+				{
+					"gid"		"74D7494860388E7114948D3EE1C3630C"
+					"size"		"BB617F6902AFD76A85C6BB3AD0C4CD58"
+					"download"		"27C2E82744E5485354C0F40C08314451"
+				}
+				"steamdeck"
+				{
+					"gid"		"2E7E0D8F5C059E1BEB29AE67B7987736"
+					"size"		"1E010210857C77BA8036C25F804F3070"
+					"download"		"CCA7D23C2A4DAC357DAAC47C9DBDC9DF"
+				}
+				"v1_2_0_test"
+				{
+					"gid"		"82A83502A37187A5C54E92E21DB5FC6C"
+					"size"		"0EB51720A36C041D50AC79182DD3E341"
+					"download"		"3773E0C5F0D2D7C6F1C1D90955D54C99"
+				}
+				"zero"
+				{
+					"gid"		"67ED5F5B7B0B0E1C4108C95A71497BAD"
+					"size"		"73C470BAB287C71C9F82BDD550084CAE"
+					"download"		"DAA71DEFE68E1BCCF51733348BB6DC13"
+				}
+			}
+		}
+		"1258043"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7452652300489679619"
+					"size"		"32699694"
+					"download"		"10879568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxbuildtest"
+				{
+					"gid"		"B588EEB7C3C69411F5CCAA625B140568"
+					"size"		"258FD6AF4BD312380B95A10271F70192"
+					"download"		"90F943BD3676273F9F7E5770A9928C81"
+				}
+				"macbuildtest"
+				{
+					"gid"		"528F2D51BF5B8F21CE4F36F910579E47"
+					"size"		"E4D1334A4EE6EE4B6A75AF709364094E"
+					"download"		"F7FB8239E9A10E63D61176CE3ACB7AD1"
+				}
+				"speedrun_beta"
+				{
+					"gid"		"14E7029B04354AA8937B99DA1E5CAFA1"
+					"size"		"F38E570822FE211E4A876B870F0265A0"
+					"download"		"28FB3820CD28847DC9ED224183AA860D"
+				}
+				"steamdeck"
+				{
+					"gid"		"CAE2C7D61786429418CD0E8CD7C2137B"
+					"size"		"34AAAE6884D8902BFBA430F6360739C5"
+					"download"		"E6CF6643102E339CCE417DCFDCBEC88C"
+				}
+				"v1_2_0_test"
+				{
+					"gid"		"7A1BC83D64DDA9B91F169E09C843DD97"
+					"size"		"4C0E97A0DE879674200AE5627542603A"
+					"download"		"6147740D191B050673515C54134E4687"
+				}
+				"zero"
+				{
+					"gid"		"FAF6D28F18E37D3F05489FBB88448E1D"
+					"size"		"AA1D4E40BC5C65AE3217FEA323841CD0"
+					"download"		"D147ED48D3E5BC1570EE28B161F3F07A"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9494555"
+				"timeupdated"		"1662989150"
+			}
+			"linuxbuildtest"
+			{
+				"buildid"		"6519500"
+				"pwdrequired"		"1"
+				"timeupdated"		"1618040509"
+			}
+			"macbuildtest"
+			{
+				"buildid"		"6519490"
+				"pwdrequired"		"1"
+				"timeupdated"		"1618040385"
+			}
+			"speedrun_beta"
+			{
+				"buildid"		"6519411"
+				"pwdrequired"		"1"
+				"timeupdated"		"1618038783"
+			}
+			"steamdeck"
+			{
+				"buildid"		"9425695"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661963193"
+			}
+			"v1_2_0_test"
+			{
+				"buildid"		"9288132"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660131107"
+			}
+			"zero"
+			{
+				"buildid"		"9494555"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662924562"
+			}
+		}
+	}
+}
