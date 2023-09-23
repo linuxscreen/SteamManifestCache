@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"1991740"
+	"common"
+	{
+		"name"		"天地归虚 Demo"
+		"type"		"Demo"
+		"parent"		"1729410"
+		"name_localized"
+		{
+			"sc_schinese"		"天地归虚 试玩版"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"261012d6c8c2b5f6f8bdea89a74c54476a4ebb2f"
+		"linuxclienticon"		"97172f06cb6fb38c4bf8be4a767c70181e5a05b2"
+		"clienticns"		"97172f06cb6fb38c4bf8be4a767c70181e5a05b2"
+		"clienticon"		"addbe0b9cd4a728260891d140a884778aefa9159"
+		"icon"		"f15f049ba8479f6b8ba1af7136d5547a8c542351"
+		"releasestate"		"released"
+		"releasestatesteamchina"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-xc"
+			"library_hero"		"en,zh-xc"
+			"library_logo"		"en,zh-xc"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.60465116279069"
+				"height_pct"		"67.85799097601519"
+			}
+		}
+		"store_asset_mtime"		"1656179303"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Masses Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" IndieArk"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1655107661"
+		"gameid"		"1991740"
+	}
+	"extended"
+	{
+		"demoofappid"		"1729410"
+		"developer"		"Masses Studio"
+		"publisher"		" IndieArk"
+	}
+	"config"
+	{
+		"installdir"		"天地归虚"
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"天地归虚.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1991741"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1959577811678686236"
+					"size"		"3088892239"
+					"download"		"1714380480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"C72090010902F7ED27BEE48408D109A1"
+					"size"		"132480DAAC766F4E33B4FC8E322CE5FC"
+					"download"		"582414622BDF3CC00F16F3D6B87D5B17"
+				}
+				"test"
+				{
+					"gid"		"898275EBE463ED25805D0268C1222FCB"
+					"size"		"0F33CC8134325EDE43CECBE03B1344FC"
+					"download"		"3222964F3B615A81B2A885F3A6C3AFAF"
+				}
+			}
+		}
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"9110550"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657683089"
+			}
+			"public"
+			{
+				"buildid"		"10279715"
+				"timeupdated"		"1673230075"
+			}
+			"test"
+			{
+				"buildid"		"10279715"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673228681"
+			}
+		}
+		"baselanguages"		"schinese"
+	}
+}
