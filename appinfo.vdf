@@ -1,0 +1,152 @@
+"appinfo"
+{
+	"appid"		"1489640"
+	"common"
+	{
+		"name"		"Do You See the Waving Cape Demo"
+		"type"		"Demo"
+		"parent"		"1489470"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"9ba51106b1d5e6c9c85dfeff9b8686cc07ead94d"
+		"clienttga"		"803a103a0b74574cfa2d61a382de678eba413498"
+		"icon"		"d10c09aa81baddb7d5d5af94eba616f902fc3aa3"
+		"releasestate"		"released"
+		"clienticns"		"60c7708f46d758f902325939d1297e1774b4379c"
+		"name_localized"
+		{
+			"schinese"		"看见飘扬的斗篷了吗 Demo"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"53.70978959675389"
+				"height_pct"		"59.02712445513378"
+			}
+		}
+		"store_asset_mtime"		"1656409950"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Luo Zhi En"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Luo Zhi En"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1612151880"
+		"gameid"		"1489640"
+	}
+	"extended"
+	{
+		"demoofappid"		"1489470"
+		"developer"		"Luo Zhi En"
+		"publisher"		"Luo Zhi En"
+	}
+	"config"
+	{
+		"installdir"		"Cape Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DoYouSeeDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"DoYouSeeDemo.app/Contents/MacOS/DoYouSeeDemo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"1489641"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9101110047453112142"
+					"size"		"924048612"
+					"download"		"404818896"
+				}
+			}
+		}
+		"1489642"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"526380163995520186"
+					"size"		"920264610"
+					"download"		"403270992"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10924312"
+				"timeupdated"		"1680588201"
+			}
+		}
+	}
+}
