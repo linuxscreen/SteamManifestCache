@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1678050"
+	"common"
+	{
+		"name"		"Runic Relay: The Trials"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"28c11b19cfd41f6200966188f97b77a7bf06c52f"
+		"logo_small"		"28c11b19cfd41f6200966188f97b77a7bf06c52f_thumb"
+		"icon"		"7723133d9c21b177afb358ea33576e22f75c225d"
+		"clienticon"		"3a1a29a63f9c95b37115c839e8f4385b3e99edf3"
+		"clienttga"		"c35d7008605389fede67913041ee184f21ce78ef"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50.69767441860466"
+				"height_pct"		"98.63452861553077"
+			}
+		}
+		"store_asset_mtime"		"1625089118"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Geoff Shreiber"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Geoff Shreiber"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"9"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1626296476"
+		"community_hub_visible"		"1"
+		"gameid"		"1678050"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"699"
+			"2"		"1625"
+			"3"		"3877"
+			"4"		"5537"
+			"5"		"8666"
+			"6"		"4191"
+			"7"		"3839"
+			"8"		"4342"
+			"9"		"4604"
+			"10"		"1684"
+			"11"		"4057"
+			"12"		"4172"
+			"13"		"4036"
+			"14"		"7250"
+			"15"		"4182"
+			"16"		"493"
+			"17"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Geoff Shreiber"
+		"publisher"		"Geoff Shreiber"
+		"homepage"		"http://runicrelay.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"RunicRelay"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VelocityBP.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1678051"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1853823205192227177"
+					"size"		"9271377691"
+					"download"		"3279158096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"D6206E5CE03AB0A1AB8844EF148D809F"
+					"size"		"D139A72CA7F0105296F6120EAE6ACAFF"
+					"download"		"428A4607089B180D7238B56CF92A2A62"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7225696"
+				"timeupdated"		"1629502559"
+			}
+			"testing"
+			{
+				"buildid"		"7098856"
+				"pwdrequired"		"1"
+				"timeupdated"		"1627451357"
+			}
+		}
+	}
+}
