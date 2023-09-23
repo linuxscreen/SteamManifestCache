@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"2361620"
+	"common"
+	{
+		"name"		"CalmLine Demo"
+		"type"		"Demo"
+		"parent"		"2291360"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"clienttga"		"8c2bf7cb99e498efda61b22151a9d2ab7752af6e"
+		"clienticon"		"65afe1cf018aac597b9bf3b0e50a455c06d7be48"
+		"clienticns"		"7aefdb08d12725d047ab5f639a4589201c5596a9"
+		"linuxclienticon"		"df81825ff2b1210a18d72395952456f1779a39cf"
+		"icon"		"5c4bc2fa1bed98d9b122cc7211d048b1f19d1b39"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1679061794"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"FO"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1679127864"
+		"gameid"		"2361620"
+	}
+	"extended"
+	{
+		"demoofappid"		"2291360"
+		"developer"		"FO"
+		"publisher"		"FO"
+	}
+	"config"
+	{
+		"installdir"		"CalmLine Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CalmLine.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CalmLine-1.0.1.app\\Contents\\MacOS\\CalmLine"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"CalmLine.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2361621"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5351296626549917547"
+					"size"		"199525246"
+					"download"		"46066768"
+				}
+			}
+		}
+		"2361622"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9067258647300672754"
+					"size"		"192780794"
+					"download"		"44221328"
+				}
+			}
+		}
+		"2361623"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3490763207245400222"
+					"size"		"199272415"
+					"download"		"44789552"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10788195"
+				"timeupdated"		"1678997627"
+			}
+		}
+	}
+}
