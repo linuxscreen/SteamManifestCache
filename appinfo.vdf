@@ -1,0 +1,130 @@
+"appinfo"
+{
+	"appid"		"2401940"
+	"common"
+	{
+		"name"		"HiveCorp Demo"
+		"type"		"Demo"
+		"parent"		"2270120"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"6bc3de8bcb4c68347f142e62d3d723e19ba91f47"
+		"clienttga"		"165905d04c58236d129eda2fc15cc1772823584c"
+		"clienticon"		"8764918fd914107f0120526fc1d65cc1a128957e"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1682011333"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Counterspell Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Counterspell Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1682106795"
+		"gameid"		"2401940"
+	}
+	"extended"
+	{
+		"demoofappid"		"2270120"
+		"developer"		"Counterspell Studios"
+		"publisher"		"Counterspell Studios"
+	}
+	"config"
+	{
+		"installdir"		"HiveCorp Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HiveCorpAutoshooterDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2401941"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8766158524145053749"
+					"size"		"413665262"
+					"download"		"287738976"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11976701"
+				"timeupdated"		"1692372924"
+			}
+		}
+	}
+}
