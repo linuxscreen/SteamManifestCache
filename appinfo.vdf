@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"922450"
+	"common"
+	{
+		"name"		"无主之地:银河 4X-Galaxy"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"1694bbd9366667d022d6e302a2fa0cfba249a372"
+		"clienticon"		"54bedffa906ae5a953859daf74d8da1fc7e94afc"
+		"icon"		"9dc869d0e5279daaa4ec5dff763d8769f40e0481"
+		"logo"		"4bb9d288979211d8d3f185dcc545b8152b3f5056"
+		"logo_small"		"4bb9d288979211d8d3f185dcc545b8152b3f5056_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"metacritic_name"		"4X-Galaxy 无主之地：银河"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"store_asset_mtime"		"1544614072"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mercator"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mercator"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"3"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1545373253"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"922450"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"128"
+			"1"		"113"
+			"2"		"9"
+			"3"		"492"
+			"4"		"21"
+			"5"		"122"
+			"6"		"1755"
+			"7"		"1670"
+			"8"		"3810"
+			"9"		"1695"
+		}
+		"review_score"		"5"
+		"review_percentage"		"49"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=922450"
+		"developer"		"Mercator"
+		"publisher"		"Mercator"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"funclick_space"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"q3dgame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,schinese"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"922452"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4097725356304061265"
+					"size"		"921087741"
+					"download"		"727895536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"BED95894DD62CE6760B8BC304557E93C"
+					"size"		"55C8793E432866558B142B819EFD942B"
+					"download"		"2353CC1DEA5DBA0FE4D3C53E26F0BB64"
+				}
+			}
+		}
+		"922451"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7646969725421082565"
+					"size"		"923217808"
+					"download"		"729621248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"49D644921E9B465280AF0F83A6B273B5"
+					"size"		"A4CB1C53F6B40F581D0B454764FA9F0E"
+					"download"		"EBB2F2EC02283B697ADF2A39C1A55FC3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3556911"
+				"timeupdated"		"1550054010"
+			}
+			"developer"
+			{
+				"buildid"		"3556911"
+				"pwdrequired"		"1"
+				"timeupdated"		"1550051787"
+			}
+		}
+	}
+}
