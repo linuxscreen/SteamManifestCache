@@ -1,0 +1,140 @@
+"appinfo"
+{
+	"appid"		"1699650"
+	"common"
+	{
+		"name"		"IRON WORLD Demo"
+		"type"		"Demo"
+		"parent"		"1687730"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"024f31da8227c96222f89725a5dbec3931c9dc2e"
+		"clienticon"		"b38e03c1becb9f7ec4faec23e939266e3a7113ef"
+		"icon"		"11a2356a99b24cec3f4a25661c46f4fe2e168d36"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1675499216"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"IRON GAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IRON GAMES"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1626803332"
+		"gameid"		"1699650"
+	}
+	"extended"
+	{
+		"demoofappid"		"1687730"
+		"developer"		"IRON GAMES"
+		"publisher"		"IRON GAMES"
+	}
+	"config"
+	{
+		"installdir"		"IRON WORLD Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Iron World.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1699651"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4697969479667895744"
+					"size"		"339027285"
+					"download"		"182315408"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11424412"
+				"timeupdated"		"1686234100"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"IronWorld/Save"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
