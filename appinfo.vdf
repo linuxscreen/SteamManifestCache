@@ -1,0 +1,138 @@
+"appinfo"
+{
+	"appid"		"2343800"
+	"common"
+	{
+		"name"		"The Wanderer Demo"
+		"type"		"Demo"
+		"parent"		"2257340"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"18fe270d7fafe3702871619dccc20d18779802ed"
+		"clienttga"		"4fbeabfeffd79d083e76111399d0eba20e92cabb"
+		"clienticon"		"8ffe06dfde9f708e547291fe9f59a6549d4b765b"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.533255542590425"
+				"height_pct"		"43.160769413441"
+			}
+		}
+		"store_asset_mtime"		"1678282955"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Shengalatuti"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Shengalatuti"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+		}
+		"steam_release_date"		"1678502560"
+		"gameid"		"2343800"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2257340"
+		"developer"		"Shengalatuti"
+		"publisher"		"Shengalatuti"
+	}
+	"config"
+	{
+		"installdir"		"The Wanderer Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheWanderer.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2343801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2976735140759522955"
+					"size"		"2718110127"
+					"download"		"2450562752"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10695435"
+				"timeupdated"		"1679755644"
+			}
+		}
+	}
+}
