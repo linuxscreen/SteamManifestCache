@@ -1,0 +1,144 @@
+"appinfo"
+{
+	"appid"		"1696410"
+	"common"
+	{
+		"name"		"Ravenous Devils Demo"
+		"type"		"Demo"
+		"parent"		"1615290"
+		"clienticon"		"408575758d9c98b6fd5b50b23b8eccfb7a998f15"
+		"clienttga"		"62b61510aaf02ffdf39a53f1c0621c4a457b1ca6"
+		"icon"		"89530463adb320dfe0bd8e305b913f301b61a407"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"logo"		"313943620eedd8fd59c4933b7f5b0577b4bd6487"
+		"logo_small"		"313943620eedd8fd59c4933b7f5b0577b4bd6487_thumb"
+		"linuxclienticon"		"5cd505789cb48d4c42443846fe514d647fbd03d3"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.63699644609637"
+				"height_pct"		"72.42818849739668"
+			}
+		}
+		"store_asset_mtime"		"1638174628"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bad Vices Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bad Vices Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1633003910"
+		"gameid"		"1696410"
+	}
+	"extended"
+	{
+		"demoofappid"		"1615290"
+		"developer"		"Bad Vices Games"
+		"publisher"		"Bad Vices Games"
+	}
+	"config"
+	{
+		"installdir"		"Ravenous Devils Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Ravenous_Devils.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1696411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2076488120010521735"
+					"size"		"1562030830"
+					"download"		"1451656208"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8791128"
+				"timeupdated"		"1653299361"
+			}
+		}
+	}
+}
