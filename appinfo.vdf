@@ -1,0 +1,157 @@
+"appinfo"
+{
+	"appid"		"1685480"
+	"common"
+	{
+		"name"		"SUPER UFO FIGHTER Friend's Pass"
+		"type"		"Demo"
+		"parent"		"1277870"
+		"clienticon"		"a751cad595771acd2338731f71cac6cf7c00ff47"
+		"clienttga"		"b60f455141a13d674beae7bdedd3b55442646340"
+		"icon"		"f63ab4da167acbfda2179be5254d29e280bf0685"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"SUPER UFO FIGHTER Friend's Pass"
+			"japanese"		"シューフォーズ Friend's Pass"
+		}
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,ja,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"93.02325581395348"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1687766350"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VV-LABO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Phoenixx Inc."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627106500"
+		"gameid"		"1685480"
+	}
+	"extended"
+	{
+		"demoofappid"		"1277870"
+		"developer"		"VV-LABO"
+		"publisher"		"Phoenixx Inc."
+		"homepage"		"http://vv-labo.com/ufosports-jp/"
+	}
+	"config"
+	{
+		"installdir"		"シューフォーズ Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SUPER UFO FIGHTER_FriendPassDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1685481"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1448128142609765652"
+					"size"		"229552437"
+					"download"		"157323584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"6592E4A06ABE402181EF8E0980133868"
+					"size"		"7B6F71604D1CCDB8209EC28B24FF24F6"
+					"download"		"57F8ED70D5415D32A14BB54A51A0BF0A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11682053"
+				"timeupdated"		"1689260422"
+			}
+			"beta"
+			{
+				"buildid"		"11682053"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689149624"
+			}
+		}
+	}
+}
