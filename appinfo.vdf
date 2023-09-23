@@ -1,0 +1,286 @@
+"appinfo"
+{
+	"appid"		"1419170"
+	"common"
+	{
+		"name"		"My Singing Monsters"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"99bed4aba3628504f083621eba9c0f91d392fe77"
+		"clienttga"		"27f5d0f13d01c7f8cb88fd411dfdae8e2e4c84a3"
+		"icon"		"d70e152575018b89dbaa73a977646aae25e45927"
+		"logo"		"69c3dece4b9934bc0d2e40f758b47634a71ae456"
+		"logo_small"		"69c3dece4b9934bc0d2e40f758b47634a71ae456_thumb"
+		"name_localized"
+		{
+			"schinese"		"萌怪合唱团"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1661817600"
+			"tested_build_id"		"8635584"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"61.581064697453996"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1694101775"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Big Blue Bubble"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Big Blue Bubble"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"My Singing Monsters"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1616601624"
+		"community_hub_visible"		"1"
+		"gameid"		"1419170"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"916648"
+			"2"		"597"
+			"3"		"87918"
+			"4"		"220585"
+			"5"		"4195"
+			"6"		"4726"
+			"7"		"5652"
+			"8"		"4305"
+			"9"		"4975"
+			"10"		"5350"
+			"11"		"113"
+			"12"		"1643"
+			"13"		"4046"
+			"14"		"5160"
+			"15"		"1654"
+			"16"		"30358"
+			"17"		"1667"
+			"18"		"8945"
+			"19"		"6730"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Big Blue Bubble"
+		"publisher"		"Big Blue Bubble"
+		"homepage"		"https://www.bigbluebubble.com/home/games/my-singing-monsters-series/my-singing-monsters/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1889780,1894500,1896460,1896470,1896480,2247651,2286120,2295860,2324820,2339560,2352700,2393310,2416950,2447740,2477510,2533100"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"My Singing Monsters"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MySingingMonsters.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,russian,portuguese,turkish"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1419171"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8319321363419932069"
+					"size"		"1916652049"
+					"download"		"1194250880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"production"
+				{
+					"gid"		"50B62DD1C8E11B7A4C227968EBFFF255"
+					"size"		"04095239FA30D45C47770DFBB90D0747"
+					"download"		"CFA4962D8578EA1C46DE8C3E02334CD9"
+				}
+				"staging"
+				{
+					"gid"		"D8DCF10CB6735F8C05CBD2DAC6430E6D"
+					"size"		"DAEF939A6649E496A43265CADA5F3EFF"
+					"download"		"9E07A14FAF5E1A2D3886A7D7906CE4BC"
+				}
+				"test"
+				{
+					"gid"		"8753EC70582BD883F2330A57AD825A7C"
+					"size"		"21C1187B88838D655ADEE54B11F0B977"
+					"download"		"1A0C007CC8F3858E9E9C88518F784784"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12071498"
+				"timeupdated"		"1694012430"
+			}
+			"production"
+			{
+				"buildid"		"12071498"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693421669"
+			}
+			"staging"
+			{
+				"buildid"		"12071491"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693421611"
+			}
+			"test"
+			{
+				"buildid"		"12259387"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695404750"
+			}
+		}
+	}
+}
