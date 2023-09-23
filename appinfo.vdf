@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"1758950"
+	"common"
+	{
+		"name"		"Banzai Escape 2 Subterranean"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"05fc76420c14391e8ddd11e36c3fe9e39a40be28"
+		"logo_small"		"05fc76420c14391e8ddd11e36c3fe9e39a40be28_thumb"
+		"icon"		"d9814c2f943631eda5ca4d9f272bd5d345c70298"
+		"clienttga"		"0c23e754d4b504c3e42fe2816ccf21fa1a678fac"
+		"clienticon"		"01dec989686b07e4fdd3479d36f215068ff0e829"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.23180795198799"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1694763149"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"XenoAisam"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Xenoaisam Studio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Banzai Escape"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"malay"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1635543094"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1758950"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4085"
+			"1"		"3814"
+			"2"		"353880"
+			"3"		"7208"
+			"4"		"4168"
+			"5"		"1685"
+			"6"		"3843"
+			"7"		"5125"
+			"8"		"19"
+			"9"		"1774"
+			"10"		"1773"
+			"11"		"4191"
+			"12"		"1697"
+			"13"		"1684"
+			"14"		"4295"
+			"15"		"4747"
+			"16"		"3993"
+			"17"		"7250"
+			"18"		"3859"
+			"19"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"XenoAisam"
+		"publisher"		"Xenoaisam Studio"
+		"isfreeapp"		"1"
+		"listofdlc"		"1762540,1762541,1762542,1762543,1777850,1779600,1779601,1831280,1831281,1911080,2145840,2145841,2304150"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Banzai Escape 2 Subterranean"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Banzai Escape 2 Subterranean.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1758951"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4840651317360300237"
+					"size"		"2135070833"
+					"download"		"553367568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internaltest"
+				{
+					"gid"		"35EFD63D5B4CDFFC8CB76358E4FC4D54"
+					"size"		"C45CAE1B488A3E56395A3BF4D0DC8408"
+					"download"		"60EC5240315FEC3AC190985037312040"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12235891"
+				"timeupdated"		"1695212839"
+			}
+			"internaltest"
+			{
+				"buildid"		"12235891"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695212119"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Saves"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
