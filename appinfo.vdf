@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"2391740"
+	"common"
+	{
+		"name"		"上坟 Demo"
+		"type"		"Demo"
+		"parent"		"2200340"
+		"icon"		"90105f6e85a7f26743628be2f6c45b6442e9aa21"
+		"clienticon"		"68206e1456a8415fde0470fdd049248480cb1b08"
+		"clienttga"		"4bd8bc47c09c6e701257b4fc96b41eacf9d3d54a"
+		"linuxclienticon"		"f5e48ccf77d5e36ef5c5e7601b1876e0babbb862"
+		"clienticns"		"3c643d877e3a757cc0e1e7c8b563ff6a09ecf382"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"name_localized"
+		{
+			"english"		"To the Grave Demo"
+		}
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1681178883"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Flower Shadow Game"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Flower Shadow Game"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1687057117"
+		"gameid"		"2391740"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2200340"
+		"developer"		"Flower Shadow Game"
+		"publisher"		"Flower Shadow Game"
+	}
+	"config"
+	{
+		"installdir"		"上坟 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"To the Grave.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"To the Grave.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"To the Grave.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,schinese,tchinese,japanese"
+		"hasdepotsindlc"		"0"
+		"2391741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4703729966813351482"
+					"size"		"529998420"
+					"download"		"153784528"
+				}
+			}
+		}
+		"2391742"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1021857033593933299"
+					"size"		"553700443"
+					"download"		"146255824"
+				}
+			}
+		}
+		"2391743"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7001448921961662810"
+					"size"		"623569226"
+					"download"		"168778224"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11736095"
+				"timeupdated"		"1689759009"
+			}
+		}
+	}
+}
