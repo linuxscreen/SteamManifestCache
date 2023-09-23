@@ -1,0 +1,218 @@
+"appinfo"
+{
+	"appid"		"1711010"
+	"common"
+	{
+		"name"		"Repeat Demo"
+		"type"		"Demo"
+		"parent"		"1567100"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"7b9747e69c45ec05ca8b5336b49acd6736840f7a"
+		"clienttga"		"2e0928d5eef75854955b8f089e50c8ddde838aaa"
+		"icon"		"2fc10e473fd0124268e05540b466d759e2425301"
+		"logo"		"c65d9eb3a573bd8e8c2450e8fac2beba56c4f08d"
+		"logo_small"		"c65d9eb3a573bd8e8c2450e8fac2beba56c4f08d_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.39506519988032"
+				"height_pct"		"65.35901726287983"
+			}
+		}
+		"store_asset_mtime"		"1668387529"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ateliér Duchů"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ateliér Duchů"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"slovak"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629791257"
+		"community_visible_stats"		"1"
+		"gameid"		"1711010"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1567100"
+		"developer"		"Ateliér Duchů"
+		"publisher"		"Ateliér Duchů"
+		"homepage"		"https://repeat-game.com"
+	}
+	"config"
+	{
+		"installdir"		"Repeat Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Repeat.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1711011"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1819570546540431359"
+					"size"		"2049345211"
+					"download"		"646398864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"EF70F1AA7E2FB9F4489D7D9A037517AF"
+					"size"		"682F8D06558D21BB7E4C81B340F64F14"
+					"download"		"11D0D7B465AC3B6CDF970D945C90A635"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10484144"
+				"timeupdated"		"1675641033"
+			}
+			"development"
+			{
+				"buildid"		"7697323"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636648600"
+			}
+		}
+	}
+}
