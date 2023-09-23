@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"215180"
+	"common"
+	{
+		"name"		"The Book of Unwritten Tales Demo"
+		"type"		"Demo"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+		}
+		"logo"		"93f1f5dfa8843bec47eecf8a281fcb43cb953151"
+		"logo_small"		"93f1f5dfa8843bec47eecf8a281fcb43cb953151_thumb"
+		"icon"		"a4b9ff8bca86837ccba0dbce0952fe250925a6d1"
+		"clienttga"		"231cbb71e2784818b7ede83f6d2acdb7fccf257b"
+		"clienticon"		"bd0d946f0b1c8c6121d7886e844fb0bbdc486880"
+		"freeondemand"		"1"
+		"parent"		"215160"
+		"oslist"		"windows,macos"
+		"metacritic_name"		"The Book of Unwritten Tales Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1343838813"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KING Art"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"THQ Nordic"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"steam_release_date"		"1343754000"
+		"gameid"		"215180"
+	}
+	"extended"
+	{
+		"demoofappid"		"215160"
+		"developer"		"KING Art"
+		"gamedir"		"ValveTestApp215180"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"THQ Nordic"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"The Book of Unwritten Tales Demo"
+		"installscriptsignature"		"50d2e36012d99151fc213b4bac8cfb596cad45c9ac2dfabde3c4f275c499f6b17159a59712b92ef6d3f165eb94e4f731262b9d6db33087b2e7b136335d1c4783fb2619c6ec246f2a7f1ba22c47091399b7c1c910420e9c87bccf982e4d6650b9f239d8a4e1fe15a50a8a2ba7f465a18d504e487b8643ef9c99747c154fb380b0"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bout.exe"
+				"description"		"Launch The Book of Unwritten Tales Demo"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"installscriptoverride"		"1"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"directx"
+			{
+				"process 1"		"%INSTALLDIR%\\thirdparty\\DirectX\\DXSETUP.exe"
+				"command 1"		"/silent"
+				"description"		"Microsoft DirectX"
+				"nocleanup"		"1"
+			}
+			"openal"
+			{
+				"process 1"		"%INSTALLDIR%\\thirdparty\\OpenAL\\oalinst.exe"
+				"command 1"		"/s"
+				"description"		"Creative Labs OpenAL"
+				"nocleanup"		"1"
+			}
+			"vcredist 2008"
+			{
+				"process 1"		"%INSTALLDIR%\\thirdparty\\vc2008\\vcredist_x86_2008.exe"
+				"command 1"		"/q"
+				"description"		"Microsoft Visual C++ 2008 Redist"
+				"nocleanup"		"1"
+			}
+			"vcredist 2010"
+			{
+				"process 1"		"%INSTALLDIR%\\thirdparty\\vc2010\\vcredist_x86_2010.exe"
+				"command 1"		"/q"
+				"description"		"Microsoft Visual C++ 2010 Redist"
+				"nocleanup"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"215181"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5409451271976596287"
+					"size"		"1792247506"
+					"download"		"0"
+				}
+			}
+		}
+		"215182"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+		}
+		"215183"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1775221878146395951"
+					"size"		"743357615"
+					"download"		"0"
+				}
+			}
+		}
+		"215184"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7351113179133406759"
+					"size"		"753050970"
+					"download"		"0"
+				}
+			}
+		}
+		"215187"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3477086847001848422"
+					"size"		"112946051"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6112"
+			}
+		}
+	}
+}
