@@ -1,0 +1,383 @@
+"appinfo"
+{
+	"appid"		"1173370"
+	"common"
+	{
+		"name"		"Slapshot: Rebound"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"d01b1e6bb519562260f1164a848449acaef027e5"
+		"logo_small"		"d01b1e6bb519562260f1164a848449acaef027e5_thumb"
+		"icon"		"674676fb4ba48e60020869d8f5fcef1e3c1a3014"
+		"clienticon"		"b8db1a4412d5a4622ce44af2ed1e75f05ee84783"
+		"clienttga"		"5f743325afc8ab66d6482802066cb27ae71f00ad"
+		"clienticns"		"c59e80f707a882b8ca32edfccc6bce8f4307c22b"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1644278400"
+			"tested_build_id"		"7926304"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.720061870776902"
+				"height_pct"		"83.43623842317739"
+			}
+		}
+		"store_asset_mtime"		"1694471733"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Oddshot Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Oddshot Games"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"18"
+			"4"		"37"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1607359808"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1173370"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1773"
+			"1"		"701"
+			"2"		"3859"
+			"3"		"324176"
+			"4"		"19"
+			"5"		"3968"
+			"6"		"1775"
+			"7"		"5055"
+			"8"		"3813"
+			"9"		"3878"
+			"10"		"6730"
+			"11"		"12057"
+			"12"		"4747"
+			"13"		"4191"
+			"14"		"1697"
+			"15"		"7481"
+			"16"		"4791"
+			"17"		"4136"
+			"18"		"5711"
+			"19"		"597"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Oddshot Games"
+		"publisher"		"Oddshot Games"
+		"homepage"		"https://slapshot.gg"
+		"isfreeapp"		"1"
+		"listofdlc"		"1485570"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SlapshotRebound"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Slapshot.exe"
+				"description"		"Live server"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Slapshot.exe"
+				"arguments"		"-Staging=true"
+				"description"		"SLAPSHOT Rebound staging server"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"staging"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1173371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4483671313017854215"
+					"size"		"855106137"
+					"download"		"280691472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"0-11"
+				{
+					"gid"		"50B0E0C8AC346AE449A3C16388F19837"
+					"size"		"B1A17820162FF70F5CCF23CCCCDC8EF2"
+					"download"		"2EA5F795BE1C9630823DFC4C19E83DCA"
+				}
+				"0-30"
+				{
+					"gid"		"55015B3EAE8D601B0FCE46221FC5793D"
+					"size"		"103318AE51CAA1ACD0D5EF7B88CC4641"
+					"download"		"AD00B3DEF482E6D79EC42ED38CA000C4"
+				}
+				"0-33"
+				{
+					"gid"		"CF9B831C34D13E80A6BA4A782F762B5E"
+					"size"		"425290101BCAC7DA36CF8C8B71F621F6"
+					"download"		"F926C72663548BEC30DD850F6E8974EA"
+				}
+				"adtest"
+				{
+					"gid"		"1B23D488EC505D5AEFB36B670116D291"
+					"size"		"9C24C537D88096D3EC29D1346D4EE7F3"
+					"download"		"15D4DB983CD9555F810C1C9D9A8A75EE"
+				}
+				"backhandtest"
+				{
+					"gid"		"D700ABBAD52D8D21EFCCD9BE2A4ACD32"
+					"size"		"12751B70A3CB81904384BD0AAC236BB3"
+					"download"		"DFF90E3E750A4E22890A1FB44A097E80"
+				}
+				"cars"
+				{
+					"gid"		"BB95F743A74721AABFD81E2844A98D9E"
+					"size"		"F7CC98D163DB441A2BE15EE7D44855E5"
+					"download"		"FE23D84FBC897D71B2B2E9C40513D1C7"
+				}
+				"firstbuild"
+				{
+					"gid"		"F8D954F7E9AE1F07B790EDBB2D8D5CF0"
+					"size"		"F15643FAFE64D8BEAB0093617A3D15E1"
+					"download"		"F5761C1494F9C1BFE35B1165AF85B4CB"
+				}
+				"gamescom"
+				{
+					"gid"		"5AC1CFFBBE81D76351186C198EFB8751"
+					"size"		"7D891516F68DC2D9CCEDB4F0D44A93F1"
+					"download"		"DC482B05852C8E96496FE2EF268F2009"
+				}
+				"puckcam"
+				{
+					"gid"		"E8A517FDCED13D69B01989CB2C622B5B"
+					"size"		"13E81BFE4A3BF22822D5C5EE76D40FF0"
+					"download"		"BB6A9C04A8A00F657EF6029AE8D809F2"
+				}
+				"puckpop"
+				{
+					"gid"		"2C1D497169D5F11E8DD4A37B2BA400A7"
+					"size"		"14D98444B3D22BF099608C3390A22CD6"
+					"download"		"A5F6A3A4156667F5CC3E771E10AB4D52"
+				}
+				"sheesh"
+				{
+					"gid"		"5B9FC81CA4148A3E847F50D24D81D200"
+					"size"		"FA31D1F40975B0212773BD80D5EB5049"
+					"download"		"6FCA70563E443238369CA3E88725F409"
+				}
+				"staging"
+				{
+					"gid"		"40CCEA62B1A39EF5B03E868F4A7F15E9"
+					"size"		"E023D76570606829AE3495A116ABE31A"
+					"download"		"7CB7CFFF71C29102CD9DCF5E79FBF468"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12022534"
+				"timeupdated"		"1692880203"
+			}
+			"0-11"
+			{
+				"buildid"		"4584854"
+				"pwdrequired"		"1"
+				"timeupdated"		"1608969597"
+			}
+			"0-30"
+			{
+				"buildid"		"5388053"
+				"pwdrequired"		"1"
+				"timeupdated"		"1608969821"
+			}
+			"0-33"
+			{
+				"buildid"		"5536017"
+				"pwdrequired"		"1"
+				"timeupdated"		"1608970134"
+			}
+			"adtest"
+			{
+				"buildid"		"11827839"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690801100"
+			}
+			"backhandtest"
+			{
+				"buildid"		"6220200"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612978376"
+			}
+			"cars"
+			{
+				"buildid"		"4281857"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594574296"
+			}
+			"firstbuild"
+			{
+				"buildid"		"4265369"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594573777"
+			}
+			"gamescom"
+			{
+				"buildid"		"9310234"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660417552"
+			}
+			"puckcam"
+			{
+				"buildid"		"4281598"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594574251"
+			}
+			"puckpop"
+			{
+				"buildid"		"5602710"
+				"pwdrequired"		"1"
+				"timeupdated"		"1608969338"
+			}
+			"sheesh"
+			{
+				"buildid"		"8584858"
+				"pwdrequired"		"1"
+				"timeupdated"		"1650398691"
+			}
+			"staging"
+			{
+				"buildid"		"12264928"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695488699"
+			}
+		}
+	}
+}
