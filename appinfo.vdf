@@ -1,0 +1,289 @@
+"appinfo"
+{
+	"appid"		"1703600"
+	"common"
+	{
+		"name"		"Our Personal Space"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"icon"		"2f81f69e680fc834a957dcbfba91c1abf6031fba"
+		"logo"		"dd6e966b7397e4c5cc00aed03191a028e4b78543"
+		"logo_small"		"dd6e966b7397e4c5cc00aed03191a028e4b78543_thumb"
+		"clienticon"		"73802dd528ffd6cbea85d71eb9bc76af6446e0ed"
+		"clienttga"		"a8a5d3e8bef514d0d9bdbdf58eb20d690fd3740d"
+		"clienticns"		"4cbb45f3797ac179185b203a3c2d191cf82c6f69"
+		"linuxclienticon"		"9e51506d73ee037554906fea4407b595b4978e04"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658275200"
+			"tested_build_id"		"7103175"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"64.38515081206496"
+				"height_pct"		"69.75683798946679"
+			}
+		}
+		"store_asset_mtime"		"1627597689"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Metasepia Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Metasepia Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Our Personal Space"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1628871885"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1703600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9204"
+			"1"		"1742"
+			"2"		"3799"
+			"3"		"4947"
+			"4"		"10235"
+			"5"		"7208"
+			"6"		"3871"
+			"7"		"4486"
+			"8"		"6426"
+			"9"		"6971"
+			"10"		"15172"
+			"11"		"31579"
+			"12"		"599"
+			"13"		"31275"
+			"14"		"3942"
+			"15"		"5608"
+			"16"		"5984"
+			"17"		"4182"
+			"18"		"21"
+			"19"		"597"
+		}
+		"review_score"		"7"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Metasepia Games"
+		"publisher"		"Metasepia Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Our Personal Space"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OurPersonalSpace-1.4-market\\OurPersonalSpace.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"OurPersonalSpace-1.4-market/OurPersonalSpace.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"OurPersonalSpace-1.4-market\\OurPersonalSpace-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"OurPersonalSpace-1.4-market/OurPersonalSpace.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1703601"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1351648101801922800"
+					"size"		"335598326"
+					"download"		"213319104"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7103175"
+				"timeupdated"		"1627506702"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"OurPersonalSpace-1347408413"
+				"pattern"		"*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataRoaming"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"OurPersonalSpace-1347408413"
+						"replace"		"Renpy/OurPersonalSpace-1347408413"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"OurPersonalSpace-1347408413"
+						"replace"		".renpy/OurPersonalSpace-1347408413"
+					}
+				}
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"OurPersonalSpace-1347408413"
+						"replace"		"/Library/Renpy/OurPersonalSpace-1347408413"
+					}
+				}
+			}
+		}
+	}
+}
