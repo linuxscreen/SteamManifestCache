@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"2176530"
+	"common"
+	{
+		"name"		"NSG - Demo"
+		"type"		"Demo"
+		"parent"		"2151430"
+		"icon"		"e139e39fbd64f4f72dfb428199eef6281f04649f"
+		"clienticon"		"2f7ecab73b30453b4174995854dfc5439ac86ded"
+		"clienttga"		"864e42d332d7ad5384431e318bee4ec403422377"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"brazilian"		"NVDA - Demonstração"
+			"portuguese"		"NVDA - Demonstração"
+		}
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"brazilian"		"capsule_231x87_brazilian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"brazilian"		"header_brazilian.jpg"
+		}
+		"store_asset_mtime"		"1664894431"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Kraken"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Studio Kraken"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1664999466"
+		"gameid"		"2176530"
+	}
+	"extended"
+	{
+		"demoofappid"		"2151430"
+		"deckresolutionoverride"		"1920x1080"
+		"developer"		"Studio Kraken"
+		"publisher"		"Studio Kraken"
+	}
+	"config"
+	{
+		"installdir"		"NVDA_Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NSG.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Start demo"
+					"portuguese"		"Iniciar demonstração"
+					"brazilian"		"Iniciar demonstração"
+				}
+				"description"		"Start demo"
+			}
+			"1"
+			{
+				"executable"		"NSG-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+				"description_loc"
+				{
+					"english"		"Start demo (x86)"
+					"portuguese"		"Iniciar demonstração (x86)"
+					"brazilian"		"Iniciar demonstração (x86)"
+				}
+				"description"		"Start demo (x86)"
+			}
+			"2"
+			{
+				"executable"		"NSG.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Start demo"
+					"portuguese"		"Iniciar demonstração"
+					"brazilian"		"Iniciar demonstração"
+				}
+				"description"		"Start demo"
+			}
+			"3"
+			{
+				"executable"		"NSG.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Start demo"
+					"portuguese"		"Iniciar demonstração"
+					"brazilian"		"Iniciar demonstração"
+				}
+				"description"		"Start demo"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,portuguese,brazilian"
+		"2176531"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5526991681107587713"
+					"size"		"247988577"
+					"download"		"117854096"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9655072"
+				"timeupdated"		"1664932429"
+			}
+		}
+	}
+}
