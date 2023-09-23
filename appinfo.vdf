@@ -1,0 +1,134 @@
+"appinfo"
+{
+	"appid"		"2538420"
+	"common"
+	{
+		"name"		"Serafina's Saga: Awakened Demo"
+		"type"		"Demo"
+		"parent"		"2369430"
+		"icon"		"2082d30aad494391db562679f62e7e270ccf4495"
+		"clienticon"		"e4b4e6e012da4e31de117c0d77efd00f641f7454"
+		"clienttga"		"deaf5a662edd3dbded877bd9dbee0bf8873b203b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1690649538"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Woodsy Studio, LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Woodsy Studio, LLC"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1691419217"
+		"gameid"		"2538420"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Woodsy Studio, LLC"
+		"publisher"		"Woodsy Studio, LLC"
+		"homepage"		"http://woodsy-studio.com/"
+	}
+	"config"
+	{
+		"installdir"		"Serafina's Saga Awakened Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Serafina2022.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2538421"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2442134634195422566"
+					"size"		"2243296732"
+					"download"		"639260192"
+				}
+			}
+		}
+		"2538422"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8761184976535987080"
+					"size"		"2243296732"
+					"download"		"639245136"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11912975"
+				"timeupdated"		"1691681087"
+			}
+		}
+	}
+}
