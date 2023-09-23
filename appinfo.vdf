@@ -1,0 +1,212 @@
+"appinfo"
+{
+	"appid"		"1184080"
+	"common"
+	{
+		"name"		"Money Makes Money Demo"
+		"type"		"Demo"
+		"parent"		"1045680"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"9b2eff6523590da9f9250d866542a5b44caab3b4"
+		"clienttga"		"0bf149365f1f95e5be6608078cb587520cd4efd9"
+		"clienticon"		"9a8dc4207c6489274662b5b5b0bd408c6c18fa0c"
+		"metacritic_name"		"Money Makes Money Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"93.57692384415124"
+			}
+		}
+		"store_asset_mtime"		"1572524467"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Spaghetti Code Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spaghetti Code Ltd"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1573620916"
+		"gameid"		"1184080"
+	}
+	"extended"
+	{
+		"demoofappid"		"1045680"
+		"developer"		"Spaghetti Code Ltd"
+		"publisher"		"Spaghetti Code Ltd"
+	}
+	"config"
+	{
+		"installdir"		"Money Makes Money Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Money Makes Money DEMO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Money Makes Money DEMO.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"Money Makes Money DEMO.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"Money Makes Money DEMO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german"
+		"1184081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8925305892203970757"
+					"size"		"183293332"
+					"download"		"156451360"
+				}
+			}
+		}
+		"1184082"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7420089566620323871"
+					"size"		"192446763"
+					"download"		"158034976"
+				}
+			}
+		}
+		"1184083"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6697709083862565719"
+					"size"		"188782810"
+					"download"		"157067216"
+				}
+			}
+		}
+		"1184084"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3591640453237219701"
+					"size"		"183468948"
+					"download"		"155570704"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4437261"
+				"timeupdated"		"1575000042"
+			}
+		}
+	}
+}
