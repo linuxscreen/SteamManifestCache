@@ -1,0 +1,171 @@
+"appinfo"
+{
+	"appid"		"1250820"
+	"common"
+	{
+		"name"		"厷雏GrandNestling-demo"
+		"type"		"Demo"
+		"parent"		"1250670"
+		"clienttga"		"c078b7094aaefb0a73771912af5dff1ffb3b16f8"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"e0efde3cd6a8f531faa0d33f6f8e35271b8a6c86"
+		"icon"		"eed547c8091db8617d4c79049ad3c1cd2ce7dd9a"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"21.313044001142487"
+				"height_pct"		"18.26598327132642"
+			}
+		}
+		"store_asset_mtime"		"1610446666"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HinaKageDogs"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"影狐工作室"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"个人"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1612166400"
+		"steam_release_date"		"1610975799"
+		"gameid"		"1250820"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1250670"
+		"developer"		"HinaKageDogs"
+		"publisher"		"个人"
+		"homepage"		"https://www.weibo.com/u/3868792778"
+	}
+	"config"
+	{
+		"installdir"		"GrandNesting-demo-1.0-pc"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GrandNesting-demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"GrandNesting-demo.app"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"1250821"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9194317835948385415"
+					"size"		"1172186544"
+					"download"		"965121424"
+				}
+				"macos"
+				{
+					"gid"		"9194317835948385415"
+					"size"		"1172186544"
+					"download"		"965121424"
+				}
+			}
+		}
+		"1250822"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8401610904337030139"
+					"size"		"1122342189"
+					"download"		"950443712"
+				}
+				"macos"
+				{
+					"gid"		"8401610904337030139"
+					"size"		"1122342189"
+					"download"		"950443712"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6111468"
+				"timeupdated"		"1611158228"
+			}
+			"macos"
+			{
+				"buildid"		"6111468"
+				"description"		"for macos"
+				"timeupdated"		"1611151917"
+			}
+		}
+	}
+}
