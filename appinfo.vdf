@@ -1,0 +1,112 @@
+"appinfo"
+{
+	"appid"		"1243720"
+	"common"
+	{
+		"name"		"大唐西域记 Demo"
+		"type"		"Demo"
+		"parent"		"1243700"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"6097a9551b722d8a3c429b38f11398970cab16a2"
+		"clienttga"		"019177511d8e1e9c537d4008a905a964dd433c6e"
+		"icon"		"235219b6e6681e614c37260c2a91a5d3b3c72630"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"17.904741993887882"
+				"height_pct"		"25"
+			}
+		}
+		"store_asset_mtime"		"1635143804"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"星辰重工"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"旅人计划"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1596764520"
+		"gameid"		"1243720"
+	}
+	"extended"
+	{
+		"demoofappid"		"1243700"
+		"developer"		"星辰重工"
+		"publisher"		"旅人计划"
+	}
+	"config"
+	{
+		"installdir"		"CAYMDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"changAnYeMingBeta.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1243729"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6138937564645952553"
+					"size"		"286350738"
+					"download"		"223615744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7591578"
+				"timeupdated"		"1635131030"
+			}
+		}
+	}
+}
