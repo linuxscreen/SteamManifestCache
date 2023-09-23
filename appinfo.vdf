@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"1673600"
+	"common"
+	{
+		"name"		"Game For Anna"
+		"type"		"Game"
+		"logo"		"168c9d0ec07ef07928a3c1f2cbfeb56b78b60f25"
+		"logo_small"		"168c9d0ec07ef07928a3c1f2cbfeb56b78b60f25_thumb"
+		"icon"		"a80e9caf7a228659d8c29dbe539be21624c635aa"
+		"clienticon"		"bf1851ea66d7c5f746d670b52904868660236dca"
+		"clienttga"		"f24d843c87e5e9c54c98e5f3f0d30e12f1d79b02"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1630497465"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Desert Fox"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Desert Fox"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Darkness Under My Bed"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625571232"
+		"community_hub_visible"		"1"
+		"gameid"		"1673600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1698"
+			"2"		"3871"
+			"3"		"4094"
+			"4"		"3839"
+			"5"		"1667"
+			"6"		"4175"
+			"7"		"1721"
+			"8"		"4166"
+			"9"		"4342"
+			"10"		"21006"
+			"11"		"5186"
+			"12"		"5752"
+			"13"		"1710"
+			"14"		"5716"
+			"15"		"10808"
+			"16"		"4182"
+			"17"		"1742"
+			"18"		"492"
+			"19"		"3859"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Desert Fox"
+		"publisher"		"Desert Fox"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Game For Anna"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game For Anna.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1673601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8069053424610965263"
+					"size"		"276524469"
+					"download"		"203248864"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7124278"
+				"timeupdated"		"1627903469"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Game_for_Anna"
+				"pattern"		"*.ini"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
