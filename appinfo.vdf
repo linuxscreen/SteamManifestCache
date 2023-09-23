@@ -1,0 +1,197 @@
+"appinfo"
+{
+	"appid"		"1445240"
+	"common"
+	{
+		"name"		"Tempo"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"b7d2eb017e8f54adbd781b6f43e1ad2ccaee2453"
+		"logo_small"		"b7d2eb017e8f54adbd781b6f43e1ad2ccaee2453_thumb"
+		"icon"		"b021b707387d30f6d9d7bf04b88656f065ebba9a"
+		"clienticon"		"bd6640e7b2a459ac48918818b40cdaf153929979"
+		"clienttga"		"f4f3392146063d90cd88cd8ed21517c03e0146da"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"91.79000913480618"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1635282606"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aestronauts"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Aestronauts"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Tempo"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1635788580"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1445240"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"1752"
+			"3"		"1773"
+			"4"		"17770"
+			"5"		"1654"
+			"6"		"4182"
+			"7"		"4252"
+			"8"		"4004"
+			"9"		"699"
+			"10"		"4305"
+			"11"		"8122"
+			"12"		"5395"
+			"13"		"1697"
+			"14"		"13782"
+			"15"		"1710"
+			"16"		"7481"
+			"17"		"9157"
+			"18"		"1755"
+			"19"		"1714"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Aestronauts"
+		"publisher"		"Aestronauts"
+		"homepage"		"https://www.youtube.com/channel/UCCpeCn_faC0EUGrgOVPfXPA"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tempo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tempo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Tempo.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1445242"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8225227371167478244"
+					"size"		"364908978"
+					"download"		"192882768"
+				}
+			}
+		}
+		"1445245"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2178688784874295799"
+					"size"		"410596686"
+					"download"		"195389024"
+				}
+			}
+		}
+		"1445241"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8005562"
+				"timeupdated"		"1641953784"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"10"
+	}
+}
