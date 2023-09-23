@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"1707050"
+	"common"
+	{
+		"name"		"Geo-Duck"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"icon"		"03a10123c6996c0421d588c902f453911e9b5739"
+		"logo"		"3381425c37a4d1e36ca7f9f28e511c10886998fd"
+		"logo_small"		"3381425c37a4d1e36ca7f9f28e511c10886998fd_thumb"
+		"clienttga"		"3be67a72fdad26034a0c3c679a3224706acd2a6b"
+		"clienticns"		"149fdba7604c569ed557723c14c048d6341f29dd"
+		"clienticon"		"bddb495ac997465f680e0d3fc51a4d6d4e1cd0c5"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"87.07799767171127"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1627780789"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Your Infamous Harp"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Your Infamous"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629119734"
+		"community_hub_visible"		"1"
+		"gameid"		"1707050"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4182"
+			"1"		"5379"
+			"2"		"8253"
+			"3"		"1773"
+			"4"		"1710"
+			"5"		"1714"
+			"6"		"1752"
+			"7"		"180368"
+			"8"		"3834"
+			"9"		"4878"
+			"10"		"4136"
+			"11"		"19"
+			"12"		"3798"
+			"13"		"21"
+			"14"		"597"
+			"15"		"3871"
+			"16"		"61357"
+			"17"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Your Infamous Harp"
+		"publisher"		"Your Infamous"
+		"homepage"		"https://www.yourinfamousharp.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Geo-Duck"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"geo-duck.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"myApp_osx.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1707051"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3299716376799640683"
+					"size"		"239108194"
+					"download"		"207608688"
+				}
+			}
+		}
+		"1707052"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9155954993099898685"
+					"size"		"216417450"
+					"download"		"201830320"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7147084"
+				"timeupdated"		"1628215934"
+			}
+		}
+	}
+}
