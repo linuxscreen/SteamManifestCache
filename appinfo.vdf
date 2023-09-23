@@ -1,0 +1,147 @@
+"appinfo"
+{
+	"appid"		"869810"
+	"common"
+	{
+		"name"		"Jabroni Brawl: Episode 3 - Authoring Tools"
+		"type"		"Tool"
+		"parent"		"869480"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"89d9eefc7cb121b7f3c49e7965498922c0ec807e"
+		"logo"		"ffd7f84daddd27a78c9fc62b78f8423e2afe01c1"
+		"logo_small"		"ffd7f84daddd27a78c9fc62b78f8423e2afe01c1_thumb"
+		"icon"		"7f8ece8f6ede732e90654de9e2cc95698103a565"
+		"name_localized"
+		{
+			"schinese"		"傻缺大乱斗：第三章 - 创作工具"
+			"russian"		"Jabroni Brawl: Episode 3 - Авторский Инструментарий"
+			"tchinese"		"傻樂大亂鬥：三部曲 - 製作工具"
+			"danish"		"Jabroni Brawl: Episode 3 - Authoring Redskaber"
+		}
+		"clienticon"		"77d525c3ffc23105d358f3b5e6345b9d19585a28"
+		"associations"
+		{
+		}
+		"gameid"		"869810"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Jabroni Brawl Episode 3"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\win32\\sdklauncher.exe"
+				"arguments"		"-game jbep3"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"SDK launcher"
+				}
+				"description"		"SDK launcher"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"869811"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3828238317589586501"
+					"size"		"59713002"
+					"download"		"18420816"
+				}
+				"revert"
+				{
+					"gid"		"3110021858853009790"
+					"size"		"59913706"
+					"download"		"18498848"
+				}
+				"upcoming"
+				{
+					"gid"		"3828238317589586501"
+					"size"		"59713002"
+					"download"		"18420816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"prerelease"
+				{
+					"gid"		"EEA316CFDD3279D4464E2F8565D29EC1"
+					"size"		"56D7B3048D0074143F724AC98943B9AD"
+					"download"		"41CCB5BF1CAE139A83383AE5A3542092"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12149241"
+				"timeupdated"		"1694259893"
+			}
+			"prerelease"
+			{
+				"buildid"		"12149241"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694258862"
+			}
+			"revert"
+			{
+				"buildid"		"11819193"
+				"description"		"Previous patch"
+				"timeupdated"		"1694259886"
+			}
+			"upcoming"
+			{
+				"buildid"		"12149241"
+				"description"		"Upcoming changes"
+				"timeupdated"		"1694258993"
+			}
+		}
+	}
+}
