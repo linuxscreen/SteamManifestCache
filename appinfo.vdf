@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"1690280"
+	"common"
+	{
+		"name"		"Dabado Puzzles Demo"
+		"type"		"Demo"
+		"parent"		"1618340"
+		"releasestate"		"released"
+		"clienttga"		"2dec3a9cbebb20839abbcc902dda2430960545ce"
+		"clienticns"		"d6bd7f1f5ec387699857aa3449b59052f4623ee9"
+		"clienticon"		"8fb924be0e8f755b6a02ecc0511641c8cdfca2ee"
+		"icon"		"fd67e57ca14317b7af3f8cc09b3a7d9b0cb68bb1"
+		"linuxclienticon"		"35f371618d47679c665d499d3abc5c3ae4278fe3"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1625676274"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"7Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"7Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1625853829"
+		"gameid"		"1690280"
+	}
+	"extended"
+	{
+		"demoofappid"		"1618340"
+		"developer"		"7Games"
+		"publisher"		"7Games"
+	}
+	"config"
+	{
+		"installdir"		"Dabado Puzzles Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dabado Puzzles.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Dabado Puzzles.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Dabado Puzzles.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1690281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"312780573978490980"
+					"size"		"661148978"
+					"download"		"275716720"
+				}
+			}
+		}
+		"1690282"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4491774917604764247"
+					"size"		"663767445"
+					"download"		"276395760"
+				}
+			}
+		}
+		"1690283"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4215545640230724919"
+					"size"		"672733405"
+					"download"		"277304128"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8653598"
+				"timeupdated"		"1651282089"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000"
+		"maxnumfiles"		"10"
+		"appidredirect"		"1618340"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"7Games/Dabado Puzzles"
+				"pattern"		"*.dat"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"7Games/Dabado Puzzles"
+						"replace"		"7Games/Dabado Puzzles"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"7Games/Dabado Puzzles"
+						"replace"		".config/unity3d/7Games/Dabado Puzzles"
+					}
+				}
+			}
+		}
+	}
+}
