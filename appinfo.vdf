@@ -1,0 +1,140 @@
+"appinfo"
+{
+	"appid"		"1852270"
+	"common"
+	{
+		"name"		"The Heroes around Me Demo"
+		"type"		"Demo"
+		"parent"		"1768470"
+		"clienticon"		"915771656d3089f92a0ac2b6c59e19510590efb4"
+		"clienttga"		"08724fd4e01e5a1d89daeb013c1f26cf9d11e22f"
+		"icon"		"0adabbae6c29199642fe103c2ec5311adf13fd52"
+		"name_localized"
+		{
+			"english"		"The Heroes around Me Demo"
+			"schinese"		"世上英雄 DEMO"
+			"tchinese"		"世上英雄 DEMO"
+			"sc_schinese"		"世上英雄 DEMO"
+			"japanese"		"世上英雄 DEMO"
+		}
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestatesteamchina"		"released"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-xc"
+			"library_hero"		"zh-cn,en,zh-xc"
+			"library_logo"		"en,zh-xc"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1658121049"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"OKJOY"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"OKJOY"
+			}
+		}
+		"steam_release_date"		"1642214506"
+		"gameid"		"1852270"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1768470"
+		"developer"		"OKJOY"
+		"publisher"		"OKJOY"
+	}
+	"config"
+	{
+		"installdir"		"TheHeroesAroundMe Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheHeroesAroundMe.exe"
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"9145616"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658196956"
+			}
+			"public"
+			{
+				"buildid"		"9146645"
+				"timeupdated"		"1659324176"
+			}
+		}
+		"1852271"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6501390112567379966"
+					"size"		"302043436"
+					"download"		"58043712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"21EBA7AC388CA089CFD5364522601E13"
+					"size"		"B28A494AEE25190ECBD55858140A22FB"
+					"download"		"3B023054149EBAAB510619FAFE4BB07A"
+				}
+			}
+		}
+		"1852272"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7909630296489059066"
+					"size"		"302043652"
+					"download"		"58041488"
+				}
+			}
+		}
+	}
+}
