@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"2160000"
+	"common"
+	{
+		"name"		"Trapped with Jester"
+		"type"		"Game"
+		"icon"		"e11a8ed5b9073ecbe1e44163a98b67e65b94b8a5"
+		"clienticon"		"f794dd50e4816e7fec64e9ea6893c55c91010d5f"
+		"clienttga"		"fbf403788c743b420f811a6b3227b086b9b3dcb8"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1664353769"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anta"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Neoclassic Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Neoclassic Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"malay"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1665414175"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2160000"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"1721"
+			"2"		"4486"
+			"3"		"31579"
+			"4"		"19995"
+			"5"		"6971"
+			"6"		"11014"
+			"7"		"1742"
+			"8"		"4604"
+			"9"		"4085"
+			"10"		"9204"
+			"11"		"3871"
+			"12"		"6426"
+			"13"		"31275"
+			"14"		"597"
+			"15"		"4182"
+			"16"		"4305"
+			"17"		"5923"
+			"18"		"5716"
+			"19"		"21"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Anta"
+		"publisher"		"Neoclassic Games"
+		"isfreeapp"		"1"
+		"listofdlc"		"2171990"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Trapped with Jester"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TrappedwithJester-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TrappedwithJester.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2160001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3329051934808181249"
+					"size"		"188675394"
+					"download"		"76940112"
+				}
+			}
+		}
+		"2171990"
+		{
+			"dlcappid"		"2171990"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6037283433786507526"
+					"size"		"4649869"
+					"download"		"4697664"
+				}
+			}
+		}
+		"2160002"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1470794595608375835"
+					"size"		"94388175"
+					"download"		"49674336"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10876215"
+				"timeupdated"		"1680025117"
+			}
+		}
+	}
+}
