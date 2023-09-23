@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"1679530"
+	"common"
+	{
+		"name"		"SYDE Rugby League Simulator"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"7d307947a5b6d742efc6c2ab108e27e7279eeb2c"
+		"logo_small"		"7d307947a5b6d742efc6c2ab108e27e7279eeb2c_thumb"
+		"icon"		"75270312c35506ec18da144974af52c348881d0c"
+		"clienticon"		"dc00d89cc8ccb424f8571f821f398389d6a02c48"
+		"clienttga"		"68b74498ae1bafda64962f59118f26c09c80a9d4"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.23255813953489"
+				"height_pct"		"85.7159819520304"
+			}
+		}
+		"store_asset_mtime"		"1626351929"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Freebee Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Freebee Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1627653753"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1679530"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"701"
+			"2"		"1698"
+			"3"		"379975"
+			"4"		"3871"
+			"5"		"3964"
+			"6"		"31275"
+			"7"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"Team Freebee Games"
+		"publisher"		"Team Freebee Games"
+		"homepage"		"https://ritalin4kidz.github.io/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SYDE Rugby League Simulator"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SYDERugbyLeague.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"(Normal)"
+				}
+				"description"		"(Normal)"
+			}
+			"1"
+			{
+				"executable"		"SYDERugbyLeague.exe"
+				"arguments"		"--NoOffset"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"(Adjusted Config)"
+				}
+				"description"		"(Adjusted Config)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1679531"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3089639586780533705"
+					"size"		"67637184"
+					"download"		"40745552"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10650217"
+				"timeupdated"		"1677537564"
+			}
+		}
+	}
+}
