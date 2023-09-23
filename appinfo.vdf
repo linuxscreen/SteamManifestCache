@@ -1,0 +1,231 @@
+"appinfo"
+{
+	"appid"		"2161480"
+	"common"
+	{
+		"name"		"Verses of Enchantment Demo"
+		"type"		"Demo"
+		"parent"		"2086910"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"4fcf5a1c490252a9400452fd02495e25db6eeb33"
+		"clienticns"		"30e5aec9617cf7c814dabf69d334b06aa9057144"
+		"clienticon"		"348fb6e66699de8b73e727a765b2fddc269fe387"
+		"clienttga"		"06540b2260995e2726cf897add222ae15e4b2145"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1680099959"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nachtvlam"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nachtvlam"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664787207"
+		"gameid"		"2161480"
+	}
+	"extended"
+	{
+		"demoofappid"		"2086910"
+		"developer"		"Nachtvlam"
+		"publisher"		"Nachtvlam"
+	}
+	"config"
+	{
+		"installdir"		"Verses of Enchantment Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"verses_of_enchantment.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Verses of Enchantment.app/Contents/MacOS/Verses of Enchantment"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"verses_of_enchantment.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2995414573"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"2161482"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7400147989265308963"
+					"size"		"949070015"
+					"download"		"874576928"
+				}
+			}
+		}
+		"2161484"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5237120422470501379"
+					"size"		"1001582513"
+					"download"		"886220272"
+				}
+			}
+		}
+		"2161483"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"110175776078104126"
+					"size"		"958821756"
+					"download"		"877036624"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12042523"
+				"timeupdated"		"1693127965"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"100"
+		"appidredirect"		"2086910"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Godot/app_userdata/Verses of Enchantment/"
+				"pattern"		"profile*.json"
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Godot/app_userdata/Verses of Enchantment/"
+						"replace"		".local/share/godot/app_userdata/Verses of Enchantment/"
+					}
+				}
+			}
+		}
+	}
+}
