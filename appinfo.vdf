@@ -1,0 +1,125 @@
+"appinfo"
+{
+	"appid"		"2335230"
+	"common"
+	{
+		"name"		"The Castle Burns! Demo"
+		"type"		"Demo"
+		"parent"		"2302960"
+		"releasestate"		"released"
+		"icon"		"6aae7ef2641a8855c85f5d1354bceff0065851e4"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"dfa14bbf2f428f96013690c978d4c4a1f2510350"
+		"clienttga"		"9204d5d450444a55da66831ccd83fa64c553a4d1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1677515030"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Benevolent Banana Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Benevolent Banana Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1677607218"
+		"gameid"		"2335230"
+	}
+	"extended"
+	{
+		"demoofappid"		"2302960"
+		"developer"		"Benevolent Banana Studio"
+		"publisher"		"Benevolent Banana Studio"
+	}
+	"config"
+	{
+		"installdir"		"The Castle Burns! Demo"
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65533"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheCastleBurns.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2335231"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1966395907876519703"
+					"size"		"673063379"
+					"download"		"421797552"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10696125"
+				"timeupdated"		"1678040756"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"The Castle Burns! Demo\\Local Storage\\leveldb"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
