@@ -1,0 +1,106 @@
+"appinfo"
+{
+	"appid"		"1719860"
+	"common"
+	{
+		"name"		"Mech Mind Ninja Demo"
+		"type"		"Demo"
+		"parent"		"1681760"
+		"releasestate"		"released"
+		"clienttga"		"31395f9babe1e6a56c3cd17b82493f4a4278ebd4"
+		"clienticon"		"73724b937d346849cb0f78b22a90200ec900830e"
+		"icon"		"4e35cc4ec042fc0a274f706cac188de0de69c84e"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"brazilian"		"capsule_231x87_brazilian.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"brazilian"		"header_brazilian.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"pt-br,en"
+			"library_hero"		"pt-br,en"
+			"library_logo"		"pt-br,en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1628400619"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Leonardo M A Silva"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Consttelattions"
+			}
+		}
+		"steam_release_date"		"1629800434"
+		"gameid"		"1719860"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1681760"
+		"developer"		"Leonardo M A Silva"
+		"publisher"		"Consttelattions"
+	}
+	"config"
+	{
+		"installdir"		"Mech Mind Ninja Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MMN_DEMO_1.0.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,brazilian"
+		"1719862"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8742484078561722988"
+					"size"		"163504140"
+					"download"		"96861808"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7391746"
+				"timeupdated"		"1632166103"
+			}
+		}
+	}
+}
