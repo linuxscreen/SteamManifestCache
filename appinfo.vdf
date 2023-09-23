@@ -1,0 +1,174 @@
+"appinfo"
+{
+	"appid"		"1727280"
+	"common"
+	{
+		"name"		"The Fall of Balance Demo"
+		"type"		"Demo"
+		"parent"		"1715190"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+		}
+		"clienticon"		"dc53bffdb8964243be641f6fe1d4507b72b1658b"
+		"clienttga"		"2e993d7fec21ab261a824e1150293bebda918671"
+		"icon"		"dfb95d5838b0ebc5f6479327d20af9c01ebeb893"
+		"openxrsupport"		"1"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openvrsupport"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1727280_eula_0"
+				"name"		"The Fall of Balance Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1727280_eula_0"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1628951417"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tiago Rodrigues"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tiago Rodrigues"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629343761"
+		"gameid"		"1727280"
+		"onlyvrsupport"		"1"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1715190"
+		"vrheadsetstreaming"		"0"
+		"developer"		"Tiago Rodrigues"
+		"publisher"		"Tiago Rodrigues"
+	}
+	"config"
+	{
+		"installdir"		"The Fall of Balance Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TFoBdemo.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"TFoBdemo.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1727281"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"54535851011679843"
+					"size"		"1402839800"
+					"download"		"1271002816"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7304946"
+				"timeupdated"		"1630763716"
+			}
+		}
+	}
+}
