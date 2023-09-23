@@ -1,0 +1,162 @@
+"appinfo"
+{
+	"appid"		"1755940"
+	"common"
+	{
+		"name"		"PlateUp! Demo"
+		"type"		"Demo"
+		"parent"		"1599600"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"6cc2e797ba3f4f212c5987c99ecf4ba283930798"
+		"clienttga"		"5a587903a883ae347d9bbfd9472ebd799ef4763e"
+		"icon"		"8ab51cc26c5b54c8858bf95538d71f728b460611"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664841600"
+			"tested_build_id"		"9140855"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1654513139"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"It's happening"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Yogscast Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1632267855"
+		"gameid"		"1755940"
+	}
+	"extended"
+	{
+		"demoofappid"		"1599600"
+		"developer"		"It's happening"
+		"publisher"		"Yogscast Games"
+	}
+	"config"
+	{
+		"installdir"		"PlateUp! Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CouchCoopMono2/PlateUp.exe"
+				"arguments"		"-appid 1755940"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1755941"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4119881996447710483"
+					"size"		"974903885"
+					"download"		"77913712"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9140855"
+				"timeupdated"		"1659618533"
+			}
+		}
+	}
+}
