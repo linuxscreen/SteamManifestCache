@@ -1,0 +1,262 @@
+"appinfo"
+{
+	"appid"		"812380"
+	"common"
+	{
+		"name"		"Flock of Dogs"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"690d69df6b219980ee9fa96026fd7b20f0a19997"
+		"logo_small"		"690d69df6b219980ee9fa96026fd7b20f0a19997_thumb"
+		"icon"		"182eca5b5ea47c97079bda6616fe0c57a101da9a"
+		"clienttga"		"78a2c911ec8fe8d4c1b0f73eaa9bfba9db5996f8"
+		"clienticon"		"c4cd243eb2ffdad404787f6257c5b5f5e7b664df"
+		"releasestate"		"released"
+		"osextended"		"macos64,macosapplesilicon"
+		"metacritic_name"		"Flock of Dogs"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668538565"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Max Clark"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Max Clark"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"37"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_44"		"1"
+			"category_43"		"1"
+			"category_38"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1669820297"
+		"community_hub_visible"		"1"
+		"gameid"		"812380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"1685"
+			"2"		"3841"
+			"3"		"3843"
+			"4"		"4758"
+			"5"		"3959"
+			"6"		"6730"
+			"7"		"4106"
+			"8"		"3871"
+			"9"		"4726"
+			"10"		"5125"
+			"11"		"19"
+			"12"		"597"
+			"13"		"4195"
+			"14"		"4305"
+			"15"		"6815"
+			"16"		"1638"
+			"17"		"5350"
+			"18"		"4562"
+			"19"		"4004"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Max Clark"
+		"publisher"		"Max Clark"
+		"homepage"		"https://www.flockofdogs.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2236640,2306550"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Flock of Dogs"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Windows/FlockOfDogs/FlockOfDogs.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MacOS/FlockOfDogs.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"LinuxAndSteamOS/FlockOfDogs/FlockOfDogs.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"812381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4564062149602825552"
+					"size"		"3297310906"
+					"download"		"977250016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"599ED135DC2A8AA0BD7FF5851541E6C6"
+					"size"		"4217B3ED312800894247C457AF743805"
+					"download"		"F84197957145FEBB64E289D11C7F0A03"
+				}
+			}
+		}
+		"812382"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3167208905583374091"
+					"size"		"2282817104"
+					"download"		"232502096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"59A67137D2DDCDF39E2EC859D5913489"
+					"size"		"2FB1A3FEEA09942BB2F3DC50FF8054CB"
+					"download"		"5DE48CBE8791EE169652890CA9C2B286"
+				}
+			}
+		}
+		"812383"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6497959242455296401"
+					"size"		"2260373677"
+					"download"		"224687008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"AD5CCA198CAB57374CAC22E2F8A0BBE9"
+					"size"		"B1CCBD0A44039E953411B01389E8D3EE"
+					"download"		"21F898C9E12E257954D7ACE8289808F4"
+				}
+			}
+		}
+		"2236640"
+		{
+			"dlcappid"		"2236640"
+		}
+		"2306550"
+		{
+			"dlcappid"		"2306550"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12260986"
+				"timeupdated"		"1695420619"
+			}
+			"beta"
+			{
+				"buildid"		"12262907"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695448729"
+			}
+		}
+	}
+}
