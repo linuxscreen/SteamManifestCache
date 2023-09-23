@@ -1,0 +1,925 @@
+"appinfo"
+{
+	"appid"		"404790"
+	"common"
+	{
+		"name"		"Godot Engine"
+		"type"		"Application"
+		"oslist"		"windows,macos,linux"
+		"clienticon"		"6c1d7875d8d474a68c2abc12f0f5151aa45d5e2c"
+		"clienttga"		"eca5b250c16dcfa18dbbc0fd883dcbaf3c46e51a"
+		"icon"		"057ae868c1d0975b941d73f58d1dc17c8a15a090"
+		"clienticns"		"a552b189a5021beb5c36404c991d569936f0f331"
+		"linuxclienticon"		"947d57c17807519cd4022234b3abe61cc0a0ac21"
+		"logo"		"f1f0e0617cabe8cbdb1cc14bd9de69c78844d688"
+		"logo_small"		"f1f0e0617cabe8cbdb1cc14bd9de69c78844d688_thumb"
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1659571200"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Godot Engine"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.8904428904429"
+				"height_pct"		"68.23708122104628"
+			}
+		}
+		"store_asset_mtime"		"1607327350"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Godot Engine"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Godot Engine"
+			}
+		}
+		"primary_genre"		"60"
+		"genres"
+		{
+			"0"		"60"
+		}
+		"category"
+		{
+			"category_17"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1456284465"
+		"community_hub_visible"		"1"
+		"gameid"		"404790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"13906"
+			"1"		"87"
+			"2"		"4191"
+			"3"		"3871"
+			"4"		"1649"
+			"5"		"113"
+			"6"		"8013"
+			"7"		"5432"
+			"8"		"1721"
+			"9"		"29482"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Godot Engine"
+		"publisher"		"Godot Engine"
+		"homepage"		"https://godotengine.org"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Godot Engine"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"godot.windows.opt.tools.32.exe"
+				"arguments"		"-p"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"godot.windows.opt.tools.64.exe"
+				"arguments"		"-p"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"godot.x11.opt.tools.32"
+				"arguments"		"-p"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"4"
+			{
+				"executable"		"godot.x11.opt.tools.64"
+				"arguments"		"-p"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"5"
+			{
+				"executable"		"Godot.app"
+				"arguments"		"-p"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"11"
+			{
+				"executable"		"godot.x11.opt.tools.64"
+				"arguments"		"-path $HOME -pm"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+					"betakey"		"stable-2.0, stable-2.1"
+				}
+			}
+			"12"
+			{
+				"executable"		"godot.x11.opt.tools.32"
+				"arguments"		"-path $HOME -pm"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+					"betakey"		"stable-2.0, stable-2.1"
+				}
+			}
+			"13"
+			{
+				"executable"		"godot.windows.opt.tools.32.exe"
+				"arguments"		"-path %USERPROFILE% -pm"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"stable-2.0, stable-2.1"
+				}
+			}
+			"14"
+			{
+				"executable"		"godot.osx.opt.tools.fat"
+				"arguments"		"-path $HOME -pm"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"stable-2.0, stable-2.1"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"404791"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1976002030563965297"
+					"size"		"117381520"
+					"download"		"39685296"
+				}
+				"stable-2.0"
+				{
+					"gid"		"6348437949618360369"
+					"size"		"17659904"
+					"download"		"5328416"
+				}
+				"stable-2.1"
+				{
+					"gid"		"7886762893383048676"
+					"size"		"25557504"
+					"download"		"9077088"
+				}
+				"stable-3.0"
+				{
+					"gid"		"9139398262893216512"
+					"size"		"47244288"
+					"download"		"14977728"
+				}
+				"stable-3.1"
+				{
+					"gid"		"6050652075458763091"
+					"size"		"59684592"
+					"download"		"19099936"
+				}
+				"stable-3.2"
+				{
+					"gid"		"417750483141757793"
+					"size"		"72540568"
+					"download"		"23022944"
+				}
+				"stable-3.3"
+				{
+					"gid"		"6571446444309024177"
+					"size"		"67816872"
+					"download"		"24028720"
+				}
+				"stable-3.4"
+				{
+					"gid"		"4394390596904021423"
+					"size"		"72132472"
+					"download"		"26589856"
+				}
+				"stable-3.5"
+				{
+					"gid"		"3969839787065864547"
+					"size"		"71991712"
+					"download"		"27035072"
+				}
+				"stable-4.0"
+				{
+					"gid"		"7379721277342607390"
+					"size"		"114065296"
+					"download"		"38991184"
+				}
+				"stable-4.1"
+				{
+					"gid"		"8714892960034666241"
+					"size"		"117352336"
+					"download"		"39665392"
+				}
+			}
+		}
+		"404797"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3542067943101761234"
+					"size"		"119461776"
+					"download"		"44861136"
+				}
+				"stable-3.0"
+				{
+					"gid"		"6830107461746549685"
+					"size"		"43015680"
+					"download"		"15364976"
+				}
+				"stable-3.1"
+				{
+					"gid"		"2033352830793415129"
+					"size"		"53287152"
+					"download"		"19142256"
+				}
+				"stable-3.2"
+				{
+					"gid"		"7346810600158681243"
+					"size"		"64970648"
+					"download"		"23069296"
+				}
+				"stable-3.3"
+				{
+					"gid"		"8854395983217806728"
+					"size"		"72827800"
+					"download"		"29671104"
+				}
+				"stable-3.4"
+				{
+					"gid"		"583823657446579914"
+					"size"		"76918120"
+					"download"		"32205136"
+				}
+				"stable-3.5"
+				{
+					"gid"		"6343732116145434092"
+					"size"		"76582288"
+					"download"		"32531136"
+				}
+				"stable-4.0"
+				{
+					"gid"		"937137546574716225"
+					"size"		"116225936"
+					"download"		"44084128"
+				}
+				"stable-4.1"
+				{
+					"gid"		"5560388162996551889"
+					"size"		"119433616"
+					"download"		"44859152"
+				}
+			}
+		}
+		"404792"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8049805320251711722"
+					"size"		"235192826"
+					"download"		"77401264"
+				}
+				"stable-2.0"
+				{
+					"gid"		"4848965786049322475"
+					"size"		"78480424"
+					"download"		"19197248"
+				}
+				"stable-2.1"
+				{
+					"gid"		"3289260519843546509"
+					"size"		"99689480"
+					"download"		"26933552"
+				}
+				"stable-3.0"
+				{
+					"gid"		"8758315534981643760"
+					"size"		"121898195"
+					"download"		"34200096"
+				}
+				"stable-3.1"
+				{
+					"gid"		"7822981632049994510"
+					"size"		"67770640"
+					"download"		"21766992"
+				}
+				"stable-3.2"
+				{
+					"gid"		"8961407060567118166"
+					"size"		"75141925"
+					"download"		"24851328"
+				}
+				"stable-3.3"
+				{
+					"gid"		"5520517386706774505"
+					"size"		"145873308"
+					"download"		"52024496"
+				}
+				"stable-3.4"
+				{
+					"gid"		"3557950939948802750"
+					"size"		"155292158"
+					"download"		"56505536"
+				}
+				"stable-3.5"
+				{
+					"gid"		"7435841589658320835"
+					"size"		"140937950"
+					"download"		"55274320"
+				}
+				"stable-4.0"
+				{
+					"gid"		"1668773457655936971"
+					"size"		"229246826"
+					"download"		"76235760"
+				}
+				"stable-4.1"
+				{
+					"gid"		"664588642024857544"
+					"size"		"235143062"
+					"download"		"77378672"
+				}
+			}
+		}
+		"404796"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1134246655590582051"
+					"size"		"109776576"
+					"download"		"38046624"
+				}
+				"stable-2.0"
+				{
+					"gid"		"8539070385930605474"
+					"size"		"31125300"
+					"download"		"8708592"
+				}
+				"stable-2.1"
+				{
+					"gid"		"1252087165563455782"
+					"size"		"41201434"
+					"download"		"13147968"
+				}
+				"stable-3.0"
+				{
+					"gid"		"4543462704551506683"
+					"size"		"55970577"
+					"download"		"17798160"
+				}
+				"stable-3.1"
+				{
+					"gid"		"6605582710325966732"
+					"size"		"63464618"
+					"download"		"20926992"
+				}
+				"stable-3.2"
+				{
+					"gid"		"8875122296943529623"
+					"size"		"69822509"
+					"download"		"23690992"
+				}
+				"stable-3.3"
+				{
+					"gid"		"5801975383026199938"
+					"size"		"69736660"
+					"download"		"24458592"
+				}
+				"stable-3.4"
+				{
+					"gid"		"1667146910231290333"
+					"size"		"70828432"
+					"download"		"26954400"
+				}
+				"stable-3.5"
+				{
+					"gid"		"4016180845790103960"
+					"size"		"70795792"
+					"download"		"27477680"
+				}
+				"stable-4.0"
+				{
+					"gid"		"480016584596049972"
+					"size"		"106700096"
+					"download"		"37394096"
+				}
+				"stable-4.1"
+				{
+					"gid"		"7681317452876276678"
+					"size"		"109760192"
+					"download"		"38049936"
+				}
+			}
+		}
+		"404793"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2929010983689756452"
+					"size"		"120401408"
+					"download"		"44890688"
+				}
+				"stable-2.0"
+				{
+					"gid"		"8383198715282874927"
+					"size"		"31812513"
+					"download"		"8916192"
+				}
+				"stable-2.1"
+				{
+					"gid"		"6923720346694425727"
+					"size"		"41955690"
+					"download"		"13388016"
+				}
+				"stable-3.0"
+				{
+					"gid"		"8650838157597289500"
+					"size"		"51884936"
+					"download"		"16512304"
+				}
+				"stable-3.1"
+				{
+					"gid"		"5326604283285126439"
+					"size"		"64752633"
+					"download"		"21136112"
+				}
+				"stable-3.2"
+				{
+					"gid"		"6483101612916394047"
+					"size"		"72343734"
+					"download"		"24171408"
+				}
+				"stable-3.3"
+				{
+					"gid"		"8857404005842372910"
+					"size"		"76331304"
+					"download"		"30618496"
+				}
+				"stable-3.4"
+				{
+					"gid"		"4061663059172937269"
+					"size"		"79210408"
+					"download"		"33224816"
+				}
+				"stable-3.5"
+				{
+					"gid"		"7741439072503436040"
+					"size"		"79202408"
+					"download"		"33710816"
+				}
+				"stable-4.0"
+				{
+					"gid"		"7330420650361140542"
+					"size"		"117193760"
+					"download"		"44173760"
+				}
+				"stable-4.1"
+				{
+					"gid"		"7833146734635982037"
+					"size"		"120380928"
+					"download"		"44876752"
+				}
+			}
+		}
+		"404794"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2522246016720088579"
+					"size"		"1183229124"
+					"download"		"768171088"
+				}
+				"stable-2.0"
+				{
+					"gid"		"179962682365525146"
+					"size"		"263913104"
+					"download"		"151331040"
+				}
+				"stable-2.1"
+				{
+					"gid"		"3121740080666889804"
+					"size"		"326647630"
+					"download"		"205867696"
+				}
+				"stable-3.0"
+				{
+					"gid"		"2253315567270500397"
+					"size"		"528614281"
+					"download"		"357996080"
+				}
+				"stable-3.1"
+				{
+					"gid"		"2307482093965122849"
+					"size"		"602735776"
+					"download"		"406003760"
+				}
+				"stable-3.2"
+				{
+					"gid"		"6012108580020630512"
+					"size"		"660668978"
+					"download"		"436831632"
+				}
+				"stable-3.3"
+				{
+					"gid"		"4803260461981158908"
+					"size"		"701669348"
+					"download"		"489514032"
+				}
+				"stable-3.4"
+				{
+					"gid"		"4811894343033141029"
+					"size"		"720663243"
+					"download"		"507634272"
+				}
+				"stable-3.5"
+				{
+					"gid"		"4566439810226545850"
+					"size"		"775050385"
+					"download"		"547103296"
+				}
+				"stable-4.0"
+				{
+					"gid"		"2789004153422253185"
+					"size"		"1148857300"
+					"download"		"747147296"
+				}
+				"stable-4.1"
+				{
+					"gid"		"8892713138960669329"
+					"size"		"1182913698"
+					"download"		"767971824"
+				}
+			}
+		}
+		"404795"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2637204484158540390"
+					"size"		"0"
+					"download"		"0"
+				}
+				"stable-2.0"
+				{
+					"gid"		"5137567435067557075"
+					"size"		"20449331"
+					"download"		"15519968"
+				}
+				"stable-2.1"
+				{
+					"gid"		"8768277044648731611"
+					"size"		"24962737"
+					"download"		"15600144"
+				}
+				"stable-3.0"
+				{
+					"gid"		"7837690749693811550"
+					"size"		"196046943"
+					"download"		"115699088"
+				}
+				"stable-3.1"
+				{
+					"gid"		"4039151796498930201"
+					"size"		"211951573"
+					"download"		"123531008"
+				}
+				"stable-3.2"
+				{
+					"gid"		"8597443784485342125"
+					"size"		"202090303"
+					"download"		"136660432"
+				}
+				"stable-3.3"
+				{
+					"gid"		"1381175085282329054"
+					"size"		"186008998"
+					"download"		"133593424"
+				}
+				"stable-3.4"
+				{
+					"gid"		"5221134009183896381"
+					"size"		"216335575"
+					"download"		"151752608"
+				}
+				"stable-3.5"
+				{
+					"gid"		"2652069313798556863"
+					"size"		"220373018"
+					"download"		"155064608"
+				}
+				"stable-4.0"
+				{
+					"gid"		"2637204484158540390"
+					"size"		"0"
+					"download"		"0"
+				}
+				"stable-4.1"
+				{
+					"gid"		"2637204484158540390"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11839346"
+				"timeupdated"		"1691146777"
+			}
+			"stable-2.0"
+			{
+				"buildid"		"1220830"
+				"description"		"2.0.x stable branch (no updates)"
+				"timeupdated"		"1470904638"
+			}
+			"stable-2.1"
+			{
+				"buildid"		"2079900"
+				"description"		"2.1.x stable branch (no updates)"
+				"timeupdated"		"1518168201"
+			}
+			"stable-3.0"
+			{
+				"buildid"		"3651592"
+				"description"		"3.0.x stable branch (no updates)"
+				"timeupdated"		"1552697065"
+			}
+			"stable-3.1"
+			{
+				"buildid"		"4454713"
+				"description"		"3.1.x stable branch (no updates)"
+				"timeupdated"		"1580383666"
+			}
+			"stable-3.2"
+			{
+				"buildid"		"5557246"
+				"description"		"3.2.x stable branch (no updates)"
+				"timeupdated"		"1619031747"
+			}
+			"stable-3.3"
+			{
+				"buildid"		"7461287"
+				"description"		"3.3.x stable branch (no updates)"
+				"timeupdated"		"1636220670"
+			}
+			"stable-3.4"
+			{
+				"buildid"		"9235336"
+				"description"		"3.4.x stable branch (no updates)"
+				"timeupdated"		"1659710962"
+			}
+			"stable-3.5"
+			{
+				"buildid"		"10727320"
+				"description"		"3.5.x stable branch"
+				"timeupdated"		"1678356309"
+			}
+			"stable-4.0"
+			{
+				"buildid"		"11884925"
+				"description"		"4.0.x stable branch"
+				"timeupdated"		"1691420937"
+			}
+			"stable-4.1"
+			{
+				"buildid"		"11637834"
+				"description"		"4.1.x stable branch"
+				"timeupdated"		"1688636773"
+			}
+		}
+	}
+}
