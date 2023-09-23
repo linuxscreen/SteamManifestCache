@@ -1,0 +1,260 @@
+"appinfo"
+{
+	"appid"		"1005870"
+	"common"
+	{
+		"name"		"HYPERFIGHT"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"c177ee3f27c7e0924ea56309ffc77f694f6357f5"
+		"logo_small"		"c177ee3f27c7e0924ea56309ffc77f694f6357f5_thumb"
+		"icon"		"f3f70dcf18542cd21045edb90cafbe3e915bdf94"
+		"clienttga"		"a97d9717ac0e589b8c3b7ce609702d16a06b7d1f"
+		"clienticon"		"3be4eeff504b630f8d7af94390b347a0054d3a60"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1654560000"
+			"tested_build_id"		"6016419"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"HYPERFIGHT"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"84.19615293279506"
+			}
+		}
+		"store_asset_mtime"		"1599771505"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"studio joh"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"studio joh"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1551989152"
+		"community_hub_visible"		"1"
+		"gameid"		"1005870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"492"
+			"3"		"1743"
+			"4"		"3964"
+			"5"		"3859"
+			"6"		"4736"
+			"7"		"3871"
+			"8"		"7368"
+			"9"		"1775"
+			"10"		"597"
+			"11"		"1734"
+			"12"		"3916"
+			"13"		"3878"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"studio joh"
+		"publisher"		"studio joh"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"HYPERFIGHT"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HYPERFIGHT.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"HYPERFIGHT.app\\Contents\\MacOS\\HYPERFIGHT"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"HYPERFIGHT.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1005871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"825506141625960060"
+					"size"		"44525559"
+					"download"		"17304816"
+				}
+			}
+		}
+		"1005872"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"834269731152803577"
+					"size"		"67536948"
+					"download"		"20634208"
+				}
+			}
+		}
+		"1005873"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6992058203510192221"
+					"size"		"48080597"
+					"download"		"18281696"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6016419"
+				"timeupdated"		"1609045034"
+			}
+		}
+	}
+}
