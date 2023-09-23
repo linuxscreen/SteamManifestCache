@@ -1,0 +1,131 @@
+"appinfo"
+{
+	"appid"		"2410160"
+	"common"
+	{
+		"name"		"Innocent's purgatory Demo"
+		"type"		"Demo"
+		"parent"		"2169270"
+		"releasestate"		"released"
+		"icon"		"49045329c9a94492c2e68d5612f9477a22c6c075"
+		"clienticon"		"6a54268593019d13c400810389cdd8665c64f923"
+		"clienttga"		"632183489ccc0c029652f0ecf9024641a5eb701d"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1683732288"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Isaac Wilfredo Amaya Leon"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Isaac Wilfredo Amaya Leon"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682623371"
+		"gameid"		"2410160"
+	}
+	"extended"
+	{
+		"developer"		"Isaac Wilfredo Amaya Leon"
+		"publisher"		"Isaac Wilfredo Amaya Leon"
+	}
+	"config"
+	{
+		"installdir"		"Innocent's purgatory Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor\\Innocent's Purgatory Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2410161"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7216457312713372226"
+					"size"		"3175903892"
+					"download"		"3024698256"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12230127"
+				"timeupdated"		"1695161953"
+			}
+		}
+	}
+}
