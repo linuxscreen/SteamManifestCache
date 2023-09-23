@@ -1,0 +1,142 @@
+"appinfo"
+{
+	"appid"		"2235170"
+	"common"
+	{
+		"name"		"Boba Simulator Demo"
+		"type"		"Demo"
+		"parent"		"1847510"
+		"icon"		"7394a2b6ccc86053f48eb5514d1cd15b166dc719"
+		"clienticon"		"57013c2fa8a7e6029fbc3ec47a536f91e07c758f"
+		"clienttga"		"64b2a7bc443f09441805e59e1547f81de7bf3d77"
+		"clienticns"		"4e6b7caf66ac39aef83df213a5878ca62dc05c3d"
+		"linuxclienticon"		"edb7f3fef60b29b70909f5abe8db07a4cc475c73"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1684925905"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Napas Torteeka"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Napas Torteeka"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1669810779"
+		"gameid"		"2235170"
+	}
+	"extended"
+	{
+		"demoofappid"		"1847510"
+		"developer"		"Napas Torteeka"
+		"publisher"		"Napas Torteeka"
+	}
+	"config"
+	{
+		"installdir"		"BobaSimulatorDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"boba_simulator_demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"BobaSimDemo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2235171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7286534138091862284"
+					"size"		"88790016"
+					"download"		"34028784"
+				}
+			}
+		}
+		"2235172"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4792784455552420192"
+					"size"		"143798752"
+					"download"		"46637280"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10054758"
+				"timeupdated"		"1669885965"
+			}
+		}
+	}
+}
