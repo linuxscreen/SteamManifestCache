@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"1522150"
+	"common"
+	{
+		"name"		"DRAMAtical Murder Demo"
+		"type"		"Demo"
+		"parent"		"1481080"
+		"clienticon"		"f63e214f92eb831491a266188dd247f2f33d6981"
+		"clienttga"		"9570c791199d10aaba3dc2db5e550b61e872a692"
+		"icon"		"2f8bda88bc78cec7d5d0e27fa2e7ffdf016d0ef7"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"DMMd_ch_demo_Steam"
+			"tchinese"		"DMMd_trad_ch_demo_Steam"
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"96.97674418604652"
+				"height_pct"		"76.4426502018523"
+			}
+		}
+		"store_asset_mtime"		"1611571633"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nitro+CHiRAL"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JAST USA"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1612847932"
+		"gameid"		"1522150"
+	}
+	"extended"
+	{
+		"demoofappid"		"1481080"
+		"developer"		"Nitro+CHiRAL"
+		"publisher"		"JAST USA"
+	}
+	"config"
+	{
+		"installdir"		"DRAMAtical Murder Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DMMd_en_demo_Steam.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"DMMd_ch_demo_Steam.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"DMMd_trad_ch_demo_Steam.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"1522151"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6602628617952944411"
+					"size"		"1717484500"
+					"download"		"1716303440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5C68A52809ADA5D5798FD048A8BD8A27"
+					"size"		"E89BD6F4DB707C1FCC4717AF8A4522E6"
+					"download"		"B5BC3A00EA4FA1ACFC8AA8B27920DEBB"
+				}
+			}
+		}
+		"1522152"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4583236021204883177"
+					"size"		"1717484500"
+					"download"		"1716303440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A9DF06E2D26CF61EE80DDA4D0E8A5A26"
+					"size"		"3C54A924F9C619EAF3FF7DCEF463D54C"
+					"download"		"83D77ADC0CB3335E5964F5B545DD3260"
+				}
+			}
+		}
+		"1522153"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3243916323611990776"
+					"size"		"1717484500"
+					"download"		"1716303440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DC4D4C0BA3F0D49B0068DB7934E72F62"
+					"size"		"6775A3B57BE5EA1C9A37217A3750E095"
+					"download"		"1CEF42A2669FE2B2E804F878D74F12F3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9034241"
+				"timeupdated"		"1656567404"
+			}
+			"beta"
+			{
+				"buildid"		"9146003"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658202753"
+			}
+		}
+	}
+}
