@@ -1,0 +1,184 @@
+"appinfo"
+{
+	"appid"		"1982230"
+	"common"
+	{
+		"name"		"Heaven Snakes"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"73c7d6dd4b80629a68ffde70ef75504c77d1ca80"
+		"clienticns"		"e860e0b509494025ca99ead0f134a955e34b2bf3"
+		"linuxclienticon"		"e860e0b509494025ca99ead0f134a955e34b2bf3"
+		"clienticon"		"e860e0b509494025ca99ead0f134a955e34b2bf3"
+		"icon"		"ab9d07a09a52ed6925cbbefb15ad4a6faea43751"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.689191255159756"
+				"height_pct"		"78.49989708215355"
+			}
+		}
+		"store_asset_mtime"		"1652933585"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GROUPTOUT GAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GROUPTOUT GAMES"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"29"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1654064720"
+		"community_hub_visible"		"1"
+		"gameid"		"1982230"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"19"
+			"2"		"1773"
+			"3"		"615955"
+			"4"		"176981"
+			"5"		"4191"
+			"6"		"1662"
+			"7"		"5350"
+			"8"		"10808"
+			"9"		"1708"
+			"10"		"1775"
+			"11"		"6730"
+			"12"		"3859"
+			"13"		"4182"
+			"14"		"128"
+			"15"		"1685"
+			"16"		"113"
+			"17"		"3843"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"gamedir"		"Heaven Snakes"
+		"serverbrowsername"		"Heaven Snakes"
+		"developer"		"GROUPTOUT GAMES"
+		"publisher"		"GROUPTOUT GAMES"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Heaven Snakes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HeavenSnakes.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1982231"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4942988384399517310"
+					"size"		"237446539"
+					"download"		"148909136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"0616EEE6F47743BE6FB3B5ED8840E9FD"
+					"size"		"C8071459018CF73003F6223F8D6E5C62"
+					"download"		"9398CE197A323D22AE3422C8768A0B03"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11719847"
+				"timeupdated"		"1689600673"
+			}
+			"test"
+			{
+				"buildid"		"11707211"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689372353"
+			}
+		}
+	}
+}
