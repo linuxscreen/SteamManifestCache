@@ -1,0 +1,106 @@
+"appinfo"
+{
+	"appid"		"1691680"
+	"common"
+	{
+		"name"		"Twilight Tunnels Demo"
+		"type"		"Demo"
+		"parent"		"1690370"
+		"clienticon"		"b5c8e451024c07fa47568bc35ea1057d2719556d"
+		"clienttga"		"9c4a64f833ca0d83c813ed066763663af0e1f00c"
+		"icon"		"f521721ce85eab08238c399fd1311f5f25f92f36"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"app_retired_publisher_request"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1626173163"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ihobo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ihobo"
+			}
+		}
+		"steam_release_date"		"1626274656"
+		"gameid"		"1691680"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1690370"
+		"developer"		"ihobo"
+		"publisher"		"ihobo"
+	}
+	"config"
+	{
+		"installdir"		"Twilight Tunnels Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"twilighttunnels\\Tunnels.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1691681"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4257237805609905472"
+					"size"		"2390922165"
+					"download"		"998119248"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7042333"
+				"timeupdated"		"1626461207"
+			}
+		}
+	}
+}
