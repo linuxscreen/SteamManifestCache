@@ -1,0 +1,217 @@
+"appinfo"
+{
+	"appid"		"1232830"
+	"common"
+	{
+		"name"		"BoyandBox"
+		"type"		"Game"
+		"icon"		"a277abd1b9a2e816edcaabbebd5b3ef864646b00"
+		"clienticon"		"d2d31c86e771f7d8f54036f2249d9f687114de0c"
+		"clienttga"		"7ad97c9eee0fc06ee1db24b26bf47b44f1e886c1"
+		"logo"		"dfaea433442f471b8daf156d606f3dec5627409f"
+		"logo_small"		"dfaea433442f471b8daf156d606f3dec5627409f_thumb"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"linuxclienticon"		"76aafd1dac4ca4a1abbceb42a37f64c17359da0c"
+		"metacritic_name"		"BoyandBox"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.83919597989949"
+				"height_pct"		"62.15277777777778"
+			}
+		}
+		"store_asset_mtime"		"1580244628"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gustav Almström"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gustav Almström"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1581662940"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1232830"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"3964"
+			"2"		"4182"
+			"3"		"5379"
+			"4"		"5537"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Gustav Almström"
+		"publisher"		"Gustav Almström"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BoyandBox"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"windows-build-x64/boyandbox.exe"
+				"arguments"		"--in-process-gpu"
+				"workingdir"		"windows-build-x64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"linux-build-x64/boyandbox"
+				"arguments"		"--in-process-gpu"
+				"workingdir"		"linux-build-x64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1232831"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2110529552462275727"
+					"size"		"199639239"
+					"download"		"60702496"
+				}
+				"boyandbox"
+				{
+					"gid"		"2110529552462275727"
+					"size"		"199639239"
+					"download"		"60702496"
+				}
+			}
+		}
+		"1232832"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2225341322017549795"
+					"size"		"216973505"
+					"download"		"59399728"
+				}
+				"boyandbox"
+				{
+					"gid"		"2225341322017549795"
+					"size"		"216973505"
+					"download"		"59399728"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5390261"
+				"timeupdated"		"1596990729"
+			}
+			"boyandbox"
+			{
+				"buildid"		"5390261"
+				"timeupdated"		"1596990717"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"255"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"windows-build-x64/SavesDir"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"linux-build-x64/SavesDir"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+		}
+	}
+}
