@@ -1,0 +1,130 @@
+"appinfo"
+{
+	"appid"		"1658890"
+	"common"
+	{
+		"name"		"Escape: Forced Overtime Demo"
+		"type"		"Demo"
+		"parent"		"1656680"
+		"releasestate"		"released"
+		"clienttga"		"c216b5b5cb3ea04868fe2b5ae08d1fdd16da1c8e"
+		"clienticon"		"940901582833c97d6da9ed1505aca8910326901f"
+		"icon"		"6830d6bfb61dd4e0a410027ca8b6ef23546d7515"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.763772072440645"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1624272024"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alex8778"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Alex8778"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1624354096"
+		"gameid"		"1658890"
+	}
+	"extended"
+	{
+		"demoofappid"		"1656680"
+		"developer"		"Alex8778"
+		"publisher"		"Alex8778"
+	}
+	"config"
+	{
+		"installdir"		"Escape Forced Overtime Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EscapeFODemo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1658891"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"290642581117238941"
+					"size"		"4676557040"
+					"download"		"684262272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6811181"
+				"timeupdated"		"1622789951"
+			}
+		}
+	}
+}
