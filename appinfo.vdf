@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"212560"
+	"common"
+	{
+		"name"		"Hell Yeah! Demo"
+		"type"		"Demo"
+		"logo"		"bfc378307d9dacbf03abf6c0b6e846654d9d270b"
+		"logo_small"		"bfc378307d9dacbf03abf6c0b6e846654d9d270b_thumb"
+		"icon"		"42d2b3be7a0b2a2ca2fdf1dc2bfa7ff723f56012"
+		"clienticon"		"b32af45232263c00357ea3d66cc6482055a87510"
+		"clienttga"		"aa87403243a22db022e0fb2080066e9edd2061d5"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+		}
+		"parent"		"205230"
+		"metacritic_name"		"Hell Yeah! Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1349201346"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Arkedo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"34"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1349272800"
+		"gameid"		"212560"
+	}
+	"extended"
+	{
+		"demoofappid"		"205230"
+		"developer"		"Arkedo"
+		"gamedir"		"Hell Yeah! Demo"
+		"homepage"		"http://www.projecthellyeah.com/"
+		"icon"		""
+		"languages"		"english,german,french,italian,spanish"
+		"noservers"		"0"
+		"onquitdemoshellexecute"		"steam://store/205230"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"SEGA"
+	}
+	"config"
+	{
+		"installscriptsignature"		"189b9943aa35dc18cb210f5568edd018cc0e0221ef604e9ecf5178b05c5fd5709a2b65f9d75abf9a84b0f5cf6aa4c62e794e6dc88690a9f7585bebb69f5134ecb31be01b11df9b07790e457ed4df9038f6ceaa7a1bf2f4ab85de2257c8fb2abb7de18ebc1655932cdbf7a99ffca8665039941480e47f5febe5e09ad882e5249f"
+		"installscriptoverride"		"1"
+		"contenttype"		"3"
+		"installdir"		"Hell Yeah Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HELLYEAH.exe"
+				"description"		"Demo"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"install"
+	{
+		"run process"
+		{
+			"install"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\NET Framework Setup\\NDP\\v4\\Full"
+				"process 1"		"%INSTALLDIR%\\Redist\\dotNetFx40_Full_setup.exe"
+				"command 1"		"/norestart /passive"
+				"description"		".NET 4.0 Framework"
+				"nocleanup"		"1"
+			}
+			"xna"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\205230"
+				"process 1"		"msiexec.exe"
+				"command 1"		"/package \"%INSTALLDIR%\\Redist\\xnafx40_refresh_redist.msi\" /passive"
+				"description"		"XNA 4.0"
+				"nocleanup"		"1"
+			}
+			"directx"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\205230"
+				"process 1"		"%INSTALLDIR%\\Redist\\DirectX\\DXSETUP.exe"
+				"command 1"		"/silent"
+				"description"		"DirectX"
+				"nocleanup"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"212561"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7680101423834718540"
+					"size"		"495186540"
+					"download"		"0"
+				}
+			}
+		}
+		"212562"
+		{
+		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,spanish"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"17736"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"0"
+		"appidredirect"		"205230"
+	}
+}
