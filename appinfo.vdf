@@ -1,0 +1,159 @@
+"appinfo"
+{
+	"appid"		"2018930"
+	"common"
+	{
+		"name"		"Sakura Gym Girls: Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"5a014561febae66dca301573323c561ea7e789d8"
+		"clienticon"		"8fbf84494c261d9a92db58a50629c75810acd885"
+		"clienttga"		"25f6d075cdfa57f45bf8d34505a98a1b0bf24fbd"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"66.45952620010314"
+				"height_pct"		"75.68273569223463"
+			}
+		}
+		"store_asset_mtime"		"1669397949"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Winged Cloud"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Winged Cloud"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Sakura"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1670263786"
+		"community_hub_visible"		"1"
+		"gameid"		"2018930"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"599"
+			"2"		"3799"
+			"3"		"4947"
+			"4"		"4085"
+			"5"		"3871"
+			"6"		"7250"
+			"7"		"4182"
+			"8"		"12095"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"Winged Cloud"
+		"publisher"		"Winged Cloud"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Sakura Gym Girls Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SakuraGymGirlsPrologue.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SakuraGymGirlsPrologue.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2018931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3098365382264325913"
+					"size"		"240800743"
+					"download"		"113620288"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10040646"
+				"timeupdated"		"1669742175"
+			}
+		}
+	}
+}
