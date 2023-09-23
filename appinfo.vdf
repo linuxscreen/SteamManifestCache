@@ -1,0 +1,117 @@
+"appinfo"
+{
+	"appid"		"2342590"
+	"common"
+	{
+		"name"		"Sqroma Demo"
+		"type"		"Demo"
+		"parent"		"1730000"
+		"releasestate"		"released"
+		"icon"		"e5d4a7e5c8ef2a249a474f5a68a563eff76f4e02"
+		"clienttga"		"c1dda1850a05ce21bd750d8f8f6f12027c449488"
+		"clienticon"		"7d5c9438c3227d535a8b18bb88f02e1af729fbf6"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1677768522"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Woum"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Woum"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"gameid"		"2342590"
+	}
+	"extended"
+	{
+		"demoofappid"		"1730000"
+		"developer"		"Woum"
+		"publisher"		"Woum"
+	}
+	"config"
+	{
+		"installdir"		"Sqroma Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sqroma.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2342591"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6801216478968826953"
+					"size"		"832287434"
+					"download"		"107334624"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10686700"
+				"timeupdated"		"1677869940"
+			}
+		}
+	}
+}
