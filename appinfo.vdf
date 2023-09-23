@@ -1,0 +1,307 @@
+"appinfo"
+{
+	"appid"		"723790"
+	"common"
+	{
+		"name"		"The Pirate: Plague of the Dead"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"logo"		"9d0cc7fb7a233a0aae7ea66752e2f67384e812fa"
+		"logo_small"		"9d0cc7fb7a233a0aae7ea66752e2f67384e812fa_thumb"
+		"icon"		"3c6295150601f92b87aff42ba0c4ac67aa6b3a67"
+		"clienttga"		"34b918a2d721d5cfbba08f72b1d3221300c24502"
+		"clienticns"		"8f86b46021573121a35aa9a1900a828b0b741a11"
+		"linuxclienticon"		"a29d22a0cca3262e21333384f0d80bf3d5f83b63"
+		"clienticon"		"cbf97720d980c1566964cb068ce92d34c3aad5e4"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"metacritic_name"		"The Pirate: Plague of the Dead"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1569842416"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Home Net Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Home Net Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1507915288"
+		"community_hub_visible"		"1"
+		"gameid"		"723790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1681"
+			"2"		"19"
+			"3"		"9"
+			"4"		"599"
+			"5"		"3859"
+			"6"		"21"
+			"7"		"492"
+			"8"		"4994"
+			"9"		"6910"
+			"10"		"4182"
+			"11"		"4106"
+			"12"		"1695"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Home Net Games"
+		"publisher"		"Home Net Games"
+		"homepage"		"http://www.homenetgames.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Pirate Plague of the Dead"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ThePirate2.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ThePirate2OSX.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"ThePirate2.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"723791"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8856119531013372935"
+					"size"		"140338151"
+					"download"		"45754400"
+				}
+				"ver2.7"
+				{
+					"gid"		"291908870386119584"
+					"size"		"111902370"
+					"download"		"35705264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D8BA0847B80BF69930823B671C7ECFF4"
+					"size"		"3C193FE8A722C398349FAB240119CFCD"
+					"download"		"1F507A9747ADC1369681B6729791E953"
+				}
+			}
+		}
+		"723792"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6536795729256511695"
+					"size"		"167132624"
+					"download"		"56082144"
+				}
+				"ver2.7"
+				{
+					"gid"		"3288690175715947899"
+					"size"		"133572710"
+					"download"		"43261120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"01FC1A752A99787DF06283D0D92C1CFC"
+					"size"		"2206F6D7E2DB33788D9271DE6FE0FFDA"
+					"download"		"9ACFB61110B45545C3B9770404C63B3B"
+				}
+			}
+		}
+		"723793"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3598781425724078351"
+					"size"		"142480167"
+					"download"		"45630320"
+				}
+				"ver2.7"
+				{
+					"gid"		"678929018820048766"
+					"size"		"125206886"
+					"download"		"39819792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"CD441F77FB207E21E35212F884BEFD58"
+					"size"		"CBA69C39FD0F738E4202D494F6F340D1"
+					"download"		"C9CEAB9894550F7E1452635010CF0496"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10173424"
+				"timeupdated"		"1671439140"
+			}
+			"beta"
+			{
+				"buildid"		"10173424"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671404230"
+			}
+			"ver2.7"
+			{
+				"buildid"		"5106741"
+				"description"		"compability version 2.7"
+				"timeupdated"		"1631652361"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+	}
+}
