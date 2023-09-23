@@ -1,0 +1,129 @@
+"appinfo"
+{
+	"appid"		"2357780"
+	"common"
+	{
+		"name"		"Ragnarok Survivors: Valhalla Demo"
+		"type"		"Demo"
+		"parent"		"2295410"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"e489b19be6f3b0dd1cbd062b8a0ae7e7e1d26967"
+		"clienttga"		"bf01f8dc4c7c22f8d8d8ac64d1d68dc636238bf5"
+		"clienticon"		"5e5e71c1224e0476d806330af2463445d13f4043"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1694363939"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Koding Nights"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Koding Nights"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1678867061"
+		"gameid"		"2357780"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2295410"
+		"developer"		"Koding Nights"
+		"publisher"		"Koding Nights"
+	}
+	"config"
+	{
+		"installdir"		"Ragnarok Survivors Valhalla Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RagnarokSurvivors.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2357781"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2422417435683732476"
+					"size"		"118158237"
+					"download"		"97428704"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12259157"
+				"timeupdated"		"1695403085"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"1"
+		"appidredirect"		"2295410"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		".SaveGame"
+				"pattern"		"*.prefs"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
