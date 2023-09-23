@@ -1,0 +1,138 @@
+"appinfo"
+{
+	"appid"		"1718840"
+	"common"
+	{
+		"name"		"Epoch Ultra Demo"
+		"type"		"Demo"
+		"parent"		"1716870"
+		"releasestate"		"released"
+		"clienttga"		"59765cb8534924a3233a39120ed2cdb6f178009c"
+		"clienticon"		"0262a461dd3966ce5a9d4d188e71985619551498"
+		"icon"		"45dfef2aeeb2fd6248b2855c93fbd18471544eed"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"19.07817969661609"
+				"height_pct"		"35.56231070000504"
+			}
+		}
+		"store_asset_mtime"		"1628532270"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rubicon Games LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rubicon Games LLC"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629421860"
+		"gameid"		"1718840"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1716870"
+		"developer"		"Rubicon Games LLC"
+		"publisher"		"Rubicon Games LLC"
+	}
+	"config"
+	{
+		"installdir"		"Epoch Ultra Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor\\EpochUltra.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1718841"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1965178447966187164"
+					"size"		"19185326332"
+					"download"		"5902420560"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8693167"
+				"timeupdated"		"1651862096"
+			}
+		}
+	}
+}
