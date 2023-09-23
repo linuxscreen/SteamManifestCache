@@ -1,0 +1,218 @@
+"appinfo"
+{
+	"appid"		"2308870"
+	"common"
+	{
+		"name"		"Overlewd"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"f8fc382e196764af254f9db6a93f6cdb56c4a5b8"
+		"clienticon"		"7f59ff64427006fb3d699b2d0553d3e464ba59e9"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1692230400"
+			"tested_build_id"		"11902280"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.7684679567332"
+				"height_pct"		"51.68273485285284"
+			}
+		}
+		"store_asset_mtime"		"1692729663"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Supadoge"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nutaku Publishing"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1690985268"
+		"community_hub_visible"		"1"
+		"gameid"		"2308870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1720"
+			"1"		"12095"
+			"2"		"24904"
+			"3"		"4604"
+			"4"		"14139"
+			"5"		"5611"
+			"6"		"1677"
+			"7"		"10695"
+			"8"		"4736"
+			"9"		"4231"
+			"10"		"4106"
+			"11"		"122"
+			"12"		"3871"
+			"13"		"1751"
+			"14"		"4136"
+			"15"		"4252"
+			"16"		"4182"
+			"17"		"113"
+			"18"		"597"
+			"19"		"9"
+		}
+		"review_score"		"4"
+		"review_percentage"		"31"
+	}
+	"extended"
+	{
+		"developer"		"Supadoge"
+		"publisher"		"Nutaku Publishing"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Overlewd"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"release/SteamWindows.exe"
+				"arguments"		"release/"
+				"description_loc"
+				{
+					"english"		"For beta builds"
+				}
+				"description"		"For beta builds"
+			}
+		}
+	}
+	"depots"
+	{
+		"2308871"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7197694470215872948"
+					"size"		"472306661"
+					"download"		"55477248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"157A8E9C0B9457D7CC4D7F72507A0DD2"
+					"size"		"C9A24AD28DBB424322A8985F79E534F6"
+					"download"		"F626A404573E35DD5B0AF5DEB32FDCAA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12144327"
+				"timeupdated"		"1694193137"
+			}
+			"beta"
+			{
+				"buildid"		"11957445"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692208802"
+			}
+		}
+	}
+}
