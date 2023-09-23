@@ -1,0 +1,247 @@
+"appinfo"
+{
+	"appid"		"1630280"
+	"common"
+	{
+		"name"		"R2Beat: 音速觉醒"
+		"type"		"Game"
+		"name_localized"
+		{
+			"schinese"		"R2Beat: 音速觉醒"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"41858aaf74a0fced9f7543f2860e60b3cabef618"
+		"clienticon"		"e4a20a58c81e55495080bd5a1918ef74ebc56f5b"
+		"clienttga"		"9788725aac5a9acc2308ebaa443091983936ad07"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1664323200"
+			"tested_build_id"		"9473033"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"60.5303825956489"
+				"height_pct"		"62.35619673342305"
+			}
+		}
+		"store_asset_mtime"		"1648826240"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VALOFE"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VALOFE"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"29"
+			"4"		"9"
+			"5"		"3"
+			"6"		"18"
+			"7"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1649389462"
+		"community_hub_visible"		"1"
+		"gameid"		"1630280"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"597"
+			"2"		"1621"
+			"3"		"1752"
+			"4"		"122"
+			"5"		"3859"
+			"6"		"1775"
+			"7"		"8666"
+			"8"		"128"
+			"9"		"96359"
+			"10"		"1773"
+			"11"		"4747"
+			"12"		"4726"
+			"13"		"701"
+			"14"		"4305"
+			"15"		"19"
+			"16"		"1698"
+			"17"		"5055"
+			"18"		"379975"
+			"19"		"4562"
+		}
+		"review_score"		"5"
+		"review_percentage"		"56"
+	}
+	"extended"
+	{
+		"developer"		"VALOFE"
+		"publisher"		"VALOFE"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"R2Beat"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"steam"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"in English"
+				}
+				"description"		"in English"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,schinese"
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1630281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8719105956477686839"
+					"size"		"11842945222"
+					"download"		"9852132672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage"
+				{
+					"gid"		"B1B5AB7B971B41327D749B59E0CCDEC9"
+					"size"		"5110859C5501C31A9C3068292612DC6C"
+					"download"		"5C172886E0A7972EB0AB36B27294DA07"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12237001"
+				"timeupdated"		"1695221156"
+			}
+			"stage"
+			{
+				"buildid"		"12244718"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695287460"
+			}
+		}
+	}
+}
