@@ -1,0 +1,362 @@
+"appinfo"
+{
+	"appid"		"530330"
+	"common"
+	{
+		"name"		"Blameless"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienttga"		"219e35a6a11a3dd1f9b5cca57cb2899f81718ad4"
+		"clienticon"		"48cd9a5b7f717ac3260ee2cdb4fc0a433c84f57f"
+		"icon"		"d9d392402e8791fd8fb550addc3b8370041c7d60"
+		"logo"		"4f06af6d99a62f13b5f768723c1643474ccf72e9"
+		"logo_small"		"4f06af6d99a62f13b5f768723c1643474ccf72e9_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1667865600"
+			"tested_build_id"		"2190428"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Blameless"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1549794972"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Vaclav Hudec"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Blameless Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1476347458"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"530330"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1667"
+			"2"		"21"
+			"3"		"1664"
+			"4"		"3859"
+			"5"		"492"
+			"6"		"3839"
+			"7"		"4182"
+			"8"		"5716"
+			"9"		"3978"
+			"10"		"4234"
+			"11"		"4166"
+			"12"		"5613"
+			"13"		"19"
+			"14"		"1662"
+			"15"		"1721"
+			"16"		"1695"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Vaclav Hudec"
+		"publisher"		"Blameless Games"
+		"homepage"		"http://www.blamelessgames.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Blameless"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blameless.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Blameless.app\\Contents\\MacOS\\Blameless"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,russian,polish,czech"
+		"530333"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1839655858575445542"
+					"size"		"1126480996"
+					"download"		"520635712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4DC8045181529ADC4BC231C9FE95471E"
+					"size"		"3D1903F112603512F9F32FC37C04FEDB"
+					"download"		"6A18D4F2D04B6E5B351251BA17A8B9DA"
+				}
+				"crash_test"
+				{
+					"gid"		"5C6790309D20656D0F6394AC719584F5"
+					"size"		"36568883E5AB8DDE2C83E5D8CFFC6BF1"
+					"download"		"0D5415C7CA8B226D748E5F4CEAF1EA07"
+				}
+			}
+		}
+		"530331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4790347359400399471"
+					"size"		"1197398001"
+					"download"		"549909472"
+				}
+				"local"
+				{
+					"gid"		"6563447248266891385"
+					"size"		"1266240867"
+					"download"		"567622832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"875BE3102ABD9E47A4AE02907D629112"
+					"size"		"CCFEA688845ABFEF721347B7CF618A02"
+					"download"		"E3B26A77FBE12AF18EF4765023F32141"
+				}
+				"crash_test"
+				{
+					"gid"		"E4E03DD6D9406325C838A4A1A1085674"
+					"size"		"91242C45154AAC63FD3286B64D1D4757"
+					"download"		"E285668100BB762A872FBEC474C4ED62"
+				}
+			}
+		}
+		"530332"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1263753055861912564"
+					"size"		"1156345136"
+					"download"		"524243472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"817475BFAC1C31E562A85676E68BC3D4"
+					"size"		"C8643B09FE7FACE1CEC617759DEE33B9"
+					"download"		"BC94C597800B7DB635C74566C6011219"
+				}
+				"crash_test"
+				{
+					"gid"		"BAAB3264EA05CEF61513DEB6055FBEC8"
+					"size"		"9B066529DF11C6FF91A4C14A95BCFB20"
+					"download"		"FD8A2B57CEA8A8CFDDFF6FDC4477A252"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2190428"
+				"timeupdated"		"1507905135"
+			}
+			"beta"
+			{
+				"buildid"		"2190428"
+				"pwdrequired"		"1"
+				"timeupdated"		"1507744742"
+			}
+			"crash_test"
+			{
+				"buildid"		"1408885"
+				"pwdrequired"		"1"
+				"timeupdated"		"1477243923"
+			}
+			"local"
+			{
+				"buildid"		"1373910"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1475613327"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Blameless/Saves"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
