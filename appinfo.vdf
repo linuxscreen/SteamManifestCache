@@ -1,0 +1,383 @@
+"appinfo"
+{
+	"appid"		"1407860"
+	"common"
+	{
+		"name"		"Space Travel Idle"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"16484256f38443e07e1631cd402dcaf92b65d016"
+		"logo_small"		"16484256f38443e07e1631cd402dcaf92b65d016_thumb"
+		"icon"		"0ea1cf61271c04afe592da46c6cedabb1f3c59b1"
+		"clienttga"		"3c9bd674f0bb01f0da02466ac6b6981719d2749a"
+		"linuxclienticon"		"23ad4aaa20a7323047baf298d9a20a5022fc5093"
+		"clienticon"		"5c68bd819d735fa742823d66f466aac312b99f1e"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1644883200"
+			"tested_build_id"		"7307600"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"66.04651162790702"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1599161175"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ayatsuji_San"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spaceive"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1600844400"
+		"steam_release_date"		"1600790452"
+		"community_hub_visible"		"1"
+		"gameid"		"1407860"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"791774"
+			"1"		"5432"
+			"2"		"597"
+			"3"		"1720"
+			"4"		"615955"
+			"5"		"1084988"
+			"6"		"3834"
+			"7"		"1666"
+			"8"		"16598"
+			"9"		"3871"
+			"10"		"4325"
+			"11"		"3942"
+			"12"		"4400"
+			"13"		"5794"
+			"14"		"255534"
+			"15"		"1755"
+			"16"		"21"
+			"17"		"4342"
+			"18"		"4295"
+			"19"		"113"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"developer"		"Ayatsuji_San"
+		"publisher"		"Spaceive"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Space Travel Idle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SpaceTravelIdle.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SpaceTravelIdle.app\\Contents\\MacOS\\SpaceTravelIdle"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,schinese,japanese"
+		"hasdepotsindlc"		"0"
+		"1407861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"965760883288918226"
+					"size"		"273459902"
+					"download"		"68266480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DCAF804F8A9D8F176734F81B5BB96BDF"
+					"size"		"4744E3793E133F3DDDCFC698141BED80"
+					"download"		"58DB76F2F30CA27FC1CDA8F0565D4DBD"
+				}
+				"beta-danger"
+				{
+					"gid"		"DAF3BEBE665A7078FE14BAEF79C4FCBB"
+					"size"		"3CF83EDDEF0E9B7F761C747A90D1B42C"
+					"download"		"42D1D712C4651DF9250AE276E6910A26"
+				}
+				"beta-preview"
+				{
+					"gid"		"F86E37787EF977DFF7758F06D9E2922F"
+					"size"		"AFA1F89845822693B79CF07D7BBF5043"
+					"download"		"8F2E8C41D35AF8FE1F144B40C64A2CAB"
+				}
+				"dev-internal"
+				{
+					"gid"		"F1F8ED2459D2036FDAB6AF45F1979590"
+					"size"		"86EB3BA400205F4D42B7A0DA7396D01D"
+					"download"		"58AFBA913A7B43B1009EE2C105D46AD3"
+				}
+				"preview"
+				{
+					"gid"		"51CDBA70FF7CF397223FD17ABC7312F6"
+					"size"		"4A9627C507D633337BD758B4C7A632A1"
+					"download"		"598EA51560D41BF6CAE248E10CB25F1D"
+				}
+			}
+		}
+		"1407862"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5473798798250264282"
+					"size"		"323318203"
+					"download"		"74412496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A502734448C67B726412A94ACCAEB601"
+					"size"		"8725919A272789473362ACBC61ACA77B"
+					"download"		"67B3007CE76B48B8314546329703B4F9"
+				}
+				"beta-danger"
+				{
+					"gid"		"E4ED7D3CE0EF226E3F8EFCB0FE309AC5"
+					"size"		"D9A98D2D7DC76A5EF62711A0662BE85E"
+					"download"		"C4DDCBC70273A3652E29741F9FD67E5A"
+				}
+				"beta-preview"
+				{
+					"gid"		"0112C56DE7F7EDD963B6E4E661C18367"
+					"size"		"1125D2D44048882A1BAA2EBEC97CB11A"
+					"download"		"32202A893A3D14BAD8C7EA511DB7C7C9"
+				}
+				"dev-internal"
+				{
+					"gid"		"1BA9E0A22D1802137BCABEA404ECA39A"
+					"size"		"7153EC6321E79926AFA89291A9A64C9B"
+					"download"		"C3F6AE12EE7686481B38AF66BF4537F7"
+				}
+				"preview"
+				{
+					"gid"		"47A57378D0F270B06297D46D6BE7181F"
+					"size"		"4B1504CA3D9D969C09CD3EA8B11DBEB4"
+					"download"		"B7951FBC104995C3768C690DB8DB6519"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7307600"
+				"timeupdated"		"1630854107"
+			}
+			"beta"
+			{
+				"buildid"		"7307681"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630856793"
+			}
+			"beta-danger"
+			{
+				"buildid"		"7307681"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630856802"
+			}
+			"beta-preview"
+			{
+				"buildid"		"7307681"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630856812"
+			}
+			"dev-internal"
+			{
+				"buildid"		"7307701"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630857618"
+			}
+			"preview"
+			{
+				"buildid"		"6091840"
+				"pwdrequired"		"1"
+				"timeupdated"		"1610792432"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Ayatsuji/SpaceTravelIdle"
+				"pattern"		"*.sti"
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"Ayatsuji/SpaceTravelIdle"
+				"pattern"		"*.sti"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Ayatsuji/SpaceTravelIdle"
+						"replace"		"Ayatsuji/SpaceTravelIdle"
+					}
+				}
+			}
+		}
+	}
+}
