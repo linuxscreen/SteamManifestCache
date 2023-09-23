@@ -1,0 +1,295 @@
+"appinfo"
+{
+	"appid"		"207230"
+	"common"
+	{
+		"name"		"Archeblade"
+		"type"		"Game"
+		"clienttga"		"99941fe38c485e6ffa67289e9b99f426c166e6ee"
+		"clienticon"		"10275ea499069e7d5ab683142cace00bab73dfd6"
+		"languages"
+		{
+			"english"		"1"
+		}
+		"logo"		"5c7cc85970121315f97d4e689470f2772efb2966"
+		"logo_small"		"5c7cc85970121315f97d4e689470f2772efb2966_thumb"
+		"icon"		"d335ba0a5d56fc7c3921dc584585716ab6372aa9"
+		"oslist"		"windows"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"207230_eula_0"
+				"name"		"Archeblade EULA"
+				"url"		"http://store.steampowered.com/eula/207230_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1663891200"
+			"tested_build_id"		"2535028"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"ArcheBlade™"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1398406149"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CodeBrush Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Codebrush Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_9"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+		}
+		"steam_release_date"		"1398423480"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"207230"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4085"
+			"2"		"19"
+			"3"		"1743"
+			"4"		"3859"
+			"5"		"128"
+			"6"		"1718"
+			"7"		"492"
+			"8"		"1775"
+			"9"		"1754"
+			"10"		"1697"
+			"11"		"1646"
+			"12"		"122"
+			"13"		"21"
+			"14"		"1684"
+			"15"		"5711"
+			"16"		"3843"
+			"17"		"7208"
+			"18"		"1685"
+			"19"		"3814"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"CodeBrush Games"
+		"gamedir"		"archeblade"
+		"homepage"		"http://www.codebrush.net/"
+		"icon"		""
+		"installscript"		"207230_install.vdf"
+		"isfreeapp"		"1"
+		"order"		"1"
+		"primarycache"		"207231"
+		"serverbrowsername"		"Archeblade"
+		"state"		"eStateAvailable"
+		"publisher"		"Codebrush Games"
+		"listofdlc"		"207241,279840"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binaries\\Win32\\Archeblade.exe"
+				"workingdir"		"Binaries"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"ArcheBlade"
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"207231"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5783040760354095311"
+					"size"		"1673806293"
+					"download"		"1099866288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devbuild"
+				{
+					"gid"		"2C7A931EF06DDCE72F8FAAD64D87C182"
+					"size"		"3DBAF38E2A5D94F5B5CED8A7A1B3A1AC"
+					"download"		"3E226F8AA9653B9B4F9C506136BF1E47"
+				}
+				"legacybuild"
+				{
+					"gid"		"4D5453D642C6B42C5B193DBC3442BEE5"
+					"size"		"2585234C0C8D5851AF36D90971A34E93"
+					"download"		"602FE4AC7F6D80408EF3B0FC0E33AAB2"
+				}
+				"serverhost"
+				{
+					"gid"		"D382E7FCEEA36BABDB5E7E7C9CFDF817"
+					"size"		"AA56DFBCBB650ED2F8E3132F19F1435C"
+					"download"		"5D3F691519AA0FFA0FAF3300FF0641FB"
+				}
+				"test"
+				{
+					"gid"		"6C1F3B2DE48F9D048EC841F449BB15C1"
+					"size"		"DCB05C7EEEAC5BF3EA3324082CDCD396"
+					"download"		"B9E82B45AF5B1A9AB93C1BB0E22A484F"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2535028"
+				"timeupdated"		"1519701775"
+			}
+			"devbuild"
+			{
+				"buildid"		"2987461"
+				"pwdrequired"		"1"
+				"timeupdated"		"1532902315"
+			}
+			"legacybuild"
+			{
+				"buildid"		"280520"
+				"pwdrequired"		"1"
+				"timeupdated"		"1536108670"
+			}
+			"serverhost"
+			{
+				"buildid"		"2535028"
+				"pwdrequired"		"1"
+				"timeupdated"		"1519509733"
+			}
+			"test"
+			{
+				"buildid"		"5165"
+				"pwdrequired"		"1"
+				"timeupdated"		"1597198356"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"SteamCloudDocuments"
+				"path"		"SavesDir"
+				"pattern"		"*.asd"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
