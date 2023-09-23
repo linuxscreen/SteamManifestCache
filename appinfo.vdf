@@ -1,0 +1,139 @@
+"appinfo"
+{
+	"appid"		"1521830"
+	"common"
+	{
+		"name"		"VUP Workshop editor"
+		"type"		"Tool"
+		"parent"		"1207050"
+		"logo"		"1ff3a53dcaf882409b190278bf56e4aa59313226"
+		"logo_small"		"1ff3a53dcaf882409b190278bf56e4aa59313226_thumb"
+		"icon"		"dad1a353c62d3ca22c98704e92d468dd0391e629"
+		"clienticon"		"989984921b5dec496e5646ccb57e83405b656065"
+		"clienttga"		"0fe1c61ed29358c792e9396e7b803b702c2fabd2"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"app_retired_publisher_request"		"1"
+		"library_assets"
+		{
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1611214059"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1611352800"
+		"community_hub_visible"		"1"
+		"gameid"		"1521830"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"VUP Workshop editor"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VUP WORKSHOP editor.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1521830"
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1923798258558304932"
+					"size"		"44194776"
+					"download"		"13804528"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4884950798805348056"
+					"size"		"73781292"
+					"download"		"20270768"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1521831"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1864231596634833308"
+					"size"		"66300800"
+					"download"		"20110592"
+				}
+			}
+		}
+		"1521832"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6137039"
+				"timeupdated"		"1611626871"
+			}
+		}
+	}
+}
