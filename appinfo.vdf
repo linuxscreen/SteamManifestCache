@@ -1,0 +1,337 @@
+"appinfo"
+{
+	"appid"		"1141020"
+	"common"
+	{
+		"name"		"Adventure Escape Mysteries"
+		"type"		"Game"
+		"logo"		"4fe65b0c9378badd0221fd013475a29a13aed2b7"
+		"logo_small"		"4fe65b0c9378badd0221fd013475a29a13aed2b7_thumb"
+		"icon"		"57700b0afdea8c144986fea293678c5dc4a4376e"
+		"clienticon"		"72c5401c3199306498aeea1550afd60cd8fbc6e1"
+		"clienttga"		"bfcef6b6be5f5c1369d9aa927d70163f24a96816"
+		"clienticns"		"af2c870453cb0a97c19b9808608381b1e7a78bd1"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1692748800"
+			"tested_build_id"		"11806134"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Adventure Escape Mysteries"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"68.78914405010438"
+				"height_pct"		"72.30329430982847"
+			}
+		}
+		"store_asset_mtime"		"1678485987"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Haiku Games Co"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Haiku Games Co"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1588711826"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1141020"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1698"
+			"2"		"769306"
+			"3"		"21"
+			"4"		"1664"
+			"5"		"492"
+			"6"		"5613"
+			"7"		"5716"
+			"8"		"8369"
+			"9"		"3871"
+			"10"		"4305"
+			"11"		"6815"
+			"12"		"1742"
+			"13"		"4182"
+			"14"		"6971"
+			"15"		"1667"
+			"16"		"597"
+			"17"		"11014"
+			"18"		"7208"
+			"19"		"1738"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Haiku Games Co"
+		"publisher"		"Haiku Games Co"
+		"homepage"		"https://www.haikugames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Adventure Escape Mysteries"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AEM.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"AEM.app/Contents/MacOS/AEM"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1141021"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7135638380130602986"
+					"size"		"390983879"
+					"download"		"134835392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"6264FF75F1811D0541ED2ECDC464BF0D"
+					"size"		"27525407A90BF2607B95C77C6C2C84B4"
+					"download"		"DCD9AD590AC66F0FF22FBADB1B8246AA"
+				}
+			}
+		}
+		"1141022"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6796551066536042065"
+					"size"		"237501947"
+					"download"		"113979664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A053F24399EA2AD1BFBEAFB4E1ED5BC8"
+					"size"		"E32BF03D7298587E367586867FBB7CA1"
+					"download"		"22EE8FD14BBC82B93C0EB8373E11C3CD"
+				}
+			}
+		}
+		"1141023"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2078804119867751160"
+					"size"		"237501947"
+					"download"		"113984048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"72523FE4105BCA7E694D9F10733DAB5E"
+					"size"		"E32BF03D7298587E367586867FBB7CA1"
+					"download"		"2933CD69E09125746AC321633A6D7B12"
+				}
+			}
+		}
+		"1141024"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"457816743759950248"
+					"size"		"390983879"
+					"download"		"134846592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"6A70CC0F8EB222FEEF0DF2CBA0B83547"
+					"size"		"27525407A90BF2607B95C77C6C2C84B4"
+					"download"		"FF6652E74751F27F500C06FB9F7BAA66"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11806134"
+				"timeupdated"		"1690838545"
+			}
+			"beta"
+			{
+				"buildid"		"11806134"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690496114"
+			}
+		}
+	}
+}
