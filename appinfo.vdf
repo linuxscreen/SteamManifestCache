@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1029750"
+	"common"
+	{
+		"name"		"Voipas"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"a7454dba7ed663e7fbefa18832fed1b6ee5b3086"
+		"clienttga"		"ffdbf8ccea26f6c4c733f69e1dc535ea25239726"
+		"icon"		"9a53ab050f157d00b18ec5cd40d85618332eb915"
+		"logo"		"9a696dbaeabf82de8b08518debe1714b4ebecb93"
+		"logo_small"		"9a696dbaeabf82de8b08518debe1714b4ebecb93_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1029750_eula_0"
+				"name"		"Voipas EULA"
+				"url"		"https://store.steampowered.com//eula/1029750_eula_0"
+			}
+		}
+		"metacritic_name"		"Voipas"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"60.98901129611541"
+				"height_pct"		"47.33941442434171"
+			}
+		}
+		"store_asset_mtime"		"1690385394"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BETTER QUESTS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BETTER QUESTS"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1562310000"
+		"steam_release_date"		"1562326200"
+		"community_hub_visible"		"1"
+		"gameid"		"1029750"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"599"
+			"2"		"8013"
+			"3"		"9551"
+			"4"		"10235"
+			"5"		"379975"
+			"6"		"4191"
+			"7"		"4175"
+			"8"		"5608"
+			"9"		"5350"
+			"10"		"4747"
+			"11"		"15172"
+			"12"		"7208"
+			"13"		"3843"
+			"14"		"4182"
+			"15"		"493"
+		}
+	}
+	"extended"
+	{
+		"developer"		"BETTER QUESTS"
+		"publisher"		"BETTER QUESTS"
+		"homepage"		"https://betterquests.com/index.php/voipas/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Voipas"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Voipas.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1029751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4803880627887906860"
+					"size"		"706926080"
+					"download"		"531130464"
+				}
+				"2023"
+				{
+					"gid"		"4803880627887906860"
+					"size"		"706926080"
+					"download"		"531130464"
+				}
+			}
+		}
+		"1029752"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"2023"
+				{
+					"gid"		"3431754084930716853"
+					"size"		"1204043668"
+					"download"		"1112149568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3971357"
+				"timeupdated"		"1562325788"
+			}
+			"2023"
+			{
+				"buildid"		"11861886"
+				"description"		"v0.94"
+				"timeupdated"		"1691100582"
+			}
+		}
+	}
+}
