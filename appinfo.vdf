@@ -1,0 +1,130 @@
+"appinfo"
+{
+	"appid"		"1720230"
+	"common"
+	{
+		"name"		"Chaos Crown Demo"
+		"type"		"Demo"
+		"parent"		"1509920"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"5d4dd2e94aad62f2425820960f41b44258f11b60"
+		"clienticon"		"20164e6d4d8d8a495069ebe85e2b16eb04e9499d"
+		"icon"		"4c85b6ff0d8116d63a111af36b728b1af8b73f13"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+		}
+		"logo"		"97ca589b043f8042aac9a2788005c7b321ebc30d"
+		"logo_small"		"97ca589b043f8042aac9a2788005c7b321ebc30d_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1631107024"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Unilux Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Unilux Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1628717193"
+		"community_visible_stats"		"1"
+		"gameid"		"1720230"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1509920"
+		"developer"		"Unilux Studio"
+		"publisher"		"Unilux Studio"
+		"homepage"		"https://trello.com/b/leq7Yr9M/chaos-crown"
+	}
+	"config"
+	{
+		"installdir"		"Chaos Crown Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Chaos Crown.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1720231"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2574597127725278676"
+					"size"		"3195326255"
+					"download"		"1125084480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fmod"
+				{
+					"gid"		"13563E033AA65FF40D706691D8D5D8F1"
+					"size"		"1AF6BA05D7A84FF884086674544EB4BD"
+					"download"		"00F7CC77A491DBC8715B3624E2B0943D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11464870"
+				"timeupdated"		"1686721729"
+			}
+			"fmod"
+			{
+				"buildid"		"10159770"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671165771"
+			}
+		}
+	}
+}
