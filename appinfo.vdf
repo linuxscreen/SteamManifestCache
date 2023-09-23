@@ -1,0 +1,265 @@
+"appinfo"
+{
+	"appid"		"1794490"
+	"common"
+	{
+		"name"		"Spy Rumble"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"4a42cd860ee934409fa28407e74e041e321d8adf"
+		"logo_small"		"4a42cd860ee934409fa28407e74e041e321d8adf_thumb"
+		"icon"		"46cd30bebb3627944930bf101968ee4470e36770"
+		"clienticon"		"61209620f0050eecdcc6bb69710ffe9b904d7edb"
+		"clienttga"		"1c14be06bf98219a3d7d693b3fb03d9627e5478c"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1665705600"
+			"tested_build_id"		"9528018"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SimultaneousInputGyroTrackpadFriendly"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"simultaneous_gamepad_mouse"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"74.36180473689853"
+				"height_pct"		"59.28912532639852"
+			}
+		}
+		"store_asset_mtime"		"1687934665"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"nekogameteacher"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"nekogameteacher"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1687964400"
+		"community_hub_visible"		"1"
+		"gameid"		"1794490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"745697"
+			"1"		"3859"
+			"2"		"1662"
+			"3"		"492"
+			"4"		"3843"
+			"5"		"597"
+			"6"		"4777"
+			"7"		"493"
+			"8"		"1775"
+			"9"		"1751"
+			"10"		"4562"
+			"11"		"1685"
+			"12"		"1774"
+			"13"		"6506"
+			"14"		"3814"
+			"15"		"5186"
+			"16"		"4136"
+			"17"		"19"
+			"18"		"7108"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"nekogameteacher"
+		"publisher"		"nekogameteacher"
+		"isfreeapp"		"1"
+		"listofdlc"		"2066400,2121810,2301170,2301950,2383150,2383151,2383152,2383153,2383154,2383156"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Spy Rumble"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor/Robotwolf.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1794491"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4229324682444231272"
+					"size"		"10657335291"
+					"download"		"10449500448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8CB4EF23E2FEF27A242C51559C48CC55"
+					"size"		"6789AAF23D4C9A435916D8F1053B4196"
+					"download"		"4AECF6605E02FCA82BA4F1F93E139493"
+				}
+				"beta2"
+				{
+					"gid"		"063394DBE0DD94DC16D4C39991A9BB3A"
+					"size"		"671258B8E091CCFBBE1079E7900BFE78"
+					"download"		"17093AA8C32166895131CCF1EE56FE9C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11628190"
+				"timeupdated"		"1688539813"
+			}
+			"beta"
+			{
+				"buildid"		"9398866"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661568055"
+			}
+			"beta2"
+			{
+				"buildid"		"11628190"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688539354"
+			}
+		}
+	}
+}
