@@ -1,0 +1,232 @@
+"appinfo"
+{
+	"appid"		"1682790"
+	"common"
+	{
+		"name"		"BlastFort"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienticon"		"3bf7c072a0497bcf0d0983badd6074e1c22fb6ec"
+		"clienttga"		"76980ad236e1d51d014a43c1293926f3a3528047"
+		"icon"		"a48f93697a91ebc10437851c413dcdf1a071e771"
+		"linuxclienticon"		"e051ee9f89feff9e3096ce474cf0ac687cf9b13f"
+		"clienticns"		"5dd616910245360fae3e92eb6f1524bee581dc52"
+		"logo"		"25e34838a4c96f42cf61c13fa5a62beb520193d0"
+		"logo_small"		"25e34838a4c96f42cf61c13fa5a62beb520193d0_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1625866806"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Faraaz Jan"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Orion Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+			"category_27"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627266066"
+		"community_hub_visible"		"1"
+		"gameid"		"1682790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3798"
+			"1"		"5379"
+			"2"		"1774"
+			"3"		"4758"
+			"4"		"3859"
+			"5"		"6730"
+			"6"		"1775"
+			"7"		"5752"
+			"8"		"1254546"
+			"9"		"1773"
+			"10"		"3871"
+			"11"		"4195"
+			"12"		"4305"
+			"13"		"4821"
+			"14"		"597"
+			"15"		"4726"
+			"16"		"19"
+			"17"		"7481"
+			"18"		"3964"
+			"19"		"4115"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Faraaz Jan"
+		"publisher"		"Orion Studios"
+		"homepage"		"https://www.orionstudio.ca/blastfort.html"
+		"isfreeapp"		"1"
+		"listofdlc"		"1682830"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BlastFort"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BlastFort.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"BlastFort.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"BlastFort"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1682791"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2356644095957503302"
+					"size"		"189098295"
+					"download"		"89090192"
+				}
+			}
+		}
+		"1682792"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2322114290979223767"
+					"size"		"334746702"
+					"download"		"116968736"
+				}
+			}
+		}
+		"1682793"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6713205344931465391"
+					"size"		"274546038"
+					"download"		"100038512"
+				}
+			}
+		}
+		"1682830"
+		{
+			"dlcappid"		"1682830"
+			"config"
+			{
+				"language"		"english"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7145788"
+				"timeupdated"		"1628197656"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
