@@ -1,0 +1,229 @@
+"appinfo"
+{
+	"appid"		"624890"
+	"common"
+	{
+		"name"		"Adventure Craft"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"7de2cf0e39bc39ae5c78453616e3ffe8297f969e"
+		"logo_small"		"7de2cf0e39bc39ae5c78453616e3ffe8297f969e_thumb"
+		"icon"		"f733a007cec02e74413b601a34bf8fc9e3163e4e"
+		"clienttga"		"05ee5d67fb52eb5ea0531c10964c77bd98bfe5e0"
+		"clienticon"		"de05fc35dff2ac82e3360f59e3d1203e168b4a55"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1691107200"
+			"tested_build_id"		"7001554"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_AudioOutputHasNonblockingIssues"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"6"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Adventure Craft"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1610762894"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Edible Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Edible Entertainment"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1499313651"
+		"community_hub_visible"		"1"
+		"gameid"		"624890"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1100689"
+			"1"		"1695"
+			"2"		"3810"
+			"3"		"3955"
+			"4"		"7332"
+			"5"		"6730"
+			"6"		"1643"
+			"7"		"5981"
+			"8"		"1662"
+			"9"		"4231"
+			"10"		"4747"
+			"11"		"122"
+			"12"		"19"
+			"13"		"3871"
+			"14"		"4791"
+			"15"		"3835"
+			"16"		"5125"
+			"17"		"3964"
+			"18"		"9541"
+			"19"		"1638"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Edible Entertainment"
+		"publisher"		"Edible Entertainment"
+		"homepage"		"https://www.adventurecraftgame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Adventure Craft"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AdventureCraft.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"624891"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3841356160050347566"
+					"size"		"1299959875"
+					"download"		"284883632"
+				}
+				"testing"
+				{
+					"gid"		"3841356160050347566"
+					"size"		"1299959875"
+					"download"		"284883632"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7001554"
+				"timeupdated"		"1625781179"
+			}
+			"testing"
+			{
+				"buildid"		"7001554"
+				"description"		"Adventure Craft Test Build"
+				"timeupdated"		"1625781000"
+			}
+		}
+	}
+}
