@@ -1,0 +1,694 @@
+"appinfo"
+{
+	"appid"		"225600"
+	"common"
+	{
+		"name"		"Blade Symphony"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"icon"		"808b009cee829b5b77f05c5bb4ae0099df728da7"
+		"clienttga"		"d1480187eb11a2ccb4bf540e369eb136732b055a"
+		"logo"		"0087b44e0aea02b07cc8a8794ff55dbfeeb2cfe9"
+		"logo_small"		"0087b44e0aea02b07cc8a8794ff55dbfeeb2cfe9_thumb"
+		"clienticon"		"c6b422b3d0df030eec5188e2423c544045a4b9a2"
+		"clienticns"		"137195563886aab6dcbae1e4ba8c356cd1577b46"
+		"linuxclienticon"		"7514d7f2678088ebb24f4385228eb34064ac3bd8"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1685664000"
+			"tested_build_id"		"10384606"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"metacritic_name"		"Blade Symphony"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"53.267211201866964"
+				"height_pct"		"92.55521253858943"
+			}
+		}
+		"store_asset_mtime"		"1584751190"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Puny Human"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Puny Human"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_12"		"1"
+			"category_17"		"1"
+			"category_16"		"1"
+			"category_30"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_15"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"1"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1399446000"
+		"steam_release_date"		"1399496340"
+		"metacritic_score"		"72"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/blade-symphony?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"225600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1743"
+			"2"		"492"
+			"3"		"3859"
+			"4"		"4608"
+			"5"		"3878"
+			"6"		"1697"
+			"7"		"1646"
+			"8"		"1688"
+			"9"		"4036"
+			"10"		"1775"
+			"11"		"3942"
+			"12"		"9"
+			"13"		"493"
+			"14"		"1708"
+			"15"		"5153"
+			"16"		"1684"
+			"17"		"21"
+			"18"		"1756"
+			"19"		"113"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Puny Human"
+		"gamedir"		"berimbau"
+		"homepage"		"http://www.blade-symphony.com/"
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"serverbrowsername"		"Blade Symphony"
+		"publisher"		"Puny Human"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Blade Symphony"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\win32\\berimbau.exe"
+				"workingdir"		"bin\\win32\\"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"bin\\win64\\berimbau.exe"
+				"workingdir"		"bin\\win64\\"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"bin\\berimbau.sh"
+				"arguments"		"-game berimbau"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"bin\\berimbau.sh"
+				"arguments"		"-game berimbau"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"1654871719"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,candidate,local,release_candidate,unharmonious"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"7"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,norwegian,hungarian,czech,romanian,turkish,brazilian"
+		"workshopdepot"		"225600"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"225601"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1951215961180917827"
+					"size"		"6567691637"
+					"download"		"3222082176"
+				}
+				"release_candidate"
+				{
+					"gid"		"1951215961180917827"
+					"size"		"6567691637"
+					"download"		"3222082176"
+				}
+				"unharmonious"
+				{
+					"gid"		"4086042479257867080"
+					"size"		"3231186757"
+					"download"		"1767459744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"candidate"
+				{
+					"gid"		"2FD04925225959C4D44A5C70B4E276DF"
+					"size"		"D51CC030A25040D05A2C03C4088BFF7D"
+					"download"		"FEC42D26DE0B745B773AFE25F7A8D563"
+				}
+				"jenkins_builds"
+				{
+					"gid"		"3A6D6F430AEF6D664D1BFE44272D5AFE"
+					"size"		"104EB424D99545559E4F7DFB749CBB9C"
+					"download"		"03E20291DEBE5BBD01444C154CE66E29"
+				}
+				"soundtrack"
+				{
+					"gid"		"8589EDEF05E3128BCD20234697CFFA55"
+					"size"		"098B6F47AFDE38A6E612AD63CA79AC6E"
+					"download"		"AAFBC846786A68B2DD3AC69942B5B00D"
+				}
+			}
+		}
+		"225602"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3032454856834549659"
+					"size"		"159230777"
+					"download"		"53005424"
+				}
+				"release_candidate"
+				{
+					"gid"		"3032454856834549659"
+					"size"		"159230777"
+					"download"		"53005424"
+				}
+				"unharmonious"
+				{
+					"gid"		"2913756756481304335"
+					"size"		"192544802"
+					"download"		"73732064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"candidate"
+				{
+					"gid"		"AC1165165FB71875B5C55E77CD9C574A"
+					"size"		"F752B33E9A677E5B072572AC37601CBC"
+					"download"		"294317A10FAAB78DB4FE8A46FB7230BE"
+				}
+				"jenkins_builds"
+				{
+					"gid"		"98F9D155E7BB901DFB88D5CAF18D162B"
+					"size"		"43462C7DFEC73B2FBD1FBDB3A9639DC4"
+					"download"		"FD1D205F00FEEC80C3A7A86DFC9512C8"
+				}
+				"soundtrack"
+				{
+					"gid"		"9B27EA3978278EB7F084E5799EDE4B29"
+					"size"		"E9A124E4CE7950219650C968C8D7ADA9"
+					"download"		"AAFBC846786A68B2DD3AC69942B5B00D"
+				}
+			}
+		}
+		"225603"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3159712814312842534"
+					"size"		"143087998"
+					"download"		"35038544"
+				}
+				"release_candidate"
+				{
+					"gid"		"3159712814312842534"
+					"size"		"143087998"
+					"download"		"35038544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"candidate"
+				{
+					"gid"		"01F83C5848D6EEAA78D4C23D27A8D221"
+					"size"		"BBFA4ECA7D810DB2A835E146FA6318FA"
+					"download"		"2BF62D7CC022D4D275626DECDCDA364F"
+				}
+				"jenkins_builds"
+				{
+					"gid"		"45351BC812875FD1440460BE31A3D538"
+					"size"		"0183789255F6D0DE1327814646DF3CAB"
+					"download"		"F9A1F47EC449D499BAD256DF03E15D88"
+				}
+				"soundtrack"
+				{
+					"gid"		"9AE520EC547EFA6591153A043CB66745"
+					"size"		"084FD86F5DB2D7811EE61C906386C9F6"
+					"download"		"ECEA4C3076AEC76E1BA27A54B535B396"
+				}
+			}
+		}
+		"225604"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1540842928134486588"
+					"size"		"165226708"
+					"download"		"42040512"
+				}
+				"release_candidate"
+				{
+					"gid"		"1540842928134486588"
+					"size"		"165226708"
+					"download"		"42040512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"candidate"
+				{
+					"gid"		"6458AB01C96629213A7CE433F779AAE4"
+					"size"		"B2256BFB2C6F652989DAD329F1195052"
+					"download"		"B77498E08021524CBE3C61FEA5D591A1"
+				}
+				"jenkins_builds"
+				{
+					"gid"		"B9F48AD8B247D66750EEBAF9A5745529"
+					"size"		"B4D08975009709E11CC18285C8E8F473"
+					"download"		"637A5525418CF21A30604134584052C5"
+				}
+				"soundtrack"
+				{
+					"gid"		"5152E9810862D1B03CBE36F27F4C9629"
+					"size"		"F0DD94D9001891CBAECA979E8FA0903E"
+					"download"		"C9611460894795432A5ED453C4FEEC04"
+				}
+			}
+		}
+		"225605"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2249006979991190096"
+					"size"		"120981220"
+					"download"		"34117392"
+				}
+				"release_candidate"
+				{
+					"gid"		"2249006979991190096"
+					"size"		"120981220"
+					"download"		"34117392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"candidate"
+				{
+					"gid"		"5EE1C1ED1F93DCE6E8DA0B8132EBACC9"
+					"size"		"AAC791B388E15F6683F18FFA919FD83F"
+					"download"		"B5124041BABFD36DE03AC8F53809BC41"
+				}
+				"jenkins_builds"
+				{
+					"gid"		"776A97D0EA5FEA162F1F912F6BC11DEC"
+					"size"		"BBDF9AFC6B871BC43F299BB7CA117741"
+					"download"		"8B8AD86AC27B49AD8E2B5390D992A297"
+				}
+				"soundtrack"
+				{
+					"gid"		"53B0711FD11FC1940D65735AFF5C64DD"
+					"size"		"06C5C3F58792B95AC06916A3D4D66A10"
+					"download"		"867E7690539EB275C374A87C46AD8BC0"
+				}
+			}
+		}
+		"225619"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7083914682582020929"
+					"size"		"311214571"
+					"download"		"306856416"
+				}
+				"release_candidate"
+				{
+					"gid"		"7083914682582020929"
+					"size"		"311214571"
+					"download"		"306856416"
+				}
+				"unharmonious"
+				{
+					"gid"		"7083914682582020929"
+					"size"		"311214571"
+					"download"		"306856416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"candidate"
+				{
+					"gid"		"22ECF9BE6FACBC443A57D2A17CEBF241"
+					"size"		"BA2F35C13B2B0359F1B6F7975D01B474"
+					"download"		"2DE4A66DF507ACB69C5B0C885397E62F"
+				}
+				"jenkins_builds"
+				{
+					"gid"		"1F2AEB2394DF7FBB471F02416B106BDB"
+					"size"		"73362C4066F3C593590AF2DAC10C946A"
+					"download"		"2BD4156CA1D3EB3F31F0D537D8949BCE"
+				}
+				"soundtrack"
+				{
+					"gid"		"13FFC8989809A1A180DE3A5FDB56162D"
+					"size"		"627D3F665BADA3E3B70CAA644EA9D4E9"
+					"download"		"AAFBC846786A68B2DD3AC69942B5B00D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10384606"
+				"timeupdated"		"1674594920"
+			}
+			"candidate"
+			{
+				"buildid"		"3168466"
+				"pwdrequired"		"1"
+				"timeupdated"		"1538235183"
+			}
+			"jenkins_builds"
+			{
+				"buildid"		"10384606"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674499356"
+			}
+			"release_candidate"
+			{
+				"buildid"		"10384606"
+				"description"		"Main Release Candidate"
+				"timeupdated"		"1674499913"
+			}
+			"soundtrack"
+			{
+				"buildid"		"6864920"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623676657"
+			}
+			"unharmonious"
+			{
+				"buildid"		"1536479"
+				"description"		"The last public update before Harmonious Prelude."
+				"timeupdated"		"1537644560"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+	}
+}
