@@ -1,0 +1,143 @@
+"appinfo"
+{
+	"appid"		"1677000"
+	"common"
+	{
+		"name"		"Church of Stratum Prologue"
+		"type"		"Demo"
+		"parent"		"1638210"
+		"releasestate"		"released"
+		"clienttga"		"c2debb983213e023404fdc8d37fff3b1c9e15d34"
+		"clienticon"		"40e3ee14cd2cba95fa7b0a9c678ae21527b823e9"
+		"icon"		"12a8c4b3634b0a8eb9825cf1debbc43263de4147"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"70.23255813953489"
+				"height_pct"		"70.51769175967704"
+			}
+		}
+		"store_asset_mtime"		"1627819872"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Break Even Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Break Even Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_14"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1628686491"
+		"gameid"		"1677000"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1638210"
+		"developer"		"Break Even Games"
+		"publisher"		"Break Even Games"
+	}
+	"config"
+	{
+		"installdir"		"Church of Stratum Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Stratum.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"1677001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"621908330186533270"
+					"size"		"3165655492"
+					"download"		"3037209760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7261064"
+				"timeupdated"		"1630063334"
+			}
+		}
+	}
+}
