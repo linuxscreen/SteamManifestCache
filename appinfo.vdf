@@ -1,0 +1,129 @@
+"appinfo"
+{
+	"appid"		"1738270"
+	"common"
+	{
+		"name"		"Minable & Create Demo"
+		"type"		"Demo"
+		"parent"		"1619970"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"86758f0f474af0c37a43d615b66c84999677beba"
+		"logo_small"		"86758f0f474af0c37a43d615b66c84999677beba_thumb"
+		"icon"		"36f1c992c98d7ca7ca1ede68a6637fb4331ff791"
+		"clienticon"		"f2b547b901ce61df0d9c239ed55e886d4142ad34"
+		"clienttga"		"d9c7d4064e556a7b34362b8f90f1278c8c510f8c"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"store_asset_mtime"		"1629998934"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"technopixel"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"TODOWORKS"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"technopixel"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630206300"
+		"gameid"		"1738270"
+	}
+	"extended"
+	{
+		"demoofappid"		"1619970"
+		"developer"		"technopixel"
+		"publisher"		"technopixel"
+		"homepage"		"http://www.techno-pixel.com/minacre/"
+	}
+	"config"
+	{
+		"installdir"		"Minable & Create Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MinableAndCreate.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"1738271"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1164820912212557019"
+					"size"		"266058445"
+					"download"		"93114032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F467405B71C78402287E76C36A396DAB"
+					"size"		"93D368AC083A8B062F0F0291CF5BAE4B"
+					"download"		"29098F56FF41CD97F1F140958B227C5D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8759651"
+				"timeupdated"		"1652929379"
+			}
+			"beta"
+			{
+				"buildid"		"8748124"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652717656"
+			}
+		}
+	}
+}
