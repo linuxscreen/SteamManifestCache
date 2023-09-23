@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"223390"
+	"common"
+	{
+		"name"		"Forge"
+		"type"		"Game"
+		"logo"		"a4291ab63771d7aa9e04d07baa666a1b3e5980a2"
+		"logo_small"		"a4291ab63771d7aa9e04d07baa666a1b3e5980a2_thumb"
+		"icon"		"322923aeac5851532c77f558d999b76b1a56a6f7"
+		"clienttga"		"21970f56b3e36d544fcf507cced76b757850ee20"
+		"clienticon"		"95008b7e083a7a3ffc2cf7510b3511850aa0e0ff"
+		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+		}
+		"metacritic_name"		"Forge"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1376941024"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dark Vale Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dark Vale Games LLC"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_29"		"1"
+			"category_9"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+		}
+		"metacritic_score"		"65"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/forge?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"223390"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"122"
+			"3"		"492"
+			"4"		"3859"
+			"5"		"1718"
+			"6"		"1775"
+			"7"		"21"
+			"8"		"128"
+			"9"		"1697"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Dark Vale Games"
+		"gamedir"		"Forge"
+		"homepage"		"http://www.playforgewar.com/"
+		"icon"		""
+		"noservers"		"0"
+		"serverbrowsername"		"Forge"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Dark Vale Games LLC"
+		"isfreeapp"		"1"
+		"listofdlc"		"236650,249910,249911,249912,249913,266880,313850"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Forge"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binaries\\Win32\\ForgeGame.exe"
+				"arguments"		"ForgeMenu TERMINALIP=account.playforgewar.com"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"preloadonly"		"1"
+		"223391"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4171019257850455378"
+					"size"		"2467675979"
+					"download"		"4221331752792"
+				}
+				"local"
+				{
+					"gid"		"2807589923665540200"
+					"size"		"2506040930"
+					"download"		"1256703918542"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"323699"
+			}
+			"local"
+			{
+				"buildid"		"346180"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"2"
+	}
+}
