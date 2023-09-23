@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"2060550"
+	"common"
+	{
+		"name"		"Fabular: Prologue"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"39caeb7c7f8f5688ea467d96bbf8eb27d6a2e0ce"
+		"clienticon"		"b24ea2771163b0b0b0e8294acf0dcb63696b00af"
+		"icon"		"e4c599c8bf29db6c92e0cf6d1b756626121dbb3d"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"星骑：序章"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.849360830139062"
+				"height_pct"		"72.66749532716398"
+			}
+		}
+		"store_asset_mtime"		"1671018346"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Spiritus Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Prismatika"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"East2West Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1657285200"
+		"community_hub_visible"		"1"
+		"gameid"		"2060550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"29482"
+			"1"		"42804"
+			"2"		"4172"
+			"3"		"1646"
+			"4"		"1716"
+			"5"		"1777"
+			"6"		"4026"
+			"7"		"3959"
+			"8"		"493"
+			"9"		"3964"
+			"10"		"492"
+			"11"		"5125"
+			"12"		"122"
+			"13"		"5153"
+			"14"		"1684"
+			"15"		"21"
+			"16"		"4182"
+			"17"		"19"
+			"18"		"3942"
+			"19"		"4711"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Spiritus Games"
+		"publisher"		"Prismatika"
+		"homepage"		"http://fabulargame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FabularPrologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FabularPrologue.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2060551"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1811593529117750286"
+					"size"		"430010520"
+					"download"		"315898576"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9130950"
+				"timeupdated"		"1657915863"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"SpiritusGames/FabularPrologue"
+				"pattern"		"*.yml"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
