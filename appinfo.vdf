@@ -1,0 +1,130 @@
+"appinfo"
+{
+	"appid"		"2539550"
+	"common"
+	{
+		"name"		"Blooming Demo"
+		"type"		"Demo"
+		"parent"		"2530280"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"99c3b3e7c4fb87bd77449bcbeac2d70f3af660f8"
+		"clienticon"		"cd02627884808de298f78d6834d58154c72aa675"
+		"clienttga"		"2b4fcd38d74f06fe3aa7e627df391422fec3b6d7"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1690947320"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Skyque"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Skyque"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1691125462"
+		"gameid"		"2539550"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Skyque"
+		"publisher"		"Skyque"
+	}
+	"config"
+	{
+		"installdir"		"Blooming Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blooming.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2539551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"416431792912498426"
+					"size"		"130353512"
+					"download"		"46287568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12102617"
+				"timeupdated"		"1693810913"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"35000000"
+		"maxnumfiles"		"6"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/Blooming/Saves"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"appidredirect"		"2530280"
+	}
+}
