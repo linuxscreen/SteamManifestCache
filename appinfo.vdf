@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"668170"
+	"common"
+	{
+		"name"		"Incline"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"87789eccd2c1e3959d440e3e56e23e528c495045"
+		"logo_small"		"87789eccd2c1e3959d440e3e56e23e528c495045_thumb"
+		"icon"		"25959b895e6997c7d2c33acfac8ae80d23d94a8e"
+		"clienticon"		"50dd5ed57a6bf298e9644b7499b18a2cb4d1fb6f"
+		"clienttga"		"8607dce19e1f06ad0a33eda4e0f59e82f747aeab"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1686960000"
+			"tested_build_id"		"3150141"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Incline"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1504495326"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Homewreckers Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Homewreckers Studio"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"9"
+			"4"		"28"
+			"5"		"18"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_18"		"1"
+			"category_35"		"1"
+			"category_30"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1507602900"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"668170"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"113"
+			"2"		"701"
+			"3"		"3859"
+			"4"		"599"
+			"5"		"493"
+			"6"		"198913"
+			"7"		"19"
+			"8"		"492"
+			"9"		"21978"
+		}
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"developer"		"Homewreckers Studio"
+		"publisher"		"Homewreckers Studio"
+		"homepage"		"http://incline.homewreckersstudio.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Incline"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Incline.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"668171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8857456202902567010"
+					"size"		"315479008"
+					"download"		"76886032"
+				}
+			}
+		}
+		"workshopdepot"		"668170"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3150141"
+				"timeupdated"		"1537768836"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576"
+		"maxnumfiles"		"10"
+	}
+}
