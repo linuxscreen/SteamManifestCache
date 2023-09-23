@@ -1,0 +1,127 @@
+"appinfo"
+{
+	"appid"		"1674050"
+	"common"
+	{
+		"name"		"Deathtrap Dungeon: The Interactive Video Adventure Demo"
+		"type"		"Demo"
+		"parent"		"1191940"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"90d0a568b1ace0fc159f3e234177e95faf40f522"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"icon"		"9cc7cf35a85ee263f54b394a17b7a7effa0a0d4f"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1624435587"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Branching Narrative Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Branching Narrative Ltd"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Fighting Fantasy"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1624463797"
+		"gameid"		"1674050"
+	}
+	"extended"
+	{
+		"demoofappid"		"1191940"
+		"developer"		"Branching Narrative Ltd"
+		"publisher"		"Branching Narrative Ltd"
+		"homepage"		"http://branchingnarrative.com"
+	}
+	"config"
+	{
+		"installdir"		"Deathtrap Dungeon The Interactive Video Adventure Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Deathtrap Dungeon.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1674051"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2558267429270502772"
+					"size"		"754675393"
+					"download"		"534491504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"7DFA751D4B7EB05D77290290BC3A7F8B"
+					"size"		"1C2C14AB5CCDB558E3E45BD3C26601F2"
+					"download"		"BCB76A1DDB3FB816A428D09B6B25274C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6919100"
+				"timeupdated"		"1624455771"
+			}
+			"beta"
+			{
+				"buildid"		"6906176"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624356400"
+			}
+		}
+	}
+}
