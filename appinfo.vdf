@@ -1,0 +1,416 @@
+"appinfo"
+{
+	"appid"		"2210800"
+	"common"
+	{
+		"name"		"Monster Racing League"
+		"type"		"Game"
+		"icon"		"11c48e312d6d718e320af60f38ebf4386fc5c846"
+		"clienticon"		"91406b0c048d0abe8fc09c46635068ed8db95fa5"
+		"clienttga"		"3f07ee8412df35991fa87c21700744aae3a1e9d7"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2210800_eula_0"
+				"name"		"Monster Racing League EULA"
+				"url"		"https://store.steampowered.com//eula/2210800_eula_0"
+				"version"		"1"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"74.8283752860412"
+				"height_pct"		"94.4536792424827"
+			}
+		}
+		"store_asset_mtime"		"1687826599"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Flightless"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Flightless"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"9"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1679612833"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2210800"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"4182"
+			"2"		"597"
+			"3"		"19"
+			"4"		"5350"
+			"5"		"4136"
+			"6"		"4305"
+			"7"		"1719"
+			"8"		"3968"
+			"9"		"9"
+			"10"		"4726"
+			"11"		"4191"
+			"12"		"4195"
+			"13"		"493"
+			"14"		"1775"
+			"15"		"699"
+			"16"		"7108"
+			"17"		"4747"
+			"18"		"4102"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Flightless"
+		"publisher"		"Flightless"
+		"homepage"		"https://monsterracingleague.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"2338570,2439250,2468480,2468481,2468482"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Monster Racing League"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Monster Racing League.exe"
+				"arguments"		"-steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Monster Racing League.app"
+				"arguments"		"-steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"2210801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7806402217621350530"
+					"size"		"1288123967"
+					"download"		"255234048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"apple"
+				{
+					"gid"		"1DC08C2156AA7D0A158DD67B4B1B580E"
+					"size"		"C08EF6165C5C942BBBF31DEF2F6249C6"
+					"download"		"17A095E1E7642749D73DDC236A52AD6C"
+				}
+				"beta"
+				{
+					"gid"		"6C85C9B3805F7DBFB91F9AD38D198F6F"
+					"size"		"24875680654357A042C752FDAE3C882C"
+					"download"		"1ECCBA1F3217B645ECABBE10D580EF97"
+				}
+				"development"
+				{
+					"gid"		"D5FE73A6D348CA84D7CB40356B8BD7F9"
+					"size"		"5933D106875454F1DB0FEB603450EA0E"
+					"download"		"2A66B2C9773741A8DA0D30DDD055C270"
+				}
+				"nzgdc"
+				{
+					"gid"		"4D946EC9C3FB78C3D34036DED33B1D94"
+					"size"		"8FCAFA702A9F7322EC45066DDAE6B5C1"
+					"download"		"01D737B4B31979BEF42DCC82AD996077"
+				}
+				"previous"
+				{
+					"gid"		"E8C47CFB9B02D528DABD965DFBDAF5DB"
+					"size"		"5C82869036388EFE04AB8895A90026FC"
+					"download"		"088A2C5C8171C464B4883E6D72FE7CD1"
+				}
+			}
+		}
+		"2210802"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5105829937038866239"
+					"size"		"1428053042"
+					"download"		"287186448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"apple"
+				{
+					"gid"		"98CC4C7CC03D63726DCDA9381EE1AC6D"
+					"size"		"AF0609D8504A6E00C1560D3F02CCA059"
+					"download"		"6862D6BD4C819762AF9BA32B5AC00B86"
+				}
+				"beta"
+				{
+					"gid"		"AE7BF26597CB8F837EF087DD0A034D04"
+					"size"		"3873508B9D0B0312F9C914F1BB2D4967"
+					"download"		"64BFA1DB6B06FA9668DE36DCD327D524"
+				}
+				"development"
+				{
+					"gid"		"EEE31C1864074535D997562020344565"
+					"size"		"894089CB9C3F73897343A2764E421FAC"
+					"download"		"2A8D9DEBD304177BD3D3976518B292C2"
+				}
+				"nzgdc"
+				{
+					"gid"		"CB9FF2276EC41B559C1A87C857A8DFD5"
+					"size"		"8D0FC9B6C8DCD27284262F99B6A0A66B"
+					"download"		"7817CA632C1166482E97F220EAF3DE9C"
+				}
+				"previous"
+				{
+					"gid"		"444C6E5CB7E48C5C29094B36A5B8870D"
+					"size"		"F0FA96913DC309470EB5DCD7A63A0735"
+					"download"		"79E712C5AE8BCFA67CDADA713E15C396"
+				}
+			}
+		}
+		"2210803"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"340286673858763868"
+					"size"		"2"
+					"download"		"48"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"apple"
+				{
+					"gid"		"C34C383AA68568E734E2AD968FC1DA40"
+					"size"		"6E23EB5D5E324111470F068D35B487AD"
+					"download"		"B274339313D4D907C70DD8F7983A4ECB"
+				}
+				"beta"
+				{
+					"gid"		"CBC5BD14CAF14BCBFDAEC8C336BCD685"
+					"size"		"4BE7A5115BBE12DFBD89DAC481A8C72E"
+					"download"		"A2903FED0F197CF7AD1FF365F9B675E6"
+				}
+				"development"
+				{
+					"gid"		"6004F716AA6DFB96D5FA2ABDD4E775C4"
+					"size"		"25EDDA0A6693F26533E8C619990BD8FC"
+					"download"		"C01B6838E43464AAEE20683B56390EF5"
+				}
+				"nzgdc"
+				{
+					"gid"		"A769A47DA3A7231FA5631EC8C0B2E2E5"
+					"size"		"D6C79EB82942CE3824891E26527283BD"
+					"download"		"73A7A85DF66DFF998C304C9350C8193B"
+				}
+				"previous"
+				{
+					"gid"		"17FD18C871719BC92D8C63F2D872E6A6"
+					"size"		"1E4949D4826F531686EDF878FE48C701"
+					"download"		"75247A23FF8C10C4DA131D9930F2DCD7"
+				}
+			}
+		}
+		"2210804"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"580909532365091502"
+					"size"		"2"
+					"download"		"48"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"apple"
+				{
+					"gid"		"D5BED1B529D3B8BE68F8FECE860E092C"
+					"size"		"6E23EB5D5E324111470F068D35B487AD"
+					"download"		"B274339313D4D907C70DD8F7983A4ECB"
+				}
+				"beta"
+				{
+					"gid"		"4CE7A1A2BC8CF30CDC1EB2BE385EECF4"
+					"size"		"4BE7A5115BBE12DFBD89DAC481A8C72E"
+					"download"		"A2903FED0F197CF7AD1FF365F9B675E6"
+				}
+				"development"
+				{
+					"gid"		"95175E8E79DE6F22AECB2F68CEC18E75"
+					"size"		"25EDDA0A6693F26533E8C619990BD8FC"
+					"download"		"C01B6838E43464AAEE20683B56390EF5"
+				}
+				"nzgdc"
+				{
+					"gid"		"5ABFE2D3FD7B6DEC2F319B3946E04A4D"
+					"size"		"D6C79EB82942CE3824891E26527283BD"
+					"download"		"73A7A85DF66DFF998C304C9350C8193B"
+				}
+				"previous"
+				{
+					"gid"		"F82C944A29A531163002A216BA6086B3"
+					"size"		"1E4949D4826F531686EDF878FE48C701"
+					"download"		"75247A23FF8C10C4DA131D9930F2DCD7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12243253"
+				"timeupdated"		"1695334522"
+			}
+			"apple"
+			{
+				"buildid"		"12243253"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695340609"
+			}
+			"beta"
+			{
+				"buildid"		"12243253"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695340619"
+			}
+			"development"
+			{
+				"buildid"		"12243253"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695275296"
+			}
+			"nzgdc"
+			{
+				"buildid"		"12139054"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694156989"
+			}
+			"previous"
+			{
+				"buildid"		"11970747"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695332460"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"Main Menu"
+					"#status_party"		"In Party Lobby"
+					"#status_waitingformatch"		"Waiting for match"
+					"#status_match"		"%match_name% | Race: %race_current%/%race_count%"
+				}
+			}
+		}
+	}
+}
