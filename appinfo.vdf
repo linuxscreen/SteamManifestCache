@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"1973360"
+	"common"
+	{
+		"name"		"ThanksTaking"
+		"type"		"Game"
+		"icon"		"57096bf20ee716a295c4198eb9004a8b5dc13cc5"
+		"clienttga"		"a8cf292aac2ea381f206ecd5fff57ed308d04566"
+		"linuxclienticon"		"9d6f1c4589545d980fc89d909a820aa56d9d7577"
+		"clienticns"		"14854ccfea688a7dc1955b4a9cad79bbd7133d08"
+		"clienticon"		"589bc45295886b4ea21a399db19fb863ce4e2fae"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.69767441860466"
+				"height_pct"		"76.21705058180953"
+			}
+		}
+		"store_asset_mtime"		"1661438407"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wishbone Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wishbone Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1661441520"
+		"community_hub_visible"		"1"
+		"gameid"		"1973360"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4777"
+			"1"		"1646"
+			"2"		"4158"
+			"3"		"6506"
+			"4"		"1773"
+			"5"		"4747"
+			"6"		"4191"
+			"7"		"19"
+			"8"		"1697"
+			"9"		"597"
+			"10"		"4136"
+			"11"		"4305"
+			"12"		"4252"
+			"13"		"1684"
+			"14"		"1687"
+			"15"		"1708"
+			"16"		"13190"
+			"17"		"3993"
+			"18"		"4182"
+			"19"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Wishbone Games"
+		"publisher"		"Wishbone Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ThanksTaking"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Steam_ThanksTaking_Windows/ThanksTaking.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Steam_ThanksTaking_Mac.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1973361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4878322541253501790"
+					"size"		"1664498326"
+					"download"		"312468688"
+				}
+			}
+		}
+		"1973362"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5690419382191944876"
+					"size"		"1687270771"
+					"download"		"319100544"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9387573"
+				"timeupdated"		"1661441048"
+			}
+		}
+	}
+}
