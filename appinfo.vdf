@@ -1,0 +1,135 @@
+"appinfo"
+{
+	"appid"		"1972520"
+	"common"
+	{
+		"name"		"Hexane Playtest"
+		"type"		"Beta"
+		"parent"		"1871440"
+		"releasestate"		"released"
+		"icon"		"387d9e5754ef1856fcf524e733fbc49e53df2e8f"
+		"clienticon"		"a558e76368300b997edd17ef97e8d2e58d9ea178"
+		"clienttga"		"4bcea215f331fa2d98868a1a0bf561563cdff13e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.933125994149876"
+				"height_pct"		"53.037782700454216"
+			}
+		}
+		"store_asset_mtime"		"1654157555"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1654193275"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1972520"
+		"exfgls"		"1"
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"betaforappid"		"1871440"
+		"playtest_type"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hexane Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hexane.exe"
+			}
+			"1"
+			{
+				"executable"		"RESET_BINDS.bat"
+				"type"		"option1"
+				"description_loc"
+				{
+					"english"		"Reset Key Binds (Fixes any input issues)"
+				}
+				"description"		"Reset Key Binds (Fixes any input issues)"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1972521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"115544750022034622"
+					"size"		"3293553470"
+					"download"		"3032018912"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11839605"
+				"timeupdated"		"1690904940"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#playingsingleplayer"		"Singleplayer - %map%"
+					"#playingmultiplayer"		"Multiplayer - %lobby% - %map%"
+				}
+			}
+		}
+	}
+}
