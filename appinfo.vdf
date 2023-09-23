@@ -1,0 +1,159 @@
+"appinfo"
+{
+	"appid"		"2537250"
+	"common"
+	{
+		"name"		"Wizard Heist Demo"
+		"type"		"Demo"
+		"parent"		"2521920"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"b498776562be5b98eb19d3969b63fe737179c96e"
+		"clienttga"		"539f3ac77fd60f7de1b2e103f1b733553cb70b61"
+		"linuxclienticon"		"75b1ff6bec67c701ffeb0d76be7a67f154ec07eb"
+		"clienticns"		"b498776562be5b98eb19d3969b63fe737179c96e"
+		"icon"		"03c392f00b38b7c1795cea0c8acff0afa480196c"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1690552792"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Luminous Wolf"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Luminous Wolf"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1690915214"
+		"gameid"		"2537250"
+	}
+	"extended"
+	{
+		"developer"		"Luminous Wolf"
+		"publisher"		"Luminous Wolf"
+	}
+	"config"
+	{
+		"installdir"		"Wizard Heist Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wizard Heist.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Wizard Heist Demo - Mac.app\\Contents\\MacOS\\Wizard Heist Demo - Mac"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Wizard Heist.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2537252"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3345792117705798563"
+					"size"		"838944209"
+					"download"		"208159088"
+				}
+			}
+		}
+		"2537253"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4828513192598704812"
+					"size"		"836941836"
+					"download"		"208391696"
+				}
+			}
+		}
+		"2537254"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2882738351305908005"
+					"size"		"838479444"
+					"download"		"208981968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11832854"
+				"timeupdated"		"1690842190"
+			}
+		}
+	}
+}
