@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"1342370"
+	"common"
+	{
+		"name"		"Core Defense Demo"
+		"type"		"Demo"
+		"parent"		"1203360"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"fa093293adcee3354ba1dc298aa4a2b89a71b1ec"
+		"clienttga"		"6410d803aa1e71ff46409d54a45d0c496a049c8f"
+		"icon"		"e2ee18568a43003e3f6ec471cf9e41734421a77c"
+		"clienticns"		"0674095668444033a449ceb9221a5fd177423c81"
+		"linuxclienticon"		"5a2321f7e088ccd3b28601cd2ce654de351614dc"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1591265427"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ehmprah"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ehmprah"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1591255299"
+		"gameid"		"1342370"
+	}
+	"extended"
+	{
+		"demoofappid"		"1203360"
+		"developer"		"ehmprah"
+		"publisher"		"ehmprah"
+		"homepage"		"https://coredefense.ehmprah.com"
+	}
+	"config"
+	{
+		"installdir"		"Core Defense Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Core Defense.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"core-defense"
+				"arguments"		"--in-process-gpu --no-sandbox"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Core Defense.app/Contents/MacOS/Core Defense"
+				"arguments"		"--in-process-gpu"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1342371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1582182511343340191"
+					"size"		"202409763"
+					"download"		"76514592"
+				}
+			}
+		}
+		"1342372"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5162045105701507747"
+					"size"		"211323273"
+					"download"		"77292992"
+				}
+			}
+		}
+		"1342373"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"333666301785912853"
+					"size"		"229078201"
+					"download"		"78398448"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,russian,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8007885"
+				"timeupdated"		"1641990121"
+			}
+		}
+	}
+}
