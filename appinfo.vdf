@@ -1,0 +1,159 @@
+"appinfo"
+{
+	"appid"		"1683930"
+	"common"
+	{
+		"name"		"Rollers of the Realm Demo"
+		"type"		"Demo"
+		"parent"		"262470"
+		"releasestate"		"released"
+		"clienticon"		"db17379372519de300c993fc429d80f28eb1cd88"
+		"clienttga"		"42f7d09b33230e939c61f8676275bffa004b51a7"
+		"icon"		"f1b96477fc322a779f5979ddfbcd7d95d8c57fe7"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1625184902"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Phantom Compass"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Phantom Compass"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625843591"
+		"gameid"		"1683930"
+	}
+	"extended"
+	{
+		"demoofappid"		"262470"
+		"developer"		"Phantom Compass"
+		"publisher"		"Phantom Compass"
+	}
+	"config"
+	{
+		"installdir"		"Rollers of the Realm Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"rollers.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"1683931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8671643817127314624"
+					"size"		"745900871"
+					"download"		"210495488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"6E1A12FA49107C6AEB4C5B2340CAAA65"
+					"size"		"080A85BD3434F342BA571CE763A3E06F"
+					"download"		"1BE04518B9008E3F2D8B746F7339AEFD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10541232"
+				"timeupdated"		"1676999903"
+			}
+			"internal"
+			{
+				"buildid"		"10541232"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676305929"
+			}
+		}
+	}
+}
