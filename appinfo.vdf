@@ -1,0 +1,192 @@
+"appinfo"
+{
+	"appid"		"1974610"
+	"common"
+	{
+		"name"		"Panzer Arena: Prologue"
+		"type"		"Game"
+		"icon"		"a86cb929e4bf17754aa5bfe09e9ea69a4b470e9f"
+		"clienttga"		"93aea3564cb287d8cd0b6beda265f57e09ec385e"
+		"clienticon"		"f23a155724aed7726ab9faad741de802e9e69733"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.674418604651166"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1650315656"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Osman Tsjardiwal"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Osman Tsjardiwal"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"9"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1663323574"
+		"community_hub_visible"		"1"
+		"gameid"		"1974610"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5547"
+			"1"		"3814"
+			"2"		"4036"
+			"3"		"1775"
+			"4"		"3878"
+			"5"		"1774"
+			"6"		"5055"
+			"7"		"4191"
+			"8"		"1697"
+			"9"		"7481"
+			"10"		"5711"
+			"11"		"11104"
+			"12"		"13276"
+			"13"		"19"
+			"14"		"4168"
+			"15"		"3993"
+			"16"		"3859"
+			"17"		"113"
+			"18"		"701"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Osman Tsjardiwal"
+		"publisher"		"Osman Tsjardiwal"
+		"homepage"		"https://lodzero.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Panzer Arena Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Panzer.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1974611"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6761518186455652870"
+					"size"		"691758068"
+					"download"		"214471712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"947D3974BF3DEDB80F32A2266B82A8C2"
+					"size"		"6C2F9B481E95CEE0F6455F6AB8FD0695"
+					"download"		"1D206A0A2741437B49B4913FBC3EC111"
+				}
+				"test"
+				{
+					"gid"		"76704F9416078455D73BC0A910EE777D"
+					"size"		"000E05F3A3DE5C98CE42345A3F3FA6CE"
+					"download"		"56BF2B76BF92723CD409BA9947F026DE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9738615"
+				"timeupdated"		"1666027493"
+			}
+			"experimental"
+			{
+				"buildid"		"11747446"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689850785"
+			}
+			"test"
+			{
+				"buildid"		"9738615"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666027675"
+			}
+		}
+	}
+}
