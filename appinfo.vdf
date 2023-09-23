@@ -1,0 +1,157 @@
+"appinfo"
+{
+	"appid"		"1720910"
+	"common"
+	{
+		"name"		"TOCOViX Demo"
+		"type"		"Demo"
+		"parent"		"1711990"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"8e7d5873083bba5bc80a9d4d876e86e4f061e88d"
+		"clienttga"		"f69284ef66d88a59ae8a01ef45cbced8092e02a1"
+		"icon"		"c463b314e8b4bfc6c23c821bc84180e3da804479"
+		"clienticns"		"88f3b557345f567304a667bfa57f1420951fc09b"
+		"logo"		"c4acfa87c7f49fb7a386152e22b6ae7770efc23a"
+		"logo_small"		"c4acfa87c7f49fb7a386152e22b6ae7770efc23a_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1628675509"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Massimo Nigra"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Massimo Nigra"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628763059"
+		"gameid"		"1720910"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1711990"
+		"developer"		"Massimo Nigra"
+		"publisher"		"Massimo Nigra"
+	}
+	"config"
+	{
+		"installdir"		"TOCOViX Demo"
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"8"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Windows\\TOCOViX Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"MacOS\\TOCOViX Demo.app\\Contents\\MacOS\\TOCOViX Demo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,italian"
+		"1720911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5518719695361685034"
+					"size"		"89103056"
+					"download"		"41586592"
+				}
+			}
+		}
+		"1720912"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6643664353821056333"
+					"size"		"98564976"
+					"download"		"42827168"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7184180"
+				"timeupdated"		"1628844567"
+			}
+		}
+	}
+}
