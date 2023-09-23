@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"1992330"
+	"common"
+	{
+		"name"		"Potion Permit Demo"
+		"type"		"Demo"
+		"parent"		"1337760"
+		"clienticon"		"638b15e76ce9131b66073b3b61b012f5d0c615e9"
+		"clienttga"		"d807b0b3edddf35c7288ee6a9662ca1e6ea2908d"
+		"icon"		"09e8280dd43ba892b854986aca03f6f68c7d2a56"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664236800"
+			"tested_build_id"		"8967089"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"81.39534883720931"
+				"height_pct"		"85.71598195203039"
+			}
+		}
+		"store_asset_mtime"		"1653559622"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MassHive Media"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" PQube "
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PQube"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1655137411"
+		"gameid"		"1992330"
+	}
+	"extended"
+	{
+		"demoofappid"		"1337760"
+		"developer"		"MassHive Media"
+		"publisher"		" PQube "
+		"homepage"		"https://pqube.co.uk/potion-permit/"
+	}
+	"config"
+	{
+		"installdir"		"Potion Permit Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Potion Permit.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Win 64"
+				}
+				"description"		"Win 64"
+			}
+		}
+	}
+	"depots"
+	{
+		"1992331"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7341445048818097557"
+					"size"		"908624883"
+					"download"		"174103760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"9775A32D07D3D1A549121E2B7F144220"
+					"size"		"12CC2556A1AFD2623802F12A642AB541"
+					"download"		"72C632B25F07E7DB769C27263D7D0E67"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8967089"
+				"timeupdated"		"1655657072"
+			}
+			"test"
+			{
+				"buildid"		"9590875"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664186286"
+			}
+		}
+	}
+}
