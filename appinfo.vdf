@@ -1,0 +1,135 @@
+"appinfo"
+{
+	"appid"		"1721660"
+	"common"
+	{
+		"name"		"Born Race Demo"
+		"type"		"Demo"
+		"parent"		"1447330"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"22bac4e5397bf628e74f7f71a2ac7cdab8f802e0"
+		"clienticon"		"0b6133a61a42e355587e2a2c8076dc662f676884"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1628854481"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fabiano Naspolini"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fabiano Naspolini"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629142728"
+		"gameid"		"1721660"
+	}
+	"extended"
+	{
+		"demoofappid"		"1447330"
+		"developer"		"Fabiano Naspolini"
+		"publisher"		"Fabiano Naspolini"
+	}
+	"config"
+	{
+		"installdir"		"Born Race Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bornracedemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1721661"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6777277333657947431"
+					"size"		"198249036"
+					"download"		"98548416"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7174862"
+				"timeupdated"		"1628711133"
+			}
+		}
+	}
+}
