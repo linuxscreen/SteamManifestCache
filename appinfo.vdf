@@ -1,0 +1,241 @@
+"appinfo"
+{
+	"appid"		"1755920"
+	"common"
+	{
+		"name"		"Infinite Lagrange"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"7f41371342335ca316f0577c782aae2efa068ae1"
+		"clienttga"		"ca9e3dcb415714895237c6707433eddf28cc23a3"
+		"icon"		"e835c283805cf5dff3a36be31d81a27cea764220"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"a9b1aa5d5952e33e004d2c2196cb78837345f9cc"
+		"logo_small"		"a9b1aa5d5952e33e004d2c2196cb78837345f9cc_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1755920_eula_1"
+				"name"		"Infinite Lagrange EULA"
+				"url"		"https://store.steampowered.com//eula/1755920_eula_1"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644451200"
+			"tested_build_id"		"7355324"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.67441860465115"
+				"height_pct"		"28.342436475896463"
+			}
+		}
+		"store_asset_mtime"		"1632304308"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NetEase Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NetEase Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"29"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_35"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1633658400"
+		"community_hub_visible"		"1"
+		"gameid"		"1755920"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"128"
+			"2"		"599"
+			"3"		"1755"
+			"4"		"4191"
+			"5"		"7332"
+			"6"		"3859"
+			"7"		"16598"
+			"8"		"1718"
+			"9"		"113"
+		}
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"developer"		"NetEase Games"
+		"publisher"		"NetEase Games"
+		"homepage"		"https://www.infinitelagrange.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Infinite Lagrange"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launch.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1755921"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7478830173600065466"
+					"size"		"4043423522"
+					"download"		"3211722912"
+				}
+			}
+		}
+		"1755922"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5047957319756082772"
+					"size"		"4043423522"
+					"download"		"3212758512"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12255758"
+				"timeupdated"		"1695379405"
+			}
+		}
+	}
+}
