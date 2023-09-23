@@ -1,0 +1,283 @@
+"appinfo"
+{
+	"appid"		"720380"
+	"common"
+	{
+		"name"		"Ancestors Legacy Free Peasant Edition"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"cb470b6f38c4d2e944dac382a491c405bf116dfc"
+		"logo_small"		"cb470b6f38c4d2e944dac382a491c405bf116dfc_thumb"
+		"icon"		"4113bb6818549c62de1581337a7bf8bddcb4f1e7"
+		"clienticon"		"4e9ce28386b57cf2cca17f1e7617c19ae6532f42"
+		"clienttga"		"1ae33b544205a2d5dd6632c2da02b4e2bfd60882"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"czech"		"1"
+			"brazilian"		"1"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"98.26401452785889"
+			}
+		}
+		"store_asset_mtime"		"1673964318"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Destructive Creations"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fulqrum Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Fulqrum"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1517936460"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"720380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1676"
+			"2"		"1708"
+			"3"		"1756"
+			"4"		"3987"
+			"5"		"4667"
+			"6"		"3859"
+			"7"		"4161"
+			"8"		"4166"
+			"9"		"4345"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Destructive Creations"
+		"publisher"		"Fulqrum Publishing"
+		"gamemanualurl"		"https://store.steampowered.com/manual/720380/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Ancestors Legacy Peasant Edition"
+		"steamcontrollertemplateindex"		"4"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Anc\\Binaries\\Win64\\Anc-Win64-Shipping.exe"
+				"arguments"		"-nothreadtimeout"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"720381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5596522534771951452"
+					"size"		"10671382199"
+					"download"		"4935995504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internaltesting"
+				{
+					"gid"		"05DD07A0B5AA383C5BD76BBCB2847957"
+					"size"		"46346739CCFDABD7721B6A482F789601"
+					"download"		"AF1087815E35580EF204345F6A6C48C1"
+				}
+				"very_closed_beta"
+				{
+					"gid"		"0A0D7F1B19071BB41B0F0A0C923FA29B"
+					"size"		"33F22826F95F12195A872662E07B9D56"
+					"download"		"CB2A1F53C008D682F38A51FBF0015202"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6285974"
+				"timeupdated"		"1615311917"
+			}
+			"internaltesting"
+			{
+				"buildid"		"6285974"
+				"pwdrequired"		"1"
+				"timeupdated"		"1614156876"
+			}
+			"very_closed_beta"
+			{
+				"buildid"		"2802529"
+				"pwdrequired"		"1"
+				"timeupdated"		"1527160543"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"1000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"AncestorsLegacyPeasantEdition/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
