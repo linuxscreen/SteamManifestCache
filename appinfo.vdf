@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"1234600"
+	"common"
+	{
+		"name"		"Hollow Remnant"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"logo"		"dc6a1c36d96ce38b07d6824b99827283c849164c"
+		"logo_small"		"dc6a1c36d96ce38b07d6824b99827283c849164c_thumb"
+		"icon"		"bbb295dc4e80aa61e5d177e82497fe36e20081e3"
+		"clienticon"		"02ee181c03db47f51fd1e9aa786984d7954b4bef"
+		"clienttga"		"62059e63d07eb2f5fad90240f4b54635c34815df"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658188800"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Hollow Remnant"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"17.987047615024807"
+				"height_pct"		"35.72999947228159"
+			}
+		}
+		"store_asset_mtime"		"1580249149"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Trinity Experiences"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Trinity Experiences"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1581716220"
+		"community_hub_visible"		"1"
+		"gameid"		"1234600"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"122"
+			"3"		"21978"
+			"4"		"1663"
+			"5"		"1684"
+			"6"		"1662"
+			"7"		"1667"
+			"8"		"1720"
+			"9"		"1774"
+			"10"		"4182"
+			"11"		"3978"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Trinity Experiences"
+		"publisher"		"Trinity Experiences"
+		"homepage"		"https://trinityexperiences.weebly.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hollow Remnant"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hollow Remnant.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1234601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5401667916576450600"
+					"size"		"7293644009"
+					"download"		"3189754496"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5077523"
+				"timeupdated"		"1590476752"
+			}
+		}
+	}
+}
