@@ -1,0 +1,126 @@
+"appinfo"
+{
+	"appid"		"35110"
+	"common"
+	{
+		"name"		"Just Cause 2 Demo"
+		"logo"		"26c2c027f835e968d78b212b4cc6438f692b027a"
+		"logo_small"		"26c2c027f835e968d78b212b4cc6438f692b027a_thumb"
+		"clienticon"		"6d5e4276ef856dac7d3e42827668bf8820dd75e2"
+		"clienttga"		"f526bff0db1bcc487229f4238b02426b9c8b6be9"
+		"icon"		"73582e392a2b9413fe93b011665a5b9cf26ff175"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"35110_eula_1"
+				"name"		"Just Cause 2 Demo EULA"
+				"url"		"http://store.steampowered.com//eula/35110_eula_1"
+			}
+		}
+		"parent"		"8190"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Avalanche"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SQUARE ENIX, Eidos Interactive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1267722000"
+		"gameid"		"35110"
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"demoofappid"		"8190"
+		"developer"		"Avalanche"
+		"g4w_gdf"		"JustCause2.exe"
+		"g4w_type"		"2"
+		"gamedir"		"Just Cause 2 Demo"
+		"homepage"		"http://www.justcause.com/"
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"languages"		"english,german,french,spanish,italian"
+		"launcheula"		"http://storefront.steampowered.com/eula_testapp8190/"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"35111"
+		"retailautostart"		"1"
+		"sdk_notownedbydefault"		"1"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"SQUARE ENIX, Eidos Interactive"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Just Cause 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"JustCause2.exe"
+			}
+		}
+		"checkguid"		"JustCause2.exe"
+	}
+	"depots"
+	{
+		"35111"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6484554665962162225"
+					"size"		"1349717554"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,spanish,italian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13181"
+			}
+		}
+	}
+}
