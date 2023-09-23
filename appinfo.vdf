@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"1263470"
+	"common"
+	{
+		"name"		"ATRI -My Dear Moments- Demo"
+		"type"		"Demo"
+		"parent"		"1230140"
+		"releasestate"		"released"
+		"clienttga"		"8a57ac00ba8deba8b66986c81975b8ae42a2b4be"
+		"clienticon"		"8995027aa69a31ec7e49b35ceed052e0a95f7997"
+		"icon"		"40e9052985afac2661d5391a8a74ff1e2d837fdf"
+		"logo"		"2fae31c125a7fd9227a944b5b5436915b23e089a"
+		"logo_small"		"2fae31c125a7fd9227a944b5b5436915b23e089a_thumb"
+		"name_localized"
+		{
+			"japanese"		"ATRI -My Dear Moments- 体験版"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.49941656942823"
+				"height_pct"		"38.221325100926144"
+			}
+		}
+		"store_asset_mtime"		"1583485610"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Frontwing"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"枕"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"ANIPLEX.EXE"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1588321257"
+		"gameid"		"1263470"
+	}
+	"extended"
+	{
+		"demoofappid"		"1230140"
+		"developer"		"Frontwing"
+		"publisher"		"ANIPLEX.EXE"
+		"homepage"		"https://atri-mdm.com/"
+	}
+	"config"
+	{
+		"installdir"		"ATRI -My Dear Moments- Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ATRI -My Dear Moments- Trial.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1263471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1499138915508039011"
+					"size"		"4095024086"
+					"download"		"3501110656"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4963356"
+				"timeupdated"		"1588220610"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"200"
+	}
+}
