@@ -1,0 +1,109 @@
+"appinfo"
+{
+	"appid"		"213530"
+	"common"
+	{
+		"name"		"The White Laboratory Demo"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"oslist"		"windows"
+		"parent"		"235520"
+		"metacritic_name"		"The White Laboratory Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1339025317"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TAO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TAO"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1333754700"
+		"gameid"		"213530"
+		"exfgls"		"1"
+		"review_score"		"7"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"TAO"
+		"gamedir"		"ValveTestApp213530"
+		"homepage"		"http://labtd.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"demoofappid"		"235520"
+		"publisher"		"TAO"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"whitelab"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheWhiteLaboratory.exe"
+				"arguments"		""
+				"description"		""
+				"workingdir"		""
+			}
+		}
+	}
+	"depots"
+	{
+		"213531"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8900865869498446010"
+					"size"		"192388140"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3284"
+			}
+		}
+	}
+}
