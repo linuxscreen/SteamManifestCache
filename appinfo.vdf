@@ -1,0 +1,238 @@
+"appinfo"
+{
+	"appid"		"764690"
+	"common"
+	{
+		"name"		"Caveblazers Together"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"43677752a50e4421dd312eca6c27cc72e4d6481d"
+		"clienttga"		"28a7759392a8d3dbaa934de3218f91a5c0a98ef2"
+		"icon"		"89479e5e4a11a33664a5e92dd9f7aa9a7c056536"
+		"logo"		"9f197c0a5cc9cc07b00cde06ba59e36cdcc73cb9"
+		"logo_small"		"9f197c0a5cc9cc07b00cde06ba59e36cdcc73cb9_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1694044800"
+			"tested_build_id"		"9363314"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"Caveblazers Together"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1574541808"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"YellowAfterlife"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"YellowAfterlife"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1551972509"
+		"community_hub_visible"		"1"
+		"gameid"		"764690"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"requiredappid"		"452060"
+		"isfreeapp"		"1"
+		"developer"		"YellowAfterlife"
+		"publisher"		"YellowAfterlife"
+	}
+	"config"
+	{
+		"installdir"		"Caveblazers Together"
+		"usemms"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Caveblazers.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"764691"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2678444985900463325"
+					"size"		"169155562"
+					"download"		"120225056"
+				}
+				"gms22"
+				{
+					"gid"		"412798416684586984"
+					"size"		"72234628"
+					"download"		"37358016"
+				}
+				"original-netcode"
+				{
+					"gid"		"2740498257092783757"
+					"size"		"72137604"
+					"download"		"37324256"
+				}
+				"pre-definitive"
+				{
+					"gid"		"6383728411017729943"
+					"size"		"69849879"
+					"download"		"36801216"
+				}
+				"previous"
+				{
+					"gid"		"2740498257092783757"
+					"size"		"72137604"
+					"download"		"37324256"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9363314"
+				"timeupdated"		"1661189025"
+			}
+			"gms22"
+			{
+				"buildid"		"4540490"
+				"description"		"[r65] Last build prior to migrating to GameMaker Studio 2.3"
+				"timeupdated"		"1649272581"
+			}
+			"original-netcode"
+			{
+				"buildid"		"4436502"
+				"description"		"[r63] The build prior to big netcode rewrite"
+				"timeupdated"		"1578068768"
+			}
+			"pre-definitive"
+			{
+				"buildid"		"3668181"
+				"description"		"[r57] The last build before the Caveblazers' Definitive update with new content"
+				"timeupdated"		"1576681355"
+			}
+			"previous"
+			{
+				"buildid"		"4436502"
+				"description"		"The previous, potentially slightly more stable build."
+				"timeupdated"		"1576681379"
+			}
+		}
+	}
+}
