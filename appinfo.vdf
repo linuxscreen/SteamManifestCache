@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"793150"
+	"common"
+	{
+		"name"		"Moe! Ninja Girls"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"44c99c2ddc78107863230dd190f4f997092f5580"
+		"clienticns"		"341c2586a2af654267f79c17e9c9d634937f1f10"
+		"linuxclienticon"		"341c2586a2af654267f79c17e9c9d634937f1f10"
+		"clienticon"		"ded9bf502418a92c3d8947f7840b96c3894d206e"
+		"icon"		"6d7674182d688d9b43f10fd791980fb618e3d8e8"
+		"logo"		"5eb444a40d4df285a0acc55322f42158e1d0ba18"
+		"logo_small"		"5eb444a40d4df285a0acc55322f42158e1d0ba18_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"793150_eula_0"
+				"name"		"Moe! Ninja Girls EULA"
+				"url"		"https://store.steampowered.com//eula/793150_eula_0"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"Moe! Ninja Girls"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1575442463"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NTT Solmare"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NTT Solmare"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1551229260"
+		"community_hub_visible"		"1"
+		"gameid"		"793150"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"599"
+			"2"		"4085"
+			"3"		"6650"
+			"4"		"9551"
+			"5"		"3799"
+			"6"		"12095"
+			"7"		"9130"
+			"8"		"1688"
+			"9"		"4726"
+			"10"		"1721"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"NTT Solmare"
+		"publisher"		"NTT Solmare"
+		"homepage"		"http://ninjagirls.moe/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Moe Ninja Girls"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"moeninjagirls.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"793151"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8286177789664815762"
+					"size"		"103019860"
+					"download"		"53152032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"617AAA70A53785EED65B93D4989D1E82"
+					"size"		"DB0BEF2F1068E70E29B6E166F4A7A518"
+					"download"		"F140C09BB2728FF7476B7D5CCB8620E2"
+				}
+				"partner"
+				{
+					"gid"		"55CCB715B5CC1AE209F19502C777CE49"
+					"size"		"C49B2D4EFF7A39EECE16331CA7E392BD"
+					"download"		"D53984798FE94BF96FB8947A61EDE141"
+				}
+				"regionunlock"
+				{
+					"gid"		"A6D7DA5CA02D1EE8B8D8781F1B46463D"
+					"size"		"D428CB23C5903FBD283E149D5D2121FD"
+					"download"		"B2A41AC53C991E248836719ACED61D19"
+				}
+				"testflight"
+				{
+					"gid"		"F974D98D2D5FDB372B574FA8B8465C76"
+					"size"		"CDBCB9B31E45298E256115E24F0D7180"
+					"download"		"F297801BD35A731EB1F63DD8458DE0BE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7214479"
+				"timeupdated"		"1629680200"
+			}
+			"develop"
+			{
+				"buildid"		"8285709"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646042260"
+			}
+			"partner"
+			{
+				"buildid"		"8285709"
+				"pwdrequired"		"1"
+				"timeupdated"		"1650949461"
+			}
+			"regionunlock"
+			{
+				"buildid"		"7214474"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629360501"
+			}
+			"testflight"
+			{
+				"buildid"		"7214479"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629360513"
+			}
+		}
+	}
+}
