@@ -1,0 +1,143 @@
+"appinfo"
+{
+	"appid"		"2539060"
+	"common"
+	{
+		"name"		"Pupa普帕 Demo"
+		"type"		"Demo"
+		"parent"		"2007790"
+		"icon"		"3e234ac6d6df7165493e9f855f45d7fce0b8c36d"
+		"clienticon"		"d097c4ef7e69e8819af6057d080ec1417fdc81c5"
+		"clienttga"		"fe200e38499bf984d1de5ac1fbad95bbebc905b6"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.545032729534434"
+				"height_pct"		"39.782403027436146"
+			}
+		}
+		"store_asset_mtime"		"1691121189"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BlueX Project Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BlueX Project Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1693465200"
+		"gameid"		"2539060"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"BlueX Project Studio"
+		"publisher"		"BlueX Project Studio"
+	}
+	"config"
+	{
+		"installdir"		"Pupa普帕 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Pupa Demo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"PUPA_Demo.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2539061"
+		{
+		}
+		"2539062"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5042859507438993617"
+					"size"		"590953406"
+					"download"		"425876960"
+				}
+			}
+		}
+		"2539063"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3622928007197520098"
+					"size"		"2444721184"
+					"download"		"333338736"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11898525"
+				"timeupdated"		"1691551251"
+			}
+		}
+	}
+}
