@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"208070"
+	"common"
+	{
+		"name"		"Waveform Demo"
+		"type"		"Demo"
+		"logo"		"182864a1336f4644baac33beeec8dd9065fc8cc6"
+		"logo_small"		"182864a1336f4644baac33beeec8dd9065fc8cc6_thumb"
+		"icon"		"a4637179003554caab19db1e35ca684f6137a01d"
+		"clienttga"		"d4b272b9f6e1974fac022996b1a8c968688550c0"
+		"freeondemand"		"1"
+		"clienticns"		"c48acdf534a0bccf435b3637077461b7802eae07"
+		"clienticon"		"ff9eabbcc35d8251f43074543c3d719802160a71"
+		"linuxclienticon"		"862cca0d3c959ec469433147c980ea6687a18284"
+		"oslist"		"windows,macos,linux"
+		"parent"		"204180"
+		"metacritic_name"		"Waveform Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1332261215"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Eden Industries"
+			}
+		}
+		"primary_genre"		"0"
+		"steam_release_date"		"1332261000"
+		"gameid"		"208070"
+	}
+	"extended"
+	{
+		"demoofappid"		"204180"
+		"developer"		"Eden Industries"
+		"gamedir"		"Waveform Demo"
+		"homepage"		""
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"noservers"		"1"
+		"onquitdemoshellexecute"		"steam://store/204180"
+		"order"		"1"
+		"primarycache"		"208071"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos,linux"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Waveform.exe"
+				"arguments"		"Demo"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"./Waveform"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"./Waveform"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Waveform Demo"
+	}
+	"depots"
+	{
+		"208071"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1251219179237034552"
+					"size"		"355358816"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"715435792F3DE509400621DBB0FCE6D3"
+					"size"		"F66B687EF0C63F2F554B75DA6CA71D1F"
+					"download"		"CB1C7455078793E4AF6CB9C99F6AB12C"
+				}
+			}
+		}
+		"208072"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"237604999286934042"
+					"size"		"12999112"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9DAAF58781E3DB663FED05411059DC7F"
+					"size"		"6EFDD3B77E29F033EC9A63892A9EE434"
+					"download"		"CB1C7455078793E4AF6CB9C99F6AB12C"
+				}
+			}
+		}
+		"208073"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8154343143865468096"
+					"size"		"6614602"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"1FF3E902DCA2315F606899E8434A7849"
+					"size"		"B720042E670F556AC6796C9B2B592920"
+					"download"		"CB1C7455078793E4AF6CB9C99F6AB12C"
+				}
+			}
+		}
+		"208074"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5077239184086924675"
+					"size"		"6642551"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"896AC2140226164A898E4B25D1D93454"
+					"size"		"812E92CAEC30D544A1C72A01BC9E3DDA"
+					"download"		"CB1C7455078793E4AF6CB9C99F6AB12C"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"54246"
+			}
+			"beta"
+			{
+				"buildid"		"54246"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"204180"
+		"hidecloudui"		"0"
+	}
+}
