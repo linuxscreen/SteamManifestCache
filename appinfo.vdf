@@ -1,0 +1,311 @@
+"appinfo"
+{
+	"appid"		"1575870"
+	"common"
+	{
+		"name"		"UpGun"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"abf260d7bd78f7911f060feb6304724534d807cc"
+		"clienticon"		"fd49e1d7a03319c0d94b56c5776ee5d498de1478"
+		"icon"		"8710c07d892e9068e9f33019589b4bd4d2308584"
+		"logo"		"e3139eeb793667bcfbcebf5f49bd7c7aeaa488d3"
+		"logo_small"		"e3139eeb793667bcfbcebf5f49bd7c7aeaa488d3_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1677801600"
+			"tested_build_id"		"9537378"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"49.65116279069764"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1690971924"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MaxEstLa"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Zino"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"MaxEstLa"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_47"		"1"
+			"category_18"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"french"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628841540"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1575870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1774"
+			"2"		"3859"
+			"3"		"4305"
+			"4"		"1773"
+			"5"		"1775"
+			"6"		"4747"
+			"7"		"5765"
+			"8"		"5547"
+			"9"		"3839"
+			"10"		"1663"
+			"11"		"4191"
+			"12"		"19"
+			"13"		"4252"
+			"14"		"4726"
+			"15"		"5752"
+			"16"		"4106"
+			"17"		"4168"
+			"18"		"4094"
+			"19"		"4295"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"MaxEstLa"
+		"publisher"		"MaxEstLa"
+		"homepage"		"https://www.maxestla.com/upgun/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1977800"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"UpGun"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UpGun.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1575871"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"628483057882163436"
+					"size"		"503746961"
+					"download"		"158484672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"admintest"
+				{
+					"gid"		"26EC005C39EE360DB8099AC9AC5000A2"
+					"size"		"C444FD4F9C962529964E87EBE028AB9B"
+					"download"		"89B359086D2A7A5326D9C6D9F048331D"
+				}
+				"archive_2.0.3.6"
+				{
+					"gid"		"A171876730A03B85C5A0C5F81C6C5407"
+					"size"		"96015F4F5C30A78BF9441F7878355B58"
+					"download"		"90B67C5D87D272B15CB7B71FD9F320C7"
+				}
+				"beta_private"
+				{
+					"gid"		"6DA3E86C38F7DB7D0C57964267DD644E"
+					"size"		"BC230B493D978C2E6BDA7199505AC271"
+					"download"		"B505B0F063ACAB12D309C3EF10F1641A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11871060"
+				"timeupdated"		"1691183512"
+			}
+			"admintest"
+			{
+				"buildid"		"11761373"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689976062"
+			}
+			"archive_2.0.3.6"
+			{
+				"buildid"		"10162332"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689976172"
+			}
+			"beta_private"
+			{
+				"buildid"		"11876152"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691275105"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"15"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
