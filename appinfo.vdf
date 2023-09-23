@@ -1,0 +1,131 @@
+"appinfo"
+{
+	"appid"		"1026460"
+	"common"
+	{
+		"name"		"Lossless Scaling Demo"
+		"type"		"Demo"
+		"parent"		"993090"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"9c3f426a1780541ffb02c7c4252b02cbfb9b1087"
+		"clienticon"		"2fec9b7de2981af2a4242de5bf69c11d6b24ee08"
+		"logo"		"2eba9d9d45b0f127f05691e18103040170e072b6"
+		"logo_small"		"2eba9d9d45b0f127f05691e18103040170e072b6_thumb"
+		"icon"		"41fec733878473ad9e300701b0915b0bc3aac444"
+		"osextended"		""
+		"metacritic_name"		"Lossless Scaling Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1549059630"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"THS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"THS"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1549365540"
+		"gameid"		"1026460"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"993090"
+		"developer"		"THS"
+		"publisher"		"THS"
+	}
+	"config"
+	{
+		"installdir"		"Lossless Scaling Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LosslessScaling.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"LosslessScaling.exe"
+				"arguments"		"-admin"
+				"description"		"Lossless Scaling Demo as administrator"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1026461"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2741926282860564819"
+					"size"		"1503721"
+					"download"		"952224"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7947760"
+				"timeupdated"		"1640696515"
+			}
+		}
+	}
+}
