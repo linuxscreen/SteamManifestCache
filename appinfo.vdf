@@ -1,0 +1,286 @@
+"appinfo"
+{
+	"appid"		"1193790"
+	"common"
+	{
+		"name"		"UNHERD"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"2d64cec0c5c902bc35fadbd33aa2926b13e8c81e"
+		"logo"		"065f7a9f0c374bc5f71504010f19cb9003257010"
+		"logo_small"		"065f7a9f0c374bc5f71504010f19cb9003257010_thumb"
+		"clienttga"		"6e6fcb782cf549969bca37abe40a5bbccb34e17c"
+		"clienticon"		"cc1400df1f09b8466d838c6c4cfd84640a8843ee"
+		"linuxclienticon"		"939794e7d9af1006dbf80df0e112a0567526ad6e"
+		"clienticns"		"2f2cd9ab55f4ce56f50cb775e464e585819e3ebf"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"metacritic_name"		"UNHERD"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.565927654609105"
+				"height_pct"		"78.11683685585372"
+			}
+		}
+		"store_asset_mtime"		"1612605429"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Happimal"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Happimal"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1613397360"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1193790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"9"
+			"2"		"492"
+			"3"		"4106"
+			"4"		"1625"
+			"5"		"5395"
+			"6"		"5537"
+			"7"		"4252"
+			"8"		"4166"
+			"9"		"5030"
+			"10"		"5350"
+			"11"		"1684"
+			"12"		"4057"
+			"13"		"5716"
+			"14"		"3916"
+			"15"		"1710"
+			"16"		"7250"
+			"17"		"1759"
+			"18"		"4182"
+			"19"		"1664"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Happimal"
+		"publisher"		"Happimal"
+		"homepage"		"http://happimal.com/unherd/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"UNHERD"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Unherd.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Unherd.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"4"
+			{
+				"executable"		"Unherd.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,turkish,brazilian,latam"
+		"hasdepotsindlc"		"0"
+		"1193791"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3738202357480781356"
+					"size"		"575525870"
+					"download"		"401665408"
+				}
+			}
+		}
+		"1193792"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1821824090380874918"
+					"size"		"638225990"
+					"download"		"418237328"
+				}
+			}
+		}
+		"1193793"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2809888804104566300"
+					"size"		"685353715"
+					"download"		"427282912"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6405709"
+				"timeupdated"		"1616118288"
+			}
+		}
+	}
+}
