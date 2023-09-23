@@ -1,0 +1,132 @@
+"appinfo"
+{
+	"appid"		"2225310"
+	"common"
+	{
+		"name"		"Color Escape: VR Coop Demo"
+		"type"		"Demo"
+		"parent"		"1634130"
+		"releasestate"		"released"
+		"icon"		"36dc50ab413d52f4d048503141c1585c22992be7"
+		"clienticon"		"6378c5b00295737b2e6ba35705952c688d711293"
+		"clienttga"		"f0f626b1a24938bce5304fd9545b115ba16422f7"
+		"openvrsupport"		"1"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"39.98136095595956"
+				"height_pct"		"95.0661016638981"
+			}
+		}
+		"store_asset_mtime"		"1668727563"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"La Compagnie des Projets Secondaires"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"La Compagnie des Projets Secondaires"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1672473600"
+		"gameid"		"2225310"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1634130"
+		"developer"		"La Compagnie des Projets Secondaires"
+		"publisher"		"La Compagnie des Projets Secondaires"
+		"homepage"		"https://www.doublesept.fr"
+	}
+	"config"
+	{
+		"installdir"		"Color Escape VR Coop Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Color Escape - Demo.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2225311"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5493964472203133848"
+					"size"		"347429088"
+					"download"		"160306736"
+				}
+			}
+		}
+		"2225312"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9975885"
+				"timeupdated"		"1668886800"
+			}
+		}
+	}
+}
