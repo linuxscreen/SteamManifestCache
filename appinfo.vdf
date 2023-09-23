@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"2516320"
+	"common"
+	{
+		"name"		"Whispered Promises ~ 14 Days of Love with Anna Demo"
+		"type"		"Demo"
+		"parent"		"2507840"
+		"icon"		"99e322ad84f3633c4db1868ebfbc75ee33c19fd6"
+		"clienticon"		"16701d5a68c14238e9d74a95ac244217f67652b3"
+		"clienttga"		"a678605195d181edbb47b5cbb7756493f85ff71c"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"japanese"		"おさななじみDAYS ~アンナと過ごす14日~ DEMO"
+			"tchinese"		"悄語承諾DAYS~與杏奈的同居14日~ DEMO"
+			"schinese"		"悄语承诺DAYS~与杏奈的同居14日~ DEMO"
+		}
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"4"
+			"3"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ja,zh-tw,en,zh-cn"
+			"library_logo"		"ja,zh-tw,en,zh-cn"
+		}
+		"store_asset_mtime"		"1691983999"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"OMNIS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" 072 Project"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1692755631"
+		"gameid"		"2516320"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"OMNIS"
+		"publisher"		" 072 Project"
+	}
+	"config"
+	{
+		"installdir"		"Whispered Promises ~ 14 Days of Love with Anna Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"2516321"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7948695879219978516"
+					"size"		"390455208"
+					"download"		"262540992"
+				}
+			}
+		}
+		"2516322"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5875976787320745677"
+					"size"		"407619803"
+					"download"		"270276848"
+				}
+			}
+		}
+		"2516323"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8179254601660033201"
+					"size"		"405543393"
+					"download"		"270052960"
+				}
+			}
+		}
+		"2516324"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8927949881651868663"
+					"size"		"406540964"
+					"download"		"270154032"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11951669"
+				"timeupdated"		"1692160800"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"www\\save"
+				"pattern"		"*.rpgsave"
+			}
+		}
+	}
+}
