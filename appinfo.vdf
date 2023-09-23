@@ -1,0 +1,160 @@
+"appinfo"
+{
+	"appid"		"219030"
+	"common"
+	{
+		"name"		"Ys Origin Demo"
+		"type"		"Demo"
+		"clienticon"		"ee47e58fc2f52a6d1fec543f080097ac0129297c"
+		"clienttga"		"0633d1ae59b34ec87d6f81a36db0a87b8fe965db"
+		"icon"		"e43656400874f67f8219d959923e52457d754aa7"
+		"logo"		"bccccf0670a3b306b63b881420da8e0978f94380"
+		"logo_small"		"bccccf0670a3b306b63b881420da8e0978f94380_thumb"
+		"oslist"		"windows"
+		"parent"		"207350"
+		"metacritic_name"		"Ys Origin Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"53.79957254808834"
+			}
+		}
+		"store_asset_mtime"		"1667860719"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nihon Falcom"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"XSEED Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1346961180"
+		"community_visible_stats"		"1"
+		"gameid"		"219030"
+		"review_score"		"7"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Nihon Falcom"
+		"gamedir"		"Ys Origin Demo"
+		"homepage"		"http://www.worldofys.com/yso"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"XSEED Games"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Ys Origin Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"yso_dm_win.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"config_dm.exe"
+				"type"		"config"
+			}
+		}
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"preloadonly"		"1"
+		"219031"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3691856027107396683"
+					"size"		"337388333"
+					"download"		"315576496"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2683332"
+				"timeupdated"		"1523570975"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"207350"
+	}
+}
