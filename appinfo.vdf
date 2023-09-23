@@ -1,0 +1,239 @@
+"appinfo"
+{
+	"appid"		"2446030"
+	"common"
+	{
+		"name"		"BloodDome Classic"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"clienticon"		"5eadb051133104efcfa3f36de7faf478a4c190c5"
+		"clienttga"		"6f90c39e9e354d69bb6ca77c3a7e7a341df3677f"
+		"icon"		"81d15de1ae079e139660dfc14f8b5e4947c4bcfb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"49.767873733171676"
+				"height_pct"		"98.48628192999054"
+			}
+		}
+		"store_asset_mtime"		"1687772644"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Halftone Gaming"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Halftone Gaming"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1687798968"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2446030"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1773"
+			"1"		"4637"
+			"2"		"42804"
+			"3"		"4004"
+			"4"		"1774"
+			"5"		"19"
+			"6"		"7481"
+			"7"		"597"
+			"8"		"5154"
+			"9"		"4106"
+			"10"		"1716"
+			"11"		"5547"
+			"12"		"3959"
+			"13"		"4255"
+			"14"		"4758"
+			"15"		"3871"
+			"16"		"4094"
+			"17"		"3964"
+			"18"		"4791"
+			"19"		"7743"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Halftone Gaming"
+		"publisher"		"Halftone Gaming"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BloodDome Classic"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BloodDomeClassic.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"BloodDomeClassic.app\\Contents\\MacOS\\BloodDomeClassic"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2446031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8199799112156793260"
+					"size"		"212885250"
+					"download"		"146237184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatesting"
+				{
+					"gid"		"65D0F244963FD730A9C8BF0DF517656E"
+					"size"		"37BF8F31E0B6D99587F3000661016D6D"
+					"download"		"B07BDD7CA9E901F3FA13D6A597ED0B7B"
+				}
+			}
+		}
+		"2446032"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2481598367936173986"
+					"size"		"236625509"
+					"download"		"153285968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatesting"
+				{
+					"gid"		"E8D6675C479FD7F566B25374BED80BF1"
+					"size"		"C29782DDEEC42C56D39F742100745A82"
+					"download"		"F03E121722E93B3666EF0AB872B91061"
+				}
+			}
+		}
+		"2446033"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11944444"
+				"timeupdated"		"1693568313"
+			}
+			"betatesting"
+			{
+				"buildid"		"11944444"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692090516"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"HalftoneGaming/BloodDomeClassic/{64BitSteamID}"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
