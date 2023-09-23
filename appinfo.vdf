@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"355660"
+	"common"
+	{
+		"name"		"RIDE: Game Demo"
+		"type"		"Demo"
+		"parent"		"345660"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"045de64a9df5365024c095151e1ae8388fcb8777"
+		"logo_small"		"045de64a9df5365024c095151e1ae8388fcb8777_thumb"
+		"icon"		"78f1068f564c035e618dd9be92bfe5be1fafe8d5"
+		"clienttga"		"8008f771aae646fef217af288a48b64a2022e2e1"
+		"clienticon"		"443a75f037334073706d6e2c3b151dacbeb06747"
+		"metacritic_name"		"Ride: Game Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"32.14702450408396"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1576506730"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Milestone S.r.l."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Milestone S.r.l."
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+			"1"		"28"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1426671757"
+		"gameid"		"355660"
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"demoofappid"		"345660"
+		"developer"		"Milestone S.r.l."
+		"publisher"		"Milestone S.r.l."
+		"homepage"		"http://ridevideogame.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Ride Game Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RideX64.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Ride.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"355661"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1092093981015490049"
+					"size"		"5357290009"
+					"download"		"4307660768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"E0F3DEC175593C07316F3AFEAD6656DF"
+					"size"		"29C17324536309F229719AF005297ECD"
+					"download"		"4A8FDECBCF0524C339DB9DEBCE457343"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"557552"
+			}
+			"testbranch"
+			{
+				"buildid"		"557552"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20971520"
+		"maxnumfiles"		"250"
+	}
+}
