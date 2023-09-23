@@ -1,0 +1,405 @@
+"appinfo"
+{
+	"appid"		"1557040"
+	"common"
+	{
+		"name"		"Terraformers: First steps on Mars"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"91cf2bccee44fecec24af472521180316fb71812"
+		"logo_small"		"91cf2bccee44fecec24af472521180316fb71812_thumb"
+		"icon"		"546073e7ac21a1921a1bf3c325bc398fb292457b"
+		"clienttga"		"0e37aa13d350f4a5593351afa7afe9e1d377385d"
+		"clienticon"		"bebb1d345a5fdf87e8d1b6f86d494c227bf1ddcf"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"schinese"		"焕然异星：序章 "
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.46239400024534"
+				"height_pct"		"98.61111111111111"
+			}
+		}
+		"store_asset_mtime"		"1678377846"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Asteroid Lab"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Goblinz Publishing"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"IndieArk"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Goblinz Publishing"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"IndieArk"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1635005640"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1557040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"599"
+			"2"		"220585"
+			"3"		"8945"
+			"4"		"3942"
+			"5"		"4166"
+			"6"		"1670"
+			"7"		"16598"
+			"8"		"4328"
+			"9"		"6702"
+			"10"		"1741"
+			"11"		"4295"
+			"12"		"4182"
+			"13"		"12472"
+			"14"		"17389"
+			"15"		"30358"
+			"16"		"5350"
+			"17"		"4252"
+			"18"		"3959"
+			"19"		"1654"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Asteroid Lab"
+		"publisher"		"Goblinz Publishing"
+		"homepage"		"https://terraformers-game.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1795320"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Terraformers_Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Terraformers First Steps on Mars.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"Terraformers First Steps on Mars.app/Contents/MacOS/Terraformers First Steps on Mars"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"terraformers_first_steps_on_mars.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,german,schinese"
+		"1557041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8572852694405914136"
+					"size"		"2180904089"
+					"download"		"751108448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"8CBF91AB5C6F4DB4F92BAB7A9A805229"
+					"size"		"76E77EF95F775C07204B58C73081ED39"
+					"download"		"110CAD296C8951612CB7460E2EAA263B"
+				}
+				"test"
+				{
+					"gid"		"9BCE5039EF11E342E0491DF3F9DE50FE"
+					"size"		"534E9AEB079C1F88A011EFF7522BCA83"
+					"download"		"C33FE6C97EC38CDC49777FEA776087D3"
+				}
+			}
+		}
+		"1557042"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"995221242132730753"
+					"size"		"2230158528"
+					"download"		"761979664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"35C83AA4225A5B405C33535293D06472"
+					"size"		"EFF47803C8CC67FD4A5668A4A181D6D5"
+					"download"		"E765AA63A9A07E189006B6DAA3028D4F"
+				}
+				"test"
+				{
+					"gid"		"0B4BE71FA3F15254392AE81AA03E1028"
+					"size"		"445C20868E16F1C491D18324C00D9169"
+					"download"		"0A86EA13BC9764CA0EBC74B4DD9A59F8"
+				}
+			}
+		}
+		"1557043"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2987818879898220783"
+					"size"		"2210961688"
+					"download"		"748528640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"BC300482C31CF33CD551A7DD62E5441E"
+					"size"		"B7FB04C1A9ECA7265CFC34958A4C0070"
+					"download"		"2A5E9B50DCBFE6DBA03A38E262D75449"
+				}
+				"test"
+				{
+					"gid"		"E2CEA26F82ACB0922374954BC8E091FC"
+					"size"		"7C4EB24456FDE4120574BE40D2928778"
+					"download"		"0442E16AEC00A66680A7DB4FE2DB4635"
+				}
+			}
+		}
+		"1795320"
+		{
+			"dlcappid"		"1795320"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4887824385027066526"
+					"size"		"272435691"
+					"download"		"240125664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"F5F375957E88365BABA9A9FC8C596C33"
+					"size"		"93FB5349815C2479C1E4B0000A116C42"
+					"download"		"C14CBFDA2A402D5901FA99A61716E5D2"
+				}
+				"test"
+				{
+					"gid"		"CF0B3C0095F798184B81E70E2A5B1727"
+					"size"		"4288181C537F6F3112E5DBAEA475CFE7"
+					"download"		"77DF7E42429A79EBDD950115422448F5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10820682"
+				"timeupdated"		"1679410555"
+			}
+			"develop"
+			{
+				"buildid"		"12166174"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694501688"
+			}
+			"test"
+			{
+				"buildid"		"12157913"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694425504"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Asteroid Lab/Terraformers First Steps on Mars/SavedGames/stm_{64BitSteamID}"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Asteroid Lab/Terraformers First Steps on Mars/SavedGames/stm_{64BitSteamID}"
+						"replace"		"Asteroid Lab/Terraformers First Steps on Mars/SavedGames/stm_{64BitSteamID}"
+					}
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Asteroid Lab/Terraformers First Steps on Mars/SavedGames/stm_{64BitSteamID}"
+						"replace"		".config/unity3d/Asteroid Lab/Terraformers First Steps on Mars/SavedGames/stm_{64BitSteamID}"
+					}
+				}
+			}
+		}
+	}
+}
