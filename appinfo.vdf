@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"1673740"
+	"common"
+	{
+		"name"		"Destined to Die"
+		"type"		"Game"
+		"logo"		"23fd7bdd118208126a6e9f564dc93e7530c2ead5"
+		"logo_small"		"23fd7bdd118208126a6e9f564dc93e7530c2ead5_thumb"
+		"icon"		"07567394783634179329d7c267f3330726ce1f96"
+		"clienticon"		"110514b230e091ce2ab09818564bd74317d7cb29"
+		"clienttga"		"664e9177e183a940cc01b5e9964f09b5245645f2"
+		"clienticns"		"5b40f247e673bee74a968537325f6ec27c2670e8"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"74.88372093023257"
+				"height_pct"		"57.21918784136787"
+			}
+		}
+		"store_asset_mtime"		"1625185884"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Suncats"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" Suncats"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626159634"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1673740"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"10235"
+			"2"		"122"
+			"3"		"17305"
+			"4"		"9204"
+			"5"		"21725"
+			"6"		"16689"
+			"7"		"3871"
+			"8"		"3964"
+			"9"		"6815"
+			"10"		"5851"
+			"11"		"4342"
+			"12"		"5608"
+			"13"		"12472"
+			"14"		"6426"
+			"15"		"113"
+			"16"		"4182"
+			"17"		"492"
+			"18"		"15172"
+			"19"		"599"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Suncats"
+		"publisher"		" Suncats"
+		"isfreeapp"		"1"
+		"listofdlc"		"1682770,1682771"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Destined to Die"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DestinedToDie.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Destined To Die.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"1673741"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2914956682146230706"
+					"size"		"1242802267"
+					"download"		"663490432"
+				}
+			}
+		}
+		"1673742"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2735895092193086222"
+					"size"		"1219110611"
+					"download"		"656565152"
+				}
+			}
+		}
+		"1682770"
+		{
+			"dlcappid"		"1682770"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5459365765384320062"
+					"size"		"83191160"
+					"download"		"74706768"
+				}
+			}
+		}
+		"1682771"
+		{
+			"dlcappid"		"1682771"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3869406075010587653"
+					"size"		"5103163089"
+					"download"		"5117248032"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10373099"
+				"timeupdated"		"1674288603"
+			}
+		}
+	}
+}
