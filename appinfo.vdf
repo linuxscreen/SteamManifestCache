@@ -1,0 +1,249 @@
+"appinfo"
+{
+	"appid"		"1883990"
+	"common"
+	{
+		"name"		"The Hepatica Spring"
+		"type"		"Game"
+		"logo"		"68e4500cbb1c7055b9de269b1d81f4e089cb0f6a"
+		"logo_small"		"68e4500cbb1c7055b9de269b1d81f4e089cb0f6a_thumb"
+		"icon"		"7d02c2e73ded312edad94472b147273a62d746c6"
+		"clienticon"		"650841ed8642cde0e343d39bacbf9f63cf287770"
+		"clienttga"		"6e709a36f18e422dd6609ae001086cee9ce4efeb"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"52.31267348315319"
+				"height_pct"		"53.40586565752129"
+			}
+		}
+		"store_asset_mtime"		"1646004542"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gallium Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Argent Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1646006820"
+		"community_hub_visible"		"1"
+		"gameid"		"1883990"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"9551"
+			"2"		"4947"
+			"3"		"44868"
+			"4"		"1684"
+			"5"		"4726"
+			"6"		"4057"
+			"7"		"1719"
+			"8"		"31579"
+			"9"		"4136"
+			"10"		"4195"
+			"11"		"4305"
+			"12"		"3871"
+			"13"		"6971"
+			"14"		"11014"
+			"15"		"6426"
+			"16"		"597"
+			"17"		"7208"
+			"18"		"4182"
+			"19"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Gallium Games"
+		"publisher"		"Argent Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Hepatica Spring"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Hepatica Spring.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TheHepaticaSpring.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"TheHepaticaSpring.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1883991"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3915631622024257322"
+					"size"		"507486577"
+					"download"		"138357936"
+				}
+				"beta"
+				{
+					"gid"		"3915631622024257322"
+					"size"		"507486577"
+					"download"		"138357936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"506153A6BF83EAA5A5DEF51B9BCCBE65"
+					"size"		"7A5611A9418A27828CE58C4338FBC7FA"
+					"download"		"9A3891126931345B7392E7FA96ED6C38"
+				}
+			}
+		}
+		"1883992"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6213785555306038151"
+					"size"		"532378948"
+					"download"		"146226320"
+				}
+				"beta"
+				{
+					"gid"		"6213785555306038151"
+					"size"		"532378948"
+					"download"		"146226320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"2DE6B3C72A2EA865E1F47B58B0997EC8"
+					"size"		"91E733723175EFD430AD1FE9C143CF39"
+					"download"		"6765E4C1AF049A4156159AD48BCC849D"
+				}
+			}
+		}
+		"1883993"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5987658117076807179"
+					"size"		"550783896"
+					"download"		"139487552"
+				}
+				"beta"
+				{
+					"gid"		"5987658117076807179"
+					"size"		"550783896"
+					"download"		"139487552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"98C52FBEFCCA9203847D9636F6E9FCEE"
+					"size"		"5928D1E17F5B3F6FAA7ABDB0053866A6"
+					"download"		"C96141DD6371960603EFC6B795F09583"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8290238"
+				"timeupdated"		"1646094091"
+			}
+			"beta"
+			{
+				"buildid"		"8290238"
+				"description"		"beta testing"
+				"timeupdated"		"1646094052"
+			}
+			"internal"
+			{
+				"buildid"		"8283606"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646002119"
+			}
+		}
+	}
+}
