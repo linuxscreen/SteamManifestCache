@@ -1,0 +1,151 @@
+"appinfo"
+{
+	"appid"		"1723940"
+	"common"
+	{
+		"name"		"MonoRaceVR Demo"
+		"type"		"Demo"
+		"parent"		"1722290"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"oculus"		"1"
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"clienttga"		"553e628ac18dabaafa3cbbedcd6f069654d2deb9"
+		"clienticon"		"0b28ef632067bd58b9b6028a7e9d7a47fd7046c2"
+		"releasestate"		"released"
+		"openxrsupport"		"1"
+		"openvrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1628687747"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nordville Technology LTD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nordville Technology LTD"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628844011"
+		"community_visible_stats"		"1"
+		"gameid"		"1723940"
+		"onlyvrsupport"		"1"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1722290"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Nordville Technology LTD"
+		"publisher"		"Nordville Technology LTD"
+	}
+	"config"
+	{
+		"installdir"		"MonoRaceVR Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MonoRaceVR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"MonoRaceVR Demo"
+				}
+				"description"		"MonoRaceVR Demo"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1723941"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6048559703722484733"
+					"size"		"789206273"
+					"download"		"635018352"
+				}
+			}
+		}
+		"1723942"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11569609"
+				"timeupdated"		"1687875253"
+			}
+		}
+	}
+}
