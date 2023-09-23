@@ -1,0 +1,266 @@
+"appinfo"
+{
+	"appid"		"1443490"
+	"common"
+	{
+		"name"		"Siren Head: Awakening"
+		"type"		"Game"
+		"logo"		"73d7765586e469a905abe66a107bb4fa51f7387a"
+		"logo_small"		"73d7765586e469a905abe66a107bb4fa51f7387a_thumb"
+		"icon"		"5f961f4b712a450a873aa3d20117b110a81e042b"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"0a49c525267ce0076e683aef1cf5391161186eab"
+		"clienticon"		"790d289319d00a6505741c349742e0a88a247e4f"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660003200"
+			"tested_build_id"		"6409556"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"75"
+			}
+		}
+		"store_asset_mtime"		"1666989859"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Prisma Games L.L.C."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Prisma Games L.L.C."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1604078165"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1443490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"4342"
+			"2"		"3834"
+			"3"		"4166"
+			"4"		"3978"
+			"5"		"4064"
+			"6"		"1662"
+			"7"		"5716"
+			"8"		"19"
+			"9"		"1710"
+			"10"		"6971"
+			"11"		"4175"
+			"12"		"5900"
+			"13"		"1721"
+			"14"		"6426"
+			"15"		"1738"
+			"16"		"4106"
+			"17"		"3839"
+			"18"		"4182"
+			"19"		"21"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Prisma Games L.L.C."
+		"publisher"		"Prisma Games L.L.C."
+		"homepage"		"http://prismagames.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Siren Head's Awakening"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Siren Head Awakening.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Siren Head Awakening.app\\Contents\\MacOS\\Siren Head Awakening"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1443491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7618068293354583045"
+					"size"		"1245270088"
+					"download"		"748871408"
+				}
+				"beta"
+				{
+					"gid"		"8247156123484492469"
+					"size"		"976825039"
+					"download"		"599037520"
+				}
+				"winter"
+				{
+					"gid"		"5720006865584791575"
+					"size"		"1246150061"
+					"download"		"748733200"
+				}
+			}
+		}
+		"1443492"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7784981649299686469"
+					"size"		"1288219811"
+					"download"		"770901472"
+				}
+				"beta"
+				{
+					"gid"		"1763681044660970959"
+					"size"		"1005555315"
+					"download"		"609970080"
+				}
+				"winter"
+				{
+					"gid"		"6252649195965007905"
+					"size"		"1288990742"
+					"download"		"772060608"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6409556"
+				"timeupdated"		"1616172381"
+			}
+			"beta"
+			{
+				"buildid"		"5740381"
+				"description"		"Pre-release beta version for adventurous players."
+				"timeupdated"		"1651688911"
+			}
+			"winter"
+			{
+				"buildid"		"5977210"
+				"description"		"1.3 release version which includes the winter map."
+				"timeupdated"		"1651689928"
+			}
+		}
+	}
+}
