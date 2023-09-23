@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"2151900"
+	"common"
+	{
+		"name"		"Battle for borders"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"90e99c0d547067439f1ff5a9a0c27e680c8d8f16"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"5caa9e09fb3267c9fdde1960928bebf2d1bead87"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"45.96678529062871"
+				"height_pct"		"76.60401228989699"
+			}
+		}
+		"store_asset_mtime"		"1670448762"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MemoryShards"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MemoryShards"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1677087088"
+		"community_hub_visible"		"1"
+		"gameid"		"2151900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"13276"
+			"2"		"1773"
+			"3"		"1678"
+			"4"		"1774"
+			"5"		"599"
+			"6"		"615955"
+			"7"		"5179"
+			"8"		"1697"
+			"9"		"5547"
+			"10"		"4191"
+			"11"		"4684"
+			"12"		"3813"
+			"13"		"5363"
+			"14"		"3814"
+			"15"		"4175"
+			"16"		"7622"
+			"17"		"4168"
+			"18"		"5673"
+			"19"		"1708"
+		}
+		"review_score"		"5"
+		"review_percentage"		"55"
+	}
+	"extended"
+	{
+		"developer"		"MemoryShards"
+		"publisher"		"MemoryShards"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Battle for borders"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BattleForBorders.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Unpacking the ZIP file"
+				}
+				"description"		"Unpacking the ZIP file"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2151901"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5960023721993414331"
+					"size"		"1630003933"
+					"download"		"1482260176"
+				}
+			}
+		}
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11175299"
+				"timeupdated"		"1683473241"
+			}
+		}
+	}
+}
