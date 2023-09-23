@@ -1,0 +1,115 @@
+"appinfo"
+{
+	"appid"		"2241090"
+	"common"
+	{
+		"name"		"The Nightmare from Beyond Demo"
+		"type"		"Demo"
+		"parent"		"684340"
+		"icon"		"d749b854fbb2967cb365e8a5be4f5b6e3aafb322"
+		"clienttga"		"1c2c7f55091d91ff4520a17fc894ff2500b9e5d9"
+		"clienticon"		"f27f9e5debc3a4874b83ecc204920f1e420d7b41"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1670029023"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MagnoliaGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MagnoliaGames"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1670270758"
+		"gameid"		"2241090"
+	}
+	"extended"
+	{
+		"demoofappid"		"684340"
+		"developer"		"MagnoliaGames"
+		"publisher"		"MagnoliaGames"
+		"homepage"		"https://thedomaginarium.com/"
+	}
+	"config"
+	{
+		"installdir"		"TNFBdemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Nightmare.exe"
+				"arguments"		"-notinstalled"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2241091"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3471375921922211775"
+					"size"		"1185889168"
+					"download"		"921659456"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11339467"
+				"timeupdated"		"1685334506"
+			}
+		}
+	}
+}
