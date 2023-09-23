@@ -1,0 +1,234 @@
+"appinfo"
+{
+	"appid"		"1916930"
+	"common"
+	{
+		"name"		"Astral Slider"
+		"type"		"Game"
+		"logo"		"fa140ab9a321eedd25d694700a9deca9c7d2d59d"
+		"logo_small"		"fa140ab9a321eedd25d694700a9deca9c7d2d59d_thumb"
+		"icon"		"aa7b030782bc944dd26e2c0010efdc659e9a63a6"
+		"clienticon"		"0c4f1355e8af56ffce33229ec5854fc45e17eabd"
+		"clienttga"		"fb491bca900bf65242464e02061824178dfde20b"
+		"clienticns"		"938f8aebb6d62fefc7954e38e99b3a25a6a2c061"
+		"linuxclienticon"		"dcfee47fd97f8f02fd80618685278f608ff0d814"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"controllervr"
+		{
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1645376848"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kyle Rodgers"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kyle Rodgers"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"9"
+			"4"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1646948290"
+		"community_hub_visible"		"1"
+		"gameid"		"1916930"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"699"
+			"2"		"1773"
+			"3"		"4102"
+			"4"		"56690"
+			"5"		"4191"
+			"6"		"4400"
+			"7"		"4305"
+			"8"		"3839"
+			"9"		"4094"
+			"10"		"1714"
+			"11"		"1697"
+			"12"		"21978"
+			"13"		"4115"
+			"14"		"4295"
+			"15"		"3942"
+			"16"		"7250"
+			"17"		"5154"
+			"18"		"4182"
+			"19"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Kyle Rodgers"
+		"publisher"		"Kyle Rodgers"
+		"homepage"		"https://kylesgames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Astral Slider"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Astral Slider.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Astral Slider"
+				}
+				"description"		"Astral Slider"
+			}
+			"1"
+			{
+				"executable"		"AstralSlider.app\\Contents\\MacOS\\Astral Slider"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"AstralSlider.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"Astral Slider.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1916931"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1158545357717478932"
+					"size"		"603410324"
+					"download"		"289655232"
+				}
+			}
+		}
+		"1916932"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4014046391686814480"
+					"size"		"618107498"
+					"download"		"294309808"
+				}
+			}
+		}
+		"1916933"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4471035079559072557"
+					"size"		"603444910"
+					"download"		"290178640"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8359492"
+				"timeupdated"		"1647087080"
+			}
+		}
+	}
+}
