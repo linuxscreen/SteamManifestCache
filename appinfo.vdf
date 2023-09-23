@@ -1,0 +1,119 @@
+"appinfo"
+{
+	"appid"		"1705670"
+	"common"
+	{
+		"name"		"ARKOS Demo"
+		"type"		"Demo"
+		"parent"		"1596440"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"8d8894004eea4ace460d54614861b23d9e353681"
+		"clienttga"		"cf72d6ebc7fb9f860bf8369bdf8062f6a22b1e0e"
+		"icon"		"ccc2460cc3628507a44994adda1839d323e2a53a"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1667044703"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RetroSouls"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"RetroSouls"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628088638"
+		"gameid"		"1705670"
+	}
+	"extended"
+	{
+		"demoofappid"		"1596440"
+		"developer"		"RetroSouls"
+		"publisher"		"RetroSouls"
+		"homepage"		"https://www.retrosouls.net/"
+	}
+	"config"
+	{
+		"installdir"		"ARKOS Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ARKOSDEMO.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1705671"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3127567831441383868"
+					"size"		"113159947"
+					"download"		"31547408"
+				}
+			}
+		}
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7565857"
+				"timeupdated"		"1634721655"
+			}
+		}
+	}
+}
