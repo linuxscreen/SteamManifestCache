@@ -1,0 +1,147 @@
+"appinfo"
+{
+	"appid"		"2344730"
+	"common"
+	{
+		"name"		"I NEED SPACE Demo"
+		"type"		"Demo"
+		"parent"		"2337180"
+		"icon"		"7b8995c47133e5e80caefcbce55614f6107de806"
+		"clienticon"		"9326585285eb57fda6c672f594b6dcde077d8b00"
+		"clienttga"		"45ff420f6ef2ad60f21959c035c7310281152271"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"90.19230839994533"
+			}
+		}
+		"store_asset_mtime"		"1681372339"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Khayalan Arts"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Khayalan Arts"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678371226"
+		"gameid"		"2344730"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2337180"
+		"developer"		"Khayalan Arts"
+		"publisher"		"Khayalan Arts"
+		"homepage"		"https://www.khayalanarts.com/projects/i-need-space"
+	}
+	"config"
+	{
+		"installdir"		"I NEED SPACE Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"INS Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2344731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"549597398347195770"
+					"size"		"492757268"
+					"download"		"428266000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E90F14D984A8EBFEC95A626A0B24696B"
+					"size"		"2338B93997A41B2E9079E8AC7949C413"
+					"download"		"8BD2E0E71E8277EBAAE669E1328A018A"
+				}
+				"prototype"
+				{
+					"gid"		"69006E6FA73B0EF2588C5BAC0EAFCD14"
+					"size"		"F1945056097EFF1F9C16117C9DF2FA5B"
+					"download"		"CFEB2EEC4221DD42495E927E66A85458"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12194129"
+				"timeupdated"		"1694741832"
+			}
+			"beta"
+			{
+				"buildid"		"12194191"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694741855"
+			}
+			"prototype"
+			{
+				"buildid"		"12177721"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694605305"
+			}
+		}
+	}
+}
