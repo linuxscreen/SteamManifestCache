@@ -1,0 +1,286 @@
+"appinfo"
+{
+	"appid"		"1631240"
+	"common"
+	{
+		"name"		"Buccaneers! The New Age of Piracy"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"clienttga"		"a86ebc0864390aa94079300de6dd5f7d3e004322"
+		"clienticon"		"028a6a6fc6194865209831671e25de94fe894f46"
+		"icon"		"6952abc9386af6c3e4f36702084bfb8f73c54cd2"
+		"logo"		"6d6a54ee98446f575b51937c70fc8e9ffbfeaa3e"
+		"logo_small"		"6d6a54ee98446f575b51937c70fc8e9ffbfeaa3e_thumb"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openxrsupport"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1651276800"
+			"tested_build_id"		"8494997"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"60.17738352315098"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1685255855"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Skyward Digital"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Valkyrie Initiative"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Valkyrie Initiative"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1646247744"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1631240"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1681"
+			"1"		"6910"
+			"2"		"1695"
+			"3"		"13577"
+			"4"		"122"
+			"5"		"4231"
+			"6"		"4182"
+			"7"		"19"
+			"8"		"3987"
+			"9"		"4305"
+			"10"		"4252"
+			"11"		"3993"
+			"12"		"3810"
+			"13"		"4191"
+			"14"		"21978"
+			"15"		"3839"
+			"16"		"4835"
+			"17"		"1663"
+			"18"		"4166"
+			"19"		"4747"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Skyward Digital"
+		"publisher"		"Valkyrie Initiative"
+		"homepage"		"https://skywarddigital.co.uk/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Buccaneers! The New Age of Piracy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Buccaneers.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Buccaneers.exe"
+				"arguments"		"--enable-vr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"game"
+				}
+				"description"		"game"
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+	}
+	"depots"
+	{
+		"1631241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7574053626993466281"
+					"size"		"4604211656"
+					"download"		"1136685072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"1ADF721A6094828013CDF24A7B736A58"
+					"size"		"66F0E722C7F877574D54BDAA36ECF1CF"
+					"download"		"ADE2584D8EEA3D0D51E7386A629D61AA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9150271"
+				"timeupdated"		"1658252067"
+			}
+			"development"
+			{
+				"buildid"		"9150271"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658249587"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"200"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Skyward Digital/Buccaneers/Saves/Slot0"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"appidredirect"		"1148560"
+	}
+}
