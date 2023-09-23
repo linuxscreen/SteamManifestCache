@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"1870280"
+	"common"
+	{
+		"name"		"ZPlague"
+		"type"		"Game"
+		"clienttga"		"5a21d184df86ba0365646757f4afa44eed02cf62"
+		"clienticon"		"3b3c8805e7e5de1b729846c5dd5a23b9b88bf99e"
+		"icon"		"9c6521014ebf2dfdf7606d325b6e361e10206ab9"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"28daeba8c0afe124957770e18c93d4964ad384cd"
+		"logo_small"		"28daeba8c0afe124957770e18c93d4964ad384cd_thumb"
+		"releasestate"		"released"
+		"market_presence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"31.999541354532937"
+				"height_pct"		"82.15956784545253"
+			}
+		}
+		"store_asset_mtime"		"1653769796"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Avelar Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Avelar Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1658627100"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1870280"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3835"
+			"2"		"1774"
+			"3"		"1663"
+			"4"		"9"
+			"5"		"4191"
+			"6"		"4175"
+			"7"		"1662"
+			"8"		"1684"
+			"9"		"4295"
+			"10"		"1667"
+			"11"		"1659"
+			"12"		"3993"
+			"13"		"6730"
+			"14"		"1775"
+			"15"		"3859"
+			"16"		"1685"
+			"17"		"3843"
+			"18"		"4182"
+			"19"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Avelar Studios"
+		"publisher"		"Avelar Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ZPlague"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ZPlague.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1870281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1228815790111111099"
+					"size"		"7737252752"
+					"download"		"4177066192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"805BFACD7F4BA35A9147EE26760FB792"
+					"size"		"C6AC965E24BDC9C7D43315C2250FE259"
+					"download"		"5607B256F55F3FDA43F0F1550B441BEC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10910210"
+				"timeupdated"		"1680379918"
+			}
+			"beta"
+			{
+				"buildid"		"10910210"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680379910"
+			}
+		}
+	}
+}
