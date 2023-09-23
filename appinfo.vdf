@@ -1,0 +1,170 @@
+"appinfo"
+{
+	"appid"		"2346310"
+	"common"
+	{
+		"name"		"LOK Digital Demo"
+		"type"		"Demo"
+		"parent"		"2207440"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"1cd91320d970f070acdc3267fc58d513fbd946aa"
+		"clienttga"		"e5e7a39a19f47c3ba3e8e1401350a5a8bc9e5b0c"
+		"linuxclienticon"		"86d99c21286ec55e526355e087a6f18227a0c905"
+		"clienticns"		"343b7d39f216bb41585f213497c3f51ef0428825"
+		"clienticon"		"ca8db3fb678f10ab6879d3e502a688f3f8b1f879"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1681977909"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Letibus Design"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Icedrop Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Icedrop Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"catalan"
+			{
+				"supported"		"true"
+			}
+			"slovenian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1678478283"
+		"gameid"		"2346310"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2207440"
+		"developer"		"Letibus Design"
+		"publisher"		"Icedrop Games"
+	}
+	"config"
+	{
+		"installdir"		"LOK Digital Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LOK.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mac.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"LinuxDemo.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2346311"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7342860750234433989"
+					"size"		"439276943"
+					"download"		"105986480"
+				}
+			}
+		}
+		"2346312"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7501707137743985325"
+					"size"		"461910034"
+					"download"		"112948864"
+				}
+			}
+		}
+		"2346313"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8906472116998549442"
+					"size"		"482937422"
+					"download"		"107640144"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11024421"
+				"timeupdated"		"1681771023"
+			}
+		}
+	}
+}
