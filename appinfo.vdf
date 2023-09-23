@@ -1,0 +1,315 @@
+"appinfo"
+{
+	"appid"		"385370"
+	"common"
+	{
+		"name"		"Radiator 2: Anniversary Edition"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+		}
+		"logo"		"435afb0a03af10c869094817b6a69799901e35fb"
+		"logo_small"		"435afb0a03af10c869094817b6a69799901e35fb_thumb"
+		"clienticon"		"e78ffc9bcd65d52773baeb9e6e0dda31cbb59089"
+		"clienttga"		"0acb02ac2d66a2dcf489791a88745fd6cc15d8fd"
+		"icon"		"30b3f81413d77661592b40936c643daed993403f"
+		"clienticns"		"f089e1635c2323057d74e979f28554014f918a7c"
+		"linuxclienticon"		"78b33e381429e6cc811ee1b8692a79540fc4d315"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"Radiator 2"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1507399473"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Robert Yang"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Robert Yang"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1466096676"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"385370"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"6650"
+			"2"		"5611"
+			"3"		"113"
+			"4"		"44868"
+			"5"		"599"
+			"6"		"492"
+			"7"		"4136"
+			"8"		"19"
+			"9"		"4182"
+			"10"		"24904"
+			"11"		"21"
+			"12"		"1695"
+			"13"		"1663"
+			"14"		"1742"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Robert Yang"
+		"publisher"		"Robert Yang"
+		"homepage"		"http://www.debacle.us"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Radiator 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"radiator2_steam_windows.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"radiator2_steam_mac-osx.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"radiator2_steam_linux.x64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,czech,brazilian"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"385371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6948432390079753171"
+					"size"		"267935053"
+					"download"		"125092368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"anniversarybeta"
+				{
+					"gid"		"56B67B929F6A4ABCBD8FFD2A2A29986E"
+					"size"		"B045B7E84BED2598B9371DFFF823EFEE"
+					"download"		"B61CF50F6EF9756E9D0E70597C47B9C8"
+				}
+			}
+		}
+		"385372"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2993144290044740771"
+					"size"		"278362152"
+					"download"		"126620784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"anniversarybeta"
+				{
+					"gid"		"97881DFCF159F99A45F64EF0C5FB76E4"
+					"size"		"54FA345CC318A155D39C29685D943D85"
+					"download"		"C21879126F343603A607DDFBE3F51B57"
+				}
+			}
+		}
+		"385373"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3744601050716264304"
+					"size"		"284380242"
+					"download"		"131781904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"anniversarybeta"
+				{
+					"gid"		"72FAFC9C35D9AD7895214716794B92D1"
+					"size"		"239D2411A58AB0AB8F2B27652540B178"
+					"download"		"0669E489F43C64C8F0B237E36B7CE6C7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2180685"
+				"timeupdated"		"1507400543"
+			}
+			"anniversarybeta"
+			{
+				"buildid"		"2180685"
+				"pwdrequired"		"1"
+				"timeupdated"		"1507399576"
+			}
+		}
+	}
+}
