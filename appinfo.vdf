@@ -1,0 +1,267 @@
+"appinfo"
+{
+	"appid"		"1684660"
+	"common"
+	{
+		"name"		"ナツノカナタ"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"name_localized"
+		{
+			"english"		"natsuno-kanata - beyond the summer"
+		}
+		"logo"		"29b4f01a7516cdfd1863b4dce9e4b91f95d1f362"
+		"logo_small"		"29b4f01a7516cdfd1863b4dce9e4b91f95d1f362_thumb"
+		"clienticon"		"99c07686e5620f36cfbc772986c3df87790da65a"
+		"clienttga"		"55890151b2dc699191fa041d92d27a6f847b5810"
+		"icon"		"4115889f0e81219a59ca94d28daa3d876d126a81"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.03422753931979"
+				"height_pct"		"51.1352885525071"
+			}
+		}
+		"store_asset_mtime"		"1660374549"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kazuhide Oka"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kazuhide Oka"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1660748464"
+		"community_hub_visible"		"1"
+		"gameid"		"1684660"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"21"
+			"2"		"4085"
+			"3"		"3834"
+			"4"		"3871"
+			"5"		"31275"
+			"6"		"5379"
+			"7"		"3835"
+			"8"		"113"
+			"9"		"1662"
+			"10"		"3942"
+			"11"		"7208"
+			"12"		"5673"
+			"13"		"4166"
+			"14"		"15172"
+			"15"		"1742"
+			"16"		"4182"
+			"17"		"1702"
+			"18"		"492"
+			"19"		"493"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Kazuhide Oka"
+		"publisher"		"Kazuhide Oka"
+		"homepage"		"https://natsuno-kanata.online/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"natsuno-kanata"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"natsuno-kanata.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"natsuno-kanata.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"japanese"
+		"1684661"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6717423871267712878"
+					"size"		"564442889"
+					"download"		"425084432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9550618B7FB21F3CD3D584E154771A42"
+					"size"		"ECC2C7EB776693E67E7E24C7E20E47C4"
+					"download"		"21A5EC203E1D899096872F857D1530A1"
+				}
+				"open_beta"
+				{
+					"gid"		"A500AE6B950D27F70D6B015BFD60250D"
+					"size"		"BC242CA4FD6995CEA537898118F318B1"
+					"download"		"B8B85882106A7FF1901BF2F2F92FED28"
+				}
+			}
+		}
+		"1684662"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2992344984959163669"
+					"size"		"543771360"
+					"download"		"422062576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8AAA22C797169811B344864FD55DA790"
+					"size"		"14E1DCFA18CC3B6938EF8CA3BD7E0C97"
+					"download"		"9DBA12DD4E32FDCE59A4E6A9323CF819"
+				}
+				"open_beta"
+				{
+					"gid"		"F60C5A7146B6199CF0A0813B635A15ED"
+					"size"		"04FEE8A836D515D96E6EFF00DEE62ECE"
+					"download"		"1FFA9B5F911D51831C5EAAE4EBBBC8F4"
+				}
+			}
+		}
+		"1684663"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5213505073193447631"
+					"size"		"564645583"
+					"download"		"423831632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"89B14D1B69B87A95ADBCAE1FE389193C"
+					"size"		"7373254EF0C310489FD08B0BCD2A1C48"
+					"download"		"4D920D9D501A55B49C16C666DB1CAABD"
+				}
+				"open_beta"
+				{
+					"gid"		"1A4901C0F7D8958C85839FE1A1C201A6"
+					"size"		"F095E67A69D33CC638F5518468ED374C"
+					"download"		"A27683A25FECDE585192517E8B9B8A9C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11656034"
+				"timeupdated"		"1688817186"
+			}
+			"beta"
+			{
+				"buildid"		"9402270"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661652121"
+			}
+			"open_beta"
+			{
+				"buildid"		"9317218"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660572110"
+			}
+		}
+	}
+}
