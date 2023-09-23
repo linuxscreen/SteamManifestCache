@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"1135560"
+	"common"
+	{
+		"name"		"The Thing at the Window"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"da30fb1fae2848c212cae4b1ab6e620832c8acea"
+		"clienticon"		"ce38e085d60932263f5f73f88c74abe6efde490b"
+		"clienttga"		"e851cab7039e65ba96e37abe6bac544c6f962718"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"35.67094515752627"
+				"height_pct"		"60.25835818683851"
+			}
+		}
+		"store_asset_mtime"		"1666576660"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VladiMatt"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Two Glass Hams"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Two Glass Hams"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1666602960"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1135560"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4026"
+			"1"		"3839"
+			"2"		"1667"
+			"3"		"19"
+			"4"		"4064"
+			"5"		"3978"
+			"6"		"4182"
+			"7"		"493"
+			"8"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"VladiMatt"
+		"publisher"		"Two Glass Hams"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Thing At The Window"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheThingAtTheWindow.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1135561"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2831509628309794401"
+					"size"		"1379499843"
+					"download"		"510968768"
+				}
+				"devbranch"
+				{
+					"gid"		"2831509628309794401"
+					"size"		"1379499843"
+					"download"		"510968768"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9817422"
+				"timeupdated"		"1666919714"
+			}
+			"devbranch"
+			{
+				"buildid"		"9817422"
+				"description"		"latest development branch"
+				"timeupdated"		"1666919485"
+			}
+		}
+	}
+}
