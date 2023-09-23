@@ -1,0 +1,343 @@
+"appinfo"
+{
+	"appid"		"1207590"
+	"common"
+	{
+		"name"		"Builders of Egypt: Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"cf462422e7cda656708e08e609d0ee4050fb6f76"
+		"logo_small"		"cf462422e7cda656708e08e609d0ee4050fb6f76_thumb"
+		"icon"		"4e06e75eaba2eefa3a48a42add7091131b86cca2"
+		"clienttga"		"f1c29debbedfcc8e1ae632062e0126bcf5118ec7"
+		"clienticon"		"72c1f4f704ddf9e85476ded894e30fcad89a623a"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1207590_eula_0"
+				"name"		"Builders of Egypt: Prologue EULA"
+				"url"		"https://store.steampowered.com//eula/1207590_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1692316800"
+			"tested_build_id"		"6247331"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Builders of Egypt: Prologue"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.62647506929099"
+				"height_pct"		"56.81667570335563"
+			}
+		}
+		"store_asset_mtime"		"1640298114"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Strategy Labs"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Strategy Labs"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"CreativeForge Games"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"28"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1583164791"
+		"community_hub_visible"		"1"
+		"gameid"		"1207590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"599"
+			"2"		"4328"
+			"3"		"492"
+			"4"		"7332"
+			"5"		"12472"
+			"6"		"3987"
+			"7"		"1676"
+			"8"		"1678"
+			"9"		"4695"
+			"10"		"3859"
+			"11"		"493"
+			"12"		"4182"
+			"13"		"4175"
+			"14"		"1708"
+			"15"		"4161"
+			"16"		"4026"
+			"17"		"1643"
+			"18"		"3810"
+			"19"		"1693"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Strategy Labs"
+		"publisher"		"Strategy Labs"
+		"homepage"		"http://strategy-labs.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Builders of Egypt Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BoE.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1207591"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8966663835742880129"
+					"size"		"3324688331"
+					"download"		"3069014656"
+				}
+				"patch_test"
+				{
+					"gid"		"8358227463055785573"
+					"size"		"3314815065"
+					"download"		"3059060224"
+				}
+				"test_branch"
+				{
+					"gid"		"623164775871712689"
+					"size"		"2792396583"
+					"download"		"2684586576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"E35A32052CA14388F1AA061E7A7D021C"
+					"size"		"1A7F52D67A7C6A4DBFDF2AB79B801214"
+					"download"		"6F4A55A0077DFF36D40322971848D26A"
+				}
+				"nonpublic_branch"
+				{
+					"gid"		"F248481D2EA71E3079F254323D36AFA2"
+					"size"		"1FB7DE1BAA4AB6B639AD3101FA469DBA"
+					"download"		"8DE99AA613C412C48A349A02F524E2A5"
+				}
+			}
+		}
+		"1207592"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6247331"
+				"timeupdated"		"1613493939"
+			}
+			"development"
+			{
+				"buildid"		"6325434"
+				"pwdrequired"		"1"
+				"timeupdated"		"1614802017"
+			}
+			"nonpublic_branch"
+			{
+				"buildid"		"6248939"
+				"pwdrequired"		"1"
+				"timeupdated"		"1613508152"
+			}
+			"patch_test"
+			{
+				"buildid"		"6208407"
+				"description"		"patch test before release"
+				"timeupdated"		"1612816241"
+			}
+			"test_branch"
+			{
+				"buildid"		"5652134"
+				"description"		"for testing purposes only"
+				"timeupdated"		"1602111327"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"500"
+	}
+}
