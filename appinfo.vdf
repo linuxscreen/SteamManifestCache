@@ -1,0 +1,228 @@
+"appinfo"
+{
+	"appid"		"466910"
+	"common"
+	{
+		"name"		"Worm.is: The Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"dd582bddf4c62913b1284c7a18f320eb09dd7496"
+		"clienticon"		"30eb0effc6650e19789fab8da81dc50d58e3abab"
+		"icon"		"f82dc2401b0e46249f82c152c075a53121f5c335"
+		"logo"		"42c5f1d0c9e296d763befe92e35951f30f5c24c1"
+		"logo_small"		"42c5f1d0c9e296d763befe92e35951f30f5c24c1_thumb"
+		"oslist"		"windows,macos"
+		"clienticns"		"94e530652555b3a94dd68e5272da52ff5aa96ba0"
+		"osarch"		""
+		"osextended"		"macos64"
+		"metacritic_name"		"Worm.is: The Game"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1462269585"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Freakinware Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Freakinware Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1462349799"
+		"community_hub_visible"		"1"
+		"gameid"		"466910"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"3859"
+			"2"		"597"
+			"3"		"4136"
+			"4"		"3871"
+			"5"		"9"
+			"6"		"19"
+			"7"		"3878"
+			"8"		"3843"
+			"9"		"1685"
+			"10"		"1773"
+			"11"		"7478"
+			"12"		"29363"
+			"13"		"5350"
+			"14"		"1663"
+			"15"		"599"
+			"16"		"4026"
+			"17"		"492"
+			"18"		"3839"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Freakinware Studios"
+		"publisher"		"Freakinware Studios"
+		"homepage"		"http://worm.is"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Worm.is The Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wormis.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Wormis.app/Contents/MacOS/Wormis"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"3031244558"
+			{
+				"controller_type"		"controller_generic"
+				"enabled_branches"		"default"
+				"use_action_block"		"true"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,portuguese,danish,romanian,brazilian"
+		"466911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3389432287986549490"
+					"size"		"107779130"
+					"download"		"84226800"
+				}
+			}
+		}
+		"466912"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3108627928031520832"
+					"size"		"139070774"
+					"download"		"105055472"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12230167"
+				"timeupdated"		"1695162508"
+			}
+		}
+	}
+}
