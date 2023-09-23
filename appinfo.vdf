@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"2340040"
+	"common"
+	{
+		"name"		"sunny-place-3: microgods Demo"
+		"type"		"Demo"
+		"parent"		"2337610"
+		"icon"		"56a9b6b8b87bef32d2aa82035efbf1e30ed0ed04"
+		"clienticon"		"8fb69316eb4948570055b82fba5cdcb5b0df8a2a"
+		"clienttga"		"1bf03b5f5d491548f47f4d3176b90b202ea02ae0"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1677685857"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"tjern"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"tjern"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"sunny-place"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_15"		"1"
+		}
+		"steam_release_date"		"1678320407"
+		"gameid"		"2340040"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2337610"
+		"developer"		"tjern"
+		"publisher"		"tjern"
+	}
+	"config"
+	{
+		"installdir"		"sunny-place-3 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"sunny-place-3_linux.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"sunny-place-3_windows.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2340041"
+		{
+		}
+		"2340042"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4713347842492948069"
+					"size"		"227822525"
+					"download"		"62148400"
+				}
+				"beta"
+				{
+					"gid"		"4713347842492948069"
+					"size"		"227822525"
+					"download"		"62148400"
+				}
+			}
+		}
+		"2340043"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3301987298804088540"
+					"size"		"206050300"
+					"download"		"61360832"
+				}
+				"beta"
+				{
+					"gid"		"3301987298804088540"
+					"size"		"206050300"
+					"download"		"61360832"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10850598"
+				"timeupdated"		"1679681950"
+			}
+			"beta"
+			{
+				"buildid"		"10850598"
+				"description"		"beta"
+				"timeupdated"		"1680349475"
+			}
+		}
+	}
+}
