@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"2013570"
+	"common"
+	{
+		"name"		"Cult of the Lamb Demo"
+		"type"		"Demo"
+		"parent"		"1313140"
+		"releasestate"		"released"
+		"clienticon"		"629aef46877c0c0560b6c5b2960bcb070568297e"
+		"clienttga"		"33aa301a9947067d7da7aac7c78de9e65c6293cd"
+		"icon"		"df2c8a0133769e5e3b982dea26f7abb98bc8d526"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660176000"
+			"tested_build_id"		"9045978"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1654601742"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Massive Monster"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Devolver Digital"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"steam_release_date"		"1654812471"
+		"gameid"		"2013570"
+	}
+	"extended"
+	{
+		"demoofappid"		"1313140"
+		"developer"		"Massive Monster"
+		"publisher"		"Devolver Digital"
+	}
+	"config"
+	{
+		"installdir"		"Cult of the Lamb Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"COTL_Demo_Win\\Cult Of The Lamb.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"COTL_Demo_Mac\\Cult Of The Lamb.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2013571"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8190884532745476431"
+					"size"		"1146417779"
+					"download"		"813089984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"658E19803C5DBE122D562CEEE947D258"
+					"size"		"A341218072A709660C42272E4D7B835C"
+					"download"		"384626BE1AE0E964E69A4200E44A8091"
+				}
+			}
+		}
+		"2013572"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2072825600375774189"
+					"size"		"1200229027"
+					"download"		"822807344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"BEB9A5D68987AC1EF7DE0274F5552738"
+					"size"		"C5AC38824E03FFB4D5729611ADB7D831"
+					"download"		"F5856A5E6EF0F03D5B6C09F45D42D650"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9709789"
+				"timeupdated"		"1665625681"
+			}
+			"staging"
+			{
+				"buildid"		"9709581"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665622845"
+			}
+		}
+	}
+}
