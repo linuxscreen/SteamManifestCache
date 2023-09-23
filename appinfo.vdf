@@ -1,0 +1,361 @@
+"appinfo"
+{
+	"appid"		"1869590"
+	"common"
+	{
+		"name"		"Omega Strikers"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"06c76f850634a413d2445bf70edb8890f98d27af"
+		"clienttga"		"5bc15c845c70d42559005bf5578d7e2682eff57f"
+		"icon"		"5e07146c770962edaf303e907447d63538d67948"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1684454400"
+			"tested_build_id"		"11220322"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.38273045507588"
+				"height_pct"		"86.47589646164806"
+			}
+		}
+		"store_asset_mtime"		"1692834915"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Odyssey Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Odyssey Interactive"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1663311600"
+		"steam_release_date"		"1682614800"
+		"community_hub_visible"		"1"
+		"gameid"		"1869590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1775"
+			"2"		"3859"
+			"3"		"9"
+			"4"		"4085"
+			"5"		"5711"
+			"6"		"5055"
+			"7"		"113"
+			"8"		"3942"
+			"9"		"3843"
+			"10"		"1684"
+			"11"		"4195"
+			"12"		"3993"
+			"13"		"4747"
+			"14"		"6506"
+			"15"		"4191"
+			"16"		"1685"
+			"17"		"1718"
+			"18"		"3878"
+			"19"		"4305"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Odyssey Interactive"
+		"publisher"		"Odyssey Interactive"
+		"homepage"		"https://www.omegastrikers.gg/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"OmegaStrikers"
+		"launch"
+		{
+			"7"
+			{
+				"executable"		"OmegaStrikers.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Omega Strikers"
+				}
+				"description"		"Omega Strikers"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1869591"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5191484211592591794"
+					"size"		"5982740510"
+					"download"		"2219811584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-jenkins-test"
+				{
+					"gid"		"DF80346794EE0869DE65A6B8FC60CB58"
+					"size"		"6526A615C4F6C811C92A5F0A597017A9"
+					"download"		"F177D58B438483791ED25B6C0E2CE90D"
+				}
+				"internal-region-test"
+				{
+					"gid"		"3FC87C3CA5140C164AC283EFA9DB6E8B"
+					"size"		"5FB65F005BDC75C08E51D9E2909B3970"
+					"download"		"0A570DB16C5FC660C3E412030AC170D8"
+				}
+				"os-mainline"
+				{
+					"gid"		"EAFF448273EEE1FC7C80C948F2709A45"
+					"size"		"E582B4E3B9A4E1DE19B6BB43C0C39CBA"
+					"download"		"C7E7966A7D50CB01C9F40287E260E59B"
+				}
+				"os-mainline-dev"
+				{
+					"gid"		"DA4F64466DD0D866EC3D447C17115E91"
+					"size"		"1F8EBBA5895AB3222403116944E09518"
+					"download"		"3BA123F9B191B4166E2E166D369463FF"
+				}
+				"os-release-2.3"
+				{
+					"gid"		"C63397C81E4A6AA4EE5C07B63385BC97"
+					"size"		"0DDA5A31763E291EF06A9631128E5445"
+					"download"		"05B62103080603B1A44EDEE604ED93BE"
+				}
+				"os-release-3.0"
+				{
+					"gid"		"9DC39D4E25B9CE2730BFB0C763CAED73"
+					"size"		"72236C8B7D91B1529818D2589D2FB3ED"
+					"download"		"CACC687392AAC97AB666090B0B457135"
+				}
+				"previewplaytest09-22"
+				{
+					"gid"		"7BEA69CB62796E2693D69F1C5793214A"
+					"size"		"DBE754486080A36A4374744CAC5510DE"
+					"download"		"6635F49B55F83A97034586B84201097D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11993960"
+				"timeupdated"		"1692889067"
+			}
+			"internal-jenkins-test"
+			{
+				"buildid"		"12258772"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695400134"
+			}
+			"internal-region-test"
+			{
+				"buildid"		"10804002"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679338905"
+			}
+			"os-mainline"
+			{
+				"buildid"		"12259867"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695408814"
+			}
+			"os-mainline-dev"
+			{
+				"buildid"		"11417268"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686166743"
+			}
+			"os-release-2.3"
+			{
+				"buildid"		"11571929"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687894064"
+			}
+			"os-release-3.0"
+			{
+				"buildid"		"11993960"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693586949"
+			}
+			"previewplaytest09-22"
+			{
+				"buildid"		"12258826"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695405788"
+			}
+		}
+	}
+}
