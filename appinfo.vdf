@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"1142730"
+	"common"
+	{
+		"name"		"Player Power"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"d1219c098f25954cccc1f509c68c3085f9acf7c9"
+		"logo_small"		"d1219c098f25954cccc1f509c68c3085f9acf7c9_thumb"
+		"icon"		"3f0a43d7b80554a1eb538ab399328cb85ac2297b"
+		"clienttga"		"02340213113dd32eff505d2083f79bf44a0ff333"
+		"clienticon"		"8a7a8a535da99e000181e4707023bdbe7797200a"
+		"clienticns"		"fce82203130f0a0c264be52ed09b54460a88972c"
+		"releasestate"		"released"
+		"metacritic_name"		"Player Power"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.320139697322475"
+				"height_pct"		"47.72025647114698"
+			}
+		}
+		"store_asset_mtime"		"1589451909"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dave O'Leary"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dave O'Leary"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1589446200"
+		"community_hub_visible"		"1"
+		"gameid"		"1142730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"492"
+			"2"		"701"
+			"3"		"1773"
+			"4"		"1254546"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Dave O'Leary"
+		"publisher"		"Dave O'Leary"
+		"homepage"		"https://playerpowergame.wordpress.com/2019/08/12/player-power-support-page/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Player Power"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PlayerPower.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1142732"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3283842768991133549"
+					"size"		"17863514"
+					"download"		"11852368"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5037859"
+				"timeupdated"		"1589625085"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"23"
+		"maxnumfiles"		"1"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
