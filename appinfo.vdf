@@ -1,0 +1,107 @@
+"appinfo"
+{
+	"appid"		"2341390"
+	"common"
+	{
+		"name"		"Blinded by Fear Demo"
+		"type"		"Demo"
+		"parent"		"2102680"
+		"releasestate"		"released"
+		"icon"		"6502e840314ce5e8c440e2bdb70e47d868ad66bf"
+		"clienticon"		"63e1197c9ffa61ef0027ba24e44c3d5353d59d67"
+		"clienttga"		"a0d9b69873e636de66dfebf1f52e60b7bf492b0a"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1677703796"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TEMPER STUDIOS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TEMPER STUDIOS"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1677770686"
+		"gameid"		"2341390"
+	}
+	"extended"
+	{
+		"demoofappid"		"2102680"
+		"developer"		"TEMPER STUDIOS"
+		"publisher"		"TEMPER STUDIOS"
+	}
+	"config"
+	{
+		"installdir"		"Blinded by Fear Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BlindedbyFear.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2341391"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4545152677835703094"
+					"size"		"279199395"
+					"download"		"139450720"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11281691"
+				"timeupdated"		"1684668233"
+			}
+		}
+	}
+}
