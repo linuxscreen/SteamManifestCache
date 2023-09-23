@@ -1,0 +1,124 @@
+"appinfo"
+{
+	"appid"		"2268750"
+	"common"
+	{
+		"name"		"江湖幸存者 Demo"
+		"type"		"Demo"
+		"parent"		"2196790"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"Jianghu Survivor Demo"
+		}
+		"icon"		"aaa37b26530c49a315286d575cf55777cea411a8"
+		"clienticon"		"51f0c32f0dc221644b12c98ca45a1c6bec6852ef"
+		"clienttga"		"0f94049de837b8135f879d34e32ac0a80c16b0bd"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"store_asset_mtime"		"1672942541"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Surprising Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Surprising Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1673271092"
+		"gameid"		"2268750"
+	}
+	"extended"
+	{
+		"demoofappid"		"2196790"
+		"developer"		"Surprising Studio"
+		"publisher"		"Surprising Studio"
+		"homepage"		"https://surprising.studio/"
+	}
+	"config"
+	{
+		"installdir"		"Jianghu Survivors Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Jianghu Survivor.exe"
+				"arguments"		"--AppId=2268750"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,spanish,schinese,russian"
+		"2268751"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4916005680817832227"
+					"size"		"1243559223"
+					"download"		"636948608"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11350824"
+				"timeupdated"		"1685532817"
+			}
+		}
+	}
+}
