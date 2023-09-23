@@ -1,0 +1,243 @@
+"appinfo"
+{
+	"appid"		"1246020"
+	"common"
+	{
+		"name"		"NOeSIS-诉说谎言的记忆之物语"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"7bd81b61e6e8be4404d193d2f0b8321d1c871e8b"
+		"clienticon"		"e323c4b682bbbe728fd26667cbcc565bd7968729"
+		"icon"		"23be1764a5dd190bc81befa86941ed0d079c8e77"
+		"logo"		"f43c7a53af625ced05006a06675ac8c19460f308"
+		"logo_small"		"f43c7a53af625ced05006a06675ac8c19460f308_thumb"
+		"name_localized"
+		{
+			"japanese"		"NOeSIS－嘘を吐いた记忆の物语"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"73.29616007247006"
+				"height_pct"		"59.992265627061386"
+			}
+		}
+		"store_asset_mtime"		"1627703177"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Classic Chocolat"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hikare 个人汉化"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"NOeSIS三部曲"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1583049600"
+		"steam_release_date"		"1584601267"
+		"community_hub_visible"		"1"
+		"gameid"		"1246020"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"3799"
+			"2"		"5716"
+			"3"		"492"
+			"4"		"1721"
+			"5"		"1667"
+			"6"		"597"
+			"7"		"4085"
+			"8"		"9"
+			"9"		"4726"
+			"10"		"4345"
+			"11"		"4182"
+			"12"		"113"
+			"13"		"4947"
+			"14"		"1742"
+			"15"		"9551"
+			"16"		"12095"
+			"17"		"1663"
+			"18"		"6650"
+			"19"		"9130"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Classic Chocolat"
+		"publisher"		"Hikare 个人汉化"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"NOeSIS01-诉说谎言的记忆之物语"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NOeSIS01_Start.exe"
+				"type"		"option1"
+				"description_loc"
+				{
+					"english"		"NOeSIS01（默认启动项）"
+				}
+				"description"		"NOeSIS01（默认启动项）"
+			}
+			"1"
+			{
+				"executable"		"NOeSIS01_Spare.exe"
+				"type"		"option2"
+				"description_loc"
+				{
+					"english"		"NOeSIS01（仅默认启动项不可用时使用）"
+				}
+				"description"		"NOeSIS01（仅默认启动项不可用时使用）"
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"8"
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese,japanese"
+		"hasdepotsindlc"		"0"
+		"1246021"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7074970117134491513"
+					"size"		"205793956"
+					"download"		"181012416"
+				}
+			}
+		}
+		"1246022"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"95467943244301905"
+					"size"		"155921791"
+					"download"		"142613056"
+				}
+			}
+		}
+		"1246510"
+		{
+			"dlcappid"		"1246510"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4188961467108466319"
+					"size"		"8306963"
+					"download"		"8090432"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10653575"
+				"timeupdated"		"1677573100"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Save"
+						"replace"		""
+					}
+				}
+			}
+		}
+	}
+}
