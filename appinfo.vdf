@@ -1,0 +1,117 @@
+"appinfo"
+{
+	"appid"		"2225320"
+	"common"
+	{
+		"name"		"Jeebo & Jerbo vs. Life Demo"
+		"type"		"Demo"
+		"parent"		"1751110"
+		"icon"		"3110c527e9ad399124d0b5efeb9739c855d3245c"
+		"clienticon"		"ec4717e4d1453a07249bac13216f6ce82e02ae23"
+		"clienttga"		"1821a993f1862775b05bbaad6680a76999bcb781"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1678418589"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"StegTech LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"StegTech LLC"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1668979261"
+		"gameid"		"2225320"
+	}
+	"extended"
+	{
+		"demoofappid"		"1751110"
+		"developer"		"StegTech LLC"
+		"publisher"		"StegTech LLC"
+	}
+	"config"
+	{
+		"installdir"		"Jeebo & Jerbo vs. Life Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Jeebo Demo.exe"
+				"type"		"default"
+				"description_loc"
+				{
+					"english"		"Launch Game"
+				}
+				"description"		"Launch Game"
+			}
+		}
+	}
+	"depots"
+	{
+		"1751111"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2330378303893726423"
+					"size"		"1317364898"
+					"download"		"1093692432"
+				}
+			}
+			"depotfromapp"		"1751110"
+		}
+		"2225321"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5958324697627214788"
+					"size"		"416131707"
+					"download"		"352463360"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10961665"
+				"timeupdated"		"1680970674"
+			}
+		}
+	}
+}
