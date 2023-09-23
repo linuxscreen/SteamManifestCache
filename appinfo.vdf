@@ -1,0 +1,272 @@
+"appinfo"
+{
+	"appid"		"1831740"
+	"common"
+	{
+		"name"		"December 24th"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"b66b625f8df7cfb466692a6658f81b5599668a4a"
+		"clienttga"		"376447c447d64c85ea21b81753ff23c00186d2aa"
+		"icon"		"2935f37db7aca66c5d2e7c0c688a1eabfdf17ee4"
+		"linuxclienticon"		"6ca6189379524429e57be191d446af671b55d2b3"
+		"logo"		"58d03f581a65526e2b9aef248e040dc470feaa38"
+		"logo_small"		"58d03f581a65526e2b9aef248e040dc470feaa38_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1831740_eula_0"
+				"name"		"December 24th EULA"
+				"url"		"https://store.steampowered.com//eula/1831740_eula_0"
+				"version"		"1"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.13185530921819"
+				"height_pct"		"88.98176342895121"
+			}
+		}
+		"store_asset_mtime"		"1651332741"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alien Brigade"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Oberlippentanz"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Kalifas"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Gazmatera"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+		}
+		"supported_languages"
+		{
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1659518064"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1831740"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"5055"
+			"3"		"176981"
+			"4"		"1774"
+			"5"		"5547"
+			"6"		"4758"
+			"7"		"1663"
+			"8"		"4191"
+			"9"		"4085"
+			"10"		"4726"
+			"11"		"4094"
+			"12"		"3839"
+			"13"		"4252"
+			"14"		"7743"
+			"15"		"4598"
+			"16"		"1647"
+			"17"		"1678"
+			"18"		"17894"
+			"19"		"10397"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Alien Brigade"
+		"publisher"		"Kalifas"
+		"homepage"		"https://vk.com/lvl90dru1d"
+		"gamemanualurl"		"https://store.steampowered.com/manual/1831740/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"December 24th"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ComandanteJeff.exe"
+				"arguments"		"-d3d12"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Run with DirectX 12 (recommended)"
+					"russian"		"Запуск с DirectX 12 (рекомендуется)"
+				}
+				"description"		"Run with DirectX 12 (recommended)"
+			}
+			"1"
+			{
+				"executable"		"ComandanteJeff.exe"
+				"arguments"		"-d3d11"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Run with DirectX 11 (Windows 8.1 and earlier)"
+					"russian"		"Запуск с DirectX 11 (Windows 8.1 и ранее)"
+				}
+				"description"		"Run with DirectX 11 (Windows 8.1 and earlier)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1831741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1428876665117915751"
+					"size"		"14282544937"
+					"download"		"4632882720"
+				}
+			}
+		}
+		"1831742"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"501284260667779947"
+					"size"		"10565295577"
+					"download"		"3469966688"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9243475"
+				"timeupdated"		"1659517997"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"16384000"
+		"maxnumfiles"		"256"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ComandanteJeff"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
