@@ -1,0 +1,249 @@
+"appinfo"
+{
+	"appid"		"1745690"
+	"common"
+	{
+		"name"		"Deluge: Threnody of Crashing Waves"
+		"type"		"Game"
+		"logo"		"96889409a841bb76ac9f24c1062959ba1e72c767"
+		"logo_small"		"96889409a841bb76ac9f24c1062959ba1e72c767_thumb"
+		"clienticon"		"9d59d684447b14d612ec2ba21382742114fb2557"
+		"clienttga"		"af48682aa5164732a2064e03e8d51329ee40cce1"
+		"icon"		"21689148ded6b94e9558cf4bcac7998d5285230e"
+		"linuxclienticon"		"0b31e2c1d822eb57908011a42ce76086aaa8806d"
+		"clienticns"		"89341929c2f5b0aa8d96f41023d5613875029c6e"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.912118337063"
+				"height_pct"		"71.57048249763483"
+			}
+		}
+		"store_asset_mtime"		"1667136752"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"leaves"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"socah"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Deluge"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1657254114"
+		"steam_deck_blog_url"		"https://steamcommunity.com/app/1745690/discussions/0/3826414483624981151/"
+		"community_hub_visible"		"1"
+		"gameid"		"1745690"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"4085"
+			"2"		"9551"
+			"3"		"15277"
+			"4"		"7432"
+			"5"		"5716"
+			"6"		"5186"
+			"7"		"7208"
+			"8"		"599"
+			"9"		"4486"
+			"10"		"9204"
+			"11"		"1742"
+			"12"		"3871"
+			"13"		"3839"
+			"14"		"5372"
+			"15"		"5673"
+			"16"		"597"
+			"17"		"6426"
+			"18"		"15172"
+			"19"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"leaves"
+		"publisher"		"socah"
+		"homepage"		"https://www.socah.org/leaves/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Deluge Threnody of Crashing Waves"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Deluge.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Deluge.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"Deluge.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian,polish"
+		"1745691"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"895948183376310647"
+					"size"		"1376819085"
+					"download"		"1295426784"
+				}
+			}
+		}
+		"1745692"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3511004530820502614"
+					"size"		"1364383707"
+					"download"		"1290885552"
+				}
+			}
+		}
+		"1745693"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1388214003650602535"
+					"size"		"1376819085"
+					"download"		"1295426784"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11634640"
+				"timeupdated"		"1688594881"
+			}
+		}
+	}
+}
