@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"1713610"
+	"common"
+	{
+		"name"		"Purrgatory"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"3c2f9eddb608e1610c87348c1b40b5eca9dfc9d6"
+		"logo_small"		"3c2f9eddb608e1610c87348c1b40b5eca9dfc9d6_thumb"
+		"icon"		"56d8392a4b3411b4de322db9381c863f7decaba5"
+		"clienticon"		"be752a57ad2f3fa97cd6de9832c02d188c73084b"
+		"clienttga"		"a5dcffb1c28ad9245ef849e96a50528ed8a0a5aa"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"喵的炼狱 / Purrgatory"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1691539200"
+			"tested_build_id"		"11276457"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"88.3903798203429"
+				"height_pct"		"49.24314096499527"
+			}
+		}
+		"store_asset_mtime"		"1684462449"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Niv (Darvin Heo)"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Niv (Darvin Heo)"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1629693405"
+		"community_hub_visible"		"1"
+		"gameid"		"1713610"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"4726"
+			"2"		"44868"
+			"3"		"1698"
+			"4"		"4136"
+			"5"		"17894"
+			"6"		"6815"
+			"7"		"1742"
+			"8"		"597"
+			"9"		"4094"
+			"10"		"3964"
+			"11"		"6971"
+			"12"		"4182"
+			"13"		"113"
+			"14"		"6869"
+			"15"		"21"
+			"16"		"492"
+			"17"		"15172"
+			"18"		"3871"
+			"19"		"1721"
+		}
+		"review_score"		"9"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Niv (Darvin Heo)"
+		"publisher"		"Niv (Darvin Heo)"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Purrgatory"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"purrgatory.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1713611"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6143080677125152911"
+					"size"		"244641776"
+					"download"		"166371168"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11276457"
+				"timeupdated"		"1684547231"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Godot/app_userdata/purrgatory"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
