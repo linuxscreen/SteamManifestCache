@@ -1,0 +1,320 @@
+"appinfo"
+{
+	"appid"		"2346550"
+	"common"
+	{
+		"name"		"Rise of Eros"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2346550_eula_0"
+				"name"		"Rise of Eros EULA"
+				"url"		"https://store.steampowered.com//eula/2346550_eula_0"
+				"version"		"7"
+			}
+		}
+		"icon"		"dfa36b0cdb8423bc7c35736a30f78d0bdbcf7ec3"
+		"clienticon"		"67441694c70c0a43c661972cd304ade91c465d3b"
+		"clienttga"		"adc04dc84dfe3518dd0553611fda4991849601e3"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"4"
+			"3"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1693526400"
+			"tested_build_id"		"11770146"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"koreana"		"header_koreana.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ja,ko,zh-tw,en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-tw,ja,ko,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"90.08667090851159"
+				"height_pct"		"78.12482363810454"
+			}
+		}
+		"store_asset_mtime"		"1689762184"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"THE SHADOW STUDIO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PINKCORE"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"29"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1689562765"
+		"community_hub_visible"		"1"
+		"gameid"		"2346550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"5611"
+			"2"		"9130"
+			"3"		"4191"
+			"4"		"4474"
+			"5"		"14139"
+			"6"		"5395"
+			"7"		"1775"
+			"8"		"1741"
+			"9"		"1754"
+			"10"		"9"
+			"11"		"122"
+			"12"		"776177"
+			"13"		"29363"
+			"14"		"4947"
+			"15"		"18594"
+			"16"		"1742"
+			"17"		"31579"
+			"18"		"4325"
+			"19"		"4175"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"developer"		"THE SHADOW STUDIO"
+		"publisher"		"PINKCORE"
+		"homepage"		"https://riseoferos.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Rise of Eros"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RiseOfEros.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2346551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9000581133638338971"
+					"size"		"12514867837"
+					"download"		"10626842000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"denuvo_beta"
+				{
+					"gid"		"B97B21B7AAA2AC74B7F19C91FA13D780"
+					"size"		"C4249FC09547D8E1951F56CB343F8C6A"
+					"download"		"A312769BE479414814A4BF1D2CBE6B69"
+				}
+				"internal"
+				{
+					"gid"		"0CB230D7466DD0D5534652E0DA8013CA"
+					"size"		"84B4488DC0A565ABA1A70868FFD5FD2E"
+					"download"		"9D14B0CFA6BFD89E25DF87F4565F51DA"
+				}
+				"v1.5.4"
+				{
+					"gid"		"D6BA1034809CEEBC6E6D4CD3BC0CA2CD"
+					"size"		"6B2BD5C86B04EF6437A8CC4C0174BC39"
+					"download"		"BB47826860511ECD564A1FA660A5464C"
+				}
+				"v1.6.1"
+				{
+					"gid"		"A1F143261CB2EF761A3782CAB9FE4255"
+					"size"		"DAEA7CA1D0369D676FF4C70C44A7FA80"
+					"download"		"B39A2147B2AB8E5AFDB56E2BF2A041D1"
+				}
+				"v1.6.2"
+				{
+					"gid"		"63186BE5226558228807AFDA44E1012E"
+					"size"		"E9164DAFCA48F74F13A9CBA9C6687868"
+					"download"		"ACB42E47D772403EF88E8F87D69C1A05"
+				}
+				"v2.0.1"
+				{
+					"gid"		"6059B43E71DE46416E3C99CFE4729C1E"
+					"size"		"9AE892F7EB7338B341EDA18A6721EF91"
+					"download"		"769BE95031FD50B579D1DCD39C92D41D"
+				}
+				"v2.0.2"
+				{
+					"gid"		"A6782120462D330D17EED5B345BE27A9"
+					"size"		"B2A2591C128BD3F50D43BA532C2CB235"
+					"download"		"43C2FB105C3646464307599151D6A39A"
+				}
+			}
+		}
+		"baselanguages"		"english,koreana,schinese,tchinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12184782"
+				"timeupdated"		"1694684875"
+			}
+			"denuvo_beta"
+			{
+				"buildid"		"11576175"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687939936"
+			}
+			"internal"
+			{
+				"buildid"		"11693350"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689248961"
+			}
+			"v1.5.4"
+			{
+				"buildid"		"11694725"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689308739"
+			}
+			"v1.6.1"
+			{
+				"buildid"		"11770146"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690165281"
+			}
+			"v1.6.2"
+			{
+				"buildid"		"11811755"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690550390"
+			}
+			"v2.0.1"
+			{
+				"buildid"		"12139243"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694156393"
+			}
+			"v2.0.2"
+			{
+				"buildid"		"12184782"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694666794"
+			}
+		}
+	}
+}
