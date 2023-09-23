@@ -1,0 +1,223 @@
+"appinfo"
+{
+	"appid"		"2056220"
+	"common"
+	{
+		"name"		"Bloody Hell"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"3f45cfad2c0ad8c91785aec0c76d14f95108e871"
+		"clienttga"		"5ac2b126475266ebcea76227a5df8a94d416f6b3"
+		"clienticon"		"99e86e06187b2ee863960662aabe649a6adcc179"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticns"		"99e86e06187b2ee863960662aabe649a6adcc179"
+		"linuxclienticon"		"99e86e06187b2ee863960662aabe649a6adcc179"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1681516800"
+			"tested_build_id"		"10446811"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.43705133657545"
+				"height_pct"		"96.52777777777777"
+			}
+		}
+		"store_asset_mtime"		"1674838673"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pun Intended"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pun Intended"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1674838567"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2056220"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4885"
+			"1"		"1628"
+			"2"		"3964"
+			"3"		"4758"
+			"4"		"492"
+			"5"		"4345"
+			"6"		"29482"
+			"7"		"4182"
+			"8"		"9541"
+			"9"		"4791"
+			"10"		"6869"
+			"11"		"21"
+			"12"		"7481"
+			"13"		"3993"
+			"14"		"113"
+			"15"		"4106"
+			"16"		"3871"
+			"17"		"4136"
+			"18"		"19"
+			"19"		"3952"
+		}
+		"review_score"		"9"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Pun Intended"
+		"publisher"		"Pun Intended"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Bloody Hell"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bloody Hell.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2056221"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7626749993134319479"
+					"size"		"467073276"
+					"download"		"53193024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internaltest"
+				{
+					"gid"		"E2B32856EA5DD4823186EC303D26DDE4"
+					"size"		"FA28AE7FF53A9A631BA41ADEEBC1AEDF"
+					"download"		"DACF96C9799501C10D0A1112376DCA75"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11443801"
+				"timeupdated"		"1686497484"
+			}
+			"internaltest"
+			{
+				"buildid"		"11443801"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686497016"
+			}
+		}
+	}
+}
