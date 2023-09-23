@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1302110"
+	"common"
+	{
+		"name"		"Inertial Drift Sunset Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"73e15847fb828f2d9df17533766a829cd08b487e"
+		"logo"		"7df0faa4f519f9b8aaf6668bbc5ef1863d955ab2"
+		"logo_small"		"7df0faa4f519f9b8aaf6668bbc5ef1863d955ab2_thumb"
+		"clienticon"		"6676f2ae3868b7cfeacbda411174028b7ed1ca2b"
+		"clienttga"		"2431eb6f656fdc5c8465b018d6275f81b6f7c276"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1669391424"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Level 91 Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PQube"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PQube"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592914601"
+		"community_hub_visible"		"1"
+		"gameid"		"1302110"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"3859"
+			"2"		"1775"
+			"3"		"1773"
+			"4"		"4182"
+			"5"		"597"
+			"6"		"1644"
+			"7"		"113"
+			"8"		"701"
+			"9"		"4191"
+			"10"		"4252"
+			"11"		"4305"
+			"12"		"10816"
+			"13"		"4295"
+			"14"		"5411"
+			"15"		"3968"
+			"16"		"492"
+			"17"		"7481"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Level 91 Entertainment"
+		"publisher"		"PQube"
+		"homepage"		"https://pqube.co.uk/inertial-drift/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Inertial Drift Sunset Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"InertialDrift.exe"
+				"type"		"default"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"1302111"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6554992388910306394"
+					"size"		"1991465637"
+					"download"		"694978608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"FAC53EBBFFDBED8034D7634D92BAAE87"
+					"size"		"19B17F025880429A854A387A7C3D4EB1"
+					"download"		"E877EA390CD2309E258E34D76C8A9915"
+				}
+				"other"
+				{
+					"gid"		"EC2031DAF57D4C005D5BDE0766EA2C4F"
+					"size"		"A42B7335B71FB8E5047F015409AD96BD"
+					"download"		"E8F0C54C41F7FEA0021B780B427B13C9"
+				}
+			}
+		}
+		"workshopdepot"		"1302110"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5221830"
+				"timeupdated"		"1593468124"
+			}
+			"develop"
+			{
+				"buildid"		"5221830"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593214884"
+			}
+			"other"
+			{
+				"buildid"		"12008215"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692752497"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000000"
+		"maxnumfiles"		"30"
+	}
+}
