@@ -1,0 +1,305 @@
+"appinfo"
+{
+	"appid"		"212140"
+	"common"
+	{
+		"name"		"Magical Diary Demo"
+		"type"		"Demo"
+		"clienticon"		"060a25b54e974bef24ed5945644de2c67b51ada5"
+		"clienttga"		"c7fe5e9760208b5267132f5013a139b29ea0144e"
+		"icon"		"b93c8e50620abbe1c996e60b82f2530c7750a5c1"
+		"clienticns"		"1bf1c213621172a3d0ec493aec5f178c39c55724"
+		"logo"		"3678b81d3d88133f8d1e9e1fd8da5aa2615c04da"
+		"logo_small"		"3678b81d3d88133f8d1e9e1fd8da5aa2615c04da_thumb"
+		"freeondemand"		"1"
+		"parent"		"211340"
+		"oslist"		"windows,macos,linux"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1341972111"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hanako Games"
+			}
+		}
+		"primary_genre"		"0"
+		"steam_release_date"		"1341971220"
+		"gameid"		"212140"
+	}
+	"extended"
+	{
+		"developer"		"Hanako Games"
+		"gamedir"		"Magical Diary Demo"
+		"homepage"		""
+		"icon"		""
+		"installscript_macos"		"installscript_osx.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"212141"
+		"primarycache_macos"		"212143"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Magical Diary Demo"
+		"launch"
+		{
+			"0"
+			{
+				"description"		"You have been invited to attend a magical school. Here you can make new friends, learn dozens of spells, face exams in the school dungeons, run for class office, and try to find a date for the May Day Ball. But be careful! You might end up in detention, "
+				"executable"		"MagicalDiary.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"description"		"You have been invited to attend a magical school. Here you can make new friends, learn dozens of spells, face exams in the school dungeons, run for class office, and try to find a date for the May Day Ball. But be careful! You might end up in detention, "
+				"executable"		"MagicalDiary.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"MagicalDiary.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"4"
+			{
+				"executable"		"MagicalDiary-swrender.sh"
+				"description"		"Launch with software renderer"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"5"
+			{
+				"executable"		"Play_in_safe_mode.sh"
+				"description"		"in safe mode"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"beta"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"212143"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3702592081107984679"
+					"size"		"61328453"
+					"download"		"45140672"
+				}
+				"beta"
+				{
+					"gid"		"2633346877974043886"
+					"size"		"61285356"
+					"download"		"45132208"
+				}
+				"oldstable"
+				{
+					"gid"		"6816813373639017868"
+					"size"		"60490634"
+					"download"		"0"
+				}
+			}
+		}
+		"212144"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3271235496423282541"
+					"size"		"976"
+					"download"		"576"
+				}
+				"beta"
+				{
+					"gid"		"3271235496423282541"
+					"size"		"976"
+					"download"		"576"
+				}
+				"oldstable"
+				{
+					"gid"		"7612547586375090331"
+					"size"		"79500"
+					"download"		"0"
+				}
+			}
+		}
+		"212141"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6190315511540878773"
+					"size"		"65256928"
+					"download"		"46406640"
+				}
+				"beta"
+				{
+					"gid"		"5994694656440267727"
+					"size"		"65253906"
+					"download"		"46409840"
+				}
+				"oldstable"
+				{
+					"gid"		"7399335556605886796"
+					"size"		"50893959"
+					"download"		"0"
+				}
+			}
+		}
+		"212142"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2209390823411077531"
+					"size"		"976"
+					"download"		"576"
+				}
+				"beta"
+				{
+					"gid"		"2209390823411077531"
+					"size"		"976"
+					"download"		"576"
+				}
+				"oldstable"
+				{
+					"gid"		"2262105887624718431"
+					"size"		"141661"
+					"download"		"0"
+				}
+			}
+		}
+		"212145"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4954169615715094046"
+					"size"		"79431106"
+					"download"		"49885344"
+				}
+				"beta"
+				{
+					"gid"		"3183244803620541057"
+					"size"		"79538347"
+					"download"		"49924928"
+				}
+				"oldstable"
+				{
+					"gid"		"8832028222780168081"
+					"size"		"50448600"
+					"download"		"0"
+				}
+			}
+		}
+		"212146"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5597446917159057088"
+					"size"		"976"
+					"download"		"576"
+				}
+				"beta"
+				{
+					"gid"		"5597446917159057088"
+					"size"		"976"
+					"download"		"576"
+				}
+				"oldstable"
+				{
+					"gid"		"864423293695009605"
+					"size"		"756749"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1042566"
+				"timeupdated"		"1459297114"
+			}
+			"beta"
+			{
+				"buildid"		"1655425"
+				"description"		"Public beta branch"
+				"timeupdated"		"1487980878"
+			}
+			"oldstable"
+			{
+				"buildid"		"45567"
+				"description"		"The old stable version of the demo, built with Ren'Py 6.11.x"
+				"timeupdated"		"1459297074"
+			}
+		}
+	}
+}
