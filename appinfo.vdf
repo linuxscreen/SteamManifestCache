@@ -1,0 +1,148 @@
+"appinfo"
+{
+	"appid"		"1755410"
+	"common"
+	{
+		"name"		"Gazmatera 2: America's Least Wanted Demo"
+		"type"		"Demo"
+		"parent"		"1749480"
+		"releasestate"		"released"
+		"clienticon"		"23163afc592a9a65009a47c695f85bf4adf256e1"
+		"clienttga"		"05c353f82da5c29cef698a5346b2ae72b1961ef3"
+		"icon"		"59b0767f66ea629aacf9499700201add0b53cdf4"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1636025589"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kalifas (ex-Katapult)"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"LVL90DRU1D"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Katapult (Digital)"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Diaksor (Legacy Platforms)"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"LVL90DRU1D Self-Publishing (Physical Copies)"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631299748"
+		"gameid"		"1755410"
+	}
+	"extended"
+	{
+		"demoofappid"		"1749480"
+		"developer"		"Kalifas (ex-Katapult)"
+		"publisher"		"Katapult (Digital)"
+		"homepage"		"https://vk.com/lvl90dru1d"
+	}
+	"config"
+	{
+		"installdir"		"Gazmatera 2 America's Least Wanted Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"G2.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1755411"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8890372924557132549"
+					"size"		"27614278569"
+					"download"		"7576897488"
+				}
+			}
+		}
+		"1755412"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7643165"
+				"timeupdated"		"1635859385"
+			}
+		}
+	}
+}
