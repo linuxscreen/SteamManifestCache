@@ -1,0 +1,261 @@
+"appinfo"
+{
+	"appid"		"1210600"
+	"common"
+	{
+		"name"		"Trepang2 Demo"
+		"type"		"Demo"
+		"parent"		"1164940"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"f165b7a5421057c90c6abb74ae15144579fed144"
+		"logo_small"		"f165b7a5421057c90c6abb74ae15144579fed144_thumb"
+		"icon"		"d28d766530481db316b30c4deb0f60b3f3d6d020"
+		"clienttga"		"f019d3ee58769fb37e9f0fbb90c63069577659ab"
+		"clienticon"		"e3df30e03d7409ffc3b91d3c3716541bb581e7d5"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664928000"
+			"tested_build_id"		"9129213"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Trepang2 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"42.400854903823316"
+			}
+		}
+		"store_asset_mtime"		"1652446284"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Trepang Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Trepang Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Trepang2"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1576909389"
+		"community_visible_stats"		"1"
+		"gameid"		"1210600"
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"demoofappid"		"1164940"
+		"developer"		"Trepang Studios"
+		"publisher"		"Trepang Studios"
+		"homepage"		"http://www.trepang2.com"
+	}
+	"config"
+	{
+		"installdir"		"Trepang2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CPPFPS.exe"
+				"description"		"Note: Avast can cause crashes with this game, please disable Avast if you use it."
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"workshopdepot"		"1210600"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1210601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2995013949842975069"
+					"size"		"3880199851"
+					"download"		"1649446688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demobeta"
+				{
+					"gid"		"6CD6549A65A34B949C6471BA5AF7C667"
+					"size"		"239FD75A474C4C1D8AE3B7E1AB1B9072"
+					"download"		"7BBA9CF87945EE3BFDBD5088A800FEDC"
+				}
+			}
+		}
+		"1210604"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9834333318146064"
+					"size"		"19389052752"
+					"download"		"8190369424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demobeta"
+				{
+					"gid"		"7A32ADAD74CB49AFDD9D57AC864ADAFC"
+					"size"		"E92E21DC29B4285297714FF3928DF319"
+					"download"		"7C2E3FD8B3CD54F6C08DF765D5D96143"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9129213"
+				"timeupdated"		"1657896960"
+			}
+			"demobeta"
+			{
+				"buildid"		"9125120"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657850497"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
