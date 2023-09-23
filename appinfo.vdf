@@ -1,0 +1,310 @@
+"appinfo"
+{
+	"appid"		"1110960"
+	"common"
+	{
+		"name"		"Cosmoteer Demo"
+		"type"		"Demo"
+		"parent"		"799600"
+		"clienticon"		"ea54172f2ff7b6a274851d48e0822e82863adfa9"
+		"clienttga"		"9b9b958b6345f5ed336f40e3591004aa407842f9"
+		"icon"		"eac00aedfa4479669a5beff8007d4e0f8b8d0a78"
+		"oslist"		"windows"
+		"osarch"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1110960_eula_0"
+				"name"		"Cosmoteer Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1110960_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"logo"		"14d82e8db5471a1150e3a000b440447db6313f83"
+		"logo_small"		"14d82e8db5471a1150e3a000b440447db6313f83_thumb"
+		"metacritic_name"		"Cosmoteer Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"24.3111590536176"
+			}
+		}
+		"store_asset_mtime"		"1693253945"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Walternate Realities"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Walternate Realities"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1561735200"
+		"gameid"		"1110960"
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"demoofappid"		"799600"
+		"developer"		"Walternate Realities"
+		"publisher"		"Walternate Realities"
+		"homepage"		"https://cosmoteer.net/"
+	}
+	"config"
+	{
+		"installdir"		"Cosmoteer Demo"
+		"steamcontrollertemplateindex"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bin/Cosmoteer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"Cosmoteer.exe"
+				"description"		"Player Old Version (0.15.3 and older)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"0.14.14 0.14.15 0.15.0 0.15.1 0.15.2 0.15.3"
+				}
+			}
+		}
+		"steamcontrollerconfigdetails"
+		{
+			"2874577950"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1110961"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5049332238360362907"
+					"size"		"552277621"
+					"download"		"524068256"
+				}
+				"classic"
+				{
+					"gid"		"6982830380730695883"
+					"size"		"117433082"
+					"download"		"99626416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"7263DB2A9CBA8084AA5CE14024ADE10B"
+					"size"		"7A76E62F90C72C703529DFF3F44425DB"
+					"download"		"CDB50F33AD76490C0D93FA0C77775531"
+				}
+			}
+		}
+		"1110962"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5083763525612155033"
+					"size"		"234152313"
+					"download"		"72681040"
+				}
+				"classic"
+				{
+					"gid"		"3292293046463802446"
+					"size"		"226324471"
+					"download"		"71518032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"57524AFEC330C4B034BF3A728551A71D"
+					"size"		"089BD6B5E7CE9F07185EFBFA3A0A5959"
+					"download"		"FBFDB2432871F9AFC463F903319E091C"
+				}
+			}
+		}
+		"1110963"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8739528002505294695"
+					"size"		"251467655"
+					"download"		"80036480"
+				}
+				"classic"
+				{
+					"gid"		"134676358724339210"
+					"size"		"244002581"
+					"download"		"79570400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"AC3BC462901E992533282B0C793A60EC"
+					"size"		"9860F32E63AB2DEFB7B9C9FDDD0DD4F0"
+					"download"		"5342C8A43C45FCE6BDAD5F13AB18EF77"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,schinese,russian,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12063724"
+				"timeupdated"		"1693353261"
+			}
+			"classic"
+			{
+				"buildid"		"9480814"
+				"description"		"Cosmoteer Classic"
+				"timeupdated"		"1663712396"
+			}
+			"developer"
+			{
+				"buildid"		"12063724"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693353098"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games\\Cosmoteer\\Saved Ships"
+				"pattern"		"*.ship.png"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games\\Cosmoteer\\Saved Games"
+				"pattern"		"*.savedgame"
+			}
+			"2"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Cosmoteer\\{64BitSteamID}\\Saved Ships"
+				"pattern"		"*.ship.png"
+				"recursive"		"1"
+			}
+			"3"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Cosmoteer\\{64BitSteamID}\\Saved Games"
+				"pattern"		"*.savedgame"
+			}
+		}
+		"sync_while_suspended"		"1"
+	}
+}
