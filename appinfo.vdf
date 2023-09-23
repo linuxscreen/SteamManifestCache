@@ -1,0 +1,105 @@
+"appinfo"
+{
+	"appid"		"2241780"
+	"common"
+	{
+		"name"		"WildArea Demo"
+		"type"		"Demo"
+		"parent"		"2159980"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"d9fcca58376420502db85bfef728669e85745822"
+		"clienticon"		"3f37ef88d87736f8faf8ca72c09a8f4ce22dd224"
+		"clienttga"		"dea6107cc3ea4a599f01f3cf847c382cbce0a750"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1670126682"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Color Rain"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Color Rain"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1670364464"
+		"gameid"		"2241780"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2159980"
+		"developer"		"Color Rain"
+		"publisher"		"Color Rain"
+	}
+	"config"
+	{
+		"installdir"		"와일드 에리어 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WildArea Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana"
+		"2241781"
+		{
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6116890199777588011"
+					"size"		"50890467"
+					"download"		"23995008"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12232868"
+				"timeupdated"		"1695188541"
+			}
+		}
+	}
+}
