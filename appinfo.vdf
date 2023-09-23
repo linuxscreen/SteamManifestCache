@@ -1,0 +1,130 @@
+"appinfo"
+{
+	"appid"		"1982040"
+	"common"
+	{
+		"name"		"Shotgun King: The Final Checkmate Demo"
+		"type"		"Demo"
+		"parent"		"1972440"
+		"clienttga"		"aed0f12a5dfdf543d5ea56ebe1caa650a55cd044"
+		"clienticon"		"bf0d4ba0e1e90c37883332007523e5c75d9b6910"
+		"icon"		"c58fa02b849dcf43e597bea8f637953ac8ae9e99"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"66.33816195677986"
+			}
+		}
+		"store_asset_mtime"		"1651097922"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PUNKCAKE Delicieux"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PUNKCAKE Delicieux"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1651097661"
+		"gameid"		"1982040"
+	}
+	"extended"
+	{
+		"demoofappid"		"1972440"
+		"developer"		"PUNKCAKE Delicieux"
+		"publisher"		"PUNKCAKE Delicieux"
+	}
+	"config"
+	{
+		"installdir"		"Shotgun King The Final Checkmate Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"shotgun_king_demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"shotgun_king_demo.exe"
+				"arguments"		"shaderless"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Compatibility mode - no CRT effect"
+				}
+				"description"		"Compatibility mode - no CRT effect"
+			}
+		}
+	}
+	"depots"
+	{
+		"1982041"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1958290522992672950"
+					"size"		"66963112"
+					"download"		"32619840"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8973448"
+				"timeupdated"		"1655751401"
+			}
+		}
+	}
+}
