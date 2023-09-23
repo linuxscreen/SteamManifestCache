@@ -1,0 +1,242 @@
+"appinfo"
+{
+	"appid"		"603540"
+	"common"
+	{
+		"name"		"Soul Saber 2 Demo"
+		"type"		"Demo"
+		"parent"		"581230"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"7e581403dc46d2e01a958878ac5a4155414bba84"
+		"clienttga"		"abbf49db5f2da1e9cc9efb14caa66844dad26953"
+		"icon"		"a68429443a44a76ff5ff45d0bdbc07bec0030c8d"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"Soul Saber 2 Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1488418310"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Yamadaya"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Henteko Doujin"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1489114158"
+		"community_hub_visible"		"1"
+		"gameid"		"603540"
+	}
+	"extended"
+	{
+		"demoofappid"		"581230"
+		"developer"		"Yamadaya"
+		"publisher"		"Henteko Doujin"
+		"gamemanualurl"		"https://store.steampowered.com/manual/603540/"
+	}
+	"config"
+	{
+		"installdir"		"Soul Saber 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"soulsaber2.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,spanish,schinese,tchinese,japanese"
+		"603541"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5161994882202115051"
+					"size"		"691670957"
+					"download"		"121590416"
+				}
+			}
+		}
+		"603542"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3310057753501501582"
+					"size"		"3358960"
+					"download"		"906672"
+				}
+			}
+		}
+		"603543"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2880786416583175419"
+					"size"		"3347034"
+					"download"		"905584"
+				}
+			}
+		}
+		"603544"
+		{
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7543410286981460223"
+					"size"		"3349123"
+					"download"		"905568"
+				}
+			}
+		}
+		"603545"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7756379130569865470"
+					"size"		"3337026"
+					"download"		"904720"
+				}
+			}
+		}
+		"603546"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3582463635158172578"
+					"size"		"3347586"
+					"download"		"905376"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1729951"
+				"timeupdated"		"1491062781"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000"
+		"maxnumfiles"		"20"
+		"appidredirect"		"581230"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save/"
+				"pattern"		"*.DAT"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
