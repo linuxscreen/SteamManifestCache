@@ -1,0 +1,376 @@
+"appinfo"
+{
+	"appid"		"1442670"
+	"common"
+	{
+		"name"		"Hamster Playground"
+		"type"		"Game"
+		"icon"		"0a09c05c5c56de3687a717c7eeb6fe7f7557d2f8"
+		"logo"		"cfc987beb94bcc57d24f8e1ab4543578191ea66f"
+		"logo_small"		"cfc987beb94bcc57d24f8e1ab4543578191ea66f_thumb"
+		"clienticon"		"1b71822ca75852c6ab93c3d28931afdb0a8a6606"
+		"clienttga"		"5f2c92b4c8f5c2707a7b74c4d1b117b63fd2c6fa"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.27071443290646"
+				"height_pct"		"47.37979322561367"
+			}
+		}
+		"store_asset_mtime"		"1681203325"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mass Creation"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"We Dig Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"We Dig Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"9"
+			"3"		"28"
+			"4"		"37"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_23"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_59"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1661188560"
+		"community_hub_visible"		"1"
+		"gameid"		"1442670"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4747"
+			"1"		"7481"
+			"2"		"4726"
+			"3"		"5350"
+			"4"		"597"
+			"5"		"1654"
+			"6"		"9204"
+			"7"		"5537"
+			"8"		"16689"
+			"9"		"699"
+			"10"		"1664"
+			"11"		"1643"
+			"12"		"1625"
+			"13"		"10235"
+			"14"		"5851"
+			"15"		"4305"
+			"16"		"1697"
+			"17"		"1719"
+			"18"		"599"
+			"19"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Mass Creation"
+		"publisher"		"We Dig Games"
+		"homepage"		"https://wediggames.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2184750"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hamster Playground"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hamster Playground.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Hamster Playground.app\\Contents\\MacOS\\Hamster Playground"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Hamster Playground.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"1442671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"711805622900708162"
+					"size"		"4809309323"
+					"download"		"4340932176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"57E4A056EDF8E1584B72BAFE9AD9699A"
+					"size"		"038A9B8D5DE8CB9613DBB1C274C811E7"
+					"download"		"A9784E8915C47019699FBE77B01FA107"
+				}
+				"internaldevmode"
+				{
+					"gid"		"6E25812DD1167FD2066D0EA829107705"
+					"size"		"D494F19F6CD3AE83F06F678D90FF36F7"
+					"download"		"3E5D1D6A7C3FD7CFD05BC187D381A052"
+				}
+				"marketing"
+				{
+					"gid"		"82F46FE14FE1827DB00F78CCB1979D9A"
+					"size"		"24242595F5B3B80A75173A4F8577C847"
+					"download"		"36F2B8D2DCFF291E1CBAF6C25856F83E"
+				}
+			}
+		}
+		"1442672"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6291355001943632927"
+					"size"		"4730313657"
+					"download"		"4288597184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"D6B9FAB7D7DD56B33D3C3EE65B7C89AD"
+					"size"		"44C014EAEF5701CE593BD1C676557C6F"
+					"download"		"86A48C443E822FF2D686DE3FC9E7C353"
+				}
+				"internaldevmode"
+				{
+					"gid"		"E9C6CD79B35A1AE4B315F8333494D063"
+					"size"		"B2C406E57968DB344E74606161187E5B"
+					"download"		"77C7B7531923FD194793C1857F726D86"
+				}
+				"marketing"
+				{
+					"gid"		"3B9880F861519870B60996816C7D1E76"
+					"size"		"63BF3391A97DBFE520569B7D66B5BE4B"
+					"download"		"0C672BAF9CA76EEBAD2EA9B1AC379D53"
+				}
+			}
+		}
+		"1442673"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2184366316006157626"
+					"size"		"4802194590"
+					"download"		"4316981456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"1254D14E213CA7C1A1B04D345A52ED3E"
+					"size"		"F5502CBB61E7F78AEAFA924BD0F5810B"
+					"download"		"2A5AB3E0E428C62CA1A0D854D090DE45"
+				}
+				"internaldevmode"
+				{
+					"gid"		"532E2F2FFEF42AC7B1877C4101968D6B"
+					"size"		"B3941FB58912A25D3BF975DCDC5BA74B"
+					"download"		"49D6BBF1B83AA37096B4A6A3729E9B5E"
+				}
+				"marketing"
+				{
+					"gid"		"F42A72D955FE83AA05D119DB62DE80ED"
+					"size"		"533F4ED9012FCE8F06B39ADF215DEA21"
+					"download"		"DCD89DE294174DAD468DA5AD064B77AC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10136271"
+				"timeupdated"		"1670930591"
+			}
+			"internal"
+			{
+				"buildid"		"10392371"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674574203"
+			}
+			"internaldevmode"
+			{
+				"buildid"		"10489692"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675703667"
+			}
+			"marketing"
+			{
+				"buildid"		"10106627"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670511232"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+	}
+}
