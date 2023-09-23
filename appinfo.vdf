@@ -1,0 +1,126 @@
+"appinfo"
+{
+	"appid"		"2340750"
+	"common"
+	{
+		"name"		"Rise of the Funkys Demo"
+		"type"		"Demo"
+		"parent"		"2261100"
+		"releasestate"		"released"
+		"clienttga"		"d263d3770d9179694bd7a3765a0b1f29da957b29"
+		"clienticon"		"8afcd748be75100313009a56f3e93d3aa84d26df"
+		"icon"		"e14d1ef376c59628921cc12b0f5540ee9a5c3675"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"64.23966935839533"
+			}
+		}
+		"store_asset_mtime"		"1677661143"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ideal Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ideal Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678720915"
+		"gameid"		"2340750"
+	}
+	"extended"
+	{
+		"demoofappid"		"2261100"
+		"developer"		"Ideal Games"
+		"publisher"		"Ideal Games"
+	}
+	"config"
+	{
+		"installdir"		"Rise of the Funkys Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Rise of the Funkys Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2340751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6107293760775706463"
+					"size"		"144719467"
+					"download"		"86314928"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11591970"
+				"timeupdated"		"1688070234"
+			}
+		}
+	}
+}
