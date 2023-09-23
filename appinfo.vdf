@@ -1,0 +1,276 @@
+"appinfo"
+{
+	"appid"		"1451110"
+	"common"
+	{
+		"name"		"Lawyer Guy: Defender of Justice"
+		"type"		"Game"
+		"logo"		"a2d1aa76e492185f313e7efd19b766b75931d609"
+		"logo_small"		"a2d1aa76e492185f313e7efd19b766b75931d609_thumb"
+		"icon"		"9c1b074863ed33eb340bdf3b020733656df35702"
+		"clienticon"		"211779717816045ecfe8b2d88900dfc92e931c68"
+		"clienttga"		"75343c38433f7600fff6e5412025dae0748adc86"
+		"linuxclienticon"		"6901b7c5e01cdd9858d9b118fda18a3e2aff05ad"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1611161793"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rob Welch"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rob Welch"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1604663359"
+		"community_hub_visible"		"1"
+		"gameid"		"1451110"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"5379"
+			"2"		"4026"
+			"3"		"3916"
+			"4"		"3964"
+			"5"		"5752"
+			"6"		"3942"
+			"7"		"4726"
+			"8"		"5350"
+			"9"		"19"
+			"10"		"4295"
+			"11"		"4136"
+			"12"		"4004"
+			"13"		"4195"
+			"14"		"4711"
+			"15"		"1625"
+			"16"		"3798"
+			"17"		"3877"
+			"18"		"3871"
+			"19"		"4305"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"disableoverlay"		"1"
+		"developer"		"Rob Welch"
+		"publisher"		"Rob Welch"
+		"homepage"		"http://robwel.ch/lawyer-guy"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Lawyer Guy Defender of Justice"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"demo6\\Lawyer_Guy_Demo_6.exe"
+				"workingdir"		"demo6"
+				"description"		"'Clockwork Gadget'"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"demo6/build/Chowdren"
+				"workingdir"		"demo6"
+				"description"		"'Clockwork Gadget'"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"demo7\\Lawyer_Guy_Demo_7.exe"
+				"workingdir"		"demo7"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"'Desolation Zone'"
+				}
+				"description"		"'Desolation Zone'"
+			}
+			"3"
+			{
+				"executable"		"demo7/build/Chowdren"
+				"workingdir"		"demo7"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"'Desolation Zone'"
+				}
+				"description"		"'Desolation Zone'"
+			}
+			"4"
+			{
+				"executable"		"demo8\\Lawyer_Guy_Demo_8.exe"
+				"workingdir"		"demo8"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"'Electric Forest' (new!)"
+				}
+				"description"		"'Electric Forest' (new!)"
+			}
+			"5"
+			{
+				"executable"		"demo8/build/Chowdren"
+				"workingdir"		"demo8"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"'Electric Forest' (new!)"
+				}
+				"description"		"'Electric Forest' (new!)"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"1451111"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"963047452860071287"
+					"size"		"117794081"
+					"download"		"30636000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"F9D8ABF9DB7936545E553AE4E536573B"
+					"size"		"721A7CEBC59765639800EB3DC6C737F1"
+					"download"		"1C487D7B6D3B6CC5CC5F934201840397"
+				}
+			}
+		}
+		"1451112"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7846465016857314857"
+					"size"		"36198878"
+					"download"		"28657184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"06EBEB41FFA72BCAC033E8722E444BBA"
+					"size"		"DCA7498949BDDE09A46678598F6D819E"
+					"download"		"67A8F8A2A02C1474967ACF10871456F8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6648343"
+				"timeupdated"		"1620211472"
+			}
+			"testing"
+			{
+				"buildid"		"6648343"
+				"pwdrequired"		"1"
+				"timeupdated"		"1620211605"
+			}
+		}
+	}
+}
