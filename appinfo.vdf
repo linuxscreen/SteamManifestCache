@@ -1,0 +1,166 @@
+"appinfo"
+{
+	"appid"		"1720380"
+	"common"
+	{
+		"name"		"跑团工坊 TRPG Workshop Demo"
+		"type"		"Demo"
+		"parent"		"1640990"
+		"clienticon"		"50ee468015d0a28e07cc1b5474863c6c0378b824"
+		"clienttga"		"e9cbfa4a8f3beec38af96762cf8023658ed37e8a"
+		"icon"		"4d21ba43bc3b9cf616256de0af34803eed87dc72"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1720380_eula_0"
+				"name"		"跑团工坊 TRPG Workshop Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1720380_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"logo"		"3642daacd7f4e4aef48a54d30c33c018fbc442c4"
+		"logo_small"		"3642daacd7f4e4aef48a54d30c33c018fbc442c4_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"60.580645161290334"
+				"height_pct"		"75"
+			}
+		}
+		"store_asset_mtime"		"1628606929"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Starship Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Starship Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1628606983"
+		"gameid"		"1720380"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1640990"
+		"developer"		"Starship Studio"
+		"publisher"		"Starship Studio"
+	}
+	"config"
+	{
+		"installdir"		"跑团工坊 TRPG Workshop Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"lanting/跑团工坊.exe"
+				"description_loc"
+				{
+					"schinese"		"1.0版本"
+				}
+			}
+			"1"
+			{
+				"executable"		"trpgworkshop.exe"
+				"description_loc"
+				{
+					"schinese"		"旧版本(已停用，即将移除)"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1720381"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1011672114198664455"
+					"size"		"532387892"
+					"download"		"188302944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-test"
+				{
+					"gid"		"1528D2DB160E195009F75BE449F4D699"
+					"size"		"DA83DE74F01D13521C706A3C6D53F204"
+					"download"		"D4F327DED42E9F3DF2F94E508DF4EA7F"
+				}
+				"lt-test"
+				{
+					"gid"		"CC9F2522870ABE5922DBD4A19A6EED5A"
+					"size"		"D0FC02E84DCBCDE17F46C0A75B9B8EA8"
+					"download"		"735482FA9D1A4EF356990C3734E3EBAF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10364718"
+				"timeupdated"		"1674214461"
+			}
+			"dev-test"
+			{
+				"buildid"		"10364718"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674201011"
+			}
+			"lt-test"
+			{
+				"buildid"		"10364718"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674200835"
+			}
+		}
+	}
+}
