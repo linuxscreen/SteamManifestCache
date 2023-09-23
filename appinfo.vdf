@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"2338520"
+	"common"
+	{
+		"name"		"Underground Blossom Demo"
+		"type"		"Demo"
+		"parent"		"2291850"
+		"icon"		"6bf51729a48287d60ab2adfdca41bc957e415877"
+		"clienttga"		"813eed04ab6001052d052cc100ecd13aef4e566f"
+		"clienticon"		"ef9dc4ee79b33862a317a6e3fd630a2e905cb0e8"
+		"clienticns"		"9220a10b74ca31bb06af169e95b194a53198bad6"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1681826753"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rusty Lake"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rusty Lake"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Rusty Lake"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682351443"
+		"gameid"		"2338520"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2291850"
+		"developer"		"Rusty Lake"
+		"publisher"		"Rusty Lake"
+		"homepage"		"https://www.rustylake.com"
+	}
+	"config"
+	{
+		"installdir"		"Underground Blossom Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"undergroundblossomdemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"undergroundblossomdemo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2338521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4108299954302423510"
+					"size"		"91157928"
+					"download"		"74668240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"translator"
+				{
+					"gid"		"F585929A4DC05D28A172D3734EEB0601"
+					"size"		"9AB7B497C5843DA4A61FE3FB22250C0E"
+					"download"		"A34F35739B221985A9B5BD75BEDF71AE"
+				}
+			}
+		}
+		"2338522"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2439829278160737036"
+					"size"		"98314319"
+					"download"		"75519296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"translator"
+				{
+					"gid"		"2F386ADC38792B69200E67F6FE455EC6"
+					"size"		"EC2C12ED8DE8A3804963C92D2F15AFC6"
+					"download"		"8D1BAF0FD2F517BA657A3180FA68391D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11814354"
+				"timeupdated"		"1690570416"
+			}
+			"translator"
+			{
+				"buildid"		"11814352"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690570433"
+			}
+		}
+	}
+}
