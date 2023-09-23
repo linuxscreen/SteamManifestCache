@@ -1,0 +1,170 @@
+"appinfo"
+{
+	"appid"		"1461800"
+	"common"
+	{
+		"name"		"Eggs Catcher VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+		}
+		"name_localized"
+		{
+			"russian"		"Яйцеловка VR"
+			"english"		"Eggs Catcher VR"
+		}
+		"openvrsupport"		"1"
+		"openvr_action_manifest_path"		"EggsCatcherVR_Data\\\\StreamingAssets\\\\SteamVR\\\\actions.json"
+		"clienttga"		"b8e19850e1b7c9066bba6d13f1e54d650402d03d"
+		"clienticon"		"7cdc63d2e05c41adee1df23dfbecfe904cbd300b"
+		"icon"		"ad40c6aa5d097208813693a7f80f8931b974f6cc"
+		"logo"		"a7d2560da706ff588cb905c4189b949492a5a8e3"
+		"logo_small"		"a7d2560da706ff588cb905c4189b949492a5a8e3_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ru"
+			"library_hero"		"en,ru"
+			"library_logo"		"en,ru"
+		}
+		"store_asset_mtime"		"1606221505"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BBR"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VRGal.net"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1604736000"
+		"steam_release_date"		"1606221069"
+		"community_hub_visible"		"1"
+		"gameid"		"1461800"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"597"
+			"2"		"1719"
+			"3"		"87918"
+			"4"		"3916"
+			"5"		"1773"
+			"6"		"5395"
+			"7"		"4191"
+			"8"		"4094"
+			"9"		"4195"
+			"10"		"4562"
+			"11"		"3839"
+			"12"		"4252"
+			"13"		"4305"
+			"14"		"22602"
+			"15"		"5796"
+			"16"		"599"
+			"17"		"3968"
+			"18"		"4182"
+			"19"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"BBR"
+		"publisher"		"VRGal.net"
+		"homepage"		"https://vrgal.net/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"EggsCatcherVR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EggsCatcherVR.exe"
+				"arguments"		"-popupwindow"
+				"description"		"Launch"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1461801"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7796088950432867124"
+					"size"		"258344268"
+					"download"		"72201568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5874534"
+				"timeupdated"		"1606220413"
+			}
+		}
+	}
+}
