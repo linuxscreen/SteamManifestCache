@@ -1,0 +1,255 @@
+"appinfo"
+{
+	"appid"		"1717170"
+	"common"
+	{
+		"name"		"Gentlemen's Club"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"0d1096a2f2fe3f8adf6851c993967bf6c175ad5c"
+		"logo_small"		"0d1096a2f2fe3f8adf6851c993967bf6c175ad5c_thumb"
+		"icon"		"da2b5c481edf244b943833727ec20d0a50600965"
+		"clienticon"		"337cde57e3bb8a2961e1e4a137b9d2ebfc4d2bae"
+		"clienttga"		"0f811127ee59c9ed16672f282623a29e06dc4d7b"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1717170_eula_0"
+				"name"		"Gentlemen's Club EULA"
+				"url"		"https://store.steampowered.com//eula/1717170_eula_0"
+				"version"		"2"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1659657600"
+			"tested_build_id"		"8783571"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"55.34883720930233"
+				"height_pct"		"63.678461173118016"
+			}
+		}
+		"store_asset_mtime"		"1637790648"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Evil Twin"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nutaku Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Nutaku Publishing"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1639416872"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1717170"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"113"
+			"2"		"6650"
+			"3"		"24904"
+			"4"		"597"
+			"5"		"12472"
+			"6"		"599"
+			"7"		"16689"
+			"8"		"10235"
+			"9"		"5611"
+			"10"		"4182"
+			"11"		"4136"
+			"12"		"4975"
+			"13"		"6691"
+			"14"		"5851"
+			"15"		"5984"
+			"16"		"6276"
+			"17"		"8945"
+			"18"		"12057"
+			"19"		"9130"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"developer"		"Evil Twin"
+		"publisher"		"Nutaku Publishing"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Gentlemen's Club"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Gentlemens-Club.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Regular"
+				}
+				"description"		"Launch Regular"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1717171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2765124888080145636"
+					"size"		"1039117612"
+					"download"		"548293280"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12193722"
+				"timeupdated"		"1694737343"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"400000"
+		"maxnumfiles"		"22"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Evil Twin/DEV Gentlemen/Saves/{64BitSteamID}"
+				"pattern"		"savegame.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Evil Twin/Gentlemen's Club/Saves/{64BitSteamID}"
+				"pattern"		"savegame.*"
+			}
+		}
+	}
+}
