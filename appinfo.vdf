@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"1862960"
+	"common"
+	{
+		"name"		"Vestige"
+		"type"		"Game"
+		"logo"		"a76158b2df58289197b09e353c596a2a848f62be"
+		"logo_small"		"a76158b2df58289197b09e353c596a2a848f62be_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"cdd7601aeb02a294d88f5c37eb0a1bcca03375ec"
+		"clienticon"		"de72fd2927ba098399851b12810f9bccaaa58ddc"
+		"clienttga"		"8afcb87bb445d8506235a6b5868de578cab16624"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1660780800"
+			"tested_build_id"		"8295457"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1641412143"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Chemical Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Chemical Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642894151"
+		"community_hub_visible"		"1"
+		"gameid"		"1862960"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1625"
+			"1"		"4106"
+			"2"		"5395"
+			"3"		"6506"
+			"4"		"3834"
+			"5"		"21"
+			"6"		"4182"
+			"7"		"4252"
+			"8"		"1720"
+			"9"		"4191"
+			"10"		"1697"
+			"11"		"7481"
+			"12"		"19"
+			"13"		"7250"
+			"14"		"4305"
+			"15"		"1684"
+			"16"		"4057"
+			"17"		"5716"
+			"18"		"3993"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Chemical Games"
+		"publisher"		"Chemical Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Vestige"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Vestige.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1862961"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7501358243488867527"
+					"size"		"909701065"
+					"download"		"820452592"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8295457"
+				"timeupdated"		"1646159415"
+			}
+		}
+	}
+}
