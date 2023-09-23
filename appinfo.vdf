@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1444110"
+	"common"
+	{
+		"name"		"Summerland"
+		"type"		"Game"
+		"logo"		"a5f93d9821842b7766ec8c7bdd1e1adfd3953171"
+		"logo_small"		"a5f93d9821842b7766ec8c7bdd1e1adfd3953171_thumb"
+		"clienttga"		"390ba20b2f384950e9bbee60ed7b0cba5049a6f2"
+		"clienticns"		"ba3751f282bdf7beab364077ae26818537f05120"
+		"icon"		"08e45a229917e936c63b221393c5e5fa95786a5f"
+		"clienticon"		"2c83bef7ef6797f322c6e58ee620c89b9f8e8832"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"99.06976744186046"
+				"height_pct"		"92.55521253858942"
+			}
+		}
+		"store_asset_mtime"		"1607053121"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FYRE Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"FYRE Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1606885228"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1444110"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1742"
+			"2"		"5900"
+			"3"		"4166"
+			"4"		"3839"
+			"5"		"1698"
+			"6"		"3834"
+			"7"		"11014"
+			"8"		"15277"
+			"9"		"4145"
+			"10"		"4191"
+			"11"		"5613"
+			"12"		"8369"
+			"13"		"7250"
+			"14"		"1664"
+			"15"		"4175"
+			"16"		"5608"
+			"17"		"4252"
+			"18"		"113"
+			"19"		"5716"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"FYRE Games"
+		"publisher"		"FYRE Games"
+		"homepage"		"https://www.fyregames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Summerland"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Summerland.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+			}
+			"1"
+			{
+				"executable"		"Summerland_Mac\\Summerland_Mac.app\\Contents\\MacOS\\Summerland_Mac"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"default"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1444111"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7428753021288355930"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"1444112"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7324571300170622937"
+					"size"		"6264373721"
+					"download"		"2219864384"
+				}
+			}
+		}
+		"1444113"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4415951831205082793"
+					"size"		"6257730993"
+					"download"		"2217932528"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6027061"
+				"timeupdated"		"1609383051"
+			}
+		}
+	}
+}
