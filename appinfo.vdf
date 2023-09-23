@@ -1,0 +1,164 @@
+"appinfo"
+{
+	"appid"		"958340"
+	"common"
+	{
+		"name"		"Legend of Homebody Demo"
+		"type"		"Demo"
+		"parent"		"744260"
+		"clienticon"		"8802659b3f81faadb33a85db403d6a44210af063"
+		"clienttga"		"9140d91395706d75b740358333ccf46909028506"
+		"icon"		"4f174132c2b499ad9f33c557894ac138c5c48415"
+		"logo"		"72986e0952ca226d0107d846c9544019c1a8909f"
+		"logo_small"		"72986e0952ca226d0107d846c9544019c1a8909f_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"releasestate"		"released"
+		"metacritic_name"		"Legend of Homebody Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.75284837861525"
+				"height_pct"		"67.01388888888889"
+			}
+		}
+		"store_asset_mtime"		"1610192275"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"疯王子"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CrazyPrince"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1539155911"
+		"gameid"		"958340"
+	}
+	"extended"
+	{
+		"demoofappid"		"744260"
+		"developer"		"疯王子"
+		"publisher"		"CrazyPrince"
+	}
+	"config"
+	{
+		"installdir"		"Legend of Homebody Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LoHf.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"958341"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7901646382865959583"
+					"size"		"802064832"
+					"download"		"105802016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"4752DA10B39E39B50E3A87C38AFE8381"
+					"size"		"3098084C5C5ED8601BBFBE7976C4F765"
+					"download"		"577A9AED705FE05F7AAF4667EFFB4A7E"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6061859"
+				"timeupdated"		"1610297848"
+			}
+			"test"
+			{
+				"buildid"		"4525594"
+				"pwdrequired"		"1"
+				"timeupdated"		"1577266373"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"30"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"LoH_Data"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+		}
+	}
+}
