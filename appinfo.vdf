@@ -1,0 +1,279 @@
+"appinfo"
+{
+	"appid"		"1543590"
+	"common"
+	{
+		"name"		"Wildshape - Map Editor + VTT (demo)"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"e7df56ef27cdff5f7a2d84ec31954b67f9e10749"
+		"logo_small"		"e7df56ef27cdff5f7a2d84ec31954b67f9e10749_thumb"
+		"icon"		"062afd64282626010179f89c07313e02b9718511"
+		"clienticon"		"39e7265ad42439fb89a206cae727a5a486457e7f"
+		"clienttga"		"c73a531311b38708277eeaf5b064b6b07dadc33e"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"73.73949542417975"
+				"height_pct"		"88.59749039003579"
+			}
+		}
+		"store_asset_mtime"		"1634826002"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DLDev"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Self Published"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_17"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1617951600"
+		"steam_release_date"		"1617976260"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1543590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"492"
+			"2"		"599"
+			"3"		"1770"
+			"4"		"21"
+			"5"		"14153"
+			"6"		"4175"
+			"7"		"3859"
+			"8"		"4182"
+			"9"		"493"
+			"10"		"10695"
+			"11"		"17389"
+			"12"		"8013"
+			"13"		"87"
+			"14"		"3810"
+			"15"		"4191"
+			"16"		"4145"
+			"17"		"8122"
+			"18"		"4166"
+			"19"		"1684"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"DLDev"
+		"publisher"		"Self Published"
+		"homepage"		"https://wildshapevtt.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1756290"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Wildshape"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wildshape Editor.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Wildshape.app\\Contents\\MacOS\\Wildshape Editor"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Wildshape.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1543591"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3601392676662746246"
+					"size"		"19086306886"
+					"download"		"7897557824"
+				}
+				"publictestbranch"
+				{
+					"gid"		"3601392676662746246"
+					"size"		"19086306886"
+					"download"		"7897557824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"B0527C9E854FB5D49FCF8FC45A617B42"
+					"size"		"B371772C5B74E3456BE1A6E10B25CFB3"
+					"download"		"A1866624BF75C717C779C689E1EAD86D"
+				}
+			}
+		}
+		"1543592"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6944523519517263200"
+					"size"		"19062394367"
+					"download"		"7899491376"
+				}
+				"publictestbranch"
+				{
+					"gid"		"6944523519517263200"
+					"size"		"19062394367"
+					"download"		"7899491376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"F8C56D8DB80503C3725A763702B695A3"
+					"size"		"0E381946617749D57604D4BA98CACBAD"
+					"download"		"6EC0303AEAF8862F241566E5BAD7AB22"
+				}
+			}
+		}
+		"1543593"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1092394987997627238"
+					"size"		"19179167278"
+					"download"		"7937101952"
+				}
+				"publictestbranch"
+				{
+					"gid"		"1092394987997627238"
+					"size"		"19179167278"
+					"download"		"7937101952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"A2D9CC2F4993B87A908DEFEBEB565F87"
+					"size"		"5AF01772079E9BE8A90FEE1F346B9721"
+					"download"		"E62E2D3E1EBE67C40EC63EE5FD8DD09B"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"workshopdepot"		"1543590"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8088663"
+				"timeupdated"		"1643372399"
+			}
+			"publictestbranch"
+			{
+				"buildid"		"8088663"
+				"description"		"please save data before using."
+				"timeupdated"		"1643212775"
+			}
+			"testbranch"
+			{
+				"buildid"		"8088663"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643213094"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000000"
+		"maxnumfiles"		"1000"
+	}
+}
