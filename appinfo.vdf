@@ -1,0 +1,177 @@
+"appinfo"
+{
+	"appid"		"1715380"
+	"common"
+	{
+		"name"		"Megania Online"
+		"type"		"Game"
+		"logo"		"ed2f3b9fd5c0beb1372628eb1d17eab51e611e4a"
+		"logo_small"		"ed2f3b9fd5c0beb1372628eb1d17eab51e611e4a_thumb"
+		"icon"		"6f8be982d7d013404b46a21e7f82c8e616f4e7b3"
+		"clienttga"		"3952cd9685c9f9e9aeec7d9e684eac4c69682802"
+		"clienticon"		"07be34eeeb90498e914eba97194cb54ed8850848"
+		"linuxclienticon"		"633fed744a1c1589fe9ba8a234fb7e5236ca5726"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1628449666"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ángel Ponce"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Megania Online"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+			"5"		"3"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1629405568"
+		"community_hub_visible"		"1"
+		"gameid"		"1715380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"198631"
+			"2"		"1646"
+			"3"		"1775"
+			"4"		"454187"
+			"5"		"1754"
+			"6"		"122"
+			"7"		"4106"
+			"8"		"1716"
+			"9"		"4975"
+			"10"		"4726"
+			"11"		"5851"
+			"12"		"1751"
+			"13"		"4046"
+			"14"		"1695"
+			"15"		"4305"
+			"16"		"6815"
+			"17"		"4236"
+			"18"		"9541"
+			"19"		"1684"
+		}
+		"review_score"		"5"
+		"review_percentage"		"45"
+	}
+	"extended"
+	{
+		"developer"		"Ángel Ponce"
+		"publisher"		"Megania Online"
+		"homepage"		"https://MeganiaOnline.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Megania Online"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MeganiaOnline.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,spanish"
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1715381"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3162301510981522194"
+					"size"		"108158298"
+					"download"		"83105840"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10302534"
+				"timeupdated"		"1673480946"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
