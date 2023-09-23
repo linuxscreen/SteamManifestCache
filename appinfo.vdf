@@ -1,0 +1,171 @@
+"appinfo"
+{
+	"appid"		"1727460"
+	"common"
+	{
+		"name"		"Death Becomes You Demo"
+		"type"		"Demo"
+		"parent"		"1444190"
+		"releasestate"		"released"
+		"clienttga"		"ad5666d9b34c103b6426a942c53991010cdbfe90"
+		"clienticon"		"232d2df491719ce52aad900160a274bae193c6a8"
+		"icon"		"d516bd84e49ec6b860ecb1af616473e87b6d4185"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"6ffdbe4327750c90e9fffe079d60df68db6ae4ef"
+		"logo_small"		"6ffdbe4327750c90e9fffe079d60df68db6ae4ef_thumb"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1677616119"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Quill Game Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Quill Game Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629324483"
+		"gameid"		"1727460"
+	}
+	"extended"
+	{
+		"demoofappid"		"1444190"
+		"developer"		"Quill Game Studios"
+		"publisher"		"Quill Game Studios"
+		"homepage"		"https://quill-studios.com"
+	}
+	"config"
+	{
+		"installdir"		"Death Becomes You Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Death_Becomes_You_Demo-1.1.0-pc/Death_Becomes_You_DEMO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Death_Becomes_You_DEMO.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Death_Becomes_You_Demo-1.1.0-pc/Death_Becomes_You_DEMO.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1727461"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2282838271468497823"
+					"size"		"873135904"
+					"download"		"591041696"
+				}
+			}
+		}
+		"1727462"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2739894477849489277"
+					"size"		"775516963"
+					"download"		"563571184"
+				}
+			}
+		}
+		"1727463"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6713853610303928537"
+					"size"		"873135904"
+					"download"		"591041696"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7546341"
+				"timeupdated"		"1634411179"
+			}
+		}
+	}
+}
