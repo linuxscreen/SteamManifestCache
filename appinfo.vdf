@@ -1,0 +1,133 @@
+"appinfo"
+{
+	"appid"		"2084020"
+	"common"
+	{
+		"name"		"蛛丝-Gossamer Demo"
+		"type"		"Demo"
+		"parent"		"2078320"
+		"releasestate"		"released"
+		"clienttga"		"7be4a7035451681aad82b1e4b4b677205b7d1325"
+		"clienticon"		"e390156b2ee76b4dc1c350a253f440849737f39c"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"e6c5314fc8d14c6a4ea8cb8b4941f84a7848ea3c"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1660307332"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"闪金游戏"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"闪金游戏"
+			}
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1660356256"
+		"gameid"		"2084020"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2078320"
+		"developer"		"闪金游戏"
+		"publisher"		"闪金游戏"
+	}
+	"config"
+	{
+		"installdir"		"GossamerDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Gossamer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2084021"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7800790333920202818"
+					"size"		"716323043"
+					"download"		"571998144"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9274103"
+				"timeupdated"		"1659965228"
+			}
+		}
+	}
+}
