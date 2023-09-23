@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"1434620"
+	"common"
+	{
+		"name"		"Emberlight"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"f4ec3eebb5180ceb2b2b332173bfcc961b23d538"
+		"clienttga"		"ad5ea375b40b508ae829c18456e05c5f35ca7fbe"
+		"icon"		"1e8c561e8c2850f4fa8380395a46dd782c5c8c57"
+		"logo"		"403acdd135a5acdaa38880e511faba46186928e8"
+		"logo_small"		"403acdd135a5acdaa38880e511faba46186928e8_thumb"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"31.965436711807584"
+				"height_pct"		"55.0773932029869"
+			}
+		}
+		"store_asset_mtime"		"1602799521"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ookami Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ookami Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1602662280"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1434620"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"21"
+			"2"		"1625"
+			"3"		"5379"
+			"4"		"3871"
+			"5"		"3964"
+			"6"		"4342"
+			"7"		"1684"
+			"8"		"492"
+			"9"		"1662"
+			"10"		"12057"
+			"11"		"4182"
+		}
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"1"
+		"developer"		"Ookami Games"
+		"publisher"		"Ookami Games"
+		"homepage"		"https://sites.google.com/view/ookamigames-emberlight/home"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Emberlight"
+		"steamcontrollertemplateindex"		"4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Emberlight.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"run.sh"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1434621"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6071762734244276940"
+					"size"		"35884547"
+					"download"		"20517376"
+				}
+			}
+		}
+		"1434623"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4598445933558046292"
+					"size"		"36718508"
+					"download"		"20809520"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5664634"
+				"timeupdated"		"1602316364"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
