@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"1538700"
+	"common"
+	{
+		"name"		"Escape Simulator Demo"
+		"type"		"Demo"
+		"parent"		"1435790"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienttga"		"f76b6460c8412e660729a47fec9b775ac605d71b"
+		"clienticon"		"019c4d0580f325ac957514cc3e5a32f5c23e1bdc"
+		"icon"		"e55b33ba4a505d09bebf51c3bbd862f4961e139e"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1612339615"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pine Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pine Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1612366405"
+		"gameid"		"1538700"
+	}
+	"extended"
+	{
+		"demoofappid"		"1435790"
+		"developer"		"Pine Studio"
+		"publisher"		"Pine Studio"
+		"homepage"		"https://escapesimulator.com/"
+	}
+	"config"
+	{
+		"installdir"		"Escape Simulator Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Escape Simulator.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"EscapeSimulator.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"EscapeSimulator"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1538701"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3830091066789162159"
+					"size"		"2018248566"
+					"download"		"558297632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ci_builds"
+				{
+					"gid"		"E838F6042F310D5CE9C2FA9DBC11DD9D"
+					"size"		"D5564DEE196E3B2DE4775FAB7A613F14"
+					"download"		"02F5B5111399A550094650DFCD578FC1"
+				}
+			}
+		}
+		"1538702"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5235050588178796655"
+					"size"		"2020282617"
+					"download"		"559546304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ci_builds"
+				{
+					"gid"		"D3ABF29F19CE66E73441106679339554"
+					"size"		"541CC55C90FEEE3287D4FAA3BDE7CA45"
+					"download"		"4C83C8BB6B692C8371E30D6B50919A1A"
+				}
+			}
+		}
+		"1538703"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8485117040868485374"
+					"size"		"2130228605"
+					"download"		"590634848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ci_builds"
+				{
+					"gid"		"AE1CA1428F549C9ECD42DE9ECEB9C625"
+					"size"		"1F73D127C1B4203E43076D1B24F1002A"
+					"download"		"634596C9C3916E95C3D84A5DD4C51061"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7454493"
+				"timeupdated"		"1633028234"
+			}
+			"ci_builds"
+			{
+				"buildid"		"7473558"
+				"pwdrequired"		"1"
+				"timeupdated"		"1633341919"
+			}
+		}
+	}
+}
