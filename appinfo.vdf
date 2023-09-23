@@ -1,0 +1,109 @@
+"appinfo"
+{
+	"appid"		"213430"
+	"common"
+	{
+		"name"		"DIVO"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"metacritic_name"		"Divo Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1359732157"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Roman Syrovatka"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Roman Syrovatka"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"34"
+			"2"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1333762740"
+		"gameid"		"213430"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Roman Syrovatka"
+		"gamedir"		"ValveTestApp213430"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Roman Syrovatka"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"divo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DIVO_demo_Steam.exe"
+				"arguments"		""
+				"description"		""
+				"workingdir"		""
+			}
+		}
+	}
+	"depots"
+	{
+		"213431"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2872704224509765402"
+					"size"		"69215983"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3346"
+			}
+		}
+	}
+}
