@@ -1,0 +1,553 @@
+"appinfo"
+{
+	"appid"		"1255980"
+	"common"
+	{
+		"name"		"Portal Reloaded"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"c790724572c2215f6a68cb2555f2a565a2236c97"
+		"logo_small"		"c790724572c2215f6a68cb2555f2a565a2236c97_thumb"
+		"icon"		"7e3721fa43e6d8ecd784e1cea9a714c6a9ce1c2a"
+		"clienttga"		"bfe9890d38f1c594a86d57116f40d6a3fe295fd4"
+		"clienticon"		"f61503a560b5edd2d1522fe8b7021ad4e30079a9"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1687392000"
+			"tested_build_id"		"6636733"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"24.319419237749543"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1686326562"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PORTANIS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PORTANIS"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Portal 2"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_13"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"subtitles"		"true"
+			}
+			"bulgarian"
+			{
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"subtitles"		"true"
+			}
+			"romanian"
+			{
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1618851137"
+		"community_hub_visible"		"1"
+		"gameid"		"1255980"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"1664"
+			"3"		"5348"
+			"4"		"3839"
+			"5"		"10679"
+			"6"		"4182"
+			"7"		"3859"
+			"8"		"5537"
+			"9"		"5395"
+			"10"		"1721"
+			"11"		"3942"
+			"12"		"4026"
+			"13"		"21"
+			"14"		"5794"
+			"15"		"4166"
+			"16"		"1756"
+			"17"		"4136"
+			"18"		"1663"
+			"19"		"1685"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"requiredappid"		"620"
+		"isfreeapp"		"1"
+		"developer"		"PORTANIS"
+		"publisher"		"PORTANIS"
+		"homepage"		"https://www.portalreloaded.com"
+	}
+	"config"
+	{
+		"installdir"		"Portal Reloaded"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"portal2.exe"
+				"arguments"		"+r_hunkalloclightmaps 0"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"portal2.sh"
+				"arguments"		"-game portal2 -steam +r_hunkalloclightmaps 0 +r_dynamic 0"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"portal2.sh"
+				"arguments"		"-game portal2 -steam +r_hunkalloclightmaps 0 +r_dynamic 0"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1255981"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3215218433401002224"
+					"size"		"6298905881"
+					"download"		"2694364992"
+				}
+				"1.0.0"
+				{
+					"gid"		"4909855950208448890"
+					"size"		"5814715842"
+					"download"		"2398675632"
+				}
+				"1.1.0"
+				{
+					"gid"		"5153901526051967180"
+					"size"		"5630273718"
+					"download"		"2352087808"
+				}
+				"1.2.0"
+				{
+					"gid"		"3215218433401002224"
+					"size"		"6298905881"
+					"download"		"2694364992"
+				}
+				"beta"
+				{
+					"gid"		"3215218433401002224"
+					"size"		"6298905881"
+					"download"		"2694364992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"904B675EC973A27F08F8D472FFFC89BE"
+					"size"		"3CF7038B0A9564F9699B0526CFACC4EB"
+					"download"		"B75FE2CEC31DE30BB784D8BE15C8405C"
+				}
+			}
+		}
+		"1255982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"707421310887317428"
+					"size"		"94561946"
+					"download"		"30593440"
+				}
+				"1.0.0"
+				{
+					"gid"		"3818152882131282357"
+					"size"		"94561946"
+					"download"		"30593440"
+				}
+				"1.1.0"
+				{
+					"gid"		"3818152882131282357"
+					"size"		"94561946"
+					"download"		"30593440"
+				}
+				"1.2.0"
+				{
+					"gid"		"707421310887317428"
+					"size"		"94561946"
+					"download"		"30593440"
+				}
+				"beta"
+				{
+					"gid"		"707421310887317428"
+					"size"		"94561946"
+					"download"		"30593440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"8DECCA6B78B4B3BE3B863822904D573E"
+					"size"		"4A818F03986FEA7AE9EFC420C4977C27"
+					"download"		"ED7610237C765EE7E17E7645AEA026D7"
+				}
+			}
+		}
+		"1255983"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"290508551967417027"
+					"size"		"121936301"
+					"download"		"27420736"
+				}
+				"1.0.0"
+				{
+					"gid"		"290508551967417027"
+					"size"		"121936301"
+					"download"		"27420736"
+				}
+				"1.1.0"
+				{
+					"gid"		"290508551967417027"
+					"size"		"121936301"
+					"download"		"27420736"
+				}
+				"1.2.0"
+				{
+					"gid"		"290508551967417027"
+					"size"		"121936301"
+					"download"		"27420736"
+				}
+				"beta"
+				{
+					"gid"		"290508551967417027"
+					"size"		"121936301"
+					"download"		"27420736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"57200015ACA82E48B582BA68FEF78138"
+					"size"		"598E551707C4E35C6F6DAD56CCE2E06D"
+					"download"		"B9C9E5E9FB5348407F3C10339EE08709"
+				}
+			}
+		}
+		"1255984"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6095143477847595406"
+					"size"		"87935310"
+					"download"		"22192368"
+				}
+				"1.0.0"
+				{
+					"gid"		"6095143477847595406"
+					"size"		"87935310"
+					"download"		"22192368"
+				}
+				"1.1.0"
+				{
+					"gid"		"6095143477847595406"
+					"size"		"87935310"
+					"download"		"22192368"
+				}
+				"1.2.0"
+				{
+					"gid"		"6095143477847595406"
+					"size"		"87935310"
+					"download"		"22192368"
+				}
+				"beta"
+				{
+					"gid"		"6095143477847595406"
+					"size"		"87935310"
+					"download"		"22192368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"B7EB0F78937117CD579678038C38A334"
+					"size"		"3EF888F4BD3F09AF2B6BED26CC2AB6B2"
+					"download"		"EE8E5A73F02A7700BCB0BBB04524579B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11430826"
+				"timeupdated"		"1686325867"
+			}
+			"1.0.0"
+			{
+				"buildid"		"11434191"
+				"description"		"initial release version"
+				"timeupdated"		"1686325500"
+			}
+			"1.1.0"
+			{
+				"buildid"		"6636733"
+				"description"		"pre-cooperative update"
+				"timeupdated"		"1686325584"
+			}
+			"1.2.0"
+			{
+				"buildid"		"11430826"
+				"description"		"post-cooperative update"
+				"timeupdated"		"1686325697"
+			}
+			"beta"
+			{
+				"buildid"		"11430826"
+				"description"		"public testing branch"
+				"timeupdated"		"1686297974"
+			}
+			"develop"
+			{
+				"buildid"		"11430826"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686297964"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"portal2/SAVE"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		"portal2/SAVE"
+			}
+		}
+	}
+}
