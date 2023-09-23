@@ -1,0 +1,413 @@
+"appinfo"
+{
+	"appid"		"1492450"
+	"common"
+	{
+		"name"		"Pixel Poops"
+		"type"		"Game"
+		"clienticon"		"961d5bb760699bd91843703842c80870c047a796"
+		"clienttga"		"d05b32cf8a37d27d02df2f9efeb198b43d7f7740"
+		"icon"		"4e65e934f42de0cb7a660357ccb8e0a28d92fc8c"
+		"logo"		"40048fca1c68b3cbb873983c875591f4aceb7a19"
+		"logo_small"		"40048fca1c68b3cbb873983c875591f4aceb7a19_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.19641219744128"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1661916824"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mostly Random Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"yyrGames"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1612985580"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1492450"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5154"
+			"1"		"19"
+			"2"		"1773"
+			"3"		"1710"
+			"4"		"13782"
+			"5"		"597"
+			"6"		"1734"
+			"7"		"3871"
+			"8"		"4094"
+			"9"		"3964"
+			"10"		"4791"
+			"11"		"7743"
+			"12"		"4004"
+			"13"		"492"
+			"14"		"4182"
+			"15"		"4711"
+			"16"		"4234"
+			"17"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Mostly Random Games"
+		"publisher"		"yyrGames"
+		"homepage"		"http://yyrgames.com/?q=pixelpoops"
+		"isfreeapp"		"1"
+		"listofdlc"		"1492490,1492491,1498530"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Pixel Poops"
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65535"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Pixel Poops.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"PixelPoopsMG.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"ppn2\\fceux.exe"
+				"arguments"		"\"Pixel Poops Number Two (NTSC US).nes\""
+				"workingdir"		"ppn2"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"1498530"
+				}
+				"description_loc"
+				{
+					"english"		"Pixel Poops Number Two"
+				}
+				"description"		"Pixel Poops Number Two"
+			}
+			"3"
+			{
+				"executable"		"pp64\\gtk3vice-3.5-win64\\bin\\x64sc.exe"
+				"arguments"		"-config settings.ini -autostart pp64.d64"
+				"workingdir"		"pp64"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"1492491"
+				}
+				"description_loc"
+				{
+					"english"		"Pixel Poops 64 (higher quality)"
+				}
+				"description"		"Pixel Poops 64 (higher quality)"
+			}
+			"4"
+			{
+				"executable"		"pp64\\winvice-3.2-x86-r34842\\x64.exe"
+				"arguments"		"-config settings-old.ini -autostart pp64.d64"
+				"workingdir"		"pp64"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"1492491"
+				}
+				"description_loc"
+				{
+					"english"		"Pixel Poops 64 (faster performance)"
+				}
+				"description"		"Pixel Poops 64 (faster performance)"
+			}
+			"5"
+			{
+				"executable"		"pp64-mac/vice-gtk3-3.5/x64sc.app/Contents/MacOS/x64sc"
+				"workingdir"		"pp64-mac"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"macos"
+					"ownsdlc"		"1492491"
+				}
+				"description_loc"
+				{
+					"english"		"Pixel Poops 64"
+				}
+				"description"		"Pixel Poops 64"
+			}
+			"7"
+			{
+				"executable"		"ppn2-mac/fceux.app/Contents/MacOS/fceux"
+				"arguments"		"\"Pixel Poops Number Two (NTSC US).nes\""
+				"workingdir"		"ppn2-mac"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+					"ownsdlc"		"1498530"
+				}
+				"description_loc"
+				{
+					"english"		"Pixel Poops Number Two"
+				}
+				"description"		"Pixel Poops Number Two"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1492451"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8423517763898855518"
+					"size"		"25529560"
+					"download"		"5192464"
+				}
+				"beta"
+				{
+					"gid"		"8423517763898855518"
+					"size"		"25529560"
+					"download"		"5192464"
+				}
+			}
+		}
+		"1492452"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3403256243641322781"
+					"size"		"42970028"
+					"download"		"9454128"
+				}
+				"beta"
+				{
+					"gid"		"3403256243641322781"
+					"size"		"42970028"
+					"download"		"9454128"
+				}
+			}
+		}
+		"1492491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"392035807982500786"
+					"size"		"265523756"
+					"download"		"90091696"
+				}
+				"beta"
+				{
+					"gid"		"392035807982500786"
+					"size"		"265523756"
+					"download"		"90091696"
+				}
+			}
+			"dlcappid"		"1492491"
+		}
+		"1498530"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3662556241095442708"
+					"size"		"5293061"
+					"download"		"3206512"
+				}
+				"beta"
+				{
+					"gid"		"3662556241095442708"
+					"size"		"5293061"
+					"download"		"3206512"
+				}
+			}
+			"dlcappid"		"1498530"
+		}
+		"1492453"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"dlcappid"		"1492491"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8922832660577870038"
+					"size"		"156647934"
+					"download"		"45271840"
+				}
+				"beta"
+				{
+					"gid"		"8922832660577870038"
+					"size"		"156647934"
+					"download"		"45271840"
+				}
+			}
+		}
+		"1492454"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"dlcappid"		"1498530"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2399727094954880557"
+					"size"		"51327760"
+					"download"		"17665408"
+				}
+				"beta"
+				{
+					"gid"		"2399727094954880557"
+					"size"		"51327760"
+					"download"		"17665408"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7427361"
+				"timeupdated"		"1632706585"
+			}
+			"beta"
+			{
+				"buildid"		"7427361"
+				"description"		"Public beta branch"
+				"timeupdated"		"1632706566"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576"
+		"maxnumfiles"		"3"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"PixelPoops"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacHome"
+				"addpath"		"/Library/Preferences/"
+			}
+		}
+	}
+}
