@@ -1,0 +1,295 @@
+"appinfo"
+{
+	"appid"		"1628620"
+	"common"
+	{
+		"name"		"World Boss"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"b3506ad8b0b583e28dad56e99696df5cbd895032"
+		"logo"		"3102ce7a7d97f29d7be7630ada6207e991a82ec2"
+		"logo_small"		"3102ce7a7d97f29d7be7630ada6207e991a82ec2_thumb"
+		"clienticon"		"c328b2f687d4969e3dcba6e1cdad6b6441d8c107"
+		"icon"		"90aab0a27b340d15600214a0175160678354f2bb"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1628620_eula_0"
+				"name"		"World Boss EULA"
+				"url"		"https://store.steampowered.com//eula/1628620_eula_0"
+				"version"		"1"
+			}
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"50.064258537749986"
+			}
+		}
+		"store_asset_mtime"		"1687765924"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PlaySide Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PlaySide Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PlaySide"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1687829016"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1628620"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5547"
+			"1"		"1663"
+			"2"		"113"
+			"3"		"1775"
+			"4"		"176981"
+			"5"		"4026"
+			"6"		"1774"
+			"7"		"1773"
+			"8"		"1716"
+			"9"		"4191"
+			"10"		"3839"
+			"11"		"4136"
+			"12"		"7481"
+			"13"		"19"
+			"14"		"597"
+			"15"		"4252"
+			"16"		"1687"
+			"17"		"3993"
+			"18"		"3859"
+			"19"		"4305"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"PlaySide Studios"
+		"publisher"		"PlaySide Studios"
+		"homepage"		"https://www.worldboss.io/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2128920,2128922"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"World Boss"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Worldboss.exe"
+				"arguments"		"-logfile log.txt -silent-crashes"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1628621"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2823971799400147548"
+					"size"		"4266992533"
+					"download"		"2655640736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"8B5253F1CF9B9D8926BEECDA9A0288F4"
+					"size"		"CBB83BD34DA42D6440DB005A51967320"
+					"download"		"C97914CBFA1FF161324EAA32E87EE027"
+				}
+				"ext_qa"
+				{
+					"gid"		"8802B8663C35FC9B6AD5B10FE72E39DB"
+					"size"		"D1B42C771C26A37D0F4B7B8AEC538D93"
+					"download"		"701536075F32F36C69001F68322FD399"
+				}
+				"feature"
+				{
+					"gid"		"1E6CA44F8D5B43A20EF7B08505FAEE37"
+					"size"		"44BC91D76445D58FB1911612ED05DCA9"
+					"download"		"F3B1E19A397924F386250565554455F3"
+				}
+				"internal_production"
+				{
+					"gid"		"30816A0B7BAF1896EF129AF13B9C97C5"
+					"size"		"A5095465E13E20CEF27281E485F7DCEC"
+					"download"		"83CECC80C212D9C9DFA2FB31B2C5DA8E"
+				}
+				"marketing"
+				{
+					"gid"		"CE0ED672169F893E700218ADAFC6813D"
+					"size"		"9359F750124B7DDD02809C33C7172670"
+					"download"		"5B21B65212EFBFD745516327670B50C5"
+				}
+				"partner"
+				{
+					"gid"		"8F0DAB96CB46AEF43FFE2CA201130464"
+					"size"		"C9A0AC1E6FBCE4DA89EA62E2984E28FF"
+					"download"		"98D4E6872892A2022867AE13EC9BC3E3"
+				}
+				"release"
+				{
+					"gid"		"27E259479B0E120DA143ADD0E425AE51"
+					"size"		"8BE7938CB573043A4904D92E8AB40E9E"
+					"download"		"1F43B7EC35F347DC7BCBF16D824AF3D8"
+				}
+				"stable_qa"
+				{
+					"gid"		"C3C5876609B4584DD98627AF51B9A26D"
+					"size"		"EEF6464EB2634C13D21C8518AAF002D4"
+					"download"		"B7B91A73D37D18B46FADA4B724789F43"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11638829"
+				"timeupdated"		"1689204194"
+			}
+			"development"
+			{
+				"buildid"		"12234366"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695200622"
+			}
+			"ext_qa"
+			{
+				"buildid"		"9136173"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658038576"
+			}
+			"feature"
+			{
+				"buildid"		"10888561"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680141851"
+			}
+			"internal_production"
+			{
+				"buildid"		"12244212"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695283908"
+			}
+			"marketing"
+			{
+				"buildid"		"10396777"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674620068"
+			}
+			"partner"
+			{
+				"buildid"		"10396777"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674618803"
+			}
+			"release"
+			{
+				"buildid"		"11411682"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686124283"
+			}
+			"stable_qa"
+			{
+				"buildid"		"10867878"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687240867"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_atmainmenu"		"Main Menu"
+					"#status_ingame"		"%gamemode% on %map%"
+					"#status_ingamenew"		"Level %level% in %map%"
+				}
+			}
+		}
+	}
+}
