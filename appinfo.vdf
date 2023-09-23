@@ -1,0 +1,372 @@
+"appinfo"
+{
+	"appid"		"980610"
+	"common"
+	{
+		"name"		"Quaver"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"clienttga"		"428463316bd9e0a7e37419b38bceb771b5761e6b"
+		"clienticon"		"e02b298c1a5bc6fbff86862c3660404f741228fc"
+		"icon"		"25a7885a0bdea7cce0d9d6f75baf1c250f32f5ae"
+		"logo"		"ab31fcefff4bfc5c5143e28e0ff363a652ffdee7"
+		"logo_small"		"ab31fcefff4bfc5c5143e28e0ff363a652ffdee7_thumb"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1691539200"
+			"tested_build_id"		"11868517"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Quaver"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"21.56147442371619"
+				"height_pct"		"31.814658698118677"
+			}
+		}
+		"store_asset_mtime"		"1594483868"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Swan"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Swan"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_17"		"1"
+			"category_22"		"1"
+			"category_30"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1594364400"
+		"steam_release_date"		"1660945655"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"980610"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1752"
+			"2"		"1621"
+			"3"		"492"
+			"4"		"597"
+			"5"		"3878"
+			"6"		"1756"
+			"7"		"3859"
+			"8"		"1721"
+			"9"		"4026"
+			"10"		"493"
+			"11"		"4085"
+			"12"		"8122"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Swan"
+		"publisher"		"Swan"
+		"homepage"		"https://quavergame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Quaver"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Quaver.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Quaver"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"Quaver"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"980610"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"980611"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2074650731310920154"
+					"size"		"221614581"
+					"download"		"121762304"
+				}
+				"canary"
+				{
+					"gid"		"4920708572568355544"
+					"size"		"220875178"
+					"download"		"121390672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private"
+				{
+					"gid"		"530C7BF5B63C41272676E0B15492152B"
+					"size"		"B6B366726D426713DA356FB503183A50"
+					"download"		"74643B7D420DAB9E922693543644CF64"
+				}
+			}
+		}
+		"980613"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5024813857409594835"
+					"size"		"221248857"
+					"download"		"120721168"
+				}
+				"canary"
+				{
+					"gid"		"2867873840644956223"
+					"size"		"221167427"
+					"download"		"120690672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private"
+				{
+					"gid"		"455B907BBBA3D0DC0CCF685C3FEC884E"
+					"size"		"3C61D13BDD7D41A7720387AF0320711E"
+					"download"		"D471DE3AD25DD4B5DC5997EB8238D244"
+				}
+			}
+		}
+		"980612"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8308372573083453270"
+					"size"		"220319299"
+					"download"		"120594416"
+				}
+				"canary"
+				{
+					"gid"		"8961307178419454091"
+					"size"		"220237869"
+					"download"		"120563936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private"
+				{
+					"gid"		"01C89F37478E88B0242D448DE5518B45"
+					"size"		"ED56D4C7467CF01FE4A123CEB099CB5E"
+					"download"		"EA748953C5F1412C2FA2AE60670010F8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11868517"
+				"timeupdated"		"1691160784"
+			}
+			"canary"
+			{
+				"buildid"		"12207387"
+				"description"		"Canary Testing"
+				"timeupdated"		"1694892345"
+			}
+			"private"
+			{
+				"buildid"		"12207387"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694891946"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#state"		"%state%"
+					"#details"		"%details%"
+					"#status"		"{#State}: {#Details}"
+				}
+			}
+		}
+	}
+}
