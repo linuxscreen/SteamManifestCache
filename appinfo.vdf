@@ -1,0 +1,170 @@
+"appinfo"
+{
+	"appid"		"1672440"
+	"common"
+	{
+		"name"		"ヘブンズブレイザーオンライン"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"5ccd97427e86cb1beda5b89878c055f011fd1b9a"
+		"logo_small"		"5ccd97427e86cb1beda5b89878c055f011fd1b9a_thumb"
+		"icon"		"1215238a95edbca6498be65614738ef14d348949"
+		"clienticns"		"4107661be62ccf3fcc0f67abcb63ca18ce23f2bb"
+		"clienttga"		"bb1fd442c175c8aea39a02fcfbfdf489751f04d9"
+		"clienticon"		"bfc904bbea456268a52a856dc629f9ffb86d5ef3"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"53.546910755148744"
+				"height_pct"		"59.11854061052314"
+			}
+		}
+		"store_asset_mtime"		"1690490841"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"黒磯製作所"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"黒磯製作所"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"3"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625991427"
+		"community_hub_visible"		"1"
+		"gameid"		"1672440"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"3843"
+			"2"		"6730"
+			"3"		"4434"
+			"4"		"5395"
+			"5"		"4191"
+			"6"		"3942"
+			"7"		"113"
+			"8"		"4182"
+			"9"		"493"
+			"10"		"492"
+			"11"		"3859"
+			"12"		"1685"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"黒磯製作所"
+		"publisher"		"黒磯製作所"
+		"isfreeapp"		"1"
+		"listofdlc"		"1965770,1987820"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ヘブンズブレイザーオンライン"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ヘブブレ.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"japanese"
+		"1672441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8386610657271574041"
+					"size"		"2780557770"
+					"download"		"1071287696"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11272664"
+				"timeupdated"		"1684507707"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"ピースドラゴン\\ヘブブレ"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+		"sync_while_suspended"		"1"
+	}
+}
