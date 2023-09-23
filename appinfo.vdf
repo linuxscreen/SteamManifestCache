@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"1803580"
+	"common"
+	{
+		"name"		"Bard Idle"
+		"type"		"Game"
+		"logo"		"fc616ea29a464ecaf384c6e88681bec34ebc43df"
+		"logo_small"		"fc616ea29a464ecaf384c6e88681bec34ebc43df_thumb"
+		"icon"		"d0e59f07517079638a38c9299608e359dd9bffb4"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"122711842139df76abd6ba85d93ae359233ac31a"
+		"clienticon"		"20df14e54146e81f1aa618fa9bbc814f8cb48b7c"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1666224000"
+			"tested_build_id"		"9638217"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688228454"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Illegal Turtle 🐢"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Illegal Turtle 🐢"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1663869810"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1803580"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"379975"
+			"1"		"615955"
+			"2"		"1084988"
+			"3"		"10695"
+			"4"		"17305"
+			"5"		"4747"
+			"6"		"122"
+			"7"		"9"
+			"8"		"3871"
+			"9"		"4726"
+			"10"		"5765"
+			"11"		"3964"
+			"12"		"1684"
+			"13"		"4057"
+			"14"		"255534"
+			"15"		"1719"
+			"16"		"8945"
+			"17"		"6276"
+			"18"		"4182"
+			"19"		"493"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Illegal Turtle 🐢"
+		"publisher"		"Illegal Turtle 🐢"
+		"isfreeapp"		"1"
+		"listofdlc"		"2276160,2276710,2276750,2276790"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Bard Idle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bard.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1803581"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5578364398831745011"
+					"size"		"169038572"
+					"download"		"154626592"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12258424"
+				"timeupdated"		"1695397818"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"11"
+	}
+}
