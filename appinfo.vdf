@@ -1,0 +1,237 @@
+"appinfo"
+{
+	"appid"		"351640"
+	"common"
+	{
+		"name"		"Eternal Senia"
+		"type"		"Game"
+		"oslist"		"windows"
+		"logo"		"c19b5e298b958fcedb53514b01ae0599b9664701"
+		"logo_small"		"c19b5e298b958fcedb53514b01ae0599b9664701_thumb"
+		"icon"		"8c968dc9409118250b7a855c640f698e7f33c6c0"
+		"clienttga"		"e321173826119b9399d91fd66645c8a732a8fff7"
+		"clienticon"		"cd19cd2d87fed38c339771355691cc0214752300"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1656633600"
+			"tested_build_id"		"734216"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Eternal Senia"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"95.9553160607611"
+				"height_pct"		"76.40367664198499"
+			}
+		}
+		"store_asset_mtime"		"1572504044"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sanctum Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sanctum Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1434610800"
+		"steam_release_date"		"1434629760"
+		"community_hub_visible"		"1"
+		"gameid"		"351640"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4085"
+			"1"		"113"
+			"2"		"122"
+			"3"		"7208"
+			"4"		"5577"
+			"5"		"4182"
+			"6"		"1756"
+			"7"		"492"
+			"8"		"1742"
+			"9"		"19"
+			"10"		"4434"
+			"11"		"4726"
+			"12"		"3871"
+			"13"		"3964"
+			"14"		"1684"
+			"15"		"4231"
+			"16"		"6971"
+			"17"		"1664"
+			"18"		"597"
+			"19"		"6650"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Sanctum Games"
+		"publisher"		"Sanctum Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Eternal Senia"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,tchinese,japanese"
+		"351641"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2314130191038361331"
+					"size"		"216394893"
+					"download"		"207414512"
+				}
+			}
+		}
+		"351642"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4028606876669288978"
+					"size"		"202079093"
+					"download"		"193469312"
+				}
+			}
+		}
+		"351643"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7377732878603245898"
+					"size"		"216025408"
+					"download"		"207404304"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3323180"
+				"timeupdated"		"1542709318"
+			}
+		}
+	}
+}
