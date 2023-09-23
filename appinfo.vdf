@@ -1,0 +1,240 @@
+"appinfo"
+{
+	"appid"		"1386770"
+	"common"
+	{
+		"name"		"Cubzh"
+		"type"		"Game"
+		"logo"		"87c9b85510cd2fbd73c000405ce9cbf4beee7597"
+		"logo_small"		"87c9b85510cd2fbd73c000405ce9cbf4beee7597_thumb"
+		"icon"		"9528da4c3eb7002a8d4579fa4f1a85a6957e91a6"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"clienttga"		"2c4fce95275eb90afb2ac92f6b60187fd840dff1"
+		"clienticns"		"865a0facd2b9e843101c15973e20ff5e048af6a5"
+		"clienticon"		"75e35e5be7ec67d916f342d777780d08a9519177"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"69.6511627906977"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1680516656"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Voxowl Inc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Voxowl Inc"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1635151193"
+		"community_hub_visible"		"1"
+		"gameid"		"1386770"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1643"
+			"1"		"1702"
+			"2"		"113"
+			"3"		"1669"
+			"4"		"1685"
+			"5"		"3843"
+			"6"		"19"
+			"7"		"599"
+			"8"		"3859"
+			"9"		"13782"
+			"10"		"5432"
+			"11"		"1732"
+			"12"		"4191"
+			"13"		"597"
+			"14"		"493"
+			"15"		"3810"
+			"16"		"4182"
+			"17"		"1697"
+			"18"		"1625"
+			"19"		"3834"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Voxowl Inc"
+		"publisher"		"Voxowl Inc"
+		"homepage"		"https://cu.bzh"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Cubzh"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Cubzh.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"Cubzh.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1386771"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"698262934076299031"
+					"size"		"14106112"
+					"download"		"7446176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"community_rc"
+				{
+					"gid"		"146E698FEA34BE876A8846A20A8B0CF1"
+					"size"		"FC7D1615291A460727D385CE33E1CD69"
+					"download"		"79D927217975D919AE2376B13EEB58A5"
+				}
+				"internal_rc"
+				{
+					"gid"		"B6641D779BD1E00BDF3352AC8A409418"
+					"size"		"D6CE3ECB82687F72C0BE6A73C76092EA"
+					"download"		"05BF258E662051D394B5A4B7476E95AC"
+				}
+			}
+		}
+		"1386772"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"761848612003041126"
+					"size"		"30508143"
+					"download"		"11679952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"community_rc"
+				{
+					"gid"		"812663CD6148FDDBC4E2B5BE516A68EA"
+					"size"		"18CCEE9FA4A37C534AB723A91D974DA4"
+					"download"		"3FB3D8E1ECE54DB018C94BE49AD5F514"
+				}
+				"internal_rc"
+				{
+					"gid"		"4CCDCBFD653536218A0E8A379D5B5E1A"
+					"size"		"C6AA4219D7B7FDCBDB8E87985E4B6428"
+					"download"		"C0F74AF5F909A2FE34E4491EC9B85199"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12260775"
+				"timeupdated"		"1695418084"
+			}
+			"community_rc"
+			{
+				"buildid"		"12260775"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695418061"
+			}
+			"internal_rc"
+			{
+				"buildid"		"12260775"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695418069"
+			}
+		}
+	}
+}
