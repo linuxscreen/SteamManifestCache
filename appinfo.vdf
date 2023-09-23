@@ -1,0 +1,336 @@
+"appinfo"
+{
+	"appid"		"1818450"
+	"common"
+	{
+		"name"		"STALCRAFT"
+		"type"		"Game"
+		"logo"		"7e5158e66db19ea2f9a9fd816ca023ee4bb1b601"
+		"logo_small"		"7e5158e66db19ea2f9a9fd816ca023ee4bb1b601_thumb"
+		"icon"		"cdef26299e1b4bcf22775cdc561bb4518c907446"
+		"clienticon"		"4b11a4cb2b0b84f836eb7002e8b56d5c69861e48"
+		"clienttga"		"231ccfef9164e69eff9651e4ef0918c60d2631d2"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1672876800"
+			"tested_build_id"		"10141480"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"39.05259923639771"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1689154268"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EXBO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"EXBO"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"29"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1670614221"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1818450"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1663"
+			"2"		"1754"
+			"3"		"19"
+			"4"		"21"
+			"5"		"1774"
+			"6"		"4166"
+			"7"		"3839"
+			"8"		"353880"
+			"9"		"1667"
+			"10"		"122"
+			"11"		"128"
+			"12"		"1775"
+			"13"		"3859"
+			"14"		"3993"
+			"15"		"1708"
+			"16"		"1742"
+			"17"		"5711"
+			"18"		"6730"
+			"19"		"4598"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"EXBO"
+		"publisher"		"EXBO"
+		"homepage"		"https://stalcraft.net/link/sqr"
+		"isfreeapp"		"1"
+		"listofdlc"		"2490360"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"STALCRAFT"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"sclauncher.exe"
+				"arguments"		"bin_%REALM%/win64/java/bin/stalcraftw.exe -classpath \"bin_%REALM%/classes.jar;bin_%REALM%/libs.jar;modassets;bin_%REALM%/patchassets\" -XX:-PrintCommandLineFlags -Xmx2G \"-Djava.library.path=bin_%REALM%/win64/java/bin\" \"-Dcore.log_uploader_address=185.137.235.10:28889\" \"-Dfile.encoding=UTF-8\" \"-Dread_derived=true\" \"-DusePrestitchedAtlas=true\" -XX:+UseG1GC -XX:MaxGCPauseMillis=3 \"-Dservice_type=STEAM\" \"-Dpatch_assets_dir=bin_%REALM%/patchassets\" exbo.stalcraft.client.Main --gameDir . --assetsDir ./assets"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"sclauncher.exe"
+				"arguments"		"bin_%REALM%/win32/java/bin/stalcraftw.exe -classpath \"bin_%REALM%/classes.jar;bin_%REALM%/libs.jar;modassets;bin_%REALM%/patchassets\" -XX:-PrintCommandLineFlags -Xmx800M \"-Djava.library.path=bin_%REALM%/win32/java/bin\" \"-Dcore.log_uploader_address=185.137.235.10:28889\" \"-Dfile.encoding=UTF-8\" \"-Dread_derived=true\" \"-DusePrestitchedAtlas=true\" -XX:+UseG1GC -XX:MaxGCPauseMillis=3 \"-Dservice_type=STEAM\" \"-Dpatch_assets_dir=bin_%REALM%/patchassets\" exbo.stalcraft.client.Main --gameDir . --assetsDir ./assets"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"bin_ru/win64/java/bin/stalcraftw.exe"
+				"arguments"		"-classpath \"bin_ru/classes.jar;bin_ru/libs.jar;modassets;bin_ru/patchassets\" -XX:-PrintCommandLineFlags -Xmx2G \"-Djava.library.path=bin_ru/win64/java/bin\" \"-Dbundle.backend_http_endpoint=http://85.119.149.147:33002\" \"-Dcore.log_uploader_address=85.119.149.147:30039\" \"-Dfile.encoding=UTF-8\" \"-Dread_derived=true\" \"-DusePrestitchedAtlas=true\" \"-Ddev_languages=true\" \"-Dfar_render_block_distance=true\" \"-Ddisable_anti_macros=true\" -XX:+UseG1GC -XX:MaxGCPauseMillis=3 \"-Dservice_type=STEAM\" \"-Dpatch_assets_dir=bin_ru/patchassets\" exbo.stalcraft.client.Main --gameDir . --assetsDir ./assets"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"toster"
+				}
+				"description_loc"
+				{
+					"english"		"STALCRAFT PTS [RU]"
+				}
+				"description"		"STALCRAFT PTS [RU]"
+			}
+			"3"
+			{
+				"executable"		"bin_global/win64/java/bin/stalcraftw.exe"
+				"arguments"		"-classpath \"bin_global/classes.jar;bin_global/libs.jar;modassets;bin_global/patchassets\" -XX:-PrintCommandLineFlags -Xmx2G \"-Djava.library.path=bin_global/win64/java/bin\" \"-Dbundle.backend_http_endpoint=http://85.119.149.147:33043\" \"-Dcore.log_uploader_address=85.119.149.147:30051\" \"-Dfile.encoding=UTF-8\" \"-Dread_derived=true\" \"-DusePrestitchedAtlas=true\" \"-Ddev_languages=true\" \"-Dfar_render_block_distance=true\" \"-Ddisable_anti_macros=true\" -XX:+UseG1GC -XX:MaxGCPauseMillis=3 \"-Dservice_type=STEAM\" \"-Dpatch_assets_dir=bin_global/patchassets\" exbo.stalcraft.client.Main --gameDir . --assetsDir ./assets"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"toster"
+				}
+				"description_loc"
+				{
+					"english"		"STALCRAFT GTS [GLOBAL]"
+				}
+				"description"		"STALCRAFT GTS [GLOBAL]"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"1818452"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4224752493049105597"
+					"size"		"17191274244"
+					"download"		"15355556240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"toster"
+				{
+					"gid"		"C0F9E59721FE790E762B1D8DA97947AF"
+					"size"		"82EAD63F6420C72270CD46F623A8DDA1"
+					"download"		"47E777DB53ED9BAC31DED04C0DD58C41"
+				}
+			}
+		}
+		"1818453"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7400162808021255061"
+					"size"		"245104372"
+					"download"		"75774560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"toster"
+				{
+					"gid"		"F2791CA8D7CE75AE953F1EBB1DEBA992"
+					"size"		"884251C92FF175A93EF6CF9BF4254BB5"
+					"download"		"051EC721EC31B08F2AF6848F0D5C0FA5"
+				}
+			}
+		}
+		"1818454"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2483323468047417667"
+					"size"		"285842578"
+					"download"		"80892688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"toster"
+				{
+					"gid"		"FDDB39A6A5BF0815D618D077D339102F"
+					"size"		"BC9CEC7CBCBE74A21CC5BC83D0609D7D"
+					"download"		"4A6133330290B0E1B7C029820EF20ED4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12231895"
+				"timeupdated"		"1695198944"
+			}
+			"toster"
+			{
+				"buildid"		"12255868"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695380110"
+			}
+		}
+	}
+}
