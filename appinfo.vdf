@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"2147680"
+	"common"
+	{
+		"name"		"Card Survival: Tropical Island - The First Days"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"icon"		"c31afd85f51fc20925db4d1d38b711162a493145"
+		"clienttga"		"b16d03520335e07f5daf349b78b619bf2ba1094a"
+		"clienticon"		"763eda076f01974028ff102ef00f68fc87df05c2"
+		"name_localized"
+		{
+			"schinese"		"卡牌生存：热带岛屿 - 初来乍到"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1694217600"
+			"tested_build_id"		"10840854"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw"
+			"library_hero"		"en,zh-cn,zh-tw"
+			"library_logo"		"en,zh-tw,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1672102333"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"WinterSpring Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"WinterSpring Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1664893355"
+		"community_hub_visible"		"1"
+		"gameid"		"2147680"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"599"
+			"2"		"9"
+			"3"		"1666"
+			"4"		"1716"
+			"5"		"6815"
+			"6"		"31275"
+			"7"		"1702"
+			"8"		"1662"
+			"9"		"492"
+			"10"		"1759"
+			"11"		"4182"
+			"12"		"1100689"
+			"13"		"1677"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"WinterSpring Games"
+		"publisher"		"WinterSpring Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Card Survival Tropical Island - Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Card Survival - Tropical Island.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CSTI.app/Contents/MacOS/Card Survival - Tropical Island"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2147681"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5168494808145249442"
+					"size"		"325323420"
+					"download"		"94492512"
+				}
+			}
+		}
+		"2147682"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4399141586041995437"
+					"size"		"315722745"
+					"download"		"92289040"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10840854"
+				"timeupdated"		"1679593716"
+			}
+		}
+	}
+}
