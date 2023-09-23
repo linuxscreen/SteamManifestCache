@@ -1,0 +1,128 @@
+"appinfo"
+{
+	"appid"		"1759370"
+	"common"
+	{
+		"name"		"VIFF 2021"
+		"type"		"DLC"
+		"parent"		"613900"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1632964256"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MOR Museum Inc."
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1632953371"
+		"gameid"		"1759370"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"599"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"dlcforappid"		"613900"
+		"mustownapptopurchase"		"613900"
+		"developer"		"MOR Museum Inc."
+		"homepage"		"https://museumor.com/"
+		"isfreeapp"		"1"
+		"dlcavailableonstore"		"1"
+	}
+	"depots"
+	{
+		"1759370"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"518550176847264607"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"33AEFA02489B129E9F8C02A7CC1042CE"
+					"size"		"0FFB78399BDA67B242AEBA8B22218522"
+					"download"		"0FFB78399BDA67B242AEBA8B22218522"
+				}
+				"festivalpreview2021"
+				{
+					"gid"		"096BE9B7939D47F911A6A49193E5BAAD"
+					"size"		"EBBEF3E74CC5900065889573A3DD076F"
+					"download"		"EBBEF3E74CC5900065889573A3DD076F"
+				}
+			}
+			"dlcappid"		"1759370"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7358535"
+				"timeupdated"		"1634015482"
+			}
+			"development"
+			{
+				"buildid"		"7358535"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635385015"
+			}
+			"festivalpreview2021"
+			{
+				"buildid"		"7358535"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635377570"
+			}
+		}
+	}
+}
