@@ -1,0 +1,218 @@
+"appinfo"
+{
+	"appid"		"1973970"
+	"common"
+	{
+		"name"		"雀皇麻雀"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"1e51c7255b5e6435750257def052a83015914797"
+		"clienttga"		"2ebe21a1edf840fc6f257ddcc9a52e72fe5dccc9"
+		"icon"		"76e29e3f948c862b8c72fe80106ce6c032210203"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw,ja"
+			"library_hero"		"en,zh-cn,ja,zh-tw"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1687684419"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Loyujer Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Loyujer Studio"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1668152244"
+		"community_hub_visible"		"1"
+		"gameid"		"1973970"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"18594"
+			"1"		"4085"
+			"2"		"597"
+			"3"		"1770"
+			"4"		"6650"
+			"5"		"1721"
+			"6"		"4434"
+			"7"		"9"
+			"8"		"3859"
+			"9"		"12095"
+			"10"		"113"
+			"11"		"17389"
+			"12"		"33572"
+			"13"		"3843"
+			"14"		"1654"
+			"15"		"4136"
+			"16"		"1775"
+			"17"		"122"
+			"18"		"1742"
+			"19"		"3799"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Loyujer Studio"
+		"publisher"		"Loyujer Studio"
+		"homepage"		"https://www.facebook.com/mahjongkings1"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"kingofmahjong"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"gameClient.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"雀皇麻雀"
+					"schinese"		"雀皇麻雀"
+					"tchinese"		"雀皇麻雀"
+				}
+				"description"		"雀皇麻雀"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese,tchinese,japanese"
+		"hasdepotsindlc"		"0"
+		"1973971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5201271189394337494"
+					"size"		"617134077"
+					"download"		"477990224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"business-branch"
+				{
+					"gid"		"2E27E8F75E6A7B76DA70046B453D10AD"
+					"size"		"1EC1CBB9F55DBFBBF210B8C3407C1253"
+					"download"		"DAC1B4AA8E08803485962470222866D1"
+				}
+				"devbranch"
+				{
+					"gid"		"2F1BE3E334C022254AB852A9969B0225"
+					"size"		"AA532E1318C128D92AE98A57816726CF"
+					"download"		"5DA6A59ECFCBB25C8393360DDE2341DF"
+				}
+				"go-dev-branch"
+				{
+					"gid"		"F2D5BA3E43CE300CE88138024494743A"
+					"size"		"CACD32208CD4026EB45723F5E645F392"
+					"download"		"9D56F9CD7DAE418C81AB705ABC9058A7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12169417"
+				"timeupdated"		"1694527686"
+			}
+			"business-branch"
+			{
+				"buildid"		"10879769"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680062542"
+			}
+			"devbranch"
+			{
+				"buildid"		"12244017"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695282376"
+			}
+			"go-dev-branch"
+			{
+				"buildid"		"10297741"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673434996"
+			}
+		}
+	}
+}
