@@ -1,0 +1,112 @@
+"appinfo"
+{
+	"appid"		"2345750"
+	"common"
+	{
+		"name"		"Escape the Matrix Demo"
+		"type"		"Demo"
+		"parent"		"2345530"
+		"icon"		"ff8d9aa07c1bae0aad9282e6a7691f6f0e94d3b5"
+		"clienticon"		"c520dcbeedaf34ef1502ef22c79ce9b00b4d7e37"
+		"clienttga"		"04e3960731af5d758a5f859a18431462600d5cd0"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1679292106"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Matrix Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Matrix Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1679169187"
+		"gameid"		"2345750"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2345530"
+		"developer"		"Matrix Studio"
+		"publisher"		"Matrix Studio"
+	}
+	"config"
+	{
+		"installdir"		"ESCAPE THE MATRIX Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ESCAPE THE MATRIX Demo\\ESCAPE THE MATRIX.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2345751"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6446727655708466662"
+					"size"		"156734057"
+					"download"		"118039680"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10792245"
+				"timeupdated"		"1679035840"
+			}
+		}
+	}
+}
