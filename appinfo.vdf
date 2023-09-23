@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"844060"
+	"common"
+	{
+		"name"		"Reality Blender"
+		"type"		"Application"
+		"controllervr"
+		{
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"logo"		"b56b8e061a6b2b6f42927843bae29951375d872a"
+		"logo_small"		"b56b8e061a6b2b6f42927843bae29951375d872a_thumb"
+		"clienticon"		"1d95ef0f57a33ea7728ccbab77dd1bc46d12b2e7"
+		"clienttga"		"13db9e97f1605d87d4807fbce0d074fc4ac2fcc5"
+		"icon"		"3ea2b59fcf1553446de7ba01bc8f95bde8eeb8f2"
+		"releasestate"		"released"
+		"openvroverlaysupport"		"1"
+		"openvrsupport"		"1"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"metacritic_name"		"Reality Blender"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"15.784046170951953"
+				"height_pct"		"37.84722222222222"
+			}
+		}
+		"store_asset_mtime"		"1570258424"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PyrofrogStudos"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PyrofrogStudos"
+			}
+		}
+		"primary_genre"		"58"
+		"genres"
+		{
+			"0"		"58"
+			"1"		"70"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1534542486"
+		"community_hub_visible"		"1"
+		"gameid"		"844060"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"784"
+			"1"		"493"
+			"2"		"21978"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"PyrofrogStudos"
+		"publisher"		"PyrofrogStudos"
+		"homepage"		"http://www.pyrofrogstudios.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"884560"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Reality Blender"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RealityBlender.exe"
+				"type"		"openvroverlay"
+			}
+		}
+	}
+	"depots"
+	{
+		"844061"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"922944206326414621"
+					"size"		"61212796"
+					"download"		"16802048"
+				}
+				"openbeta"
+				{
+					"gid"		"6718739712182047360"
+					"size"		"71883320"
+					"download"		"20737440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedbeta"
+				{
+					"gid"		"16428A76F3682554A575928F320B4292"
+					"size"		"1420242CB12C93B1093ECD48E7681786"
+					"download"		"3EB8173D7A4F236AD773CF9FEB44C1BA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4081609"
+				"timeupdated"		"1565147357"
+			}
+			"closedbeta"
+			{
+				"buildid"		"4406313"
+				"pwdrequired"		"1"
+				"timeupdated"		"1574207914"
+			}
+			"openbeta"
+			{
+				"buildid"		"4406313"
+				"description"		"Open Beta"
+				"timeupdated"		"1575677804"
+			}
+		}
+	}
+}
