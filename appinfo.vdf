@@ -1,0 +1,134 @@
+"appinfo"
+{
+	"appid"		"1566420"
+	"common"
+	{
+		"name"		"東方虹龍洞 ～ Unconnected Marketeers. Demo"
+		"type"		"Demo"
+		"parent"		"1566410"
+		"clienttga"		"589e99f403a1c095b61a1ee5c11199048e95154c"
+		"clienticon"		"580dedc3caafd79b8f4058418097778802df09cf"
+		"icon"		"211bb43f3ba1493856adc865d0a96dd4655f7c41"
+		"name_localized"
+		{
+			"english"		"Touhou Kouryudou ~ Unconnected Marketeers. Demo"
+			"japanese"		"東方虹龍洞 ～ Unconnected Marketeers. Demo"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1616032847"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"上海アリス幻樂団"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mediascape Co., Ltd."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1616310000"
+		"steam_release_date"		"1616554580"
+		"gameid"		"1566420"
+	}
+	"extended"
+	{
+		"demoofappid"		"1566410"
+		"developer"		"上海アリス幻樂団"
+		"publisher"		"Mediascape Co., Ltd."
+		"homepage"		"http://www16.big.or.jp/~zun/"
+	}
+	"config"
+	{
+		"installdir"		"th18tr"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"th18.exe"
+				"type"		"none"
+			}
+			"1"
+			{
+				"executable"		"custom.exe"
+				"type"		"config"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1566421"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6338510305312989811"
+					"size"		"205595962"
+					"download"		"189522528"
+				}
+			}
+		}
+		"baselanguages"		"english,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6423798"
+				"timeupdated"		"1616475718"
+			}
+		}
+	}
+}
