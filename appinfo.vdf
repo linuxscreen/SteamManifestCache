@@ -1,0 +1,298 @@
+"appinfo"
+{
+	"appid"		"1377580"
+	"common"
+	{
+		"name"		"Soulworker"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"9ec8f4a3781ac3d34ab49efbe2894aa6ecf570cf"
+		"logo_small"		"9ec8f4a3781ac3d34ab49efbe2894aa6ecf570cf_thumb"
+		"icon"		"9368274fbfb06eab26c03b4ccb1b0f397737e114"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1377580_eula_0"
+				"name"		"Soulworker EULA"
+				"url"		"https://store.steampowered.com//eula/1377580_eula_0"
+				"version"		"5"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"tchinese"		"1"
+		}
+		"clienticon"		"76d60155c9a0cdf6a29bbec511209432c61f99cd"
+		"clienttga"		"500b171553c2a0ea689151df4570039d9700b683"
+		"releasestateoverride"		"released"
+		"releasestateoverridecountries"		"HK,MO,TW"
+		"releasestateoverrideinverse"		"0"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1643932800"
+			"tested_build_id"		"7712172"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"tchinese"		"header_tchinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-tw,en"
+			"library_hero"		"zh-tw,en"
+			"library_logo"		"zh-tw,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"31.313967738245296"
+				"height_pct"		"28.64003587069037"
+			}
+		}
+		"store_asset_mtime"		"1694057219"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lion Games Co., Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lion Games Co., Ltd."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+			"2"		"3"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_18"		"1"
+			"category_35"		"1"
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_27"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1601622000"
+		"steam_release_date"		"1620867360"
+		"community_hub_visible"		"1"
+		"gameid"		"1377580"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4085"
+			"1"		"113"
+			"2"		"12095"
+			"3"		"6650"
+			"4"		"1754"
+			"5"		"122"
+			"6"		"19"
+			"7"		"1646"
+			"8"		"4231"
+			"9"		"3859"
+			"10"		"3955"
+			"11"		"1697"
+			"12"		"1685"
+			"13"		"3843"
+			"14"		"1742"
+			"15"		"4975"
+			"16"		"128"
+			"17"		"4342"
+			"18"		"3835"
+			"19"		"6730"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Lion Games Co., Ltd."
+		"publisher"		"Lion Games Co., Ltd."
+		"homepage"		"https://www.facebook.com/LIONGAMES.CO.LTD"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Soulworker_TWN"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Soulworker_Launcher.exe"
+				"arguments"		"SoulWorker.exe --ip 43.159.147.134 --ip 43.130.7.93 --port 10000"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamconfigurator3rdpartynative"		"7"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,tchinese"
+		"1377581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3783204781585903773"
+					"size"		"18276875791"
+					"download"		"17054271776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"tencent"
+				{
+					"gid"		"951B22143E318172C6D5D07E212A6ECD"
+					"size"		"57229C20197022133620E415BF1C9647"
+					"download"		"3D7D816E967EAD7FE34D72178ECC6C0B"
+				}
+				"test"
+				{
+					"gid"		"34F7CA4BBFFE47392EBB68EE6FB6E144"
+					"size"		"48671523620F5D4AEFD70A8DAC91F3F5"
+					"download"		"B462CC257305FC0261B266E587CBA9B1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12242005"
+				"timeupdated"		"1695262984"
+			}
+			"tencent"
+			{
+				"buildid"		"9899478"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668577780"
+			}
+			"test"
+			{
+				"buildid"		"12234811"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695204264"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
