@@ -1,0 +1,146 @@
+"appinfo"
+{
+	"appid"		"1842670"
+	"common"
+	{
+		"name"		"李雷和韩梅梅：与你同在 试玩版"
+		"type"		"Demo"
+		"parent"		"1353920"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"Li Lei and Han Meimei Demo"
+			"tchinese"		"李雷和韓梅梅：與你同在 試玩版"
+		}
+		"clienticon"		"1645f4e8d60fc0c3fc0a4178fe435318190449b0"
+		"clienttga"		"e6307275690173b25fc431c670585c19a2046b0e"
+		"icon"		"152f1be55ceb557328043a4d96abe33ef84d5da2"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1638761373"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"傲雪小组"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"傲雪小组"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1639708069"
+		"gameid"		"1842670"
+	}
+	"extended"
+	{
+		"demoofappid"		"1353920"
+		"developer"		"傲雪小组"
+		"publisher"		"傲雪小组"
+		"homepage"		"http://www.ourshow2003.com"
+	}
+	"config"
+	{
+		"installdir"		"LileiDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lilei.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1842671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4515546765751035314"
+					"size"		"160602238"
+					"download"		"141397104"
+				}
+			}
+		}
+		"baselanguages"		"schinese,tchinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9050261"
+				"timeupdated"		"1656775667"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000000"
+		"maxnumfiles"		"5000"
+		"appidredirect"		"1353920"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"saves"
+				"pattern"		"*"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
