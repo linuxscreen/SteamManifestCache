@@ -1,0 +1,240 @@
+"appinfo"
+{
+	"appid"		"1868410"
+	"common"
+	{
+		"name"		"Movie Night"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"3317907b9512766c6790ab4a383a13644112d061"
+		"logo_small"		"3317907b9512766c6790ab4a383a13644112d061_thumb"
+		"icon"		"9336fed4ec649b606bccce89d33cb57fca80076d"
+		"clienttga"		"731996cf340e59c2ad8359ca6df3d0d757e34635"
+		"clienticon"		"771037c9bb79e4d7b484bf6a7dcbe707fa178b22"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1680307200"
+			"tested_build_id"		"9493912"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.55813953488372"
+				"height_pct"		"52.65970078366183"
+			}
+		}
+		"store_asset_mtime"		"1681858121"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LimeLab Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LimeLab Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"LimeLab Studios"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1643318117"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1868410"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"493"
+			"2"		"3859"
+			"3"		"7108"
+			"4"		"3843"
+			"5"		"4182"
+			"6"		"3839"
+			"7"		"113"
+			"8"		"4191"
+			"9"		"4700"
+			"10"		"1773"
+			"11"		"615955"
+			"12"		"5350"
+			"13"		"1654"
+			"14"		"4747"
+			"15"		"1685"
+			"16"		"1774"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"LimeLab Studios"
+		"publisher"		"LimeLab Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Movie Night"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Movie Night.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1868411"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2396435782054199252"
+					"size"		"1336785159"
+					"download"		"1102884608"
+				}
+				"local"
+				{
+					"gid"		"1044294458623882857"
+					"size"		"495424995"
+					"download"		"365351936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"D89CBBD38EBF0A1C2A973D4E57371739"
+					"size"		"1C3391BE8E3BA003C215DD5867312925"
+					"download"		"0CF8328096C7F676652240A1D02A40F0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11655337"
+				"timeupdated"		"1688802320"
+			}
+			"developer"
+			{
+				"buildid"		"12073178"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693436732"
+			}
+			"local"
+			{
+				"buildid"		"8085453"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1643148322"
+			}
+		}
+	}
+}
