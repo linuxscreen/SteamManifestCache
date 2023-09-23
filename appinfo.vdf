@@ -1,0 +1,96 @@
+"appinfo"
+{
+	"appid"		"1728940"
+	"common"
+	{
+		"name"		"The Will of Our Fathers Demo"
+		"type"		"Demo"
+		"parent"		"1681320"
+		"clienticon"		"9b528761b6fef08d1df730ba1d429cb89d56d07e"
+		"clienttga"		"ad5e82527dbdcefbf0e51c40198aa50ad715219c"
+		"icon"		"940aff8750858c8b280fb17ed9fb1c94592eede5"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1629217037"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"David M Tippy"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"David M Tippy"
+			}
+		}
+		"steam_release_date"		"1629547760"
+		"gameid"		"1728940"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1681320"
+		"developer"		"David M Tippy"
+		"publisher"		"David M Tippy"
+	}
+	"config"
+	{
+		"installdir"		"Maze of Acheron Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"content\\windows_content\\MazeOfAcheronDemo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"content\\linux_content\\MazeOfAcheronDemo.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1728941"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4631491155189670416"
+					"size"		"215620445"
+					"download"		"43386624"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7267338"
+				"timeupdated"		"1630184628"
+			}
+		}
+	}
+}
