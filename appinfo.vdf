@@ -1,0 +1,248 @@
+"appinfo"
+{
+	"appid"		"2090230"
+	"common"
+	{
+		"name"		"SCP: Containment Breach Remastered"
+		"type"		"Game"
+		"icon"		"6e1023acf8d94dc348e58e473d5287fe53748e7b"
+		"clienttga"		"fb4dd81aaba3c954e638ddda319ef5f836582832"
+		"clienticon"		"1e808190c8f7ce2d860cce7bdf49a2b2fd058c34"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"54.883720930232556"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1665176638"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HNT8 Organization"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Undertow Games"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Third Subdivision Studios"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"HNT8 Organization"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"2"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_17"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1659650448"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2090230"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"3978"
+			"2"		"3859"
+			"3"		"6971"
+			"4"		"9"
+			"5"		"113"
+			"6"		"4182"
+			"7"		"1759"
+			"8"		"5125"
+			"9"		"3839"
+			"10"		"1662"
+			"11"		"4667"
+			"12"		"4345"
+			"13"		"1664"
+			"14"		"4191"
+			"15"		"4175"
+			"16"		"597"
+			"17"		"1685"
+			"18"		"12095"
+			"19"		"9130"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"HNT8 Organization"
+		"publisher"		"HNT8 Organization"
+		"homepage"		"https://scpcbr.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SCPCBR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SCPCBR.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Map Creator\\Map Creator.exe"
+				"workingdir"		"Map Creator"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Map Creator"
+				}
+				"description"		"Launch Map Creator"
+			}
+			"2"
+			{
+				"executable"		"workshopuploader.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Workshop Mod Uploader"
+				}
+				"description"		"Launch Workshop Mod Uploader"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2090232"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1898747028928130057"
+					"size"		"584962762"
+					"download"		"449627632"
+				}
+				"staging"
+				{
+					"gid"		"978348369955691556"
+					"size"		"584962762"
+					"download"		"449628016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stagingprivate"
+				{
+					"gid"		"A886A146A808DB50804E2904E73B52D3"
+					"size"		"C9E43D9C94F4A46E707D05F768839A1F"
+					"download"		"F367A4E09EA52EFEF4DFA7688AD93D0D"
+				}
+			}
+		}
+		"workshopdepot"		"2090230"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11841327"
+				"timeupdated"		"1690918316"
+			}
+			"staging"
+			{
+				"buildid"		"11916015"
+				"description"		"Pre-update testing builds."
+				"timeupdated"		"1691707184"
+			}
+			"stagingprivate"
+			{
+				"buildid"		"11916015"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691707196"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
