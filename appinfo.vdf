@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"1728740"
+	"common"
+	{
+		"name"		"Angel's Tale : An extraordinary love story"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"21ddb82e73e82291e69d9e4cf200b5105012aa73"
+		"logo_small"		"21ddb82e73e82291e69d9e4cf200b5105012aa73_thumb"
+		"icon"		"7bbf4b420f173c6650125d445bf0fb7668058920"
+		"clienttga"		"b04eba7e49492a6d6b406d98215c2ef79b866154"
+		"clienticon"		"7a3c49da3a8479d76fe3480964a9aa285e9741ed"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"91.89031505250877"
+				"height_pct"		"91.79331113156438"
+			}
+		}
+		"store_asset_mtime"		"1629948611"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio GU"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Studio GU"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630829489"
+		"community_hub_visible"		"1"
+		"gameid"		"1728740"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"4195"
+			"2"		"1751"
+			"3"		"4182"
+			"4"		"6971"
+			"5"		"492"
+			"6"		"113"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Studio GU"
+		"publisher"		"Studio GU"
+		"homepage"		"https://studiogu.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Angel's Tale"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Angel's Tale.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1728741"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3211360388643626603"
+					"size"		"350933880"
+					"download"		"326900720"
+				}
+			}
+		}
+		"baselanguages"		"thai"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7196606"
+				"timeupdated"		"1629119575"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"40"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"config.xd"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
