@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"1690170"
+	"common"
+	{
+		"name"		"Chef Chen Demo"
+		"type"		"Demo"
+		"parent"		"1335360"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienttga"		"d4ee5a0c42d3d31194cf392d701cec848ba5e42b"
+		"clienticon"		"b36b71b8495e0f7a1089a04ae96cecba6dcc64e9"
+		"icon"		"439f18a603fde9bd18182f3fbb548e39fb3d9243"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"tchinese"		"老陳 Demo"
+			"schinese"		"老陈 Demo"
+			"english"		"Chef Chen Demo"
+			"japanese"		"料理長チン Demo"
+			"koreana"		"진셰프 Demo"
+			"russian"		"Шеф-повар Чен Demo"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-tw,en,zh-cn,ko,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-tw,ko,zh-cn,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.146771037181992"
+				"height_pct"		"67.01388888888889"
+			}
+		}
+		"store_asset_mtime"		"1689139135"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"buho Interactive Entertainment Co., Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"buho Interactive Entertainment Co., Ltd."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1625968221"
+		"gameid"		"1690170"
+	}
+	"extended"
+	{
+		"demoofappid"		"1335360"
+		"developer"		"buho Interactive Entertainment Co., Ltd."
+		"publisher"		"buho Interactive Entertainment Co., Ltd."
+		"homepage"		"https://buho.game.tw/"
+	}
+	"config"
+	{
+		"installdir"		"Fantasy Cook Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FantasyCook.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2732008756"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default"
+				"use_action_block"		"true"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"1690171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7924007966418705445"
+					"size"		"1801022575"
+					"download"		"397503680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"28851DBE8C27AF53D6D558F6A60662CF"
+					"size"		"853A18890314F7ABAA79B9BA2D0305C9"
+					"download"		"2E2E3D37D51244591BA2BDB93979E827"
+				}
+			}
+		}
+		"1690172"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3907411649847101085"
+					"size"		"1764790167"
+					"download"		"428944096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"F97A8D84AE93E2865A7F56A10674B3E6"
+					"size"		"B6707E5CF35F2D0EBED401952A878F42"
+					"download"		"D8F134A3DA816B84A030E5A99FFA12E9"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12130370"
+				"timeupdated"		"1694140024"
+			}
+			"testing"
+			{
+				"buildid"		"12130370"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694076276"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5242880"
+		"maxnumfiles"		"100"
+		"appidredirect"		"1335360"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"buho/FantasyCook/save"
+				"pattern"		"*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"buho/FantasyCook/save"
+						"replace"		"buho/FantasyCook/save"
+					}
+				}
+			}
+		}
+	}
+}
