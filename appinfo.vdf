@@ -1,0 +1,259 @@
+"appinfo"
+{
+	"appid"		"985810"
+	"common"
+	{
+		"name"		"GrandChase"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"985810_eula_0"
+				"name"		"GrandChase EULA"
+				"url"		"https://store.steampowered.com//eula/985810_eula_0"
+				"version"		"1"
+			}
+		}
+		"clienticon"		"f3614dd46c427243297deb5e0ac036f9eb050fc9"
+		"clienttga"		"46e33ac477dd254b8c05de19ce722cae84753527"
+		"icon"		"aa358082648bce0eaf97710e0da787c905d90386"
+		"logo"		"7fcc501423575ff19a39fd29dccf2853606d0616"
+		"logo_small"		"7fcc501423575ff19a39fd29dccf2853606d0616_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644883200"
+			"tested_build_id"		"7760262"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"58.85123947861419"
+			}
+		}
+		"store_asset_mtime"		"1693977325"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KOG"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KOG"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627439213"
+		"community_hub_visible"		"1"
+		"gameid"		"985810"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"6730"
+			"2"		"1775"
+			"3"		"4231"
+			"4"		"113"
+			"5"		"597"
+			"6"		"3843"
+			"7"		"1646"
+			"8"		"4747"
+			"9"		"4736"
+			"10"		"1742"
+			"11"		"3859"
+			"12"		"7481"
+			"13"		"4158"
+			"14"		"4085"
+			"15"		"4975"
+			"16"		"1684"
+			"17"		"4726"
+			"18"		"6506"
+			"19"		"128"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"developer"		"KOG"
+		"publisher"		"KOG"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"GrandChase"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GrandChase.exe"
+				"arguments"		"-STEAM -LIVE"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+			}
+			"1"
+			{
+				"executable"		"GrandChase.exe"
+				"arguments"		"-STEAM -QA"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"qa-version"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"985811"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2696136286012209359"
+					"size"		"6938186751"
+					"download"		"6892294176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa-version"
+				{
+					"gid"		"5D21DB214C8B23954A0DEAA8A9612F35"
+					"size"		"7EF7A9F7F21973AAF178B9A8EA63CE2E"
+					"download"		"D3E2EC2C9C7F76767582CC7B061F4DF1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12222624"
+				"timeupdated"		"1695106790"
+			}
+			"qa-version"
+			{
+				"buildid"		"12254194"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695368209"
+			}
+		}
+	}
+}
