@@ -1,0 +1,200 @@
+"appinfo"
+{
+	"appid"		"1888010"
+	"common"
+	{
+		"name"		"所向之未来 - Towards Future"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"67bee16fbd06cd82d7ddde52e167d0ece6f34715"
+		"logo_small"		"67bee16fbd06cd82d7ddde52e167d0ece6f34715_thumb"
+		"icon"		"af73e1855bc6ae323bdd6bb3dc0137389bcf93fe"
+		"clienticon"		"1d4fc34c787dfdae711f678ec049c35d7ae4cb48"
+		"clienttga"		"43eb7eb1aa443dc819c4b146238204367caa6146"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1663027200"
+			"tested_build_id"		"8361791"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"86"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1645268726"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"拾伍司工坊"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Eternal Dream"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1645185605"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1888010"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"4166"
+			"2"		"3964"
+			"3"		"5608"
+			"4"		"21006"
+			"5"		"4295"
+			"6"		"5094"
+			"7"		"1742"
+			"8"		"3834"
+			"9"		"3798"
+			"10"		"4085"
+			"11"		"5984"
+			"12"		"4726"
+			"13"		"3871"
+			"14"		"6971"
+			"15"		"15172"
+			"16"		"113"
+			"17"		"4182"
+			"18"		"4434"
+			"19"		"492"
+		}
+		"review_score"		"9"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"拾伍司工坊"
+		"publisher"		"Eternal Dream"
+		"homepage"		"https://space.bilibili.com/1698803"
+		"isfreeapp"		"1"
+		"listofdlc"		"1888090"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"所向之未来 - Towards Future"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"nw.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"所向之未来 - Towards Future"
+				}
+				"description"		"所向之未来 - Towards Future"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"1888011"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4985965502410831927"
+					"size"		"295270584"
+					"download"		"150869296"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10136958"
+				"timeupdated"		"1670933631"
+			}
+		}
+	}
+}
