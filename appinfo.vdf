@@ -1,0 +1,314 @@
+"appinfo"
+{
+	"appid"		"1681160"
+	"common"
+	{
+		"name"		"Piratopia"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"2ae6205b25b4c82636d74af24353a2e52f13aec6"
+		"logo_small"		"2ae6205b25b4c82636d74af24353a2e52f13aec6_thumb"
+		"icon"		"53a4e25f00070ab870f28bccbd514ebc6fffe617"
+		"clienticon"		"aa81533fd7ec09191999f11bbc27761dd0682ad6"
+		"clienttga"		"2720d23bfbfa38ac69c9dbb98c80558fd0878abf"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658275200"
+			"tested_build_id"		"8355238"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"76.39534883720931"
+				"height_pct"		"64.66397530277843"
+			}
+		}
+		"store_asset_mtime"		"1636323455"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Adi Zhavo"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Project 99 Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Project 99 Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Project 99 Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"29"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1636656896"
+		"community_hub_visible"		"1"
+		"gameid"		"1681160"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4106"
+			"1"		"1681"
+			"2"		"3834"
+			"3"		"4994"
+			"4"		"1775"
+			"5"		"6730"
+			"6"		"13577"
+			"7"		"19"
+			"8"		"1773"
+			"9"		"21"
+			"10"		"128"
+			"11"		"1695"
+			"12"		"3859"
+			"13"		"6910"
+			"14"		"4726"
+			"15"		"1754"
+			"16"		"4094"
+			"17"		"113"
+			"18"		"3843"
+			"19"		"597"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Adi Zhavo"
+		"publisher"		"Project 99 Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Piratopia"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Piratopia/Piratopia.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Piratopia.app/Contents/MacOS/Piratopia"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"1681161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6643781359137884857"
+					"size"		"441256681"
+					"download"		"112442464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"purchasetest"
+				{
+					"gid"		"2A12F93067A73722C9FF9861E2A8CDBB"
+					"size"		"6BCCE93DC7BAA5CBADD39A51BEA8B942"
+					"download"		"525A380059DC0E4622F87695ECAB0C3E"
+				}
+				"staging_build"
+				{
+					"gid"		"1EB42BCF93F12D1EE78ADF49AA8AE845"
+					"size"		"D1740F828862840498D7CAE753514578"
+					"download"		"A123FB7B7272F0CE5ED98C91489DEBEA"
+				}
+			}
+		}
+		"1681162"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1000922625891922316"
+					"size"		"464579323"
+					"download"		"119356144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"purchasetest"
+				{
+					"gid"		"7A786F0DDE688C41AFD53304472736B3"
+					"size"		"2DD351BF08CD30794804FD6EC2374B5F"
+					"download"		"AE3E8E047F97CB25535BE0B19F8E99F2"
+				}
+				"staging_build"
+				{
+					"gid"		"FA349571B4D69264F633C36CD85091AF"
+					"size"		"847606B8C416166E5DCD1A9A34160F71"
+					"download"		"4A22302F6D78ECD3FDAFB9E712E3498F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10599576"
+				"timeupdated"		"1676965515"
+			}
+			"purchasetest"
+			{
+				"buildid"		"7715844"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636991935"
+			}
+			"staging_build"
+			{
+				"buildid"		"10599576"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676965527"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Adi Zhavo/Piratopia"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
