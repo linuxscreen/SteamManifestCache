@@ -1,0 +1,258 @@
+"appinfo"
+{
+	"appid"		"710560"
+	"common"
+	{
+		"name"		"Ylands Dedicated Server"
+		"type"		"Tool"
+		"parent"		"298610"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"6c2ab1f6d273439f57f6693f4e40add670be35af"
+		"logo_small"		"6c2ab1f6d273439f57f6693f4e40add670be35af_thumb"
+		"icon"		"c0f2da7cb47d4110cb4fc15f8a07618b75f9c6d6"
+		"clienticon"		"c74ba80767fa0453502e9bca08224f19644fdb66"
+		"clienttga"		"21c6b027f9815be9d0208112d59dca997ae85008"
+		"metacritic_name"		"Ylands Dedicated Server"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1505373448"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bohemia Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bohemia Interactive"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1516199460"
+		"gameid"		"710560"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Bohemia Interactive"
+		"publisher"		"Bohemia Interactive"
+		"homepage"		"http://www.ylands.com"
+	}
+	"config"
+	{
+		"installdir"		"Ylands Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ServerMonitor.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1923798258558304932"
+					"size"		"44194776"
+					"download"		"13804528"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4884950798805348056"
+					"size"		"73781292"
+					"download"		"20270768"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"710561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5833126375727327489"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"cb_unup"
+				{
+					"gid"		"833E4645F19ECB18E42739BFF95F153B"
+					"size"		"F2811E3CA8156D8E2EB110F621110E01"
+					"download"		"C3867A51DE35D4614F938FAE485B3636"
+				}
+				"experimental"
+				{
+					"gid"		"0C68C21E161E665262FB8A530C8BD578"
+					"size"		"45DFD00DBA0BD71B6A9C7ACF0224FFD9"
+					"download"		"A293F09FD874BD1CFC0A3380009C365F"
+				}
+				"experimental_staging"
+				{
+					"gid"		"498C9A7C00EAFA9907BC93C115FD9586"
+					"size"		"FE1F71C7F1FC782523CE176AEA5BEAE3"
+					"download"		"38EA8A7B22C1C28E323C6AC97A7EDFA2"
+				}
+				"nuds"
+				{
+					"gid"		"BD2B309A51BD9DFD2EB51DA50070565A"
+					"size"		"23936FDA3109A4C86890F941C61376A0"
+					"download"		"6CDBB5E7B05790B4487EEAA6D889E58A"
+				}
+				"qa_main_cds"
+				{
+					"gid"		"1D0B2D8AF096777EB0E703C941D77290"
+					"size"		"5FEE960340B623DD793AA22C7234C47B"
+					"download"		"66C502EF5A2B55360C0B3306532C6385"
+				}
+				"release"
+				{
+					"gid"		"9709CDF6618C5C5E35A45B82174D8E2F"
+					"size"		"DD0716B2F6BE519876061C6676DB3E1B"
+					"download"		"A98D25C024DE8C4F9D8D9E9696616425"
+				}
+				"release_candidate"
+				{
+					"gid"		"23C33EA3BF3A268F4E5099F2E10BE414"
+					"size"		"A89201AF213B81762361F7C32C6D053F"
+					"download"		"BBFD23F502CA8097308E77711D802472"
+				}
+				"staging"
+				{
+					"gid"		"19FE1866786F01AAB3B56AAB9D22D173"
+					"size"		"BAF3747859C66BEB9A319FAA89D5073A"
+					"download"		"F422ABB20284EFBB98B93E51B4AF782C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7695194"
+				"timeupdated"		"1636625351"
+			}
+			"cb_unup"
+			{
+				"buildid"		"12077139"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693474957"
+			}
+			"experimental"
+			{
+				"buildid"		"11721988"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689666936"
+			}
+			"experimental_staging"
+			{
+				"buildid"		"11721988"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689617498"
+			}
+			"nuds"
+			{
+				"buildid"		"5364503"
+				"pwdrequired"		"1"
+				"timeupdated"		"1596461840"
+			}
+			"qa_main_cds"
+			{
+				"buildid"		"12240998"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695252872"
+			}
+			"release"
+			{
+				"buildid"		"12143346"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695114017"
+			}
+			"release_candidate"
+			{
+				"buildid"		"12143346"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694185546"
+			}
+			"staging"
+			{
+				"buildid"		"6214669"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612899536"
+			}
+		}
+	}
+}
