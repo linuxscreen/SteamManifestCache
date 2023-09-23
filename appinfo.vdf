@@ -1,0 +1,207 @@
+"appinfo"
+{
+	"appid"		"1295750"
+	"common"
+	{
+		"name"		"Jack Hayes: The Lazarus Sign"
+		"type"		"Game"
+		"logo"		"b51bab8430521b2756c2f3c59e6bf658d943a900"
+		"logo_small"		"b51bab8430521b2756c2f3c59e6bf658d943a900_thumb"
+		"icon"		"067361e36f48ec19b26f2f5be543cba620fbea54"
+		"clienttga"		"8f93443f67847f6430e408cd72219ec82d9ef31c"
+		"clienticon"		"6df8ba54d09fcf47224a318be0ac1116a3b7124b"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"7120898"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1598638212"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Stefan Ortelbach"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Iphigenia Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Jack Hayes"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1599609120"
+		"community_hub_visible"		"1"
+		"gameid"		"1295750"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"8369"
+			"2"		"11014"
+			"3"		"122"
+			"4"		"3871"
+			"5"		"6052"
+			"6"		"6971"
+			"7"		"4947"
+			"8"		"4136"
+			"9"		"5613"
+			"10"		"1742"
+			"11"		"5923"
+			"12"		"3964"
+			"13"		"5608"
+			"14"		"5186"
+			"15"		"4166"
+			"16"		"4004"
+			"17"		"4182"
+			"18"		"7948"
+			"19"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Stefan Ortelbach"
+		"publisher"		"Iphigenia Games"
+		"homepage"		"http://www.iphigenia-games.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TheLazarusSign"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu "
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1295751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5435263146793413188"
+					"size"		"898680878"
+					"download"		"737649600"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7120898"
+				"timeupdated"		"1627827370"
+			}
+		}
+	}
+}
