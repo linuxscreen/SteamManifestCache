@@ -1,0 +1,111 @@
+"appinfo"
+{
+	"appid"		"2198750"
+	"common"
+	{
+		"name"		"Amanda the Adventurer Demo"
+		"type"		"Demo"
+		"parent"		"2166060"
+		"releasestate"		"released"
+		"icon"		"0f24b021ccf290319fbd857b3ff3476c74b53c6c"
+		"clienticon"		"6b9710e44dcf108c6ab701be0ec8d25d3c0a81f5"
+		"clienttga"		"c2c648ec6fadeee83e05869923c69fd4c347828c"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1666920973"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"mangledMAW Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DreadXP"
+			}
+		}
+		"steam_release_date"		"1667247113"
+		"gameid"		"2198750"
+	}
+	"extended"
+	{
+		"demoofappid"		"2166060"
+		"developer"		"mangledMAW Games"
+		"publisher"		"DreadXP"
+	}
+	"config"
+	{
+		"installdir"		"Amanda the Adventurer Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Amanda The Adventurer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2198751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3617474887589636202"
+					"size"		"952963744"
+					"download"		"366612128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"4055EE3CD1E2F6DD894121DF9B8E3617"
+					"size"		"79061119EDC6A325655B1A846FBE52FB"
+					"download"		"DD9A184BFFA20F9E855B2ED1F7D3ACC6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10467363"
+				"timeupdated"		"1675699259"
+			}
+			"developer"
+			{
+				"buildid"		"10467363"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675394293"
+			}
+		}
+	}
+}
