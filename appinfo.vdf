@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"1740260"
+	"common"
+	{
+		"name"		"Gizmos: Interstellar Voyage Demo"
+		"type"		"Demo"
+		"parent"		"1437120"
+		"name_localized"
+		{
+			"german"		"Gizmos: Interstellar Reise Demo"
+			"french"		"Gizmos: Voyage Interstellaire Demo"
+			"russian"		"Гизмо: Межзвездное Турне Demo"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"91485103429d6792380cd656cc18f0e07c4ec7b7"
+		"clienticon"		"51075531b2d7c03363b43b7e38c0ac77ac7751b7"
+		"icon"		"a169b29a72b55010dccb9c666fd2a2aa01481ac6"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"german"		"header_german.jpg"
+			"french"		"header_french.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"store_asset_mtime"		"1630245689"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Oleg Sereda"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Oleg Sereda"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630145647"
+		"gameid"		"1740260"
+	}
+	"extended"
+	{
+		"demoofappid"		"1437120"
+		"developer"		"Oleg Sereda"
+		"publisher"		"Oleg Sereda"
+	}
+	"config"
+	{
+		"installdir"		"Gizmos Interstellar Voyage Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Gizmos - Interstellar Voyage.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1740261"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7979650242062529924"
+					"size"		"120493228"
+					"download"		"116142416"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7255902"
+				"timeupdated"		"1629991614"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"50"
+		"appidredirect"		"1437120"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Western Software Technologies/Gizmos - Interstellar Voyage/"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Western Software Technologies/Gizmos - Interstellar Voyage/"
+				"pattern"		"*.plr"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Western Software Technologies/Gizmos - Interstellar Voyage/"
+				"pattern"		"*.ini"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
