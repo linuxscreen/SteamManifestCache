@@ -1,0 +1,152 @@
+"appinfo"
+{
+	"appid"		"1700610"
+	"common"
+	{
+		"name"		"Dear Mom: My Letter to You Demo"
+		"type"		"Demo"
+		"parent"		"1693850"
+		"clienticon"		"8989c37e00dc0ce07ca2e07c494c1fcfa9d62480"
+		"clienttga"		"31ecf76e1a3145ff36027b28c7bfd552d216dce1"
+		"icon"		"d53c56367268bd3718eadb0146fc1399f595d45c"
+		"clienticns"		"694378137e60b0c02656c4f8cfe842f3b0711fee"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1664671772"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mangoku418"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mangoku418"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626897682"
+		"gameid"		"1700610"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1693850"
+		"developer"		"Mangoku418"
+		"publisher"		"Mangoku418"
+	}
+	"config"
+	{
+		"installdir"		"Dear Mom My Letter to You Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DearMomDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"DearMomDemo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"DearMomDemo.sh"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1700611"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"229288589740991656"
+					"size"		"305574852"
+					"download"		"204734832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatetest"
+				{
+					"gid"		"389A137568D8E879D478FC241E87EDD2"
+					"size"		"91302DA076AC778555584F415AC212DE"
+					"download"		"09234599EB5EE1D11632DF460D4F646C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8899384"
+				"timeupdated"		"1654730863"
+			}
+			"updatetest"
+			{
+				"buildid"		"8005502"
+				"pwdrequired"		"1"
+				"timeupdated"		"1641955842"
+			}
+		}
+	}
+}
