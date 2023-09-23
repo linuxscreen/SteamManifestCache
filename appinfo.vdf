@@ -1,0 +1,241 @@
+"appinfo"
+{
+	"appid"		"217160"
+	"common"
+	{
+		"name"		"Transcripted Demo"
+		"type"		"Demo"
+		"logo"		"ccc13fcaad0ee02b20006827ffd5ada96fe06da7"
+		"logo_small"		"ccc13fcaad0ee02b20006827ffd5ada96fe06da7_thumb"
+		"icon"		"3cb73a8c8abf7797f229f62e9f503e225d93c2e3"
+		"clienttga"		"286b47a16ff22a1815144a72854e2cc8ed1bad17"
+		"clienticon"		"ded3c7aa63ab592e94e235e4971c497218303c0b"
+		"clienticns"		"92c82b1bdf347c65a1ffe58077189826b0c32dcd"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"polish"		"1"
+			"czech"		"1"
+		}
+		"freeondemand"		"1"
+		"parent"		"215450"
+		"oslist"		"windows,macos"
+		"metacritic_name"		"Transcripted Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1344531404"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alkemi"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Topware Interactive"
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"french"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"italian"
+			{
+				"supported"		"1"
+			}
+			"spanish"
+			{
+				"supported"		"1"
+			}
+		}
+		"steam_release_date"		"1344530820"
+		"community_visible_stats"		"1"
+		"gameid"		"217160"
+	}
+	"extended"
+	{
+		"demoofappid"		"215450"
+		"developer"		"Alkemi"
+		"gamedir"		"ValveTestApp217160"
+		"homepage"		"www.transcripted-game.com"
+		"icon"		""
+		"languages"		"english,german,french,italian,spanish,czech,polish,russian"
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"validoslist"		"windows,macos"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Topware Interactive"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Transcripted_Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Transcripted.exe"
+				"description"		"Basic Win Launch"
+				"workingdir"		"."
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Transcripted.app"
+				"description"		"Basic Mac OSX Launch"
+				"workingdir"		"."
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"installscriptsignature"		"99287b50cd0a26e143f084e0e962eedec5584e86dca02e085fe219c34efa60c9ed8632a22014ae0fb80f68c4252c6d1f7a8a10117337d668ce67f7c98e547445e346125a3733f2e96558b8617ac1f542798830c1bb4a75a36014177d4fc949029ae806b446e8602931ad68112126c56c4d45b1e2b88abaa6fa6d0cca0866bb6d"
+		"installscriptoverride"		"1"
+	}
+	"install"
+	{
+		"registry"
+		{
+			"hkey_local_machine\software\alkemi\transcripted"
+			{
+				"string"
+				{
+					"install_path"		"%INSTALLDIR%"
+					"exe_path"		"%INSTALLDIR%\\Transcripted.exe"
+				}
+			}
+		}
+		"run process"
+		{
+			"visual c++ 2010 sp1 redistributable package (x86)"
+			{
+				"process 1"		"%INSTALLDIR%\\vcredist_x86.exe"
+				"command 1"		"/q:a"
+				"description"		"Visual C++ 2010 SP1 Redistributable Package (x86)"
+				"nocleanup"		"1"
+				"ignoreexitcode"		"1"
+			}
+			"directx"
+			{
+				"process 1"		"%INSTALLDIR%\\DirectX_Redist\\DXSETUP.exe"
+				"description"		"DirectX"
+				"command 1"		"/silent"
+				"nocleanup"		"1"
+				"ignoreexitcode"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"217161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6733766444623799123"
+					"size"		"901866437"
+					"download"		"453647376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"B4385027A7CEB7F1BD653A051D4E07F8"
+					"size"		"3171C083B3F8AEB4EA5F5698B9C088A2"
+					"download"		"84C287589C257032F851666E5F5C48FC"
+				}
+			}
+		}
+		"217162"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"474064760762892688"
+					"size"		"912365434"
+					"download"		"454442736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"727C875C982B4131F67F12396153C817"
+					"size"		"CA73B87D6755BDFC542EA0338F0AFE54"
+					"download"		"3049AA647AEAA362FA949FA10856707A"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,spanish,czech,polish,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1489377"
+				"timeupdated"		"1480511916"
+			}
+			"devel"
+			{
+				"buildid"		"1489377"
+				"pwdrequired"		"1"
+				"timeupdated"		"1480511310"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"appidredirect"		"215450"
+	}
+}
