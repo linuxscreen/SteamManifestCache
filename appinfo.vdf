@@ -1,0 +1,227 @@
+"appinfo"
+{
+	"appid"		"414530"
+	"common"
+	{
+		"name"		"Skyforge"
+		"type"		"Game"
+		"logo"		"5e83aaf0be2e6907598fd27b0b4de325709be6f0"
+		"logo_small"		"5e83aaf0be2e6907598fd27b0b4de325709be6f0_thumb"
+		"icon"		"c2c3c736a773670b6a46ae0dccd5acc9fd6d1ecd"
+		"clienttga"		"9b2b51c5f3ba6b9ad2456bd20166015c5fc6601d"
+		"oslist"		"windows"
+		"clienticon"		"d24a4e1c98d6c297beff87d13172b664e7c45f8c"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"russian"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"414530_eula_0"
+				"name"		"Skyforge EULA"
+				"url"		"http://store.steampowered.com//eula/414530_eula_0"
+			}
+		}
+		"linuxclienticon"		"6e098669926a555f67fc744b89611b5eee820ef4"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1646438400"
+			"tested_build_id"		"6418636"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Skyforge"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"36.33411788587035"
+				"height_pct"		"67.46077255301971"
+			}
+		}
+		"store_asset_mtime"		"1662376646"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Allods Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Music Guru LLC"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_29"		"1"
+			"category_13"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1492086659"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"414530"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"128"
+			"2"		"122"
+			"3"		"1754"
+			"4"		"1695"
+			"5"		"4747"
+			"6"		"19"
+			"7"		"3859"
+			"8"		"21"
+			"9"		"3942"
+			"10"		"1646"
+			"11"		"4231"
+			"12"		"1685"
+			"13"		"3843"
+			"14"		"1662"
+			"15"		"7481"
+			"16"		"4182"
+			"17"		"1720"
+			"18"		"176981"
+			"19"		"1663"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"developer"		"Allods Team"
+		"publisher"		"Music Guru LLC"
+		"homepage"		"https://sf.my.games"
+		"isfreeapp"		"1"
+		"listofdlc"		"546370,546371,546372,546373,546374,602750,695670,695671,825090,995030,1050780,1150320,1651120,1780910"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Skyforge"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SkyforgeMycomSteamLoader.exe"
+				"arguments"		"-FromSteam"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollerconfigfileids"		"659319681"
+		"steamcontrollertemplateindex"		"1"
+	}
+	"depots"
+	{
+		"414531"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8040542460803325422"
+					"size"		"127264013"
+					"download"		"103911504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"4F70356F18D81D1E852F5E67BBDC51CB"
+					"size"		"0883C7F25F9D1FFF15546E26F4D7968B"
+					"download"		"C892108E1763431530FEA01D32FDCC13"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9837333"
+				"timeupdated"		"1667226089"
+			}
+			"test"
+			{
+				"buildid"		"11326593"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685108126"
+			}
+		}
+	}
+}
