@@ -1,0 +1,123 @@
+"appinfo"
+{
+	"appid"		"1702860"
+	"common"
+	{
+		"name"		"TD Worlds Demo"
+		"type"		"Demo"
+		"parent"		"1659180"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"c744364d9c795cdf668e6b4a3c8e3ed39a0f0400"
+		"clienttga"		"565f62e00026f411a91e7bd3d38220f97fb53e7d"
+		"icon"		"43144895cddbb5d412432b1daa225d3ef4d6b651"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1628013736"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MAKSIM VOLKAU"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MAKSIM VOLKAU"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1628006141"
+		"gameid"		"1702860"
+	}
+	"extended"
+	{
+		"demoofappid"		"1659180"
+		"developer"		"MAKSIM VOLKAU"
+		"publisher"		"MAKSIM VOLKAU"
+	}
+	"config"
+	{
+		"installdir"		"TD Worlds Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TD Worlds.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"1702861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"740068254199862786"
+					"size"		"90937776"
+					"download"		"63799088"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7875591"
+				"timeupdated"		"1639414548"
+			}
+		}
+	}
+}
