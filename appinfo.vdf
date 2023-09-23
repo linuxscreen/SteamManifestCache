@@ -1,0 +1,113 @@
+"appinfo"
+{
+	"appid"		"1677860"
+	"common"
+	{
+		"name"		"Spirit of ARX Demo"
+		"type"		"Demo"
+		"parent"		"1673880"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"bulgarian"		"Духът на ARX Демо"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"5bc32611ee466385d04cf43b1f177ffd894afb8d"
+		"clienticon"		"1681d24609c58bab383bf2d2a9f92011d8f23c7f"
+		"icon"		"2623b64d062736a22347aa58d90b8f51af0ca18b"
+		"clienticns"		"a9ef104aa65fcd6d8d62eb3bc35d96eb3c3630e5"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1625747095"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ARX Media"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ARX Media"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1626184920"
+		"gameid"		"1677860"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1673880"
+		"developer"		"ARX Media"
+		"publisher"		"ARX Media"
+		"homepage"		"https://arx.bg/spirit"
+	}
+	"config"
+	{
+		"installdir"		"SpiritofARXDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SpiritofARX.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,bulgarian"
+		"1677861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"69081555168287366"
+					"size"		"361429413"
+					"download"		"131485872"
+				}
+			}
+		}
+		"1677862"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7386502"
+				"timeupdated"		"1632082108"
+			}
+		}
+	}
+}
