@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"1297140"
+	"common"
+	{
+		"name"		"Desperados III Demo"
+		"type"		"Demo"
+		"parent"		"610370"
+		"releasestate"		"released"
+		"clienticon"		"368c9c546124ee087f3bfa7b6b96032643dca852"
+		"clienttga"		"ef4a85b48240df92c00f532d4b63e3751d684f47"
+		"icon"		"c5a1f8434a93b6416337796a5547e6e6f299930d"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"65.63593932322053"
+				"height_pct"		"62.15863215388268"
+			}
+		}
+		"store_asset_mtime"		"1588938518"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mimimi Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"THQ Nordic"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Desperados"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592325104"
+		"gameid"		"1297140"
+	}
+	"extended"
+	{
+		"demoofappid"		"610370"
+		"developer"		"Mimimi Games"
+		"publisher"		"THQ Nordic"
+		"homepage"		"https://desperadosgame.com"
+	}
+	"config"
+	{
+		"installdir"		"Desperados III Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Desperados III.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1297141"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5812230212295577458"
+					"size"		"7535973801"
+					"download"		"5560655728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"655251D1E9851D54892C9B6EC990C25F"
+					"size"		"F6CF031FC1740C1B9252FFE27B6B0DA2"
+					"download"		"3FDF4556E6BA68F153A074D6EE7072DA"
+				}
+				"pc-submission"
+				{
+					"gid"		"A0ED20467C673F298F8A179905F6BC31"
+					"size"		"FF22A88C22EEEC416CA35F3B1A798304"
+					"download"		"6333D9C16EFA4266E89C42AD2A577284"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5111051"
+				"timeupdated"		"1591353939"
+			}
+			"development"
+			{
+				"buildid"		"5111051"
+				"pwdrequired"		"1"
+				"timeupdated"		"1591119752"
+			}
+			"pc-submission"
+			{
+				"buildid"		"5111051"
+				"pwdrequired"		"1"
+				"timeupdated"		"1591268946"
+			}
+		}
+	}
+}
