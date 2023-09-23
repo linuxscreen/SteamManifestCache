@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"1533280"
+	"common"
+	{
+		"name"		"Eternal Cave Escape"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"b85a171a7420176eb2e84b278346b0595f283fe0"
+		"logo_small"		"b85a171a7420176eb2e84b278346b0595f283fe0_thumb"
+		"icon"		"bf1994393ec5307ab324d4e9fc76edbf00c18d45"
+		"clienttga"		"68deb24e35482339751f022fe423d808eeb7deaa"
+		"clienticon"		"007fe36325f9e719dce638d3dc56647e995faeba"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1651104000"
+			"tested_build_id"		"7157088"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1628219845"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HarderGaming"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HarderGaming"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628281644"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1533280"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3877"
+			"1"		"5379"
+			"2"		"1625"
+			"3"		"3964"
+			"4"		"113"
+			"5"		"19"
+			"6"		"3871"
+			"7"		"21"
+			"8"		"4004"
+			"9"		"492"
+			"10"		"5981"
+			"11"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"HarderGaming"
+		"publisher"		"HarderGaming"
+		"homepage"		"https://hardergaming.com/pages/projects/eternal-cave-escape"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Eternal Cave Escape"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Eternal Cave Escape.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65532"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1533281"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7058119669966210814"
+					"size"		"87273591"
+					"download"		"23067488"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7157088"
+				"timeupdated"		"1628441996"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"HarderGaming/Eternal Cave Escape/{64BitSteamID}"
+				"pattern"		"*.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
