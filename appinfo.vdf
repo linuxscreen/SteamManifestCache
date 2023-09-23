@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"1694160"
+	"common"
+	{
+		"name"		"Singulive"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"b9dea363f4dc9c381619c9cf5b7fe2d84ba6bfed"
+		"logo"		"52d25656748d5d5323604530306a284a775b0c8e"
+		"logo_small"		"52d25656748d5d5323604530306a284a775b0c8e_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"0eae4fbd191c64f0bf23f22d1bcec37258cb9f8d"
+		"clienticon"		"250a6de7aef33c7f21b6ad1015c675c276fb577e"
+		"controllervr"
+		{
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,es"
+			"library_hero"		"en,es"
+			"library_logo"		"en,es"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.65116279069767"
+				"height_pct"		"51.13987176442651"
+			}
+		}
+		"store_asset_mtime"		"1628622510"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Singulive SL"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Singulive SL"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629218177"
+		"community_hub_visible"		"1"
+		"gameid"		"1694160"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"21978"
+			"2"		"87"
+			"3"		"3834"
+			"4"		"4136"
+			"5"		"113"
+			"6"		"3843"
+			"7"		"4835"
+			"8"		"3859"
+			"9"		"493"
+			"10"		"4182"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Singulive SL"
+		"publisher"		"Singulive SL"
+		"homepage"		"https://www.singulive.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Singulive"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"/Singulive_Register/Singulive_Register.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Singulive Register"
+				}
+				"description"		"Singulive Register"
+			}
+			"1"
+			{
+				"executable"		"/Singulive_VR/Singulive.exe"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Singulive VR"
+				}
+				"description"		"Singulive VR"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1694161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2209147848427628591"
+					"size"		"1112480113"
+					"download"		"574448880"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7649836"
+				"timeupdated"		"1635944722"
+			}
+		}
+	}
+}
