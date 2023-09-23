@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"1354420"
+	"common"
+	{
+		"name"		"The protectors of Deya"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"2a207f57482a3bf19c8b6f7ac1433893ca2fa280"
+		"logo_small"		"2a207f57482a3bf19c8b6f7ac1433893ca2fa280_thumb"
+		"icon"		"9c81a350136f28fa11bf69201f11a2167361f78e"
+		"clienttga"		"aa0b2a47986ffaef3f0a4c7bc4d7fa74853b5579"
+		"clienticon"		"16484cdd7566c93593a1acbca592d55142ebd6e2"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.79113185530923"
+				"height_pct"		"94.30091211842304"
+			}
+		}
+		"store_asset_mtime"		"1593298921"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Not So Boring Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Not So Boring Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1593586800"
+		"steam_release_date"		"1594111680"
+		"community_hub_visible"		"1"
+		"gameid"		"1354420"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"4434"
+			"2"		"10695"
+			"3"		"3916"
+			"4"		"198631"
+			"5"		"4474"
+			"6"		"4166"
+			"7"		"4182"
+			"8"		"3871"
+			"9"		"4726"
+			"10"		"1684"
+			"11"		"4155"
+			"12"		"17305"
+			"13"		"21"
+			"14"		"4325"
+			"15"		"597"
+			"16"		"4106"
+			"17"		"1742"
+			"18"		"4305"
+			"19"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Not So Boring Games"
+		"publisher"		"Not So Boring Games"
+		"gamemanualurl"		"https://store.steampowered.com/manual/1354420/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The protectors of Deya"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamconfigurator3rdpartynative"		"65524"
+	}
+	"depots"
+	{
+		"1354421"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6912323172533393179"
+					"size"		"835708225"
+					"download"		"675443968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6019689"
+				"timeupdated"		"1609171324"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"www/save/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
