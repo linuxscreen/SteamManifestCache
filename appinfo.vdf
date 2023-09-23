@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"2226870"
+	"common"
+	{
+		"name"		"I Frog-ot"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"I Frog-ot"
+		}
+		"icon"		"941696747f8bcd142f489f597852d285a8191c3b"
+		"clienttga"		"2440cbe995128132f9b3a30fafa2df8aaf2cd375"
+		"clienticon"		"54f3ff0e1b01bf430f365b630c125240f445c6d0"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1679529600"
+			"tested_build_id"		"10108172"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"39.32014984953633"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1669838831"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Krabby Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Krabby Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1671185952"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2226870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"4726"
+			"2"		"4136"
+			"3"		"6971"
+			"4"		"6426"
+			"5"		"4234"
+			"6"		"1721"
+			"7"		"4166"
+			"8"		"4195"
+			"9"		"4342"
+			"10"		"10397"
+			"11"		"4191"
+			"12"		"21"
+			"13"		"9204"
+			"14"		"597"
+			"15"		"4562"
+			"16"		"3978"
+			"17"		"113"
+			"18"		"4182"
+			"19"		"11014"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Krabby Games"
+		"publisher"		"Krabby Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"I Frog-ot"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"I Frog-ot.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"2226871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"175557824112691714"
+					"size"		"2757290082"
+					"download"		"673621488"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10108172"
+				"timeupdated"		"1670524947"
+			}
+		}
+	}
+}
