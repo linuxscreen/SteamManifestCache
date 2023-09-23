@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"1662780"
+	"common"
+	{
+		"name"		"Moon Farming Demo"
+		"type"		"Demo"
+		"parent"		"1366840"
+		"releasestate"		"released"
+		"clienticon"		"96ed60823d44f816e0415a2f2cf125318771e694"
+		"clienttga"		"54d8fc046426a4208c8c799f480cab542f6f3719"
+		"icon"		"e388342c3074935c9dbfc2cfdd520daba2164cd3"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"40.43778801843318"
+				"height_pct"		"40.57011548500536"
+			}
+		}
+		"store_asset_mtime"		"1623267324"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SimulaM"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623849205"
+		"gameid"		"1662780"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1366840"
+		"developer"		"SimulaM"
+		"publisher"		"PlayWay S.A."
+	}
+	"config"
+	{
+		"installdir"		"Moon Farming Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MoonFarming.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1662781"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6802316904918567680"
+					"size"		"3917081235"
+					"download"		"1463639520"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6873838"
+				"timeupdated"		"1623783576"
+			}
+		}
+	}
+}
