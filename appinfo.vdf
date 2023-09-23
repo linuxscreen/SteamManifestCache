@@ -1,0 +1,259 @@
+"appinfo"
+{
+	"appid"		"1682520"
+	"common"
+	{
+		"name"		"Art of Fury: Virtual Gallery"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"817e8429a561f77793ff622580c8cc398e25253f"
+		"logo_small"		"817e8429a561f77793ff622580c8cc398e25253f_thumb"
+		"icon"		"ca9b731390da55d377a53e35e4be1e4859d5dbb3"
+		"clienttga"		"43b9af0c1397fea5f74e3a065c14b136839dc4bb"
+		"clienticon"		"466abd7539cc952535aba47a3e9fc4aed3e3e5d4"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"67.39195124304229"
+			}
+		}
+		"store_asset_mtime"		"1670496555"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Raw Fury"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Raw Fury"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1627297671"
+		"community_hub_visible"		"1"
+		"gameid"		"1682520"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9994"
+			"1"		"3834"
+			"2"		"3964"
+			"3"		"6815"
+			"4"		"113"
+			"5"		"1654"
+			"6"		"599"
+			"7"		"84"
+			"8"		"597"
+			"9"		"872"
+			"10"		"5900"
+			"11"		"4191"
+			"12"		"3839"
+			"13"		"6869"
+			"14"		"4182"
+			"15"		"4305"
+			"16"		"4175"
+			"17"		"5611"
+			"18"		"4486"
+			"19"		"6650"
+		}
+		"review_score"		"7"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Raw Fury"
+		"publisher"		"Raw Fury"
+		"homepage"		"http://www.artoffury.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Art of Fury"
+		"launch"
+		{
+			"3"
+			{
+				"executable"		"ArtOfFury.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"4"
+			{
+				"executable"		"ArtOfFury.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"5"
+			{
+				"executable"		"ArtOfFury.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1682521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"672494576981250230"
+					"size"		"1821127102"
+					"download"		"891870448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"old_version"
+				{
+					"gid"		"570FDD012D4B15F4CE1B90876672DC3C"
+					"size"		"E1ED959213B624E8993A3D4FED7D49AA"
+					"download"		"54BC952A01B326229A62BAA04D5FB044"
+				}
+				"staging"
+				{
+					"gid"		"27C4DA22B4774B2A9A6AF916B2A16DDA"
+					"size"		"CBB2882AADE847AC8A369BCB7822FFAF"
+					"download"		"39C281886D7FC8696F4001A35ACFE807"
+				}
+			}
+		}
+		"1682522"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3759579234650122834"
+					"size"		"1845096442"
+					"download"		"899803360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"old_version"
+				{
+					"gid"		"39CD9FA055DC860946D8E405BBF582E5"
+					"size"		"3E6CF6377D987019E23EDAF3C62F7DC5"
+					"download"		"F2688D192939D8D5EA76F697BF629453"
+				}
+				"staging"
+				{
+					"gid"		"CC2F6A29F28FE25DF54DC2A50EBE6682"
+					"size"		"7837CDA50F475A3EE1013207E32EC670"
+					"download"		"D3835D1C2DBF3FC64CED4AAC47557E78"
+				}
+			}
+		}
+		"1682523"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2875703514143651188"
+					"size"		"1827659593"
+					"download"		"894437264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"old_version"
+				{
+					"gid"		"69E7E5194DD2C135377EC87E48BF1D3D"
+					"size"		"C6CF0AE9D314939144299908C5DDE122"
+					"download"		"4339F0F47363C12105BE0A0E426695C3"
+				}
+				"staging"
+				{
+					"gid"		"B1FF4B4E82CDE41773558A787226CCE7"
+					"size"		"8FC8D59605D3405A090A60B3D0961449"
+					"download"		"D716AEB5F3CFA7D40DDEBFC7B9363DA4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10512923"
+				"timeupdated"		"1675939946"
+			}
+			"old_version"
+			{
+				"buildid"		"7106799"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645782407"
+			}
+			"staging"
+			{
+				"buildid"		"10512923"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675931699"
+			}
+		}
+	}
+}
