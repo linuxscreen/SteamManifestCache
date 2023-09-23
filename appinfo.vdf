@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"1702120"
+	"common"
+	{
+		"name"		"Adapt Demo"
+		"type"		"Demo"
+		"parent"		"888780"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"1342aa0f0d15652a9f6c883db84c75bb79a40575"
+		"clienticon"		"9e8ea625e3d223b3c93881f6b7089bef84dec404"
+		"icon"		"775b8b4a32977824466fd9167a9f98d79b895ff6"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"koreana"		"header_koreana.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,ko"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"69.42645725848678"
+				"height_pct"		"55.67644276253548"
+			}
+		}
+		"store_asset_mtime"		"1681748195"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paul Hervé"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Slug Disco"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1627488953"
+		"gameid"		"1702120"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"888780"
+		"developer"		"Paul Hervé"
+		"publisher"		"Slug Disco"
+	}
+	"config"
+	{
+		"installdir"		"Adapt Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Adapt.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1702121"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6019514447782029111"
+					"size"		"447471352"
+					"download"		"202175728"
+				}
+				"test"
+				{
+					"gid"		"6600389309813285865"
+					"size"		"444174546"
+					"download"		"211500336"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11371307"
+				"timeupdated"		"1685633154"
+			}
+			"test"
+			{
+				"buildid"		"12240093"
+				"description"		"Used for testing pre-release updates"
+				"timeupdated"		"1695244109"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"sync_while_suspended"		"1"
+	}
+}
