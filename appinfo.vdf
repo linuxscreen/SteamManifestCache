@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"1583630"
+	"common"
+	{
+		"name"		"Treasure of Barracuda"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"b774922b724f5c72ebd9fb8f06c4b1547dcff145"
+		"logo_small"		"b774922b724f5c72ebd9fb8f06c4b1547dcff145_thumb"
+		"icon"		"3f339927ed98ad67231c4f819feb39e73f52450e"
+		"clienttga"		"24be2f66054e8714405187a6299854d7d8930eef"
+		"clienticon"		"b1e35d72731f7f6b46d5e68f27e0a42edb8958d6"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1629744245"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"legolamaniac"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"legolamaniac"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629741345"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1583630"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1664"
+			"2"		"1736"
+			"3"		"1698"
+			"4"		"599"
+			"5"		"3834"
+			"6"		"5716"
+			"7"		"8369"
+			"8"		"1681"
+			"9"		"4195"
+			"10"		"4305"
+			"11"		"4094"
+			"12"		"6276"
+			"13"		"7250"
+			"14"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"legolamaniac"
+		"publisher"		"legolamaniac"
+		"homepage"		"https://www.legolamaniac.com/treasure-of-barracuda"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TreasureOfBarracuda"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LegoPuzzleGame.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1583631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3858980691115281469"
+					"size"		"380748778"
+					"download"		"305096224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-debug"
+				{
+					"gid"		"10FD6E72F7C77C489B7ED25C98A697B2"
+					"size"		"A6BAFF2B98DEEBD8087437B77781042D"
+					"download"		"0B674E8E544368920D73A7B0A9056970"
+				}
+				"dev-development"
+				{
+					"gid"		"C6B538E4FB2B0952981F301C54D1E33E"
+					"size"		"B14D7B667CB37F03D9F5734FE0630799"
+					"download"		"CB0259DDD17A19DCAFEBDA0318FF23B2"
+				}
+				"dev-shipping"
+				{
+					"gid"		"9253B74C119D3B665DC2274B074C4EE0"
+					"size"		"81F20CDC3A7A55E9CA0A1E7A651F4024"
+					"download"		"8BE95039CFF8E0FADFFEF864F222A3D5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7231007"
+				"timeupdated"		"1629665441"
+			}
+			"dev-debug"
+			{
+				"buildid"		"6488052"
+				"pwdrequired"		"1"
+				"timeupdated"		"1617541713"
+			}
+			"dev-development"
+			{
+				"buildid"		"7231009"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629665397"
+			}
+			"dev-shipping"
+			{
+				"buildid"		"7231007"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629665384"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
