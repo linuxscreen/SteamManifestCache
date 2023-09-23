@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"1892370"
+	"common"
+	{
+		"name"		"Riding to Bounce City"
+		"type"		"Game"
+		"logo"		"bdf4a352b134d1c5a7be71e8997ce9246b2b5cbf"
+		"logo_small"		"bdf4a352b134d1c5a7be71e8997ce9246b2b5cbf_thumb"
+		"icon"		"9ea43d9621d4c04e7fb8d238dfb7179825f14f09"
+		"clienticon"		"f599262a8221bfade324fb9bc7728f8126f174b4"
+		"clienttga"		"4f48c56f9cac2c630893ca43aa4ed1e15e776499"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.81516587677724"
+				"height_pct"		"64.65148502921863"
+			}
+		}
+		"store_asset_mtime"		"1663283791"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Trigon Fan"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Trigon Fan"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Bounce"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"9"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1663257068"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1892370"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"6650"
+			"1"		"9130"
+			"2"		"12095"
+			"3"		"5611"
+			"4"		"4085"
+			"5"		"24904"
+			"6"		"7208"
+			"7"		"597"
+			"8"		"1773"
+			"9"		"4726"
+			"10"		"6815"
+			"11"		"3871"
+			"12"		"699"
+			"13"		"5379"
+			"14"		"4106"
+			"15"		"9551"
+			"16"		"4747"
+			"17"		"19568"
+			"18"		"4947"
+			"19"		"4102"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Trigon Fan"
+		"publisher"		"Trigon Fan"
+		"isfreeapp"		"1"
+		"listofdlc"		"2146750,2259570,2388760,2594650"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Riding to Bounce City"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Riding to Bounce City.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1892371"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7187297670860284731"
+					"size"		"4300915206"
+					"download"		"772439136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"updatetest"
+				{
+					"gid"		"462264A329FDF0C9C9775D5103055DBE"
+					"size"		"829970563E06F878DA3548AE3492720D"
+					"download"		"3B3E757E8B8188080F67E8573337F078"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12136397"
+				"timeupdated"		"1694712929"
+			}
+			"updatetest"
+			{
+				"buildid"		"12136397"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694124261"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Trigon fan/Riding to Bounce City"
+				"pattern"		"player.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
