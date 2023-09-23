@@ -1,0 +1,143 @@
+"appinfo"
+{
+	"appid"		"1710150"
+	"common"
+	{
+		"name"		"One Drunken Knight Demo"
+		"type"		"Demo"
+		"parent"		"1400610"
+		"releasestate"		"released"
+		"clienttga"		"2b49452f7dfbcd5864ec3902e9719882974e9f42"
+		"clienticon"		"e9272fc47b39871412bfa36d84676ae42a817fea"
+		"icon"		"cdb96c21151571f2f44527583bd2bb6140e29e3b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"82bc5f5950f801a4d1979066b0e272065d6a544f"
+		"logo_small"		"82bc5f5950f801a4d1979066b0e272065d6a544f_thumb"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1627736262"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Professional Imagination"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Captainsteff"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Professional Imagination"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1627705436"
+		"gameid"		"1710150"
+	}
+	"extended"
+	{
+		"demoofappid"		"1400610"
+		"developer"		"Professional Imagination"
+		"publisher"		"Professional Imagination"
+		"homepage"		"http://www.OneDrunkenKnight.com"
+	}
+	"config"
+	{
+		"installdir"		"One Drunken Knight Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"win64\\One Drunken Knight DEMO.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1710152"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2405615900249124492"
+					"size"		"458662639"
+					"download"		"309036528"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10004442"
+				"timeupdated"		"1669247936"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"3"
+		"appidredirect"		"1400610"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"*.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
