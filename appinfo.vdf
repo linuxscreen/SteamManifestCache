@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"2273550"
+	"common"
+	{
+		"name"		"Postmouse"
+		"type"		"Game"
+		"linuxclienticon"		"1fe8355ce585eb80af586ce61b424a51ed5b0b12"
+		"clienttga"		"f94738ffc35414fff53824c310d4ac8863f6b146"
+		"clienticon"		"1fe8355ce585eb80af586ce61b424a51ed5b0b12"
+		"clienticns"		"1fe8355ce585eb80af586ce61b424a51ed5b0b12"
+		"icon"		"ac8c9bdd33223050fbbe3afa245c987b8fa0363e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1682035200"
+			"tested_build_id"		"10338397"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.37339556592765"
+				"height_pct"		"94.68059843267633"
+			}
+		}
+		"store_asset_mtime"		"1673641304"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Critters Collective"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Animation Workshop"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1675079403"
+		"community_hub_visible"		"1"
+		"gameid"		"2273550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"5395"
+			"2"		"4182"
+			"3"		"3834"
+			"4"		"4726"
+			"5"		"1697"
+			"6"		"4166"
+			"7"		"113"
+			"8"		"1684"
+			"9"		"3835"
+			"10"		"15172"
+			"11"		"1625"
+			"12"		"7250"
+			"13"		"4191"
+			"14"		"492"
+			"15"		"1664"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Critters Collective"
+		"publisher"		"The Animation Workshop"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Postmouse"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PostMouse.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2273551"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"709191382851325128"
+					"size"		"9558626667"
+					"download"		"3579719152"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10338397"
+				"timeupdated"		"1673948599"
+			}
+		}
+	}
+}
