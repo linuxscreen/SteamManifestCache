@@ -1,0 +1,111 @@
+"appinfo"
+{
+	"appid"		"2356000"
+	"common"
+	{
+		"name"		"Little Land War SRPG Demo"
+		"type"		"Demo"
+		"parent"		"2279930"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"57653c2af037d7b81c8dfec6d8aaa7690cd69eaa"
+		"clienttga"		"040a297faa25d11b5a803259da179918891efe2c"
+		"icon"		"515db984bf50b4c689fcf132aeecf71b1e0b8a0a"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1678735109"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Masakazu Yanai"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rutenn no oheya"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678812660"
+		"gameid"		"2356000"
+	}
+	"extended"
+	{
+		"demoofappid"		"2279930"
+		"developer"		"Masakazu Yanai"
+		"publisher"		"Rutenn no oheya"
+		"homepage"		"https://crocro.com/shop/item/llw_srpg.html"
+	}
+	"config"
+	{
+		"installdir"		"Little Land War SRPG Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Little Land War SRPG.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Start game."
+					"japanese"		"ゲームを開始します。"
+				}
+				"description"		"Start game."
+			}
+		}
+	}
+	"depots"
+	{
+		"2356001"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7846198336457181690"
+					"size"		"387466696"
+					"download"		"201462688"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10751470"
+				"timeupdated"		"1678649724"
+			}
+		}
+	}
+}
