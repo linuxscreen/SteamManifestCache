@@ -1,0 +1,133 @@
+"appinfo"
+{
+	"appid"		"1706530"
+	"common"
+	{
+		"name"		"Historica Fantasia Demo"
+		"type"		"Demo"
+		"parent"		"1280840"
+		"releasestate"		"released"
+		"clienticon"		"4e7d83e8ac32dec65ae4ca0ae1c2d8a08ffc7494"
+		"clienttga"		"fccecafe6829001794c2563699dcf2d220e1c728"
+		"icon"		"4db4e62b7ef6e5b55fe3bf79af28f0bb70e1b2a5"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1627368992"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Atelier Answer 42"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Atelier Answer 42"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627530486"
+		"gameid"		"1706530"
+	}
+	"extended"
+	{
+		"demoofappid"		"1280840"
+		"developer"		"Atelier Answer 42"
+		"publisher"		"Atelier Answer 42"
+	}
+	"config"
+	{
+		"installdir"		"Historica Fantasia Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Historica Fantasia.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1706531"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9154111621316456280"
+					"size"		"972540995"
+					"download"		"288190336"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7187169"
+				"timeupdated"		"1628877454"
+			}
+		}
+	}
+}
