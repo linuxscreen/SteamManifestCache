@@ -1,0 +1,146 @@
+"appinfo"
+{
+	"appid"		"2223100"
+	"common"
+	{
+		"name"		"Wildaria Demo"
+		"type"		"Demo"
+		"parent"		"1965550"
+		"icon"		"8ba67253c64b42f6448f4ae5ca145569082bca5d"
+		"clienttga"		"10fcc8629d408b5907c470c9dd131be50f93d92d"
+		"clienticon"		"7baa61894bafb2aaaec3e8eeec1ee22f0db67ec8"
+		"clienticns"		"cf04155e374fa4272bbcd85d4ac687012ff025d4"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.931155192532096"
+				"height_pct"		"67.09807646639753"
+			}
+		}
+		"store_asset_mtime"		"1685132878"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Spacefudge"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spacefudge"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1668973020"
+		"gameid"		"2223100"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1965550"
+		"developer"		"Spacefudge"
+		"publisher"		"Spacefudge"
+	}
+	"config"
+	{
+		"installdir"		"Wildaria Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wildaria.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Wildaria.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2223101"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3149368736128491681"
+					"size"		"295328409"
+					"download"		"95562224"
+				}
+			}
+		}
+		"2223102"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7516670882861288680"
+					"size"		"325952644"
+					"download"		"102905696"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11168790"
+				"timeupdated"		"1683337717"
+			}
+		}
+	}
+}
