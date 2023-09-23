@@ -1,0 +1,217 @@
+"appinfo"
+{
+	"appid"		"1351170"
+	"common"
+	{
+		"name"		"東方催狐譚 ～ Servants of Harvest Wish"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"linuxclienticon"		"30edc19e196bc7f62ee671d29075da5752e4ef55"
+		"clienticon"		"d449891070807336602aff0404ea238900a621e1"
+		"clienttga"		"3116da133499e55441f5ebd36bd517329ef1013e"
+		"icon"		"1de05cfc13be2b41a9cd26fec26ab302275c9f68"
+		"logo"		"d062835fe14af7636d03a8a277c2197bfd446e34"
+		"logo_small"		"d062835fe14af7636d03a8a277c2197bfd446e34_thumb"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.478045162365724"
+				"height_pct"		"71.18029970018962"
+			}
+		}
+		"store_asset_mtime"		"1592499848"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dream Compass"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dream Compass"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1589612400"
+		"steam_release_date"		"1596451503"
+		"community_hub_visible"		"1"
+		"gameid"		"1351170"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4182"
+			"1"		"4255"
+			"2"		"4885"
+			"3"		"19"
+			"4"		"4637"
+			"5"		"1773"
+			"6"		"113"
+			"7"		"1774"
+			"8"		"3871"
+			"9"		"4085"
+			"10"		"6971"
+			"11"		"1621"
+			"12"		"180368"
+		}
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Dream Compass"
+		"publisher"		"Dream Compass"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Servants of Harvest Wish"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"th_sohw.exe"
+				"description"		"Launch Game"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"config.exe"
+				"description"		"Configuration Tool"
+				"type"		"config"
+			}
+			"2"
+			{
+				"executable"		"th_sohw_proton.sh"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"(Linux only) Run this once to configure for proton"
+				}
+				"description"		"(Linux only) Run this once to configure for proton"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"5"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1351171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7147990529425738092"
+					"size"		"189244567"
+					"download"		"178856320"
+				}
+			}
+		}
+		"1351172"
+		{
+		}
+		"1351173"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"848323135335807215"
+					"size"		"185473039"
+					"download"		"174855568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11812957"
+				"timeupdated"		"1690708268"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"30"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"script/SoHW/data"
+				"pattern"		"*.dat"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"script/SoHW/replay"
+				"pattern"		"*.dat"
+			}
+		}
+	}
+}
