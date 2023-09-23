@@ -1,0 +1,96 @@
+"appinfo"
+{
+	"appid"		"1664420"
+	"common"
+	{
+		"name"		"東方実在相 ～ Dream Logical World Demo"
+		"type"		"Demo"
+		"parent"		"1664410"
+		"releasestate"		"released"
+		"clienticon"		"f44a768e25fd6dde232287ae912343c356d74c0e"
+		"clienttga"		"f66ee3159255efb801e9a2a0420d9944e1098e04"
+		"icon"		"0cb90f5a4ec14d62adf0e8a7075d3bdd22033ebd"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1627865967"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Analogue Reverie"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Analogue Reverie"
+			}
+		}
+		"steam_release_date"		"1629950949"
+		"gameid"		"1664420"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1664410"
+		"developer"		"Analogue Reverie"
+		"publisher"		"Analogue Reverie"
+	}
+	"config"
+	{
+		"installdir"		"東方実在相 ～ Dream Logical World Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"th_dlw.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"config.exe"
+				"type"		"config"
+				"description_loc"
+				{
+					"english"		"Config Tool"
+				}
+				"description"		"Config Tool"
+			}
+		}
+	}
+	"depots"
+	{
+		"1664421"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5016314132219666606"
+					"size"		"128894535"
+					"download"		"108395984"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7122358"
+				"timeupdated"		"1628052615"
+			}
+		}
+	}
+}
