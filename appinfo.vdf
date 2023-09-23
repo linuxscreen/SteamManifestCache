@@ -1,0 +1,172 @@
+"appinfo"
+{
+	"appid"		"207510"
+	"common"
+	{
+		"name"		"Rayman Origins Demo"
+		"type"		"Demo"
+		"icon"		"1e155c2bc13e8793aed8bb61fdac798fe0d49de7"
+		"clienticon"		"e882b2bb691d5f96f472a801f5b1ba6d5ae80265"
+		"clienttga"		"02db8a5a4c944430d75d5c2b299e9e0be879d7d8"
+		"freeondemand"		"1"
+		"parent"		"207490"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1330543491"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UBIart Montpellier"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ubisoft"
+			}
+		}
+		"primary_genre"		"34"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"34"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+		}
+		"supported_languages"
+		{
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1330540440"
+		"gameid"		"207510"
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"demoofappid"		"207490"
+		"developer"		"UBIart Montpellier"
+		"gamedir"		"ValveTestApp207510"
+		"homepage"		""
+		"icon"		""
+		"installscript"		"207510_install.vdf"
+		"languages"		"english,french,japanese,german,spanish,italian,portuguese,polish,russian,dutch,czech,hungarian"
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Ubisoft"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Rayman Origins Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Rayman Origins.exe"
+				"arguments"		""
+				"description"		"Play Rayman Origins Demo"
+				"workingdir"		""
+			}
+		}
+	}
+	"depots"
+	{
+		"207511"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1819841510325425416"
+					"size"		"884638447"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B50D340DA7BCC991518F25E0716F0395"
+					"size"		"E5ACA98A87AB7E80A4E7AB55F915C1D5"
+					"download"		"C45E63F6B145327B609ADAAF00D0D180"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,french,japanese,german,spanish,italian,portuguese,polish,russian,dutch,czech,hungarian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1388"
+			}
+			"beta"
+			{
+				"buildid"		"1388"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
