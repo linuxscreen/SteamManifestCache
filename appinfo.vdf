@@ -1,0 +1,217 @@
+"appinfo"
+{
+	"appid"		"1707310"
+	"common"
+	{
+		"name"		"Rue"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"f4e0752556386de1f8d6d61ee432dd703e1bb723"
+		"clienticon"		"12f0598a67823a546888ea867034a854935b589c"
+		"icon"		"88a9f040529d8b20e15b30af2504ef5b1fc67959"
+		"linuxclienticon"		"951b47e63dd090ef4abdfb8c7eb96ab5ff4c1ed2"
+		"logo"		"fa96b3d3f4ef1189875a56aa70b66ca9e350a471"
+		"logo_small"		"fa96b3d3f4ef1189875a56aa70b66ca9e350a471_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"japanese"		"1"
+			"greek"		"1"
+		}
+		"name_localized"
+		{
+			"greek"		"Ρού"
+			"german"		"Reue"
+			"japanese"		"ルー"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"51.202404809619225"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1686096102"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Afloofdev"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Afloofdev"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1676323806"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1707310"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"9"
+			"2"		"1666"
+			"3"		"1664"
+			"4"		"4191"
+			"5"		"4195"
+			"6"		"3839"
+			"7"		"6815"
+			"8"		"1684"
+			"9"		"113"
+			"10"		"492"
+			"11"		"6426"
+			"12"		"17389"
+			"13"		"12057"
+			"14"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Afloofdev"
+		"publisher"		"Afloofdev"
+		"gamemanualurl"		"https://store.steampowered.com/manual/1707310/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Rue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin/rue.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"rue.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1707311"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6328864962736945809"
+					"size"		"34273967"
+					"download"		"24146608"
+				}
+				"develop"
+				{
+					"gid"		"6328864962736945809"
+					"size"		"34273967"
+					"download"		"24146608"
+				}
+			}
+		}
+		"1707312"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"613738792210704160"
+					"size"		"79912907"
+					"download"		"57470064"
+				}
+				"develop"
+				{
+					"gid"		"613738792210704160"
+					"size"		"79912907"
+					"download"		"57470064"
+				}
+			}
+		}
+		"baselanguages"		"english,german,japanese,greek"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12097057"
+				"timeupdated"		"1693689241"
+			}
+			"develop"
+			{
+				"buildid"		"12097057"
+				"description"		"Experimental features"
+				"timeupdated"		"1693686747"
+			}
+		}
+	}
+}
