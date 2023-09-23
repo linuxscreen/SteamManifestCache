@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"1672470"
+	"common"
+	{
+		"name"		"Creepy Pizza Arcade"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"db65b6e096ef0f3738880e871c99116c38a9174f"
+		"clienttga"		"71762c2f143f011b859b32379f982a41d696c471"
+		"icon"		"318e0f365d364d7f4a31272fbeeeb1d2f1a49d7a"
+		"logo"		"f64bab19afd8e8d8047c4d70b4d7d05eafd55ad1"
+		"logo_small"		"f64bab19afd8e8d8047c4d70b4d7d05eafd55ad1_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1628217502"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Peter Uth"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Britt Oswald"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Creepy Pizza"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1629474169"
+		"community_hub_visible"		"1"
+		"gameid"		"1672470"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1773"
+			"1"		"19"
+			"2"		"3854"
+			"3"		"3964"
+			"4"		"1719"
+			"5"		"3871"
+			"6"		"5923"
+			"7"		"113"
+			"8"		"4486"
+			"9"		"492"
+			"10"		"4562"
+			"11"		"7743"
+			"12"		"1673"
+			"13"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Peter Uth"
+		"publisher"		"Creepy Pizza"
+		"homepage"		"https://www.creepypizza.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Creepy Pizza Arcade"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CreepyPizzaArcade.app\\Contents\\MacOS\\CreepyPizzaArcade"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"CreepyPizzaArcade\\CreepyPizzaArcade.exe"
+				"workingdir"		"CreepyPizzaArcade\\"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1672471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"252030108935591845"
+					"size"		"20231019"
+					"download"		"8290208"
+				}
+			}
+		}
+		"1672472"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2323411735683943767"
+					"size"		"26862437"
+					"download"		"7290256"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6938374"
+				"timeupdated"		"1624722774"
+			}
+		}
+	}
+}
