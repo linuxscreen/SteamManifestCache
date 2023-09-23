@@ -1,0 +1,117 @@
+"appinfo"
+{
+	"appid"		"1700650"
+	"common"
+	{
+		"name"		"Who's Lila? Demo"
+		"type"		"Demo"
+		"parent"		"1697700"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"7a5683ef44f3bbb9b9d69592d9f38837419962c2"
+		"clienticon"		"4a4238dc766afaf2823b83e203e8d963037f1b71"
+		"icon"		"b32d31afbc2a93c600a2dab729d6347e1e18faa5"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"85.56162431726429"
+			}
+		}
+		"store_asset_mtime"		"1626706078"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Garage Heathen"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Garage Heathen"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"IndieArk"
+			}
+		}
+		"steam_release_date"		"1628665350"
+		"community_visible_stats"		"1"
+		"gameid"		"1700650"
+	}
+	"extended"
+	{
+		"demoofappid"		"1697700"
+		"developer"		"Garage Heathen"
+		"publisher"		"Garage Heathen"
+	}
+	"config"
+	{
+		"installdir"		"Who's Lila Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WhosLila.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"WhosLilaSteamMac.app\\Contents\\MacOS\\WhosLila"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1700651"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"317092660713870962"
+					"size"		"1808169255"
+					"download"		"588670208"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7271040"
+				"timeupdated"		"1630300788"
+			}
+		}
+	}
+}
