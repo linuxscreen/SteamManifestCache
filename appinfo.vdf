@@ -1,0 +1,114 @@
+"appinfo"
+{
+	"appid"		"2342840"
+	"common"
+	{
+		"name"		"Glass Wings Demo"
+		"type"		"Demo"
+		"parent"		"2271520"
+		"releasestate"		"released"
+		"icon"		"fd4d17c86fb8665a3779692ffa333bead51f70e7"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"60eca44d64dee9a8ebb67ec89d4ac7a0ab536eca"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1677781895"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Violet Angel Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Violet Angel Interactive"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1677873063"
+		"gameid"		"2342840"
+	}
+	"extended"
+	{
+		"demoofappid"		"2271520"
+		"developer"		"Violet Angel Interactive"
+		"publisher"		"Violet Angel Interactive"
+	}
+	"config"
+	{
+		"installdir"		"Glass Wings Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MWParkour_System2.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2342841"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5745285010233495641"
+					"size"		"3446454324"
+					"download"		"1198655744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10679198"
+				"timeupdated"		"1677803486"
+			}
+		}
+	}
+}
