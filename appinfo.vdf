@@ -1,0 +1,172 @@
+"appinfo"
+{
+	"appid"		"2351690"
+	"common"
+	{
+		"name"		"Penguin with a Pumpgun Demo"
+		"type"		"Demo"
+		"parent"		"2231800"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"0209f885e0f2a27405d133ed4506b38dfab53961"
+		"clienttga"		"f18fcd08dee2400f6f60efce07720eb55b6785b1"
+		"linuxclienticon"		"e2d210abb919e0fd0cbc4c0402d89f6f0e282da7"
+		"clienticon"		"26c41b172ab232f55c91f13a5a00b0afd173c95e"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"13.969870464792095"
+				"height_pct"		"78.45935908599172"
+			}
+		}
+		"store_asset_mtime"		"1678730778"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Lone Survivor"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Lone Survivor"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Penguin with a Pumpgun"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678896035"
+		"gameid"		"2351690"
+	}
+	"extended"
+	{
+		"demoofappid"		"2231800"
+		"developer"		"Team Lone Survivor"
+		"publisher"		"Team Lone Survivor"
+	}
+	"config"
+	{
+		"installdir"		"Penguin with a Pumpgun Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"desktopgl.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"desktopgl"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2351692"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1965233130061253196"
+					"size"		"247569676"
+					"download"		"129192800"
+				}
+			}
+		}
+		"2351693"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2106014084893591383"
+					"size"		"248732094"
+					"download"		"128796384"
+				}
+			}
+		}
+		"2351694"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"steamdeck"		"1"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1821417575615952472"
+					"size"		"248731582"
+					"download"		"128796592"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11567409"
+				"timeupdated"		"1687856992"
+			}
+		}
+	}
+}
