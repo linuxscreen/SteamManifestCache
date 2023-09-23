@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"2075910"
+	"common"
+	{
+		"name"		"Affogato Demo"
+		"type"		"Demo"
+		"parent"		"1983970"
+		"clienticon"		"9b85ea7e3962c76b773fc1502a4beff0e3246240"
+		"clienttga"		"77508b2ad2b2b63b1f015770b6409fee141d86b7"
+		"icon"		"63259b9a166d32851461bf490c18b9d65ea1c8cc"
+		"name_localized"
+		{
+			"schinese"		"加把劲魔女 试玩版"
+			"japanese"		"アフォガート Demo"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en,ja"
+			"library_hero"		"zh-cn,en"
+			"library_logo"		"zh-cn,en,ja"
+		}
+		"store_asset_mtime"		"1658286500"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Befun Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spiral Up Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"steam_release_date"		"1659077595"
+		"gameid"		"2075910"
+	}
+	"extended"
+	{
+		"demoofappid"		"1983970"
+		"developer"		"Befun Studio"
+		"publisher"		"Spiral Up Games"
+	}
+	"config"
+	{
+		"installdir"		"Affogato Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Affogato.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2075911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"751025699031702212"
+					"size"		"2221629276"
+					"download"		"339430256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-demo"
+				{
+					"gid"		"0A951327F7E4C829F347B659C12406FB"
+					"size"		"A50ABF603AC5394B5E3A9C2068EB6127"
+					"download"		"8646EADF8AF2A597ACD921845377C291"
+				}
+				"internal-qa"
+				{
+					"gid"		"CC3EBE7DBF53C5DFD385AC77628240F1"
+					"size"		"DA654C7873F1774717FD988976DE5835"
+					"download"		"ED34163B846BD86C3AA857EF26853DAC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10339825"
+				"timeupdated"		"1674718334"
+			}
+			"internal-demo"
+			{
+				"buildid"		"11142091"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683075949"
+			}
+			"internal-qa"
+			{
+				"buildid"		"10339825"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674014041"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"1983970"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Befun/Affogato"
+				"pattern"		"*.sec"
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Befun/Affogato"
+						"replace"		"unity.Befun.Affogato"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Befun/Affogato"
+						"replace"		".config/unity3d/Befun/Affogato"
+					}
+				}
+			}
+		}
+	}
+}
