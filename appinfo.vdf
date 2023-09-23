@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1753260"
+	"common"
+	{
+		"name"		"Inscryption Demo"
+		"type"		"Demo"
+		"parent"		"1092790"
+		"clienttga"		"74824317094412eddcea18355548988e7ae7e78a"
+		"clienticon"		"0f06afca5503683fe12bfaee26a6a3f13df27c87"
+		"icon"		"25c02dcbabe97febe787797195099325a4d47935"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666310400"
+			"tested_build_id"		"7523353"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1685583490"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Daniel Mullins Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Devolver Digital"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"steam_release_date"		"1632495159"
+		"gameid"		"1753260"
+	}
+	"extended"
+	{
+		"demoofappid"		"1092790"
+		"developer"		"Daniel Mullins Games"
+		"publisher"		"Devolver Digital"
+		"homepage"		"https://www.inscryption-game.com"
+	}
+	"config"
+	{
+		"installdir"		"Inscryption Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Inscryption.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1753261"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2955619117776137971"
+					"size"		"1996200896"
+					"download"		"724245872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devolverqa"
+				{
+					"gid"		"6DE2212E85536F318BBDAD0017781C0C"
+					"size"		"CF2B04E6B8DB3844BA21273D2592FF00"
+					"download"		"3A3509DC65F8E2AB677489BEC3B6CDB8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7523353"
+				"timeupdated"		"1634095835"
+			}
+			"devolverqa"
+			{
+				"buildid"		"7523353"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634095401"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1"
+		"appidredirect"		"1092790"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"*.gwsave"
+			}
+		}
+	}
+}
