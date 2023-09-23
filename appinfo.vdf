@@ -1,0 +1,487 @@
+"appinfo"
+{
+	"appid"		"613900"
+	"common"
+	{
+		"name"		"Museum of Other Realities"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"clienticon"		"f44af085ffcc6ab8bd22c7fda4f21f252f64dd9d"
+		"clienttga"		"f74bb2f9dab187bcaa3191ebf84618a6934d6feb"
+		"icon"		"3cb3c9033a81122b2c262cfee741bb7053bcbba6"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"openvrsupport"		"1"
+		"logo"		"2d6a26cd246f11e696ae99088ccf486f3ace43f6"
+		"logo_small"		"2d6a26cd246f11e696ae99088ccf486f3ace43f6_thumb"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1662595200"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"theMOR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"37.28121353558927"
+				"height_pct"		"73.046081962134"
+			}
+		}
+		"store_asset_mtime"		"1623089874"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MOR Museum Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MOR Museum Inc."
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1582741680"
+		"community_hub_visible"		"1"
+		"gameid"		"613900"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"597"
+			"2"		"21978"
+			"3"		"3859"
+			"4"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"MOR Museum Inc."
+		"publisher"		"MOR Museum Inc."
+		"homepage"		"https://museumor.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1348090,1351570,1351571,1351572,1424320,1568390,1641150,1643620,1643630,1759370,1837850,1983500"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MOR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MOR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"613901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8840624391063568479"
+					"size"		"4354494128"
+					"download"		"2773581312"
+				}
+				"experimental"
+				{
+					"gid"		"8840624391063568479"
+					"size"		"4354494128"
+					"download"		"2773581312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"art_staging"
+				{
+					"gid"		"4DD56B431E92D71096F3FD808311F321"
+					"size"		"25195C636ACA614442281A1E38431F9A"
+					"download"		"7867189CC3FC4A25C17B2BEA88CAC46B"
+				}
+				"cannesxr2020"
+				{
+					"gid"		"9A923AEE5EDD5CB075677E75B1C986C8"
+					"size"		"10D0E2966176B58199434ADD3839D353"
+					"download"		"2C0008381F25FCC70F1251A8DFC826A0"
+				}
+				"collinschristmas"
+				{
+					"gid"		"179855D030236FC1F8D7B4BCF0E784F7"
+					"size"		"F7597AC9F171164814D8B01DBD3990B5"
+					"download"		"964E35D1432D96741521CFAC1FC2A644"
+				}
+				"development"
+				{
+					"gid"		"6996EFA5836B6103CBC9AD1D2F95D080"
+					"size"		"8D88C5E3B1EFEA13D2F7ED8B02ABDBED"
+					"download"		"ECED8D23F80E8DB54A577E48B4E0A236"
+				}
+				"dlctest"
+				{
+					"gid"		"B130A3599A9D9A77E1D2912C2AA333CE"
+					"size"		"6449D12E0DB39AF2C57713DC6F0AAEB0"
+					"download"		"55DD779FB44290DB1001835EAF86E671"
+				}
+				"festivalpreview2021"
+				{
+					"gid"		"B4BB0B23BDBF2BBF8071A2CC3C7D4CE6"
+					"size"		"9068C217AE2D2C4ADAA0404C1E370427"
+					"download"		"67C2372C9C260901D9622BE756B5382D"
+				}
+				"iaoctober2021"
+				{
+					"gid"		"7CB1306762686F1CAABB8AC18438E831"
+					"size"		"A75997E97D525E372F28ADE74C932D4E"
+					"download"		"523576EB10B815AF868FB2FB280B5C24"
+				}
+				"immersive_nodlc"
+				{
+					"gid"		"2FA1E197C82FD33C23D38B47513AC0A0"
+					"size"		"B3217E79D8FFCF057911CC76B0A7CACC"
+					"download"		"8C13A2FE15942BDFF16DCF89933DCFB3"
+				}
+				"june2019"
+				{
+					"gid"		"13B3F162079676D1DE56CDA725D32233"
+					"size"		"4A434DF3665751ECAEA6E99E8F4BA555"
+					"download"		"A1C56AF5D149F4E2AC111B0E61B4DBB4"
+				}
+				"may2019"
+				{
+					"gid"		"D0E1884A3A8A00345F59B798ED7493D0"
+					"size"		"7CC986E7523D9D5F6BE24D41C267BDE4"
+					"download"		"4D80BA157E9A9445228AC4AECECD95FA"
+				}
+				"may2020"
+				{
+					"gid"		"63FB3286BCEB6563F3140963543E2B61"
+					"size"		"9BEDBBEB391EB321C84F81C1A87A107B"
+					"download"		"CB492295AC3CB2C254C4BAEB2ADE1B7E"
+				}
+				"november2019"
+				{
+					"gid"		"4D2D7600887F6426E06F2A85E650FCB3"
+					"size"		"7B7EF0B3FA33489D2B1EC5CD04E047DC"
+					"download"		"2508154DB07ECA69B97D76B113281732"
+				}
+				"november2020"
+				{
+					"gid"		"8013E1C3FA9CAD8433CABD4E2BBC48AA"
+					"size"		"9CF55B3F2D7251A3C5AB0F20A3872179"
+					"download"		"F3ADA2E0DC6AE40DEF21232D81065DAC"
+				}
+				"oldreviewbuild"
+				{
+					"gid"		"05C5272B15EB208A5A02EA501506D8B8"
+					"size"		"605BD58517821C474A0B468A99ECB0D5"
+					"download"		"CE4EB40653713F6BBE2242AADEE87F6F"
+				}
+				"preview"
+				{
+					"gid"		"B4F0C40BC44343039122344C504AD70B"
+					"size"		"3889D8582126F0C3989192149C8EC004"
+					"download"		"320C2FFBA9913F0BA991785884385B93"
+				}
+				"quills2021"
+				{
+					"gid"		"2218F423B02514C266CE1899EFEF3426"
+					"size"		"8C5F4F2F6C6FA732AFDC9A456EA8BF1F"
+					"download"		"4376FAB19D1B36BA9F6FED770C226026"
+				}
+				"september2019"
+				{
+					"gid"		"D4AF653DA6D1511097D35BEE864CB7FE"
+					"size"		"BAD33ECE956B4C337C673F0385B0B4EF"
+					"download"		"F945ABBE613B09BD93FBB1005632B710"
+				}
+				"theoldmuseum"
+				{
+					"gid"		"6E6BBB295F7C98103F7E19BA251AE6E7"
+					"size"		"71CE29BBE566ABF3072C916C89B68533"
+					"download"		"7638F75F1CFD6A8899FB5E7F87CAD076"
+				}
+				"vifffull"
+				{
+					"gid"		"62687454407B817E98D8F46E074E2D18"
+					"size"		"E8F718C5E8F5D938F0F072B20F3BBB61"
+					"download"		"2E6039DE5CE82B5FB93E70D31B6CF513"
+				}
+				"xr3archive"
+				{
+					"gid"		"6E1BE0ED23A710E34CAE5F43693863FC"
+					"size"		"BE9A3FAA66D66820E969E8B2C6A34A92"
+					"download"		"40A82BC775D890952D7B78F8DC9574D1"
+				}
+				"xr3lbe"
+				{
+					"gid"		"68869A82B4CA64267604A2E2F38AEB84"
+					"size"		"A5C5FC7F5CB9A9D49E87A31199B6C263"
+					"download"		"311C86B8C57FFF03D87991E2C176F2A0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9159724"
+				"timeupdated"		"1658356022"
+			}
+			"art_staging"
+			{
+				"buildid"		"9159724"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658355970"
+			}
+			"cannesxr2020"
+			{
+				"buildid"		"5249957"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593820853"
+			}
+			"collinschristmas"
+			{
+				"buildid"		"6012678"
+				"pwdrequired"		"1"
+				"timeupdated"		"1608859928"
+			}
+			"development"
+			{
+				"buildid"		"9159724"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658355666"
+			}
+			"dlctest"
+			{
+				"buildid"		"5652458"
+				"pwdrequired"		"1"
+				"timeupdated"		"1602172915"
+			}
+			"experimental"
+			{
+				"buildid"		"9159724"
+				"description"		"experimental builds"
+				"timeupdated"		"1658355983"
+			}
+			"festivalpreview2021"
+			{
+				"buildid"		"9159724"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658355994"
+			}
+			"iaoctober2021"
+			{
+				"buildid"		"7358383"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634147810"
+			}
+			"immersive_nodlc"
+			{
+				"buildid"		"7358383"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631643427"
+			}
+			"june2019"
+			{
+				"buildid"		"3983096"
+				"pwdrequired"		"1"
+				"timeupdated"		"1565375044"
+			}
+			"may2019"
+			{
+				"buildid"		"3874977"
+				"pwdrequired"		"1"
+				"timeupdated"		"1559330524"
+			}
+			"may2020"
+			{
+				"buildid"		"4972558"
+				"pwdrequired"		"1"
+				"timeupdated"		"1588371290"
+			}
+			"november2019"
+			{
+				"buildid"		"4385754"
+				"pwdrequired"		"1"
+				"timeupdated"		"1573673183"
+			}
+			"november2020"
+			{
+				"buildid"		"5861733"
+				"pwdrequired"		"1"
+				"timeupdated"		"1605913406"
+			}
+			"oldreviewbuild"
+			{
+				"buildid"		"5376650"
+				"pwdrequired"		"1"
+				"timeupdated"		"1599867118"
+			}
+			"preview"
+			{
+				"buildid"		"5211193"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593042173"
+			}
+			"quills2021"
+			{
+				"buildid"		"7758400"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644347036"
+			}
+			"september2019"
+			{
+				"buildid"		"4251454"
+				"pwdrequired"		"1"
+				"timeupdated"		"1570123113"
+			}
+			"theoldmuseum"
+			{
+				"buildid"		"3352634"
+				"pwdrequired"		"1"
+				"timeupdated"		"1558033352"
+			}
+			"vifffull"
+			{
+				"buildid"		"5587136"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600909693"
+			}
+			"xr3archive"
+			{
+				"buildid"		"6989395"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631559672"
+			}
+			"xr3lbe"
+			{
+				"buildid"		"6678517"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629403367"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"MOR"
+				"pattern"		"GameConfig.json"
+			}
+		}
+	}
+}
