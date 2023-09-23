@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"1903060"
+	"common"
+	{
+		"name"		"Heads Will Roll: Downfall"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"7ea2a99ae7b526dfc3df64d58fdc4e7ddf8f337e"
+		"logo_small"		"7ea2a99ae7b526dfc3df64d58fdc4e7ddf8f337e_thumb"
+		"clienttga"		"56899213f3f8d4bc59e2b8a50af0bb310725c105"
+		"clienticon"		"265123c3a1efbfbaf2a95d9ba085a43ca6ed0033"
+		"icon"		"c35fc38dee0bba93128aed01a9801c1694640f8a"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"59.53488372093025"
+				"height_pct"		"65.5782474471622"
+			}
+		}
+		"store_asset_mtime"		"1666341752"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"1917 Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" Valkyrie Initiative"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Valkyrie Initiative"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666303237"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1903060"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4325"
+			"1"		"1716"
+			"2"		"3987"
+			"3"		"122"
+			"4"		"4711"
+			"5"		"1678"
+			"6"		"4486"
+			"7"		"1759"
+			"8"		"4026"
+			"9"		"4342"
+			"10"		"1677"
+			"11"		"1742"
+			"12"		"31275"
+			"13"		"4172"
+			"14"		"6426"
+			"15"		"4182"
+			"16"		"3871"
+			"17"		"3993"
+			"18"		"1662"
+			"19"		"5611"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"1917 Studios"
+		"publisher"		" Valkyrie Initiative"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Heads Will Roll Downfall"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"headswillroll_downfall-1.85b-market\\headswillroll_downfall.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"headswillroll_downfall-1.85b-market\\headswillroll_downfall-32.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"headswillroll_downfall-1.85b-market\\headswillroll_downfall.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"headswillroll_downfall-1.85b-market\\headswillroll_downfall.app\\Contents\\MacOS\\headswillroll_downfall"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1903061"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6664692448386673640"
+					"size"		"610823155"
+					"download"		"373494080"
+				}
+			}
+		}
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9922070"
+				"timeupdated"		"1668221242"
+			}
+		}
+	}
+}
