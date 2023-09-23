@@ -1,0 +1,322 @@
+"appinfo"
+{
+	"appid"		"346900"
+	"common"
+	{
+		"name"		"AdVenture Capitalist"
+		"type"		"Game"
+		"logo"		"ba7cd9eb5fe1905f7b5d25835d063437dec7f675"
+		"logo_small"		"ba7cd9eb5fe1905f7b5d25835d063437dec7f675_thumb"
+		"icon"		"b4dd5ca1582ed52335b31960e05766fd22fa7cc4"
+		"clienttga"		"c2e1ff58ecaa7a8f1ac690336e2e4e53d70dd6d8"
+		"clienticns"		"ca0c844a4b6342ed6f06b531b6e8e247abad8fda"
+		"oslist"		"windows,macos,linux"
+		"clienticon"		"1d08a726668576b4477749f0a9bda1101c3a0883"
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1645660800"
+			"tested_build_id"		"4669970"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"AdVenture Capitalist"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"67.96966161026839"
+				"height_pct"		"78.87675136547135"
+			}
+		}
+		"store_asset_mtime"		"1572915559"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hyper Hippo Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hyper Hippo Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1427731140"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"346900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"379975"
+			"2"		"4845"
+			"3"		"4182"
+			"4"		"597"
+			"5"		"12472"
+			"6"		"599"
+			"7"		"492"
+			"8"		"4136"
+			"9"		"3871"
+			"10"		"1698"
+			"11"		"615955"
+			"12"		"9"
+			"13"		"21"
+			"14"		"4190"
+			"15"		"25085"
+			"16"		"4161"
+			"17"		"1719"
+			"18"		"5350"
+			"19"		"10397"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Hyper Hippo Games"
+		"publisher"		"Hyper Hippo Games"
+		"homepage"		"http://www.kongregate.com/pages/adventure-capitalist"
+		"isfreeapp"		"1"
+		"listofdlc"		"471650"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"AdVenture Capitalist"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"adventure-capitalist.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"adventure-capitalist.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"adventure-capitalist.x86"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"346901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"581051086350795523"
+					"size"		"498594441"
+					"download"		"28631040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8C5E4BF5ABC3B80A101A6226F07409BE"
+					"size"		"086246858124408FD59CD092D6DDC725"
+					"download"		"6E3F4717E4B4889B1DFABE8A441CDB3F"
+				}
+				"feature-testing"
+				{
+					"gid"		"787D100B919A961A846DC12F0F9557D2"
+					"size"		"DC22D0D0D93C7CE9B9389E0E5E5B2A10"
+					"download"		"DFE47379B903E0C357481742A414C9FD"
+				}
+				"hotfix"
+				{
+					"gid"		"7419C10AA7BA5FABA1617D89AD71B1FC"
+					"size"		"4FC88D320C645DACFED7DED11EE8DBB2"
+					"download"		"8AD6D335AFCA4DD208069D7939AA9018"
+				}
+			}
+		}
+		"346902"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6142117432812695138"
+					"size"		"503540185"
+					"download"		"31605056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"58A6F033BDEE96D137A2CC6A723DFA66"
+					"size"		"71593F98FED84B3F9AD2216B0BE3A3FC"
+					"download"		"55E4658DAE129450588980DD60ED1BCE"
+				}
+				"feature-testing"
+				{
+					"gid"		"80CC23CBD227CF939D371AC09CC3B735"
+					"size"		"0BF352548DB3FE593C3A00C1CDE67C5D"
+					"download"		"40C8C2660470B1EEB8A2FAA4D2AD628E"
+				}
+				"hotfix"
+				{
+					"gid"		"519BA6606C409420CFD4C59BFDBD6D33"
+					"size"		"CE3AF27599D103110FC3C82B419A4B85"
+					"download"		"45871E5D0231FB52919F32FBEB2F7E92"
+				}
+			}
+		}
+		"346903"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1203243898820547407"
+					"size"		"533069509"
+					"download"		"40590960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0A0FB74E21B7C40C33C0512F0886CF7A"
+					"size"		"DB22BE15451DAA34E728317D01654FA9"
+					"download"		"0EC4BD5590E8A0447FE4FFF8A11CB991"
+				}
+				"feature-testing"
+				{
+					"gid"		"321BFE51696CCFB8F7A7C426173CA634"
+					"size"		"F4061F567710C1E066D610872D26D09C"
+					"download"		"7EA5C64500FCF08C60C69A353418BD84"
+				}
+				"hotfix"
+				{
+					"gid"		"FF4421285102DC1460D2D87A4384990E"
+					"size"		"379117BF5BA8D73AA4A2FE0DEFB911A4"
+					"download"		"B074DA86041285D4BE6E03AFA6A34B9A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7677375"
+				"timeupdated"		"1636507857"
+			}
+			"beta"
+			{
+				"buildid"		"7677375"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636405805"
+			}
+			"feature-testing"
+			{
+				"buildid"		"7659667"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636069089"
+			}
+			"hotfix"
+			{
+				"buildid"		"3789034"
+				"pwdrequired"		"1"
+				"timeupdated"		"1556823636"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"100"
+	}
+}
