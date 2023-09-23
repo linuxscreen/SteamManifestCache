@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"1212710"
+	"common"
+	{
+		"name"		"Divine Legacy"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"41313ae62eb39b2da1b5c14176607ef74de8c6c9"
+		"clienticon"		"ef366a405ad2ff917306efd620210d6f14b3c1d7"
+		"icon"		"88d1d982e2fbbb9a2d20fb5f8875504936eaa760"
+		"logo"		"bc2ed0fd9c5276b36667945c9acca8c7f47a4aaf"
+		"logo_small"		"bc2ed0fd9c5276b36667945c9acca8c7f47a4aaf_thumb"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"20.448488493999832"
+				"height_pct"		"43.575208009122484"
+			}
+		}
+		"store_asset_mtime"		"1639088868"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Godarkhaos"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Godarkhaos"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Divine Legacy"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1599839460"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1212710"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"19"
+			"2"		"21"
+			"3"		"122"
+			"4"		"1646"
+			"5"		"5577"
+			"6"		"113"
+			"7"		"1684"
+			"8"		"3871"
+			"9"		"3964"
+			"10"		"4004"
+			"11"		"1742"
+			"12"		"4026"
+			"13"		"4136"
+			"14"		"4182"
+			"15"		"4231"
+			"16"		"4885"
+			"17"		"6971"
+			"18"		"9541"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Godarkhaos"
+		"publisher"		"Godarkhaos"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Divine Legacy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Divine Legacy.exe"
+				"arguments"		"--in-process-gpu"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1212711"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6078362007317432512"
+					"size"		"1433170749"
+					"download"		"1194931424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"7E9FE5CF0B7A1191BCD70F65D70500CB"
+					"size"		"45D49433164971A7AF00FF3F0DF48260"
+					"download"		"94AFF2FF610B40F6B16EEF341EA38836"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11301546"
+				"timeupdated"		"1684883228"
+			}
+			"test"
+			{
+				"buildid"		"11301546"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684883001"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"4000000"
+		"maxnumfiles"		"15"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"www/save"
+				"pattern"		"*.rpgsave"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
