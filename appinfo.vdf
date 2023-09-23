@@ -1,0 +1,121 @@
+"appinfo"
+{
+	"appid"		"1676220"
+	"common"
+	{
+		"name"		"Plank not included Demo"
+		"type"		"Demo"
+		"parent"		"602010"
+		"clienttga"		"5ca35ec1cf0057fdc7bab53c999695ce1018a794"
+		"clienticon"		"dfdf68352a6f89e40ab2444f7d7f7fbc140cc456"
+		"icon"		"911d08d88db02079576eef4601eaa887f1326172"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1624545484"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"4 FUN STUDIO INC."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"4 FUN STUDIO INC."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625000963"
+		"gameid"		"1676220"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"602010"
+		"vrheadsetstreaming"		"1"
+		"developer"		"4 FUN STUDIO INC."
+		"publisher"		"4 FUN STUDIO INC."
+		"homepage"		"https://4funstudio.com/"
+	}
+	"config"
+	{
+		"installdir"		"Plank not included Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PlankNotIncludedDEMO.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1676221"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3082395271998219548"
+					"size"		"1747033078"
+					"download"		"694727120"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6945946"
+				"timeupdated"		"1624900387"
+			}
+		}
+	}
+}
