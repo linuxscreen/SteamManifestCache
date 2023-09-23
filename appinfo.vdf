@@ -1,0 +1,621 @@
+"appinfo"
+{
+	"appid"		"734580"
+	"common"
+	{
+		"name"		"BattleRush"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"86474edfbc4a33aae8d533b483a71a83454d5bf9"
+		"logo_small"		"86474edfbc4a33aae8d533b483a71a83454d5bf9_thumb"
+		"icon"		"0e1681601b3d4c6f6d5dc180f1201f29a6c765fd"
+		"clienticon"		"5ca648daf3054f4b57721987b7f8b3527b6ca050"
+		"clienttga"		"8ad675cd2a09aff64b0e7d9ed6a7c1e4cf873be1"
+		"releasestate"		"released"
+		"metacritic_name"		"BattleRush"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1522150086"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TB Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TB Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1522148188"
+		"community_hub_visible"		"1"
+		"gameid"		"734580"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4150"
+			"2"		"3859"
+			"3"		"1663"
+			"4"		"1662"
+			"5"		"19"
+			"6"		"1774"
+			"7"		"128"
+			"8"		"21"
+			"9"		"492"
+			"10"		"1695"
+			"11"		"3839"
+			"12"		"1702"
+			"13"		"1659"
+			"14"		"4182"
+			"15"		"176981"
+			"16"		"493"
+			"17"		"9"
+			"18"		"1667"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"gamedir"		"BattleRush"
+		"serverbrowsername"		"Battle Rush"
+		"developer"		"TB Games"
+		"publisher"		"TB Games"
+		"isfreeapp"		"1"
+		"listofdlc"		"739250,739251,739253,739255,739256,750490,750491,750492,764660,764661"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BattleRush"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Cv2_Base/Binaries/Win64/Cv2_BaseClient_Shipping.exe"
+				"description"		"Default"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Cv2_Base/Binaries/Win32/Cv2_BaseClient_Shipping.exe"
+				"description"		"Default"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"Cv2_Base/Binaries/Win64/Cv2_BaseClient.exe"
+				"description"		"Играть в BattleRush Development"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"devel"
+				}
+			}
+			"3"
+			{
+				"executable"		"Cv2_Base/Binaries/Win32/Cv2_BaseClient.exe"
+				"description"		"Играть в BattleRush Development"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+					"betakey"		"devel"
+				}
+			}
+			"4"
+			{
+				"executable"		"Cv2_Base/Binaries/Win64/Cv2_BaseClient.exe"
+				"description"		"Играть в BattleRush Development"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"debug"
+				}
+			}
+			"5"
+			{
+				"executable"		"Cv2_Base/Binaries/Win64/Cv2_BaseClient_DebugGame.exe"
+				"description"		"Играть в BattleRush DebugGame"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"debug"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"734581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4253705969765438117"
+					"size"		"800361832"
+					"download"		"688080512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"8289F1D9C6E04054AD372858FD6ADF75"
+					"size"		"2646A9E1281A695D63563FEE73163E89"
+					"download"		"DFF0DB72A6220F3BB9D21D648CEEC161"
+				}
+				"devel"
+				{
+					"gid"		"8306BBCBF34918B6C33BDD2BB90D5C2F"
+					"size"		"D1CDAA8B71A13CC85D2D21D696C8084A"
+					"download"		"6118EC1B849156B656F0FE23E12BF166"
+				}
+			}
+		}
+		"734582"
+		{
+			"dlcappid"		"739256"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6542848560621163593"
+					"size"		"159961"
+					"download"		"155680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"2659E69A9E7F3FA7BAFB718228E68E39"
+					"size"		"71027FDB5147CA118D92D4EE4FC5A044"
+					"download"		"BC8FC5A4444412788F3E6A296E19BACC"
+				}
+				"devel"
+				{
+					"gid"		"20BCDED9A0D597BCE837583494222B49"
+					"size"		"048124F84EFA5B7FF9FE1E7EC9B34A8A"
+					"download"		"780427AAD30ED268472F4CA662FE982C"
+				}
+			}
+		}
+		"734583"
+		{
+			"dlcappid"		"739250"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3977498951870565620"
+					"size"		"159961"
+					"download"		"155680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"CF4BEFB71D425129EF70D86D0E7C54E2"
+					"size"		"71027FDB5147CA118D92D4EE4FC5A044"
+					"download"		"BC8FC5A4444412788F3E6A296E19BACC"
+				}
+				"devel"
+				{
+					"gid"		"D2E658994B511901E5C2E0FF5D6E468A"
+					"size"		"048124F84EFA5B7FF9FE1E7EC9B34A8A"
+					"download"		"780427AAD30ED268472F4CA662FE982C"
+				}
+			}
+		}
+		"734584"
+		{
+			"dlcappid"		"739255"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2314225071318108799"
+					"size"		"159961"
+					"download"		"155680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"3C309265ECDAE8A1FF3E4B74222F743B"
+					"size"		"71027FDB5147CA118D92D4EE4FC5A044"
+					"download"		"BC8FC5A4444412788F3E6A296E19BACC"
+				}
+				"devel"
+				{
+					"gid"		"96BC8D10DCC98D60D344F6C8364A13B4"
+					"size"		"048124F84EFA5B7FF9FE1E7EC9B34A8A"
+					"download"		"780427AAD30ED268472F4CA662FE982C"
+				}
+			}
+		}
+		"734585"
+		{
+			"dlcappid"		"739252"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2157824020428456346"
+					"size"		"159961"
+					"download"		"155680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"735C001FA100D2A5A2AB6FDEAB1F7CED"
+					"size"		"71027FDB5147CA118D92D4EE4FC5A044"
+					"download"		"BC8FC5A4444412788F3E6A296E19BACC"
+				}
+				"devel"
+				{
+					"gid"		"8B74ADB7834922604416D76CEB80EC81"
+					"size"		"048124F84EFA5B7FF9FE1E7EC9B34A8A"
+					"download"		"780427AAD30ED268472F4CA662FE982C"
+				}
+			}
+		}
+		"734586"
+		{
+			"dlcappid"		"739251"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4663181126467604896"
+					"size"		"159961"
+					"download"		"155680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"91CCB1C4645C52C14722CB5981444B7A"
+					"size"		"71027FDB5147CA118D92D4EE4FC5A044"
+					"download"		"BC8FC5A4444412788F3E6A296E19BACC"
+				}
+				"devel"
+				{
+					"gid"		"6BDC6143823B4A79E575E3455C439CC6"
+					"size"		"048124F84EFA5B7FF9FE1E7EC9B34A8A"
+					"download"		"780427AAD30ED268472F4CA662FE982C"
+				}
+			}
+		}
+		"734587"
+		{
+			"dlcappid"		"739254"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3670554555436068070"
+					"size"		"159945"
+					"download"		"155664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"FD3FEE33FFEB2B5E3DBBAC16AFBE47BB"
+					"size"		"BFA67E7FFA187CD03EDC7B2E336C6808"
+					"download"		"AD228520DA80A56C4737843B09057D68"
+				}
+				"devel"
+				{
+					"gid"		"FE0C9DE9C13F7B234C26E3C889DCB09E"
+					"size"		"16BCB00B34ACC28B1340B1B699658026"
+					"download"		"E853357F453AF06D13137279D0D43A1A"
+				}
+			}
+		}
+		"734588"
+		{
+			"dlcappid"		"739253"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8641313940570586380"
+					"size"		"159961"
+					"download"		"155680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"7919503D785AF32595D42545664C6E1D"
+					"size"		"71027FDB5147CA118D92D4EE4FC5A044"
+					"download"		"BC8FC5A4444412788F3E6A296E19BACC"
+				}
+				"devel"
+				{
+					"gid"		"B4E4DADFAFFE3BE519712DC2447FC358"
+					"size"		"048124F84EFA5B7FF9FE1E7EC9B34A8A"
+					"download"		"780427AAD30ED268472F4CA662FE982C"
+				}
+			}
+		}
+		"734589"
+		{
+			"dlcappid"		"750492"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5527460893019294092"
+					"size"		"159977"
+					"download"		"155696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"4B38D37216B2FEBC3952431A72A13A59"
+					"size"		"2A2D5C955B79A1D92463AC49576DE9AC"
+					"download"		"05160C5325BCD51000B3A0ABFA165AB3"
+				}
+				"devel"
+				{
+					"gid"		"22C67FB1D72F5E40CDB1EB10FD3A2428"
+					"size"		"E7E09C7AE47A671F00507B91F98773CD"
+					"download"		"B4E2BBCCFCC9223772016D2D8D0B52E2"
+				}
+			}
+		}
+		"739257"
+		{
+			"dlcappid"		"750491"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2775442309515213463"
+					"size"		"159977"
+					"download"		"155696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"A4D12902C91B366D2CE7FA60F957DAEC"
+					"size"		"2A2D5C955B79A1D92463AC49576DE9AC"
+					"download"		"05160C5325BCD51000B3A0ABFA165AB3"
+				}
+				"devel"
+				{
+					"gid"		"1727D04D232E694BFE64803059CFFA9C"
+					"size"		"E7E09C7AE47A671F00507B91F98773CD"
+					"download"		"B4E2BBCCFCC9223772016D2D8D0B52E2"
+				}
+			}
+		}
+		"739258"
+		{
+			"dlcappid"		"750490"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2117512384090195448"
+					"size"		"159961"
+					"download"		"155680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"FE4376391F5914F858F28C765141885C"
+					"size"		"71027FDB5147CA118D92D4EE4FC5A044"
+					"download"		"BC8FC5A4444412788F3E6A296E19BACC"
+				}
+				"devel"
+				{
+					"gid"		"1FE0674B8B4229154DF484C797A3C3C1"
+					"size"		"048124F84EFA5B7FF9FE1E7EC9B34A8A"
+					"download"		"780427AAD30ED268472F4CA662FE982C"
+				}
+			}
+		}
+		"739259"
+		{
+			"dlcappid"		"764661"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8269271315990816545"
+					"size"		"169111"
+					"download"		"164432"
+				}
+			}
+		}
+		"750493"
+		{
+			"dlcappid"		"764660"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5436190172942031540"
+					"size"		"169095"
+					"download"		"164416"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2636360"
+				"timeupdated"		"1522139411"
+			}
+			"debug"
+			{
+				"buildid"		"2634816"
+				"pwdrequired"		"1"
+				"timeupdated"		"1522092532"
+			}
+			"devel"
+			{
+				"buildid"		"2634814"
+				"pwdrequired"		"1"
+				"timeupdated"		"1522092497"
+			}
+		}
+	}
+}
