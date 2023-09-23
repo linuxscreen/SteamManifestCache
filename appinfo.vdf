@@ -1,0 +1,140 @@
+"appinfo"
+{
+	"appid"		"2085560"
+	"common"
+	{
+		"name"		"Stick It to the Stickman Demo"
+		"type"		"Demo"
+		"parent"		"2085540"
+		"icon"		"a96a7943cf7f3922988918d2cceea6cf7eb2d415"
+		"clienticon"		"1cf0e08bab48d68d34700b0656b01d66059a1f69"
+		"clienttga"		"8b9f29258bf719db1a9a4c042890b5137156cb49"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1663688527"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Free Lives"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Devolver Digital"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_28"		"1"
+		}
+		"steam_release_date"		"1664525674"
+		"gameid"		"2085560"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2085540"
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,betatesters,devtesting"
+		"developer"		"Free Lives"
+		"publisher"		"Devolver Digital"
+	}
+	"config"
+	{
+		"installdir"		"Stick It to the Stickman Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Stick It To The Stickman.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2085561"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1644992434260412282"
+					"size"		"878639592"
+					"download"		"263669600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatesters"
+				{
+					"gid"		"92D97B1A5ABCED8322F75C3108FED2E7"
+					"size"		"0488DBD0ED0351AB53B41B88574A8546"
+					"download"		"669CF13A2438F79F8253FAFEB43226C8"
+				}
+				"devtesting"
+				{
+					"gid"		"F52B6A59105E4DC0EBA2FFAA3A02EFF5"
+					"size"		"03935371D4F7DE2582B44D384A3B8FA2"
+					"download"		"652550F4FA9ED76E22A17A920DEDE81F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10215937"
+				"timeupdated"		"1672150106"
+			}
+			"betatesters"
+			{
+				"buildid"		"10215937"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672044120"
+			}
+			"devtesting"
+			{
+				"buildid"		"10215937"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672044088"
+			}
+		}
+	}
+}
