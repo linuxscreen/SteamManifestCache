@@ -1,0 +1,145 @@
+"appinfo"
+{
+	"appid"		"1150210"
+	"common"
+	{
+		"name"		"Blind Spot / 盲点 Demo"
+		"type"		"Demo"
+		"parent"		"1112360"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+		}
+		"clienticon"		"ff2159fb3579863fe2f4d95d0c4dc78e053adf50"
+		"clienttga"		"1d946442b68d545b6ca556e83c280368aa1e4f7b"
+		"icon"		"ef1aa1ee035f076b4d7af486117786de90f4a578"
+		"openvrsupport"		"1"
+		"metacritic_name"		"Blind Spot / 盲点 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"78.77446330090687"
+				"height_pct"		"59.11542376128761"
+			}
+		}
+		"store_asset_mtime"		"1568601716"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Unlimited Fly Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Unlimited Fly Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1583215717"
+		"community_hub_visible"		"1"
+		"gameid"		"1150210"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1112360"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Unlimited Fly Games"
+		"publisher"		"Unlimited Fly Games"
+	}
+	"config"
+	{
+		"installdir"		"Blind Spot Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blind Spot.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1150211"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5537514214934985362"
+					"size"		"1079792096"
+					"download"		"825696128"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4660372"
+				"timeupdated"		"1581349593"
+			}
+		}
+	}
+}
