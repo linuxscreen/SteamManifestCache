@@ -1,0 +1,113 @@
+"appinfo"
+{
+	"appid"		"2345120"
+	"common"
+	{
+		"name"		"Mimi and Lisa Demo"
+		"type"		"Demo"
+		"parent"		"2323440"
+		"releasestate"		"released"
+		"icon"		"af30de32c783ddbcbd121b5ce57d2bba800ee3fe"
+		"clienttga"		"55c1122caef08ce6bb58ea60acef141d89404253"
+		"clienticon"		"737a41ae376f822993def1acf13b5e174cd01080"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1678004646"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Midnight Factory Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Midnight Factory Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"slovak"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1678887130"
+		"gameid"		"2345120"
+	}
+	"extended"
+	{
+		"demoofappid"		"2323440"
+		"developer"		"Midnight Factory Games"
+		"publisher"		"Midnight Factory Games"
+		"homepage"		"https://www.midnightfactorygames.com"
+	}
+	"config"
+	{
+		"installdir"		"Mimi and Lisa Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game_demo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2345121"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"326763277779025606"
+					"size"		"588302469"
+					"download"		"152545776"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10691610"
+				"timeupdated"		"1677942844"
+			}
+		}
+	}
+}
