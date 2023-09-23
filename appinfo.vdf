@@ -1,0 +1,349 @@
+"appinfo"
+{
+	"appid"		"589120"
+	"common"
+	{
+		"name"		"Danganronpa V3: Killing Harmony Demo Ver."
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"c52ac3f18944e5651f04bca1f16bbeb66e6b4575"
+		"logo_small"		"c52ac3f18944e5651f04bca1f16bbeb66e6b4575_thumb"
+		"icon"		"27e0b08d9506a81bc9f8d3a3616fb455106bfa68"
+		"clienttga"		"e79b50d5d031ced7529f19ff00bf115ff241a4fc"
+		"clienticon"		"bc66d41fa2b0d39af1eee8baf2326dee305972b7"
+		"metacritic_name"		"Danganronpa V3: Killing Harmony Demo Ver."
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"store_asset_mtime"		"1503645783"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Spike Chunsoft Co., Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spike Chunsoft Co., Ltd."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Danganronpa"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1503644400"
+		"steam_release_date"		"1503680040"
+		"community_hub_visible"		"1"
+		"gameid"		"589120"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"3799"
+			"2"		"4085"
+			"3"		"5716"
+			"4"		"5613"
+			"5"		"7208"
+			"6"		"113"
+			"7"		"4182"
+			"8"		"1721"
+			"9"		"1742"
+			"10"		"1756"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Spike Chunsoft Co., Ltd."
+		"publisher"		"Spike Chunsoft Co., Ltd."
+		"homepage"		"http://www.spike-chunsoft.co.jp/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Danganronpa V3 Killing Harmony Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dangan3Win.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"V3Launcher.exe"
+				"type"		"config"
+			}
+			"3"
+			{
+				"executable"		"Dangan3WinDebug.exe"
+				"description"		"DebugVer."
+				"type"		"option1"
+				"config"
+				{
+					"betakey"		"beta"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"589121"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"688707237208853054"
+					"size"		"2243799000"
+					"download"		"1795977808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"598E24453D430023D1905F3103743D04"
+					"size"		"3F4AADBDCE1E88E48BE14EEE59FC9CCB"
+					"download"		"4EA5523FE85D7DBA10B6D668260EEBAF"
+				}
+			}
+		}
+		"589122"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6172814887453512802"
+					"size"		"223467826"
+					"download"		"205366576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"AD46096D48C709216DD980FAF987C0DC"
+					"size"		"18A38DF7FEBC5F6707E25C99DCCEBB99"
+					"download"		"416C307A06FDF7D2203CA40F570BEE3F"
+				}
+			}
+		}
+		"589123"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4955912881928941018"
+					"size"		"531169674"
+					"download"		"442916656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A5107FE5AD732A3937C6C05FBE93F04B"
+					"size"		"915829D20F9C038861720A46C3562662"
+					"download"		"5DC7E7CD93DE8B0A0C0B9408F9429135"
+				}
+			}
+		}
+		"589125"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8274764660784852772"
+					"size"		"530407818"
+					"download"		"441848640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"76B459AA956B55E6396096A03A470035"
+					"size"		"72EE7D23588DF58C9DA35F47EAB9A6F7"
+					"download"		"F4DBB9CB984BB94997EDC03E28828C52"
+				}
+			}
+		}
+		"589126"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5942455565747124845"
+					"size"		"520735114"
+					"download"		"434732080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"52986F04BAD9370B75B225859F08B89B"
+					"size"		"69D45EBAFFB4FDC9BAD47887B15BF80A"
+					"download"		"469656BC86EB2F00725032DCEE9DAEE8"
+				}
+			}
+		}
+		"589128"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6158214635426067758"
+					"size"		"15332145"
+					"download"		"4187312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9721209E9F80B641F2FC628387632D8E"
+					"size"		"89FE7E8781A5960D50B03717315E2EFC"
+					"download"		"7BCF5AF1ACB607CB8FE341A3FE58062B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2049793"
+				"timeupdated"		"1503058356"
+			}
+			"beta"
+			{
+				"buildid"		"2117740"
+				"pwdrequired"		"1"
+				"timeupdated"		"1505373001"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"30720000"
+		"maxnumfiles"		"100"
+		"appidredirect"		"567640"
+	}
+}
