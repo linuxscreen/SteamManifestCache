@@ -1,0 +1,240 @@
+"appinfo"
+{
+	"appid"		"1727160"
+	"common"
+	{
+		"name"		"Endings Demo"
+		"type"		"Demo"
+		"parent"		"1644560"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienticon"		"9cc2fd9fd7c2ad7faa8769560f0b1265fb1d5e4d"
+		"clienttga"		"8b331bd185d336234033098a716824c8ad4061e1"
+		"icon"		"472be476a033ca4962156e355b366bc638c80fd8"
+		"releasestate"		"released"
+		"clienticns"		"e99dc671a4e44d2df513977204f4fa80e2c78184"
+		"linuxclienticon"		"215c0f0b4c9ed239c1d4d461341f09f8672bc243"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"18.923184608876795"
+				"height_pct"		"22.57117855455843"
+			}
+		}
+		"store_asset_mtime"		"1629244669"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Focus Code LTD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Focus Code LTD"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1629206013"
+		"gameid"		"1727160"
+	}
+	"extended"
+	{
+		"demoofappid"		"1644560"
+		"developer"		"Focus Code LTD"
+		"publisher"		"Focus Code LTD"
+		"homepage"		"https://endings-game.com/"
+	}
+	"config"
+	{
+		"installdir"		"Endings Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EndingsDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"EndingsDemo.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Endings Demo MacOS.app\\Contents\\MacOS\\EndingsDemo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1727162"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"491905287449558860"
+					"size"		"866865931"
+					"download"		"111962368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"2596C99589A520AB11C95B7036C10EC1"
+					"size"		"ABA3A34E15C75739F753A9B5F3E36CE5"
+					"download"		"E853A1F6FB9068A731B84065228C096D"
+				}
+			}
+		}
+		"1727163"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5424451592013143636"
+					"size"		"912062412"
+					"download"		"113963920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"D327977B3183E65CEDA3FD02A5F296CA"
+					"size"		"D656F53E6EBFF7D41A05CD58C4033DAC"
+					"download"		"3C84E3C9AC41CEA96C0CE4110CC7BF74"
+				}
+			}
+		}
+		"1727164"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5914777432215406303"
+					"size"		"862324884"
+					"download"		"110900112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"A709BDAF87E02835601C8D55C7CA7634"
+					"size"		"03D7A3CC2C6E947B4A871FB3FECA236F"
+					"download"		"247A41FFCFBFC0A5A28665ECB9FC0347"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,portuguese,turkish,arabic"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7255360"
+				"timeupdated"		"1629986294"
+			}
+			"test"
+			{
+				"buildid"		"7241286"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629810452"
+			}
+		}
+	}
+}
