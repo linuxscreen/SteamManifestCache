@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"885300"
+	"common"
+	{
+		"name"		"Lucy Got Problems Demo"
+		"type"		"Demo"
+		"parent"		"879510"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"7c7e398ccafee3e0862e056ca506904236987548"
+		"logo_small"		"7c7e398ccafee3e0862e056ca506904236987548_thumb"
+		"icon"		"4f2adf2f7ececa9b8cd2caa446b48b8f62cddd5c"
+		"clienttga"		"15dabbc54aa45fe236f9317bfa9c0d86802d5319"
+		"clienticon"		"1564e7b7650697f511c8e04bbd24e5b83935daf2"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Lucy Got Problems Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1590399447"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Flat Chest Dev"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Flat Chest Dev"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1531373967"
+		"gameid"		"885300"
+	}
+	"extended"
+	{
+		"demoofappid"		"879510"
+		"developer"		"Flat Chest Dev"
+		"publisher"		"Flat Chest Dev"
+	}
+	"config"
+	{
+		"installdir"		"Lucy Got Problems Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LGP.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"LGP.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"LGP.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"885301"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"834631710625742471"
+					"size"		"359318335"
+					"download"		"266763536"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6816877"
+				"timeupdated"		"1622857703"
+			}
+		}
+	}
+}
