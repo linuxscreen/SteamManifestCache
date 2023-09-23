@@ -1,0 +1,243 @@
+"appinfo"
+{
+	"appid"		"1879340"
+	"common"
+	{
+		"name"		"MuseSwipr"
+		"type"		"Game"
+		"icon"		"a2923f112b0a37feba7835e44c5f462ce928cd7e"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"5eef595dd5d5f8f65515f2951adb209e594c2713"
+		"clienticon"		"027843a2ba0d142b2968c649247bd2263dac9375"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1684281600"
+			"tested_build_id"		"10946129"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"90.66511085180863"
+				"height_pct"		"89.89551175492755"
+			}
+		}
+		"store_asset_mtime"		"1671584511"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kartsu"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kartsu"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1671591915"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1879340"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1752"
+			"1"		"1621"
+			"2"		"4026"
+			"3"		"1698"
+			"4"		"19"
+			"5"		"597"
+			"6"		"3871"
+			"7"		"8122"
+			"8"		"1669"
+			"9"		"4182"
+			"10"		"6869"
+			"11"		"113"
+			"12"		"492"
+			"13"		"493"
+			"14"		"4085"
+			"15"		"4252"
+			"16"		"12057"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Kartsu"
+		"publisher"		"Kartsu"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Museswipr"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Museswipr.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1879340"
+		"1879342"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5576920828620032896"
+					"size"		"1475886166"
+					"download"		"198756624"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12255326"
+				"timeupdated"		"1695376507"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
