@@ -1,0 +1,726 @@
+"appinfo"
+{
+	"appid"		"1881700"
+	"common"
+	{
+		"name"		"Undawn"
+		"type"		"Game"
+		"logo"		"a7e4c4128a00d3a7394e92b54a154199bf3f7c28"
+		"logo_small"		"a7e4c4128a00d3a7394e92b54a154199bf3f7c28_thumb"
+		"icon"		"97625ecdd428a9984277b2367a8b1378d86f7dd4"
+		"clienttga"		"ea423bdf33d37ba7bf23e4ed10027c290e08f6eb"
+		"clienticon"		"76394c99a7713ee553b600ef630f8e79ce5232e9"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1881700_eula_0"
+				"name"		"Undawn EULA"
+				"url"		"https://store.steampowered.com//eula/1881700_eula_0"
+				"version"		"2"
+			}
+		}
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1687392000"
+			"tested_build_id"		"11512196"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1690442373"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lightspeed Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Level Infinite"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"29"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1686705960"
+		"community_hub_visible"		"1"
+		"gameid"		"1881700"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"128"
+			"1"		"1695"
+			"2"		"122"
+			"3"		"1754"
+			"4"		"1662"
+			"5"		"3835"
+			"6"		"21"
+			"7"		"1702"
+			"8"		"3859"
+			"9"		"3810"
+			"10"		"1774"
+			"11"		"3814"
+			"12"		"1775"
+			"13"		"1685"
+			"14"		"6730"
+			"15"		"4747"
+			"16"		"1697"
+			"17"		"1659"
+			"18"		"1643"
+			"19"		"113"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"developer"		"Lightspeed Studios"
+		"publisher"		"Level Infinite"
+		"homepage"		"https://www.undawn.game/en/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Undawn"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Undawn.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1881701"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4145502751022107880"
+					"size"		"18024249335"
+					"download"		"16980700128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"audit"
+				{
+					"gid"		"313413AFD88D6806DB473468126B99A1"
+					"size"		"4FAFF1B44563F99BBC60AC8F3E7E1FD2"
+					"download"		"87CEB8C86BA565CB8BB667F8FBB73E35"
+				}
+				"bugfix"
+				{
+					"gid"		"AE593CF0EDD0F69E432BFB7A1F48D408"
+					"size"		"565CF1A8706FC6BB5CF074DB662F8446"
+					"download"		"CC6B9BDB264A7EBCBE2D2900F935007D"
+				}
+				"obt01_paytest"
+				{
+					"gid"		"605207DE4DB1C967B7822276719C621B"
+					"size"		"940817037C3DB1F41E4AAAC3242C1C1C"
+					"download"		"ABA311D83D8A97FE23EFA7A11DE9C262"
+				}
+				"obt01_payyfb"
+				{
+					"gid"		"41CF4D8295B584CF06882462605DDCE6"
+					"size"		"5BB3E645E6AE06D65F74496BE271E8BE"
+					"download"		"493C1F83FA304B057F2201601BC51593"
+				}
+				"obt015"
+				{
+					"gid"		"DDD37B40602FE968E0F75E32ED0FB4F4"
+					"size"		"64CAE7BB1797509A30DF10D574C6E3E7"
+					"download"		"B6388A45C2AB0F117A12A97B72AD685D"
+				}
+				"obt015yfb"
+				{
+					"gid"		"D450B0C1672B13373CC4E45D3D52DC8D"
+					"size"		"1FD193EF38CD62AB59AFAB1D1543D7AF"
+					"download"		"F0F97A3ADE44A888E9EE217DE9FCECEB"
+				}
+				"pay_release"
+				{
+					"gid"		"E6FB4616A700B00C7C8D5321B840BDE7"
+					"size"		"A8024C4BB401A907D036B9341C461E03"
+					"download"		"E2DFF71B085A0D6CCFC9834072C76AF7"
+				}
+				"pay_test"
+				{
+					"gid"		"0BE673831A25E3709FCE22AB074F30C3"
+					"size"		"35662FBD45DA6BBD9633192F27A2A542"
+					"download"		"A6FE68D40BD1CDC5B97D83BDD36D88E0"
+				}
+				"test"
+				{
+					"gid"		"E42A7922274EA840DE235CEFB2ACC235"
+					"size"		"85823031C4869FEE87838C430C954793"
+					"download"		"805AB3439423BBD8C994980C1883AD2A"
+				}
+			}
+		}
+		"1881702"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3634543062668297616"
+					"size"		"32649977"
+					"download"		"29500848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"audit"
+				{
+					"gid"		"E91E03257B38E2771CAAB07BCF5937D4"
+					"size"		"276D9A3272E6FCE4C2086BB2654EA4FB"
+					"download"		"367FA3EC3976B9F71ED33A240F5A928E"
+				}
+				"bugfix"
+				{
+					"gid"		"6C64001AD47B1BCBE4B381E8269EA822"
+					"size"		"5141F6F30A23A1C28D94D7A6C27E25E4"
+					"download"		"3057B0BF839A6A5A27E3E6B07F5F1F2C"
+				}
+				"obt01_paytest"
+				{
+					"gid"		"5BEE494402846BD82D4C78FFBB50B5DD"
+					"size"		"175C757324B4043D56D165DA96152449"
+					"download"		"175C757324B4043D56D165DA96152449"
+				}
+				"obt01_payyfb"
+				{
+					"gid"		"0ABF31B238C4950BF1BD7BD542ECF957"
+					"size"		"42277266196E6D3F94BE261A9C99C8BB"
+					"download"		"42277266196E6D3F94BE261A9C99C8BB"
+				}
+				"obt015"
+				{
+					"gid"		"470A4A7AA52A48F264D9945896537C42"
+					"size"		"997F14BE7F651556D81F45DF79B221B7"
+					"download"		"C85C9C7ED31825008479F2AA044F5421"
+				}
+				"obt015yfb"
+				{
+					"gid"		"C9F67CD26799ECFB9C1AA13BD29B43D9"
+					"size"		"9DE6BABFEBF0A62C82E700E81D082E95"
+					"download"		"73CAAC2F53B2C322DB1E0AD7E22D5624"
+				}
+				"pay_test"
+				{
+					"gid"		"E085C41072944DFC7F7F27C9E939BED0"
+					"size"		"685E0903896CA74D5B9EE4C702564408"
+					"download"		"685E0903896CA74D5B9EE4C702564408"
+				}
+				"test"
+				{
+					"gid"		"79CA3CEBE16865AACF519DCD915492E6"
+					"size"		"175B459654FF9F269AF957841C7521E5"
+					"download"		"D4636A5808786CABC74BFDCC6932A753"
+				}
+			}
+		}
+		"1881703"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8464040192156139802"
+					"size"		"17949932121"
+					"download"		"16905099088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"audit"
+				{
+					"gid"		"8DB834D28EFB1A610AFD098BE7725031"
+					"size"		"1E15B6D3B746E1E5EC7A031DE34F847D"
+					"download"		"B8ABD181BC170D797254E2BE8AEAFE6A"
+				}
+				"bugfix"
+				{
+					"gid"		"E34E742BED25CA8BBF25A38B2A7A0A62"
+					"size"		"16DA9FFE0D8AC7517652FAB23A4E30F3"
+					"download"		"4B4F3977EBC5AEF6F40ED51CA2EAFEDF"
+				}
+				"obt01_paytest"
+				{
+					"gid"		"806357B88A626DC0CD477F7078ADB5D8"
+					"size"		"5201CE7B6C2AB988BD9BA6DBECDA0359"
+					"download"		"9AEC95AB0B7BC28915B0762F82B64020"
+				}
+				"obt01_payyfb"
+				{
+					"gid"		"6B166590E427646E450114A284C9DA7F"
+					"size"		"CF4C00C466A720FB1152C9B6FC061702"
+					"download"		"560D4CC515CE295C1A2DB91ADD9777FF"
+				}
+				"obt015"
+				{
+					"gid"		"09A92C8E22DDA351100C0AEEA6C312B0"
+					"size"		"DA9C716CB07C38050DBC9F7D2C8D56BE"
+					"download"		"0E115398ECF6C1AE3EF73FC3C927E1D0"
+				}
+				"obt015yfb"
+				{
+					"gid"		"8B471F52FC0C6B7482A68E09C6E03BC0"
+					"size"		"E0C14D3FBCD88AB4DD5AB37EF0A55619"
+					"download"		"ACF1A5F1FAF201096B1598C3159A9E50"
+				}
+				"pay_release"
+				{
+					"gid"		"363DE8952B293B05377621B5EE9F7709"
+					"size"		"DE046E026BF98B48A514E1CC4A34CAD1"
+					"download"		"54AD18ADF36BD0592FE8F7F8B6D287B2"
+				}
+				"pay_test"
+				{
+					"gid"		"0F1CB6B910C0A4D0E1712F0077239BF9"
+					"size"		"E9B75C5E3776C38CFC6AE466854EE51D"
+					"download"		"D6BAEC469B85B8F57B07A31F367E5821"
+				}
+				"test"
+				{
+					"gid"		"6637BA7854DE4049EA8B821296B73063"
+					"size"		"38305391404EB6FA194FA43089214427"
+					"download"		"1EB0D8ED761EBA1D6335A034B535BB09"
+				}
+			}
+		}
+		"1881704"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"970604260832879930"
+					"size"		"32647925"
+					"download"		"29498400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"audit"
+				{
+					"gid"		"1A60F6F409800134890C0A7F6C06AD4A"
+					"size"		"310571C840A5F471486D8D0FFA6764E3"
+					"download"		"C145AF62A0A14AB9ED0B7664C95CAA14"
+				}
+				"bugfix"
+				{
+					"gid"		"3C7AD9B8122D71586B3069104C10D9ED"
+					"size"		"7723DA464612F910A0F397CA270D0FBF"
+					"download"		"2A590ADCC92A28088F4F110E81DEE2EE"
+				}
+				"obt01_paytest"
+				{
+					"gid"		"DADC56DC1FF3173C1F37E899B389BCCA"
+					"size"		"175C757324B4043D56D165DA96152449"
+					"download"		"175C757324B4043D56D165DA96152449"
+				}
+				"obt01_payyfb"
+				{
+					"gid"		"3F86407D7CD014CBB540E2A7635BD0F6"
+					"size"		"7BC70B8116A81AE01BDBC668D02D4F32"
+					"download"		"D540BE9C450C670AD47CE448BACF84BB"
+				}
+				"obt015"
+				{
+					"gid"		"7213F91D3BFE22FEE4A3361787709CAD"
+					"size"		"C666F6FB9DC67F130707EA52CD127872"
+					"download"		"300AF1DF1A7F31E91AE68D2DBFB3D43A"
+				}
+				"obt015yfb"
+				{
+					"gid"		"D50FE81974A2CA0CFD38898558C0B709"
+					"size"		"AF5A5D27D3FADAFEA02826DD92102B3A"
+					"download"		"48327E9C07C024E2F21EB0FC50F27F35"
+				}
+				"pay_test"
+				{
+					"gid"		"8D724F07BBFD647A107F9AEA48A25270"
+					"size"		"685E0903896CA74D5B9EE4C702564408"
+					"download"		"685E0903896CA74D5B9EE4C702564408"
+				}
+				"test"
+				{
+					"gid"		"6C1FD62E5574F001AA3887D6286E343D"
+					"size"		"AA95338BAB003BD9F75972D1FB7E0E0A"
+					"download"		"72F9CFB6D36819E3EDC7A8D04C16695C"
+				}
+			}
+		}
+		"1881705"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3905873532246397081"
+					"size"		"17922450273"
+					"download"		"16878166880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"audit"
+				{
+					"gid"		"A6092D3CD9275693732FFB4E48E83EA1"
+					"size"		"9629C250839ED68E5D6F79D28B089AB0"
+					"download"		"CBC6F5B4BF717B2534E0381393A7DEA4"
+				}
+				"bugfix"
+				{
+					"gid"		"D25B3012A86526A0A56F88D15D4F77E5"
+					"size"		"970905D1E44C45A1C734F7EBFBF75E23"
+					"download"		"56327428F066AE09C1D4B7DC131FC7CA"
+				}
+				"obt01_paytest"
+				{
+					"gid"		"EADA5E5591EB094ADF27852C74B38809"
+					"size"		"4034AEFC93EE0E15816F7ED26BCC0224"
+					"download"		"B8F5A024D6A6AB156053621DA761663C"
+				}
+				"obt01_payyfb"
+				{
+					"gid"		"2FC457CBDAD1E1C2108E728D3333DB3D"
+					"size"		"0DA8AF006F97F4E2031DFF78F3A5A1AF"
+					"download"		"F217F7F43E171AB71D5CCAB8215AC826"
+				}
+				"obt015"
+				{
+					"gid"		"12F8C47CBED9F1687CBF274C17A1D418"
+					"size"		"DD28269B26DC74EC6F15D6B5D195292E"
+					"download"		"EAAB5A5114D74AC228538650BCE8E786"
+				}
+				"obt015yfb"
+				{
+					"gid"		"51ABDC4F54E362234EE855FB48667B32"
+					"size"		"3314B0561B66878BC08852E7BE02E2C1"
+					"download"		"C0A2B6EDFC7C68043DBD5307A22E9F3A"
+				}
+				"pay_release"
+				{
+					"gid"		"72FAC5661D8BF7298E07712A9E2F4563"
+					"size"		"267CDFD84052878706A3B5C45C11B3AD"
+					"download"		"5FA9E4D54BB6CB33A7B02D3508C1AE39"
+				}
+				"pay_test"
+				{
+					"gid"		"47DDDA6032150CC3084EAA016A1C9BDE"
+					"size"		"92925895F6D9C3DC6731C798714C8034"
+					"download"		"87F36C8F67EE8A04C8B191026A73A8C3"
+				}
+				"test"
+				{
+					"gid"		"3F3FC0CEBE546A2D3CEF7981E2ED67CB"
+					"size"		"84D8958EDA92FDC5DE3D29F50AB23520"
+					"download"		"5F46506F527302A7166F80AD70C91817"
+				}
+			}
+		}
+		"1881706"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8356471446767576151"
+					"size"		"32648339"
+					"download"		"29499168"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"audit"
+				{
+					"gid"		"A9198D2E1FF47F04B68D77AD5E259B17"
+					"size"		"9233C3468A425FA93CEABE31DCEEE0BE"
+					"download"		"3BBECE5CE8AB0D213B24851217A95BF3"
+				}
+				"bugfix"
+				{
+					"gid"		"03DA71F452489D156162FCBB25D4FBFA"
+					"size"		"3ED6A8D17D9F2C97A8F9F44331E029A7"
+					"download"		"3B9D0BFAD9C96AD77C52071454F84E17"
+				}
+				"obt01_paytest"
+				{
+					"gid"		"1711C66F088AB4532F5B8746246CD02F"
+					"size"		"175C757324B4043D56D165DA96152449"
+					"download"		"175C757324B4043D56D165DA96152449"
+				}
+				"obt01_payyfb"
+				{
+					"gid"		"204824C8EDC981EBB894E4B0889D9184"
+					"size"		"42277266196E6D3F94BE261A9C99C8BB"
+					"download"		"42277266196E6D3F94BE261A9C99C8BB"
+				}
+				"obt015"
+				{
+					"gid"		"ABC799778896CC9603078938F7CEA2BD"
+					"size"		"3BCEAEB910F83ADD4ED0961105C088B7"
+					"download"		"A19CB4F92AD6678D3A6E83DD9C60E5A3"
+				}
+				"obt015yfb"
+				{
+					"gid"		"B3682DEBE414F01D5B841CE8BAAF6764"
+					"size"		"2AFDE5AA4B565A8EFCE9B2FEEBCF199C"
+					"download"		"58E7BFBADEF77117C4EF7DBEFDCF8F06"
+				}
+				"pay_test"
+				{
+					"gid"		"11B036C9723B9AF31F6D4779608D563B"
+					"size"		"685E0903896CA74D5B9EE4C702564408"
+					"download"		"685E0903896CA74D5B9EE4C702564408"
+				}
+				"test"
+				{
+					"gid"		"A01F4CCDDB025392950CDDAA7E21BADF"
+					"size"		"4C4C577A1B0F5C2CEE0D703F7300EF17"
+					"download"		"045BEECBD06CEF6FFD6DA691B8179201"
+				}
+			}
+		}
+		"2436650"
+		{
+			"dlcappid"		"2436650"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12252170"
+				"timeupdated"		"1695366429"
+			}
+			"audit"
+			{
+				"buildid"		"12252170"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695346258"
+			}
+			"bugfix"
+			{
+				"buildid"		"11558006"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687767206"
+			}
+			"obt01_paytest"
+			{
+				"buildid"		"11943956"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692086121"
+			}
+			"obt01_payyfb"
+			{
+				"buildid"		"12246639"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695300514"
+			}
+			"obt015"
+			{
+				"buildid"		"12246638"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695300502"
+			}
+			"obt015yfb"
+			{
+				"buildid"		"12246661"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695300649"
+			}
+			"pay_release"
+			{
+				"buildid"		"11358179"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685525572"
+			}
+			"pay_test"
+			{
+				"buildid"		"11680175"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689129491"
+			}
+			"test"
+			{
+				"buildid"		"12013128"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692796691"
+			}
+		}
+	}
+}
