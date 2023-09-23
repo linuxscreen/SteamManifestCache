@@ -1,0 +1,160 @@
+"appinfo"
+{
+	"appid"		"1739920"
+	"common"
+	{
+		"name"		"Tactical Monsters - Strategy Edition Demo"
+		"type"		"Demo"
+		"parent"		"1729830"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"418bb157cc3998ee85cbcc05a78cf2cc16327a4b"
+		"clienttga"		"1950f057421ee02273ed7473a1d077af52de52dd"
+		"icon"		"ae0d6b2e325afca6d6c0057e71be233abaa3ac21"
+		"clienticns"		"1fb171151a7b2e004cb44e7a849dd331f2075d58"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1629981652"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Camex Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Camex Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630133595"
+		"gameid"		"1739920"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1729830"
+		"developer"		"Camex Games"
+		"publisher"		"Camex Games"
+	}
+	"config"
+	{
+		"installdir"		"Tactical Monsters - Strategy Edition Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tactical Monsters.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Tactical Monsters.app/Contents/MacOS/Tactical Monsters - Strategy Edition Demo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"1739921"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5704540375974850273"
+					"size"		"278161732"
+					"download"		"179840272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"9CB7A12F6A6420418454733DB42D2EAD"
+					"size"		"F2282B06AEF5FC0C5F25AA8FC2D819DD"
+					"download"		"12EFBBC632C31CD73DC9D80FC5B21ABD"
+				}
+			}
+		}
+		"1739922"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1215470953600432837"
+					"size"		"280648177"
+					"download"		"181448080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"4AAF53C2FE6BFBBFF4CF64A96310B83A"
+					"size"		"33C53CBE43A7C5BE4B18B9344723B8B4"
+					"download"		"AD7931AF97F7FE94166C27BAEEF8E9D8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7253950"
+				"timeupdated"		"1629971090"
+			}
+			"test"
+			{
+				"buildid"		"7253950"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629971113"
+			}
+		}
+	}
+}
