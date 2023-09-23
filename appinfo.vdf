@@ -1,0 +1,120 @@
+"appinfo"
+{
+	"appid"		"1885210"
+	"common"
+	{
+		"name"		"Project Outbreak Demo"
+		"type"		"Demo"
+		"parent"		"1503400"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"adc451abde6372409495c8843ecead2e2cf4dd23"
+		"clienttga"		"5efd20970c04a3ca43ca576a8ffdef5f78a99cbe"
+		"icon"		"88eb27014e51b9c7aaf120722532cd5581a067e6"
+		"logo"		"366fb71ea4f565a799a8f9a6c4880066c7689ce2"
+		"logo_small"		"366fb71ea4f565a799a8f9a6c4880066c7689ce2_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1642818909"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Exec Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Exec Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644276221"
+		"gameid"		"1885210"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1503400"
+		"developer"		"Exec Games"
+		"publisher"		"Exec Games"
+		"homepage"		"https://www.exec.games"
+	}
+	"config"
+	{
+		"installdir"		"Project Outbreak Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProjectOutbreakDemo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1885211"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5556258887349423022"
+					"size"		"1114919180"
+					"download"		"484461232"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8167921"
+				"timeupdated"		"1644353988"
+			}
+		}
+	}
+}
