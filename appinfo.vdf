@@ -1,0 +1,123 @@
+"appinfo"
+{
+	"appid"		"2400200"
+	"common"
+	{
+		"name"		"StrangerZ Demo"
+		"type"		"Demo"
+		"parent"		"2293600"
+		"releasestate"		"released"
+		"icon"		"88445b557965bf73ce7b39706c091fabf83333e4"
+		"clienttga"		"39ad9e722c1a8d0fb7b1856f20ebb1e963ca0ccf"
+		"clienticon"		"74a282a6eb5ed5b1de4b0d75ae4a1fea63dad387"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1686683975"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lost Frame Development"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lost Frame Development"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1686848443"
+		"community_visible_stats"		"1"
+		"gameid"		"2400200"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2293600"
+		"developer"		"Lost Frame Development"
+		"publisher"		"Lost Frame Development"
+	}
+	"config"
+	{
+		"installdir"		"StrangerZ Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"STRANGER.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2400201"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6108068194632603159"
+					"size"		"2423868944"
+					"download"		"2253209760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12126320"
+				"timeupdated"		"1694034670"
+			}
+		}
+	}
+}
