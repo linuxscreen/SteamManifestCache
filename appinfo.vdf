@@ -1,0 +1,138 @@
+"appinfo"
+{
+	"appid"		"2229310"
+	"common"
+	{
+		"name"		"XSpeed Demo"
+		"type"		"Demo"
+		"parent"		"2075750"
+		"icon"		"be4958774b0cef75d6a1d2d07806423aaadcd6ca"
+		"clienttga"		"2ee93d393a808ec5b4914ece3c4f477b5ffcaeb7"
+		"clienticon"		"959165169fe98673a274b5dc4dc832c037e9bd9a"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"31.649629781837177"
+				"height_pct"		"67.01265762698287"
+			}
+		}
+		"store_asset_mtime"		"1669625305"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MetaXSeed Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MetaXSeed Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1669709191"
+		"gameid"		"2229310"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2075750"
+		"developer"		"MetaXSeed Games"
+		"publisher"		"MetaXSeed Games"
+	}
+	"config"
+	{
+		"installdir"		"XSpeed Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CarLoadTest.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2229311"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5431457434169282153"
+					"size"		"1285035447"
+					"download"		"965414016"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9992275"
+				"timeupdated"		"1669126976"
+			}
+		}
+	}
+}
