@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1405490"
+	"common"
+	{
+		"name"		"Xuan-Yuan Sword VII Demo"
+		"type"		"Demo"
+		"parent"		"1249800"
+		"releasestate"		"released"
+		"clienticon"		"67a9fb2a66b33afa6fa2f81dd61e97c87eed1ea0"
+		"clienttga"		"2a53812a8e8400b086b3c002508aee10c1b378cd"
+		"icon"		"8a85ba13407b4c2915e89b3c1224a6b2629ea7c6"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"轩辕剑柒-免费试玩版"
+			"tchinese"		"軒轅劍柒-免費試玩版"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,zh-tw,en"
+			"library_hero"		"zh-cn,zh-tw,en"
+			"library_logo"		"en,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.418604651162795"
+				"height_pct"		"53.03965803847067"
+			}
+		}
+		"store_asset_mtime"		"1601990625"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SOFTSTAR"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"DOMO Studio"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"SOFTSTAR"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Yooreka Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1602054000"
+		"steam_release_date"		"1602036005"
+		"gameid"		"1405490"
+		"review_score"		"7"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"demoofappid"		"1249800"
+		"developer"		"SOFTSTAR"
+		"publisher"		"SOFTSTAR"
+	}
+	"config"
+	{
+		"installdir"		"SWD7Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SWD7_Demo/Binaries/Win64/SWD7-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1405491"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2174789143812271001"
+					"size"		"14774357010"
+					"download"		"7726834880"
+				}
+				"test"
+				{
+					"gid"		"2174789143812271001"
+					"size"		"14774357010"
+					"download"		"7726834880"
+				}
+			}
+		}
+		"baselanguages"		""
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6205791"
+				"timeupdated"		"1612778468"
+			}
+			"test"
+			{
+				"buildid"		"6205791"
+				"timeupdated"		"1612777189"
+			}
+		}
+	}
+}
