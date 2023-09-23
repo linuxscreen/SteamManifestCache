@@ -1,0 +1,229 @@
+"appinfo"
+{
+	"appid"		"1617800"
+	"common"
+	{
+		"name"		"Kin's Chronicle"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"ffa71b82e2e5f9c660b200bc8a8ac13449f9b18e"
+		"clienttga"		"462ce2484cf8b3bb00587bcf9c9930cc0619e0e0"
+		"icon"		"648fbe512a722a35c574bc814ac5aaea6471f397"
+		"linuxclienticon"		"cd7ee9b835486407e390fd600dacd394be24eac0"
+		"logo"		"6525721d31d9432052748d1da0d99e6dc0eb3cfb"
+		"logo_small"		"6525721d31d9432052748d1da0d99e6dc0eb3cfb_thumb"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"42.89212171017283"
+				"height_pct"		"61.93832599118944"
+			}
+		}
+		"store_asset_mtime"		"1624388398"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"flashdim"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"flashdim"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_23"		"1"
+			"category_44"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627485720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1617800"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"4474"
+			"2"		"916648"
+			"3"		"1720"
+			"4"		"10695"
+			"5"		"4434"
+			"6"		"4747"
+			"7"		"122"
+			"8"		"4975"
+			"9"		"4726"
+			"10"		"3839"
+			"11"		"3854"
+			"12"		"21006"
+			"13"		"1742"
+			"14"		"4325"
+			"15"		"7481"
+			"16"		"6869"
+			"17"		"4085"
+			"18"		"4305"
+			"19"		"3964"
+		}
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,beta"
+		"developer"		"flashdim"
+		"publisher"		"flashdim"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Kin's Chronicle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu --disable-devtools"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch (Default)"
+				}
+				"description"		"Launch (Default)"
+			}
+			"1"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"beta"
+				}
+				"description_loc"
+				{
+					"english"		"with debug console"
+				}
+				"description"		"with debug console"
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2476356657"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default,beta"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1617801"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6672077833690273418"
+					"size"		"768759329"
+					"download"		"371491904"
+				}
+				"beta"
+				{
+					"gid"		"6672077833690273418"
+					"size"		"768759329"
+					"download"		"371491904"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12260418"
+				"timeupdated"		"1695414932"
+			}
+			"beta"
+			{
+				"buildid"		"12260418"
+				"description"		"Playtest Branch"
+				"timeupdated"		"1695413999"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"*.rmmzsave"
+				"recursive"		"1"
+			}
+		}
+	}
+}
