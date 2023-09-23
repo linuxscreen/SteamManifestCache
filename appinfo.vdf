@@ -1,0 +1,224 @@
+"appinfo"
+{
+	"appid"		"775620"
+	"common"
+	{
+		"name"		"Fight or Flight"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"fb60391f74d0e138915f75116a34c5f16f561fd2"
+		"clienticon"		"2bad936f6630f2a8c6fb690cac03e98d81aeff65"
+		"icon"		"6476b34a04cbffb63ddc6fec22fe4d499f86906a"
+		"logo"		"5675122aa84cc34d0019d22b6d6afda5f23454a1"
+		"logo_small"		"5675122aa84cc34d0019d22b6d6afda5f23454a1_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Fight or Flight"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.072061498649674"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1664268320"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Outer Planet Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Outer Planet Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_23"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1603789260"
+		"community_hub_visible"		"1"
+		"gameid"		"775620"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"1663"
+			"2"		"3978"
+			"3"		"1775"
+			"4"		"6730"
+			"5"		"176981"
+			"6"		"1774"
+			"7"		"3839"
+			"8"		"3835"
+			"9"		"19"
+			"10"		"1659"
+			"11"		"4168"
+			"12"		"4166"
+			"13"		"4342"
+			"14"		"3859"
+			"15"		"493"
+			"16"		"4182"
+			"17"		"4667"
+			"18"		"113"
+			"19"		"4345"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"gamedir"		"FofGame"
+		"serverbrowsername"		"Fight or Flight"
+		"developer"		"Outer Planet Studios"
+		"publisher"		"Outer Planet Studios"
+		"homepage"		"http://fight-or-flight.webflow.io/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"fof1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor\\FofGame\\Binaries\\Win64\\FofGame.exe"
+				"workingdir"		"WindowsNoEditor\\FofGame\\Binaries\\Win64\\"
+				"description"		"Fight or Flight"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"775621"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4759497297223854687"
+					"size"		"9014552405"
+					"download"		"4150581312"
+				}
+				"testing"
+				{
+					"gid"		"4759497297223854687"
+					"size"		"9014552405"
+					"download"		"4150581312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_testing"
+				{
+					"gid"		"CDAA944BCE0882E155DC226232E85522"
+					"size"		"3A2731BFF42BEB45BD92B9DC26098DD8"
+					"download"		"D2EC5A582EC51AD267A1FCC9BF4263FF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12081457"
+				"timeupdated"		"1693506015"
+			}
+			"internal_testing"
+			{
+				"buildid"		"12081457"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693505657"
+			}
+			"testing"
+			{
+				"buildid"		"12081457"
+				"description"		"testing"
+				"timeupdated"		"1693506008"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"FofGame/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
