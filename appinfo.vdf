@@ -1,0 +1,177 @@
+"appinfo"
+{
+	"appid"		"1234400"
+	"common"
+	{
+		"name"		"Handy Dandy"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1234400_eula_0"
+				"name"		"Handy Dandy EULA"
+				"url"		"https://store.steampowered.com//eula/1234400_eula_0"
+			}
+		}
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienttga"		"5b299a5744e9d40d3aa29df4d50cbdac6dd42254"
+		"clienticon"		"010db37a7e69df4cb7e67c8fe73e26610fa3ada9"
+		"icon"		"4bfb32a50e8ca19bc452f4ccf6ff7de64efb75b1"
+		"linuxclienticon"		"49fd753688fc7b2b2e5196b449d5ac5772383e40"
+		"logo"		"dfb642eaef2e20e53a4e1d4937899d6c687bc94e"
+		"logo_small"		"dfb642eaef2e20e53a4e1d4937899d6c687bc94e_thumb"
+		"metacritic_name"		"Handy Dandy"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.044146414393765"
+				"height_pct"		"60.572863439177844"
+			}
+		}
+		"store_asset_mtime"		"1589215594"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Yellow Boot Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Yellow Boot Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1589302817"
+		"community_hub_visible"		"1"
+		"gameid"		"1234400"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"21"
+			"3"		"1685"
+			"4"		"3841"
+			"5"		"4508"
+			"6"		"5537"
+		}
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Yellow Boot Games"
+		"publisher"		"Yellow Boot Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Handy Dandy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HandyDandyWindows\\HandyDandyHandy2020.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"HandyDandyMac.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1234401"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"981211611793456629"
+					"size"		"480767945"
+					"download"		"86678688"
+				}
+			}
+		}
+		"1234402"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2869774822635761251"
+					"size"		"533408521"
+					"download"		"99546464"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5080591"
+				"timeupdated"		"1590522242"
+			}
+		}
+	}
+}
