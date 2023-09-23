@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"850970"
+	"common"
+	{
+		"name"		"Plunker"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openvrsupport"		"1"
+		"logo"		"fdf15d3415eb59b67fdc16522e03ed6379e66a25"
+		"logo_small"		"fdf15d3415eb59b67fdc16522e03ed6379e66a25_thumb"
+		"icon"		"3bfb4a8f04ad160f9c61456e49cdda98147161a6"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"dd98ab4dacedcd2342dc1b9ca6fc2855f008142a"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"metacritic_name"		"Plunker"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1580427534"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Auggo Doggo Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Auggo Doggo Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1600712640"
+		"community_hub_visible"		"1"
+		"gameid"		"850970"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"597"
+			"3"		"1719"
+			"4"		"19"
+			"5"		"1710"
+			"6"		"4136"
+			"7"		"122"
+			"8"		"21978"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Auggo Doggo Games"
+		"publisher"		"Auggo Doggo Games"
+		"homepage"		"http://www.auggodoggogames.com/games/plunker/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Plunker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Plunker.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"850971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1387619602211348615"
+					"size"		"368281513"
+					"download"		"132086464"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5602721"
+				"timeupdated"		"1634190201"
+			}
+		}
+	}
+}
