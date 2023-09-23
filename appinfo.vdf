@@ -1,0 +1,140 @@
+"appinfo"
+{
+	"appid"		"1656980"
+	"common"
+	{
+		"name"		"Police Shootout Demo"
+		"type"		"Demo"
+		"parent"		"1279240"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"ebf0d00d6c2088bcf60ff8ef87f6b759ebf968ff"
+		"clienticon"		"a4e37c4845186adbe3e3d91bca84942a6bc5f7ed"
+		"icon"		"446a5186ddd4261ac582974579e86db350a719fd"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.2726231386025"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1625507027"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Games Incubator"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Games Incubator"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623862439"
+		"gameid"		"1656980"
+	}
+	"extended"
+	{
+		"demoofappid"		"1279240"
+		"developer"		"Games Incubator"
+		"publisher"		"Games Incubator"
+		"homepage"		"https://games-i.com/"
+	}
+	"config"
+	{
+		"installdir"		"Police Shootout Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"playway-launcher-win32-ia32\\playway-launcher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"1"
+		"1656981"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8831678925466369264"
+					"size"		"3985183886"
+					"download"		"3731433168"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7202707"
+				"timeupdated"		"1629203420"
+			}
+		}
+	}
+}
