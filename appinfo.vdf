@@ -1,0 +1,222 @@
+"appinfo"
+{
+	"appid"		"314430"
+	"common"
+	{
+		"name"		"M.A.R.S."
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"20420ba862640e4bc17fa7481763893055476566"
+		"logo_small"		"20420ba862640e4bc17fa7481763893055476566_thumb"
+		"icon"		"09fd63a8ee3304d1149dfc76824d8759003264d7"
+		"clienticon"		"f6b9c9e4afbb3bab6fd355030cb79abdadd70aea"
+		"clienttga"		"c93dfc1b047131d3c058481074d15f51639782cc"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1654128000"
+			"tested_build_id"		"8697563"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"79.63666587508901"
+			}
+		}
+		"store_asset_mtime"		"1635526301"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"YingPei Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SubaGames"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_15"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1635430295"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"314430"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3814"
+			"1"		"6730"
+			"2"		"1775"
+			"3"		"3878"
+			"4"		"1774"
+			"5"		"4747"
+			"6"		"7208"
+			"7"		"1697"
+			"8"		"1667"
+			"9"		"4191"
+			"10"		"4821"
+			"11"		"3835"
+			"12"		"11104"
+			"13"		"5160"
+			"14"		"19"
+			"15"		"597"
+			"16"		"1659"
+			"17"		"4168"
+			"18"		"3942"
+			"19"		"1755"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"YingPei Games"
+		"publisher"		"SubaGames"
+		"homepage"		"https://subagames.com/MARS/Home.aspx"
+		"isfreeapp"		"1"
+		"listofdlc"		"1668180,1824340,1824341,1884930,2198880,2225540,2225550"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"MARS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MaLauncher.exe"
+				"arguments"		"-steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"314431年"
+		{
+		}
+		"baselanguages"		"english"
+		"314431"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8203757388915459935"
+					"size"		"11815227317"
+					"download"		"6889412416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staff"
+				{
+					"gid"		"137A16CE8CD5AF1421B7662FBF3967A3"
+					"size"		"DD152CCF0993EB0BAE5C1EEA75282013"
+					"download"		"8551221ED6115186909D3CD265D76D0A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12212071"
+				"timeupdated"		"1695089359"
+			}
+			"staff"
+			{
+				"buildid"		"12212071"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695089370"
+			}
+		}
+	}
+}
