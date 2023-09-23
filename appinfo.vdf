@@ -1,0 +1,339 @@
+"appinfo"
+{
+	"appid"		"1458040"
+	"common"
+	{
+		"name"		"Tales of Arise Demo Version"
+		"type"		"Demo"
+		"parent"		"740130"
+		"releasestate"		"released"
+		"clienttga"		"91c0e89ddce37a05bbbde72906d8481f9044f491"
+		"clienticon"		"3cfe2a0b3ceffb415e30558a834aec796871e7e8"
+		"icon"		"e26020cac5124c811980ee6a48f232aee6d9ee89"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1458040_eula_0"
+				"name"		"Tales of Arise Demo Version EULA"
+				"url"		"https://store.steampowered.com//eula/1458040_eula_0"
+				"version"		"1"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1629511441"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BANDAI NAMCO Studios Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BANDAI NAMCO Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"BANDAI NAMCO Entertainment"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631224800"
+		"gameid"		"1458040"
+	}
+	"extended"
+	{
+		"demoofappid"		"740130"
+		"developer"		"BANDAI NAMCO Studios Inc."
+		"publisher"		"BANDAI NAMCO Entertainment"
+	}
+	"config"
+	{
+		"installdir"		"Tales of Arise Demo Version"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Arise\\Binaries\\Win64\\Tales of Arise.exe"
+				"type"		"none"
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2347623887"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		"default,dev-debug,dev-release,qa-debug,qa-release"
+				"use_action_block"		"true"
+			}
+			"2347633194"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,dev-debug,dev-release,qa-debug,qa-release"
+				"use_action_block"		"false"
+			}
+			"2347635492"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,dev-debug,dev-release,qa-debug,qa-release"
+				"use_action_block"		"false"
+			}
+			"2347650741"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,dev-debug,dev-release,qa-debug,qa-release"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,tchinese,russian,japanese,brazilian,latam"
+		"1458041"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8970706402240977884"
+					"size"		"4203293962"
+					"download"		"4014103424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-debug"
+				{
+					"gid"		"AB0DE076659CDAF93BF89A850774E6A6"
+					"size"		"88194E47538B00205A8F4982A228B69B"
+					"download"		"88194E47538B00205A8F4982A228B69B"
+				}
+				"dev-release"
+				{
+					"gid"		"5F49EE7FCCC4DDBAB0E98C79300D1F83"
+					"size"		"74C52AFB3632A38EA7EF429FE3A443D1"
+					"download"		"1B8182C24D027053F86D49C0345D3479"
+				}
+				"maverick"
+				{
+					"gid"		"6CDE2DC1542399CCE01C34A1024615C8"
+					"size"		"12BBFD29C9E848479D2902F1E8494D8E"
+					"download"		"A53A9009A67C1F4C5DC39467702D4227"
+				}
+				"qa-debug"
+				{
+					"gid"		"031CA89C263894B7ACED5B13BBA48123"
+					"size"		"ED4F0E86AA22D11DFAE0ADE5228CF507"
+					"download"		"ED4F0E86AA22D11DFAE0ADE5228CF507"
+				}
+				"qa-release"
+				{
+					"gid"		"FC7F5A4A8D5AF88A3A2E69EA809F01ED"
+					"size"		"14364EC7DEDCB4E917317D5ACE6CCCC5"
+					"download"		"F253AE33A5D7C2DD809678388D750D46"
+				}
+			}
+		}
+		"1458042"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1158811678033305508"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-debug"
+				{
+					"gid"		"B8559F9143859409DFC256E223E128CF"
+					"size"		"308DCC45DC7D527FF4896358928AF3F5"
+					"download"		"C4795C24317E5FC75B25134BFCA52B2A"
+				}
+				"dev-release"
+				{
+					"gid"		"C974D44FBEBC5EBCAA30D75E6C70E26E"
+					"size"		"C6D546A792289DF174C4937E100A165E"
+					"download"		"C6D546A792289DF174C4937E100A165E"
+				}
+				"maverick"
+				{
+					"gid"		"472725C223F090285B0E57466987EDF5"
+					"size"		"6216B597C712EC74733F970709FBA929"
+					"download"		"6216B597C712EC74733F970709FBA929"
+				}
+				"qa-debug"
+				{
+					"gid"		"D7A311379B2449F3C457C73D9FF6C00E"
+					"size"		"C6EB8467FD725A4ECE64D6687FAC6120"
+					"download"		"9A9A5287AA6CB1DC173229EBD90D28DC"
+				}
+				"qa-release"
+				{
+					"gid"		"7C3DB72B0E342008335A08792A8B45BB"
+					"size"		"26C0C32FC27DC31F5063BBB33E1F9E1E"
+					"download"		"26C0C32FC27DC31F5063BBB33E1F9E1E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6964704"
+				"timeupdated"		"1629417866"
+			}
+			"dev-debug"
+			{
+				"buildid"		"6954232"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625013707"
+			}
+			"dev-release"
+			{
+				"buildid"		"6964704"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625150385"
+			}
+			"maverick"
+			{
+				"buildid"		"6460039"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625215659"
+			}
+			"qa-debug"
+			{
+				"buildid"		"6954232"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625121097"
+			}
+			"qa-release"
+			{
+				"buildid"		"6964704"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625209047"
+			}
+		}
+	}
+}
