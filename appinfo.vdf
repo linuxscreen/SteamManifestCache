@@ -1,0 +1,260 @@
+"appinfo"
+{
+	"appid"		"1138840"
+	"common"
+	{
+		"name"		"Bad North Demo"
+		"type"		"Demo"
+		"parent"		"688420"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"761db0f1bdaa3f940b391b9accc4e04e4a88c6ec"
+		"clienttga"		"316374c6a98ffb75eb9359460d6eca1deb80f217"
+		"icon"		"9bf4b56f9a8072fab8467b488968c4cb54b7da1e"
+		"metacritic_name"		"Bad North Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1573572701"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Plausible Concept"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Raw Fury"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Bad North"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1573658362"
+		"gameid"		"1138840"
+	}
+	"extended"
+	{
+		"demoofappid"		"688420"
+		"developer"		"Plausible Concept"
+		"publisher"		"Raw Fury"
+		"homepage"		"http://badnorth.com"
+	}
+	"config"
+	{
+		"installdir"		"Bad North Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BadNorth.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"BadNorth.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"BadNorth.exe"
+				"arguments"		"-show-screen-selector"
+				"description"		"Launch to Resolution Dialog"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"BadNorth.app"
+				"arguments"		"-show-screen-selector"
+				"description"		"Launch to Resolution Dialog"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1138841"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5641568234022324181"
+					"size"		"229436149"
+					"download"		"169573824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"3217E3D6DA96E9D194DBB500CCFD1939"
+					"size"		"6794160B8C74AD47F6C4BF8138D8AE05"
+					"download"		"FA6EB8DF5BB0544AC3156F7B0B85B1A6"
+				}
+				"development_release"
+				{
+					"gid"		"6599DACF87CA4CD4682C53EA3889D542"
+					"size"		"9C3F0E6623FC022413578BF3AA7CFF9C"
+					"download"		"512FFF722DF2816C2F9F415336D8C5F6"
+				}
+			}
+		}
+		"1138842"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2021236633130358036"
+					"size"		"297718784"
+					"download"		"179760784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"56BD22CF44C383987DD9D8EBDE57BCE1"
+					"size"		"161113781D3C73F856C703D7E5C3E1E5"
+					"download"		"F4F2659826388808A221433662BB7138"
+				}
+				"development_release"
+				{
+					"gid"		"74AB66AEB67756438D0C61ACD9780C5C"
+					"size"		"B17269F804C649B6AB37D586F4A48E65"
+					"download"		"95CAD5391452F5F39C18E2A26E424440"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4292764"
+				"timeupdated"		"1571231732"
+			}
+			"development"
+			{
+				"buildid"		"4292767"
+				"pwdrequired"		"1"
+				"timeupdated"		"1571225733"
+			}
+			"development_release"
+			{
+				"buildid"		"4292764"
+				"pwdrequired"		"1"
+				"timeupdated"		"1571225605"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000"
+		"maxnumfiles"		"10"
+		"appidredirect"		"688420"
+	}
+}
