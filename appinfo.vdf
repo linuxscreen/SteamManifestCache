@@ -1,0 +1,265 @@
+"appinfo"
+{
+	"appid"		"691020"
+	"common"
+	{
+		"name"		"Fog Of War - Free Edition"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"f2a7d0c80d904881197a8c551e93e5a472de29d8"
+		"logo_small"		"f2a7d0c80d904881197a8c551e93e5a472de29d8_thumb"
+		"icon"		"cd1ed70141083652d77c63a85dce526babff1cd1"
+		"clienticon"		"f72c535be686cca61f739291ad71c0c0b8f03312"
+		"clienttga"		"c1b298ce36099b3950643519fb622b74840a06a4"
+		"releasestate"		"released"
+		"metacritic_name"		"Fog Of War - Free Edition"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1516570888"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Monkeys Lab."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Monkeys Lab."
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"73"
+			"1"		"74"
+			"2"		"1"
+			"3"		"37"
+			"4"		"23"
+			"5"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1519307721"
+		"community_hub_visible"		"1"
+		"gameid"		"691020"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4150"
+			"2"		"3859"
+			"3"		"1663"
+			"4"		"19"
+			"5"		"128"
+			"6"		"4182"
+			"7"		"1695"
+			"8"		"4667"
+			"9"		"4345"
+			"10"		"1774"
+			"11"		"3839"
+			"12"		"492"
+			"13"		"1685"
+			"14"		"1678"
+			"15"		"7481"
+			"16"		"1659"
+			"17"		"4175"
+			"18"		"1662"
+		}
+		"review_score"		"5"
+		"review_percentage"		"52"
+	}
+	"extended"
+	{
+		"gamedir"		"fogofwar"
+		"serverbrowsername"		"Fog of War Free"
+		"developer"		"Monkeys Lab."
+		"publisher"		"Monkeys Lab."
+		"isfreeapp"		"1"
+		"listofdlc"		"791890"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Fog Of War - Free Edition"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Battalion_Beta/Binaries/Win64/Battalion_BetaClient.exe"
+				"arguments"		"-fullscreen"
+				"description"		"Default"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Battalion_Beta/Binaries/Win32/Battalion_BetaClient.exe"
+				"arguments"		"-fullscreen"
+				"description"		"Default"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"Battalion_Beta/Binaries/Win64/Battalion_BetaClient.exe"
+				"arguments"		"-fullscreen"
+				"description"		"Играть в Fog Of War - Free Edition Development"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"devel"
+				}
+			}
+			"3"
+			{
+				"executable"		"Battalion_Beta/Binaries/Win32/Battalion_BetaClient.exe"
+				"arguments"		"-fullscreen"
+				"description"		"Играть в Fog Of War - Free Edition Development"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+					"betakey"		"devel"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"691021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9021179657736011838"
+					"size"		"4480780980"
+					"download"		"3820409296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"AC0A0FAA380C61D85CBA8AB09880A307"
+					"size"		"FF03053432BB3888E9E756448F56B5E8"
+					"download"		"409A89F4C009140C42D0F1FC8DEB4346"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2847360"
+				"timeupdated"		"1529140202"
+			}
+			"devel"
+			{
+				"buildid"		"2847360"
+				"pwdrequired"		"1"
+				"timeupdated"		"1528806985"
+			}
+		}
+	}
+}
