@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"865570"
+	"common"
+	{
+		"name"		"pact with a witch"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"clienttga"		"c206cd54cc164e883dad4abc1aac82964a538a0b"
+		"clienticon"		"87c7940357129175e1e7459f6ee41f6bb1d975bb"
+		"icon"		"cab694be4b910768275058ed7b0c07dc5601ad78"
+		"logo"		"ddc87f68e0f47a2a8e39167b44e0c1c582df3fe5"
+		"logo_small"		"ddc87f68e0f47a2a8e39167b44e0c1c582df3fe5_thumb"
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"metacritic_name"		"pact with a witch"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1640433970"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"jonnymelabo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"jonnymelabo"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1561479728"
+		"community_hub_visible"		"1"
+		"gameid"		"865570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"6650"
+			"2"		"113"
+			"3"		"3799"
+			"4"		"24904"
+			"5"		"5611"
+			"6"		"4667"
+			"7"		"493"
+			"8"		"492"
+			"9"		"4345"
+			"10"		"597"
+			"11"		"122"
+			"12"		"9130"
+			"13"		"1742"
+			"14"		"6426"
+			"15"		"21"
+			"16"		"4085"
+			"17"		"4947"
+			"18"		"19"
+			"19"		"1721"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"jonnymelabo"
+		"publisher"		"jonnymelabo"
+		"homepage"		"https://www.youtube.com/watch?v=RCQoa9_C3PE"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"pact with a witch"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"pact_with_a_witch.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"pact_with_a_witch.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"pact_with_a_witch.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"865571"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7644814144551478283"
+					"size"		"1151628805"
+					"download"		"874986464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"3D557BEEB7CAD8A4D6C3A02F20C35E7C"
+					"size"		"2397B3958A1443CAB754CE97BA30DF57"
+					"download"		"32EE759D5D9A5A1C5C758B19B4F0B660"
+				}
+				"testing"
+				{
+					"gid"		"DBDEF2A0DB9B60187E5763B406695301"
+					"size"		"8C8821718010BD4A2E735D6BAA4D31F8"
+					"download"		"BFFAC4B29B77EFEB65E944E381A090AD"
+				}
+			}
+		}
+		"baselanguages"		"english,spanish"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10212089"
+				"timeupdated"		"1671982700"
+			}
+			"develop"
+			{
+				"buildid"		"10212089"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671914584"
+			}
+			"testing"
+			{
+				"buildid"		"10212089"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671914569"
+			}
+		}
+	}
+}
