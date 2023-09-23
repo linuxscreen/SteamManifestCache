@@ -1,0 +1,307 @@
+"appinfo"
+{
+	"appid"		"1737720"
+	"common"
+	{
+		"name"		"Themes of Dark and Light Demo"
+		"type"		"Demo"
+		"parent"		"1655440"
+		"releasestate"		"released"
+		"clienttga"		"7844e1971ea1eeecc6905b4811849163edc761e5"
+		"clienticon"		"386fcf7c8d934080caad6b5374a74f496b1b4753"
+		"icon"		"5001fd862a23d6fe0082bf5114aa90c44af801f0"
+		"logo"		"f1f1218e92af1fe32034e5e358ca7f08a058f27b"
+		"logo_small"		"f1f1218e92af1fe32034e5e358ca7f08a058f27b_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1629818478"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Carriage Developed"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Carriage Developed"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630506358"
+		"gameid"		"1737720"
+	}
+	"extended"
+	{
+		"demoofappid"		"1655440"
+		"developer"		"Carriage Developed"
+		"publisher"		"Carriage Developed"
+		"homepage"		"https://www.themesofdarkandlight.com"
+	}
+	"config"
+	{
+		"installdir"		"Themes of Dark and Light Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Themes of Dark and Light.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1737721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6493338412790608752"
+					"size"		"208811401"
+					"download"		"78309120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"0CC971AB1B166B636B66936FB368D7ED"
+					"size"		"60FAC297EB4193634B049B0225611113"
+					"download"		"65A52AB5B623F0D54359DBC1639AADFA"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,polish,swedish,turkish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7279377"
+				"timeupdated"		"1630506614"
+			}
+			"test"
+			{
+				"buildid"		"7279377"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630414601"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Carriage Developed/Themes of Dark and Light/Demo"
+				"pattern"		"SaveData.dat"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"Playing level %level%"
+					"#mainmenu"		"Main Menu"
+					"#creating"		"Creating a level"
+					"#playingcustom"		"Playing a custom level"
+					"#playingchallenge"		"Challenge %challenge%: Level %level%"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"Jouer au niveau %level%"
+					"#mainmenu"		"Menu principal"
+					"#creating"		"Création d'un niveau"
+					"#playingcustom"		"Jouer à un niveau personnalisé"
+					"#playingchallenge"		"Défi %challenge% : Niveau %level%"
+				}
+			}
+			"spanish"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"Jugando nivel %level%"
+					"#mainmenu"		"Menú principal"
+					"#creating"		"Creando un nivel"
+					"#playingcustom"		"Jugando un nivel personalizado"
+					"#playingchallenge"		"Desafío %challenge%: Nivel %level%"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"Durchspielen von level %level%"
+					"#mainmenu"		"Hauptmenü"
+					"#creating"		"Level erstellen"
+					"#playingcustom"		"Ein benutzerdefiniertes Level spielen"
+					"#playingchallenge"		"Herausforderung %challenge%: Stufe %level%"
+				}
+			}
+			"russian"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"Уровень игры %level%"
+					"#mainmenu"		"Главное меню"
+					"#creating"		"Создание уровня"
+					"#playingcustom"		"Игра на пользовательском уровне"
+					"#playingchallenge"		"Вызов %challenge%: Уровень %level%"
+				}
+			}
+			"schinese"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"玩 %level% 级"
+					"#mainmenu"		"主菜单"
+					"#creating"		"创建关卡"
+					"#playingcustom"		"播放自定义关卡"
+					"#playingchallenge"		"挑战 %challenge%：等级 %level%"
+				}
+			}
+			"brazilian"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"Nível de jogo %level%"
+					"#mainmenu"		"Menu principal"
+					"#creating"		"Criando um nível"
+					"#playingcustom"		"Jogando um nível personalizado"
+					"#playingchallenge"		"Desafio %challenge%: Nível %level%"
+				}
+			}
+			"italian"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"Livello di gioco %level%"
+					"#mainmenu"		"Menu principale"
+					"#creating"		"Creare un livello"
+					"#playingcustom"		"Giocare a un livello personalizzato"
+					"#playingchallenge"		"Sfida %challenge%: Livello %level%"
+				}
+			}
+			"polish"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"Poziom gry %level%"
+					"#mainmenu"		"Menu główne"
+					"#creating"		"Tworzenie poziomu"
+					"#playingcustom"		"Granie na niestandardowym poziomie"
+					"#playingchallenge"		"Wyzwanie %challenge%: Poziom %level%"
+				}
+			}
+			"swedish"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"Spelar nivå %level%"
+					"#mainmenu"		"Huvudmeny"
+					"#creating"		"Skapa en nivå"
+					"#playingcustom"		"Spelar en anpassad nivå"
+					"#playingchallenge"		"Utmaning %challenge%: Nivå %level%"
+				}
+			}
+			"turkish"
+			{
+				"tokens"
+				{
+					"#playinglevel"		"%level%. seviye oynuyor"
+					"#mainmenu"		"Ana menü"
+					"#creating"		"Seviye tasarlama"
+					"#playingcustom"		"Özel bir seviye oynamak"
+					"#playingchallenge"		"%challenge% ile mücadele et: Seviye %level%"
+				}
+			}
+		}
+	}
+}
