@@ -1,0 +1,248 @@
+"appinfo"
+{
+	"appid"		"2022330"
+	"common"
+	{
+		"name"		"The Riflemen"
+		"type"		"Game"
+		"clienttga"		"4ead95e224a7b358f2a1a498960edf761fbead7b"
+		"clienticon"		"b28de7f562b8a3698ad1fdb4c5b2eabc6c74c55f"
+		"icon"		"a4e72e3b0d7c37f57ce3b62909674b84728ef55d"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"48.393017647517695"
+				"height_pct"		"55.84198465188834"
+			}
+		}
+		"store_asset_mtime"		"1693472708"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Normogames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bonus Stage Publishing"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_2"		"1"
+			"category_27"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1693565949"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2022330"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"3859"
+			"2"		"1774"
+			"3"		"1663"
+			"4"		"4195"
+			"5"		"4150"
+			"6"		"4747"
+			"7"		"1775"
+			"8"		"6730"
+			"9"		"3993"
+			"10"		"4182"
+			"11"		"4168"
+			"12"		"19"
+			"13"		"6506"
+			"14"		"1773"
+			"15"		"5547"
+			"16"		"4255"
+			"17"		"4191"
+			"18"		"3839"
+			"19"		"5851"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"Normogames"
+		"publisher"		"Bonus Stage Publishing"
+		"isfreeapp"		"1"
+		"listofdlc"		"2521030"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Riflemen"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Riflemen.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"EACLauncher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"bsprivatetesting"
+				}
+				"description_loc"
+				{
+					"english"		"Launches the game using Anti-Cheat bootstrapper"
+				}
+				"description"		"Launches the game using Anti-Cheat bootstrapper"
+			}
+		}
+	}
+	"depots"
+	{
+		"2022331"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5675889405952605004"
+					"size"		"5427025286"
+					"download"		"542618864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bsprivatetesting"
+				{
+					"gid"		"A45A14AC77ED0B4355186944988098BC"
+					"size"		"5134408C3A72998A34ECC1D202DDBA76"
+					"download"		"F7AE4907CE7F2AD9EE51D4ACEB312144"
+				}
+				"development"
+				{
+					"gid"		"AB6E41211103C997A31AB06E67501BC3"
+					"size"		"128A2C048432D35577E8CBDEDBF3112C"
+					"download"		"F0077A329BA3EBA135F3895EAF2F8D74"
+				}
+				"testing"
+				{
+					"gid"		"F3D6BE7CF6026713F5CA5972D1E7CEC9"
+					"size"		"65ED139A308470E9B292162EF5F1D9CB"
+					"download"		"BA1B7C9F08E3546AE7C2E68A9B553AA6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12134609"
+				"timeupdated"		"1694157629"
+			}
+			"bsprivatetesting"
+			{
+				"buildid"		"12257667"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695392714"
+			}
+			"development"
+			{
+				"buildid"		"12134609"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694107761"
+			}
+			"testing"
+			{
+				"buildid"		"12079796"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693493179"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Normogames/The Riflemen"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
