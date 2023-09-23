@@ -1,0 +1,233 @@
+"appinfo"
+{
+	"appid"		"1241700"
+	"common"
+	{
+		"name"		"There is no game: Jam Edition 2015"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"7f54f93774ca5f6efb0acddadcd1d2cfed74ae37"
+		"logo_small"		"7f54f93774ca5f6efb0acddadcd1d2cfed74ae37_thumb"
+		"icon"		"05bd3ff3a36a05b099cca926b421e9905e475f04"
+		"clienttga"		"edf45b0c558d4921b5dbb33bb779aeb4fe4303aa"
+		"clienticon"		"515f6e69b07a5f99bb29e2005f6a8e914a213b3d"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"4977107"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"There is no game : Jam Edition 2015"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.96490716024317"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1666983884"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Draw Me A Pixel"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Draw Me A Pixel"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1584538888"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1241700"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"113"
+			"3"		"21"
+			"4"		"3964"
+			"5"		"4136"
+			"6"		"1719"
+			"7"		"1698"
+			"8"		"1664"
+			"9"		"4234"
+			"10"		"4182"
+			"11"		"3871"
+			"12"		"5094"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Draw Me A Pixel"
+		"publisher"		"Draw Me A Pixel"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"There is no game  Jam Edition 2015"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Ting_Jam.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TingJAM.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"1241701"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1963138108345192648"
+					"size"		"104108096"
+					"download"		"26394592"
+				}
+			}
+		}
+		"1241702"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8369338899205857677"
+					"size"		"115938604"
+					"download"		"29253792"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4977107"
+				"timeupdated"		"1588522441"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
