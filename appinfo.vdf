@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"2138350"
+	"common"
+	{
+		"name"		"双相"
+		"type"		"Game"
+		"icon"		"dadff9f4d07144d5c3f0e054e74dd5d98c65ca00"
+		"clienticon"		"9ba5fc2dedb82f06e029fb62948e352752e1b737"
+		"clienttga"		"1653e5dedbcd6209ad7cd39eb2295175368993df"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"sc_schinese"		"双相"
+		}
+		"releasestate"		"released"
+		"releasestatesteamchina"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-xc"
+			"library_hero"		"en,zh-xc"
+			"library_logo"		"en,zh-xc"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"17.21120186697783"
+				"height_pct"		"44.30064117786748"
+			}
+		}
+		"store_asset_mtime"		"1668158912"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"珠海金山网络游戏科技有限公司"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"海南西山居互动娱乐科技有限公司"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1668651592"
+		"community_hub_visible"		"1"
+		"gameid"		"2138350"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5537"
+			"1"		"597"
+			"2"		"1664"
+			"3"		"5186"
+			"4"		"3871"
+			"5"		"7250"
+			"6"		"4094"
+			"7"		"113"
+			"8"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"珠海金山网络游戏科技有限公司"
+		"publisher"		"海南西山居互动娱乐科技有限公司"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"双相"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Biphase.exe"
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"2138351"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8356045436491131356"
+					"size"		"2605413926"
+					"download"		"174818112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internaltest"
+				{
+					"gid"		"D304AF61C73EAB507511309236EF5357"
+					"size"		"8DC92706C93D8AAA2AA876E67EC2541F"
+					"download"		"3BEE4BF6D8F32D7354B023F844130C73"
+				}
+				"steam_china_only"
+				{
+					"gid"		"54BDA505C601C661B51715BBE0B4D730"
+					"size"		"71E055985E7A9F316DDCAD8FBEB86356"
+					"download"		"87C28258A3D468E8CB608E7FD5C9A502"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"10014264"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669773578"
+			}
+			"internaltest"
+			{
+				"sc_schinese"		"internaltest-china"
+				"buildid"		"10014264"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669773558"
+			}
+			"public"
+			{
+				"buildid"		"10014264"
+				"timeupdated"		"1669773595"
+			}
+		}
+		"baselanguages"		"english,schinese"
+	}
+}
