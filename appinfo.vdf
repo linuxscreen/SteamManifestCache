@@ -1,0 +1,325 @@
+"appinfo"
+{
+	"appid"		"1386890"
+	"common"
+	{
+		"name"		"Hyper Dash"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"HyperDash_Data\\StreamingAssets\\SteamVR\\actions.json"
+		"clienticon"		"00391138d3f6c0afafb111c8f4dc94a7ea817dfe"
+		"clienttga"		"0494d821e9cd1fd78a4b2a93eafd0dc1bfeae10d"
+		"icon"		"8c710c32533152db7114f2d854a77044b2265db8"
+		"logo"		"264677b6d8bd08b2557cb15e692d83ed02084be1"
+		"logo_small"		"264677b6d8bd08b2557cb15e692d83ed02084be1_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1386890_eula_0"
+				"name"		"Hyper Dash EULA"
+				"url"		"https://store.steampowered.com//eula/1386890_eula_0"
+				"version"		"9"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"63.720930232558146"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1671790306"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Triangle Factory"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Triangle Factory"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1614276000"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1386890"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5547"
+			"1"		"1663"
+			"2"		"1775"
+			"3"		"3878"
+			"4"		"1774"
+			"5"		"21978"
+			"6"		"1773"
+			"7"		"5055"
+			"8"		"3839"
+			"9"		"7481"
+			"10"		"5711"
+			"11"		"5765"
+			"12"		"19"
+			"13"		"5752"
+			"14"		"4295"
+			"15"		"3859"
+			"16"		"3993"
+			"17"		"4182"
+			"18"		"1734"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Triangle Factory"
+		"publisher"		"Triangle Factory"
+		"homepage"		"https://hyperdashvr.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hyper Dash"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HyperDash.exe"
+				"arguments"		"-vrmode OpenVR"
+				"description"		"Hyper Dash"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"HyperDash.exe"
+				"arguments"		"-vrmode Oculus"
+				"description"		"Hyper Dash"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"HyperDash.exe"
+				"arguments"		"-novr -vrmode None"
+				"description"		"Hyper Dash - Spectator"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1386891"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9060200917657872814"
+					"size"		"4277604007"
+					"download"		"2380414048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"B8DD13D5772791802E80958CEF671B8F"
+					"size"		"65AE922A849A6E617CCD051B6651143A"
+					"download"		"56F5C24C2911BE9BD6A39125B77E05D7"
+				}
+				"public-testing"
+				{
+					"gid"		"C3E318B81825574B4981A05DFE255CA9"
+					"size"		"54A8E330DFB642C8D3B35494B679B09F"
+					"download"		"AB0815A2A8F84669B3BF3D6A2A6448A7"
+				}
+				"release-candidate"
+				{
+					"gid"		"787723B6E19DCDBD7C34341593A20F82"
+					"size"		"11A4D137524D6EAD2083C52F1E443B12"
+					"download"		"4DD8546D7A1347AB2312AAFD465750E4"
+				}
+			}
+		}
+		"1386892"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11803275"
+				"timeupdated"		"1690479461"
+			}
+			"develop"
+			{
+				"buildid"		"12048615"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693219497"
+			}
+			"public-testing"
+			{
+				"buildid"		"7538724"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634287972"
+			}
+			"release-candidate"
+			{
+				"buildid"		"9148122"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658228647"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#statuswithoutscore"		"{#Status_%gamestate%}"
+					"#statuswithoutscorespectator"		"Spectating: {#Status_%gamestate%}"
+					"#statuswithscore"		"{#Status_%gamestate%} - %map% [ %score% ]"
+					"#statuswithscorespectator"		"Spectating: %map% [ %score% ]"
+					"#statusscore"		"%gm% - %map% %score%"
+					"#statusscorespectator"		"Spectating: %gm% - %map% %score%"
+					"#status_mainmenu"		"Main Menu"
+					"#status_multiplayerlobby"		"Lobby"
+					"#status_multiplayermatch"		"Match"
+					"#status_multiplayergameover"		"Game Over"
+					"#status_singleplayer"		"Training"
+				}
+			}
+		}
+	}
+}
