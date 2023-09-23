@@ -1,0 +1,288 @@
+"appinfo"
+{
+	"appid"		"1369320"
+	"common"
+	{
+		"name"		"Virtual Cottage"
+		"type"		"Game"
+		"logo"		"d41233d1c1f52642e1a05ece4c13b1cd0a35c284"
+		"logo_small"		"d41233d1c1f52642e1a05ece4c13b1cd0a35c284_thumb"
+		"icon"		"74a82742492c2c5e456c8eeca2b74aa52694a04f"
+		"clienticon"		"91ec978eef7df1a515b10e2e901f12c3c93e46dc"
+		"clienttga"		"06c941f0080b5de7a4436de328229420ff3c1eed"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658966400"
+			"tested_build_id"		"8032755"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"31.676096121574872"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692172162"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DU&amp;I"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DU&I"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"DU&amp;I"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1602083220"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1369320"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1654"
+			"1"		"97376"
+			"2"		"4726"
+			"3"		"4166"
+			"4"		"552282"
+			"5"		"87"
+			"6"		"597"
+			"7"		"113"
+			"8"		"8013"
+			"9"		"4305"
+			"10"		"615955"
+			"11"		"5851"
+			"12"		"4094"
+			"13"		"6815"
+			"14"		"3871"
+			"15"		"4252"
+			"16"		"4182"
+			"17"		"492"
+			"18"		"13782"
+			"19"		"1621"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"DU&amp;I"
+		"publisher"		"DU&I"
+		"isfreeapp"		"1"
+		"listofdlc"		"2106700"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Virtual Cottage"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Virtual Cottage_WINDOWS.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Virtual Cottage_LINUX.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Virtual Cottage.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1369321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1694679556832396096"
+					"size"		"191692503"
+					"download"		"149301840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"B8195FF5F7AAB12DC4E8891736CA3DFD"
+					"size"		"32B71D5406B674708436416C831A347D"
+					"download"		"36361D63555D7C222D8F2BE13AE04B8B"
+				}
+			}
+		}
+		"1369322"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2521333039649159303"
+					"size"		"199398057"
+					"download"		"151488416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"C72851512BB0B10873F618789254E9ED"
+					"size"		"5D987BBEE5CBFC69D9E75F8487E5506C"
+					"download"		"8CE6323DE5CBA74DDEA34B779FBC266E"
+				}
+			}
+		}
+		"1369323"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4552767626908592308"
+					"size"		"247706099"
+					"download"		"162720848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"30695BA83D47C8633832EE4DC1415412"
+					"size"		"A46F5AE14CE2476F504A8689B8C6DC4D"
+					"download"		"9EFFD9D54DACCC709E169D49E342B59C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10512745"
+				"timeupdated"		"1676110426"
+			}
+			"testing"
+			{
+				"buildid"		"10512745"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675930446"
+			}
+		}
+	}
+}
