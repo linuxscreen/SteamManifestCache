@@ -1,0 +1,117 @@
+"appinfo"
+{
+	"appid"		"2224930"
+	"common"
+	{
+		"name"		"Eyes of Iyre Demo"
+		"type"		"Demo"
+		"parent"		"2204920"
+		"icon"		"390d2e9065874e92d417e3baeb46450ff1516e4a"
+		"clienticon"		"7951d3189e08edd90e309c23d95612405150f8bf"
+		"clienttga"		"b65f8a477ee6f4b7b043d577c76737d02855e4d5"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"63.53558926487747"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668698826"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"D0Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"D0Studios"
+			}
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1668832804"
+		"gameid"		"2224930"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2204920"
+		"developer"		"D0Studios"
+		"publisher"		"D0Studios"
+	}
+	"config"
+	{
+		"installdir"		"Eyes of Iyre Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Eyes_of_Iyur.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Eyes_of_Iyur.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2224931"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6492775848998787165"
+					"size"		"680236880"
+					"download"		"562822272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10020662"
+				"timeupdated"		"1669436433"
+			}
+		}
+	}
+}
