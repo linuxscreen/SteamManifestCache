@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"2339300"
+	"common"
+	{
+		"name"		"派对之星"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"a74e6c7b34db7edeca896b0bbe766800bdc79776"
+		"clienticon"		"9c92ab2ef0b615ec758a387e3c902ee679fe30ca"
+		"icon"		"155e59f677496eb1b7280bc447b89e1f83b60489"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2339300_eula_0"
+				"name"		"派对之星 EULA"
+				"url"		"https://store.steampowered.com//eula/2339300_eula_0"
+				"version"		"2"
+			}
+		}
+		"name_localized"
+		{
+		}
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50.93348891481912"
+				"height_pct"		"56.07931607694135"
+			}
+		}
+		"store_asset_mtime"		"1682492025"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"XD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"XD"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_18"		"1"
+			"category_2"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682475840"
+		"community_hub_visible"		"1"
+		"gameid"		"2339300"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4191"
+			"2"		"4736"
+			"3"		"1775"
+			"4"		"4195"
+			"5"		"7368"
+			"6"		"5379"
+			"7"		"4136"
+			"8"		"47827"
+			"9"		"4777"
+			"10"		"6730"
+			"11"		"1625"
+			"12"		"5055"
+			"13"		"1654"
+			"14"		"7481"
+			"15"		"19"
+			"16"		"3843"
+			"17"		"597"
+			"18"		"4085"
+			"19"		"4562"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"XD"
+		"publisher"		"XD"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"派对之星国服版"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FlashParty.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2339301"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7407596984100661670"
+					"size"		"4199371307"
+					"download"		"3302391792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"cnstaging"
+				{
+					"gid"		"EF41E489A84768177C9FD3C2116B340F"
+					"size"		"7D51FB74BA7DEB556015B93FD488A741"
+					"download"		"FEC3EFAAD7C0480BD022E8A265488D7A"
+				}
+				"devtest"
+				{
+					"gid"		"B7C8DD10C4E48380BFFD7A06CDE8F03A"
+					"size"		"095701976320F432F3BA1704D58C62E8"
+					"download"		"61D6E12DE280FAA8432801C1D09EC443"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11964938"
+				"timeupdated"		"1693184101"
+			}
+			"cnstaging"
+			{
+				"buildid"		"12212872"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695268417"
+			}
+			"devtest"
+			{
+				"buildid"		"12157460"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694421714"
+			}
+		}
+	}
+}
