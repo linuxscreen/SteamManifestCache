@@ -1,0 +1,231 @@
+"appinfo"
+{
+	"appid"		"1595490"
+	"common"
+	{
+		"name"		"Super Raft Boat VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"WindowsNoEditor\\SuperRaftBoatVR\\Config\\SteamVRBindings\\steamvr_manifest.json"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openvrsupport"		"1"
+		"logo"		"825ee261c7b5192a72fed9fb9e1d5ed670f7a37c"
+		"logo_small"		"825ee261c7b5192a72fed9fb9e1d5ed670f7a37c_thumb"
+		"icon"		"a1910d5571b33a806e542c29031424986f2e5aaf"
+		"clienticon"		"61afe32cb1551074775118753caca8fefe5167c2"
+		"clienttga"		"368b78e201a0a9ff3cc484b49fde943a521d76b2"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1646622778"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jordan Gomez"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Shattered Journal Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Super Raft Boat"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628049848"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1595490"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"3959"
+			"2"		"21978"
+			"3"		"13577"
+			"4"		"1759"
+			"5"		"1773"
+			"6"		"1716"
+			"7"		"3839"
+			"8"		"4191"
+			"9"		"19"
+			"10"		"3835"
+			"11"		"597"
+			"12"		"4195"
+			"13"		"5030"
+			"14"		"12472"
+			"15"		"4835"
+			"16"		"7926"
+			"17"		"4182"
+			"18"		"8945"
+			"19"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Jordan Gomez"
+		"publisher"		"Shattered Journal Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Super Raft Boat VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"\\WindowsNoEditor\\SuperRaftBoatVR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"SteamVR"
+				}
+				"description"		"SteamVR"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1595491"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7697634509140085987"
+					"size"		"297810950"
+					"download"		"186374128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatest"
+				{
+					"gid"		"313F4F137F98640D55AD1603CA93989A"
+					"size"		"24F46FC6E75B2F3D5AA43466722EB542"
+					"download"		"C339AF37425AA716E53A590DB935163D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8321693"
+				"timeupdated"		"1646624401"
+			}
+			"betatest"
+			{
+				"buildid"		"8321693"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646550165"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"SuperRaftBoatVR/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
