@@ -1,0 +1,301 @@
+"appinfo"
+{
+	"appid"		"2200650"
+	"common"
+	{
+		"name"		"Bits & Bops Demo"
+		"type"		"Demo"
+		"parent"		"1929290"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"clienticon"		"4096049bfa3d7638e224da373f375bde7ace1a4e"
+		"clienttga"		"0c7513bb2d57a38ec5298bb08e3d8a1f8c6ce682"
+		"icon"		"bf3057953408bd3e6c4655a4b1ea6851f1cfbb78"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1670496019"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tempo Lab Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tempo Lab Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1670259000"
+		"gameid"		"2200650"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1929290"
+		"developer"		"Tempo Lab Games"
+		"publisher"		"Tempo Lab Games"
+		"homepage"		"https://bitsandbopsgame.com"
+	}
+	"config"
+	{
+		"installdir"		"Bits & Bops Demo"
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bits & Bops.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Bits & Bops.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Bits & Bops.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2200651"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6315841838626586826"
+					"size"		"285189534"
+					"download"		"91288336"
+				}
+				"beta"
+				{
+					"gid"		"6315841838626586826"
+					"size"		"285189534"
+					"download"		"91288336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"740EC0DC1F39BC796A2DAC42D12E0AA3"
+					"size"		"2C9B058A98DC1F56FC77C2CFE79B894E"
+					"download"		"C28FA3B77C0EE3A9F83CE2DDED804067"
+				}
+				"builder"
+				{
+					"gid"		"005F0DB89D0717FB336DE18504FF289B"
+					"size"		"FC780CDD59C024BCA6A2ACB5513A1ACE"
+					"download"		"659DFD6CE525455440549324012599D4"
+				}
+			}
+		}
+		"2200652"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3925266789141986162"
+					"size"		"276566509"
+					"download"		"88618672"
+				}
+				"beta"
+				{
+					"gid"		"3925266789141986162"
+					"size"		"276566509"
+					"download"		"88618672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"1A8437E2D758E586304778C454090425"
+					"size"		"2B23AEE900E3E901E068F3F32A452065"
+					"download"		"326C09C145CACA67351166AFE0F3EE86"
+				}
+				"builder"
+				{
+					"gid"		"9D48276C17C2A2632E111F74B34DA6E4"
+					"size"		"5E77A88AA90ACEBF0B01D98E1D1A7A4F"
+					"download"		"7D61E990A99DE684259CB1CECA8B5A27"
+				}
+			}
+		}
+		"2200653"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7421437172321041164"
+					"size"		"306434050"
+					"download"		"97855008"
+				}
+				"beta"
+				{
+					"gid"		"7421437172321041164"
+					"size"		"306434050"
+					"download"		"97855008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"C12AE509258D85C3826D347AD6C3C11E"
+					"size"		"2CDDE3611E6C27C668CC2B0230B95CDD"
+					"download"		"FDD0DE63319D7A9874FC1D880FCF6FD6"
+				}
+				"builder"
+				{
+					"gid"		"F47A2D0A67B5F6DC2BC2E4DB85C956AD"
+					"size"		"C0CBCB62AA62B9E5D619AD3CB7983EE7"
+					"download"		"7D4AD2C2BE3F7D2D85C4BDB727BF1207"
+				}
+			}
+		}
+		"2200654"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6114323184093864933"
+					"size"		"286404004"
+					"download"		"90438016"
+				}
+				"beta"
+				{
+					"gid"		"6114323184093864933"
+					"size"		"286404004"
+					"download"		"90438016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"0E628ABD21354DF649287295134E8338"
+					"size"		"555AF6682978AAD216BBA8EAF0373807"
+					"download"		"D586BED9381765BBF91B390D1EE84F19"
+				}
+				"builder"
+				{
+					"gid"		"4FA056023BBA8777394A72D8866B4C2E"
+					"size"		"4802BCEE5A16B1043512EE10DEFFFD4F"
+					"download"		"9A08848188214638917B8711C37A91F7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12148320"
+				"timeupdated"		"1694749974"
+			}
+			"alpha"
+			{
+				"buildid"		"12148320"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694247657"
+			}
+			"beta"
+			{
+				"buildid"		"12148320"
+				"description"		"Public beta branch"
+				"timeupdated"		"1694746004"
+			}
+			"builder"
+			{
+				"buildid"		"12148320"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694243627"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10240"
+		"maxnumfiles"		"1"
+		"appidredirect"		"1929290"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Tempo Lab Games/Bits _ Bops"
+				"pattern"		"save.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
