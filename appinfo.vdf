@@ -1,0 +1,336 @@
+"appinfo"
+{
+	"appid"		"1314230"
+	"common"
+	{
+		"name"		"Battle Dawn 2: Terra Reborn"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"64901204683177828a151b342f0252eda606f6dd"
+		"logo_small"		"64901204683177828a151b342f0252eda606f6dd_thumb"
+		"icon"		"d222208f3e4edd7a711ab608bb516da7bedf852f"
+		"clienttga"		"4b1bbe74021a3041a04e533d832ca3f7b38ad1e0"
+		"clienticon"		"40d5c31583bfc821f58c97a05243e499cf031d63"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1314230_eula_0"
+				"name"		"Battle Dawn 2: Terra Reborn EULA"
+				"url"		"https://store.steampowered.com//eula/1314230_eula_0"
+				"version"		"2"
+			}
+			"1"
+			{
+				"id"		"1314230_eula_1"
+				"name"		"Battle Dawn 2: Terra Reborn EULA"
+				"url"		"https://store.steampowered.com//eula/1314230_eula_1"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1690329600"
+			"tested_build_id"		"9882173"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.893493896589717"
+				"height_pct"		"76.29653816723398"
+			}
+		}
+		"store_asset_mtime"		"1663486205"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Zero Games Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gato Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1666022483"
+		"community_hub_visible"		"1"
+		"gameid"		"1314230"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"128"
+			"2"		"5711"
+			"3"		"4684"
+			"4"		"6310"
+			"5"		"1676"
+			"6"		"1775"
+			"7"		"7332"
+			"8"		"4791"
+			"9"		"4191"
+			"10"		"4295"
+			"11"		"4168"
+			"12"		"3916"
+			"13"		"3835"
+			"14"		"17770"
+			"15"		"3942"
+			"16"		"1708"
+			"17"		"1678"
+			"18"		"3813"
+			"19"		"4747"
+		}
+		"review_score"		"5"
+		"review_percentage"		"47"
+	}
+	"extended"
+	{
+		"developer"		"Zero Games Studios"
+		"publisher"		"Gato Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Battle Dawn 2 Terra Reborn"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Battle Dawn 2 Terra Reborn.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1314231"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9156076146868844462"
+					"size"		"1275463868"
+					"download"		"508137696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"32macos"
+				{
+					"gid"		"9C7EE8AA5C96317B15A3B1BFCD69764C"
+					"size"		"5B87D673AA53934E46312E40D10DE9D1"
+					"download"		"1D2B9A55B6E4BD9FDA5AF1984FDD28C0"
+				}
+				"beta"
+				{
+					"gid"		"E7DF81098D0925C26BB05AEB3BF6E865"
+					"size"		"5B795925A26D58BAD8F665570E35093B"
+					"download"		"FB39727E568D5F1DD9BFF5CDE90420CA"
+				}
+				"new-release-client"
+				{
+					"gid"		"A72691FDC3F66B9A458AEF54289C5C98"
+					"size"		"122A8B6922BAC3795795A70DFE991F23"
+					"download"		"9E3DF64BE4A82A9E639266BE796A189D"
+				}
+				"preprod"
+				{
+					"gid"		"B873695A70D1EB3D5CEECE25D0ABB763"
+					"size"		"1AF8A2C1E92E2EB2BDDA296542B4AB04"
+					"download"		"4D28FF0EE935BDBBFC30118CF92F64BE"
+				}
+			}
+		}
+		"1314232"
+		{
+			"config"
+			{
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7001286466204982652"
+					"size"		"1268267180"
+					"download"		"506075472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"32macos"
+				{
+					"gid"		"CEB094C66E3184F6958235240129CA4B"
+					"size"		"6D9B1186E555F31C37DB65EBDDB4E193"
+					"download"		"515E688BFF1821AC792BB7CAB7203B31"
+				}
+				"beta"
+				{
+					"gid"		"6286F5A7A8452E44A959A8723F31A3AE"
+					"size"		"E9B9E22066B3FCBDF40CE500637AC380"
+					"download"		"F649EBD7B39379836FBD851387146FC9"
+				}
+				"new-release-client"
+				{
+					"gid"		"B210B8173F4558691739F869A7F75663"
+					"size"		"8B8A1111C618ECDB8915D9294D770BC7"
+					"download"		"2FB680FF7D30EDB8E55094BF19709ABF"
+				}
+			}
+		}
+		"1314233"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"32macos"
+				{
+					"gid"		"CF5FC3A5161C26BC323312F7C1BD662D"
+					"size"		"29CF8E1C7538A0A1B6CBFF92F904C691"
+					"download"		"2CA46890D0D5533522859C5F56835A47"
+				}
+				"beta"
+				{
+					"gid"		"9A86070C003F34E3B3F8DDB33062F156"
+					"size"		"A2C0BBD62F15EFBCE49944EE4ACAD4D3"
+					"download"		"96E39A330D57AE4AA633BB46511219D4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9882173"
+				"timeupdated"		"1667797880"
+			}
+			"32macos"
+			{
+				"buildid"		"9585672"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664071493"
+			}
+			"beta"
+			{
+				"buildid"		"9585418"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664062855"
+			}
+			"new-release-client"
+			{
+				"buildid"		"9882173"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667797661"
+			}
+			"preprod"
+			{
+				"buildid"		"9513125"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663186628"
+			}
+		}
+	}
+}
