@@ -1,0 +1,272 @@
+"appinfo"
+{
+	"appid"		"1794250"
+	"common"
+	{
+		"name"		"After Dark VR"
+		"type"		"Game"
+		"logo"		"01e0ae42e61e544c6673b6bc33b0f910dce5581b"
+		"logo_small"		"01e0ae42e61e544c6673b6bc33b0f910dce5581b_thumb"
+		"icon"		"69a0623611f48f83188f80916c7601ac31f5226c"
+		"clienttga"		"d06ff0b5d669ac56174ce7c6b07404fb88bb8503"
+		"clienticon"		"f63f268b6547f4f4e27b64a4b831767594d935af"
+		"openxrsupport"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+		}
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1669852800"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"84.2365123257429"
+				"height_pct"		"67.84615328004372"
+			}
+		}
+		"store_asset_mtime"		"1647970188"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nexxverse Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nexxverse Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1642781160"
+		"community_hub_visible"		"1"
+		"gameid"		"1794250"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21978"
+			"2"		"1667"
+			"3"		"1662"
+			"4"		"4342"
+			"5"		"3859"
+			"6"		"3843"
+			"7"		"4106"
+			"8"		"7368"
+			"9"		"4182"
+			"10"		"1687"
+			"11"		"1685"
+			"12"		"1775"
+			"13"		"21"
+			"14"		"3841"
+			"15"		"1721"
+			"16"		"3978"
+			"17"		"4064"
+			"18"		"5228"
+			"19"		"3934"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Nexxverse Games"
+		"publisher"		"Nexxverse Games"
+		"homepage"		"https://www.nexxversegames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"After Dark VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor\\AfterDark.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"using SteamVR"
+				}
+				"description"		"using SteamVR"
+			}
+			"1"
+			{
+				"executable"		"WindowsNoEditor\\AfterDark.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"using Oculus VR"
+				}
+				"description"		"using Oculus VR"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1794251"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"316563303809478000"
+					"size"		"16303030502"
+					"download"		"7349357232"
+				}
+				"beta"
+				{
+					"gid"		"316563303809478000"
+					"size"		"16303030502"
+					"download"		"7349357232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"53E55C40210D8BBBC5985C9F38544570"
+					"size"		"48992734BC9811ED1B98766021D6E127"
+					"download"		"1DEAEF6C712A8DDEBAD8FC13B5CABD28"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8369076"
+				"timeupdated"		"1647287673"
+			}
+			"beta"
+			{
+				"buildid"		"8369076"
+				"description"		"Beta channel for supporting development (UNSTABLE)"
+				"timeupdated"		"1647284491"
+			}
+			"development"
+			{
+				"buildid"		"8369076"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647284478"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
