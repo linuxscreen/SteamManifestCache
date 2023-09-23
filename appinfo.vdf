@@ -1,0 +1,103 @@
+"appinfo"
+{
+	"appid"		"2359050"
+	"common"
+	{
+		"name"		"Hunt Demo"
+		"type"		"Demo"
+		"parent"		"2332190"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"947a71d082b5c8b98113de1a19083a6b4b968c45"
+		"clienticon"		"1d25059836a557bdebafc81abb65a5fb51850334"
+		"clienttga"		"78f2ef579a405d5e5037fa37cac129cae4227b0c"
+		"openxrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1678817302"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tianlin Zhang"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tianlin Game Studio LLC"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1679026961"
+		"gameid"		"2359050"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2332190"
+		"developer"		"Tianlin Zhang"
+		"publisher"		"Tianlin Game Studio LLC"
+		"gamemanualurl"		"https://store.steampowered.com/manual/2359050/"
+	}
+	"config"
+	{
+		"installdir"		"Hunt Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hunt.exe"
+				"type"		"openxr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2359051"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"601501672300544150"
+					"size"		"1035309913"
+					"download"		"423474704"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10768120"
+				"timeupdated"		"1678830617"
+			}
+		}
+	}
+}
