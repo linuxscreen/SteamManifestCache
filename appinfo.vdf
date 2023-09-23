@@ -1,0 +1,103 @@
+"appinfo"
+{
+	"appid"		"2239970"
+	"common"
+	{
+		"name"		"Centauri's Favourite Archer {Demo}"
+		"type"		"Demo"
+		"parent"		"2239960"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"6578427f5301c230c6be6edb90df109eb3a9572b"
+		"clienticon"		"856fb88c6c6f6566e8a13936810da75e76da9e1a"
+		"clienttga"		"deff58514ddf71624201dbf0567189f62e9780dd"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1670102466"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CherryCo.Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CherryCo.Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"The Albino Hunter™"
+			}
+		}
+		"steam_release_date"		"1670355760"
+		"gameid"		"2239970"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2239960"
+		"developer"		"CherryCo.Studios"
+		"publisher"		"CherryCo.Studios"
+	}
+	"config"
+	{
+		"installdir"		"Centauri's Favourite Archer Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--disable-direct-composition --in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Default launch option"
+				}
+				"description"		"Default launch option"
+			}
+		}
+	}
+	"depots"
+	{
+		"2239971"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6283555901744052027"
+					"size"		"460959371"
+					"download"		"306401984"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11553570"
+				"timeupdated"		"1687674484"
+			}
+		}
+	}
+}
