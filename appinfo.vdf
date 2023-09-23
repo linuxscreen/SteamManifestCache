@@ -1,0 +1,160 @@
+"appinfo"
+{
+	"appid"		"1333060"
+	"common"
+	{
+		"name"		"Griftlands Demo"
+		"type"		"Demo"
+		"parent"		"601840"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"47254ec42b3cf13fbefc0841f1ee5fb363701e5b"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"icon"		"db635b881c25e62a67a324e66a22fde7054717c0"
+		"name_localized"
+		{
+			"schinese"		"欺诈之地试玩"
+			"tchinese"		"欺詐之地試玩"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"95.28735632183907"
+				"height_pct"		"79.28889931940856"
+			}
+		}
+		"store_asset_mtime"		"1623292293"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Klei Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Klei Entertainment"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592151939"
+		"gameid"		"1333060"
+	}
+	"extended"
+	{
+		"demoofappid"		"601840"
+		"developer"		"Klei Entertainment"
+		"publisher"		"Klei Entertainment"
+		"homepage"		"http://www.griftlands.com"
+	}
+	"config"
+	{
+		"installdir"		"Griftlands Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin/Griftlands.exe"
+				"workingdir"		"bin"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1333061"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7608772545187771844"
+					"size"		"4449141519"
+					"download"		"4347625472"
+				}
+				"demo"
+				{
+					"gid"		"7608772545187771844"
+					"size"		"4449141519"
+					"download"		"4347625472"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7275684"
+				"timeupdated"		"1630369136"
+			}
+			"demo"
+			{
+				"buildid"		"7275684"
+				"timeupdated"		"1630363908"
+			}
+		}
+	}
+}
