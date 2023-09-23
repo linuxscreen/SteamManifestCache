@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"2403850"
+	"common"
+	{
+		"name"		"Calcium Chaos: Derailed Demo"
+		"type"		"Demo"
+		"parent"		"1951650"
+		"icon"		"ff611121ba2649412400ffbf8b97663f72535db8"
+		"clienticon"		"9aef43c77389ff7a569668ebd1a35d5fc21b35e8"
+		"clienttga"		"f4c3a090115d92ba6bbe13adeea35bc4ab16aff0"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"56.184364060676785"
+				"height_pct"		"58.35905960579434"
+			}
+		}
+		"store_asset_mtime"		"1682108169"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lunch Money Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spelkollektivet"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1682098205"
+		"gameid"		"2403850"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1951650"
+		"developer"		"Lunch Money Games"
+		"publisher"		"Spelkollektivet"
+	}
+	"config"
+	{
+		"installdir"		"Calcium Chaos Derailed Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Calcium Chaos Derailed.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CalciumChaosDerailed.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Calcium Chaos Derailed.exe"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2403851"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"772800016353538790"
+					"size"		"8975403636"
+					"download"		"269415648"
+				}
+			}
+		}
+		"2403852"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"54334748400440339"
+					"size"		"540082630"
+					"download"		"335649856"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11501192"
+				"timeupdated"		"1687122408"
+			}
+		}
+	}
+}
