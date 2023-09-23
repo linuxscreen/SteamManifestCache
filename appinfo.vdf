@@ -1,0 +1,257 @@
+"appinfo"
+{
+	"appid"		"476540"
+	"common"
+	{
+		"name"		"Google Spotlight Stories: Pearl"
+		"type"		"Game"
+		"oslist"		"windows"
+		"controllervr"
+		{
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"476540_eula_0"
+				"name"		"Spotlight Stories: Pearl EULA"
+				"url"		"http://store.steampowered.com//eula/476540_eula_0"
+			}
+		}
+		"openvrsupport"		"1"
+		"logo"		"28a4da7decad3514ab1fd80750ad8fa811bcf8f6"
+		"logo_small"		"28a4da7decad3514ab1fd80750ad8fa811bcf8f6_thumb"
+		"icon"		"98717953d20c54c75cd45e3dbb524b49c25f7a04"
+		"clienticon"		"0db6ea5ff533afb2af42d0d3b9aac33b5d74ff66"
+		"clienttga"		"ae01ad111fe286238b0bdbffd4635a7b6928c134"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1678838400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Spotlight Stories: Pearl"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1465489393"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Google Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Google Inc."
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1508453691"
+		"community_hub_visible"		"1"
+		"gameid"		"476540"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21"
+			"2"		"21978"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Google Inc."
+		"publisher"		"Google Inc."
+		"homepage"		"https://atap.google.com/spotlight-stories/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Google Spotlight Stories - Pearl"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"win32/storyplayer.exe"
+				"arguments"		"-package pearl_vrcam -NOfullscreen -res 1280 720 -msaa 2 -ssaa 1.0"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"win64/storyplayer.exe"
+				"arguments"		"-package pearl_vrcam -NOfullscreen -res 1280 720 -msaa 2 -ssaa 1.0"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"476541"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8981992635726712298"
+					"size"		"69196665"
+					"download"		"11072816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"76C585B402FBE513BD8FF6A3C15E76A7"
+					"size"		"0C20FA0C1FC038319C4CC6F3F7BAFE0A"
+					"download"		"46298F3E822EC8C3C5B5A2136B9CD866"
+				}
+			}
+		}
+		"476542"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7025063224431251032"
+					"size"		"2082808785"
+					"download"		"277427872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"418723D85FBEE7AB8188D7B3993A9F9D"
+					"size"		"4AE42C10B1C0D7C881780DADAFD4A4DD"
+					"download"		"A83C8EBEA8FE8C1F1C200454CD8BCEB4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1340090"
+				"timeupdated"		"1474136362"
+			}
+			"beta"
+			{
+				"buildid"		"2104781"
+				"pwdrequired"		"1"
+				"timeupdated"		"1504915087"
+			}
+		}
+	}
+}
