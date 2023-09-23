@@ -1,0 +1,260 @@
+"appinfo"
+{
+	"appid"		"1328490"
+	"common"
+	{
+		"name"		"Rico-Jump"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"a41229b40ece51c82a787b166044d6f3d41c176d"
+		"logo_small"		"a41229b40ece51c82a787b166044d6f3d41c176d_thumb"
+		"icon"		"2c71c5049c24b1cfcd9d20ca7b84a4bd901be312"
+		"clienticon"		"10d18115dc36dc71afe91123d6690a95ecc239a9"
+		"clienttga"		"4deb1884dd7a8bf5b92c2c13ca9119763846c240"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.46587609562833"
+				"height_pct"		"74.69722156257421"
+			}
+		}
+		"store_asset_mtime"		"1612547083"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Christopher Juerges"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Christopher Juerges"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"18"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_15"		"1"
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1611482208"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1328490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"19"
+			"3"		"597"
+			"4"		"701"
+			"5"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Christopher Juerges"
+		"publisher"		"Christopher Juerges"
+		"isfreeapp"		"1"
+		"listofdlc"		"1519960,1522240"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Rico-Ball"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Voelkerball.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1328490"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1328491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6650992591956696210"
+					"size"		"517722650"
+					"download"		"408414224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"2661C5619B25BE2D0A7C8DF2B6E77C09"
+					"size"		"91B36B16FD53A35F0D82CAFEE9051362"
+					"download"		"B1EFD3F896302F8A001964D068E85217"
+				}
+			}
+		}
+		"1519960"
+		{
+			"dlcappid"		"1519960"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"542268452009098309"
+					"size"		"233"
+					"download"		"240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"22B21F94F03D9E28327AC5B21A1E8BA5"
+					"size"		"7F343D4868769EB56A9142CD3A47243B"
+					"download"		"FF240AB24E4E23C83B2ACCEEE40A8FF8"
+				}
+			}
+		}
+		"1522240"
+		{
+			"dlcappid"		"1522240"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4126185320110568330"
+					"size"		"233"
+					"download"		"240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"C427757E53F517C22FA5C1A45E7D2597"
+					"size"		"7F343D4868769EB56A9142CD3A47243B"
+					"download"		"FF240AB24E4E23C83B2ACCEEE40A8FF8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11131188"
+				"timeupdated"		"1682961131"
+			}
+			"test"
+			{
+				"buildid"		"11131188"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682960829"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Voelkerball/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
