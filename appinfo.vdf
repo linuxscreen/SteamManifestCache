@@ -1,0 +1,311 @@
+"appinfo"
+{
+	"appid"		"2175780"
+	"common"
+	{
+		"name"		"Dominance"
+		"type"		"Game"
+		"icon"		"def4599ddaa0ab8de3b8bd30c1010222dffe8488"
+		"clienttga"		"087bb7fd381ce2981e0fefdb1102ed2a38533add"
+		"clienticon"		"3203f9cb4301ca1764c5bfcba10b50b34f0f0fb8"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1680220800"
+			"tested_build_id"		"10424150"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en,ru"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.60543014470647"
+				"height_pct"		"22.400242788398558"
+			}
+		}
+		"store_asset_mtime"		"1679494056"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"INPLERON LTD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"INPLERON LTD"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1673529198"
+		"community_hub_visible"		"1"
+		"gameid"		"2175780"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"113"
+			"2"		"176981"
+			"3"		"1774"
+			"4"		"3843"
+			"5"		"19"
+			"6"		"620519"
+			"7"		"4155"
+			"8"		"5711"
+			"9"		"3878"
+			"10"		"1708"
+			"11"		"1775"
+			"12"		"1662"
+			"13"		"4747"
+			"14"		"4791"
+			"15"		"4758"
+			"16"		"4885"
+			"17"		"3942"
+			"18"		"3835"
+			"19"		"4598"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"INPLERON LTD"
+		"publisher"		"INPLERON LTD"
+		"homepage"		"https://dominance.gg"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dominance"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dominance.exe"
+				"arguments"		" -crashreports "
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2175781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7107324512152446009"
+					"size"		"21296474105"
+					"download"		"5959974384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"D3A517505A87FA2306B4445D68CF33EB"
+					"size"		"37BBCDAD08189F80C53B2B9B3C16D72A"
+					"download"		"E9EFB8EEE741E54232EECBA7B67BF885"
+				}
+				"release-candidate"
+				{
+					"gid"		"A511586045E67DF0CA661B33962C4B97"
+					"size"		"E9F7EECD53D8C1E47FACE05221A0B7A7"
+					"download"		"E43D74BC569743F0322CA7699D3425CA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11763994"
+				"timeupdated"		"1690024995"
+			}
+			"development"
+			{
+				"buildid"		"12253277"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695373902"
+			}
+			"release-candidate"
+			{
+				"buildid"		"12243902"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695281603"
+			}
+		}
+	}
+}
