@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"2466680"
+	"common"
+	{
+		"name"		"Kebab Simulator: Prologue"
+		"type"		"Game"
+		"clienttga"		"5fc4ce64106937fa3049b784b4479e35bdcfe817"
+		"icon"		"d065b93582a581d08baaf7a0486cd2858e20c503"
+		"linuxclienticon"		"953b242716d9738ab2868095edbaedd87b4ec940"
+		"clienticon"		"953b242716d9738ab2868095edbaedd87b4ec940"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1690934400"
+			"tested_build_id"		"11751505"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.16795143783631"
+				"height_pct"		"85.28938015660837"
+			}
+		}
+		"store_asset_mtime"		"1689524213"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Biotech Gameworks"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Biotech Gameworks"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Biotech Gameworks"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1689621316"
+		"community_hub_visible"		"1"
+		"gameid"		"2466680"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"122"
+			"2"		"599"
+			"3"		"3810"
+			"4"		"10235"
+			"5"		"10695"
+			"6"		"1663"
+			"7"		"9204"
+			"8"		"16689"
+			"9"		"4191"
+			"10"		"3839"
+			"11"		"4175"
+			"12"		"5350"
+			"13"		"3920"
+			"14"		"1643"
+			"15"		"4136"
+			"16"		"5673"
+			"17"		"1654"
+			"18"		"12472"
+			"19"		"1702"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Biotech Gameworks"
+		"publisher"		"Biotech Gameworks"
+		"homepage"		"https://biotechgameworks.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Kebab Simulator Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Kebab Simulator.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2466681"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2037297105736610590"
+					"size"		"5018430275"
+					"download"		"1406974864"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12200354"
+				"timeupdated"		"1694791656"
+			}
+		}
+	}
+}
