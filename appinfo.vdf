@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"1364040"
+	"common"
+	{
+		"name"		"Escape Dungeon Demo"
+		"type"		"Demo"
+		"parent"		"1259740"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"tchinese"		"莎莉絲．地牢脫出 試玩版 Escape Dungeon Demo"
+			"schinese"		"莎莉丝．地牢脱出 试玩版 Escape Dungeon Demo"
+			"japanese"		"シャリス ～地下牢から脱出～ Demo"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"3382d4d966035fbf84a5fc027209b88afd1147aa"
+		"clienticns"		"fbb0a93d644bc727475d6ad04e97653d83a69c9e"
+		"clienticon"		"7f1fc675ae8c81ba108860a88ff516f6b554660d"
+		"icon"		"2747fd2b81c41ff98090273322112d4bc3ea0c8a"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"90.23255813953489"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1600821676"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hide Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hide Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1602745200"
+		"steam_release_date"		"1602506788"
+		"gameid"		"1364040"
+	}
+	"extended"
+	{
+		"demoofappid"		"1259740"
+		"developer"		"Hide Games"
+		"publisher"		"Hide Games"
+		"homepage"		"https://www.facebook.com/ShalithEscapeDungeon"
+	}
+	"config"
+	{
+		"installdir"		"EscapeDungeonDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EscapeDungeon.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"EscapeDungeon.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"hasdepotsindlc"		"0"
+		"1364042"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3478927116176146518"
+					"size"		"566021416"
+					"download"		"166607424"
+				}
+			}
+		}
+		"1364041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8300955925760404778"
+					"size"		"557325341"
+					"download"		"163429408"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5958304"
+				"timeupdated"		"1607744268"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"100"
+	}
+}
