@@ -1,0 +1,137 @@
+"appinfo"
+{
+	"appid"		"1940990"
+	"common"
+	{
+		"name"		"Ironsight Test Server"
+		"type"		"Beta"
+		"parent"		"783770"
+		"releasestate"		"released"
+		"clienttga"		"fdbfbfab3a8f9bb1a33afdcf686a0a6c75dd6729"
+		"clienticon"		"cf4364aa4674baf07fb24321ade4f2aaaa4f0955"
+		"icon"		"7b72cbd5d3725688ae8dc3f9b5d99729384ff7cf"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1940990_eula_0"
+				"name"		"Ironsight Playtest EULA"
+				"url"		"https://store.steampowered.com//eula/1940990_eula_0"
+				"version"		"1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.093023255813954"
+				"height_pct"		"32.52196627879363"
+			}
+		}
+		"store_asset_mtime"		"1647580421"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1647765498"
+		"community_hub_visible"		"1"
+		"gameid"		"1940990"
+		"exfgls"		"1"
+		"review_score"		"5"
+		"review_percentage"		"61"
+	}
+	"extended"
+	{
+		"betaforappid"		"783770"
+		"playtest_type"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Ironsight_testserver"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher.exe"
+				"arguments"		"ip=ironsight-staging.koreacentral.cloudapp.azure.com port=28000 use_steam=1 staging"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Test Server"
+				}
+				"description"		"Test Server"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertemplateindex"		"13"
+		"steamconfigurator3rdpartynative"		"4"
+		"steaminputmanifestpath"		"steam_input_manifest.vdf"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1940991"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"183027622545710472"
+					"size"		"9869898294"
+					"download"		"9611126816"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12234402"
+				"timeupdated"		"1695201250"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+	}
+}
