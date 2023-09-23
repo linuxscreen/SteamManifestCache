@@ -1,0 +1,166 @@
+"appinfo"
+{
+	"appid"		"2411330"
+	"common"
+	{
+		"name"		"Virvius Demo"
+		"type"		"Demo"
+		"parent"		"2335370"
+		"icon"		"6d1b783affd1ddaf69babf9cbd69f544b86baaab"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2411330_eula_0"
+				"name"		"Virvius Demo EULA"
+				"url"		"https://store.steampowered.com//eula/2411330_eula_0"
+				"version"		"1"
+			}
+		}
+		"clienttga"		"a4e5f61ce9893b337c1bc20719d1e130f2a250c0"
+		"clienticon"		"f0bca3809c2d85a1b1815bf120d23b09340b3b9a"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"89.96499416569426"
+				"height_pct"		"76.97696509142723"
+			}
+		}
+		"store_asset_mtime"		"1682562035"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Myke Wills"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Enfenyx Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1682654002"
+		"gameid"		"2411330"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Myke Wills"
+		"publisher"		"Enfenyx Games"
+		"homepage"		"https://www.enfenyx.net/virviusgame"
+	}
+	"config"
+	{
+		"installdir"		"Virvius Demo"
+		"steamdecktouchscreen"		"5"
+		"steamconfigurator3rdpartynative"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Virvius.exe"
+				"type"		"default"
+				"config"
+				{
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2411331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7660520477411190480"
+					"size"		"2509834398"
+					"download"		"2251166240"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12209255"
+				"timeupdated"		"1694941827"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000"
+		"maxnumfiles"		"20"
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocalLow"
+				"addpath"		"EnfenyxGames/Virvius"
+			}
+		}
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"_Data"
+				"pattern"		"*"
+			}
+		}
+	}
+}
