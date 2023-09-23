@@ -1,0 +1,229 @@
+"appinfo"
+{
+	"appid"		"1814630"
+	"common"
+	{
+		"name"		"FarmD"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"FarmD_Data/StreamingAssets/SteamVR/actions.json"
+		"logo"		"621ae5aabf09af8e2e66e64bd58d62f2abe640ff"
+		"logo_small"		"621ae5aabf09af8e2e66e64bd58d62f2abe640ff_thumb"
+		"icon"		"c1c12f7bfbba479dedc4fe1689374be8b5a06f70"
+		"clienticon"		"05b04b5187bc3bd3b030436093cd190a89c220a2"
+		"clienttga"		"9679471896b27effaf963a786f2656fdba8de010"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.393400806353384"
+				"height_pct"		"49.510164116995256"
+			}
+		}
+		"store_asset_mtime"		"1684691196"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Softscale"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Softscale"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1638538408"
+		"community_hub_visible"		"1"
+		"gameid"		"1814630"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"24904"
+			"2"		"6650"
+			"3"		"21978"
+			"4"		"4046"
+			"5"		"44868"
+			"6"		"3810"
+			"7"		"599"
+			"8"		"4191"
+			"9"		"4747"
+			"10"		"597"
+			"11"		"4182"
+			"12"		"1695"
+			"13"		"3839"
+			"14"		"9204"
+			"15"		"3968"
+			"16"		"1654"
+			"17"		"3834"
+			"18"		"1697"
+			"19"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Softscale"
+		"publisher"		"Softscale"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FarmD"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FarmD.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"FarmD.exe"
+				"arguments"		"-launchvr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1814631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7771019251890184373"
+					"size"		"2210928313"
+					"download"		"1236895648"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11273381"
+				"timeupdated"		"1684513614"
+			}
+		}
+	}
+}
