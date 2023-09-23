@@ -1,0 +1,648 @@
+"appinfo"
+{
+	"appid"		"384180"
+	"common"
+	{
+		"name"		"Prominence Poker"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"clienttga"		"27d6c317e58cefa0cb9eaaf3bc363326abd5d16e"
+		"clienticon"		"488827484eb3d86e1a07cd88692e77800d3be31c"
+		"icon"		"1f68148cc81b74c408784bd7f6499804c1e4d4ef"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+		}
+		"logo"		"504061e0a2a8fdad30179ceeb02cfee3049665e6"
+		"logo_small"		"504061e0a2a8fdad30179ceeb02cfee3049665e6_thumb"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1660867200"
+			"tested_build_id"		"8846426"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-7.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"30"
+				"height_pct"		"38"
+			}
+		}
+		"store_asset_mtime"		"1689862054"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pipeworks Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jagex Ltd"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"29"
+			"2"		"28"
+			"3"		"2"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1481589306"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"384180"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1666"
+			"1"		"113"
+			"2"		"3859"
+			"3"		"16250"
+			"4"		"9"
+			"5"		"599"
+			"6"		"128"
+			"7"		"4166"
+			"8"		"597"
+			"9"		"4747"
+			"10"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Pipeworks Studios"
+		"publisher"		"Jagex Ltd"
+		"homepage"		"https://www.pipeworks.com/poker/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Prominence Poker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Prominence\\Binaries\\Win64\\Prominence-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Debug\\Prominence\\Binaries\\Win64\\Prominence.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"development"
+				}
+				"description_loc"
+				{
+					"english"		"Debug (dev)"
+				}
+				"description"		"Debug (dev)"
+			}
+			"2"
+			{
+				"executable"		"Debug\\Prominence\\Binaries\\Win64\\Prominence.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"testing"
+				}
+				"description_loc"
+				{
+					"english"		"Debug (testing)"
+				}
+				"description"		"Debug (testing)"
+			}
+			"3"
+			{
+				"executable"		"Debug\\Prominence\\Binaries\\Win64\\Prominence.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"release"
+				}
+				"description_loc"
+				{
+					"english"		"Debug (release)"
+				}
+				"description"		"Debug (release)"
+			}
+			"4"
+			{
+				"executable"		"Debug\\Prominence\\Binaries\\Win64\\Prominence.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"locqa"
+				}
+				"description_loc"
+				{
+					"english"		"Debug (locqa)"
+				}
+				"description"		"Debug (locqa)"
+			}
+			"5"
+			{
+				"executable"		"Debug\\Prominence\\Binaries\\Win64\\Prominence.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"feature"
+				}
+				"description_loc"
+				{
+					"english"		"Debug (feature)"
+				}
+				"description"		"Debug (feature)"
+			}
+			"6"
+			{
+				"executable"		"Debug\\Prominence\\Binaries\\Win64\\Prominence.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"stage"
+				}
+				"description_loc"
+				{
+					"english"		"Debug (stage)"
+				}
+				"description"		"Debug (stage)"
+			}
+			"7"
+			{
+				"executable"		"Debug\\Prominence\\Binaries\\Win64\\Prominence.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"testing_fallback"
+				}
+				"description_loc"
+				{
+					"english"		"Debug (testing_fallback)"
+				}
+				"description"		"Debug (testing_fallback)"
+			}
+			"8"
+			{
+				"executable"		"Debug\\Prominence\\Binaries\\Win64\\Prominence.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"stage_fallback"
+				}
+				"description_loc"
+				{
+					"english"		"Debug (stage_fallback)"
+				}
+				"description"		"Debug (stage_fallback)"
+			}
+			"9"
+			{
+				"executable"		"Debug\\Prominence\\Binaries\\Win64\\Prominence.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"river"
+				}
+				"description_loc"
+				{
+					"english"		"Debug (river)"
+				}
+				"description"		"Debug (river)"
+			}
+			"10"
+			{
+				"executable"		"Debug\\Prominence\\Binaries\\Win64\\Prominence.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"river_testing"
+				}
+				"description_loc"
+				{
+					"english"		"Debug (river_testing)"
+				}
+				"description"		"Debug (river_testing)"
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,spanish"
+		"384181"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5436169867398620879"
+					"size"		"15869697274"
+					"download"		"5738925008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"7FD2C57E7092DE14FD637F379995B0D5"
+					"size"		"A608ADCD02195A531AAFB39D9D295978"
+					"download"		"192567B3A6D42E2317DE47E82F9CEF00"
+				}
+				"feature"
+				{
+					"gid"		"8AFC50A85C6142C926E1BB7649448D18"
+					"size"		"DCFE064A072625AA2BE0E83FF617F5B5"
+					"download"		"077560A9BA7D6C0F8964C149FC721127"
+				}
+				"locqa"
+				{
+					"gid"		"93123FBF18B69377EB8BA2165B9B15A1"
+					"size"		"CAEA1C65F71F6A8A7C75381B880E1B21"
+					"download"		"AF02B3128877CD9B9A9CCB6F9F1310DA"
+				}
+				"release"
+				{
+					"gid"		"82E1120C3691FB13ABAD90662AC04D9C"
+					"size"		"662393FB7ADCCE1E57E62C56053A2C1D"
+					"download"		"60131A6A5A1A7CDFB87F1E98D6D7E18E"
+				}
+				"river"
+				{
+					"gid"		"D2CF4913BD5D6C6B9B04842F22938C3B"
+					"size"		"6045803D7976AAB7B2D5CA9C2B191926"
+					"download"		"7951624F2B5E4FE3D64047F6F0CFC410"
+				}
+				"river_testing"
+				{
+					"gid"		"92D7FBF6676C76304C41D1729B008C59"
+					"size"		"D556DAE13DB802981093AA09681C8E52"
+					"download"		"EA280297E0B091F73183B9D95CD60213"
+				}
+				"stage"
+				{
+					"gid"		"568F29BB9F5872D5D76F72DC984A9338"
+					"size"		"67E4B500D7B32488745049D171ADB428"
+					"download"		"6A456457AEB04183DBDC2F90FF7381C4"
+				}
+				"stage_fallback"
+				{
+					"gid"		"938F35E87BED81A508F846995ECF5CBA"
+					"size"		"023B93F616A8618E9AA7A774F8267941"
+					"download"		"C11F4D68D2E59C8265A0C7D318613FBC"
+				}
+				"testing"
+				{
+					"gid"		"786BE5224C995CF200CD8EDF76B22F2B"
+					"size"		"BDC9722BD58337A07E4A0E993E77A78B"
+					"download"		"0CD03F44ED65997477A654AA1FAFB38B"
+				}
+				"testing_fallback"
+				{
+					"gid"		"4AC5192A19044EB81670D5F0DDA2A723"
+					"size"		"4FEE1836F5244585842FEB77C5786358"
+					"download"		"92413B46B64C29A03FE936C2AA52788B"
+				}
+			}
+		}
+		"384182"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6419264019379425617"
+					"size"		"15962559491"
+					"download"		"5760662688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"6C814559E272AA727CD8DCC76055BE91"
+					"size"		"A6D0E4D251C5AEA03A2030C87F038FD4"
+					"download"		"C3FF17CAC401701730AF8721CB1B2F2B"
+				}
+				"feature"
+				{
+					"gid"		"EDFEC8831066BD1C97C977C3CAA50981"
+					"size"		"D24D306F6D90C998262FD12EA8EDEB1B"
+					"download"		"07877767BCE63C14D2FE25559226997F"
+				}
+				"locqa"
+				{
+					"gid"		"A2E00AD5E3BD6932E005BAE328DE3055"
+					"size"		"7EB833546DAE986F39FFCACA92754F7F"
+					"download"		"0AE44590240EFCC1EF05F5AEDC601061"
+				}
+				"release"
+				{
+					"gid"		"7080DA1C7780460D180892ACE8ACB72F"
+					"size"		"6CA98C0E8BD0B5B942E1687789D7C93B"
+					"download"		"7EC4E55315D16D2C4F92649F158DACFA"
+				}
+				"river"
+				{
+					"gid"		"32B66D526DB47861C5110DD245A71302"
+					"size"		"F7FE8D299218DB2D695701D2D0B964AF"
+					"download"		"041F76631008838E97F3F7C91AA34FE4"
+				}
+				"river_testing"
+				{
+					"gid"		"F8C3E764E128A4D391836F0629AF001A"
+					"size"		"A9A752C3C00D26E78D5CED65F07EEC30"
+					"download"		"C21AB006D40F76ADBC62D29C7B369F3F"
+				}
+				"stage"
+				{
+					"gid"		"3A024437F2EE3554DBBFE8EA79FB4147"
+					"size"		"4433B8822181172DE32858C29FAF5100"
+					"download"		"90EB5C701DE7D96014317750FD6D6A8F"
+				}
+				"stage_fallback"
+				{
+					"gid"		"8EEFDFCA70FFAA92BCCDBD9BBFAE3C53"
+					"size"		"76FA3C39A4D1E30F330FB458C17227AC"
+					"download"		"F4A1539DD4C4224B0036E28B4B48BF7E"
+				}
+				"testing"
+				{
+					"gid"		"FE79A086E24CA7ED89B043AE35F5B138"
+					"size"		"539A0179A196DF9C8CE0ACA7CCBBFA45"
+					"download"		"75E23C25F7298E591BDF468E8F786F60"
+				}
+				"testing_fallback"
+				{
+					"gid"		"B54511DC9EED12F4133C33505A7BA241"
+					"size"		"508F9A823820AB28CF0914E938CC8A04"
+					"download"		"7278C410BA568AA15AA3BFB5880226F1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11852160"
+				"timeupdated"		"1692820766"
+			}
+			"development"
+			{
+				"buildid"		"12233912"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695197234"
+			}
+			"feature"
+			{
+				"buildid"		"10227885"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672306490"
+			}
+			"locqa"
+			{
+				"buildid"		"8509988"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649271443"
+			}
+			"release"
+			{
+				"buildid"		"11852160"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691012979"
+			}
+			"river"
+			{
+				"buildid"		"10960007"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680936799"
+			}
+			"river_testing"
+			{
+				"buildid"		"10960007"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680936799"
+			}
+			"stage"
+			{
+				"buildid"		"11788806"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690345712"
+			}
+			"stage_fallback"
+			{
+				"buildid"		"11709609"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689627817"
+			}
+			"testing"
+			{
+				"buildid"		"12233912"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695197236"
+			}
+			"testing_fallback"
+			{
+				"buildid"		"11713148"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689627836"
+			}
+		}
+	}
+}
