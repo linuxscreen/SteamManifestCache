@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"1307970"
+	"common"
+	{
+		"name"		"Cyber Hook Demo"
+		"type"		"Demo"
+		"parent"		"1130410"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"556c3fddac90e5fefdd96bb81cf5acfd29342c8b"
+		"logo_small"		"556c3fddac90e5fefdd96bb81cf5acfd29342c8b_thumb"
+		"clienttga"		"95f178f5f7609356b8eca465d5f5925ac2b554c2"
+		"clienticon"		"dd7e6fd093b2b81aa8410e818de729fb9a0ad154"
+		"icon"		"f4d133cab24900e7846f0157855e795557019e54"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"29.10863598545103"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1588194707"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Blazing Stick"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Graffiti Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592327735"
+		"gameid"		"1307970"
+	}
+	"extended"
+	{
+		"demoofappid"		"1130410"
+		"developer"		"Blazing Stick"
+		"publisher"		"Graffiti Games"
+		"homepage"		"https://www.graffitigames.com/cyberhook/"
+	}
+	"config"
+	{
+		"installdir"		"Cyber Hook Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CyberHook.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"15"
+	}
+	"depots"
+	{
+		"1307971"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5517203253445603566"
+					"size"		"790359198"
+					"download"		"255332800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"public-test"
+				{
+					"gid"		"D9A37349A892A4C940ED7D668E372DC0"
+					"size"		"70B5465BC3D24ACB2E85498F04B943A8"
+					"download"		"E7A1EEB629EB2F51D4EFD494B07D2DF4"
+				}
+				"unstable-test"
+				{
+					"gid"		"5EA537A56F4569AC9F02A160497736BD"
+					"size"		"93E911F2EA8B9CDE135487D4C876EE58"
+					"download"		"7E1B1CC4772496C24E7FFDDB58D7D8C8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5753739"
+				"timeupdated"		"1603960321"
+			}
+			"public-test"
+			{
+				"buildid"		"5204011"
+				"pwdrequired"		"1"
+				"timeupdated"		"1592921529"
+			}
+			"unstable-test"
+			{
+				"buildid"		"5589552"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600950533"
+			}
+		}
+	}
+}
