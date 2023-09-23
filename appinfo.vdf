@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"1093220"
+	"common"
+	{
+		"name"		"Eat this!"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"actions.json"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"73c0f5b10b39555c19e16d63b32b043f91cfb3d6"
+		"logo_small"		"73c0f5b10b39555c19e16d63b32b043f91cfb3d6_thumb"
+		"icon"		"b9a00c7616442b639b2f581b290a95fe58a1e0d1"
+		"clienticon"		"eb9f10ff7c8cf1ac0517c7c3d8baeb972c8e0ea9"
+		"clienttga"		"c0cc72c4879cab701ee4c4d00aa4b433e9339415"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"metacritic_name"		"Eat this!"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"99.48287007110537"
+				"height_pct"		"65.27777777777779"
+			}
+		}
+		"store_asset_mtime"		"1560497048"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Karel Hladky"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Karel Hladky"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"9"
+			"3"		"28"
+			"4"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1562147160"
+		"community_hub_visible"		"1"
+		"gameid"		"1093220"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"492"
+			"2"		"701"
+			"3"		"599"
+			"4"		"699"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Karel Hladky"
+		"publisher"		"Karel Hladky"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Eat this!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EatThis.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1093221"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7194315821862335487"
+					"size"		"546694807"
+					"download"		"106065968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3903918"
+				"timeupdated"		"1560158623"
+			}
+		}
+	}
+}
