@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"2379620"
+	"common"
+	{
+		"name"		"The Unfallens: Awakening"
+		"type"		"Game"
+		"name_localized"
+		{
+			"schinese"		"未堕天：觉醒"
+			"japanese"		"未堕天：覚醒"
+			"tchinese"		"未墮天：覺醒"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2379620_eula_2"
+				"name"		"The Unfallens: Awakening EULA"
+				"url"		"https://store.steampowered.com//eula/2379620_eula_2"
+				"version"		"5"
+			}
+		}
+		"icon"		"e804f9a8a467f34550260bf0a28e840ba6d8dc94"
+		"clienticon"		"3a8dfa6f92eba0200d561842b85788eefc8e091e"
+		"clienttga"		"dcd49c4413428762edaa3b995133847cd93d8ec9"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.867649796366855"
+				"height_pct"		"46.16183804322013"
+			}
+		}
+		"store_asset_mtime"		"1683621218"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Floatonic Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Floatonic Studio"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1683807016"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2379620"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3993"
+			"1"		"29482"
+			"2"		"4026"
+			"3"		"4604"
+			"4"		"1646"
+			"5"		"1697"
+			"6"		"4231"
+			"7"		"4106"
+			"8"		"4191"
+			"9"		"3835"
+			"10"		"19"
+			"11"		"7250"
+			"12"		"4172"
+			"13"		"1684"
+			"14"		"21"
+			"15"		"4057"
+			"16"		"4145"
+			"17"		"122"
+			"18"		"4342"
+			"19"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Floatonic Studio"
+		"publisher"		"Floatonic Studio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TheUnfallensAwakening"
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UntitledSingleAGame.exe"
+				"config"
+				{
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,schinese,tchinese"
+		"2379621"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"84089676969366488"
+					"size"		"1663967252"
+					"download"		"1306041824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"56A195F7D572C9E436B99124F0485EF0"
+					"size"		"C3F5F9A37223D0C932B3025C532D8764"
+					"download"		"35ED0E2B9383C9DFF643CB81AF444CFA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11285833"
+				"timeupdated"		"1684746457"
+			}
+			"test"
+			{
+				"buildid"		"11285833"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684744784"
+			}
+		}
+	}
+}
