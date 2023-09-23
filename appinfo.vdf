@@ -1,0 +1,156 @@
+"appinfo"
+{
+	"appid"		"1182150"
+	"common"
+	{
+		"name"		"Neon Abyss Demo"
+		"type"		"Demo"
+		"parent"		"788100"
+		"clienticon"		"099b4372f04d969c9fad43fac1113aa926af98ec"
+		"clienttga"		"76e056ff84703cfbdf3c3018f761f2842e350a43"
+		"icon"		"e07dee6792c96cf5060e836dcca1dc172748da88"
+		"logo"		"d11d7bb72a484b7b5c04024ec46bc67d872ed65c"
+		"logo_small"		"d11d7bb72a484b7b5c04024ec46bc67d872ed65c_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"霓虹深渊 试玩版"
+		}
+		"metacritic_name"		"Neon Abyss Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"72.63710618436409"
+				"height_pct"		"63.29850391830922"
+			}
+		}
+		"store_asset_mtime"		"1571819872"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Veewo Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team17 Digital Ltd"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1572443976"
+		"gameid"		"1182150"
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"demoofappid"		"788100"
+		"developer"		"Veewo Games"
+		"publisher"		"Team17 Digital Ltd"
+		"homepage"		"https://www.veewo.com/neonabyss"
+	}
+	"config"
+	{
+		"installdir"		"Neon Abyss Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NeonAbyss.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1182151"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7158726753849108969"
+					"size"		"906422324"
+					"download"		"365056400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa_testing"
+				{
+					"gid"		"4BB10F622AC029665E34A48CDDA9C8D9"
+					"size"		"758C7505C3FA9C7A7600BFBA55D36B80"
+					"download"		"922C541FDFA1535D1807DDEB56EFAAC6"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7172126"
+				"timeupdated"		"1628677300"
+			}
+			"qa_testing"
+			{
+				"buildid"		"4376395"
+				"pwdrequired"		"1"
+				"timeupdated"		"1573467800"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
