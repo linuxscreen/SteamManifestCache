@@ -1,0 +1,112 @@
+"appinfo"
+{
+	"appid"		"2355200"
+	"common"
+	{
+		"name"		"CatSacks Demo"
+		"type"		"Demo"
+		"parent"		"2352480"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"347805af66bbdb23eada86958b0b5a6c72aa2db0"
+		"clienticon"		"1e5fc69c246241cecb58064e9e9fdb33f37181c1"
+		"clienttga"		"2fb6f4b3b133ac2d50422f3322b237800152af34"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1679254731"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CommaCrash"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CommaCrash"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1679082166"
+		"gameid"		"2355200"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2352480"
+		"developer"		"CommaCrash"
+		"publisher"		"CommaCrash"
+		"homepage"		"https://catsacks.io"
+	}
+	"config"
+	{
+		"installdir"		"CatSacks Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CatSacksDeskTop.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2355201"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1948071557499436493"
+					"size"		"409928234"
+					"download"		"173764608"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11957399"
+				"timeupdated"		"1692208790"
+			}
+		}
+	}
+}
