@@ -1,0 +1,324 @@
+"appinfo"
+{
+	"appid"		"237310"
+	"common"
+	{
+		"name"		"Elsword"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"d925ff8a8954061701c0f4a571eb6c7a9fe95a0a"
+		"logo_small"		"d925ff8a8954061701c0f4a571eb6c7a9fe95a0a_thumb"
+		"icon"		"311373619fe61198fa93080fa0c7deb3ad6f7c36"
+		"clienttga"		"15b1ff21177371168c164fa85499e06c63bd66e4"
+		"clienticon"		"fdcfc9728ff9c6686c0ede7e218bbd5788dfe081"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"237310_eula_0"
+				"name"		"Elsword EULA"
+				"url"		"https://store.steampowered.com//eula/237310_eula_0"
+				"version"		"6"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644969600"
+			"tested_build_id"		"8094760"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Elsword"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.450478305799294"
+				"height_pct"		"41.33950471580241"
+			}
+		}
+		"store_asset_mtime"		"1694634916"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KOG"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KOG Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"29"
+			"5"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1404327600"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"237310"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4085"
+			"2"		"122"
+			"3"		"19"
+			"4"		"1754"
+			"5"		"128"
+			"6"		"21"
+			"7"		"3859"
+			"8"		"1743"
+			"9"		"3798"
+			"10"		"1775"
+			"11"		"3843"
+			"12"		"1646"
+			"13"		"3871"
+			"14"		"4726"
+			"15"		"1684"
+			"16"		"597"
+			"17"		"1685"
+			"18"		"1625"
+			"19"		"4158"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"KOG"
+		"gamedir"		"ValveTestApp237310"
+		"homepage"		"https://elsword.koggames.com/"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"KOG Games"
+		"isfreeapp"		"1"
+		"listofdlc"		"257280,257281,304490,304491,308340,308341,357060,357660,383310,414480,632610,632611"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Elsword"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ESSTEAM.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"baselanguages"		"english"
+		"237311"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"524030303356707914"
+					"size"		"21119304924"
+					"download"		"21104998192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"brandth"
+				{
+					"gid"		"4D6949DA89E99B204CAABED1766EFFED"
+					"size"		"D70C7FE3D0986C60A46CEFF179D8C415"
+					"download"		"857751E897DB654D6A67D938EA3386B2"
+				}
+				"livestagingclient"
+				{
+					"gid"		"21B4AFC37C51D6545B3C727B5005B778"
+					"size"		"29051CFE5E637F777DC89E81EB503D51"
+					"download"		"0E8FBE2596737B82CDF024935AFA12C4"
+				}
+				"testserverclient"
+				{
+					"gid"		"10F9FD2F9BAFB6EAD9E079D8F815DA52"
+					"size"		"8AAEFC2CB3003FEA9EAA7AD87A6FB1D9"
+					"download"		"70642AFC8457E2CEADC40A8658EEEE00"
+				}
+			}
+		}
+		"237312"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"414353226347947896"
+					"size"		"21032357566"
+					"download"		"21100108432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"brandth"
+				{
+					"gid"		"B0E923CBBBA63C66F35F52B6C67BFA99"
+					"size"		"DE1D09CCB862C0560C5A85A134354E1A"
+					"download"		"34902CE86938BAD6D6B6107FDB8CEA60"
+				}
+				"testserverclient"
+				{
+					"gid"		"7976A48FF14EA15E27A1A8CD35FBD8E1"
+					"size"		"AC32DFF526C3768E8EEEBB496B6A6411"
+					"download"		"E5330E83A3B37E082698F915A4232E0F"
+				}
+			}
+		}
+		"237313"
+		{
+			"config"
+			{
+				"language"		"thai"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7626445550184854356"
+					"size"		"21041615268"
+					"download"		"21108871008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"brandth"
+				{
+					"gid"		"C70DA976FF320876334E68699BE64741"
+					"size"		"445D25F401F998841CDC35F9AAEAA185"
+					"download"		"A1ADA1602940D94543AAEBD7C8FFAED7"
+				}
+				"testserverclient"
+				{
+					"gid"		"5C4361C3BA128E996E007F2021EF5DFF"
+					"size"		"4BB41E7F974BECE9BE078F31B7B9E7DC"
+					"download"		"52FCF5B4B795B0E9B86D36C6EFD0736F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12213727"
+				"timeupdated"		"1695023945"
+			}
+			"brandth"
+			{
+				"buildid"		"3457135"
+				"pwdrequired"		"1"
+				"timeupdated"		"1547117156"
+			}
+			"livestagingclient"
+			{
+				"buildid"		"127437"
+				"pwdrequired"		"1"
+			}
+			"testserverclient"
+			{
+				"buildid"		"12046320"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693194747"
+			}
+		}
+	}
+}
