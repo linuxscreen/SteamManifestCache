@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1657470"
+	"common"
+	{
+		"name"		"Ship Graveyard Simulator Demo"
+		"type"		"Demo"
+		"parent"		"1286880"
+		"releasestate"		"released"
+		"clienticon"		"003808d862317837e097b8d90069670180720928"
+		"clienttga"		"06d487e3068d4ce6d1711f19d04cd41d84170d9b"
+		"icon"		"2080cac52bd8ec2bba1609dd61954da250887ba0"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1622757813"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Games Incubator"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Games Incubator"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Games Incubator"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623862488"
+		"gameid"		"1657470"
+	}
+	"extended"
+	{
+		"demoofappid"		"1286880"
+		"developer"		"Games Incubator"
+		"publisher"		"Games Incubator"
+		"homepage"		"https://games-i.com/"
+	}
+	"config"
+	{
+		"installdir"		"Ship Graveyard Simulator Demo"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"PWLauncherBootstrapper.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1657471"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5418579483293325304"
+					"size"		"10114297744"
+					"download"		"4754569792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"6CDB0EEB7B603DF5DA45218E313F6E56"
+					"size"		"7496FC12A18CC620AFC7EDF642947E2A"
+					"download"		"905AF1F850F15846F431BDEBB5767E70"
+				}
+				"test_fg"
+				{
+					"gid"		"C3EE50F1BBE395218ABC5ECD26BA4F2F"
+					"size"		"EEC6289AE62117CF61E03F307DD3E0DB"
+					"download"		"B94358EA1B40DC9D6D7160D01149E89B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8146285"
+				"timeupdated"		"1643988030"
+			}
+			"test"
+			{
+				"buildid"		"8106020"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643384779"
+			}
+			"test_fg"
+			{
+				"buildid"		"7398775"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632244328"
+			}
+		}
+	}
+}
