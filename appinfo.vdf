@@ -1,0 +1,438 @@
+"appinfo"
+{
+	"appid"		"924240"
+	"common"
+	{
+		"name"		"Them and Us Demo"
+		"type"		"Demo"
+		"parent"		"915600"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"bcd49be6a104d9aefda0416b6831d6be1388eaa7"
+		"clienticon"		"37d6ad2bfc1a84502cf1af8dc9218d73aef585f7"
+		"icon"		"501b20ec25c20a0cfc2eba64d7eac85000062a48"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.956442831215966"
+				"height_pct"		"82.98611111111111"
+			}
+		}
+		"store_asset_mtime"		"1597639546"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TendoGames Co., Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TendoGames Co., Ltd."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"方块游戏(CubeGame)"
+			}
+		}
+		"primary_genre"		"74"
+		"genres"
+		{
+			"0"		"73"
+			"1"		"74"
+			"2"		"1"
+			"3"		"25"
+			"4"		"37"
+			"5"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1597647600"
+		"steam_release_date"		"1535179140"
+		"gameid"		"924240"
+	}
+	"extended"
+	{
+		"demoofappid"		"915600"
+		"developer"		"TendoGames Co., Ltd."
+		"publisher"		"TendoGames Co., Ltd."
+		"homepage"		"http://www.tendogames.com"
+	}
+	"config"
+	{
+		"installdir"		"Them and Us Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 "
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Them and Us - English"
+				}
+				"description"		"Them and Us - English"
+			}
+			"1"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -LANGUAGE=CHN"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - Chinese"
+					"schinese"		"简体中文"
+				}
+				"description"		"Demo - Chinese"
+			}
+			"2"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -language=DEU"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - German"
+					"german"		"Deutsch"
+				}
+				"description"		"Demo - German"
+			}
+			"3"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -language=ESN"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - Spanish - Spain"
+					"spanish"		"España "
+				}
+				"description"		"Demo - Spanish - Spain"
+			}
+			"4"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -language=FRA"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - French"
+					"french"		"Français"
+				}
+				"description"		"Demo - French"
+			}
+			"5"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -language=ITA"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - Italian"
+					"italian"		"Italiano "
+				}
+				"description"		"Demo - Italian"
+			}
+			"6"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -language=JPN"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - Japanese"
+					"japanese"		"日本語"
+				}
+				"description"		"Demo - Japanese"
+			}
+			"7"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -language=KOR"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - Korean"
+					"koreana"		"한국인"
+				}
+				"description"		"Demo - Korean"
+			}
+			"8"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -language=PTB"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - Portuguese - Brazil"
+					"brazilian"		"Português - Brasil"
+				}
+				"description"		"Demo - Portuguese - Brazil"
+			}
+			"9"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -language=ROM"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - Romanian"
+					"romanian"		"Limba Română"
+				}
+				"description"		"Demo - Romanian"
+			}
+			"10"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -language=RUS"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - Russian"
+					"russian"		"Pусский"
+				}
+				"description"		"Demo - Russian"
+			}
+			"11"
+			{
+				"executable"		"Binaries/Win64/UDK.exe"
+				"arguments"		"-seekfreeloading -dx9 -language=TUR"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Demo - Turkish"
+					"turkish"		"Türkçe"
+				}
+				"description"		"Demo - Turkish"
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+		"steamconfigurator3rdpartynative"		"3"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,japanese,romanian,turkish,brazilian"
+		"hasdepotsindlc"		"1"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"924248"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6038051776289007450"
+					"size"		"6528406702"
+					"download"		"5125900336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"anothernewbranch"
+				{
+					"gid"		"9DEAB313C4D169109C54D7F2D795CEED"
+					"size"		"C48FCD71ACB7B9653D9E31573D29B5C0"
+					"download"		"C534A1D306E6903F19C0B43C61BD1FCD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9872327"
+				"timeupdated"		"1667583901"
+			}
+			"anothernewbranch"
+			{
+				"buildid"		"9872327"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667583908"
+			}
+		}
+	}
+}
