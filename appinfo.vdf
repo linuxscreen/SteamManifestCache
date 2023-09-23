@@ -1,0 +1,166 @@
+"appinfo"
+{
+	"appid"		"805620"
+	"common"
+	{
+		"name"		"The Beast Inside Demo"
+		"type"		"Demo"
+		"parent"		"792300"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"a19a213ac22ad136a80dcf10caf09308dbc0460a"
+		"clienticon"		"fdb3c37b7bce4a8f18debd63299ad1f5faf5fb35"
+		"icon"		"72ab502b6244ac74823fa53112dc5856c6ef31dd"
+		"metacritic_name"		"The Beast Inside Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+		}
+		"store_asset_mtime"		"1569598973"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Illusion Ray Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Movie Games S.A."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1551456441"
+		"gameid"		"805620"
+	}
+	"extended"
+	{
+		"demoofappid"		"792300"
+		"developer"		"Illusion Ray Studio"
+		"publisher"		"Movie Games S.A."
+	}
+	"config"
+	{
+		"installdir"		"TheBeastInside Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheBeastInside.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		""
+		"805621"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7259569060934632558"
+					"size"		"16983498461"
+					"download"		"7740743312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demosteamtest"
+				{
+					"gid"		"E5F741BB4D2F668A4FB6954AED10C755"
+					"size"		"39D2843D3DB30EC114AAD48926233E33"
+					"download"		"778988F1F51F2430CD2DA8EBE928A521"
+				}
+				"releasecandidate"
+				{
+					"gid"		"851C658DE9AB2D72647999A66CA38688"
+					"size"		"BFF5C7BBE321378F75F91F65315EE13B"
+					"download"		"52061A33FDB1CC2A66F682C82EA561DB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4299524"
+				"timeupdated"		"1571418938"
+			}
+			"demosteamtest"
+			{
+				"buildid"		"3922193"
+				"pwdrequired"		"1"
+				"timeupdated"		"1560637340"
+			}
+			"releasecandidate"
+			{
+				"buildid"		"4299524"
+				"pwdrequired"		"1"
+				"timeupdated"		"1571366805"
+			}
+		}
+	}
+}
