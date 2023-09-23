@@ -1,0 +1,148 @@
+"appinfo"
+{
+	"appid"		"2511920"
+	"common"
+	{
+		"name"		"The Backrooms Project Demo"
+		"type"		"Demo"
+		"parent"		"2511910"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"911a004a40ba74ccf84d38aefb2f8411451cd05b"
+		"clienticon"		"dd7ca01a705324c7990965fb86432c2a9ad1b19b"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"26.622775800711736"
+				"height_pct"		"37.152840532562195"
+			}
+		}
+		"store_asset_mtime"		"1689680612"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BRP"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BRP"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1689616368"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2511920"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"BRP"
+		"publisher"		"BRP"
+	}
+	"config"
+	{
+		"installdir"		"The Backrooms Project Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheBackroomsProject.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2511921"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5151153373854928567"
+					"size"		"3397452664"
+					"download"		"3243726848"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12043698"
+				"timeupdated"		"1693152030"
+			}
+		}
+	}
+}
