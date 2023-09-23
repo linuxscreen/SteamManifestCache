@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"748940"
+	"common"
+	{
+		"name"		"Rise of Legions"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"375b095bf6ad14ff2305060ec534411e239455f7"
+		"clienttga"		"6ec16f7cc669bb68a50826935ac7a8a20d7cc59e"
+		"icon"		"a3b093298b8d7dac0acfd09c11ebc3715cd3ecb7"
+		"logo"		"6c82b4ee79993ad313a2eb41fbdb36d7e95e6b04"
+		"logo_small"		"6c82b4ee79993ad313a2eb41fbdb36d7e95e6b04_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"polish"		"1"
+			"czech"		"1"
+			"romanian"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"greek"		"1"
+			"ukrainian"		"1"
+		}
+		"metacritic_name"		"Rise of Legions"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"26.79028132992329"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1666353579"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Broken Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Crunchy Leaf Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_49"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1567180815"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"748940"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"3859"
+			"3"		"1645"
+			"4"		"1666"
+			"5"		"1676"
+			"6"		"492"
+			"7"		"1718"
+			"8"		"1775"
+			"9"		"597"
+			"10"		"4182"
+			"11"		"3813"
+			"12"		"1684"
+			"13"		"19"
+			"14"		"9271"
+			"15"		"493"
+			"16"		"4711"
+			"17"		"3843"
+			"18"		"32322"
+			"19"		"1685"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Broken Games"
+		"publisher"		"Crunchy Leaf Games"
+		"homepage"		"http://riseoflegions.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Rise of Legions"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RiseOfLegions.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese"
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"748941"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4571642924953627202"
+					"size"		"2303418822"
+					"download"		"522231440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"CEB4149072EE71417801C93BBF0A664C"
+					"size"		"9019E5ED31DD7D4172EF0EC531F78FFF"
+					"download"		"8131878CBF0BCB00B2A40E5619C935BA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7816721"
+				"timeupdated"		"1638459175"
+			}
+			"staging"
+			{
+				"buildid"		"7823544"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638543734"
+			}
+		}
+	}
+}
