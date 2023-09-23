@@ -14,6 +14,49 @@
 		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1694217600"
+			"tested_build_id"		"11534602"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -145,18 +188,18 @@
 			{
 				"public"
 				{
-					"gid"		"233038241349313133"
-					"size"		"514488819"
-					"download"		"485433296"
+					"gid"		"678625765535433015"
+					"size"		"515950604"
+					"download"		"486902224"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"5B33C091B568BD2EF0FEAE6E27C0E305"
-					"size"		"37E07224C6AB4ADE21429CF1BD3818FD"
-					"download"		"97C9A9C34AC4E9D8F9B33928A067DBB3"
+					"gid"		"280C04039C185C2D94F390DDB7898AA3"
+					"size"		"BC2B6FDD82F02EA97F90FFD4BCFFBFA9"
+					"download"		"E9AE85B448631BE6C54E15E59B9B3B4D"
 				}
 			}
 		}
@@ -970,14 +1013,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12057866"
-				"timeupdated"		"1693305318"
+				"buildid"		"12264005"
+				"timeupdated"		"1695469756"
 			}
 			"beta"
 			{
-				"buildid"		"12057866"
+				"buildid"		"12264005"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693304529"
+				"timeupdated"		"1695469565"
 			}
 		}
 	}
