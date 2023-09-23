@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"1905640"
+	"common"
+	{
+		"name"		"OBS Studio Beta"
+		"type"		"Beta"
+		"parent"		"1905180"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"logo"		"4b8ae05e95c7f866b86a3d0e724a3a40bc11ebca"
+		"logo_small"		"4b8ae05e95c7f866b86a3d0e724a3a40bc11ebca_thumb"
+		"icon"		"342ff6a1c4e56643944d732e7aa318389ae966cd"
+		"clienttga"		"7f47da82b83ff3b765e6710c7f4504bdbef3c11d"
+		"clienticns"		"e9f8d7f766686b06835c65167d4de9cdcde940ba"
+		"clienticon"		"c807ea593df8d2a40cda2b0a934555d70f7581d1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"76.74418604651163"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1645367806"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1667326328"
+		"community_hub_visible"		"1"
+		"gameid"		"1905640"
+		"exfgls"		"1"
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"betaforappid"		"1905180"
+		"playtest_type"		"1"
+		"disableoverlay"		"1"
+		"disableoverlay_osx"		"1"
+		"disableoverlayinjection"		"1"
+	}
+	"config"
+	{
+		"installdir"		"OBS Studio Beta"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launch.sh"
+				"arguments"		"--disable-updater --steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"bin/64bit/obs64.exe"
+				"arguments"		"--disable-updater --steam"
+				"workingdir"		"bin/64bit"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1905641"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4579449355341785497"
+					"size"		"822061884"
+					"download"		"208148112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"4AA2A8FE8EF35F4B323B07FF8294865D"
+					"size"		"E7E0A93FF400B678941BDF27B3DA2743"
+					"download"		"69844839746DA570A9AA4895D86C15A0"
+				}
+			}
+		}
+		"1905642"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"667591358599695490"
+					"size"		"380261616"
+					"download"		"122788560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"5016EEFD3CE24218B7A746566ACA74D7"
+					"size"		"BA169F27BF6DB12A03CEB1D5A83B9619"
+					"download"		"974BAF310D046E62E4D94E124CDC00DA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12151096"
+				"timeupdated"		"1694295891"
+			}
+			"staging"
+			{
+				"buildid"		"12151096"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694295855"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
