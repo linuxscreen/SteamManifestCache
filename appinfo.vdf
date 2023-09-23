@@ -1,0 +1,283 @@
+"appinfo"
+{
+	"appid"		"1397610"
+	"common"
+	{
+		"name"		"Unrailed! Demo"
+		"type"		"Demo"
+		"parent"		"1016920"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"c0bea07ce6a1b57d47100f32fd7faf0409fae4dc"
+		"clienttga"		"9aee34bce12425899096e9e285d323a043e1cc7e"
+		"icon"		"1b3a8e0391148601fce990ca30f2fa4a075f05e4"
+		"logo"		"743c9ee2df0e0dabf41da81b496ad3d44d261444"
+		"logo_small"		"743c9ee2df0e0dabf41da81b496ad3d44d261444_thumb"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"69.29892051008272"
+				"height_pct"		"78.28965354498389"
+			}
+		}
+		"store_asset_mtime"		"1597698375"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Indoor Astronaut"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Daedalic Entertainment"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"bilibili(China)"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1598026583"
+		"gameid"		"1397610"
+	}
+	"extended"
+	{
+		"demoofappid"		"1016920"
+		"developer"		"Indoor Astronaut"
+		"publisher"		"Daedalic Entertainment"
+	}
+	"config"
+	{
+		"installdir"		"Unrailed! Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UnrailedGameDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Unrailed.app/Contents/MacOS/UnrailedGameDemo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"./UnrailedPackerDemo.linux"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,latam"
+		"1397612"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6305500423062417434"
+					"size"		"515689155"
+					"download"		"330998848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"806EE8FA4E360F22348137A55E5383BF"
+					"size"		"980E9973FA4E082D569B890DC021A095"
+					"download"		"39691AC16139AABC10ACCC4F7751A193"
+				}
+			}
+		}
+		"1397613"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6696007272783049717"
+					"size"		"526503399"
+					"download"		"335362864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"503A5C8851FC1A58E37D869710AEFBF3"
+					"size"		"0A7B067B02F023E69475A23199E56821"
+					"download"		"2155F94354EE0550D4D71313B0CA7852"
+				}
+			}
+		}
+		"1397614"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"505078042876549248"
+					"size"		"516245313"
+					"download"		"331423728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"C908E0D57626CA7E3160275132EC13A2"
+					"size"		"ADBCF863FCAFFCCB62A706D3336D4E14"
+					"download"		"E79C139B3DEDF748FCED42C1CCA7CC51"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5442761"
+				"timeupdated"		"1612011230"
+			}
+			"experimental"
+			{
+				"buildid"		"6162755"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612012112"
+			}
+		}
+	}
+}
