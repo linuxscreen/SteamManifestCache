@@ -1,0 +1,128 @@
+"appinfo"
+{
+	"appid"		"2146900"
+	"common"
+	{
+		"name"		"Alchemist Tris's Desire Demo"
+		"type"		"Demo"
+		"parent"		"2086540"
+		"releasestate"		"released"
+		"icon"		"7d23a02efdc52f7cd8918f31d94bdc72309dd5ae"
+		"clienticon"		"3af779be585a6d1f765d3d29db7df19ecf22ead2"
+		"clienttga"		"b420274b3fad00d1ea98835916ef9239770b61a0"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1662717387"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"kagurado"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dieselmine"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664937027"
+		"gameid"		"2146900"
+	}
+	"extended"
+	{
+		"demoofappid"		"2086540"
+		"developer"		"kagurado"
+		"publisher"		"Dieselmine"
+	}
+	"config"
+	{
+		"installdir"		"Alchemist Tris's Desire Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"2146902"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5114708212826438210"
+					"size"		"554731054"
+					"download"		"433926560"
+				}
+			}
+		}
+		"2146901"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"27799979143915938"
+					"size"		"563191603"
+					"download"		"440428080"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9626009"
+				"timeupdated"		"1664535184"
+			}
+		}
+	}
+}
