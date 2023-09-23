@@ -1,0 +1,140 @@
+"appinfo"
+{
+	"appid"		"1398240"
+	"common"
+	{
+		"name"		"Selene ~Apoptosis~ Demo"
+		"type"		"Demo"
+		"parent"		"1398210"
+		"releasestate"		"released"
+		"clienticon"		"bdaa46415b7592606205021664c1e3881a5829ab"
+		"clienttga"		"26e4cdf0b785b512cef7c095461b2c74436720fa"
+		"icon"		"986d5bdd04098c1abce5d4259d0e7ef3bad1dc2f"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"007e4a95e933c8f30dc8321ec5635dfe9c01e650"
+		"logo_small"		"007e4a95e933c8f30dc8321ec5635dfe9c01e650_thumb"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1602111286"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Viscum key"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Flat Chest Dev"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		" Flat Chest Dev"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1602088032"
+		"gameid"		"1398240"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1398210"
+		"developer"		"Viscum key"
+		"publisher"		" Flat Chest Dev"
+	}
+	"config"
+	{
+		"installdir"		"Selene ~Apoptosis~ Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Selene_Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Selene_Demo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Selene_Demo.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1398241"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"442207211667394682"
+					"size"		"410418933"
+					"download"		"273271568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5655908"
+				"timeupdated"		"1602183874"
+			}
+		}
+	}
+}
