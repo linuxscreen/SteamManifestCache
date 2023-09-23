@@ -1,0 +1,321 @@
+"appinfo"
+{
+	"appid"		"603440"
+	"common"
+	{
+		"name"		"Empires of the Undergrowth Demo"
+		"type"		"Demo"
+		"parent"		"463530"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienttga"		"526e303fe2db316ab7e4b292fa2dab7505d3feac"
+		"clienticon"		"a5e04175aaf071b644e394e2a068cc783f042452"
+		"icon"		"ba6ae8dac9333776689f4603da09346e41c5cef6"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"603440_eula_0"
+				"name"		"Empires of the Undergrowth Demo EULA"
+				"url"		"https://store.steampowered.com//eula/603440_eula_0"
+			}
+		}
+		"osextended"		"macos64"
+		"metacritic_name"		"Empires of the Undergrowth Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1556293911"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Slug Disco"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Slug Disco"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1557247284"
+		"gameid"		"603440"
+		"review_score"		"7"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"demoofappid"		"463530"
+		"developer"		"Slug Disco"
+		"publisher"		"Slug Disco"
+		"homepage"		"http://eotugame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Empires of the Undergrowth Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EotU.exe"
+				"arguments"		"-DX11"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Empires of the Undergrowth Demo with DirectX 11"
+				}
+				"description"		"Empires of the Undergrowth Demo with DirectX 11"
+			}
+			"1"
+			{
+				"executable"		"EotU.sh"
+				"arguments"		"-opengl3"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Empires of the Undergrowth Demo with OpenGL 3"
+				}
+				"description"		"Empires of the Undergrowth Demo with OpenGL 3"
+			}
+			"2"
+			{
+				"executable"		"EotU.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"5"
+			{
+				"executable"		"EotU.sh"
+				"arguments"		"-opengl4"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Empires of the Undergrowth Demo with OpenGL 4"
+				}
+				"description"		"Empires of the Undergrowth Demo with OpenGL 4"
+			}
+			"6"
+			{
+				"executable"		"EotU.sh"
+				"arguments"		"-vulkan"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Empires of the Undergrowth Demo with Vulkan"
+				}
+				"description"		"Empires of the Undergrowth Demo with Vulkan"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"603441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4054464038117943486"
+					"size"		"3529365872"
+					"download"		"3407204480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"68B00DB28E686BD6330322CED7E76E0B"
+					"size"		"10F29DED31B702D5E8F539B771E80583"
+					"download"		"B151297C88431575A2AF1B1479B93198"
+				}
+			}
+		}
+		"603442"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7947362991401764771"
+					"size"		"3460953157"
+					"download"		"3368273456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"08AEF1405F5BC3E27E42739B63CDAB13"
+					"size"		"4F7518EFEBEB449FC2141CD812421183"
+					"download"		"FE06FD492C843069EB7B5A780D8AA522"
+				}
+			}
+		}
+		"603443"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5206736598663353308"
+					"size"		"3683534145"
+					"download"		"3386404304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"427D38F2D38431784351B502214628C2"
+					"size"		"2BE3354342FDF09F7542F582A082BCE3"
+					"download"		"7D59C445E701CD081F2A9A3CD8A0B245"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10001945"
+				"timeupdated"		"1669222451"
+			}
+			"alpha"
+			{
+				"buildid"		"10001945"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669222443"
+			}
+		}
+	}
+}
