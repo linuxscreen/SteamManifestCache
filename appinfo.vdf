@@ -1,0 +1,380 @@
+"appinfo"
+{
+	"appid"		"1857370"
+	"common"
+	{
+		"name"		"LEZ"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"d2b8172980b2865ff0fb27a069cdcece387cc8e4"
+		"logo_small"		"d2b8172980b2865ff0fb27a069cdcece387cc8e4_thumb"
+		"icon"		"e53a32eebb0538b342812e7bbece9b5284774318"
+		"clienticon"		"989ec7a77789e6bb17277eee096bae183c272354"
+		"clienttga"		"8fb27cc281e3d7d9cdec1a59a1ac3a4c6dfe7307"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"spanish"		"1"
+			"latam"		"1"
+		}
+		"clienticns"		"dfecd3a450e8fd2a73e2f901082e4fcc159dab97"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1857370_eula_0"
+				"name"		"LEZ EULA"
+				"url"		"https://store.steampowered.com//eula/1857370_eula_0"
+				"version"		"8"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.456505121541035"
+				"height_pct"		"56.31109873378892"
+			}
+		}
+		"store_asset_mtime"		"1686415481"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Daztrax Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Daztrax Studios"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"37"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1653692417"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1857370"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1752"
+			"1"		"12057"
+			"2"		"3871"
+			"3"		"4136"
+			"4"		"19"
+			"5"		"4182"
+			"6"		"61357"
+			"7"		"113"
+			"8"		"492"
+			"9"		"189941"
+			"10"		"1621"
+			"11"		"493"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		""
+		"developer"		"Daztrax Studios"
+		"publisher"		"Daztrax Studios"
+		"homepage"		"https://lez.daztraxstudios.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2364710"
+	}
+	"config"
+	{
+		"installdir"		"LEZ"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LEZ.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"LEZ.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"LEZ.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"5"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,latam"
+		"workshopdepot"		"1857370"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1857371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8473403546223264174"
+					"size"		"830189485"
+					"download"		"611624256"
+				}
+				"public-beta"
+				{
+					"gid"		"6725345658414954866"
+					"size"		"823096130"
+					"download"		"607674224"
+				}
+			}
+		}
+		"1857376"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"690595894877072207"
+					"size"		"708932454"
+					"download"		"464648816"
+				}
+				"public-beta"
+				{
+					"gid"		"690595894877072207"
+					"size"		"708932454"
+					"download"		"464648816"
+				}
+			}
+		}
+		"1857372"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1003876152579791313"
+					"size"		"809933463"
+					"download"		"606254544"
+				}
+				"public-beta"
+				{
+					"gid"		"2297841681005696533"
+					"size"		"817428973"
+					"download"		"616815680"
+				}
+			}
+		}
+		"2364711"
+		{
+			"dlcappid"		"2364710"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4122022327396356786"
+					"size"		"28955355"
+					"download"		"25865648"
+				}
+				"public-beta"
+				{
+					"gid"		"4122022327396356786"
+					"size"		"28955355"
+					"download"		"25865648"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"2364710"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12119009"
+				"timeupdated"		"1693972499"
+			}
+			"public-beta"
+			{
+				"buildid"		"12252810"
+				"description"		"The public beta of LEZ. It may contain some errors."
+				"timeupdated"		"1695352332"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+	"ufs"
+	{
+		"quota"		"1073741824"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Daztrax/LEZ/"
+				"pattern"		"SavedData.lezdata"
+			}
+			"1"
+			{
+				"root"		"MacHome"
+				"path"		"/Library/Application Support/Daztrax/LEZ/"
+				"pattern"		"SavedData.lezdata"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Daztrax/LEZ/Backup/"
+				"pattern"		"SavedData.lezdata"
+			}
+			"3"
+			{
+				"root"		"MacHome"
+				"path"		"/Library/Application Support/Daztrax/LEZ/Backup/"
+				"pattern"		"SavedData.lezdata"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#statuswithscore"		"Score: %score%"
+					"#status_menu"		"In menus"
+					"#status_songlist"		"In the song list"
+					"#status_musicroom"		"In the music room | Listening to %songName% by %artistName%"
+					"#status_songplaying"		"Attempt %attemptValue% | Playing %songName% by %artistName%"
+					"#status_customsongplaying"		"Attempt %attemptValue% | Playing %songName% by %artistName% (Mapped by %creatorName%)"
+					"#status_results"		"In the results of %songName% by %artistName%"
+				}
+			}
+			"latam"
+			{
+				"tokens"
+				{
+					"#statuswithscore"		"Score: %score%"
+					"#status_menu"		"En el menu"
+					"#status_songlist"		"En la lista de canciones"
+					"#status_musicroom"		"En la sala de música | Escuchando %songName% by %artistName%"
+					"#status_songplaying"		"Intento %attemptValue% | Jugando %songName% de %artistName%"
+					"#status_customsongplaying"		"Intento %attemptValue% | Jugando %songName% de %artistName% (Mapeado por %creatorName%)"
+					"#status_results"		"En los resultados de %songName% de %artistName%"
+				}
+			}
+			"spanish"
+			{
+				"tokens"
+				{
+					"#statuswithscore"		"Score: %score%"
+					"#status_menu"		"En el menu"
+					"#status_songlist"		"En la lista de canciones"
+					"#status_musicroom"		"En la sala de música | Escuchando %songName% by %artistName%"
+					"#status_songplaying"		"Intento %attemptValue% | Jugando %songName% de %artistName%"
+					"#status_customsongplaying"		"Intento %attemptValue% | Jugando %songName% de %artistName% (Mapeado por %creatorName%)"
+					"#status_results"		"En los resultados de %songName% de %artistName%"
+				}
+			}
+		}
+	}
+}
