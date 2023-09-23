@@ -1,0 +1,116 @@
+"appinfo"
+{
+	"appid"		"1721750"
+	"common"
+	{
+		"name"		"Limitless Hunger Demo"
+		"type"		"Demo"
+		"parent"		"1706540"
+		"releasestate"		"released"
+		"clienticon"		"353ec6fcddd1480c028883a7c165eced53c5659e"
+		"clienttga"		"6ac0ada42b30cd1385d2e287654d5ac2ff723159"
+		"icon"		"587869e59d54b0ad4b85f5532615b4dd0fc38228"
+		"clienticns"		"353ec6fcddd1480c028883a7c165eced53c5659e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1628701356"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Void ink"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Void ink"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1628808137"
+		"gameid"		"1721750"
+	}
+	"extended"
+	{
+		"demoofappid"		"1706540"
+		"developer"		"Void ink"
+		"publisher"		"Void ink"
+	}
+	"config"
+	{
+		"installdir"		"LimitlessHungerDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LimitlessHungerDemo/Limitless hunger.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1721751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6530726633169604570"
+					"size"		"1538482510"
+					"download"		"425114992"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7190154"
+				"timeupdated"		"1628945832"
+			}
+		}
+	}
+}
