@@ -1,0 +1,141 @@
+"appinfo"
+{
+	"appid"		"1684810"
+	"common"
+	{
+		"name"		"Karanos Solitaire Demo"
+		"type"		"Demo"
+		"parent"		"1666090"
+		"releasestate"		"released"
+		"clienticon"		"4d81f6226131e3cee41a67ff9dc4672513b9cb72"
+		"clienttga"		"c17122b21fe532c3074a99b6f7d0472a83752c5e"
+		"icon"		"d3f78ebbec2655715e4032112d2bac0e5fe9da4e"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1625157999"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rokas B"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rokas B"
+			}
+		}
+		"steam_release_date"		"1625318254"
+		"gameid"		"1684810"
+	}
+	"extended"
+	{
+		"demoofappid"		"1666090"
+		"developer"		"Rokas B"
+		"publisher"		"Rokas B"
+	}
+	"config"
+	{
+		"installdir"		"Karanos Solitaire Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Karanos Solitaire Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Karanos Solitaire Demo.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Karanos Solitaire Demo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1684811"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6428101410638219895"
+					"size"		"36410759"
+					"download"		"10922864"
+				}
+			}
+		}
+		"1684812"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7839637410492273683"
+					"size"		"47062814"
+					"download"		"13618528"
+				}
+			}
+		}
+		"1684813"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3711386825547945611"
+					"size"		"89294652"
+					"download"		"13319360"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7007753"
+				"timeupdated"		"1625871246"
+			}
+		}
+	}
+}
