@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"670720"
+	"common"
+	{
+		"name"		"Stealthscape"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"a538be8d0ad28acc967a365c3db064a0ca1baf62"
+		"logo_small"		"a538be8d0ad28acc967a365c3db064a0ca1baf62_thumb"
+		"icon"		"54b57a89c9f6f84314d67a9a3fdcd836f168175f"
+		"clienticon"		"f5af0b30551946d7097649dff0a005495997137c"
+		"clienttga"		"95c689cc005de09bedb950cd7e81ba6daf1788c7"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1684886400"
+			"tested_build_id"		"7012533"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"Stealthscape"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"77.65460910151694"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1602009468"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Carson Kompon"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Carson Kompon"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_25"		"1"
+			"category_17"		"1"
+			"category_15"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1603166400"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"670720"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"699"
+			"3"		"1773"
+			"4"		"4711"
+			"5"		"8122"
+			"6"		"1734"
+			"7"		"4026"
+			"8"		"4182"
+			"9"		"4637"
+		}
+		"review_score"		"7"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Carson Kompon"
+		"publisher"		"Carson Kompon"
+		"homepage"		"https://stealthscape.net/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Stealthscape"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Stealthscape.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"4"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"workshopdepot"		"670720"
+		"baselanguages"		"english"
+		"670721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2647431244038268231"
+					"size"		"290242201"
+					"download"		"203966704"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7012533"
+				"timeupdated"		"1626024564"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2048000"
+		"maxnumfiles"		"8000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Stealthscape"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
