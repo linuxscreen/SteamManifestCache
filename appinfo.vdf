@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1694090"
+	"common"
+	{
+		"name"		"Immense Threat Demo"
+		"type"		"Demo"
+		"parent"		"1675610"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"e99272cf9d6f635435cb8652be8b16197767d50d"
+		"clienticon"		"fe3a4034c1570f2ffde2114fc2c6df142467c120"
+		"icon"		"5aacd118f4ee470801c87281994082df79198333"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1627591135"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Psycha's Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Psycha's Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627709119"
+		"community_visible_stats"		"1"
+		"gameid"		"1694090"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1675610"
+		"developer"		"Psycha's Games"
+		"publisher"		"Psycha's Games"
+	}
+	"config"
+	{
+		"installdir"		"Immense Threat Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ImmenseThreat.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ImmenseThreat.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1694091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5268816564930594170"
+					"size"		"289955894"
+					"download"		"129702544"
+				}
+			}
+		}
+		"1694092"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8952568479888826798"
+					"size"		"336670721"
+					"download"		"131588528"
+				}
+			}
+		}
+		"1694093"
+		{
+		}
+		"1694094"
+		{
+			"config"
+			{
+				"language"		"polish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8384334513999017432"
+					"size"		"126280"
+					"download"		"22768"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7733817"
+				"timeupdated"		"1637216009"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"threat.rit"
+			}
+		}
+	}
+}
