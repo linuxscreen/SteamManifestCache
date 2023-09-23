@@ -1,0 +1,354 @@
+"appinfo"
+{
+	"appid"		"1600530"
+	"common"
+	{
+		"name"		"3D Aim Trainer"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"188d256d89341a727ba3d3903b9c89a915450349"
+		"logo_small"		"188d256d89341a727ba3d3903b9c89a915450349_thumb"
+		"icon"		"3f483ba6fb937fd478a094da1017a5817ba9577b"
+		"clienttga"		"40cb764a1ceacce685e7d3cef4ebebc2b1b642ce"
+		"clienticon"		"e492d3abcf2b3ad1a25ae32b6e379da9f1a6ae41"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticns"		"0fa431246659146d59f478e7a91d30208c4f54bf"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"99.65116279069767"
+				"height_pct"		"70.74329137971976"
+			}
+		}
+		"store_asset_mtime"		"1666872419"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"3D Aim Trainer"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"3D Aim Trainer"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"SteelSeries"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"28"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1625726742"
+		"community_hub_visible"		"1"
+		"gameid"		"1600530"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5055"
+			"1"		"1663"
+			"2"		"1774"
+			"3"		"19"
+			"4"		"3814"
+			"5"		"3839"
+			"6"		"599"
+			"7"		"597"
+			"8"		"4106"
+			"9"		"5547"
+			"10"		"620519"
+			"11"		"379975"
+			"12"		"6730"
+			"13"		"12057"
+			"14"		"176981"
+			"15"		"1698"
+			"16"		"4168"
+			"17"		"1687"
+			"18"		"21"
+			"19"		"1662"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"3D Aim Trainer"
+		"publisher"		"3D Aim Trainer"
+		"homepage"		"https://www.3daimtrainer.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"3D Aim Trainer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"3dat.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"3D Aim Trainer Game Lobby"
+				}
+				"description"		"3D Aim Trainer Game Lobby"
+			}
+			"1"
+			{
+				"executable"		"3dat.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"canary"
+				}
+				"description_loc"
+				{
+					"english"		"3D Aim Trainer Game Lobby"
+				}
+				"description"		"3D Aim Trainer Game Lobby"
+			}
+			"2"
+			{
+				"executable"		"3dat.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"pre-production"
+				}
+				"description_loc"
+				{
+					"english"		"3D Aim Trainer Game Lobby"
+				}
+				"description"		"3D Aim Trainer Game Lobby"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1600531"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4541015563893128351"
+					"size"		"252932737"
+					"download"		"82346672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"canary"
+				{
+					"gid"		"E7400FE0A5FAA27D625164F9148BF177"
+					"size"		"3F6DEC22EF2441CDB358F30F04B0207B"
+					"download"		"7AF1F9CD9390F502AAFAD196E4A0BD76"
+				}
+				"pre-production"
+				{
+					"gid"		"162911CCF13DA569AE83815D500C5E32"
+					"size"		"7771B04694B13E023558AD9FF5E3F873"
+					"download"		"A4A23C0459110B109E8B97ADA43A3686"
+				}
+				"staging"
+				{
+					"gid"		"E5152825783655C48BF8999E095D1E6A"
+					"size"		"6F936A87EDD6A45A29B0FCD7BD3F778F"
+					"download"		"7FC17B9B9D3E58BC8004FF2C50CFA802"
+				}
+			}
+		}
+		"1600532"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3396711141398532428"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"canary"
+				{
+					"gid"		"01AE5BC3CC801171D08387FED0CF2736"
+					"size"		"E6094A169F44DB003A946674598D04DE"
+					"download"		"E6094A169F44DB003A946674598D04DE"
+				}
+				"pre-production"
+				{
+					"gid"		"30932208CD51104489828DD1C544D662"
+					"size"		"7B43F29E00BC55E375ECF42B97A0655C"
+					"download"		"199D9B6947D5363BE4FD2BC5030ED067"
+				}
+				"staging"
+				{
+					"gid"		"4F6C74CA33107546E18D03E29CAE9CAF"
+					"size"		"A6BF87F9AA1FCCCC23F6D38F92A2CBB9"
+					"download"		"A6BF87F9AA1FCCCC23F6D38F92A2CBB9"
+				}
+			}
+		}
+		"1600533"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7133598185722496402"
+					"size"		"448960133"
+					"download"		"290401280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"canary"
+				{
+					"gid"		"8799BD35A1AC53DF352D7E4188CCC4FE"
+					"size"		"B56BAF527084FF8EBB63C39CBA1DA7EC"
+					"download"		"B9C0BAB538AE7AB132086AFFF08CCDCB"
+				}
+				"pre-production"
+				{
+					"gid"		"229EFDD5BF2259DA02829CCF0270AEF9"
+					"size"		"B2B65345B84BB49DFAD5E29B7C4FFBF4"
+					"download"		"1F27342EF19C1726D5D2168AFFA601EC"
+				}
+				"staging"
+				{
+					"gid"		"E83B2F0B568EAB89DE710A50D80C3AF0"
+					"size"		"5E928FC6637087ADF27E669CAC023671"
+					"download"		"45F1E6DBAA95705577B02BD87D28D61C"
+				}
+			}
+		}
+		"1600534"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"655799831208937574"
+					"size"		"1466358274"
+					"download"		"909837872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"canary"
+				{
+					"gid"		"045EA1887385BD8F68A88BDF4686E112"
+					"size"		"69BCF614A7C73FDB28F0B61BBED971C0"
+					"download"		"7DCB1911B3B459BB2D064DC1084B9859"
+				}
+				"pre-production"
+				{
+					"gid"		"78E97CB8E19E08769AFEC0D87668089F"
+					"size"		"5E528BE10B6F98A7636CC60481A280A2"
+					"download"		"D9F25D90073BF1055C81A454AF82A7BC"
+				}
+				"staging"
+				{
+					"gid"		"728289B6A93E43E1C4C6C893E7771A0E"
+					"size"		"61A5D7D93952CDEB094E402F5CC054E2"
+					"download"		"7B0250C17C1B82674C7EDA2652ABC581"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12235308"
+				"timeupdated"		"1695207641"
+			}
+			"canary"
+			{
+				"buildid"		"12141377"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694171259"
+			}
+			"pre-production"
+			{
+				"buildid"		"12131526"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694084389"
+			}
+			"staging"
+			{
+				"buildid"		"12235225"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695206703"
+			}
+		}
+	}
+}
