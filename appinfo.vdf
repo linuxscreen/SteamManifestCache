@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"2315980"
+	"common"
+	{
+		"name"		"转厝 Demo"
+		"type"		"Demo"
+		"parent"		"2285270"
+		"icon"		"62662fd028305477cfd8271a1a3657ad5e8e8df8"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"781e79921516a59366a22e5899d8378c48af8a4f"
+		"clienticon"		"17cd3715486b4d407755ad945dee3e7c8c9f6b16"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.644534436793045"
+				"height_pct"		"87.58259741700599"
+			}
+		}
+		"store_asset_mtime"		"1679536723"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"獭獭社"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"663 Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1680136742"
+		"gameid"		"2315980"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2285270"
+		"developer"		"獭獭社"
+		"publisher"		"663 Games"
+	}
+	"config"
+	{
+		"installdir"		"转厝 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ZhuanCuo.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2315981"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6453131246341310272"
+					"size"		"4207728923"
+					"download"		"1422064800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_0"
+				{
+					"gid"		"DC24C2A5F2AF2DD3A69BCC5CD8652C0F"
+					"size"		"CBF1024197C98C2D2434F8581E885992"
+					"download"		"DF2EC5E571440370BDDC5C391C404109"
+				}
+				"dev_steamdeck"
+				{
+					"gid"		"4A71D420206BBCF43144D14B82F734BA"
+					"size"		"17E7D18DE4EFA73041526C59D1A2D8F5"
+					"download"		"2CE82E1D206BA88D3A0085FBDE0CB667"
+				}
+				"prerelease"
+				{
+					"gid"		"23A8A8E3853348288FD3C49632903648"
+					"size"		"98D848AA99B4F0E30B8615B72C59D0CC"
+					"download"		"CA2A9A66DC416B5B8BEE08C8ECCFDE69"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11102808"
+				"timeupdated"		"1682583841"
+			}
+			"dev_0"
+			{
+				"buildid"		"12258825"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695400623"
+			}
+			"dev_steamdeck"
+			{
+				"buildid"		"11069878"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691400138"
+			}
+			"prerelease"
+			{
+				"buildid"		"11882514"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691400311"
+			}
+		}
+	}
+}
