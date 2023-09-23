@@ -1,0 +1,286 @@
+"appinfo"
+{
+	"appid"		"1532360"
+	"common"
+	{
+		"name"		"Joyspring"
+		"type"		"Game"
+		"icon"		"60158c620f74eee4580d299f2d6028771fcfda2c"
+		"logo"		"229b9878bf6dc1a01439d5142a7b88e885eb55da"
+		"logo_small"		"229b9878bf6dc1a01439d5142a7b88e885eb55da_thumb"
+		"clienticns"		"a7282b8aa3f4b5017e973d8fd39427634f95e57b"
+		"linuxclienticon"		"662e8603b775def5c3c39757ddc50e785bb77fa3"
+		"clienticon"		"224f384b8990d5a7000dc570d1b1f0a42fb04fd9"
+		"clienttga"		"34fffbe1722aececcc6c4beeb97e03ae25b82941"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1651708800"
+			"tested_build_id"		"7224373"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.534883720930225"
+				"height_pct"		"60.63880313464735"
+			}
+		}
+		"store_asset_mtime"		"1629144994"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Heart Engine"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Studio Heart Engine"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1629179683"
+		"community_hub_visible"		"1"
+		"gameid"		"1532360"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"5379"
+			"2"		"597"
+			"3"		"492"
+			"4"		"3877"
+			"5"		"11014"
+			"6"		"1625"
+			"7"		"3834"
+			"8"		"4182"
+			"9"		"3964"
+			"10"		"1742"
+			"11"		"4305"
+			"12"		"4562"
+			"13"		"4252"
+			"14"		"4400"
+			"15"		"3871"
+			"16"		"15277"
+			"17"		"7208"
+			"18"		"5608"
+			"19"		"7250"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Studio Heart Engine"
+		"publisher"		"Studio Heart Engine"
+		"homepage"		"http://studioheartengine.com/projects.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Joyspring"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Joyspring.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Joyspring.app\\Contents\\MacOS\\Joyspring"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Joyspring.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1532361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8614271619829683332"
+					"size"		"382504544"
+					"download"		"254293440"
+				}
+			}
+		}
+		"1532362"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"391307456007307454"
+					"size"		"418381646"
+					"download"		"263009984"
+				}
+			}
+		}
+		"1532363"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8168283422200410015"
+					"size"		"383476432"
+					"download"		"254754976"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7224373"
+				"timeupdated"		"1629482563"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Godot/app_userdata/Joyspring"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"MacHome"
+				"path"		".local/share/godot/app_userdata/Joyspring"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+			"2"
+			{
+				"root"		"LinuxHome"
+				"path"		".local/share/godot/app_userdata/Joyspring"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+		}
+	}
+}
