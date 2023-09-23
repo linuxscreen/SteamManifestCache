@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"2190210"
+	"common"
+	{
+		"name"		"Kink.Inc"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"548ef95952e45b0be9339c027ac6e3051cfded0d"
+		"clienttga"		"c0c9e33b1d50ce6d7c64d3efe60eea3b41575a9f"
+		"clienticon"		"3493f38606e49c50fee07022988f235a03704624"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1680739200"
+			"tested_build_id"		"10513708"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"63.82730455075847"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1677839728"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tender Troupe"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tender Troupe"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1679316333"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2190210"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"24904"
+			"2"		"615955"
+			"3"		"379975"
+			"4"		"11014"
+			"5"		"4845"
+			"6"		"9551"
+			"7"		"1651"
+			"8"		"1719"
+			"9"		"1742"
+			"10"		"4195"
+			"11"		"4754"
+			"12"		"12472"
+			"13"		"4136"
+			"14"		"255534"
+			"15"		"3871"
+			"16"		"4486"
+			"17"		"4085"
+			"18"		"4878"
+			"19"		"5923"
+		}
+		"review_score"		"5"
+		"review_percentage"		"46"
+	}
+	"extended"
+	{
+		"developer"		"Tender Troupe"
+		"publisher"		"Tender Troupe"
+		"homepage"		"https://tendertroupe.com/kink-inc/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Kink.Inc"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Kink Inc Steam.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2190211"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4691605579364778762"
+					"size"		"282623480"
+					"download"		"57100288"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11050299"
+				"timeupdated"		"1681998140"
+			}
+		}
+	}
+}
