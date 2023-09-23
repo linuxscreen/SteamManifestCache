@@ -1,0 +1,184 @@
+"appinfo"
+{
+	"appid"		"1728970"
+	"common"
+	{
+		"name"		"Splash Cars Demo"
+		"type"		"Demo"
+		"parent"		"1464290"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"clienttga"		"686d7334de96e957bf6ae2ec807c0541c76b648b"
+		"clienticon"		"6d31a68087ad6e04fb13cc2478e21cd6d159d2aa"
+		"icon"		"f87649b53ef87e9260f09c6c5ea6080dda833afe"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"43.23196336168442"
+				"height_pct"		"65.8738242166437"
+			}
+		}
+		"store_asset_mtime"		"1629294871"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paper Bunker s.r.o."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paper Bunker s.r.o."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Paper Bunker s.r.o."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631085738"
+		"gameid"		"1728970"
+	}
+	"extended"
+	{
+		"demoofappid"		"1464290"
+		"developer"		"Paper Bunker s.r.o."
+		"publisher"		"Paper Bunker s.r.o."
+	}
+	"config"
+	{
+		"installdir"		"Splash Cars Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Splash Cars Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Splash Cars Demo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1728971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8999455437955039765"
+					"size"		"165972315"
+					"download"		"40978208"
+				}
+			}
+		}
+		"1728972"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8716761311117043479"
+					"size"		"168534378"
+					"download"		"42010624"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7802249"
+				"timeupdated"		"1638285332"
+			}
+		}
+	}
+}
