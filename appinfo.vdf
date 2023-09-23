@@ -1,0 +1,197 @@
+"appinfo"
+{
+	"appid"		"1306170"
+	"common"
+	{
+		"name"		"CrocApoca!! Crocodile maiden at the End of the World Demo"
+		"type"		"Demo"
+		"parent"		"1294620"
+		"releasestate"		"released"
+		"clienticon"		"95f83d758f86a9b8b0e4239d0d2849bf8f4a69b3"
+		"clienttga"		"c02915558e7946405e1ce98e70e0220d4137b87b"
+		"icon"		"7930f9acd6d3736c97b7f1a35d7e5ab0b91c22c3"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"English - CrocApoca!! Crocodile maiden at the End of the World Demo"
+			"schinese"		"CrocApoca!! 和鳄鱼少女共度世界末日 Demo"
+			"tchinese"		"CrocApoca!! 和鱷魚少女共度世界末日 Demo"
+			"german"		"CrocApoca!! Ein Krokodilsfräulein am Ende der Welt Demo"
+			"brazilian"		"CrocApoca!! Uma Donzela Crocodilo no Fim do Mundo Demo"
+			"latam"		"CrocApoca!! La doncella cocodrilo en el fin del mundo Demo"
+			"koreana"		"CrocApoca!! 크록아포카!! 악어 소녀와 세상의 종말 Demo"
+			"russian"		"CrocApoca!! Конец Света с Кроко-тян Demo"
+			"japanese"		"CrocApoca!! 世界の終末とワニの乙女 Demo"
+		}
+		"logo"		"bcda36a6a69c397a45e0e66f591726c113e899ab"
+		"logo_small"		"bcda36a6a69c397a45e0e66f591726c113e899ab_thumb"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"53.482059157321174"
+				"height_pct"		"50.81074928163397"
+			}
+		}
+		"store_asset_mtime"		"1592339761"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Flat Chest Dev"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"the last evil wizard"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Flat Chest Dev"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592170116"
+		"gameid"		"1306170"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1294620"
+		"developer"		"Flat Chest Dev"
+		"publisher"		"Flat Chest Dev"
+	}
+	"config"
+	{
+		"installdir"		"CrocApoca!! Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CrocApoca.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CrocApoca.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"CrocApoca.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1306171"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3771161444071431550"
+					"size"		"267897477"
+					"download"		"159420816"
+				}
+				"beta"
+				{
+					"gid"		"3771161444071431550"
+					"size"		"267897477"
+					"download"		"159420816"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6879549"
+				"timeupdated"		"1623852444"
+			}
+			"beta"
+			{
+				"buildid"		"6879549"
+				"timeupdated"		"1623852085"
+			}
+		}
+	}
+}
