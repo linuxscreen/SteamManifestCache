@@ -1,0 +1,118 @@
+"appinfo"
+{
+	"appid"		"1703310"
+	"common"
+	{
+		"name"		"The Mysteries of Ranko Togawa: Murder on the Marine Express Demo"
+		"type"		"Demo"
+		"parent"		"1673560"
+		"releasestate"		"released"
+		"clienttga"		"e4bcb355e55a03e1e12aeff4eddfdb94ba268c92"
+		"clienticon"		"9674e6e2a0b78971cdb51b0126762834fa19c982"
+		"icon"		"df386b7882b589c5796dfe29dde8095cc4869a4d"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1626898695"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"1564 Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"1564 Studio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"The Mysteries of Ranko Togawa"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"steam_release_date"		"1627024323"
+		"gameid"		"1703310"
+	}
+	"extended"
+	{
+		"demoofappid"		"1673560"
+		"developer"		"1564 Studio"
+		"publisher"		"1564 Studio"
+	}
+	"config"
+	{
+		"installdir"		"The Mysteries of Ranko Togawa Murder on the Marine Express Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MarineX.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MarineX.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"MarineX.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1703311"
+		{
+		}
+		"1703312"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7646793174300808769"
+					"size"		"215501662"
+					"download"		"83786512"
+				}
+			}
+		}
+		"baselanguages"		"english,french,spanish,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9427833"
+				"timeupdated"		"1661986744"
+			}
+		}
+	}
+}
