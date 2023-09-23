@@ -1,0 +1,207 @@
+"appinfo"
+{
+	"appid"		"1687090"
+	"common"
+	{
+		"name"		"Lostria"
+		"type"		"Game"
+		"clienttga"		"71cc5438e71f1894646c1470a8a0625dca984722"
+		"clienticns"		"49b62c814e2a7eed84a5a9fc820daa68b1f1f260"
+		"logo"		"eb1d701d7744f1da3d720cecbdac39a992a1d799"
+		"logo_small"		"eb1d701d7744f1da3d720cecbdac39a992a1d799_thumb"
+		"icon"		"440c0aaa1c4c83a965eb76d74b85ab9f65b72f27"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"clienticon"		"b05bc028a38f051b652ba96a340b44eb2e2d7bbd"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"64.6511627906977"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1627024629"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Krysta Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Krysta Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628267455"
+		"community_hub_visible"		"1"
+		"gameid"		"1687090"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"14139"
+			"1"		"1684"
+			"2"		"1775"
+			"3"		"5055"
+			"4"		"8122"
+			"5"		"17389"
+			"6"		"9"
+			"7"		"1741"
+			"8"		"4364"
+			"9"		"7569"
+			"10"		"1717"
+			"11"		"4191"
+			"12"		"4252"
+			"13"		"4791"
+			"14"		"3854"
+			"15"		"4057"
+			"16"		"5794"
+			"17"		"7926"
+			"18"		"6730"
+			"19"		"12057"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Krysta Games"
+		"publisher"		"Krysta Games"
+		"homepage"		"http://krystagames.com/lostria/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Lostria"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lostria.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Lostria.app\\Contents\\MacOS\\Lostria"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Lostria.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french"
+		"hasdepotsindlc"		"0"
+		"1687091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8463296051599015971"
+					"size"		"897402548"
+					"download"		"273189536"
+				}
+			}
+		}
+		"1687092"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8699892359208415523"
+					"size"		"903761550"
+					"download"		"274584016"
+				}
+			}
+		}
+		"1687093"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1626316205700227231"
+					"size"		"912406727"
+					"download"		"276595968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7645377"
+				"timeupdated"		"1635883151"
+			}
+		}
+	}
+}
