@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"1501430"
+	"common"
+	{
+		"name"		"Battle Talent Demo"
+		"type"		"Demo"
+		"parent"		"1331510"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"38ce8d180fde528b7bbd2c544f3e1762b90a3933"
+		"clienttga"		"fef19524a4cfe25985cefa3438b8f2b1dfb31b7d"
+		"icon"		"66f15d996aa6dd803173ebd262cb2bd5121499b6"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1608035485"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CrossLink"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CrossLink"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1608638638"
+		"gameid"		"1501430"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1331510"
+		"vrheadsetstreaming"		"1"
+		"developer"		"CrossLink"
+		"publisher"		"CrossLink"
+		"homepage"		"https://discord.gg/f4dmSG9"
+	}
+	"config"
+	{
+		"installdir"		"Battle Talent Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BattleTalent.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"1501431"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1375277326113300886"
+					"size"		"5592602818"
+					"download"		"2692457760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9850091"
+				"timeupdated"		"1667360971"
+			}
+		}
+	}
+}
