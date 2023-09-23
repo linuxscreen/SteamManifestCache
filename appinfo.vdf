@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"2119780"
+	"common"
+	{
+		"name"		"Loop Queen-地牢脫出3 輪迴女王 Demo"
+		"type"		"Demo"
+		"parent"		"1950450"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"name_localized"
+		{
+			"english"		"Loop Queen-Escape Dungeon 3 Demo"
+			"tchinese"		"Loop Queen-地牢脫出3 輪迴女王 Demo"
+			"schinese"		"Loop Queen-地牢脱出3 轮回女王 Demo"
+			"japanese"		"Loop Queen-Escape Dungeon 3 ループクイーン Demo"
+			"koreana"		"Loop Queen-던전탈출 3 루프 퀸 Demo"
+		}
+		"clienttga"		"1ca7cbb3c723b7ac560d6297d0bd7abf69d6e251"
+		"clienticon"		"aeaa9d55b0ed9143f886bf260fe3385c4e66c111"
+		"clienticns"		"af27b9d49b5ac265c2c51455707d929daca561bd"
+		"icon"		"4d3c8f4ae80e0521fd0d6c27e8d13750ee967009"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1663404450"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hide Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PlayMeow"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Hide Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"PlayMeow"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664760614"
+		"gameid"		"2119780"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1950450"
+		"developer"		"Hide Games"
+		"publisher"		"PlayMeow"
+		"homepage"		"https://www.facebook.com/gaming/HideGameStudio/"
+	}
+	"config"
+	{
+		"installdir"		"LoopQueen_Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LoopQueen.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"LoopQueen.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,schinese,tchinese,japanese"
+		"hasdepotsindlc"		"0"
+		"2119781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3507775597006687312"
+					"size"		"782175018"
+					"download"		"269801616"
+				}
+			}
+		}
+		"2119782"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1227847124735275505"
+					"size"		"807048023"
+					"download"		"278045440"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9639049"
+				"timeupdated"		"1664760018"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"100"
+	}
+}
