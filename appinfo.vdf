@@ -1,0 +1,232 @@
+"appinfo"
+{
+	"appid"		"1000560"
+	"common"
+	{
+		"name"		"Supraland Demo"
+		"type"		"Demo"
+		"parent"		"813630"
+		"releasestate"		"released"
+		"clienttga"		"91ab9e7dcebf5b1f3175213f423717fbce13ccff"
+		"clienticon"		"061639646c037b742f969cd3132735a826636475"
+		"icon"		"89b502b4d304b8873cb4a19044eb6712d7ea8948"
+		"logo"		"05d34928d8cd6a322163966eb9bc197c401d871b"
+		"logo_small"		"05d34928d8cd6a322163966eb9bc197c401d871b_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"metacritic_name"		"Supraland Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1554451601"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Supra Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Supra Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Supraverse"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1545295585"
+		"community_visible_stats"		"1"
+		"gameid"		"1000560"
+		"review_score"		"7"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"demoofappid"		"813630"
+		"developer"		"Supra Games"
+		"publisher"		"Supra Games"
+	}
+	"config"
+	{
+		"installdir"		"Supraland Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Supraland.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Supraland.sh"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,finnish,hungarian,turkish,brazilian"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1000561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2805247394728268569"
+					"size"		"2782301628"
+					"download"		"2483798192"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5351514"
+				"timeupdated"		"1596117990"
+			}
+		}
+	}
+}
