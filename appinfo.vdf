@@ -1,0 +1,226 @@
+"appinfo"
+{
+	"appid"		"302830"
+	"common"
+	{
+		"name"		"BLOCKADE 3D"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"clienttga"		"4793da79b8d2defa51ddb82d6c8f9456674a5f94"
+		"logo"		"cfab70bded8be36662cfd88f7d38291478f0ceae"
+		"logo_small"		"cfab70bded8be36662cfd88f7d38291478f0ceae_thumb"
+		"clienticon"		"b5edabb7c885dcac7d6656991c5a89ce55739078"
+		"icon"		"30bb5bd7471b01d76f093c3c4b063ace35cb109f"
+		"languages"
+		{
+			"english"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1669852800"
+			"tested_build_id"		"6371733"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"BLOCKADE 3D"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.66627771295215"
+				"height_pct"		"71.27760626929471"
+			}
+		}
+		"store_asset_mtime"		"1569057239"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Novalink"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Novalink"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1415174400"
+		"steam_release_date"		"1418997480"
+		"community_hub_visible"		"1"
+		"gameid"		"302830"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1774"
+			"2"		"3859"
+			"3"		"1663"
+			"4"		"19"
+			"5"		"1643"
+			"6"		"1659"
+			"7"		"493"
+			"8"		"3964"
+			"9"		"3843"
+			"10"		"1662"
+			"11"		"3810"
+			"12"		"1685"
+			"13"		"29363"
+			"14"		"128"
+			"15"		"4136"
+			"16"		"21"
+			"17"		"1695"
+			"18"		"597"
+			"19"		"7481"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"gamedir"		"BLOCKADE 3D"
+		"serverbrowsername"		"BLOCKADE 3D"
+		"developer"		"Novalink"
+		"publisher"		"Novalink"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Blockade3d"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Blockade3D.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"302831"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"24256371482798747"
+					"size"		"440282329"
+					"download"		"223480704"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6371733"
+				"timeupdated"		"1615554050"
+			}
+		}
+	}
+}
