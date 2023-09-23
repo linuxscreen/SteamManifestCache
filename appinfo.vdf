@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"1707040"
+	"common"
+	{
+		"name"		"OctoQuest"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"icon"		"c4bd0d6f5781a38a11dedcb4dfda40fcee5e7ded"
+		"clienticon"		"b704d2397e55375a32b33d0312ad93f8ae18fd5d"
+		"clienttga"		"29db16486c1568f2ef5f23bf32194d7545a2ab24"
+		"clienticns"		"b10d1ed63000a0d5c2d830cf273e34c39a0b6d34"
+		"logo"		"fd26de61ebb67db10758d7d13810184be400d3d6"
+		"logo_small"		"fd26de61ebb67db10758d7d13810184be400d3d6_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1628046328"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Your Infamous Harp"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Jacob Tiller"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Your Infamous"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629204892"
+		"community_hub_visible"		"1"
+		"gameid"		"1707040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1714"
+			"1"		"21"
+			"2"		"3964"
+			"3"		"4166"
+			"4"		"1628"
+			"5"		"1710"
+			"6"		"4106"
+			"7"		"1625"
+			"8"		"1773"
+			"9"		"5379"
+			"10"		"5030"
+			"11"		"19"
+			"12"		"3798"
+			"13"		"3834"
+			"14"		"3871"
+			"15"		"4305"
+			"16"		"7743"
+			"17"		"3916"
+			"18"		"6971"
+			"19"		"1695"
+		}
+		"review_score"		"7"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Your Infamous Harp"
+		"publisher"		"Your Infamous"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"OctoQuest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"octoquest.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"myApp_osx.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1707041"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8903210409165314413"
+					"size"		"134932750"
+					"download"		"91670096"
+				}
+			}
+		}
+		"1707043"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8093798310660568846"
+					"size"		"112254299"
+					"download"		"85891440"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7147078"
+				"timeupdated"		"1628215905"
+			}
+		}
+	}
+}
