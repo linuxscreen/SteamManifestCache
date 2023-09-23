@@ -1,0 +1,159 @@
+"appinfo"
+{
+	"appid"		"1727050"
+	"common"
+	{
+		"name"		"Absylon 7 Demo"
+		"type"		"Demo"
+		"parent"		"1727030"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"b2ca16853f13c1f555adc7985e2078f839207f78"
+		"clienttga"		"aaaaf80bec6d0c531db220d9b5c7606cc61e89d7"
+		"icon"		"2a5799079cd92da20faaedb64d944ecfe58c1218"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.558139534883722"
+				"height_pct"		"37.8413678461173"
+			}
+		}
+		"store_asset_mtime"		"1630215689"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TinyPlay"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TinyPlay"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629316920"
+		"gameid"		"1727050"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1727030"
+		"developer"		"TinyPlay"
+		"publisher"		"TinyPlay"
+		"homepage"		"https://absylon7.ru/"
+	}
+	"config"
+	{
+		"installdir"		"Absylon 7 Demo"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Absylon 7.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1727051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"257476418022905024"
+					"size"		"6980407727"
+					"download"		"2727303104"
+				}
+			}
+		}
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7207886"
+				"timeupdated"		"1629273822"
+			}
+		}
+	}
+}
