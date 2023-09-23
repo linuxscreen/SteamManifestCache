@@ -1,0 +1,148 @@
+"appinfo"
+{
+	"appid"		"2336500"
+	"common"
+	{
+		"name"		"The Kaiyo Mission Demo"
+		"type"		"Demo"
+		"parent"		"2248280"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"29b4270515f9056030c744a5a533377223543fa1"
+		"clienticon"		"ad99825ade6782dd798b8993ec741d24e197fabd"
+		"clienttga"		"a5c0198149ad8a135640a05c53cee5deac671a6b"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1677657088"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"eXplore Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"eXplore Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1678988467"
+		"gameid"		"2336500"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2248280"
+		"developer"		"eXplore Studio"
+		"publisher"		"eXplore Studio"
+	}
+	"config"
+	{
+		"installdir"		"The Kaiyo Mission Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheKaiyoMission_GAME.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,spanish,tchinese,polish,arabic"
+		"2336501"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2929369055084587019"
+					"size"		"1523686785"
+					"download"		"1379063232"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12051709"
+				"timeupdated"		"1693245336"
+			}
+		}
+	}
+}
