@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1772820"
+	"common"
+	{
+		"name"		"Mushy"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"0c3ae221d86fdc22279d58a594d459e18c3e787e"
+		"logo_small"		"0c3ae221d86fdc22279d58a594d459e18c3e787e_thumb"
+		"icon"		"b3d397976f01d9aeeee2db6fc3c435ef8ca4271a"
+		"clienticon"		"c320197753cd9feb8a0ef704ae99b12882736555"
+		"clienttga"		"4a2743d7586b9f576f24f816ef2f75b5b7ba2f73"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1645045585"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Barji"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Barji"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644970862"
+		"community_hub_visible"		"1"
+		"gameid"		"1772820"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"4191"
+			"2"		"4305"
+			"3"		"19"
+			"4"		"4106"
+			"5"		"1684"
+			"6"		"21"
+			"7"		"4195"
+			"8"		"3839"
+			"9"		"4094"
+			"10"		"4166"
+			"11"		"180368"
+			"12"		"5673"
+			"13"		"16094"
+			"14"		"1755"
+			"15"		"3993"
+			"16"		"7250"
+			"17"		"3968"
+			"18"		"113"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Barji"
+		"publisher"		"Barji"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mushy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mushy.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mushy.app/Contents/MacOS/Mushy"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"1772821"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3582828442133083283"
+					"size"		"112271117"
+					"download"		"27948176"
+				}
+			}
+		}
+		"1772822"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6659003290119897061"
+					"size"		"138070592"
+					"download"		"36106048"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8340979"
+				"timeupdated"		"1646839870"
+			}
+		}
+	}
+}
