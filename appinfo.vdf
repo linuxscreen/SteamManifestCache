@@ -1,0 +1,121 @@
+"appinfo"
+{
+	"appid"		"1736020"
+	"common"
+	{
+		"name"		"Papertris Demo"
+		"type"		"Demo"
+		"parent"		"1633640"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"788d9a3716f545536c91a613a6d6ec209b83cf5b"
+		"clienttga"		"d765e687fe782a4118377e716a3c236680d28910"
+		"icon"		"3aa90333e933d9a9dced3e78278d4c78f04aec6e"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1631015367"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paper_Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paper_Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631100476"
+		"gameid"		"1736020"
+	}
+	"extended"
+	{
+		"demoofappid"		"1633640"
+		"developer"		"Paper_Games"
+		"publisher"		"Paper_Games"
+		"homepage"		"https://twitter.com/_Paper_Games_"
+	}
+	"config"
+	{
+		"installdir"		"Papertris Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Papertris - Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"1736021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3346939560426424639"
+					"size"		"161115382"
+					"download"		"63312432"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8236909"
+				"timeupdated"		"1645300646"
+			}
+		}
+	}
+}
