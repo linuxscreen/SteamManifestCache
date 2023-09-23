@@ -1,0 +1,185 @@
+"appinfo"
+{
+	"appid"		"2335980"
+	"common"
+	{
+		"name"		"Cards We're Dealt Demo"
+		"type"		"Demo"
+		"parent"		"2335960"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"bbd9133a0fe372ef74a69475e6a4a4ad7eed3645"
+		"clienticon"		"c9edbfc2aeb230192c4022717eeb2ce42c30155b"
+		"clienttga"		"5c40c735607f3951c341b93cc01f9ba2d326cb9e"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"38.098016336056"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1686005110"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cole Chittim"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cole Chittim"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682061655"
+		"gameid"		"2335980"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2335960"
+		"developer"		"Cole Chittim"
+		"publisher"		"Cole Chittim"
+		"homepage"		"https://www.colechittim.com/cwd.html"
+	}
+	"config"
+	{
+		"installdir"		"Cards We're Dealt Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CWD.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CWD.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"CWD.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2335981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2998565158953747256"
+					"size"		"300164856"
+					"download"		"188119072"
+				}
+			}
+		}
+		"2335982"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7947628506669748853"
+					"size"		"395782547"
+					"download"		"214679024"
+				}
+			}
+		}
+		"2335983"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1693596784333451132"
+					"size"		"334405161"
+					"download"		"190850144"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12026948"
+				"timeupdated"		"1692916507"
+			}
+		}
+	}
+}
