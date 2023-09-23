@@ -1,0 +1,200 @@
+"appinfo"
+{
+	"appid"		"1167570"
+	"common"
+	{
+		"name"		"PROJECT: RUN"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"575f8c5210141407480d169232e6f07ad1bb188d"
+		"logo_small"		"575f8c5210141407480d169232e6f07ad1bb188d_thumb"
+		"icon"		"c83f50bee83e31297f617855b4293c0753480c31"
+		"clienttga"		"6be9566802829adcbe0a066402a8b1b813ad7869"
+		"clienticon"		"f14fc89ebcdfc3d3524382871570ae39c99bbd5f"
+		"metacritic_name"		"Project Run"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.42865815191385"
+				"height_pct"		"53.78563823494617"
+			}
+		}
+		"store_asset_mtime"		"1602046531"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"JaredGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JaredGames"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1577779472"
+		"community_hub_visible"		"1"
+		"gameid"		"1167570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"699"
+			"3"		"113"
+			"4"		"4036"
+			"5"		"8666"
+			"6"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"JaredGames"
+		"publisher"		"JaredGames"
+		"isfreeapp"		"1"
+		"listofdlc"		"1438730"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"PROJECTRUN"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PROJECT RUN.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"prmacrelease.app\\Contents\\MacOS\\PROJECT RUN"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"hasdepotsindlc"		"0"
+		"1167572"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3265954650030321787"
+					"size"		"442794350"
+					"download"		"217451168"
+				}
+			}
+		}
+		"1167571"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7625310043423176747"
+					"size"		"441639568"
+					"download"		"217305968"
+				}
+			}
+		}
+		"1167573"
+		{
+			"config"
+			{
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5773481"
+				"timeupdated"		"1604345280"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"10000"
+	}
+}
