@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"2253460"
+	"common"
+	{
+		"name"		"BRIGHT TRACER"
+		"type"		"Game"
+		"icon"		"f108897fa7ef7111a38713bb1dfabccbdfbc639f"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"8e0b7483235bf8b39ea843609a39bfe7e8218510"
+		"clienttga"		"6a0970a10ca126e63c7f3781a97f2cd41543b4a9"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2253460_eula_0"
+				"name"		"BRIGHT TRACER EULA"
+				"url"		"https://store.steampowered.com//eula/2253460_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"49.891807560888196"
+				"height_pct"		"43.749999999999986"
+			}
+		}
+		"store_asset_mtime"		"1678874256"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HEXADRIVE Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HEXADRIVE Inc."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1685516400"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2253460"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"8666"
+			"2"		"4036"
+			"3"		"1734"
+			"4"		"5395"
+			"5"		"3942"
+			"6"		"1625"
+			"7"		"1697"
+			"8"		"4182"
+			"9"		"4191"
+			"10"		"4115"
+			"11"		"7481"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"HEXADRIVE Inc."
+		"publisher"		"HEXADRIVE Inc."
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BRIGHT TRACER"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"innocent.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2253461"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5064570647976060357"
+					"size"		"277192864"
+					"download"		"179828976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"F45C6E3F4785CAD023D369D411594316"
+					"size"		"B10190A17024BE6DB9C52C7F60488E23"
+					"download"		"D48F4456D51CEDD8C4F0B637436885FC"
+				}
+				"pre-default"
+				{
+					"gid"		"912DD3E4DC63B0DB3D700D20CF77B845"
+					"size"		"0D878E439B88C1DA11F149A87062096D"
+					"download"		"F24BE2168D0E97668DB81F71FDCDC222"
+				}
+				"shipping"
+				{
+					"gid"		"07834BC4354AB9F3040CADCBE125B7C7"
+					"size"		"EFDA83738A4D2E71800465074731E0E0"
+					"download"		"6B07326E82C1DACD3DE7B8896CFA3F1D"
+				}
+			}
+		}
+		"baselanguages"		"japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11453768"
+				"timeupdated"		"1687141198"
+			}
+			"development"
+			{
+				"buildid"		"11453858"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686618807"
+			}
+			"pre-default"
+			{
+				"buildid"		"10486273"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675672833"
+			}
+			"shipping"
+			{
+				"buildid"		"11453768"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686617883"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
