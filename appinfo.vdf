@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"1757610"
+	"common"
+	{
+		"name"		"Puppet Master: The Game"
+		"type"		"Game"
+		"logo"		"57cbf109c18f73522c8dcc7d5c130ca7758709cd"
+		"logo_small"		"57cbf109c18f73522c8dcc7d5c130ca7758709cd_thumb"
+		"icon"		"af0cf03021a986f0b15496078b019414a5f83d2c"
+		"clienttga"		"4843de113b7bd1d79c1d356464e2e78f501516c5"
+		"clienticns"		"87f365c21a213bbdaf100d3fd7a03a85cfb0b630"
+		"clienticon"		"1598a5fbff7166eca07fcc53e59f0ff3f197bba3"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"26.826182567872905"
+				"height_pct"		"60.73530394363699"
+			}
+		}
+		"store_asset_mtime"		"1682630773"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"October Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"October Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Full Moon Features"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Puppet Master"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1677672360"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1757610"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1774"
+			"2"		"1663"
+			"3"		"620519"
+			"4"		"3814"
+			"5"		"4191"
+			"6"		"3839"
+			"7"		"1697"
+			"8"		"7743"
+			"9"		"6691"
+			"10"		"3859"
+			"11"		"1667"
+			"12"		"4166"
+			"13"		"4004"
+			"14"		"1687"
+			"15"		"10808"
+			"16"		"3978"
+			"17"		"1775"
+			"18"		"1684"
+			"19"		"1659"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"October Games"
+		"publisher"		"October Games"
+		"homepage"		"https://www.octobergames.com/puppet-master-the-game"
+		"isfreeapp"		"1"
+		"listofdlc"		"2324640,2324641,2324643,2324644,2324645,2324646"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Puppet Master The Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Puppet Master The Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1757611"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"450084207057024188"
+					"size"		"7091783790"
+					"download"		"2931092496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"AC4C5F1385C5D4FE504BF7229451699F"
+					"size"		"4F10E8681717AC12914FED24A6A447AF"
+					"download"		"A23ECF9A71E220F1A7DBB489B80CB7E0"
+				}
+				"trailerbuild"
+				{
+					"gid"		"901E2A07380BBA3EEE11C88B685748AD"
+					"size"		"3F32C37245952C5D284C43A21135FCF3"
+					"download"		"095F4EF0888737167455DB479369A1DC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12259281"
+				"timeupdated"		"1695404173"
+			}
+			"testing"
+			{
+				"buildid"		"12232117"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695179072"
+			}
+			"trailerbuild"
+			{
+				"buildid"		"11497893"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687049310"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
