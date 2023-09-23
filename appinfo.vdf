@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1889520"
+	"common"
+	{
+		"name"		"Истории ужасов: Воскрешение"
+		"type"		"Game"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1889520_eula_0"
+				"name"		"Истории ужасов: Воскрешение EULA"
+				"url"		"https://store.steampowered.com//eula/1889520_eula_0"
+				"version"		"1"
+			}
+		}
+		"logo"		"cdc0eb413ee63dfd1c30501bcc1768c6c31f9497"
+		"logo_small"		"cdc0eb413ee63dfd1c30501bcc1768c6c31f9497_thumb"
+		"icon"		"8519d91bd2392815b02b773557742eeb14a5f2ea"
+		"clienticon"		"b80e445d971c61de6cc23e30cd83c41c111a464c"
+		"clienttga"		"016fb6ad924b8ee710d5785f84116f4f469b3c92"
+		"clienticns"		"ab2fda64189225de5ff692282a29827309714997"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1692921600"
+			"tested_build_id"		"8268944"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1643823093"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ilya Shepelev"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ilya Shepelev"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Истории ужасов"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1645249772"
+		"community_hub_visible"		"1"
+		"gameid"		"1889520"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1667"
+			"2"		"615955"
+			"3"		"1738"
+			"4"		"3839"
+			"5"		"1721"
+			"6"		"1646"
+			"7"		"4064"
+			"8"		"1659"
+			"9"		"4182"
+			"10"		"21"
+			"11"		"1664"
+			"12"		"4231"
+			"13"		"198631"
+			"14"		"4106"
+			"15"		"3834"
+			"16"		"5613"
+			"17"		"30358"
+			"18"		"4166"
+			"19"		"3978"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Ilya Shepelev"
+		"publisher"		"Ilya Shepelev"
+		"homepage"		"https://www.instagram.com/shepelevgamedev"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Истории ужасов Воскрешение"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MyHorror.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1889521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2170844255754332536"
+					"size"		"3174512300"
+					"download"		"1118534704"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8268944"
+				"timeupdated"		"1645721058"
+			}
+		}
+	}
+}
