@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"1825720"
+	"common"
+	{
+		"name"		"Japanese Rail Sim: Journey to Kyoto Demo"
+		"type"		"Demo"
+		"parent"		"1761290"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"japanese"		"鉄道にっぽん！路線たび 叡山電車編 体験版"
+			"brazilian"		"Simulador Ferroviário Japonês: Viagem a Kyoto Demo"
+		}
+		"icon"		"b2bb3bdb4a62aa6687f39879f72119501e0ae8f8"
+		"clienticon"		"e1931fbe272444494d998a546042ec849fc70d66"
+		"clienttga"		"d12cf8a89f10b02544dcf06dd4e32d3f78069b2f"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"brazilian"		"capsule_231x87_brazilian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"brazilian"		"header_brazilian.jpg"
+		}
+		"store_asset_mtime"		"1674100542"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sonic Powered Co.,Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sonic Powered Co.,Ltd."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1655910665"
+		"gameid"		"1825720"
+	}
+	"extended"
+	{
+		"demoofappid"		"1761290"
+		"developer"		"Sonic Powered Co.,Ltd."
+		"publisher"		"Sonic Powered Co.,Ltd."
+	}
+	"config"
+	{
+		"installdir"		"Japanese Rail Sim Journey to Kyoto"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Japanese Rail Sim Journey to Kyoto.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2656948673"
+			{
+				"controller_type"		"controller_ps5"
+				"enabled_branches"		"default,beta_dev"
+				"use_action_block"		"false"
+			}
+			"2656951482"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,beta_dev"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1825721"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4418661174348046130"
+					"size"		"8149629313"
+					"download"		"7135667632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_dev"
+				{
+					"gid"		"9D78B9FFFFB37DE9D8CDE69DC4E83B1B"
+					"size"		"96C085A746EAB404F8B44C5C7CAA3C7E"
+					"download"		"CC83BE8C5E54CD49B8AEE46F3AC29700"
+				}
+			}
+		}
+		"baselanguages"		"english,japanese,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10353880"
+				"timeupdated"		"1674399215"
+			}
+			"beta_dev"
+			{
+				"buildid"		"10353880"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674095972"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/Japanese Rail Sim Journey to Kyoto/Steam/{64BitSteamID}"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
