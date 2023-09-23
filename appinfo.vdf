@@ -1,0 +1,243 @@
+"appinfo"
+{
+	"appid"		"1680700"
+	"common"
+	{
+		"name"		"Purgo box"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"d35cb752bc8e760528c082802991109d19e8f7bc"
+		"logo"		"57d5d3be9e1c380de916342c803f351190a94a91"
+		"logo_small"		"57d5d3be9e1c380de916342c803f351190a94a91_thumb"
+		"clienticon"		"70f54e0ab809be1f0323a60f371037a304e8cecd"
+		"clienttga"		"c17b623c68be7133ea2431c19817b2335de514a7"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1689033600"
+			"tested_build_id"		"10337458"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"6"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1625470243"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"rentaka"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"rentaka"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1626255224"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1680700"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"4106"
+			"2"		"5652"
+			"3"		"1667"
+			"4"		"4400"
+			"5"		"1695"
+			"6"		"113"
+			"7"		"1685"
+			"8"		"128"
+			"9"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"rentaka"
+		"publisher"		"rentaka"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Purgo box"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"japanese"
+		"hasdepotsindlc"		"0"
+		"1680701"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7371038616543989769"
+					"size"		"1413017656"
+					"download"		"1061511648"
+				}
+			}
+		}
+		"1680702"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8509827588806830252"
+					"size"		"1412561938"
+					"download"		"1061455280"
+				}
+			}
+		}
+		"1680705"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"946458331061702526"
+					"size"		"1362127422"
+					"download"		"1052262176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11670984"
+				"timeupdated"		"1689045146"
+			}
+		}
+	}
+}
