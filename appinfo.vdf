@@ -1,0 +1,117 @@
+"appinfo"
+{
+	"appid"		"2252920"
+	"common"
+	{
+		"name"		"PROJECT QUARANTINE Demo"
+		"type"		"Demo"
+		"parent"		"2116120"
+		"releasestate"		"released"
+		"icon"		"f66fc5b8f203a2a18135d90c0c8378a054eda981"
+		"clienttga"		"5113ec5e8ff8c5b8adbcc35191b5e1cd71d35a35"
+		"clienticon"		"380a25702aadcfe8d6286144833dbb933973ba1f"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+		}
+		"store_asset_mtime"		"1671801115"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Games Of Tomorrow GmbH"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Games Of Tomorrow GmbH"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"gameid"		"2252920"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2116120"
+		"developer"		"Games Of Tomorrow GmbH"
+		"publisher"		"Games Of Tomorrow GmbH"
+	}
+	"config"
+	{
+		"installdir"		"PROJECT QUARANTINE Demo"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Test_C.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2252921"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3170123210455565081"
+					"size"		"14519890623"
+					"download"		"6278764352"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10913898"
+				"timeupdated"		"1680465724"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
