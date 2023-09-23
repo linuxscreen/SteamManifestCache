@@ -1,0 +1,267 @@
+"appinfo"
+{
+	"appid"		"636040"
+	"common"
+	{
+		"name"		"Pixel Worlds"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"logo"		"a561a4476c7c8cf648210e003c7d93cfe6442769"
+		"logo_small"		"a561a4476c7c8cf648210e003c7d93cfe6442769_thumb"
+		"icon"		"dae6926bd9623315af4bc7d1b80568e301375ca2"
+		"clienttga"		"442d0bb78a091419b22d17f04fae454005611bbf"
+		"clienticon"		"ecc3c83b92785fb30ef39a9daedd56fc64c19431"
+		"clienticns"		"4cf723850a2067a772c4036d0f36d270a231e8c4"
+		"linuxclienticon"		"2913bb35b4ebe036dc83457537b4cd97dbf1826b"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"636040_eula_0"
+				"name"		"Pixel Worlds EULA"
+				"url"		"http://store.steampowered.com//eula/636040_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"metacritic_name"		"Pixel Worlds"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36"
+				"height_pct"		"37"
+			}
+		}
+		"store_asset_mtime"		"1560416069"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kukouri Mobile Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kukouri Mobile Entertainment"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1484985600"
+		"steam_release_date"		"1496990525"
+		"community_hub_visible"		"1"
+		"gameid"		"636040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"3964"
+			"2"		"128"
+			"3"		"3810"
+			"4"		"21"
+			"5"		"3859"
+			"6"		"492"
+			"7"		"3871"
+			"8"		"1702"
+			"9"		"1625"
+			"10"		"1695"
+			"11"		"1754"
+			"12"		"19"
+			"13"		"1685"
+			"14"		"4136"
+			"15"		"5350"
+			"16"		"1643"
+			"17"		"4182"
+			"18"		"7481"
+			"19"		"6650"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Kukouri Mobile Entertainment"
+		"publisher"		"Kukouri Mobile Entertainment"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Pixel Worlds"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PixelWorlds.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"PixelWorlds.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"636041"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"353721115697978098"
+					"size"		"416012570"
+					"download"		"78789568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"735584EB40B18B560FE90B0973D159DD"
+					"size"		"D76675AD3A9E1F5650FB95A208E9F732"
+					"download"		"55C96F6A425039286F8F2DEF725E1C6B"
+				}
+				"localdev"
+				{
+					"gid"		"79537559432C4BF24352ABB0FFC9461B"
+					"size"		"50C4A85E93140DC4E94EC7D67AFE13BF"
+					"download"		"50C4A85E93140DC4E94EC7D67AFE13BF"
+				}
+				"test"
+				{
+					"gid"		"5B397FAD46E26DD8644807CA1A107935"
+					"size"		"93CD173F4FCBBDF2F893FD7166EA021C"
+					"download"		"E8527625E1597080E56F9F4743270849"
+				}
+			}
+		}
+		"636042"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2928629228647877732"
+					"size"		"189503228"
+					"download"		"92574912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"56AC2F778F11DB8134A45AD5DF6FD43A"
+					"size"		"086070C5D550BF51C4C0672616CE8DEF"
+					"download"		"C9F9267D1D6D71AC003E56FE57F4ECBD"
+				}
+				"localdev"
+				{
+					"gid"		"72F043CD2BC98AE54D0B6582E9826D20"
+					"size"		"37E6626A511D22FBA28B8BA84A43F6F6"
+					"download"		"A4DCB3EA7C1349C43149BB131FDAFEAB"
+				}
+				"test"
+				{
+					"gid"		"2826E02C656A7D89E0F897FE30BF8F29"
+					"size"		"B94A89E7F501F0228A5E20BC18307B1E"
+					"download"		"1667D03D679AC9273F4F140EB7D394B7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11575350"
+				"timeupdated"		"1687937693"
+			}
+			"devtest"
+			{
+				"buildid"		"11513986"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687256371"
+			}
+			"localdev"
+			{
+				"buildid"		"6357836"
+				"pwdrequired"		"1"
+				"timeupdated"		"1615363654"
+			}
+			"test"
+			{
+				"buildid"		"11575350"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687932950"
+			}
+		}
+	}
+}
