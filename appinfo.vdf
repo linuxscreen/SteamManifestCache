@@ -1,0 +1,264 @@
+"appinfo"
+{
+	"appid"		"1906590"
+	"common"
+	{
+		"name"		"WW2 Rebuilder: Germany Prologue"
+		"type"		"Game"
+		"icon"		"4232161059b8c23f144a590f42ff0cbf3ced4882"
+		"logo"		"7853d54fca5f5395f1943475aae8d51b70a47ae0"
+		"logo_small"		"7853d54fca5f5395f1943475aae8d51b70a47ae0_thumb"
+		"clienticon"		"d19a5f24ee149d2468070a7c612a08b8f1123d82"
+		"clienttga"		"b26bc0631ed8f596a8a5e31cd9b1e8e6faf27c25"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1687478400"
+			"tested_build_id"		"10300325"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"60.966741843196196"
+				"height_pct"		"67.87912215650968"
+			}
+		}
+		"store_asset_mtime"		"1674149274"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Madnetic Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Madnetic Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Madnetic Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1658840643"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1906590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9204"
+			"1"		"1643"
+			"2"		"597"
+			"3"		"4150"
+			"4"		"10235"
+			"5"		"4182"
+			"6"		"1654"
+			"7"		"599"
+			"8"		"84"
+			"9"		"4175"
+			"10"		"1678"
+			"11"		"1702"
+			"12"		"7332"
+			"13"		"8945"
+			"14"		"3968"
+			"15"		"3839"
+			"16"		"3810"
+			"17"		"3987"
+			"18"		"5300"
+			"19"		"4328"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Madnetic Games"
+		"publisher"		"Madnetic Games"
+		"homepage"		"https://www.madnetic-games.com/ww2-rebuilder.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"WW2 Rebuilder Germany Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Rebuilder.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1906591"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2072515353621886793"
+					"size"		"36238543748"
+					"download"		"35096168384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"6B5BBEC97E06314A5B3394698D33AB54"
+					"size"		"FDAC8829C21145D72440D6F6EEE3D53F"
+					"download"		"D30FB29A91090FDD7CA56C45D84C2873"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10300325"
+				"timeupdated"		"1673460250"
+			}
+			"testing"
+			{
+				"buildid"		"10796712"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679072281"
+			}
+		}
+	}
+}
