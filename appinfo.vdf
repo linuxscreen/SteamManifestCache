@@ -1,0 +1,311 @@
+"appinfo"
+{
+	"appid"		"1665140"
+	"common"
+	{
+		"name"		"SCARLET NEXUS Story Demo"
+		"type"		"Demo"
+		"parent"		"775500"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"03e1fdace3b4817a84bcede19b337456e9705bfc"
+		"clienttga"		"ccc3cc815727db168520162b730c1a46cce12e69"
+		"icon"		"f459d3526d2d88c60021f0f3bf8d7e27ea69b43c"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1665140_eula_0"
+				"name"		"SCARLET NEXUS Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1665140_eula_0"
+				"version"		"1"
+			}
+		}
+		"name_localized"
+		{
+			"tchinese"		"緋紅結繫 Story Demo"
+			"koreana"		"스칼렛 스트링스 Story Demo"
+			"schinese"		"绯红结系 Story Demo"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1649853881"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BANDAI NAMCO Studios Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BANDAI NAMCO Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"BANDAI NAMCO Entertainment"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629756750"
+		"gameid"		"1665140"
+	}
+	"extended"
+	{
+		"demoofappid"		"775500"
+		"developer"		"BANDAI NAMCO Studios Inc."
+		"publisher"		"BANDAI NAMCO Entertainment"
+	}
+	"config"
+	{
+		"installdir"		"ScarletNexusDemoEdition"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ScarletNexusDemoEdition.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"ScarletNexusDemoEdition"
+				}
+				"description"		"ScarletNexusDemoEdition"
+			}
+			"1"
+			{
+				"executable"		"ScarletNexusDemoEditionOld.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"SCARLET NEXUS Demo Edition"
+					"koreana"		"스칼렛 스트링스 Demo Edition"
+					"schinese"		"绯红结系 Demo Edition"
+					"tchinese"		"緋紅結繫 Demo Edition"
+				}
+				"description"		"SCARLET NEXUS Demo Edition"
+			}
+			"2"
+			{
+				"executable"		"ScarletNexusDemoEditionOld.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qa_debug"
+				}
+				"description_loc"
+				{
+					"english"		"SCARLET NEXUS Demo Edition"
+					"koreana"		"스칼렛 스트링스 Demo Edition"
+					"schinese"		"绯红结系 Demo Edition"
+					"tchinese"		"緋紅結繫 Demo Edition"
+				}
+				"description"		"SCARLET NEXUS Demo Edition"
+			}
+			"3"
+			{
+				"executable"		"ScarletNexusDemoEditionOld.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"dev_debug"
+				}
+				"description_loc"
+				{
+					"english"		"SCARLET NEXUS Demo Edition"
+					"koreana"		"스칼렛 스트링스 Demo Edition"
+					"schinese"		"绯红结系 Demo Edition"
+					"tchinese"		"緋紅結繫 Demo Edition"
+				}
+				"description"		"SCARLET NEXUS Demo Edition"
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1665141"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"176057286518507057"
+					"size"		"26399904771"
+					"download"		"19343365600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_debug"
+				{
+					"gid"		"54EFBFBF652F824632C4A5796B5EA5CF"
+					"size"		"FFEE7E75123FAF862485CF3739DAFBB4"
+					"download"		"4F5FCFCDEC349FF897E9CBE1227E6EC3"
+				}
+				"qa_debug"
+				{
+					"gid"		"5B5CF56556F9271BF81258143F3740F2"
+					"size"		"18FE1B7FF8C20AE0DEDDC916DEBF9EF1"
+					"download"		"9D38D8F9901157A1FAFF2D34DFAEF88F"
+				}
+				"qa_release"
+				{
+					"gid"		"A9CADCC7B290741CA3B240810B7858A9"
+					"size"		"EF47ED8786CF9FF8383A99800426D938"
+					"download"		"131846814F27DA46AFAFB06CF2247669"
+				}
+			}
+		}
+		"1665142"
+		{
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8361301"
+				"timeupdated"		"1649887206"
+			}
+			"dev_debug"
+			{
+				"buildid"		"8243252"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645676567"
+			}
+			"qa_debug"
+			{
+				"buildid"		"8361238"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647141176"
+			}
+			"qa_release"
+			{
+				"buildid"		"8361301"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647143483"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"16777216"
+		"maxnumfiles"		"3"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"BANDAI NAMCO Entertainment/SCARLET NEXUS Demo/Saved/SaveGames/{Steam3AccountID}/"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
