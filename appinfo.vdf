@@ -1,0 +1,126 @@
+"appinfo"
+{
+	"appid"		"1684550"
+	"common"
+	{
+		"name"		"After Shadows Demo"
+		"type"		"Demo"
+		"parent"		"1621420"
+		"releasestate"		"released"
+		"clienticon"		"2a1410fcfe87a58cd086d40a097172ba6955b194"
+		"clienttga"		"1d2c3a89381b0aa7cc2fd4d64ba2932d914d19ba"
+		"icon"		"9e6a4e7848dce220abe4b9d1c8d990d94f8c5740"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"66.18871438207232"
+				"height_pct"		"90.87038789025544"
+			}
+		}
+		"store_asset_mtime"		"1625139218"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Insidious Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Insidious Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626097402"
+		"gameid"		"1684550"
+	}
+	"extended"
+	{
+		"demoofappid"		"1621420"
+		"developer"		"Insidious Games"
+		"publisher"		"Insidious Games"
+	}
+	"config"
+	{
+		"installdir"		"After Shadows Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"After Shadows.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1684551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4686542866746092903"
+					"size"		"916076178"
+					"download"		"153700800"
+				}
+			}
+		}
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7488519"
+				"timeupdated"		"1633532722"
+			}
+		}
+	}
+}
