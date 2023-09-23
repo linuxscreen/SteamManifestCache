@@ -1,0 +1,222 @@
+"appinfo"
+{
+	"appid"		"1781170"
+	"common"
+	{
+		"name"		"The Flow Experience"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"f8bd3e907ffd6ae2325019279d99987113378f72"
+		"logo_small"		"f8bd3e907ffd6ae2325019279d99987113378f72_thumb"
+		"icon"		"b24c42cf0b7e1730a0039a7fa9b102f8da702e8b"
+		"clienticon"		"de4c6b308a34e29be282a4bdcb102f973dc7024e"
+		"clienttga"		"c73ae1c6489c1290c7c8e8feeb38bcdb50d32a19"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1633599189"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Maximilian Croissant"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Madeleine Frister"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Vanilla Noir"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1648817880"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1781170"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1773"
+			"1"		"1621"
+			"2"		"4166"
+			"3"		"4305"
+			"4"		"9994"
+			"5"		"4885"
+			"6"		"4252"
+			"7"		"1734"
+			"8"		"7948"
+			"9"		"4400"
+			"10"		"1714"
+			"11"		"1654"
+			"12"		"1752"
+			"13"		"3871"
+			"14"		"1755"
+			"15"		"4026"
+			"16"		"492"
+			"17"		"19"
+			"18"		"4182"
+			"19"		"5608"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Maximilian Croissant"
+		"publisher"		"Vanilla Noir"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Flow Experience"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Flow Experience.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Flow_BuildMac.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Flow_BuildMac.app/Contents/MacOS/The Flow Experience"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"1781171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5345977830096236190"
+					"size"		"439287117"
+					"download"		"168478912"
+				}
+			}
+		}
+		"1781172"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4928243595245867872"
+					"size"		"462935274"
+					"download"		"175943472"
+				}
+			}
+		}
+		"baselanguages"		"english,german"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8691549"
+				"timeupdated"		"1651844944"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Vanilla Noir/The Flow Experience/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"Vanilla Noir/The Flow Experience/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+		}
+		"sync_while_suspended"		"1"
+	}
+}
