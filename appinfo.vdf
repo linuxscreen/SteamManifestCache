@@ -1,0 +1,292 @@
+"appinfo"
+{
+	"appid"		"2246700"
+	"common"
+	{
+		"name"		"TET"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"icon"		"26fee27568291b463d88abc1b25b8030fc19ab7e"
+		"clienttga"		"66394f53bfbb703d2aee04e5747a3037be3e5b22"
+		"clienticns"		"eeb238cd4c8f79018db30afe1623a59e4eca7d2c"
+		"clienticon"		"cbc6e18069c2b1a7cf5fe9e2c364da27d3684f95"
+		"linuxclienticon"		"055c7b07ac174322575077100e2c67e72c386b13"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1675382400"
+			"tested_build_id"		"10315898"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1673196087"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Charlotte Broccard"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Etienne Frank"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Guillaume Mezino"
+			}
+			"3"
+			{
+				"type"		"developer"
+				"name"		"Mario von Rickenbach"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"Playables"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"vietnamese"
+			{
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1675152000"
+		"community_hub_visible"		"1"
+		"gameid"		"2246700"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3920"
+			"1"		"11014"
+			"2"		"4234"
+			"3"		"4305"
+			"4"		"7250"
+			"5"		"16689"
+			"6"		"5350"
+			"7"		"3871"
+			"8"		"4136"
+			"9"		"1751"
+			"10"		"3839"
+			"11"		"597"
+			"12"		"4562"
+			"13"		"4182"
+			"14"		"492"
+			"15"		"6426"
+			"16"		"1654"
+			"17"		"1702"
+		}
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Charlotte Broccard"
+		"publisher"		"Playables"
+		"homepage"		"http://playtet.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TET"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"tet.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"tet"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"tet.app/Contents/MacOS/TET"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2246702"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1113107098744622335"
+					"size"		"381368494"
+					"download"		"51808176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"405BBF2C2AC484E2068B3C5B56D0101A"
+					"size"		"9CEB30C39614C00E01936C9681181517"
+					"download"		"E0E5D725EA60659731B8F190359C5580"
+				}
+			}
+		}
+		"2246703"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1602141370561372677"
+					"size"		"405790647"
+					"download"		"59278448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"5B98A6E2A9DF5C6B0703E34758995705"
+					"size"		"F6A002254628F80D5F01461E51E0713D"
+					"download"		"3595B3554C34B832C5B24BD14BAF3BD2"
+				}
+			}
+		}
+		"2246704"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5791425320246120144"
+					"size"		"383299126"
+					"download"		"51350336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"1C7EBA486E06AA868846533BD660EF27"
+					"size"		"F95893EA090AD22ACB24ED30E3F04B08"
+					"download"		"AAE03A157D4C1DFD2C286BA834804EBB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10315898"
+				"timeupdated"		"1673624839"
+			}
+			"develop"
+			{
+				"buildid"		"10315898"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673615463"
+			}
+		}
+	}
+}
