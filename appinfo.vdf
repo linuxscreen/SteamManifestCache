@@ -1,0 +1,182 @@
+"appinfo"
+{
+	"appid"		"2406000"
+	"common"
+	{
+		"name"		"The Devourer: Hunted Souls Demo"
+		"type"		"Demo"
+		"parent"		"2309400"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"d66f209dd4d15038f560966908240767a19335bc"
+		"clienticon"		"57dbed7293b82a52917c8c3933c5cd53740d809a"
+		"clienttga"		"dd859eb6c4fda91ba73af6747e9a1e087df51bc5"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"openxrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1688212831"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ZTEK Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ZTEK Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1682692134"
+		"gameid"		"2406000"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2309400"
+		"developer"		"ZTEK Studio"
+		"publisher"		"ZTEK Studio"
+	}
+	"config"
+	{
+		"installdir"		"The Devourer Hunted Souls Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheDevourer.exe"
+				"arguments"		"-d3d12"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"with DirectX 12 (recommended)"
+				}
+				"description"		"with DirectX 12 (recommended)"
+			}
+			"1"
+			{
+				"executable"		"TheDevourer.exe"
+				"arguments"		"-d3d11"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"with DirectX 11 (if DX12 crashes)"
+				}
+				"description"		"with DirectX 11 (if DX12 crashes)"
+			}
+			"2"
+			{
+				"executable"		"TheDevourer.exe"
+				"arguments"		"-vulkan"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"with Vulkan"
+				}
+				"description"		"with Vulkan"
+			}
+			"3"
+			{
+				"executable"		"TheDevourer.exe"
+				"arguments"		"-vr"
+				"type"		"openxr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		" (experimental)"
+				}
+				"description"		" (experimental)"
+			}
+			"4"
+			{
+				"executable"		"TheDevourer.exe"
+				"arguments"		"-vr -popupwindow"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		" (experimental)"
+				}
+				"description"		" (experimental)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2406001"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5658652435048376239"
+					"size"		"12856619087"
+					"download"		"12475846432"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11950317"
+				"timeupdated"		"1692145590"
+			}
+		}
+	}
+}
