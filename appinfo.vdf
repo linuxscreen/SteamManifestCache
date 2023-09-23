@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"1364570"
+	"common"
+	{
+		"name"		"Starshot"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"f32688e1690a9483bfaba1d6d0b027d03a3336e6"
+		"logo_small"		"f32688e1690a9483bfaba1d6d0b027d03a3336e6_thumb"
+		"icon"		"4f4b9735d8a010e8bd2672d5ae0e0368dd1d3de2"
+		"clienticon"		"c953db89480919d95ee703240fdadc995247c410"
+		"clienttga"		"007cf889c5a01498a101edd93a95e9f4a517fd12"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.94165694282381"
+				"height_pct"		"54.55948705770601"
+			}
+		}
+		"store_asset_mtime"		"1596517911"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HugeMallard"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HugeMallard"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1597579080"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1364570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1716"
+			"2"		"1774"
+			"3"		"42804"
+			"4"		"4255"
+			"5"		"3871"
+			"6"		"3964"
+			"7"		"4791"
+			"8"		"1673"
+			"9"		"4295"
+			"10"		"4004"
+			"11"		"3942"
+			"12"		"1755"
+			"13"		"3993"
+			"14"		"5765"
+			"15"		"6971"
+			"16"		"6869"
+			"17"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"HugeMallard"
+		"publisher"		"HugeMallard"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Starshot"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"starshot.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"starshot.exe"
+				"arguments"		"-d"
+				"description"		"Safe Graphics Mode (Disables OpenGL)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"1364571"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2547804466162820290"
+					"size"		"375054124"
+					"download"		"162360688"
+				}
+				"beta"
+				{
+					"gid"		"2547804466162820290"
+					"size"		"375054124"
+					"download"		"162360688"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5420752"
+				"timeupdated"		"1597648261"
+			}
+			"beta"
+			{
+				"buildid"		"5420752"
+				"description"		"Beta testing"
+				"timeupdated"		"1597648254"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"saves"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
