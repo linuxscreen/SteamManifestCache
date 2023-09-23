@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1363220"
+	"common"
+	{
+		"name"		"职场浮生记 Demo"
+		"type"		"Demo"
+		"parent"		"1360810"
+		"releasestate"		"released"
+		"clienticon"		"aa15bc9ad224e1ec2cfaba5abe88a31fca03c96a"
+		"clienttga"		"d5f733991f8f20bb1ea01e7bb69267d5b18e8dc2"
+		"icon"		"be23e77932a84a412b463db182f0e34edefeca5b"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"56.41226617257915"
+				"height_pct"		"78.76923127575034"
+			}
+		}
+		"store_asset_mtime"		"1611558804"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"厦门雷云"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"2P Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1612347240"
+		"gameid"		"1363220"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1360810"
+		"developer"		"厦门雷云"
+		"publisher"		"2P Games"
+	}
+	"config"
+	{
+		"installdir"		"XiaNan"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OfficeLife.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"OfficeLife.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"OfficeLife.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"hasdepotsindlc"		"1"
+		"1363221"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8899222680630588818"
+					"size"		"1654455556"
+					"download"		"1065834608"
+				}
+			}
+		}
+		"1363222"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3593759688792255801"
+					"size"		"1943804993"
+					"download"		"1303818768"
+				}
+			}
+		}
+		"1363223"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4732039959459031720"
+					"size"		"1972307048"
+					"download"		"1305575392"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8198041"
+				"timeupdated"		"1644825781"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"40000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"XiaMenLeiYun/OfficeLife/{Steam3AccountID}/Save"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"XiaMenLeiYun/OfficeLife/{Steam3AccountID}/Save"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
