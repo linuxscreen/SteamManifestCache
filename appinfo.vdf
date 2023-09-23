@@ -1,0 +1,177 @@
+"appinfo"
+{
+	"appid"		"319570"
+	"common"
+	{
+		"name"		"Heroes of SoulCraft"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+		}
+		"logo"		"820cfe849b0c0ae5a7db028b24e6698734aa800f"
+		"logo_small"		"820cfe849b0c0ae5a7db028b24e6698734aa800f_thumb"
+		"icon"		"9a0c59a3635e91b969139fd1fedc0f3426e66264"
+		"clienticon"		"332e1945e5c8c3950c4c0286742cffde0c5300f1"
+		"clienttga"		"9c2ce40a624f6e0aaf6fac13bba04e94f36c5f91"
+		"metacritic_name"		"Heroes of SoulCraft"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1435853032"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MobileBits"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MobileBits"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1435820400"
+		"steam_release_date"		"1437415595"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"319570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1718"
+			"2"		"19"
+			"3"		"9"
+			"4"		"122"
+			"5"		"3859"
+			"6"		"597"
+			"7"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"40"
+	}
+	"extended"
+	{
+		"developer"		"MobileBits"
+		"publisher"		"MobileBits"
+		"homepage"		"http://hosgame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Heroes of SoulCraft"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"SoulcraftArena.exe"
+				"description"		"Start Game"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"GameLauncher.exe"
+				"description"		"Start Launcher with Settings and Controls first"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"nativesteamcontroller"		"1"
+	}
+	"depots"
+	{
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"319571"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4420485001777966826"
+					"size"		"88346824"
+					"download"		"53720496"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,spanish,russian,portuguese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3189679"
+				"timeupdated"		"1538882683"
+			}
+		}
+	}
+}
