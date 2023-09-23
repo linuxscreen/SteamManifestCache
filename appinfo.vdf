@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"1676450"
+	"common"
+	{
+		"name"		"Path of Vidya"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"fa58c3563bfac62600af65c036b491a3c714db02"
+		"logo_small"		"fa58c3563bfac62600af65c036b491a3c714db02_thumb"
+		"icon"		"d5b3b3c822a3d14c71059c97af4de6bfd60e0355"
+		"clienttga"		"27509b1914b251851c3a58caf212f61371ed7f26"
+		"clienticon"		"ade63a05d2c7c02f9fc3baf9bdc436839c9912ec"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"79.0753214941825"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1624485396"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jaron Fund"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jaron Fund"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626160980"
+		"community_hub_visible"		"1"
+		"gameid"		"1676450"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"3871"
+			"2"		"5673"
+			"3"		"1742"
+			"4"		"4182"
+			"5"		"113"
+			"6"		"5577"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Jaron Fund"
+		"publisher"		"Jaron Fund"
+		"homepage"		"https://jaronfund.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Path of Vidya"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Path of Vidya\\Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"game.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"1676451"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3763869599542205344"
+					"size"		"620386848"
+					"download"		"564607312"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9158887"
+				"timeupdated"		"1658344501"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000"
+		"maxnumfiles"		"100"
+	}
+}
