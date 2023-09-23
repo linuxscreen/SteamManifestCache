@@ -1,0 +1,362 @@
+"appinfo"
+{
+	"appid"		"383080"
+	"common"
+	{
+		"name"		"Sakura Clicker"
+		"type"		"Game"
+		"oslist"		"windows"
+		"clienticon"		"51e7218795f1d76898565b7e72c6ec5fb43ad3b8"
+		"clienttga"		"ee6bf6ce08ca99c38d26626acbdc2a1210ad1dd6"
+		"icon"		"e949d522ccc4f2dba013dc4405609570f49b39d1"
+		"logo"		"f48f298b9aa6d935a790ee5cd0755ed8b257675e"
+		"logo_small"		"f48f298b9aa6d935a790ee5cd0755ed8b257675e_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1643932800"
+			"tested_build_id"		"7638854"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+			}
+		}
+		"metacritic_name"		"Sakura Clicker"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.66624980483172"
+				"height_pct"		"66.88410314256312"
+			}
+		}
+		"store_asset_mtime"		"1572876588"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Winged Cloud"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Winged Cloud"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Sakura"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1438222550"
+		"community_hub_visible"		"1"
+		"gameid"		"383080"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"6650"
+			"1"		"113"
+			"2"		"4085"
+			"3"		"12095"
+			"4"		"5611"
+			"5"		"379975"
+			"6"		"7208"
+			"7"		"4182"
+			"8"		"597"
+			"9"		"9130"
+			"10"		"492"
+			"11"		"24904"
+			"12"		"1684"
+			"13"		"3871"
+			"14"		"10397"
+			"15"		"4136"
+			"16"		"9551"
+			"17"		"21"
+			"18"		"122"
+			"19"		"1742"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Winged Cloud"
+		"publisher"		"Winged Cloud"
+		"isfreeapp"		"1"
+		"listofdlc"		"390650,390651,390652,390653,390654,390655,390656,390657,390658,390659,393020,393021,393022,393023,393024,393025,393026,393040,393041,393042,393043"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Sakura Clicker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sakura Clicker.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"383081"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8422956402761044787"
+					"size"		"211229958"
+					"download"		"187318720"
+				}
+				"beta"
+				{
+					"gid"		"8422956402761044787"
+					"size"		"211229958"
+					"download"		"187318720"
+				}
+				"newengine"
+				{
+					"gid"		"1044776671032131164"
+					"size"		"3273976185"
+					"download"		"128220080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"3D2D0EB1E146B2EA429E646743C8B192"
+					"size"		"EC37E838CC6651958D2F5CFC90DFA6DB"
+					"download"		"27443A555F7D8AB828DF38E0DE834D4F"
+				}
+			}
+		}
+		"390655"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"390655"
+		}
+		"390656"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"390656"
+		}
+		"390658"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"390658"
+		}
+		"390653"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"390653"
+		}
+		"390657"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"390657"
+		}
+		"390654"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"390654"
+		}
+		"390659"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"390659"
+		}
+		"390650"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"390650"
+		}
+		"390651"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"390651"
+		}
+		"390652"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"390652"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7638854"
+				"timeupdated"		"1635800068"
+			}
+			"beta"
+			{
+				"buildid"		"7638854"
+				"timeupdated"		"1635799683"
+			}
+			"newengine"
+			{
+				"buildid"		"1020465"
+				"timeupdated"		"1461956923"
+			}
+			"testing"
+			{
+				"buildid"		"1103038"
+				"pwdrequired"		"1"
+				"timeupdated"		"1461947782"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"128000"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Tap_Dungeon/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Winged Cloud/Sakura Clicker/"
+				"pattern"		"*.sakura"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"Saves"
+				"pattern"		"*.sakura"
+			}
+		}
+	}
+}
