@@ -1,0 +1,160 @@
+"appinfo"
+{
+	"appid"		"2353990"
+	"common"
+	{
+		"name"		"Dawn of Mages Demo"
+		"type"		"Demo"
+		"parent"		"2198220"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"c0d4333cb2f93a166f1090624373f9535eb0b709"
+		"clienticon"		"da0749e21d4ff1d1af4e6bbd913181babdfa31b2"
+		"clienttga"		"35a7b6a1515b5a2d195291eb3f1ae78984c7de9d"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2353990_eula_0"
+				"name"		"Dawn of Mages Demo EULA"
+				"url"		"https://store.steampowered.com//eula/2353990_eula_0"
+				"version"		"2"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"38.09801633605599"
+				"height_pct"		"67.09807646639752"
+			}
+		}
+		"store_asset_mtime"		"1679404782"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TwoShrinks"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"TwoShrinks"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"-"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1678734288"
+		"gameid"		"2353990"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2198220"
+		"developer"		"TwoShrinks"
+		"publisher"		"-"
+		"homepage"		"https://dawnofmages.com/"
+	}
+	"config"
+	{
+		"installdir"		"Dawn of Mages Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DoM_Demo.exe"
+				"config"
+				{
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2353991"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows,linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4198300281587240014"
+					"size"		"4439657254"
+					"download"		"4109247488"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11714198"
+				"timeupdated"		"1689520264"
+			}
+		}
+	}
+}
