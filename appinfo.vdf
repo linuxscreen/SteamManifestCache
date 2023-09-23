@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"1372240"
+	"common"
+	{
+		"name"		"Mech Mechanic Simulator Demo"
+		"type"		"Demo"
+		"parent"		"1044980"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"26f787b065d330f48563817f3efe2da7b199a9fc"
+		"clienttga"		"3b74041369576e49581a5d5fa65df507abbbc972"
+		"icon"		"884055582f74c4da31939bfbb43e976af3e764f1"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.904157721403415"
+				"height_pct"		"51.45694302253567"
+			}
+		}
+		"store_asset_mtime"		"1601666443"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Polyslash"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Polyslash"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1601998562"
+		"gameid"		"1372240"
+	}
+	"extended"
+	{
+		"demoofappid"		"1044980"
+		"developer"		"Polyslash"
+		"publisher"		"Polyslash"
+	}
+	"config"
+	{
+		"installdir"		"Mech Mechanic Simulator Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mech Mechanic Simulator Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1372241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8732947454628070081"
+					"size"		"2836705750"
+					"download"		"2320217472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_branch"
+				{
+					"gid"		"C4771F783F415C0880BAE3884A7127E6"
+					"size"		"F3812874BE69EEE74A41ED4A40EA4D0F"
+					"download"		"8F165E4D7530F8BEC2ED521BC4BF8237"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6389992"
+				"timeupdated"		"1615995610"
+			}
+			"dev_branch"
+			{
+				"buildid"		"6389992"
+				"pwdrequired"		"1"
+				"timeupdated"		"1615913251"
+			}
+		}
+	}
+}
