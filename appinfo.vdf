@@ -1,0 +1,411 @@
+"appinfo"
+{
+	"appid"		"479030"
+	"common"
+	{
+		"name"		"DOOM Demo"
+		"type"		"Demo"
+		"parent"		"379720"
+		"oslist"		"windows"
+		"clienticon"		"a7a28753b843ca5ce62a0ecaabd78932dc14725e"
+		"clienttga"		"424b3949b00d5545f6a1c6a2e2bf1872b3e73ff5"
+		"icon"		"b6e72ff47d1990cb644700751eeeff14e0aba6dc"
+		"logo"		"dccf8d57b5a61acc990de6556b70072a73345b0e"
+		"logo_small"		"dccf8d57b5a61acc990de6556b70072a73345b0e_thumb"
+		"releasestate"		"released"
+		"section_type"		"ownersonly"
+		"metacritic_name"		"DOOM Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1465417307"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"id Software"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bethesda Softworks"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1465789020"
+		"gameid"		"479030"
+		"exfgls"		"1"
+		"review_score"		"7"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"id Software"
+		"publisher"		"Bethesda Softworks"
+		"homepage"		"http://www.doom.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"DOOM Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DOOMx64.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"479031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1273539582792581754"
+					"size"		"261279312"
+					"download"		"172724624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo-qa"
+				{
+					"gid"		"2DC01FE7AC9CD9454EDC8FF300930DE0"
+					"size"		"12269459470C966A1C02DB0BF32495F3"
+					"download"		"97872867AE881FAAE8F881A3290FDD3F"
+				}
+				"demo-staging"
+				{
+					"gid"		"69F95C75C2CB15BC7A2733A242979BDA"
+					"size"		"907AE77D621278006A66ED6553494CE1"
+					"download"		"A1845D8EFA19A5B655EEFD2C33EE2776"
+				}
+			}
+		}
+		"479032"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5555392769195450156"
+					"size"		"1056"
+					"download"		"240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo-qa"
+				{
+					"gid"		"77CF7E81250395ECE6A7342300448E21"
+					"size"		"FE3D0665B3CB0629B6EE711DD16785E7"
+					"download"		"B102F2226D4F1062B4FDB976898E8D95"
+				}
+				"demo-staging"
+				{
+					"gid"		"B2F3462FBFB64BDAA468FCA1B8F526D3"
+					"size"		"91BDAFBE2CD10EAB980E10BD6D84C4AE"
+					"download"		"368E3131127F55CC3AE3E0A0A9252AB8"
+				}
+			}
+		}
+		"479033"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3183485119213567473"
+					"size"		"2469311545"
+					"download"		"1130169568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo-qa"
+				{
+					"gid"		"3D912E7564D1A2839620AFF2BF8BEF0E"
+					"size"		"475C3C917A7C7C0F75CA8ABAB4DD36C6"
+					"download"		"362F10634D51F458E297E35B17D216B4"
+				}
+				"demo-staging"
+				{
+					"gid"		"EB8315FFC4389B436F322DBD855FC7B7"
+					"size"		"513D241335F8953031B8927C83C1EB8C"
+					"download"		"313BF386C63D4D494724E97CC91D83DD"
+				}
+			}
+		}
+		"479034"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5362803052712841472"
+					"size"		"446735976"
+					"download"		"437733104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo-qa"
+				{
+					"gid"		"D4FB193F62BA13B5887ABB1445AB870D"
+					"size"		"0B761C556AAFBC1DA283615986B65E7C"
+					"download"		"D73F1BF6F8A9462EB4BB8A950A8D26F8"
+				}
+				"demo-staging"
+				{
+					"gid"		"DDA3CA309336E59EAE09B4BBA8ADBE4F"
+					"size"		"32F6BD6F2A28B963126A878116D2CD10"
+					"download"		"E4D6B2BE53FE1A5CA9FA9CC359AA1BB2"
+				}
+			}
+		}
+		"479035"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6728069160738838932"
+					"size"		"314"
+					"download"		"384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo-qa"
+				{
+					"gid"		"3B89F1C85055AB61566C7772D3319C05"
+					"size"		"B91DE8466089A93E31F8A65763E3CEEE"
+					"download"		"2BCBED2C3B3FCC7D19E198DABCC2F434"
+				}
+				"demo-staging"
+				{
+					"gid"		"30BF5C919C41F656D4E266A1369F247D"
+					"size"		"4315CE2BA8841B53EF4BAB5343EBAF95"
+					"download"		"0806279CDAD99092CF30E3F7A8B2055B"
+				}
+			}
+		}
+		"479036"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6138040502801605026"
+					"size"		"1019547938"
+					"download"		"886449408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo-qa"
+				{
+					"gid"		"B3477392A81A1689D873AE415314A73E"
+					"size"		"ACD5C61C936581BA534CA1A27497F6A4"
+					"download"		"74C101158FC15CE884F1E416D994780E"
+				}
+				"demo-staging"
+				{
+					"gid"		"4D269FB248DF765A8A6A9AB47CD8D489"
+					"size"		"19E545435CD61C94357E82D767D34E00"
+					"download"		"74842D4F96B54C858A631F2D37F198DA"
+				}
+			}
+		}
+		"479037"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1076804911794482170"
+					"size"		"230117990"
+					"download"		"201882224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo-qa"
+				{
+					"gid"		"4F48D4ECB7D86BFD440A89AC3F2DC29B"
+					"size"		"79F9A9DE27FB65840EEF8D196DACA9A4"
+					"download"		"E6104030727FCB59D603DE26B312328C"
+				}
+				"demo-staging"
+				{
+					"gid"		"9C3E8CFD5D2164842B8BC2AC5B4187FF"
+					"size"		"DDE19EFB1938929406DEA59F5FD46F7C"
+					"download"		"A284B25CA374595B10AF947FDF02096F"
+				}
+			}
+		}
+		"479038"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7041799322228727101"
+					"size"		"3712753333"
+					"download"		"3593934384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo-qa"
+				{
+					"gid"		"154EC3FB034326E47C620DA64ED30163"
+					"size"		"DD5424CB7E548705A014F6B794F6CA78"
+					"download"		"6EF2AC201C45130B248A0FEDF7690FAF"
+				}
+				"demo-staging"
+				{
+					"gid"		"07ED97508FEBBB38B5FBDE4DD54BCFFF"
+					"size"		"9236DC4AF368999C6E6F1CB26A61D993"
+					"download"		"1D58D23A7801FBCEAF6CA797B77685C4"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,tchinese,russian,japanese,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1244169"
+				"timeupdated"		"1469638802"
+			}
+			"demo-qa"
+			{
+				"buildid"		"1244169"
+				"pwdrequired"		"1"
+				"timeupdated"		"1469466363"
+			}
+			"demo-staging"
+			{
+				"buildid"		"1244169"
+				"pwdrequired"		"1"
+				"timeupdated"		"1469632172"
+			}
+		}
+	}
+}
