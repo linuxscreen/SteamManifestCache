@@ -1,0 +1,113 @@
+"appinfo"
+{
+	"appid"		"2407380"
+	"common"
+	{
+		"name"		"Chamberbound Demo"
+		"type"		"Demo"
+		"parent"		"2259700"
+		"clienticon"		"7fab358027eae0485f9881f6c0d0c87710e03780"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"icon"		"3a40d6034b5f631214a89a1d7a2ff15961a48543"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1682649675"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Untested"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Untested"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682581612"
+		"gameid"		"2407380"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2259700"
+		"developer"		"Team Untested"
+		"publisher"		"Team Untested"
+	}
+	"config"
+	{
+		"installdir"		"Chamberbound Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Chamberbound.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2407381"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7619269267091269482"
+					"size"		"498001551"
+					"download"		"214164176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11082104"
+				"timeupdated"		"1682389443"
+			}
+		}
+	}
+}
