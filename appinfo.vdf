@@ -1,0 +1,253 @@
+"appinfo"
+{
+	"appid"		"1895780"
+	"common"
+	{
+		"name"		"Sexy Space Airlines"
+		"type"		"Game"
+		"icon"		"cae21f21c1f3af7b74c15471bfb1182c5abf5480"
+		"logo"		"ce019a881fa7e65d7ba8b1a647350d6e7ced5ec8"
+		"logo_small"		"ce019a881fa7e65d7ba8b1a647350d6e7ced5ec8_thumb"
+		"clienttga"		"bffb33725d49ceb0d4f8d2d31492db58bd17c8e2"
+		"clienticon"		"14f9ae3cb6be6f30e7c84d03f218d70cd6c2647c"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666051200"
+			"tested_build_id"		"9324935"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"19.76744186046514"
+				"height_pct"		"78.49723396737949"
+			}
+		}
+		"store_asset_mtime"		"1644574148"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Playduction"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Playduction"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1648044429"
+		"community_hub_visible"		"1"
+		"gameid"		"1895780"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"9130"
+			"2"		"597"
+			"3"		"6650"
+			"4"		"9551"
+			"5"		"615955"
+			"6"		"3942"
+			"7"		"4085"
+			"8"		"113"
+			"9"		"379975"
+			"10"		"1673"
+			"11"		"4947"
+			"12"		"1755"
+			"13"		"4182"
+			"14"		"5611"
+			"15"		"4295"
+			"16"		"24904"
+			"17"		"6426"
+		}
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"developer"		"Playduction"
+		"publisher"		"Playduction"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SexySpaceAirlines"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SexySpaceAirlines.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1895781"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7360334034964510751"
+					"size"		"191806274"
+					"download"		"88799712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development_branch"
+				{
+					"gid"		"388DB74CB5E816D3EF44499C09925BC3"
+					"size"		"489754B36167DA14DC0BE763896A61DF"
+					"download"		"7132DFEC6876A7B19556793449821BEF"
+				}
+				"test_branch"
+				{
+					"gid"		"7D67B9E17507593572D534FCE9B40EB3"
+					"size"		"3326B96EBB87F18D68F9A210EDCA24A6"
+					"download"		"B125DE21A0358713E2F5684F14F7ADA1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12176750"
+				"timeupdated"		"1694603978"
+			}
+			"development_branch"
+			{
+				"buildid"		"12080500"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693498686"
+			}
+			"test_branch"
+			{
+				"buildid"		"9876335"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667647443"
+			}
+		}
+	}
+}
