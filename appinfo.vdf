@@ -1,0 +1,333 @@
+"appinfo"
+{
+	"appid"		"1311980"
+	"common"
+	{
+		"name"		"The Survivalists Online Demo"
+		"type"		"Demo"
+		"parent"		"897450"
+		"releasestate"		"released"
+		"clienticon"		"11f1fbd6d8f655d388e5c6ce5261c0e2a326ee36"
+		"clienttga"		"e486e73f3b07bef78be5c0ed50ae7fd3bd87cd69"
+		"icon"		"7769a33b7ff36244512ff042a5ea7f300d563d3b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"08f8b52d159e2f0e205407e0d6e024d1b9613902"
+		"logo_small"		"08f8b52d159e2f0e205407e0d6e024d1b9613902_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.59148907517759"
+				"height_pct"		"61.458022514580236"
+			}
+		}
+		"store_asset_mtime"		"1589366528"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team17 Digital Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team17 Digital Ltd"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Team17 Digital"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592249317"
+		"gameid"		"1311980"
+		"review_score"		"7"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"demoofappid"		"897450"
+		"developer"		"Team17 Digital Ltd"
+		"publisher"		"Team17 Digital Ltd"
+		"homepage"		"https://www.team17.com/"
+	}
+	"config"
+	{
+		"installdir"		"The Survivalists Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Survivalists.exe"
+				"type"		"default"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1311981"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2923442959970015859"
+					"size"		"574423928"
+					"download"		"439021184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedbeta"
+				{
+					"gid"		"1E9A45D406BC3749A25FC96829681DD0"
+					"size"		"B8E0D64CDCCFA9804811FCAE7D77A1A3"
+					"download"		"C27C043E208D7906E9B1ACF8962E982E"
+				}
+				"demo_debug"
+				{
+					"gid"		"8EB11B8AABA63CE026FAC3194C91B79D"
+					"size"		"CAFBA21621F0B0ECFE1DAA47EC66274C"
+					"download"		"D687667219BD5123F9F5474F878EEB6E"
+				}
+				"demo_development"
+				{
+					"gid"		"506C66BBDD2A7C745CBD09698F91F511"
+					"size"		"529DFE5B459C6E67D2E1A48BFCC42063"
+					"download"		"E9C7F7F9D9079DE1A515680F09BAD3BF"
+				}
+				"demo_master"
+				{
+					"gid"		"AF0CD768B0776DF46DE4FE041867E8E6"
+					"size"		"51668734D335C88235E8F5565E71530D"
+					"download"		"D347E5FE4805AAA3F56E16C3A8CD57E5"
+				}
+				"pc_beta_development"
+				{
+					"gid"		"C5C0B81F567992992855DCEC1D7A6B6D"
+					"size"		"1B9D2E841F4B8C965691C154097147EF"
+					"download"		"0223BDAC600DB1F377B20B5FFA900DBB"
+				}
+				"pc_beta_master"
+				{
+					"gid"		"B7B7A3232E5AE929824CE2344218FE61"
+					"size"		"10BC93288E4DF86D69823E53BB0B279C"
+					"download"		"35B857900034A8FBE1791F75E9F724AC"
+				}
+				"pc_demo_2_debug"
+				{
+					"gid"		"75AA461089DF68E8057424D3616B0690"
+					"size"		"86500A9360F14DDCCBCB268F16AB43F1"
+					"download"		"86BFEF4454C14AFF183DEB4FFB1AD32A"
+				}
+				"pc_demo_2_development"
+				{
+					"gid"		"0FDCD97B6AA0B8EA9813BC3B50DBC3B1"
+					"size"		"F27408FE027A872432BCB5D53F1E5890"
+					"download"		"94CDB592898B8BBF74F84A38DA03F831"
+				}
+				"pc_demo_2_master"
+				{
+					"gid"		"93C4C4C996099A8FDAC678D37E6A519D"
+					"size"		"3AC3EB830B30E59F5749F18A90890CBA"
+					"download"		"7461D6F2BCD735E0DAEE105E4A2CDC04"
+				}
+				"pc_demo_development"
+				{
+					"gid"		"39C39A76B9A3C7BCB2FEF32D1D86C282"
+					"size"		"9FA17DB4FCEA4B8277E7ED6A1D5BE835"
+					"download"		"66564F70F5F2093FA173E133C278593E"
+				}
+				"pc_demo_master"
+				{
+					"gid"		"965D9F13FA34116A3ADBE78868E15804"
+					"size"		"9E5E56F4E4A1281C5905B2CDEB101015"
+					"download"		"17181A839D7DCEA5E7C5A92CB795239A"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5442553"
+				"timeupdated"		"1598276138"
+			}
+			"closedbeta"
+			{
+				"buildid"		"5139701"
+				"pwdrequired"		"1"
+				"timeupdated"		"1591873924"
+			}
+			"demo_debug"
+			{
+				"buildid"		"7028227"
+				"pwdrequired"		"1"
+				"timeupdated"		"1626268583"
+			}
+			"demo_development"
+			{
+				"buildid"		"7028210"
+				"pwdrequired"		"1"
+				"timeupdated"		"1626268445"
+			}
+			"demo_master"
+			{
+				"buildid"		"7028714"
+				"pwdrequired"		"1"
+				"timeupdated"		"1626274312"
+			}
+			"pc_beta_development"
+			{
+				"buildid"		"5139874"
+				"pwdrequired"		"1"
+				"timeupdated"		"1591699621"
+			}
+			"pc_beta_master"
+			{
+				"buildid"		"5139701"
+				"pwdrequired"		"1"
+				"timeupdated"		"1591697494"
+			}
+			"pc_demo_2_debug"
+			{
+				"buildid"		"5385620"
+				"pwdrequired"		"1"
+				"timeupdated"		"1596822145"
+			}
+			"pc_demo_2_development"
+			{
+				"buildid"		"5385411"
+				"pwdrequired"		"1"
+				"timeupdated"		"1596818175"
+			}
+			"pc_demo_2_master"
+			{
+				"buildid"		"5456219"
+				"pwdrequired"		"1"
+				"timeupdated"		"1598354613"
+			}
+			"pc_demo_development"
+			{
+				"buildid"		"5054305"
+				"pwdrequired"		"1"
+				"timeupdated"		"1589984908"
+			}
+			"pc_demo_master"
+			{
+				"buildid"		"5054201"
+				"pwdrequired"		"1"
+				"timeupdated"		"1589983452"
+			}
+		}
+	}
+}
