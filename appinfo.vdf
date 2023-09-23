@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"1533720"
+	"common"
+	{
+		"name"		"Over The Phone"
+		"type"		"Game"
+		"icon"		"aba14c7ff82d1e3469893a4adff78b18227ef3aa"
+		"logo"		"cc24e1d42faae2a133c7d90bcbba3dbf92852f3b"
+		"logo_small"		"cc24e1d42faae2a133c7d90bcbba3dbf92852f3b_thumb"
+		"clienticon"		"4cb00e3b8602942a6885c739837dc7ceb1761992"
+		"clienttga"		"781b2a8d683fe7fb734e626cedd2ab4375487038"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658361600"
+			"tested_build_id"		"6262075"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"20.370592648162017"
+				"height_pct"		"18.803761312963402"
+			}
+		}
+		"store_asset_mtime"		"1613167106"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ramify Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ramify Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1613278800"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1533720"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9551"
+			"1"		"11014"
+			"2"		"3799"
+			"3"		"15172"
+			"4"		"4947"
+			"5"		"4486"
+			"6"		"6426"
+			"7"		"6971"
+			"8"		"599"
+			"9"		"4234"
+			"10"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Ramify Games"
+		"publisher"		"Ramify Games"
+		"homepage"		"https://ramifygames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Over The Phone"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Over-The-Phone.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Over-The-Phone.app/Contents/MacOS/Over-The-Phone"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1533721"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"462555417452793120"
+					"size"		"216815617"
+					"download"		"134561248"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6262075"
+				"timeupdated"		"1613699009"
+			}
+		}
+	}
+}
