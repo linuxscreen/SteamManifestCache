@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"1970100"
+	"common"
+	{
+		"name"		"LEGO® Bricktales Demo"
+		"type"		"Demo"
+		"parent"		"1898290"
+		"releasestate"		"released"
+		"clienticon"		"8c94e697936e309e0acf683a56fbad56aa53c100"
+		"clienttga"		"238d202be537b529b054ef045b3a1c8404c8874a"
+		"icon"		"4e139d99cd077504ea370da96fa8bcb50f47a452"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.31480284421461"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1649926605"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ClockStone"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Thunderful Publishing"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_28"		"1"
+		}
+		"steam_release_date"		"1655397665"
+		"gameid"		"1970100"
+	}
+	"extended"
+	{
+		"demoofappid"		"1898290"
+		"developer"		"ClockStone"
+		"publisher"		"Thunderful Publishing"
+	}
+	"config"
+	{
+		"installdir"		"LEGO Bricktales Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LEGO_Bricktales_Demo.exe"
+				"description_loc"
+				{
+					"english"		"Launch LEGO® Bricktales Demo"
+				}
+				"description"		"Launch LEGO® Bricktales Demo"
+			}
+		}
+	}
+	"depots"
+	{
+		"1970101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7553570399337557167"
+					"size"		"452207023"
+					"download"		"110650608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedtesting"
+				{
+					"gid"		"CC28F3BFAC2E6E36F65C8DAC9EC7FAEF"
+					"size"		"B5A29AB13177241188314FEAD916B0B0"
+					"download"		"9B3EB698653509707CF88FD5A7C9FAA6"
+				}
+				"development"
+				{
+					"gid"		"6B565D41CB3B8A67C025F664899041B5"
+					"size"		"2C5FBEAC9F24EF133BC7287B279482D5"
+					"download"		"CAA6C86CD7C238CFBC3446333B6BF115"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11241423"
+				"timeupdated"		"1684223694"
+			}
+			"closedtesting"
+			{
+				"buildid"		"11241423"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684223703"
+			}
+			"development"
+			{
+				"buildid"		"11241423"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684223517"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"ClockStone Software GmbH/LEGO Bricktales"
+				"pattern"		"*.dat"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"ClockStone Software GmbH/LEGO Bricktales"
+						"replace"		"ClockStone Software GmbH/LEGO Bricktales"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgConfigHome"
+				"addpath"		"unity3d/"
+			}
+		}
+		"appidredirect"		"1898290"
+	}
+}
