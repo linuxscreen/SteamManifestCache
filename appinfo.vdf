@@ -1,0 +1,242 @@
+"appinfo"
+{
+	"appid"		"2167200"
+	"common"
+	{
+		"name"		"Death Relives Demo"
+		"type"		"Demo"
+		"parent"		"1987400"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"7b8c89ab854b2f82a1774b2ef60b3119a0d990d9"
+		"clienticon"		"43dd475afaf62fd618d6f370128c5f78196b4c1e"
+		"icon"		"1b48dd4de5c63339b3321ecf8688481a33f7f7ec"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1680945755"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nyctophile Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nyctophile Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666559322"
+		"community_hub_visible"		"1"
+		"gameid"		"2167200"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1987400"
+		"developer"		"Nyctophile Studios"
+		"publisher"		"Nyctophile Studios"
+		"homepage"		"https://nyctophilestudios.com"
+	}
+	"config"
+	{
+		"installdir"		"Death Relives Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DeathRelives.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,turkish"
+		"2167201"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3697137550386922825"
+					"size"		"9141268839"
+					"download"		"7422017232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"meteozbey"
+				{
+					"gid"		"EB9C48BDB1A18865B703376E811EF36A"
+					"size"		"EF8EB89004EFEB928050AD1E72814697"
+					"download"		"EDCB35F124142BEE5F6422F2EE4D416D"
+				}
+				"test"
+				{
+					"gid"		"C49731E891CAE6B86B015983F10D7308"
+					"size"		"E51C2814F10DFEC778DA063E1F26F49B"
+					"download"		"9F9A7444282D4A3664455F62901415B0"
+				}
+			}
+		}
+		"2167206"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1328768616182425961"
+					"size"		"25490791"
+					"download"		"25293376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"meteozbey"
+				{
+					"gid"		"F350C0F2A41BB226B9B2ECAB02474481"
+					"size"		"00D74C9CB96F734A3C4837F70CDC7BE4"
+					"download"		"3CDD8162922C9A3F1C26BF4F7E53E56C"
+				}
+				"test"
+				{
+					"gid"		"58AF6B48E99C0DF3242D4BD2041BE115"
+					"size"		"A3DCE2CB61E60DBEE488D84C45C9B6DC"
+					"download"		"734828EFE7D8C19615A715C1537E9D2C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11967060"
+				"timeupdated"		"1692289472"
+			}
+			"meteozbey"
+			{
+				"buildid"		"11630432"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688558554"
+			}
+			"test"
+			{
+				"buildid"		"11967060"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692289413"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"52428800"
+		"maxnumfiles"		"15"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Xipetotec/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
