@@ -1,0 +1,232 @@
+"appinfo"
+{
+	"appid"		"1147690"
+	"common"
+	{
+		"name"		"NGU IDLE"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"4ca0c36f5a2a0683e33ac4c768274c9c68779fdc"
+		"logo"		"14eae9b45c66792db40bdfa58a89240994b11403"
+		"logo_small"		"14eae9b45c66792db40bdfa58a89240994b11403_thumb"
+		"clienttga"		"da3c14a14f580cd427d7fc0312ec50e06d248f79"
+		"clienticon"		"dfba27e26bf7edfea34d3b16e5f1a4ea33eea22a"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1643846400"
+			"tested_build_id"		"6938742"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+			}
+		}
+		"metacritic_name"		"NGU IDLE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"43.83690645273458"
+				"height_pct"		"96.96034196152934"
+			}
+		}
+		"store_asset_mtime"		"1572549360"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"4G"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"4G"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_42"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1569929640"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1147690"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"615955"
+			"2"		"492"
+			"3"		"21"
+			"4"		"379975"
+			"5"		"599"
+			"6"		"4136"
+			"7"		"122"
+			"8"		"4182"
+			"9"		"597"
+			"10"		"1721"
+			"11"		"1742"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"4G"
+		"publisher"		"4G"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"NGU IDLE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NGUIdle.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2054672708"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"1147691"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4836368868395801255"
+					"size"		"191764352"
+					"download"		"26943616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testinggrounds"
+				{
+					"gid"		"C835C3D1847C437F5E3C8F043A4D3FC4"
+					"size"		"D2A58A599D70A5DCE54E8AF73318E3DC"
+					"download"		"BC3246D7374E3B08B7CFBF31E1E90F1B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6938742"
+				"timeupdated"		"1624735419"
+			}
+			"testinggrounds"
+			{
+				"buildid"		"6951326"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624975712"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1"
+	}
+}
