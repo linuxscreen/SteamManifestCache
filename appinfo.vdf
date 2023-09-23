@@ -1,0 +1,156 @@
+"appinfo"
+{
+	"appid"		"2019560"
+	"common"
+	{
+		"name"		"Pretty Girls Escape Demo"
+		"type"		"Demo"
+		"parent"		"1997300"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"2a0cb09a031a7c87e69d1680dadbfb7afcdc1ae5"
+		"clienticon"		"62f6c0e32ce7bb17b6a77e9784ed8a8c4de38870"
+		"icon"		"1fe92a213f3fd038aaeacba9fe332ce3a457a3ee"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1653973694"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Zoo Corporation"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Zoo Corporation"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Zoo Corporation"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1654216254"
+		"gameid"		"2019560"
+	}
+	"extended"
+	{
+		"demoofappid"		"1997300"
+		"developer"		"Zoo Corporation"
+		"publisher"		"Zoo Corporation"
+		"homepage"		"https://game.zoo.jp/"
+	}
+	"config"
+	{
+		"installdir"		"Pretty Girls Escape Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PrettyGirlsEscape.exe"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"11"
+	}
+	"depots"
+	{
+		"2019561"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8768093402386821308"
+					"size"		"541923167"
+					"download"		"103849760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8839578"
+				"timeupdated"		"1654044148"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"2"
+		"appidredirect"		"1997300"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"_save"
+				"pattern"		"*.sav"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
