@@ -1,0 +1,142 @@
+"appinfo"
+{
+	"appid"		"2342420"
+	"common"
+	{
+		"name"		"Magic Research Demo"
+		"type"		"Demo"
+		"parent"		"2311680"
+		"clienticon"		"a6431002c62fd1b886ba75581a1273fc4cafc3ae"
+		"clienttga"		"eede65bcab173e0aac00aa51c5fcd5ce0179b1c2"
+		"icon"		"03c16fb174295bc6a9dafca8c193156f483dfc07"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1677805765"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Maticolotto"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Maticolotto"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1678929757"
+		"gameid"		"2342420"
+	}
+	"extended"
+	{
+		"demoofappid"		"2311680"
+		"developer"		"Maticolotto"
+		"publisher"		"Maticolotto"
+	}
+	"config"
+	{
+		"installdir"		"Magic Research Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Magic Research.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2342421"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2107976874283260171"
+					"size"		"711221370"
+					"download"		"264999824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"A1603049D0CD02B76092CDCA17977E72"
+					"size"		"44E7F1652EB47A4166F3DCE68B8FB67E"
+					"download"		"BB9560FD7E70E08C6ECC0B4C83504EB7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11390831"
+				"timeupdated"		"1685925594"
+			}
+			"internal"
+			{
+				"buildid"		"11390831"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685895851"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"134217728"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"2311680"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"magic-research/Local Storage/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
