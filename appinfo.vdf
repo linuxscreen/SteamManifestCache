@@ -1,0 +1,223 @@
+"appinfo"
+{
+	"appid"		"2011600"
+	"common"
+	{
+		"name"		"JoJo's Bizarre Adventure: All-Star Battle R Demo version"
+		"type"		"Demo"
+		"parent"		"1372110"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"japanese"		"ジョジョの奇妙な冒険 オールスターバトル R 体験版"
+			"koreana"		"죠죠의 기묘한 모험 올 스타 배틀 R 체험판"
+			"schinese"		"JOJO的奇妙冒险 群星之战 重制版 体验版"
+			"tchinese"		"JOJO的奇妙冒險 群星之戰 重製版 體驗版"
+		}
+		"clienticon"		"2ec5111d273e82eeb0e78093cc4d02cef44dbd09"
+		"clienttga"		"3b9cb31d1d5412bd0b3ce81c084af72d1f7a8ed1"
+		"icon"		"f077e18c71ced61a7dc09efbb44627b79420719a"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2011600_eula_0"
+				"name"		"JoJo's Bizarre Adventure: All-Star Battle R Demo version EULA"
+				"url"		"https://store.steampowered.com//eula/2011600_eula_0"
+				"version"		"3"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"store_asset_mtime"		"1659927843"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CyberConnect2 Co. Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bandai Namco Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Bandai Namco Entertainment"
+			}
+		}
+		"steam_release_date"		"1662072540"
+		"gameid"		"2011600"
+	}
+	"extended"
+	{
+		"demoofappid"		"1372110"
+		"developer"		"CyberConnect2 Co. Ltd."
+		"publisher"		"Bandai Namco Entertainment"
+	}
+	"config"
+	{
+		"installdir"		"JoJo's Bizarre Adventure All-Star Battle R Demo version"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"ASBR.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2011601"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5603348705024564410"
+					"size"		"575530892"
+					"download"		"546801008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-debug"
+				{
+					"gid"		"58F866065E238A04BEF186C385803F4C"
+					"size"		"F1B4E4507437EAF597F6691626FAF91D"
+					"download"		"A480E30412D80D423401B3108845A135"
+				}
+				"dev-debug-preview"
+				{
+					"gid"		"FA259AC36CEE0769B4DF50E6EB98B224"
+					"size"		"BA37237DB302EB17D73D32EF5674D020"
+					"download"		"B0C0EBC7F07F96B9D3BEB64632ACA104"
+				}
+				"dev-release"
+				{
+					"gid"		"6E878C4FFE85BAFAC9F048C0FE7DF5DD"
+					"size"		"C555302528F42383CA16F39A42BE6BE6"
+					"download"		"F228432C53381E6EF39541F9B0718F35"
+				}
+				"dev-release-preview"
+				{
+					"gid"		"1D9AF678ACAEE3752D33549DDFD72654"
+					"size"		"5BF72D01A9230CFF3A544DA2BCAD33F3"
+					"download"		"748141445615D40DDE6F5EB624B26E48"
+				}
+				"development"
+				{
+					"gid"		"E00058F313B22A838CBF9C3FFC3132A2"
+					"size"		"D248A9819BC2C1491C7EFB15A34839AA"
+					"download"		"1B821CFD801AF54BCE86D2A99F2D6055"
+				}
+			}
+		}
+		"2011602"
+		{
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"dev-debug"
+				{
+					"gid"		"114D1099E0F9D9E3D51DCD29226FDDD9"
+					"size"		"079A5F105379D9C73C172978D527C544"
+					"download"		"DE822B4CB78670C3DB5DE58DC4191037"
+				}
+				"dev-debug-preview"
+				{
+					"gid"		"4F37A227728F1C7538D1B11864C878AD"
+					"size"		"F112440B6CC19DC2AA40920FDFA9E119"
+					"download"		"3D795E3E3689D8B671246DB6C5549699"
+				}
+				"development"
+				{
+					"gid"		"CE2B331DFFD61DD18A763C2D4F5BFCF7"
+					"size"		"FF12D4CD395AB6A4055F0010ADA8BCB2"
+					"download"		"099BCA6A93457672843A52BD1AC7D520"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9153694"
+				"timeupdated"		"1658908272"
+			}
+			"dev-debug"
+			{
+				"buildid"		"9153737"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658304758"
+			}
+			"dev-debug-preview"
+			{
+				"buildid"		"9153737"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658289736"
+			}
+			"dev-release"
+			{
+				"buildid"		"9153694"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658304768"
+			}
+			"dev-release-preview"
+			{
+				"buildid"		"9153694"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658289123"
+			}
+			"development"
+			{
+				"buildid"		"8976392"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655793540"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"10"
+	}
+}
