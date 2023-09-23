@@ -1,0 +1,127 @@
+"appinfo"
+{
+	"appid"		"2545700"
+	"common"
+	{
+		"name"		"Melody of Seasons Demo"
+		"type"		"Demo"
+		"parent"		"1584460"
+		"icon"		"b2a42e23cf7e2627696d8a920951314183163c11"
+		"clienttga"		"0bbd878ba5719caaed928ebe8d6a3fbe3531a107"
+		"clienticon"		"a543d2dec7c2f08d3c44353112e16651f9b0dfbb"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1695247263"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mike Thielen"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mike Thielen"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1691510149"
+		"gameid"		"2545700"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Mike Thielen"
+		"publisher"		"Mike Thielen"
+	}
+	"config"
+	{
+		"installdir"		"Melody of Seasons Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"melody_of_seasons.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"melody_of_seasons.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2545701"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"840436421011207327"
+					"size"		"1570609443"
+					"download"		"604287008"
+				}
+			}
+		}
+		"2545702"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7602592822568067350"
+					"size"		"1202837826"
+					"download"		"485521312"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12162451"
+				"timeupdated"		"1694462407"
+			}
+		}
+	}
+}
