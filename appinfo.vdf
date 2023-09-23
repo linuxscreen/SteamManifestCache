@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"433350"
+	"common"
+	{
+		"name"		"BlackShot: Mercenary Warfare FPS"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"icon"		"c18f705eaf7822a7db829ccb3e874cf0dae37c41"
+		"logo"		"c0b6e18cf73d26eb2dbada9e4b3b6ca53932ba69"
+		"logo_small"		"c0b6e18cf73d26eb2dbada9e4b3b6ca53932ba69_thumb"
+		"clienticon"		"d6429a9a1eb9b7769ef70b6df58116f513a1df7e"
+		"clienttga"		"309b2d5eca22f6cc25ae3a0c84beabe58357ccf8"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1662681600"
+			"tested_build_id"		"4921382"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"BlackShot: Mercenary Warfare FPS"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"61.6686114352392"
+				"height_pct"		"72.79743528853004"
+			}
+		}
+		"store_asset_mtime"		"1592969566"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Vertigo Games America"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Papaya Play"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Vertigo Games America"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1464756360"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"433350"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1663"
+			"2"		"19"
+			"3"		"1774"
+			"4"		"3859"
+			"5"		"597"
+			"6"		"3839"
+			"7"		"3843"
+			"8"		"128"
+			"9"		"1659"
+			"10"		"4182"
+			"11"		"3835"
+			"12"		"4136"
+			"13"		"1695"
+			"14"		"1678"
+			"15"		"1685"
+			"16"		"7481"
+			"17"		"1667"
+			"18"		"12095"
+			"19"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"hadthirdpartycdkey"		"1"
+		"developer"		"Vertigo Games America"
+		"publisher"		"Papaya Play"
+		"homepage"		"http://blackshot.papayaplay.com/blackshot.do?"
+		"isfreeapp"		"1"
+		"listofdlc"		"477940,477941,477942,492580,492581"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"BlackShot"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Patcher.exe"
+				"arguments"		"steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"noupdatesafterinstall"		"1"
+	}
+	"depots"
+	{
+		"433351"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6944296018579947393"
+					"size"		"6745774491"
+					"download"		"2575325056"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10951729"
+				"timeupdated"		"1680833692"
+			}
+		}
+	}
+}
