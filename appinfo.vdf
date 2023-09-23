@@ -1,0 +1,247 @@
+"appinfo"
+{
+	"appid"		"1796550"
+	"common"
+	{
+		"name"		"Lawnarchy"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"german"		"Zank am Zaun"
+		}
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1796550_eula_0"
+				"name"		"Lawnarchy EULA"
+				"url"		"https://store.steampowered.com//eula/1796550_eula_0"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+		}
+		"clienticon"		"a18109826c07e9be48a205a3496a1af5b81e91e1"
+		"clienttga"		"9de491bf2fecc79f2c988deb538c97e67ed31625"
+		"icon"		"3f591080580618939387bf422c2053ed96e2ca54"
+		"clienticns"		"1c4430456f8a5367365f091aa9c1f8fb6bd5019e"
+		"linuxclienticon"		"adf749a931b331453ec282190a020dac6f5be671"
+		"logo"		"848752b32d3314d8d6c9fed3f430a51fe33d442b"
+		"logo_small"		"848752b32d3314d8d6c9fed3f430a51fe33d442b_thumb"
+		"small_capsule"
+		{
+			"german"		"capsule_231x87_german.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"german"		"header_german.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"de,en"
+			"library_hero"		"de,en"
+			"library_logo"		"de,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.2384445026552"
+				"height_pct"		"85.76388888888889"
+			}
+		}
+		"store_asset_mtime"		"1645653771"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BomBasta Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BomBasta Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1648568220"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1796550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1666"
+			"1"		"6815"
+			"2"		"791774"
+			"3"		"9"
+			"4"		"17389"
+			"5"		"14139"
+			"6"		"19995"
+			"7"		"4252"
+			"8"		"4195"
+			"9"		"1651"
+			"10"		"30358"
+			"11"		"4136"
+			"12"		"6426"
+			"13"		"4305"
+			"14"		"4325"
+			"15"		"6129"
+			"16"		"1708"
+			"17"		"5984"
+			"18"		"4182"
+			"19"		"3859"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"BomBasta Games"
+		"publisher"		"BomBasta Games"
+		"homepage"		"https://www.bombasta-games.com"
+		"gamemanualurl"		"https://store.steampowered.com/manual/1796550/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Lawnarchy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lawnarchy.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Lawnarchy/Lawnarchy.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Lawnarchy/Lawnarchy.app/Contents/MacOS/Lawnarchy"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"Lawnarchy for Linux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german"
+		"hasdepotsindlc"		"0"
+		"1796551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3329796217009205017"
+					"size"		"73734434"
+					"download"		"36691184"
+				}
+			}
+		}
+		"1796552"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3795509612245856304"
+					"size"		"238491150"
+					"download"		"60522512"
+				}
+			}
+		}
+		"1796553"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2765001962548743185"
+					"size"		"94564438"
+					"download"		"40796528"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8489758"
+				"timeupdated"		"1649001231"
+			}
+		}
+	}
+}
