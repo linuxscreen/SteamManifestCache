@@ -1,0 +1,243 @@
+"appinfo"
+{
+	"appid"		"1696020"
+	"common"
+	{
+		"name"		"Ha_Bits"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"06211da7b4f36bd412de2e6ec198ac75d1a01f20"
+		"logo_small"		"06211da7b4f36bd412de2e6ec198ac75d1a01f20_thumb"
+		"icon"		"ba31c725ec3c6b166a35bf94af73781f4d27f158"
+		"clienttga"		"930769a447b157dce9ca8a54ee64ee277a09b3ce"
+		"clienticns"		"a3e985045dc148e9f29de5d27cde37620ef2b2af"
+		"linuxclienticon"		"bd25b8a59c5cce51b2b25e433d5083965e8b7bd1"
+		"clienticon"		"a3e985045dc148e9f29de5d27cde37620ef2b2af"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1650326400"
+			"tested_build_id"		"7490951"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"simultaneous_gamepad_mouse"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"71.66476825893199"
+			}
+		}
+		"store_asset_mtime"		"1627316247"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dark Quixote Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dark Quixote Studio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Ha_Bits"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630169971"
+		"community_hub_visible"		"1"
+		"gameid"		"1696020"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4115"
+			"1"		"19"
+			"2"		"3978"
+			"3"		"1721"
+			"4"		"1628"
+			"5"		"1714"
+			"6"		"21"
+			"7"		"3834"
+			"8"		"3942"
+			"9"		"4182"
+			"10"		"4191"
+			"11"		"122"
+			"12"		"3964"
+			"13"		"4106"
+			"14"		"1625"
+			"15"		"1664"
+			"16"		"5379"
+			"17"		"4166"
+			"18"		"5984"
+			"19"		"5716"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Dark Quixote Studio"
+		"publisher"		"Dark Quixote Studio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Ha_Bits_Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Ha_bits\\Ha_Bits.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Ha_Bits.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,spanish,latam"
+		"hasdepotsindlc"		"0"
+		"1696021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1903382964107685898"
+					"size"		"960892234"
+					"download"		"150784688"
+				}
+				"ha_bitsmac"
+				{
+					"gid"		"1903382964107685898"
+					"size"		"960892234"
+					"download"		"150784688"
+				}
+			}
+		}
+		"1696022"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"262756540542586337"
+					"size"		"967661911"
+					"download"		"153043216"
+				}
+				"ha_bitsmac"
+				{
+					"gid"		"262756540542586337"
+					"size"		"967661911"
+					"download"		"153043216"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7490951"
+				"timeupdated"		"1633998068"
+			}
+			"ha_bitsmac"
+			{
+				"buildid"		"7490951"
+				"description"		"repositorio para Mac"
+				"timeupdated"		"1633559505"
+			}
+		}
+	}
+}
