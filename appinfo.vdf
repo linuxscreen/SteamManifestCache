@@ -1,0 +1,369 @@
+"appinfo"
+{
+	"appid"		"1812820"
+	"common"
+	{
+		"name"		"Bitburner"
+		"type"		"Game"
+		"logo"		"afdab3c38f9d80549647631c6d421a3e92f1d2b1"
+		"logo_small"		"afdab3c38f9d80549647631c6d421a3e92f1d2b1_thumb"
+		"icon"		"9555faf4b3f5883255f1d2b2bd99dd98bafa5cfd"
+		"linuxclienticon"		"83822d190fd0b21d5e69f6c7fd75cd9c12de76b4"
+		"clienticon"		"bc6b904ad322c0fa87026fc356c89c85a61f30e4"
+		"clienttga"		"1ea9af8bf1d4caa4fd1104b989a01111028d36ef"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1644969600"
+			"tested_build_id"		"7969772"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.33370247323735"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1675874142"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fulcrum Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Hydroflame"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"over 250 github contributors"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Fulcrum Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1639178575"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1812820"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5432"
+			"1"		"615955"
+			"2"		"255534"
+			"3"		"113"
+			"4"		"31275"
+			"5"		"5502"
+			"6"		"4115"
+			"7"		"5030"
+			"8"		"599"
+			"9"		"4182"
+			"10"		"1664"
+			"11"		"122"
+			"12"		"9"
+			"13"		"3810"
+			"14"		"17305"
+			"15"		"1036"
+			"16"		"4747"
+			"17"		"1721"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Fulcrum Games"
+		"publisher"		"Fulcrum Games"
+		"homepage"		"https://github.com/danielyxie/bitburner"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Bitburner"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bitburner.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"normally"
+				}
+				"description"		"normally"
+			}
+			"1"
+			{
+				"executable"		"bitburner.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"bitburner"
+				"arguments"		"--no-sandbox"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"--no-sandbox (diff flags for different linux distro)"
+				}
+				"description"		"--no-sandbox (diff flags for different linux distro)"
+			}
+			"3"
+			{
+				"executable"		"bitburner.exe"
+				"arguments"		"--no-scripts"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"and kill all scripts at startup."
+				}
+				"description"		"and kill all scripts at startup."
+			}
+			"4"
+			{
+				"executable"		"bitburner"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"no flags"
+				}
+				"description"		"no flags"
+			}
+			"5"
+			{
+				"executable"		"bitburner"
+				"arguments"		"--disable-seccomp-filter-sandbox"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"--disable-seccomp-filter-sandbox"
+				}
+				"description"		"--disable-seccomp-filter-sandbox"
+			}
+		}
+	}
+	"depots"
+	{
+		"1812821"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2534195534485680934"
+					"size"		"309147721"
+					"download"		"93982032"
+				}
+				"development"
+				{
+					"gid"		"1062533477512459591"
+					"size"		"309183056"
+					"download"		"93992832"
+				}
+				"v1.7"
+				{
+					"gid"		"8764698001042269675"
+					"size"		"256807114"
+					"download"		"81525936"
+				}
+			}
+		}
+		"1812822"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7015575564221844179"
+					"size"		"729904112"
+					"download"		"89446640"
+				}
+				"development"
+				{
+					"gid"		"5430115842605146296"
+					"size"		"729939447"
+					"download"		"89457440"
+				}
+				"v1.7"
+				{
+					"gid"		"2452807440410195228"
+					"size"		"620639034"
+					"download"		"77832560"
+				}
+			}
+		}
+		"1812823"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2042714812182422679"
+					"size"		"315100201"
+					"download"		"90310992"
+				}
+				"development"
+				{
+					"gid"		"4620381828796062555"
+					"size"		"315135536"
+					"download"		"90321792"
+				}
+				"v1.7"
+				{
+					"gid"		"8845750543477734752"
+					"size"		"259367614"
+					"download"		"76751136"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12041220"
+				"timeupdated"		"1693094768"
+			}
+			"development"
+			{
+				"buildid"		"12168167"
+				"description"		"Development branch"
+				"timeupdated"		"1694517849"
+			}
+			"v1.7"
+			{
+				"buildid"		"9132880"
+				"description"		"v1.7 of bitburner, will never get updated"
+				"timeupdated"		"1660755988"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1"
+	}
+}
