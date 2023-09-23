@@ -1,0 +1,248 @@
+"appinfo"
+{
+	"appid"		"1647160"
+	"common"
+	{
+		"name"		"Deepest Sword"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienttga"		"287e530e9256e30bcde9d2a7847a0241bbd2893e"
+		"clienticon"		"1c2f6b51720e91a3d68542ac2ecd0214631ea4ea"
+		"icon"		"1d33811f4736c3b63bc61ddb3307f21d796139e3"
+		"logo"		"50aea71a83adb75773edfe4c783e685290eef758"
+		"logo_small"		"50aea71a83adb75773edfe4c783e685290eef758_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1652745600"
+			"tested_build_id"		"6863376"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"51.3953488372093"
+				"height_pct"		"74.69722156257421"
+			}
+		}
+		"store_asset_mtime"		"1630307877"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cosmic Adventure Squad"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cosmic Adventure Squad"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623222008"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1647160"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3964"
+			"1"		"3798"
+			"2"		"5379"
+			"3"		"5537"
+			"4"		"1625"
+			"5"		"3871"
+			"6"		"3877"
+			"7"		"1664"
+			"8"		"4046"
+			"9"		"113"
+			"10"		"1684"
+			"11"		"4136"
+			"12"		"4172"
+			"13"		"12095"
+			"14"		"4608"
+			"15"		"7250"
+			"16"		"4182"
+			"17"		"492"
+			"18"		"19"
+			"19"		"3968"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Cosmic Adventure Squad"
+		"publisher"		"Cosmic Adventure Squad"
+		"homepage"		"https://linktr.ee/deepestsword"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Deepest Sword"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Deepest Sword.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Deepest Sword.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"DeepestSword.app\\Contents\\MacOS\\Deepest Sword"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1647161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7308010513120097434"
+					"size"		"73722575"
+					"download"		"19788256"
+				}
+			}
+		}
+		"1647162"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2420248091356589609"
+					"size"		"66060855"
+					"download"		"17358832"
+				}
+			}
+		}
+		"1647163"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2784079523349375581"
+					"size"		"96984801"
+					"download"		"26736672"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6863376"
+				"timeupdated"		"1623657187"
+			}
+		}
+	}
+}
