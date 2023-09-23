@@ -1,0 +1,125 @@
+"appinfo"
+{
+	"appid"		"1712160"
+	"common"
+	{
+		"name"		"Fractured Demo"
+		"type"		"Demo"
+		"parent"		"1698810"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"b3fe2754d92b48a621c47d1bff6c4f96ec8fa8e6"
+		"clienticon"		"3e7d4d121ad9977644540b67e67b79f68dcc9c78"
+		"icon"		"1f674dbc1fcabb8d15adf55686630b91e27fb0e3"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1628232887"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Suttle Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Suttle Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1627921141"
+		"gameid"		"1712160"
+	}
+	"extended"
+	{
+		"demoofappid"		"1698810"
+		"developer"		"Suttle Games"
+		"publisher"		"Suttle Games"
+	}
+	"config"
+	{
+		"installdir"		"Fractured Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FracturedDemoUpdated.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1712161"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6453820630696672860"
+					"size"		"2980128077"
+					"download"		"1461518368"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7458179"
+				"timeupdated"		"1633060311"
+			}
+		}
+	}
+}
