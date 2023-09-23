@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1428900"
+	"common"
+	{
+		"name"		"Tadpole Tales"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"36a3de3012fe61603888ef3a69a4ca673a1bc22e"
+		"logo_small"		"36a3de3012fe61603888ef3a69a4ca673a1bc22e_thumb"
+		"icon"		"c7ef056792e8aa5c01ad2490d60530e1f4c2b2ee"
+		"clienticon"		"22af6f3f21dbff3dbcbe191123a1133ed11ae477"
+		"clienttga"		"f9f832da349039e14f7cdeaffae3649d57f1c2a1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1682467200"
+			"tested_build_id"		"6385255"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1618834134"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Andrei Cretu"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Giacomo Autili"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Tomer Barnea"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Pinnical Studio"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1615536000"
+		"steam_release_date"		"1615539661"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1428900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4255"
+			"1"		"6815"
+			"2"		"3871"
+			"3"		"4726"
+			"4"		"3798"
+			"5"		"4885"
+			"6"		"1773"
+			"7"		"6730"
+			"8"		"4106"
+			"9"		"4791"
+			"10"		"4305"
+			"11"		"19"
+			"12"		"7250"
+			"13"		"4195"
+			"14"		"5350"
+			"15"		"4252"
+			"16"		"1684"
+			"17"		"4182"
+			"18"		"113"
+			"19"		"21"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Andrei Cretu"
+		"publisher"		"Pinnical Studio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tadpole Tales"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TadpoleTales.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1428901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3291872610185965005"
+					"size"		"915223475"
+					"download"		"679123280"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6385255"
+				"timeupdated"		"1615843933"
+			}
+		}
+	}
+}
