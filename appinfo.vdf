@@ -1,0 +1,253 @@
+"appinfo"
+{
+	"appid"		"1985660"
+	"common"
+	{
+		"name"		"Spectral Showdown"
+		"type"		"Game"
+		"icon"		"c5ef53495a63fee22495cdaa8dd89121b2c55ef8"
+		"clienticon"		"701f3553f9a16e24e229e78e759698f5d0b5df7b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"clienttga"		"d517e995b528f865221fdd3dbcc56d2214e30800"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1985660_eula_0"
+				"name"		"Spectral Showdown EULA"
+				"url"		"https://store.steampowered.com//eula/1985660_eula_0"
+				"version"		"2"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"21.017275645925693"
+				"height_pct"		"63.5544686426893"
+			}
+		}
+		"store_asset_mtime"		"1660381860"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tinkering Studios"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Matthew Bullock"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Tinkering Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1660582838"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1985660"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"6506"
+			"2"		"1773"
+			"3"		"4191"
+			"4"		"4562"
+			"5"		"492"
+			"6"		"4195"
+			"7"		"1697"
+			"8"		"3993"
+			"9"		"6730"
+			"10"		"1775"
+			"11"		"7368"
+			"12"		"3859"
+			"13"		"4158"
+			"14"		"1684"
+			"15"		"113"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"Tinkering Studios"
+		"publisher"		"Tinkering Studios"
+		"homepage"		"https://spectralshowdown.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Spectral Showdown"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SynopticsProject.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65529"
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1985661"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7481855338612073729"
+					"size"		"808356572"
+					"download"		"313977936"
+				}
+				"public-experimental"
+				{
+					"gid"		"8857934308629756303"
+					"size"		"797665127"
+					"download"		"313961872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"B59E7F7314907BD040E1F0977490C129"
+					"size"		"6BC8A15B554E70C60E7AFC30A6A77039"
+					"download"		"F9342C0AD03AA666AD06C24543E8737E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9686122"
+				"timeupdated"		"1665347443"
+			}
+			"development"
+			{
+				"buildid"		"10482973"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675618547"
+			}
+			"public-experimental"
+			{
+				"buildid"		"9588066"
+				"description"		"The Public Experimental branch."
+				"timeupdated"		"1665347461"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"16384"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SynopticsProject/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_ingame"		"In a Match (%PLAYERS%/4)"
+					"#status_inlobby"		"In a Lobby (%PLAYERS%/4)"
+					"#status_atmainmenu"		"At the main menu"
+					"#status_playingoffline"		"In an Offline Match"
+					"#status_playingtutorial"		"Doing the Tutorial"
+				}
+			}
+		}
+	}
+}
