@@ -1,0 +1,219 @@
+"appinfo"
+{
+	"appid"		"432870"
+	"common"
+	{
+		"name"		"Special Tactics Online"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"06b32d3219f074f7f3c08184c7135da718354407"
+		"logo_small"		"06b32d3219f074f7f3c08184c7135da718354407_thumb"
+		"clienticon"		"d3b592e7f3e2aea53b7b1b62a8a95cfdfe81fc69"
+		"clienttga"		"a0bb5019243aa4926386b4be6c4597c0e31273ff"
+		"icon"		"e109676cb3cd504f91bbdcd9d1ade1571446b32a"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1657065600"
+			"tested_build_id"		"6745659"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Special Tactics"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1460149952"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Beast Mode Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Beast Mode Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1461654000"
+		"steam_release_date"		"1461693540"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"432870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3813"
+			"1"		"1775"
+			"2"		"14139"
+			"3"		"599"
+			"4"		"1708"
+			"5"		"3843"
+			"6"		"4325"
+			"7"		"113"
+			"8"		"4637"
+			"9"		"1685"
+			"10"		"1741"
+			"11"		"9"
+			"12"		"19"
+			"13"		"1677"
+			"14"		"3859"
+			"15"		"4791"
+			"16"		"492"
+			"17"		"1676"
+			"18"		"3871"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Beast Mode Games"
+		"publisher"		"Beast Mode Games"
+		"homepage"		"http://beastmodegames.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"STO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"STO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"432871"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7624036467746452486"
+					"size"		"442420909"
+					"download"		"208528480"
+				}
+				"pre_release"
+				{
+					"gid"		"7624036467746452486"
+					"size"		"442420909"
+					"download"		"208528480"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6745659"
+				"timeupdated"		"1621794923"
+			}
+			"pre_release"
+			{
+				"buildid"		"6745659"
+				"timeupdated"		"1621794440"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"4000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"replays"
+				"pattern"		"*.sto"
+			}
+		}
+	}
+}
