@@ -1,0 +1,151 @@
+"appinfo"
+{
+	"appid"		"1674430"
+	"common"
+	{
+		"name"		"Crown Alpha"
+		"type"		"Demo"
+		"parent"		"1658010"
+		"clienticon"		"9d69ee0eb1ab112a40f306d9e6b4313c450ab763"
+		"clienttga"		"819c6c01ce868f6b5585940b664b98c64fabd8f1"
+		"icon"		"9ec64a7c4652b86f4f01d765a9ab59248394901d"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.883720930232556"
+				"height_pct"		"53.03965803847068"
+			}
+		}
+		"store_asset_mtime"		"1624648270"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tilting Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tilting Games"
+			}
+		}
+		"steam_release_date"		"1624638975"
+		"gameid"		"1674430"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1658010"
+		"developer"		"Tilting Games"
+		"publisher"		"Tilting Games"
+	}
+	"config"
+	{
+		"installdir"		"Crown Alpha"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"./Crown.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1674431"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3434536922907023832"
+					"size"		"2072503425"
+					"download"		"574180784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatesting"
+				{
+					"gid"		"061C6614DB0800F8858F143C41C23A44"
+					"size"		"549920AD940AA67BA2FB99BEE5472E25"
+					"download"		"09E50E159FA3A0EA77F6EB2C89EA41F4"
+				}
+				"devbranch"
+				{
+					"gid"		"91A5F7B575597AA02E4C42E6A9A09B77"
+					"size"		"6A922A8D39AFB8CDB9B5061B73EE76D1"
+					"download"		"2B6E301E2AD03A57A5B6C98CB6D36598"
+				}
+			}
+		}
+		"1658011"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1312560561304093698"
+					"size"		"1754185453"
+					"download"		"507984416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E0FB530EB6B24E3F2AADB1A1E6ED1504"
+					"size"		"6FE1DD13F0EF0643A7CB445EED811795"
+					"download"		"FEA4C15A8FDB97D8246F750CC244DDD9"
+				}
+			}
+			"depotfromapp"		"1658010"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7009123"
+				"timeupdated"		"1625902897"
+			}
+			"betatesting"
+			{
+				"buildid"		"7009123"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625902872"
+			}
+			"devbranch"
+			{
+				"buildid"		"7009123"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625902889"
+			}
+			"beta"
+			{
+				"buildid"		"6934360"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624637866"
+			}
+		}
+	}
+}
