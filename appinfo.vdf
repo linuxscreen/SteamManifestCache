@@ -1,0 +1,227 @@
+"appinfo"
+{
+	"appid"		"524410"
+	"common"
+	{
+		"name"		"PCMark 10 Demo"
+		"type"		"Demo"
+		"parent"		"524390"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"37ab5ac47c791f82451598e971d455c958c075df"
+		"clienttga"		"36cfb5cbe3103bce21a8476e27bcfeefea478cd7"
+		"icon"		"82a9d3c0178f45275622f1aa911a11b46358807c"
+		"logo"		"3eb6311a2f07ff0d287cf7c9f5df6bc1d47d4d70"
+		"logo_small"		"3eb6311a2f07ff0d287cf7c9f5df6bc1d47d4d70_thumb"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"524410_eula_0"
+				"name"		"PCMark 10 Demo EULA"
+				"url"		"http://store.steampowered.com//eula/524410_eula_0"
+			}
+		}
+		"metacritic_name"		"PCMark 10 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1568914163"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UL"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"UL"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1498170588"
+		"gameid"		"524410"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"524390"
+		"disableoverlay"		"1"
+		"developer"		"UL"
+		"publisher"		"UL"
+		"homepage"		"https://benchmarks.ul.com/pcmark10"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"PCMark 10"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\x64\\PCMark10.exe"
+				"workingdir"		"bin\\x64"
+				"description"		"Launch PCMark 10 Demo (64-bit)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"bin\\x86\\PCMark10.exe"
+				"workingdir"		"bin\\x86"
+				"description"		"Launch PCMark 10 Demo (32-bit)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"524391"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"depotfromapp"		"524390"
+			"sharedinstall"		"2"
+		}
+		"524392"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"depotfromapp"		"524390"
+			"sharedinstall"		"2"
+		}
+		"524411"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6901569383242902113"
+					"size"		"3347244"
+					"download"		"2830288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"system_info"
+				{
+					"gid"		"03E35D602B329244A991DDC63596E40B"
+					"size"		"05667AE578FF2B3A33F6D11366464957"
+					"download"		"EC91F58EE563072151C518AA97E9CC35"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12169828"
+				"timeupdated"		"1694601469"
+			}
+			"system_info"
+			{
+				"buildid"		"12169828"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694529857"
+			}
+		}
+	}
+}
