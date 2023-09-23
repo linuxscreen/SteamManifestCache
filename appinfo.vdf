@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"1668610"
+	"common"
+	{
+		"name"		"Blackhaven"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1668610_eula_0"
+				"name"		"Blackhaven EULA"
+				"url"		"https://store.steampowered.com//eula/1668610_eula_0"
+				"version"		"1"
+			}
+		}
+		"logo"		"cac3e9d03f834c52dc4e9a1af5196170b1a04038"
+		"logo_small"		"cac3e9d03f834c52dc4e9a1af5196170b1a04038_thumb"
+		"icon"		"baec820d2b3fa21243ac0c52ccea0cfd899dfdca"
+		"clienttga"		"788f7337d2b5049066493a033a87466259d131d9"
+		"clienticon"		"8e6557ee957b076ba64e926834aa094faa6614a3"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1650499200"
+			"tested_build_id"		"7122165"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1660512194"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Historiated"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Historiated"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_18"		"1"
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627358628"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1668610"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1742"
+			"1"		"3987"
+			"2"		"3834"
+			"3"		"5716"
+			"4"		"5900"
+			"5"		"3839"
+			"6"		"7208"
+			"7"		"4191"
+			"8"		"4175"
+			"9"		"113"
+			"10"		"4182"
+			"11"		"21"
+			"12"		"492"
+			"13"		"13190"
+			"14"		"4166"
+			"15"		"5984"
+			"16"		"8369"
+			"17"		"5372"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Historiated"
+		"publisher"		"Historiated"
+		"homepage"		"https://www.historiated.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Blackhaven"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blackhaven.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"1668616"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5212359877732715008"
+					"size"		"3986471450"
+					"download"		"1073398416"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9314144"
+				"timeupdated"		"1660526047"
+			}
+		}
+	}
+}
