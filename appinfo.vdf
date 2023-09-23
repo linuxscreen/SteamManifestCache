@@ -1,0 +1,145 @@
+"appinfo"
+{
+	"appid"		"2343980"
+	"common"
+	{
+		"name"		"Ghosted Demo"
+		"type"		"Demo"
+		"parent"		"1742010"
+		"icon"		"68eaa87e4aca0f17f82db0954d90f283be968fda"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"clienttga"		"e023e4225198ccdf10de5873a7f77fb68aa0306a"
+		"clienticon"		"913406bef288b46f756f6ca14ebcaf988f70f62b"
+		"clienticns"		"623b0e79d955ee783a798ced78974f0f53e1ed0d"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1677852548"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Ahn"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Studio Ahn"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678116191"
+		"gameid"		"2343980"
+	}
+	"extended"
+	{
+		"demoofappid"		"1742010"
+		"absolutemousecoordinates"		"1"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"Studio Ahn"
+		"publisher"		"Studio Ahn"
+		"homepage"		"https://ghostedgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Ghosted Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Ghosted.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Ghosted.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,japanese"
+		"2343981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5229924974155071351"
+					"size"		"671972905"
+					"download"		"75739824"
+				}
+			}
+		}
+		"2343982"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2523157692826840106"
+					"size"		"665031173"
+					"download"		"73626656"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10702066"
+				"timeupdated"		"1678117241"
+			}
+		}
+	}
+}
