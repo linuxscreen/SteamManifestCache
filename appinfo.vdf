@@ -1,0 +1,135 @@
+"appinfo"
+{
+	"appid"		"1741100"
+	"common"
+	{
+		"name"		"CaseCracker Demo"
+		"type"		"Demo"
+		"parent"		"1723260"
+		"linuxclienticon"		"cd0858682c83df198ac29182d5693dea5263c75a"
+		"clienticon"		"cdb1c6bcc32998755ed12d04420156e2aa5904c7"
+		"clienttga"		"85eda5c9ac45087ce0fb09df879def69f20f8564"
+		"icon"		"e0d64ec538562092e4d4b3430089ad8745f55143"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"真探 Demo"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"26.72897196261681"
+				"height_pct"		"53.81944444444445"
+			}
+		}
+		"store_asset_mtime"		"1652430698"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"李硕"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"李硕"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"steam_release_date"		"1633699362"
+		"gameid"		"1741100"
+	}
+	"extended"
+	{
+		"demoofappid"		"1723260"
+		"developer"		"李硕"
+		"publisher"		"李硕"
+	}
+	"config"
+	{
+		"installdir"		"TheTruthDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TruthDetective.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"1741101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1561195551110749377"
+					"size"		"331331684"
+					"download"		"103816240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demotest"
+				{
+					"gid"		"A9B618D9C5AC4F8C808A152E62185464"
+					"size"		"C4BD8D3F0FD86D39C8FE2874A049CB85"
+					"download"		"B6B406187B8A3D56BA184C33A47AD53D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11110572"
+				"timeupdated"		"1682666489"
+			}
+			"demotest"
+			{
+				"buildid"		"11110572"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682649228"
+			}
+		}
+	}
+}
