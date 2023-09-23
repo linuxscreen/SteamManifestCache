@@ -1,0 +1,266 @@
+"appinfo"
+{
+	"appid"		"1592330"
+	"common"
+	{
+		"name"		"SAMURAI WARRIORS 5 Trial version"
+		"type"		"Demo"
+		"parent"		"1591530"
+		"name_localized"
+		{
+			"japanese"		"【体験版】戦国無双５"
+			"tchinese"		"【體驗版】戰國無雙５"
+			"schinese"		"【试玩版】战国无双５"
+		}
+		"clienticon"		"c49bed2c083f6accf21a583f77ee2d70d8483838"
+		"clienttga"		"9da79567ccbacb193076cfa70f67714e561e9e0a"
+		"icon"		"380a34b987387f13499da2e03bb4dc16b00c5595"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1592330_eula_0"
+				"name"		"SAMURAI WARRIORS 5 Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1592330_eula_0"
+				"version"		"4"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"logo"		"3f3110f837e1c95ec8dcef6d8dfef82e9868d479"
+		"logo_small"		"3f3110f837e1c95ec8dcef6d8dfef82e9868d479_thumb"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,zh-tw"
+			"library_hero"		"en"
+			"library_logo"		"en,ja,zh-tw"
+		}
+		"store_asset_mtime"		"1625460360"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626742800"
+		"gameid"		"1592330"
+	}
+	"extended"
+	{
+		"demoofappid"		"1591530"
+		"developer"		"KOEI TECMO GAMES CO., LTD."
+		"publisher"		"KOEI TECMO GAMES CO., LTD."
+		"homepage"		"https://www.koeitecmoamerica.com/sw5/"
+	}
+	"config"
+	{
+		"installdir"		"SAMURAI WARRIORS 5"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SW5.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1592331"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7024370329156652651"
+					"size"		"4414750289"
+					"download"		"4068540720"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,tchinese,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6964260"
+				"timeupdated"		"1625145902"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"appidredirect"		"1591530"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/SAMURAI WARRIORS 5/Savedata"
+				"pattern"		"inputmap0.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/SAMURAI WARRIORS 5/Savedata"
+				"pattern"		"inputmap1.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/SAMURAI WARRIORS 5/Savedata"
+				"pattern"		"SAVEDATA00.BIN"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/SAMURAI WARRIORS 5/Savedata"
+				"pattern"		"SAVEDATA01.BIN"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"4"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/SAMURAI WARRIORS 5/Savedata"
+				"pattern"		"SAVEDATA02.BIN"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"5"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/SAMURAI WARRIORS 5/Savedata"
+				"pattern"		"SAVEDATA03.BIN"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"6"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/SAMURAI WARRIORS 5/Savedata"
+				"pattern"		"SAVEDATA04.BIN"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"7"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/SAMURAI WARRIORS 5/Savedata"
+				"pattern"		"SAVEDATATRIAL.BIN"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
