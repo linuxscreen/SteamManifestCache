@@ -1,0 +1,216 @@
+"appinfo"
+{
+	"appid"		"958430"
+	"common"
+	{
+		"name"		"Fast Dust Demo"
+		"type"		"Demo"
+		"parent"		"891330"
+		"clienttga"		"4721613b782ebdc70ea0346f7f12c5a08945fa8a"
+		"clienticon"		"dd960f0e7ebc450f3c475ca6ed2c41a716b67b6b"
+		"icon"		"5b08f6fb5056ea477f12555aea149cddc38c6aee"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"958430_eula_0"
+				"name"		"Fast Dust Demo EULA"
+				"url"		"https://store.steampowered.com//eula/958430_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"metacritic_name"		"Fast Dust Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.58934172652812"
+				"height_pct"		"47.34194013710257"
+			}
+		}
+		"store_asset_mtime"		"1666983941"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Binary Giants"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Binary Giants"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1538909906"
+		"gameid"		"958430"
+	}
+	"extended"
+	{
+		"demoofappid"		"891330"
+		"developer"		"Binary Giants"
+		"publisher"		"Binary Giants"
+		"homepage"		"http://www.fastdust.com"
+	}
+	"config"
+	{
+		"installdir"		"Fast Dust Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"fastdust_demo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"fastdust_demo.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"fastdust_demo.x86_64"
+				"description"		"Linux 64 bit"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,spanish,schinese,russian,polish,brazilian"
+		"958431"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7457287645389818039"
+					"size"		"1241268180"
+					"download"		"405668624"
+				}
+			}
+		}
+		"958432"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4841038742607803521"
+					"size"		"1295971136"
+					"download"		"439063408"
+				}
+			}
+		}
+		"958433"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2901270938386957482"
+					"size"		"1268700643"
+					"download"		"420066848"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8813451"
+				"timeupdated"		"1653554625"
+			}
+		}
+	}
+}
