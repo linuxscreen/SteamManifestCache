@@ -1,0 +1,225 @@
+"appinfo"
+{
+	"appid"		"1391250"
+	"common"
+	{
+		"name"		"WKSP RUMBLE"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"fd18a336609522147a7423e2b5d8985106891166"
+		"logo_small"		"fd18a336609522147a7423e2b5d8985106891166_thumb"
+		"icon"		"d385257511e66bbf68f58e4c3406bc7e9c6cf16d"
+		"clienticon"		"ccb249aef5f0a7c3523ebd608761da25642298b7"
+		"clienttga"		"7fbde965f7186d145140702ee3ccb9af8d9f3eab"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"86.52300949598245"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667324505"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nukearts Studio"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Wieden+Kennedy São Paulo"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Nukearts Studio"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Wieden+Kennedy São Paulo"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1602794823"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1391250"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4736"
+			"1"		"3964"
+			"2"		"1743"
+			"3"		"6915"
+			"4"		"19"
+			"5"		"3871"
+			"6"		"597"
+			"7"		"3993"
+			"8"		"4305"
+			"9"		"4094"
+			"10"		"1719"
+			"11"		"4136"
+			"12"		"3916"
+			"13"		"1651"
+			"14"		"6730"
+			"15"		"1775"
+			"16"		"113"
+			"17"		"7368"
+			"18"		"4182"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Nukearts Studio"
+		"publisher"		"Nukearts Studio"
+		"homepage"		"http://www.wksaopaulo.com.br/pt/trabalho/rumble/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"WKSP Rumble"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"W+K Rumble.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents\\MacOS\\W+K Rumble"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1391251"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2858718157771253023"
+					"size"		"368371365"
+					"download"		"57566432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"F118D53CCE1E0965C7BFB945319E3F66"
+					"size"		"EF3D65CEF1285052C12ACAAF690D9947"
+					"download"		"628D048C37F218570BFD993B3D8CA120"
+				}
+			}
+		}
+		"1391252"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4912826364699134008"
+					"size"		"369437788"
+					"download"		"57817440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"CBB2D9F932355E8A13351C600EBBA4C6"
+					"size"		"C773CCDEDC428376258011A0B5B248BB"
+					"download"		"085436C70E6591ACD47730A62CFD6CB7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5839630"
+				"timeupdated"		"1605576537"
+			}
+			"devtest"
+			{
+				"buildid"		"5934318"
+				"pwdrequired"		"1"
+				"timeupdated"		"1607371886"
+			}
+		}
+	}
+}
