@@ -1,0 +1,137 @@
+"appinfo"
+{
+	"appid"		"1920260"
+	"common"
+	{
+		"name"		"SVFI Demo"
+		"type"		"Demo"
+		"parent"		"1692080"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"SVFI 预览版"
+		}
+		"clienttga"		"71c1f8db756afdeef0275ffdb665c210113379d8"
+		"clienticon"		"90e7aff4b17feb616f70a53647b37f43091251bd"
+		"icon"		"b91e36a0ff6d7bc2e1b097a440c209cd355e9ba1"
+		"clienticns"		"a394724ffeb608824d6cfa9773562e7e16c1dbc7"
+		"linuxclienticon"		"a394724ffeb608824d6cfa9773562e7e16c1dbc7"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1655562046"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SDT Core"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SDT Core"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_22"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1655787631"
+		"gameid"		"1920260"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1692080"
+		"developer"		"SDT Core"
+		"publisher"		"SDT Core"
+		"homepage"		"https://github.com/Justin62628/Squirrel-RIFE"
+	}
+	"config"
+	{
+		"installdir"		"SVFI Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SVFI.Community.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"SVFI GUI"
+				}
+				"description"		"SVFI GUI"
+			}
+		}
+	}
+	"depots"
+	{
+		"1920261"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4668602770953839172"
+					"size"		"1201690326"
+					"download"		"497923120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"668C62394B087EC1455B166006F6061B"
+					"size"		"E3FF3EE75206FACCA6D0D17E6520766C"
+					"download"		"FD34FD20B1980FE80D638A21F704C01C"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9346775"
+				"timeupdated"		"1660902802"
+			}
+			"alpha"
+			{
+				"buildid"		"9346775"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660902829"
+			}
+		}
+	}
+}
