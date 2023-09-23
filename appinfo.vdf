@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"1625130"
+	"common"
+	{
+		"name"		"Orbit-X"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"b40f68a1599f0b46d96e76c04d83f2a1b066cbdb"
+		"logo_small"		"b40f68a1599f0b46d96e76c04d83f2a1b066cbdb_thumb"
+		"icon"		"7d56576c3a7380143a80b93cfa1af418171099be"
+		"clienttga"		"6c9ba3cecdae31fcfe8377f2a08c879da8efbd95"
+		"clienticon"		"63f0f400bdc27fbc3fe37374fdfd4e97897501a2"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1621946059"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Different Gravity Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Different Gravity Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1627340220"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1625130"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1755"
+			"1"		"15045"
+			"2"		"4695"
+			"3"		"5794"
+			"4"		"16598"
+			"5"		"16689"
+			"6"		"3968"
+			"7"		"9"
+			"8"		"615955"
+			"9"		"1645"
+			"10"		"599"
+			"11"		"4975"
+			"12"		"19"
+			"13"		"4195"
+			"14"		"4305"
+			"15"		"8945"
+			"16"		"4182"
+			"17"		"597"
+			"18"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Different Gravity Games"
+		"publisher"		"Different Gravity Games"
+		"homepage"		"https://www.differentgravity.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Orbit-X"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Orbit-X.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1625131"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6328520758504932748"
+					"size"		"727025329"
+					"download"		"184377072"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7088810"
+				"timeupdated"		"1627309166"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"DifferentGravity\\Orbit-X"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
