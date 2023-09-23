@@ -1,0 +1,319 @@
+"appinfo"
+{
+	"appid"		"210310"
+	"common"
+	{
+		"name"		"Binary Domain Demo"
+		"type"		"Demo"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+		}
+		"logo"		"101cf86ad6b8d8ce6328c373d23b0b09318b5a1f"
+		"logo_small"		"101cf86ad6b8d8ce6328c373d23b0b09318b5a1f_thumb"
+		"icon"		"4994f5770aa13ff93343d4a700b50e9ec916203c"
+		"clienttga"		"2142bd266f62ea763ad8f14c48d0d0875fb76e94"
+		"clienticon"		"d069c31224f1c4f57a0a8d27617a7a0a263c95e9"
+		"freeondemand"		"1"
+		"parent"		"203750"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1335545239"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Devil's Details"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+		}
+		"primary_genre"		"0"
+		"steam_release_date"		"1335543960"
+		"gameid"		"210310"
+	}
+	"extended"
+	{
+		"demoofappid"		"203750"
+		"developer"		"Devil's Details"
+		"developer_url"		"http://www.sega.com"
+		"gamedir"		"Binary Domain Demo"
+		"homepage"		"www.binarydomaingame.com"
+		"icon"		""
+		"languages"		"english,french,german,spanish,italian"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"210311"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"SEGA"
+	}
+	"config"
+	{
+		"installscriptsignature"		"0e48f03c6a4e89b32ab482c4e0b0996396627f68708ad8192cfa646cdba0f2ae87fe2a6bd54b323010ab60f11c2084dac8ed952cc12f10b6467c022494d18c84083e6984d9e4d5a16a4bc43f704eef25b045243ab6c6502dca13c9276db8cf83bf7f21a1ca503803b504752a0a93730082205038b0cf97a0c7ce4a59dc6fbe96"
+		"installscriptoverride"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BinaryDomain.exe"
+			}
+			"1"
+			{
+				"description"		"Configuration"
+				"executable"		"BinaryDomainConfiguration.exe"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Binary Domain Demo"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"dotnet"
+			{
+				"process 1"		"%INSTALLDIR%\\redist\\dotNetFx35setup.exe"
+				"command 1"		"/q:a"
+				"description"		".Net 3.5 Redist Package"
+				"nocleanup"		"1"
+			}
+			"vcredist"
+			{
+				"process 1"		"%INSTALLDIR%\\redist\\vcredist_x86.exe"
+				"command 1"		"/q:a"
+				"description"		"Microsoft VC Redist Package"
+				"nocleanup"		"1"
+			}
+			"directx"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\210310"
+				"process 1"		"%INSTALLDIR%\\redist\\DirectX\\DXSETUP.exe"
+				"command 1"		"/silent"
+				"nocleanup"		"1"
+			}
+			"eula"
+			{
+				"english"
+				{
+					"process 1"		"%INSTALLDIR%\\eula_en-us.txt"
+					"nocleanup"		"1"
+				}
+				"french"
+				{
+					"process 1"		"%INSTALLDIR%\\eula_fr-fr.txt"
+					"nocleanup"		"1"
+				}
+				"german"
+				{
+					"process 1"		"%INSTALLDIR%\\eula_de-de.txt"
+					"nocleanup"		"1"
+				}
+				"italian"
+				{
+					"process 1"		"%INSTALLDIR%\\eula_it-it.txt"
+					"nocleanup"		"1"
+				}
+				"spanish"
+				{
+					"process 1"		"%INSTALLDIR%\\eula_es-es.txt"
+					"nocleanup"		"1"
+				}
+				"japanese"
+				{
+					"process 1"		"%INSTALLDIR%\\eula_jp-jp.txt"
+					"nocleanup"		"1"
+				}
+			}
+		}
+		"registry"
+		{
+			"hkey_local_machine\software\sega\binary domain demo"
+			{
+				"string"
+				{
+					"install_path"		"%INSTALLDIR%"
+					"exe_path"		"%INSTALLDIR%\\BinaryDomain.exe"
+					"savelocation"		"My Games\\Binary Domain Demo\\Saved Games"
+					"english"
+					{
+						"locale"		"1033"
+					}
+					"french"
+					{
+						"locale"		"1036"
+					}
+					"german"
+					{
+						"locale"		"1031"
+					}
+					"italian"
+					{
+						"locale"		"1040"
+					}
+					"spanish"
+					{
+						"locale"		"3082"
+					}
+					"japanese"
+					{
+						"locale"		"1041"
+					}
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"210311"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"582446640750156671"
+					"size"		"1266579412"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"update"
+				{
+					"gid"		"085C435F9CF8712A6AEFD428F2157F83"
+					"size"		"EBE633477B09C4F10E1A8CD34DD6895F"
+					"download"		"6444E13ACBE8487A15F20D778185D397"
+				}
+			}
+		}
+		"210312"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3506754840486713299"
+					"size"		"364028520"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"update"
+				{
+					"gid"		"ACD2A8DC9CB320107E1877D2146F9641"
+					"size"		"114421637F9BD8DED5E52427FC25C69D"
+					"download"		"6444E13ACBE8487A15F20D778185D397"
+				}
+			}
+		}
+		"210313"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"571415367072249074"
+					"size"		"366281240"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"update"
+				{
+					"gid"		"AC26D23B019ABDE021562D3F21B4971F"
+					"size"		"CB6FC52AF64578D6C046C5B422EDAD81"
+					"download"		"6444E13ACBE8487A15F20D778185D397"
+				}
+			}
+		}
+		"210314"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8398803087189121278"
+					"size"		"372355584"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"update"
+				{
+					"gid"		"9CB46533E01AE4DC7A1F81BFF6613F4A"
+					"size"		"B89AF5D80D5F6F391F5ABDEA0214B91E"
+					"download"		"6444E13ACBE8487A15F20D778185D397"
+				}
+			}
+		}
+		"210315"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7813326287146713436"
+					"size"		"378620488"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"update"
+				{
+					"gid"		"5ED9E7C5C19D11384FEA5DA4E45030F9"
+					"size"		"A519E68D57964BE6B736665D15B8E3E3"
+					"download"		"6444E13ACBE8487A15F20D778185D397"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,french,german,spanish,italian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"30622"
+			}
+			"update"
+			{
+				"buildid"		"30622"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
