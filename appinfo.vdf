@@ -1,0 +1,313 @@
+"appinfo"
+{
+	"appid"		"736590"
+	"common"
+	{
+		"name"		"Operation: Harsh Doorstop"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"304c2a17ff96e09a88c56d20359e77af0d3c9336"
+		"clienttga"		"7ccd4e3efa6360fdfd4d87b28a83ce36e8da0ec7"
+		"icon"		"c6bab4b59297f21d7c58195d2de0054662ec47d4"
+		"logo"		"023e8c202108fe97e323409637581c1c91d85b0e"
+		"logo_small"		"023e8c202108fe97e323409637581c1c91d85b0e_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1677801600"
+			"tested_build_id"		"10592384"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Operation: Harsh Doorstop"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.11785297549593"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1694582911"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Drakeling Labs"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+			"4"		"2"
+			"5"		"37"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1676495003"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"736590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4168"
+			"2"		"1663"
+			"3"		"3859"
+			"4"		"19"
+			"5"		"4175"
+			"6"		"1708"
+			"7"		"599"
+			"8"		"9"
+			"9"		"1774"
+			"10"		"1678"
+			"11"		"597"
+			"12"		"3839"
+			"13"		"4182"
+			"14"		"493"
+			"15"		"492"
+			"16"		"4684"
+			"17"		"4150"
+			"18"		"1669"
+			"19"		"5179"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"gamedir"		"Harsh Doorstop"
+		"serverbrowsername"		"Harsh Doorstop"
+		"developer"		"Drakeling Labs"
+		"homepage"		"https://www.patreon.com/drakelinglabs"
+		"isfreeapp"		"1"
+		"listofdlc"		"1517200,1517201,1517202,1517203"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Harsh Doorstop"
+		"usemms"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HarshDoorstop\\Binaries\\Win64\\HarshDoorstop-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"736590"
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"736591"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3778709589579411068"
+					"size"		"32898659972"
+					"download"		"13512408592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"60A2C1ACE53E3631E9E046A4947B770F"
+					"size"		"489D74DE74118D1CC23D8E0D24403A25"
+					"download"		"BA7C8B18CC2208012A4C7A522F26F2D0"
+				}
+			}
+		}
+		"1517201"
+		{
+			"dlcappid"		"1517201"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3315646444816872784"
+					"size"		"387750512"
+					"download"		"192529360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"FF2B5B8C05A36876CA720C6A5914304F"
+					"size"		"F7166564ECE6CE00477D5714A4F56F7C"
+					"download"		"CC747989248EE2EAF13CACF305F7D85B"
+				}
+			}
+		}
+		"1517202"
+		{
+			"dlcappid"		"1517202"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"467636118323502073"
+					"size"		"1121942222"
+					"download"		"433913312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"576DCD6563006A3F137B05520AB154CD"
+					"size"		"664051652E067756F424205C088F547F"
+					"download"		"67BBBB247049D9FA0C841D5CEB044811"
+				}
+			}
+		}
+		"1517203"
+		{
+			"dlcappid"		"1517203"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"444618577916646337"
+					"size"		"483523137"
+					"download"		"193056064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"6C52F616170BEB49996BF49BE3C57327"
+					"size"		"C520539A00DCC232ECCCCF56270480CB"
+					"download"		"241F1CB8A0C5C8E9C8C063C36AE24535"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11368425"
+				"timeupdated"		"1686044516"
+			}
+			"staging"
+			{
+				"buildid"		"11368425"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685612318"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576000"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
