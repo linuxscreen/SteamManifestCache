@@ -1,0 +1,142 @@
+"appinfo"
+{
+	"appid"		"1309010"
+	"common"
+	{
+		"name"		"Paper Beast Demo"
+		"type"		"Demo"
+		"parent"		"1232570"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+			"seated"		"1"
+		}
+		"clienticon"		"8552f7e1110d432202e7996c3cad8905a6eb8dc9"
+		"clienttga"		"b866babc51419d987c39d0951753343ac77258c8"
+		"icon"		"a5a6ef0bad975df3a947c1860f0dbba7203dc157"
+		"logo"		"c221ba6ba519ccaf24b1035a99412ad45fffbc0e"
+		"logo_small"		"c221ba6ba519ccaf24b1035a99412ad45fffbc0e_thumb"
+		"openvrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"75.69489334195217"
+				"height_pct"		"54.86111111111111"
+			}
+		}
+		"store_asset_mtime"		"1589551135"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pixel Reef"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pixel Reef"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Plug In Digital"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"steam_release_date"		"1592335867"
+		"gameid"		"1309010"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1232570"
+		"vrheadsetstreaming"		"0"
+		"developer"		"Pixel Reef"
+		"publisher"		"Pixel Reef"
+		"homepage"		"https://www.pixelreef.fr/paper-beast/"
+	}
+	"config"
+	{
+		"installdir"		"Paper Beast Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PaperBeastDemo.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1309011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5776609943605258798"
+					"size"		"2265192747"
+					"download"		"1267086368"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5027184"
+				"timeupdated"		"1589463155"
+			}
+		}
+	}
+}
