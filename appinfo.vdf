@@ -1,0 +1,250 @@
+"appinfo"
+{
+	"appid"		"1670820"
+	"common"
+	{
+		"name"		"Tiny Life Demo"
+		"type"		"Demo"
+		"parent"		"1651490"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"030eb1535995814c52969ecc8104fce53eb25040"
+		"logo_small"		"030eb1535995814c52969ecc8104fce53eb25040_thumb"
+		"icon"		"251657c276b7a70e51b7677d428ddabb5397833a"
+		"clienticon"		"dcd2b9ac89e4137160e9db2a8e4efe06b5950cba"
+		"clienttga"		"8c7b99871b9f1def72ff933ac8f0001a3238a35e"
+		"clienticns"		"e7c424250e20bb62fefdcadf1efc0ae1bd02eb4a"
+		"linuxclienticon"		"ce0336cfe6e2fdcfc159e2ee36f8e840421f48a6"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1673098879"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ellpeck Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Top Hat Studios, Inc."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1624023007"
+		"gameid"		"1670820"
+	}
+	"extended"
+	{
+		"demoofappid"		"1651490"
+		"developer"		"Ellpeck Games"
+		"publisher"		"Top Hat Studios, Inc."
+		"homepage"		"https://tinylifegame.com"
+	}
+	"config"
+	{
+		"installdir"		"Tiny Life Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tiny Life.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Tiny Life.app/Contents/MacOS/Tiny Life"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Tiny Life"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"1670822"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3300491295834559679"
+					"size"		"330614725"
+					"download"		"174839456"
+				}
+				"preview"
+				{
+					"gid"		"3300491295834559679"
+					"size"		"330614725"
+					"download"		"174839456"
+				}
+			}
+		}
+		"1670823"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1245214345944608645"
+					"size"		"333327361"
+					"download"		"175319008"
+				}
+				"preview"
+				{
+					"gid"		"1245214345944608645"
+					"size"		"333327361"
+					"download"		"175319008"
+				}
+			}
+		}
+		"1670824"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2448199982687715746"
+					"size"		"332401814"
+					"download"		"174898000"
+				}
+				"preview"
+				{
+					"gid"		"2448199982687715746"
+					"size"		"332401814"
+					"download"		"174898000"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12209808"
+				"timeupdated"		"1694955121"
+			}
+			"preview"
+			{
+				"buildid"		"12209808"
+				"description"		"Public preview branch"
+				"timeupdated"		"1694955127"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"1651490"
+	}
+}
