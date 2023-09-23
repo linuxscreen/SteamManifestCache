@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"2176560"
+	"common"
+	{
+		"name"		"Dreamland"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"715cb2dcca1f0c2b8073aba56a2533e2ca35b530"
+		"clienttga"		"5df0d096147c571c31f8cd9bcc0781d386264ba1"
+		"clienticon"		"4eea9ecc1c380021424e873683bd0a848ef1aa3c"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.06894010465747"
+				"height_pct"		"77.23414536003588"
+			}
+		}
+		"store_asset_mtime"		"1665856767"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dokiden"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dokiden"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1667239475"
+		"community_hub_visible"		"1"
+		"gameid"		"2176560"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"6650"
+			"2"		"5611"
+			"3"		"24904"
+			"4"		"4947"
+			"5"		"3799"
+			"6"		"9551"
+			"7"		"21"
+			"8"		"113"
+			"9"		"6426"
+			"10"		"5716"
+			"11"		"4182"
+			"12"		"4064"
+			"13"		"1742"
+			"14"		"1698"
+			"15"		"5984"
+			"16"		"1738"
+			"17"		"5652"
+			"18"		"13190"
+			"19"		"4305"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Dokiden"
+		"publisher"		"Dokiden"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dreamland"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dreamland.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2176561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3063332788027995809"
+					"size"		"1104884490"
+					"download"		"1027071152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo"
+				{
+					"gid"		"03AF4F0EA44B4970789C89AA7A65F23C"
+					"size"		"4B7B8C915160BB2985D8488ADFD4606A"
+					"download"		"8BFF70A46BC88BB54A3FCF1C2A32AB92"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9881637"
+				"timeupdated"		"1667788318"
+			}
+			"demo"
+			{
+				"buildid"		"9838718"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667788778"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"2000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*"
+			}
+		}
+	}
+}
