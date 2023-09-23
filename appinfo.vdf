@@ -1,0 +1,255 @@
+"appinfo"
+{
+	"appid"		"2259970"
+	"common"
+	{
+		"name"		"学园构想家 Demo"
+		"type"		"Demo"
+		"parent"		"1937500"
+		"icon"		"b65246c48674b780f62298e08dfec61e0ee8f383"
+		"clienticon"		"874b2ae177024af134ed2634da412212fbceca1d"
+		"clienttga"		"b370d39e1a5ef56b38782cdb9e527ab59ecbb1ef"
+		"name_localized"
+		{
+			"sc_schinese"		"学园构想家 Demo"
+			"english"		"Let's School Demo"
+		}
+		"releasestate"		"released"
+		"releasestatesteamchina"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"store_asset_mtime"		"1673527693"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pathea Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pathea Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1673869887"
+		"gameid"		"2259970"
+	}
+	"extended"
+	{
+		"demoofappid"		"1937500"
+		"developer"		"Pathea Games"
+		"publisher"		"Pathea Games"
+	}
+	"config"
+	{
+		"installdir"		"学园构想家 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LetsSchool.exe"
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"2259971"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3384308860869502653"
+					"size"		"1767740104"
+					"download"		"345978528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"8B6DCF12A6E3F8F3CC23E0F4F35D22F5"
+					"size"		"7A1E84D5F613111323FD0837024E44E9"
+					"download"		"48B69293E6F86DA95B352D5A9B5E66FD"
+				}
+			}
+		}
+		"1937501"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3968708959844817658"
+					"size"		"2358137970"
+					"download"		"574428768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build-test"
+				{
+					"gid"		"453F1BA140C1F64108A3C0538B384D96"
+					"size"		"4CD8BBC159BB29FD7DE5B09FB06649AC"
+					"download"		"1CC7E6EA4277D164F40DE7EE739C301B"
+				}
+				"mediareview"
+				{
+					"gid"		"0A906FA2E0E955FCF77A473EBAD4177F"
+					"size"		"47A052B489DB3AFC39B3B8F41065BC43"
+					"download"		"A56A70DF751218B5B2FA96A6949FF3E6"
+				}
+				"programmer_test"
+				{
+					"gid"		"690603CEC695F70EE84CB322EF918949"
+					"size"		"8CD6AAF0A7F56819234B38C184FF81AD"
+					"download"		"96769351170B9B08DCCB6033E6691059"
+				}
+				"ru__test"
+				{
+					"gid"		"5CBA93D3A0B3B575CC6084C838937C1B"
+					"size"		"E265017CE1B0ECCEC89079A0F9016FD9"
+					"download"		"D3CFFB960F9B4C6AA5CF613475368528"
+				}
+				"steam_china_only"
+				{
+					"gid"		"6EC12904DD889C7DD8DCA22404649B68"
+					"size"		"BDE327DCAE6A3F8977074D9D86A196F0"
+					"download"		"B77453AA5797B614B10ECC13EBC82190"
+				}
+			}
+			"depotfromapp"		"1937500"
+		}
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"11503000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687163607"
+			}
+			"public"
+			{
+				"buildid"		"11567284"
+				"timeupdated"		"1687859992"
+			}
+			"build-test"
+			{
+				"sc_schinese"		"构建测试"
+				"buildid"		"12258544"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695398691"
+			}
+			"mediareview"
+			{
+				"sc_schinese"		"媒体测试分支"
+				"buildid"		"12258544"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695436930"
+			}
+			"programmer_test"
+			{
+				"buildid"		"12076882"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693472924"
+			}
+			"ru__test"
+			{
+				"sc_schinese"		"俄语测试"
+				"buildid"		"12232279"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695180956"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"appidredirect"		"1937500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Pathea Games/LetsSchool/Saves"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Pathea Games/LetsSchool/Saves"
+						"replace"		"unity.Pathea Games.LetsSchool/Saves"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Pathea Games/LetsSchool/Saves"
+						"replace"		".config/unity3d/Pathea Games/LetsSchool/Saves"
+					}
+				}
+			}
+		}
+	}
+}
