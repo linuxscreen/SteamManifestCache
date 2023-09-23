@@ -1,0 +1,158 @@
+"appinfo"
+{
+	"appid"		"701100"
+	"common"
+	{
+		"name"		"Amoreon NightClub"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"d092fdd4d86d0b431d61d6e86f21b917b748fa19"
+		"logo_small"		"d092fdd4d86d0b431d61d6e86f21b917b748fa19_thumb"
+		"icon"		"678e2cc8bcf55a3a969ed97547d080d2ccc70ce5"
+		"clienttga"		"5d11fede9dc0ab4b944fcc9bd5f3e1292b158029"
+		"clienticon"		"c0fbfcee0d3b0153e343b0eaee272a4679fdc492"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"Amoreon NightClub"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1503557930"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Citor3"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Citor3"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Femdomination"
+			}
+		}
+		"primary_genre"		"72"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1503039600"
+		"steam_release_date"		"1504761109"
+		"community_hub_visible"		"1"
+		"gameid"		"701100"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"6650"
+			"1"		"113"
+			"2"		"599"
+			"3"		"21978"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Citor3"
+		"publisher"		"Citor3"
+		"homepage"		"http://www.amoreon.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Amoreon NightClub"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Amoreon_NightClub.exe"
+				"description"		"Launch game with SteamVR"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"Amoreon_NightClub.exe"
+				"description"		"Launch game with Oculus"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"701101"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4589755911081798237"
+					"size"		"597787289"
+					"download"		"248963120"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2049326"
+				"timeupdated"		"1503049003"
+			}
+		}
+	}
+}
