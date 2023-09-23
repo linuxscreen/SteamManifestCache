@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"2302560"
+	"common"
+	{
+		"name"		"Demonologist Demo"
+		"type"		"Demo"
+		"parent"		"1929610"
+		"icon"		"ac2b7b0810b1c6d0364bb3e73d552fece53b7c29"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"fc5dbd6827417a25c695c2b68c1ae7ddde4bb7a8"
+		"clienticon"		"feb2663a2a7dee850c48c5635284ab4b8cf0c6db"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1678324130"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Clock Wizard Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Clock Wizard Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1675684500"
+		"gameid"		"2302560"
+	}
+	"extended"
+	{
+		"demoofappid"		"1929610"
+		"developer"		"Clock Wizard Games"
+		"publisher"		"Clock Wizard Games"
+		"homepage"		"http://www.clockwizardgames.com/"
+	}
+	"config"
+	{
+		"installdir"		"Demonologist"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Demonologist.exe"
+				"description_loc"
+				{
+					"english"		"DirectX12 (Recommended)"
+				}
+				"description"		"DirectX12 (Recommended)"
+			}
+			"1"
+			{
+				"executable"		"Demonologist.exe"
+				"arguments"		"-dx11"
+				"description_loc"
+				{
+					"english"		"DirectX 11"
+				}
+				"description"		"DirectX 11"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2302561"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"702979945818321965"
+					"size"		"10316706817"
+					"download"		"9186866976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"1D136F0383599299E05B82D051886279"
+					"size"		"695DD62963AED9175FB1E55DF9372F39"
+					"download"		"D685E981BB2C45453F3CAC6E79E53CF2"
+				}
+			}
+		}
+		"2302562"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10859433"
+				"timeupdated"		"1679902741"
+			}
+			"debug"
+			{
+				"buildid"		"10859433"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679855144"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Shivers/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
