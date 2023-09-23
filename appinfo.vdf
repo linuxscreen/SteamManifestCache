@@ -1,0 +1,143 @@
+"appinfo"
+{
+	"appid"		"1739250"
+	"common"
+	{
+		"name"		"Hourglass Demo"
+		"type"		"Demo"
+		"parent"		"1212410"
+		"releasestate"		"released"
+		"clienttga"		"1f64d98d79c408f4d0c4eea274f4851d7da1ba1f"
+		"clienticon"		"5e8c220d4737ca3d626015e2f08e48943051d836"
+		"icon"		"1274547cbcb22488832bf11d6e5f0245df1d2c58"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1634227948"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cyberwave"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cyberwave"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630336321"
+		"gameid"		"1739250"
+	}
+	"extended"
+	{
+		"demoofappid"		"1212410"
+		"developer"		"Cyberwave"
+		"publisher"		"Cyberwave"
+	}
+	"config"
+	{
+		"installdir"		"Hourglass Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hourglass.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1739251"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"722106276621199752"
+					"size"		"982766558"
+					"download"		"381119280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demotest"
+				{
+					"gid"		"49EEB2207E18B993E363903875FF19ED"
+					"size"		"8CB120185ED839DEB50DBFE02835F140"
+					"download"		"42CA68C2115B321409F8667FA992F90B"
+				}
+				"testtesttest"
+				{
+					"gid"		"AC1ACE7A8487ACC4EB9AAF8D01BFE548"
+					"size"		"615BA806C0F250D83ABC322045548B24"
+					"download"		"16DEA5244D1A38FBCA73DB5751394068"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7623083"
+				"timeupdated"		"1635604312"
+			}
+			"demotest"
+			{
+				"buildid"		"7623083"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635492689"
+			}
+			"testtesttest"
+			{
+				"buildid"		"7623083"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635492346"
+			}
+		}
+	}
+}
