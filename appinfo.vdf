@@ -1,0 +1,293 @@
+"appinfo"
+{
+	"appid"		"2050330"
+	"common"
+	{
+		"name"		"OutWave Demo"
+		"type"		"Demo"
+		"parent"		"2050310"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"clienttga"		"18dddd1e4137283669f8677250659dcd2c5e74b9"
+		"clienticon"		"63fedd6c330e99c8efd0f4ae3646efca20b91198"
+		"icon"		"0821d54f98f36792f7a950635d70eaef35c02bb7"
+		"clienticns"		"7fbebcff51f9d800e77c3f014ede47bd6e5bb5b2"
+		"linuxclienticon"		"ed61f991c45835b7bb7ec248e36739d8e1f6057d"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1656001334"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RetroAirem, Airem"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Airem"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1676647307"
+		"gameid"		"2050330"
+	}
+	"extended"
+	{
+		"demoofappid"		"2050310"
+		"developer"		"RetroAirem, Airem"
+		"publisher"		"Airem"
+	}
+	"config"
+	{
+		"installdir"		"OutWave Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OutWave.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"OutWave Demo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"OutWave"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2050331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4384024254173917355"
+					"size"		"450391878"
+					"download"		"347651424"
+				}
+			}
+		}
+		"2050332"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8938846058423349692"
+					"size"		"442789438"
+					"download"		"345236128"
+				}
+			}
+		}
+		"2050333"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"567302004914195631"
+					"size"		"497282221"
+					"download"		"351171648"
+				}
+			}
+		}
+		"2050334"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6394730462131424760"
+					"size"		"474350848"
+					"download"		"355387152"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10486874"
+				"timeupdated"		"1675678696"
+			}
+		}
+	}
+}
