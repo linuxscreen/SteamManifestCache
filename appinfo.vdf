@@ -1,0 +1,386 @@
+"appinfo"
+{
+	"appid"		"1978800"
+	"common"
+	{
+		"name"		"AQtion"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"0c83f0b9ea9aa0496acaf201ab8317ea75ca429a"
+		"clienttga"		"d8a05ad7ca60e8ebf152a77cafcf3eefa99d5b8b"
+		"clienticns"		"fd3aac749f323e7e27dbdf19e21ffc319c697eb0"
+		"clienticon"		"c61123d9e4c1361ebdd99b6c2bc3501d2f96d101"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.80584404154193"
+				"height_pct"		"68.37577068237019"
+			}
+		}
+		"store_asset_mtime"		"1692303727"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AQ2World Team"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"TNG Team"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"A-Team (Akimbo)"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"AQ2World Team"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1654099258"
+		"steam_deck_blog_url"		"https://steamcommunity.com/app/1978800/discussions/0/3424437779937051853/"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1978800"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1663"
+			"2"		"4191"
+			"3"		"3916"
+			"4"		"3859"
+			"5"		"3839"
+			"6"		"1774"
+			"7"		"4004"
+			"8"		"6691"
+			"9"		"1773"
+			"10"		"4195"
+			"11"		"1708"
+			"12"		"4036"
+			"13"		"7423"
+			"14"		"3993"
+			"15"		"1775"
+			"16"		"113"
+			"17"		"7368"
+			"18"		"4182"
+			"19"		"4345"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"AQ2World Team"
+		"publisher"		"AQ2World Team"
+		"homepage"		"https://www.aqtiongame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"AQtion"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"aqtion.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"AQtion"
+				}
+				"description"		"AQtion"
+			}
+			"4"
+			{
+				"executable"		"launch.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"AQtion"
+				}
+				"description"		"AQtion"
+			}
+			"7"
+			{
+				"executable"		"launch.sh"
+				"arguments"		"q2pro"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"AQtion using x11"
+				}
+				"description"		"AQtion using x11"
+			}
+			"8"
+			{
+				"executable"		"launch.sh"
+				"arguments"		"q2pro-wayland"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"AQtion using Wayland"
+				}
+				"description"		"AQtion using Wayland"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1978801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8514455416065957993"
+					"size"		"396802557"
+					"download"		"373594848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"9E8D311BAE25124950BDED0778BF7265"
+					"size"		"F171DDC4E157DCCF3E0D3C606EC551EE"
+					"download"		"FFE3460DFD7F1E96FEDE007BD695AD44"
+				}
+				"playtest"
+				{
+					"gid"		"326C37FB15A82D23A04FDC531DDC4AB9"
+					"size"		"6AA41014C2834696405BB73DB87F9A13"
+					"download"		"7295B2775AAF7C41475F9160D1B0E631"
+				}
+			}
+		}
+		"1978802"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1658894113026582783"
+					"size"		"295902783"
+					"download"		"289863504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"378AFAD735862581BC9956269C31B0A7"
+					"size"		"DE20A2FACC48C917AB53B840ABF4FB94"
+					"download"		"19CF69D845010CBF7A12D2410E1CF86B"
+				}
+				"playtest"
+				{
+					"gid"		"DA98AC08BB9307D4883931CDFE934B40"
+					"size"		"9D4ECCC326D2E4174ED66304A1507ABC"
+					"download"		"D057F637C372ACCD26ED6D75DC949BF5"
+				}
+			}
+		}
+		"1978803"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3516704564926490926"
+					"size"		"410966569"
+					"download"		"377019328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"3DFD1DF1F180643DE2FB5EFEA98F7DBD"
+					"size"		"48600B13F3AB5B56AADC6DAEECCFBEB4"
+					"download"		"E6B56E8127E06D7A56BB1BB38DD44EB2"
+				}
+				"playtest"
+				{
+					"gid"		"50AC41AC93F9338996299502C08DF9CC"
+					"size"		"EF55620C5D286C81815765CBD87F8A9D"
+					"download"		"87B815D63F504F9B9508026F631495DF"
+				}
+			}
+		}
+		"1978804"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2220208276726677177"
+					"size"		"400787649"
+					"download"		"374006160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"CD1C992E2EC9D817CE2689C84AE91FA6"
+					"size"		"0D084A7EC3FB464CF3B1BAC0C32AAE20"
+					"download"		"E8899D18E8DC70A54D14F706353EE80B"
+				}
+				"playtest"
+				{
+					"gid"		"68C821D790356592CFD3842AE621501F"
+					"size"		"A1488910EEE05C8B16BAADDFD2A2B572"
+					"download"		"B899750E036BF2FB84DD82CC725609E8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11088004"
+				"timeupdated"		"1682446719"
+			}
+			"alpha"
+			{
+				"buildid"		"12025712"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692905988"
+			}
+			"playtest"
+			{
+				"buildid"		"11210389"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684267282"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1073741824"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SteamCloud/{64BitSteamID}/action"
+				"pattern"		"*.cfg"
+				"recursive"		"1"
+			}
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"SteamCloud/{64BitSteamID}/action"
+				"pattern"		"*.pkz"
+			}
+			"4"
+			{
+				"root"		"gameinstall"
+				"path"		"SteamCloud/{64BitSteamID}/action"
+				"pattern"		"*.pak"
+			}
+			"6"
+			{
+				"root"		"gameinstall"
+				"path"		"SteamCloud/{64BitSteamID}/action"
+				"pattern"		"*.menu"
+			}
+		}
+	}
+}
