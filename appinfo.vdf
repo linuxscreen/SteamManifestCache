@@ -1,0 +1,296 @@
+"appinfo"
+{
+	"appid"		"1593750"
+	"common"
+	{
+		"name"		"Creatures of Aether"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"e5cfbc4cb45c003074c74a96770aa727549fff02"
+		"logo_small"		"e5cfbc4cb45c003074c74a96770aa727549fff02_thumb"
+		"icon"		"428b52866078a1dd49ade019aba9a4cd669f9342"
+		"clienttga"		"267ab8ae37881cd2a8158b341dd97608a5ba28f1"
+		"clienticon"		"5fbb0e80d765d76bcee9bb849724080c418cd934"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646697600"
+			"tested_build_id"		"7898793"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"56.82238677530191"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1624987032"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tako Boy Studios"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Aether Studios"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Aether Studios"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Rivals of Aether"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1627916458"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1593750"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"791774"
+			"2"		"3964"
+			"3"		"1775"
+			"4"		"6730"
+			"5"		"113"
+			"6"		"1666"
+			"7"		"32322"
+			"8"		"9271"
+			"9"		"492"
+			"10"		"14139"
+			"11"		"3859"
+			"12"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"Tako Boy Studios"
+		"publisher"		"Aether Studios"
+		"homepage"		"http://creaturesofaether.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Creatures of Aether"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CreaturesOfAether.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"CreaturesOfAether.app\\Contents\\MacOS\\CreaturesOfAether"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"CreaturesOfAether.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1593753"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6709340392738846712"
+					"size"		"122905624"
+					"download"		"61797328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"8B9C70BB482E11F3CD5D9F7574608232"
+					"size"		"0F3570C08F57A79975A55295CF80DE1B"
+					"download"		"18608A3281F78ABB873A2F594A59CFC7"
+				}
+			}
+		}
+		"1593754"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1777896268833884081"
+					"size"		"158402958"
+					"download"		"70599904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"9C2464A86B99F9707AC53E93968E13C6"
+					"size"		"65202254B22C438709B9D3E898BA986A"
+					"download"		"6604D2758E47309B2DB9963C1592BAF8"
+				}
+			}
+		}
+		"1593751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5104139758991088175"
+					"size"		"102103906"
+					"download"		"54656000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"6A02AC48611EC9A9284CF645037B0A3F"
+					"size"		"6A4715804D7935C457E54FC4C34163E5"
+					"download"		"C4826E7277A841CC8E7FCE1F7A4BBA99"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7898793"
+				"timeupdated"		"1640023112"
+			}
+			"developer"
+			{
+				"buildid"		"7898793"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639702710"
+			}
+		}
+	}
+}
