@@ -1,0 +1,125 @@
+"appinfo"
+{
+	"appid"		"1350420"
+	"common"
+	{
+		"name"		"lost cube Demo"
+		"type"		"Demo"
+		"parent"		"1311730"
+		"clienttga"		"d5b04b3abc4573e6767b13c486b6da6cbc5d5ba6"
+		"clienticon"		"83d1f7a76cdaef8ce3131be495e3e0da369f566d"
+		"icon"		"e9750c5d4023a8169d82aa92d08a95ab0f0b62dd"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"24.39209200447513"
+			}
+		}
+		"store_asset_mtime"		"1592979577"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"lost cube"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"lost cube"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1593145949"
+		"community_hub_visible"		"1"
+		"gameid"		"1350420"
+	}
+	"extended"
+	{
+		"demoofappid"		"1311730"
+		"developer"		"lost cube"
+		"publisher"		"lost cube"
+	}
+	"config"
+	{
+		"installdir"		"lost cube Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"lost cube english.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1350421"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5843051106285490524"
+					"size"		"111654206"
+					"download"		"24993840"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5968343"
+				"timeupdated"		"1608007967"
+			}
+		}
+	}
+}
