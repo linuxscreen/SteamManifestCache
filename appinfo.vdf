@@ -1,0 +1,241 @@
+"appinfo"
+{
+	"appid"		"2066550"
+	"common"
+	{
+		"name"		"Error143"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"icon"		"73a8b1ac05ea5ce204fefd5913448e6c59e04702"
+		"clienttga"		"cf801037fe2dd097da4d87e8f6e1fcae265a66ea"
+		"linuxclienticon"		"cdea53052b91591ce715411bae0f371c409bf5ce"
+		"clienticns"		"6e185ac764be8a6676554c33e9f023f1f617950b"
+		"clienticon"		"be941257bf3608b2566ef1998afaccd318369e43"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1671605226"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jenny Vi Pham"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jenny Vi Pham"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1658852342"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2066550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"9551"
+			"2"		"44868"
+			"3"		"4947"
+			"4"		"4486"
+			"5"		"6426"
+			"6"		"3871"
+			"7"		"9204"
+			"8"		"4726"
+			"9"		"31579"
+			"10"		"3839"
+			"11"		"5094"
+			"12"		"6971"
+			"13"		"4085"
+			"14"		"4252"
+			"15"		"599"
+			"16"		"5502"
+			"17"		"10397"
+			"18"		"5608"
+			"19"		"1719"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Jenny Vi Pham"
+		"publisher"		"Jenny Vi Pham"
+		"homepage"		"https://www.micahyujin.org/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2230570"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Error143"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Error143.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"Error143.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"Error143.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english"
+		"2066551"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1617549907535091644"
+					"size"		"713839998"
+					"download"		"551909424"
+				}
+			}
+		}
+		"2230570"
+		{
+			"dlcappid"		"2230570"
+			"config"
+			{
+				"language"		"english"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11886253"
+				"timeupdated"		"1691432997"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
