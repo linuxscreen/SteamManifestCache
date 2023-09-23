@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1710770"
+	"common"
+	{
+		"name"		"The Orphan: A Pop-Up Book Adventure Demo"
+		"type"		"Demo"
+		"parent"		"1710760"
+		"clienticon"		"811d7e5581981d98765d85084fe8e2fd652fe42f"
+		"clienttga"		"85260034b2ae59909b4085d8d14da48dcc0c36a7"
+		"icon"		"a55dbbc21cfc4f2c16892769f5213a32293d9798"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"logo"		"4db2deff53cdf027db1d2f852a631ebf4d7c473f"
+		"logo_small"		"4db2deff53cdf027db1d2f852a631ebf4d7c473f_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1627893563"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Besworn Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Besworn Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629700832"
+		"gameid"		"1710770"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1710760"
+		"developer"		"Besworn Games"
+		"publisher"		"Besworn Games"
+	}
+	"config"
+	{
+		"installdir"		"The Orphan A Pop-Up Book Adventure Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Orphan.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1710771"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5813593041478161964"
+					"size"		"3598443239"
+					"download"		"1453377376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"conventiondemo"
+				{
+					"gid"		"1620FF6858E235C8AF1C5643C6D321EB"
+					"size"		"E8CAA44937B113F8B974AC81328FD36F"
+					"download"		"B2C36AF4987D7D6F8D4502CCC57487B0"
+				}
+				"dev-alpha"
+				{
+					"gid"		"8A1D7967C7667693E1B37BD19248D8AE"
+					"size"		"A3582AD74D3B30E09E6098A24D88DD08"
+					"download"		"229AB06BEE49D64714748F39A8FAF825"
+				}
+				"dev-beta"
+				{
+					"gid"		"D034ED0128E54949FC9C0F43DC3BC502"
+					"size"		"AC83ED8196B7E0BC5F0D3DF3B1C8C3DC"
+					"download"		"30B79A50BCCE0268E01336F48CF76628"
+				}
+				"dev-hardening"
+				{
+					"gid"		"DFD8466A1E36FCFEE9EB00DCDF793F82"
+					"size"		"D0694423EA89E0239FC33EEC53592D20"
+					"download"		"47F1E09CE1889E95E57DAE33B4F6E6B0"
+				}
+				"featuretesting1"
+				{
+					"gid"		"2E97A9AADE2BDE8FD7EF0F22DC2A9706"
+					"size"		"9088880CBD96DD71E5E72F5D8781DDD4"
+					"download"		"607773108F85E7965D09AFA13884FB23"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9572275"
+				"timeupdated"		"1663871706"
+			}
+			"conventiondemo"
+			{
+				"buildid"		"9317542"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660669319"
+			}
+			"dev-alpha"
+			{
+				"buildid"		"9001478"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656077955"
+			}
+			"dev-beta"
+			{
+				"buildid"		"9001448"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656077937"
+			}
+			"dev-hardening"
+			{
+				"buildid"		"9001406"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656077975"
+			}
+			"featuretesting1"
+			{
+				"buildid"		"9531007"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663332294"
+			}
+		}
+	}
+}
