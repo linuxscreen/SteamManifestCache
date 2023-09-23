@@ -1,0 +1,514 @@
+"appinfo"
+{
+	"appid"		"850170"
+	"common"
+	{
+		"name"		"EMERGENCY"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"0162ff3e00f0fc077fcba5ba85a71bbbdcf7f44f"
+		"clienttga"		"c27139c4c2ce6deb542f16135bc4a26e56f01d26"
+		"icon"		"5b515288cfb55e20b4e86b346a37136c72f5b99a"
+		"osextended"		""
+		"linuxclienticon"		"20213b4b34988c4e9997d52abecef062e433197d"
+		"clienticns"		"3baa0435a316f87f70d0d1831e7d33c50a095665"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"850170_eula_0"
+				"name"		"EMERGENCY EULA"
+				"url"		"https://store.steampowered.com//eula/850170_eula_0"
+				"version"		"2"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1692921600"
+			"tested_build_id"		"12005579"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.05573609847181"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693984720"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sixteen Tons Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sixteen Tons Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"EMERGENCY"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1692089991"
+		"community_hub_visible"		"1"
+		"gameid"		"850170"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"1676"
+			"3"		"3859"
+			"4"		"19"
+			"5"		"3813"
+			"6"		"3843"
+			"7"		"4175"
+			"8"		"4182"
+			"9"		"5350"
+			"10"		"1685"
+			"11"		"599"
+			"12"		"12472"
+			"13"		"4161"
+			"14"		"3878"
+			"15"		"4191"
+			"16"		"3968"
+			"17"		"1654"
+			"18"		"1708"
+			"19"		"4791"
+		}
+		"review_score"		"5"
+		"review_percentage"		"48"
+	}
+	"extended"
+	{
+		"developer"		"Sixteen Tons Entertainment"
+		"publisher"		"Sixteen Tons Entertainment"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"EMERGENCY"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EMERGENCY.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"EMERGENCY"
+				}
+				"description"		"EMERGENCY"
+			}
+			"1"
+			{
+				"executable"		"EMERGENCY.exe"
+				"arguments"		"-d3d11"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"EMERGENCY DirectX 11"
+				}
+				"description"		"EMERGENCY DirectX 11"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,spanish"
+		"850171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6347491668197158713"
+					"size"		"8368700740"
+					"download"		"8280370688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external_live"
+				{
+					"gid"		"9897B27952F8CD5BD182128E959235F0"
+					"size"		"2F6FA0367E764F115AA9CF7552D14EED"
+					"download"		"E1F9EC54552A6A911658515A740EAAE3"
+				}
+				"external_live_backup"
+				{
+					"gid"		"EFBA5CB8990F5D60FA909EDE226784C9"
+					"size"		"02D3818D517C8BD97D7A3A47B8BAD5A1"
+					"download"		"8BC15E260F7FDB6D89C64BA2D992B45C"
+				}
+				"external_test"
+				{
+					"gid"		"14774B51E2D2B2E29C8293624DA51284"
+					"size"		"AB420D5EF70EB74B0E89730B2082D7F8"
+					"download"		"71566B35523E87AA7A680752E1C4FF5F"
+				}
+				"external_test_backup"
+				{
+					"gid"		"6F0382F64BFCA6E725DD1A51CEEFAD77"
+					"size"		"172333A9B5CFE9A3B8656C4F8CD26166"
+					"download"		"36106C05552625A56D0B42A4229DD392"
+				}
+				"internal_dev"
+				{
+					"gid"		"EA5EF988F172ABFC76361FDFE1F10CAB"
+					"size"		"43E8C16845D53AF192156B9FB2D5E825"
+					"download"		"8B9A93876EB068CBE87A832196A180EF"
+				}
+				"internal_dev_ship"
+				{
+					"gid"		"95E4FD92F934FF81E079D05F761CDF0C"
+					"size"		"4279F3503BCF1F62147B65B3FC344B13"
+					"download"		"AD58220FBFA7DF0C8C8B3C98BB821DB5"
+				}
+				"internal_stage1"
+				{
+					"gid"		"349F30E573DDADD5F1F2D76343DDD53D"
+					"size"		"43831D3B049FA307FEBD66A9EA8DA747"
+					"download"		"95F35C8BFF9C7ACE4C90DE40F09CB81D"
+				}
+				"internal_stage1_dev"
+				{
+					"gid"		"B6418BFA0B1CC3A10EA149EB741C8504"
+					"size"		"7A3B999A47419DB2EF4809E6BCCB2DE5"
+					"download"		"3D8A9BC05C9FDDAFF87A601379033B6A"
+				}
+			}
+		}
+		"850172"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5458228405001267286"
+					"size"		"133559530"
+					"download"		"35340032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external_live"
+				{
+					"gid"		"67C5AA50E89469E2731CA8AA02841CC6"
+					"size"		"FCEDC45013525A6F582280B0621A2D95"
+					"download"		"8CD14463FC1899482278C14DB01A5DF3"
+				}
+				"external_live_backup"
+				{
+					"gid"		"C0BE2CF764D10A50EA92BEA5E5C2B8B0"
+					"size"		"82A9148A23AC657D7BCBD74D25A33F1E"
+					"download"		"86C6763081DE49B6F45C798B86ED3A70"
+				}
+				"external_test"
+				{
+					"gid"		"A353FFA98FAE61D1C111B0178CCF4092"
+					"size"		"FAF1870C5C1F80901569D8AE517F6CF3"
+					"download"		"31B87E8FA40E35D14FF82B3CA75D97B4"
+				}
+				"external_test_backup"
+				{
+					"gid"		"974A94723C413642F2225E6C57C886A7"
+					"size"		"F4DE00E84C194FBB1BEA78F8F834D062"
+					"download"		"768B006CF84296AA2D9D2D4BDEB3198B"
+				}
+				"internal_dev"
+				{
+					"gid"		"F155053EFABDFE4D3B993ECB7AE59F06"
+					"size"		"A139A2451FA3B68CE9D089592DF9AA36"
+					"download"		"0CB8F6211D3F6642EEF535B5E25ED7C2"
+				}
+				"internal_dev_ship"
+				{
+					"gid"		"DAA525ABA44ED8267341220CB33653D1"
+					"size"		"A9F1B1BC8499F87396CB8984CA6AC0DF"
+					"download"		"79F67A4AFC3E0E7D035606F84B343F25"
+				}
+				"internal_stage1"
+				{
+					"gid"		"55E21F428ACE29534D9D2B0E72F38E8A"
+					"size"		"42A18FFF9073DA030738039D36DF38AD"
+					"download"		"F9692565BF14ED7D2347157DDCD6350E"
+				}
+				"internal_stage1_dev"
+				{
+					"gid"		"972A0C204FEF34630566193F6E084068"
+					"size"		"BFE92E12813FFD32CD4D2DBD040B1DB8"
+					"download"		"047AD01853BF20E53A2A9534F319E120"
+				}
+			}
+		}
+		"850173"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"internal_dev"
+				{
+					"gid"		"27711B9B026943C501F445F58315C116"
+					"size"		"B163A3BE8BBB3200D72DA97AE4640A86"
+					"download"		"657AE1B07EEB744CAD08A18FB050DA84"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12247663"
+				"timeupdated"		"1695311494"
+			}
+			"external_live"
+			{
+				"buildid"		"12247663"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695307937"
+			}
+			"external_live_backup"
+			{
+				"buildid"		"12177366"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695297837"
+			}
+			"external_test"
+			{
+				"buildid"		"11891020"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691494396"
+			}
+			"external_test_backup"
+			{
+				"buildid"		"10918723"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684330490"
+			}
+			"internal_dev"
+			{
+				"buildid"		"12260635"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695416365"
+			}
+			"internal_dev_ship"
+			{
+				"buildid"		"12262667"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695444144"
+			}
+			"internal_stage1"
+			{
+				"buildid"		"12238390"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695234426"
+			}
+			"internal_stage1_dev"
+			{
+				"buildid"		"12238690"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695231842"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_idle"		"Observing the operation map"
+					"#status_lobby"		"In lobby: {#%map%} - {#Difficulty_%difficulty%}"
+					"#status_ingame"		"Saving lives in: {#%map%} - {#Difficulty_%difficulty%}"
+					"#status_ingamespectator"		"Spectator in: {#%map%} - {#Difficulty_%difficulty%}"
+					"#map01"		"Downtown"
+					"#map02"		"Countryside"
+					"#map03"		"Laborton"
+					"#mapdev"		"Dev"
+					"#difficulty_trainee"		"Trainee"
+					"#difficulty_easy"		"Easy"
+					"#difficulty_medium"		"Medium"
+					"#difficulty_hard"		"Hard"
+					"#difficulty_extreme"		"Extreme"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#status_idle"		"Überwacht die Einsatzkarte"
+					"#status_lobby"		"In Lobby: {#%map%} - {#Difficulty_%difficulty%}"
+					"#status_ingame"		"Rettet Leben in: {#%map%} - {#Difficulty_%difficulty%}"
+					"#status_ingamespectator"		"Zuschauer in: {#%map%} - {#Difficulty_%difficulty%}"
+					"#map01"		"Downtown"
+					"#map02"		"Countryside"
+					"#map03"		"Laborton"
+					"#mapdev"		"Dev"
+					"#difficulty_trainee"		"Anfänger"
+					"#difficulty_easy"		"Leicht"
+					"#difficulty_medium"		"Mittel"
+					"#difficulty_hard"		"Schwer"
+					"#difficulty_extreme"		"Extrem"
+				}
+			}
+		}
+	}
+}
