@@ -1,0 +1,160 @@
+"appinfo"
+{
+	"appid"		"1709120"
+	"common"
+	{
+		"name"		"Raptor Boyfriend Demo"
+		"type"		"Demo"
+		"parent"		"1273080"
+		"releasestate"		"released"
+		"clienttga"		"90bf7f9ccc45d0bb1399282fbf65ef26e12d8821"
+		"clienticns"		"45a0fa2f2f559bbe53fb075a5d3b403afcb1ee7e"
+		"clienticon"		"7c98fc24942e431cb1624858b61a601abe55b04b"
+		"icon"		"8cad42f215fea520d92034cd1f3b73288de677ff"
+		"linuxclienticon"		"de041bc0cba21bd9ab78dfd3b920e6805a3bcc27"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"54.651162790697676"
+				"height_pct"		"94.83495606744242"
+			}
+		}
+		"store_asset_mtime"		"1627828659"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rocket Adrift Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rocket Adrift Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1628714066"
+		"gameid"		"1709120"
+	}
+	"extended"
+	{
+		"demoofappid"		"1273080"
+		"developer"		"Rocket Adrift Games"
+		"publisher"		"Rocket Adrift Games"
+	}
+	"config"
+	{
+		"installdir"		"Raptor Boyfriend Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"rb_demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents\\MacOS\\rb_demo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1709121"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5040409976010829600"
+					"size"		"689885217"
+					"download"		"494268736"
+				}
+			}
+		}
+		"1709122"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3657747841548830909"
+					"size"		"590662985"
+					"download"		"466055088"
+				}
+			}
+		}
+		"1709123"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3915810048164797675"
+					"size"		"619994114"
+					"download"		"473468512"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7163069"
+				"timeupdated"		"1628547458"
+			}
+		}
+	}
+}
