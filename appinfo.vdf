@@ -1,0 +1,225 @@
+"appinfo"
+{
+	"appid"		"1709410"
+	"common"
+	{
+		"name"		"V.R.G. Demo"
+		"type"		"Demo"
+		"parent"		"1693090"
+		"clienticon"		"f9aa04ab8431f8f644395f9239a46ec7ac68ab6b"
+		"clienttga"		"3c15af3cd5917fc1a6e79f293e808a3f58542903"
+		"icon"		"fa51169b3d1eeb506f19ef134370a8fde41ee48d"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticns"		"a5cca97a1e10a7cac361c6e1e61a170bedf074d9"
+		"linuxclienticon"		"f62560f7edddb70adc453c172ccb9c9e19cfed81"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.44642549385161"
+				"height_pct"		"81.1141408455776"
+			}
+		}
+		"store_asset_mtime"		"1668324262"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"latel88"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"latel88"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"V.R.G."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628607600"
+		"gameid"		"1709410"
+	}
+	"extended"
+	{
+		"demoofappid"		"1693090"
+		"developer"		"latel88"
+		"publisher"		"latel88"
+	}
+	"config"
+	{
+		"installdir"		"VRG Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VRG.exe"
+				"arguments"		"-in-process-gpu --disable-direct-composition"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"VRG.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"No-SteamOverlay"
+					"japanese"		"Steamオーバーレイをオフ"
+				}
+				"description"		"No-SteamOverlay"
+			}
+			"2"
+			{
+				"executable"		"VRG"
+				"arguments"		"--in-process-gpu --disable-direct-composition --no-sandbox"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"VRG"
+				"arguments"		"--no-sandbox"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		" No-SteamOverlay"
+				}
+				"description"		" No-SteamOverlay"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1709411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1009541281346336906"
+					"size"		"226418019"
+					"download"		"83031344"
+				}
+			}
+		}
+		"1709412"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7180489654012083345"
+					"size"		"204991979"
+					"download"		"79611952"
+				}
+			}
+		}
+		"1709413"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"463920201772150405"
+					"size"		"228215621"
+					"download"		"77543728"
+				}
+			}
+		}
+		"1709414"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8946399285510065779"
+					"size"		"215538361"
+					"download"		"77183456"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12245490"
+				"timeupdated"		"1695292561"
+			}
+		}
+	}
+}
