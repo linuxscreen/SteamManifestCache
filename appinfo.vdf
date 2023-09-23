@@ -1,0 +1,244 @@
+"appinfo"
+{
+	"appid"		"1291500"
+	"common"
+	{
+		"name"		"Kill It With Fire: IGNITION"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"327eea95e1a94c9c4ec63fcc52cb42d5b85ca4ce"
+		"logo_small"		"327eea95e1a94c9c4ec63fcc52cb42d5b85ca4ce_thumb"
+		"icon"		"6fd4268c9e467fbe5f28a307240c40622e532eed"
+		"clienticon"		"b49537a7ee7bba4d5748ae52c25673b696970109"
+		"clienttga"		"21a1c9753bfae4cd5bcfb36dd6ee84999c7096e7"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1652227200"
+			"tested_build_id"		"5011263"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.37412125324108"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1594580028"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Casey Donnellan Games LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"tinyBuild"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1588083156"
+		"community_hub_visible"		"1"
+		"gameid"		"1291500"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3810"
+			"1"		"4136"
+			"2"		"1719"
+			"3"		"3839"
+			"4"		"4726"
+			"5"		"3968"
+			"6"		"599"
+			"7"		"5363"
+			"8"		"3834"
+			"9"		"1687"
+			"10"		"1662"
+			"11"		"4191"
+			"12"		"597"
+			"13"		"19"
+			"14"		"4878"
+			"15"		"5923"
+			"16"		"7926"
+			"17"		"1663"
+			"18"		"3978"
+			"19"		"4747"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Casey Donnellan Games LLC"
+		"publisher"		"tinyBuild"
+		"homepage"		"http://www.killitwithfiregame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Kill It With Fire Rise of the Phoenix"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Kani.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1291501"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4737267993780499547"
+					"size"		"1010190208"
+					"download"		"193881024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"9B1271DEF455FB99ABF507DE7BA202A6"
+					"size"		"8E3255A0AF1309D9CD0C6EFF71EA59EC"
+					"download"		"6DE2A589CC21D92106AC3ADFD08C9B36"
+				}
+				"patch"
+				{
+					"gid"		"2BE86F29888305942AC8AE43F682BC8D"
+					"size"		"29BE204A40E5840CF7510800ED2B23B3"
+					"download"		"214831C56FE4315588C298B9C812410A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5011263"
+				"timeupdated"		"1589227641"
+			}
+			"development"
+			{
+				"buildid"		"5011263"
+				"pwdrequired"		"1"
+				"timeupdated"		"1589215642"
+			}
+			"patch"
+			{
+				"buildid"		"5011263"
+				"pwdrequired"		"1"
+				"timeupdated"		"1589217929"
+			}
+		}
+	}
+}
