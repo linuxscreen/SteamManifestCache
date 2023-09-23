@@ -1,0 +1,327 @@
+"appinfo"
+{
+	"appid"		"1223730"
+	"common"
+	{
+		"name"		"Trials of Mana Demo"
+		"type"		"Demo"
+		"parent"		"924980"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"101c72ed2721bdfde24adf768e883cc957b9bfe0"
+		"clienttga"		"bbba19a1e51686320b0c145d3de201181d79887d"
+		"icon"		"92664cee13686720bea4bf88b62c2a4478cd735f"
+		"logo"		"74cdae4a0dcafd204b633a5e403f069db9e98739"
+		"logo_small"		"74cdae4a0dcafd204b633a5e403f069db9e98739_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"56.91661279896574"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1584552450"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Square Enix"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Square Enix"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1584546799"
+		"gameid"		"1223730"
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"demoofappid"		"924980"
+		"developer"		"Square Enix"
+		"publisher"		"Square Enix"
+		"homepage"		"https://www.trialsofmana.com"
+	}
+	"config"
+	{
+		"installdir"		"Trials of Mana Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"\\Trials of Mana\\Binaries\\Win64\\Trials of Mana-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1223731"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6247932179904006274"
+					"size"		"5"
+					"download"		"48"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev1"
+				{
+					"gid"		"D9C5A6C80EF893F3290444A597F7DC7A"
+					"size"		"982D7568BDE2710BF1459976511BD0A8"
+					"download"		"7233FFCF6CA50E18DEBBAA8372C7ED32"
+				}
+				"dev3"
+				{
+					"gid"		"4031E9B111674BC55D9E13B90A6921B4"
+					"size"		"807DD10C3F1FAC8C90DD50B96FEB2AD2"
+					"download"		"EDC86E81BC9DF8D0B9DB51D97024C55E"
+				}
+				"product"
+				{
+					"gid"		"DFB04904003D277AED7317B5C868DACF"
+					"size"		"6898FDF86AE9EC4B43414201655691C6"
+					"download"		"0059B1C49E411724CB437E645FDE84E9"
+				}
+				"product2"
+				{
+					"gid"		"E6754E838B16D261EC7ED1636B26C14E"
+					"size"		"D5C22DFCDDDDB25927D6760E17E12DD8"
+					"download"		"3CE6EE8B43F374E6E802814A473E0376"
+				}
+				"product3"
+				{
+					"gid"		"1C07A7043D285BAC7F18CFB6DC8A1457"
+					"size"		"855347C1A9B625973D0838806B3C5B5E"
+					"download"		"DE7547ACB61CE134574E8CB20A4F2130"
+				}
+			}
+		}
+		"1223732"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"952337206981547235"
+					"size"		"7237391616"
+					"download"		"7075466320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev1"
+				{
+					"gid"		"72E5F602027C4DAA6D6039CD98E230B7"
+					"size"		"28EF9EDE990089CB45AF4413CDC88D9B"
+					"download"		"E4A852AD097E7317C777675F7373DB72"
+				}
+				"product2"
+				{
+					"gid"		"72EE1B9F728DD65E68D9FC64771D615E"
+					"size"		"FBF1BA308E53632B151A602D7BB5EAB3"
+					"download"		"5ADE934B9C5A7C7EC81F80B737765B6E"
+				}
+				"product3"
+				{
+					"gid"		"D759F61A197631757FDDB180C61B304E"
+					"size"		"B23ADE2DE005CB4C95B17A44883D16C7"
+					"download"		"A405AF3BBD2756BF262EB531CF5112ED"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5231222"
+				"timeupdated"		"1598432008"
+			}
+			"dev1"
+			{
+				"buildid"		"4960500"
+				"pwdrequired"		"1"
+				"timeupdated"		"1588172080"
+			}
+			"dev3"
+			{
+				"buildid"		"4580434"
+				"pwdrequired"		"1"
+				"timeupdated"		"1579261497"
+			}
+			"product"
+			{
+				"buildid"		"4676256"
+				"pwdrequired"		"1"
+				"timeupdated"		"1581671105"
+			}
+			"product2"
+			{
+				"buildid"		"4960512"
+				"pwdrequired"		"1"
+				"timeupdated"		"1588172264"
+			}
+			"product3"
+			{
+				"buildid"		"5231222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593487856"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"33554432"
+		"maxnumfiles"		"14"
+		"appidredirect"		"924980"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/Trials of Mana/Steam/{Steam3AccountID}"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
