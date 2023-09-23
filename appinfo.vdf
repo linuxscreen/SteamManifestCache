@@ -1,0 +1,111 @@
+"appinfo"
+{
+	"appid"		"2356130"
+	"common"
+	{
+		"name"		"Magic and Machines Demo"
+		"type"		"Demo"
+		"parent"		"2341800"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"a089b595043596ef31a047d87af86d4eec554e80"
+		"clienticon"		"c2f936c56ef1049c6f2a57ddf8805eab15b21a3f"
+		"clienttga"		"0107bc126558afde393f1d33e8c2b50816a136ea"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1679094414"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Little Bear Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Little Bear Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1679146163"
+		"gameid"		"2356130"
+	}
+	"extended"
+	{
+		"demoofappid"		"2341800"
+		"developer"		"Little Bear Studios"
+		"publisher"		"Little Bear Studios"
+	}
+	"config"
+	{
+		"installdir"		"Magic and Machines Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Magic and Machines.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2356131"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8806281924753147980"
+					"size"		"290226024"
+					"download"		"85423024"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10970705"
+				"timeupdated"		"1681151721"
+			}
+		}
+	}
+}
