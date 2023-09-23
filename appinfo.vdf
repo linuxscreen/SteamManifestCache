@@ -1,0 +1,158 @@
+"appinfo"
+{
+	"appid"		"2342670"
+	"common"
+	{
+		"name"		"ATCo2 Demo"
+		"type"		"Demo"
+		"parent"		"2108400"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"icon"		"19b2e1b4cfa07d15472c5549bcc87781740815d4"
+		"clienttga"		"1a454d93ea9faeaf9bd794b028140f8463484a4b"
+		"clienticon"		"3919bfc2a2c0e1a72cc791d77967db34cd09fa90"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1677856179"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rabbit Garden Software"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rabbit Garden Software"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1678125275"
+		"gameid"		"2342670"
+	}
+	"extended"
+	{
+		"demoofappid"		"2108400"
+		"developer"		"Rabbit Garden Software"
+		"publisher"		"Rabbit Garden Software"
+	}
+	"config"
+	{
+		"installdir"		"ATCo2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ATCo2.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"ATCo2-Demo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"ATCo2.x64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2342671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5721872884626488100"
+					"size"		"403618328"
+					"download"		"245533952"
+				}
+			}
+		}
+		"2342672"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7102016490827372770"
+					"size"		"405457576"
+					"download"		"244732416"
+				}
+			}
+		}
+		"2342673"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2431705632512456745"
+					"size"		"428050061"
+					"download"		"252996320"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10691026"
+				"timeupdated"		"1677930404"
+			}
+		}
+	}
+}
