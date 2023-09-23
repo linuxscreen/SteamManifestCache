@@ -1,0 +1,282 @@
+"appinfo"
+{
+	"appid"		"1715490"
+	"common"
+	{
+		"name"		"Lonely Tribes"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"d9bc494fa0228cfbee897e44366c24651238f501"
+		"logo_small"		"d9bc494fa0228cfbee897e44366c24651238f501_thumb"
+		"icon"		"0c7b878121570ec57073237a2637970bbe782b20"
+		"clienttga"		"49c45ba0799d4ee3ad6a6815eb81e7ffbf1d2787"
+		"clienticon"		"f33aa88e352875548a33a4cc7a77be3193bbaa91"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"17.203608247422693"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1633250875"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jack Maguire"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jack Maguire"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1646170500"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1715490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"3964"
+			"2"		"5379"
+			"3"		"4791"
+			"4"		"3877"
+			"5"		"493"
+			"6"		"1664"
+			"7"		"1720"
+			"8"		"4305"
+			"9"		"1684"
+			"10"		"7569"
+			"11"		"4182"
+			"12"		"492"
+			"13"		"3871"
+			"14"		"5350"
+			"15"		"1654"
+			"16"		"7250"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Jack Maguire"
+		"publisher"		"Jack Maguire"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Lonely Tribes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"lonely-tribes.exe"
+				"arguments"		"-t"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamcontrollertemplateindex"		"13"
+		"steaminputmanifestpath"		"controller_configuration"
+		"steamconfigurator3rdpartynative"		"1"
+	}
+	"depots"
+	{
+		"1715491"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6388304162424477257"
+					"size"		"110894163"
+					"download"		"103932976"
+				}
+				"beta"
+				{
+					"gid"		"4971621170440800487"
+					"size"		"110894161"
+					"download"		"103932928"
+				}
+				"nightly"
+				{
+					"gid"		"6388304162424477257"
+					"size"		"110894163"
+					"download"		"103932976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"F38721682C8C2C0D3A2FA8BBB6F21BB1"
+					"size"		"52D92CB18CB94C5E674465CD2BE6DF87"
+					"download"		"25220D36583D3BBA392913B56CE3BE35"
+				}
+			}
+		}
+		"1715492"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1889737934962106373"
+					"size"		"10225426"
+					"download"		"2745840"
+				}
+				"beta"
+				{
+					"gid"		"7699016494180815095"
+					"size"		"10352174"
+					"download"		"2770896"
+				}
+				"nightly"
+				{
+					"gid"		"1889737934962106373"
+					"size"		"10225426"
+					"download"		"2745840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"BD607F0BB413BC79B63190F8D5E548D0"
+					"size"		"10FC060CCE0BC167D3B98EAB5580ED5E"
+					"download"		"06AE87143953133091E9BE9898ABD696"
+				}
+			}
+		}
+		"1715494"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7150358739648461996"
+					"size"		"17285872"
+					"download"		"4221424"
+				}
+				"beta"
+				{
+					"gid"		"7150358739648461996"
+					"size"		"17285872"
+					"download"		"4221424"
+				}
+				"nightly"
+				{
+					"gid"		"7150358739648461996"
+					"size"		"17285872"
+					"download"		"4221424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"29355385A410E1EA0256C533971A9F49"
+					"size"		"9AA200639CCFC1CC0A488F72CD3EE5A1"
+					"download"		"0F5B9EAEDDF88A02B00FEFC703B6EA8A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8316505"
+				"timeupdated"		"1646420408"
+			}
+			"beta"
+			{
+				"buildid"		"8323454"
+				"description"		"Beta Branch"
+				"timeupdated"		"1646600383"
+			}
+			"developer"
+			{
+				"buildid"		"8323154"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646592515"
+			}
+			"nightly"
+			{
+				"buildid"		"8310624"
+				"description"		"Get ready... For Broken Saves!"
+				"timeupdated"		"1646346480"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"assets/data"
+				"pattern"		"high_scores.ron"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"assets/maps"
+				"pattern"		"pg-*.txt"
+			}
+		}
+	}
+}
