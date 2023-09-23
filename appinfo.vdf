@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"294260"
+	"common"
+	{
+		"name"		"Trials Fusion Demo"
+		"type"		"Demo"
+		"parent"		"245490"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"294260_eula_0"
+				"name"		"Trials Fusion Demo EULA"
+				"url"		"http://store.steampowered.com/eula/294260_eula_0"
+			}
+		}
+		"clienticon"		"d4a6baca9bb6e12067a0944ef58ddbb7d4df41bb"
+		"clienttga"		"b4f07f9e3f3dee2176ffc8251086b1395a0d6c71"
+		"icon"		"4c711e08b62c4f338151b25e26aace1ec723da01"
+		"logo"		"ff63c851c3aa3f529dc5f23d9f5c52bef8c7d22e"
+		"logo_small"		"ff63c851c3aa3f529dc5f23d9f5c52bef8c7d22e_thumb"
+		"oslist"		"windows"
+		"metacritic_name"		"Trials Fusion Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1408438250"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RedLynx, in collaboration with  Ubisoft Shanghai, Ubisoft Kiev"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ubisoft"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1420491600"
+		"gameid"		"294260"
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"demoofappid"		"245490"
+		"developer"		"RedLynx, in collaboration with  Ubisoft Shanghai, Ubisoft Kiev"
+		"publisher"		"Ubisoft"
+		"homepage"		"http://trials.ubi.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Trials Fusion"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"datapack\\trials_fusion.exe"
+				"arguments"		"-uplay_steam_mode"
+				"description"		"Launch Trials Fusion Demo"
+				"workingdir"		"datapack"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,japanese,dutch,brazilian"
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"245491"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"245490"
+			"sharedinstall"		"2"
+		}
+		"294261"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4832164719717227837"
+					"size"		"7325279485"
+					"download"		"6838384896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"prod_test"
+				{
+					"gid"		"96A6AA7904C31712F33F12B1259C2922"
+					"size"		"09E0E858626F05BCBE30DFC5D1D3B11F"
+					"download"		"8133E1E220972D11FBC00193785949D8"
+				}
+				"tu10"
+				{
+					"gid"		"E9A3E05B0AE46CCAA34B9F0AD83F9F07"
+					"size"		"EBD49B706E795AC68E750FC31E7EE3A8"
+					"download"		"2EAA5F79B6B17C8CC5E0F457AC01AEC9"
+				}
+				"uat"
+				{
+					"gid"		"9B25B1A467014E7BC3766F78288B0063"
+					"size"		"937BED3BFEBA81242CC3B6EE4677B812"
+					"download"		"9655DB5B0F6753F2262B022671FA5C49"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"635990"
+			}
+			"prod_test"
+			{
+				"buildid"		"635990"
+				"pwdrequired"		"1"
+			}
+			"tu10"
+			{
+				"buildid"		"649024"
+				"pwdrequired"		"1"
+			}
+			"uat"
+			{
+				"buildid"		"1182404"
+				"pwdrequired"		"1"
+				"timeupdated"		"1466007599"
+			}
+		}
+	}
+}
