@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"1719100"
+	"common"
+	{
+		"name"		"Ruins of Albion"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"31f702dfe3c2a17e2c13819e8ac9e956e3842a7e"
+		"logo_small"		"31f702dfe3c2a17e2c13819e8ac9e956e3842a7e_thumb"
+		"icon"		"c5bf1a21b687b5ecfb8601f40f81009e21ea6983"
+		"clienticon"		"0359ea2ca6d36a7cb64333e665206db866a896df"
+		"clienttga"		"0c62c0a72255e71c4add9d009ebe0c5903f3f9de"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1678464673"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Caecus"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Caecus"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631713815"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1719100"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"1720"
+			"2"		"3993"
+			"3"		"4057"
+			"4"		"1646"
+			"5"		"4195"
+			"6"		"21"
+			"7"		"4975"
+			"8"		"4791"
+			"9"		"19"
+			"10"		"4191"
+			"11"		"4305"
+			"12"		"4252"
+			"13"		"13382"
+			"14"		"1673"
+			"15"		"1684"
+			"16"		"4295"
+			"17"		"113"
+			"18"		"6730"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"The Caecus"
+		"publisher"		"Team Caecus"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Ruins of Albion"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Build\\ASpproject.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1719101"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7710712072270359908"
+					"size"		"537205342"
+					"download"		"88346272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatesting"
+				{
+					"gid"		"200B64A5B0EF0938F240E0DF04717430"
+					"size"		"C3CB8D1BB2D549E8BBAFCE792EAC9646"
+					"download"		"1B0C7BE45A9B82F7D8147F90F8075044"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10479576"
+				"timeupdated"		"1692517396"
+			}
+			"betatesting"
+			{
+				"buildid"		"10479576"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675541292"
+			}
+		}
+	}
+}
