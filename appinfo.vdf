@@ -1,0 +1,116 @@
+"appinfo"
+{
+	"appid"		"556930"
+	"common"
+	{
+		"name"		"ARAYA Demo"
+		"type"		"Demo"
+		"parent"		"466740"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"bd106e0a116d143d42cc237733858d0fb2abac72"
+		"logo_small"		"bd106e0a116d143d42cc237733858d0fb2abac72_thumb"
+		"icon"		"6bd3de354ab1af73a10ee577041060abc9c3e003"
+		"clienttga"		"d725f9aef15b791c94ca2d5742e0350fdb8dd1f4"
+		"clienticon"		"0d9d45b7cab081b7a74be57ffc71253af3d0c15c"
+		"releasestate"		"released"
+		"metacritic_name"		"ARAYA Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1478792511"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MAD Virtual Reality Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MAD Virtual Reality Studio"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1479349028"
+		"gameid"		"556930"
+	}
+	"extended"
+	{
+		"demoofappid"		"466740"
+		"developer"		"MAD Virtual Reality Studio"
+		"publisher"		"MAD Virtual Reality Studio"
+		"homepage"		"http://madvrstudio.com"
+	}
+	"config"
+	{
+		"installdir"		"ARAYA Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Araya.exe"
+				"arguments"		"-screen-fullscreen"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"556931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1955346057576406462"
+					"size"		"1580546621"
+					"download"		"556321648"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1457308"
+				"timeupdated"		"1479128971"
+			}
+		}
+	}
+}
