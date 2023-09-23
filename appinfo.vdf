@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"2346790"
+	"common"
+	{
+		"name"		"GENIE Demo"
+		"type"		"Demo"
+		"parent"		"2342210"
+		"icon"		"a6e155988a43af874c68d801f6777461e20c78c6"
+		"clienttga"		"2d907fcd7fe1963e9d67bff92929949b70cfce4e"
+		"clienticon"		"25f47819ca7270921b81a04bb237051752ac6058"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1678219716"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tonguç Bodur"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tonguç Bodur"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678375913"
+		"gameid"		"2346790"
+	}
+	"extended"
+	{
+		"demoofappid"		"2342210"
+		"developer"		"Tonguç Bodur"
+		"publisher"		"Tonguç Bodur"
+		"homepage"		"https://tongucbodur.com/genie-1"
+	}
+	"config"
+	{
+		"installdir"		"GENIE Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GENIEdemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2346791"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2876786299256150214"
+					"size"		"8113398997"
+					"download"		"7916757632"
+				}
+				"test"
+				{
+					"gid"		"2876786299256150214"
+					"size"		"8113398997"
+					"download"		"7916757632"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10954928"
+				"timeupdated"		"1680869800"
+			}
+			"test"
+			{
+				"buildid"		"10954928"
+				"description"		"test"
+				"timeupdated"		"1680868688"
+			}
+		}
+	}
+}
