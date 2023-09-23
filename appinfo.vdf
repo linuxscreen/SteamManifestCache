@@ -1,0 +1,240 @@
+"appinfo"
+{
+	"appid"		"672870"
+	"common"
+	{
+		"name"		"ScreenPlay"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"clienttga"		"587ce05cfd81d0c78d6e7abb1c20aa4357b78ee9"
+		"clienticon"		"bee64f6b5c956cc2d25a1265174395400e827027"
+		"icon"		"ee884053ffb1012acc86d6bca1515effe2b556b4"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"logo"		"01fbc249a3c66849fd97f3d831f527309cc7c2f0"
+		"logo_small"		"01fbc249a3c66849fd97f3d831f527309cc7c2f0_thumb"
+		"metacritic_name"		"ScreenPlay"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.65018655720573"
+				"height_pct"		"48.86054310588243"
+			}
+		}
+		"store_asset_mtime"		"1610036876"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Elias Steurer (Kelteseth) Tachiom"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Elias Steurer (Kelteseth) Tachiom"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"57"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1579680000"
+		"steam_release_date"		"1612798625"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"672870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+			"1"		"493"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Elias Steurer (Kelteseth) Tachiom"
+		"publisher"		"Elias Steurer (Kelteseth) Tachiom"
+		"homepage"		"https://screen-play.app/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ScreenPlay"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"ScreenPlay.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"ScreenPlay.app/Contents/MacOS/ScreenPlay"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"workshopdepot"		"672870"
+		"baselanguages"		"english,german,schinese,russian,vietnamese"
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"672871"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4578332785647069246"
+					"size"		"558117389"
+					"download"		"210281040"
+				}
+				"internal"
+				{
+					"gid"		"8436586986967914224"
+					"size"		"558114846"
+					"download"		"210282992"
+				}
+			}
+		}
+		"672872"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8986567078860472061"
+					"size"		"841673971"
+					"download"		"255553440"
+				}
+				"internal"
+				{
+					"gid"		"8986567078860472061"
+					"size"		"841673971"
+					"download"		"255553440"
+				}
+			}
+		}
+		"672873"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12042470"
+				"timeupdated"		"1693128715"
+			}
+			"internal"
+			{
+				"buildid"		"12106053"
+				"description"		"internal testing only"
+				"timeupdated"		"1693840006"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
