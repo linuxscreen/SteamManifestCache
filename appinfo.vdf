@@ -1,0 +1,130 @@
+"appinfo"
+{
+	"appid"		"1736330"
+	"common"
+	{
+		"name"		"Chicken Cannon Demo"
+		"type"		"Demo"
+		"parent"		"1713400"
+		"releasestate"		"released"
+		"clienticon"		"c22fa5a8f93cde5a0c077b65b941b7793545a019"
+		"clienttga"		"eb4d6478d166ae33a124efcfd54223944a6889ed"
+		"icon"		"110329184b16493e44578319297a88e271ca0cab"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1634380826"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ambitious Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ambitious Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630167053"
+		"gameid"		"1736330"
+	}
+	"extended"
+	{
+		"demoofappid"		"1713400"
+		"developer"		"Ambitious Games"
+		"publisher"		"Ambitious Games"
+	}
+	"config"
+	{
+		"installdir"		"Chicken Cannon Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Chicken Cannon.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"chicken_cannon_linux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1736331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6541117307350930318"
+					"size"		"104496137"
+					"download"		"30158736"
+				}
+			}
+		}
+		"1736332"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7600356601130427826"
+					"size"		"118915711"
+					"download"		"32783712"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7506946"
+				"timeupdated"		"1633800918"
+			}
+		}
+	}
+}
