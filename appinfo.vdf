@@ -1,0 +1,150 @@
+"appinfo"
+{
+	"appid"		"2362500"
+	"common"
+	{
+		"name"		"Pale Cinder Demo"
+		"type"		"Demo"
+		"parent"		"2352520"
+		"releasestate"		"released"
+		"icon"		"a901db5c54a1b2a7f3919c7b54708a282ef63ff3"
+		"clienttga"		"b5ed2049fd993ebec3eb3a035a91a3a49a53cb91"
+		"clienticon"		"b53c0247f9d76901cd48b636e59c709b9e3301b6"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1678993936"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"OcO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"OcO"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1679139525"
+		"gameid"		"2362500"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2352520"
+		"developer"		"OcO"
+		"publisher"		"OcO"
+	}
+	"config"
+	{
+		"installdir"		"Pale Cinder Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PaleCinderDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2362501"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2478913745980813974"
+					"size"		"96419108"
+					"download"		"33322752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"614806CBFE6BFD5F62BC227BC6804555"
+					"size"		"2D144E50E8F699292EA833A75DE97AB5"
+					"download"		"B17F11F9EFA7D5F33B08092BEF901478"
+				}
+			}
+		}
+		"2362503"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3287039944908808767"
+					"size"		"98086708"
+					"download"		"33808032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4B2111B9A9151659E925C2C42ED76178"
+					"size"		"3D643C9959A6694B4017FC1866281596"
+					"download"		"2D8DB54787C9F7B89328CD60E5930195"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10896812"
+				"timeupdated"		"1680214604"
+			}
+			"beta"
+			{
+				"buildid"		"10896712"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680213932"
+			}
+		}
+	}
+}
