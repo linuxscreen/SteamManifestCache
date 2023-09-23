@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"1547970"
+	"common"
+	{
+		"name"		"lightblue"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"93cbe9df9de3559035fae5af6dfbda68f0cb8160"
+		"logo_small"		"93cbe9df9de3559035fae5af6dfbda68f0cb8160_thumb"
+		"icon"		"6dc8ecb342ea47b48f296e5de45ecb95bbf7030d"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1547970_eula_0"
+				"name"		"lightblue EULA"
+				"url"		"https://store.steampowered.com//eula/1547970_eula_0"
+				"version"		"1"
+			}
+		}
+		"clienttga"		"73eac5f663ec77d445f75e527187ba64c362503d"
+		"clienticon"		"26f84a63e45a6ef4699f37361b1506bb0e40f359"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1615213141"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"uut games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"uut games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1614529560"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1547970"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"3839"
+			"2"		"5652"
+			"3"		"19"
+			"4"		"4106"
+			"5"		"3978"
+			"6"		"21"
+			"7"		"4604"
+			"8"		"4342"
+			"9"		"3834"
+			"10"		"4182"
+			"11"		"5125"
+			"12"		"492"
+			"13"		"6730"
+			"14"		"1721"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"uut games"
+		"publisher"		"uut games"
+		"homepage"		"https://uutgames.com/games/lightblue"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"lightblue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"lightblue.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1547971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2022502561906939749"
+					"size"		"3917109266"
+					"download"		"3771367248"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6551305"
+				"timeupdated"		"1618562705"
+			}
+		}
+	}
+}
