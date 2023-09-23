@@ -1,0 +1,118 @@
+"appinfo"
+{
+	"appid"		"2404120"
+	"common"
+	{
+		"name"		"镜花饴情 Mirage Sugar Acacia Demo"
+		"type"		"Demo"
+		"parent"		"2404110"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"a3b45b60682d5b70695d8dc0474fc4b2e297a74a"
+		"clienticon"		"08b1c25c5e21762fb7a1d23177c16f7404e41192"
+		"clienttga"		"230966fe95ad9933122d81df334f2c31e9316848"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"57.55148741418765"
+				"height_pct"		"60.63829737894366"
+			}
+		}
+		"store_asset_mtime"		"1682486051"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"青木香游戏制作组"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"青木香游戏制作组"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682612897"
+		"gameid"		"2404120"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2404110"
+		"developer"		"青木香游戏制作组"
+		"publisher"		"青木香游戏制作组"
+	}
+	"config"
+	{
+		"installdir"		"MirageSugarAcaciaDemo"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"MirageSugarAcaciaDemo/MirageSugarAcacia.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"2404121"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9125596395717104603"
+					"size"		"452635823"
+					"download"		"319475920"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11110271"
+				"timeupdated"		"1682646196"
+			}
+		}
+	}
+}
