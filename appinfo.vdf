@@ -1,0 +1,200 @@
+"appinfo"
+{
+	"appid"		"1729880"
+	"common"
+	{
+		"name"		"Necore Tower - Redux Edition Demo"
+		"type"		"Demo"
+		"parent"		"1516340"
+		"clienttga"		"9b5d394401d44fbbb3cac26785197d2d9a283ccc"
+		"clienticon"		"225697e9a37f4f6ff07724da3df1a06c19d7e3d5"
+		"icon"		"8635c1cb31959046ff9b7a1660a4837c9d4518e0"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1729880_eula_0"
+				"name"		"Necore Tower - Redux Edition Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1729880_eula_0"
+				"version"		"1"
+			}
+		}
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"9afed3fea276da88adf7d24e5039770571ae24d9"
+		"logo_small"		"9afed3fea276da88adf7d24e5039770571ae24d9_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1629357822"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Outback Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Outback Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630295786"
+		"community_visible_stats"		"1"
+		"gameid"		"1729880"
+	}
+	"extended"
+	{
+		"demoofappid"		"1516340"
+		"absolutemousecoordinates"		"1"
+		"developer"		"Outback Games"
+		"publisher"		"Outback Games"
+		"homepage"		"https://outbackgames.com.au"
+	}
+	"config"
+	{
+		"installdir"		"Necore Tower - Redux Edition Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Necore Tower Redux Edition.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"necore-tower-redux-edition.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65533"
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"1729881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1080231827399753760"
+					"size"		"193479149"
+					"download"		"119356752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed"
+				{
+					"gid"		"4E435767A9FB89C341F178B3BD37782D"
+					"size"		"7D32BF630E618A7F3FE1AD36EF55D31F"
+					"download"		"7EAC96C38CBDF1CC8B52F726D06B3F8B"
+				}
+			}
+		}
+		"1729882"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5624349044337049915"
+					"size"		"212719769"
+					"download"		"115998768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed"
+				{
+					"gid"		"63274795BDB7706EF27EA0FD45E2961E"
+					"size"		"53CB643AB1390D581CC66AA77F71A6CD"
+					"download"		"31BA0853EED0C3A3CC5FE3E8A722CF28"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7558946"
+				"timeupdated"		"1634638152"
+			}
+			"closed"
+			{
+				"buildid"		"7558946"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634638119"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
