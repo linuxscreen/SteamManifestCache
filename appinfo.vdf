@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"1598010"
+	"common"
+	{
+		"name"		"Wild Dive"
+		"type"		"Game"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+		}
+		"clienticon"		"f3a9cd3e06432244d3501a034afd93c68c3a3f8b"
+		"clienttga"		"9a1697d26c8e900daa9cdd369a49994b293b636e"
+		"icon"		"782bbd5393fda49cccd560d2efa268705cfa29ec"
+		"logo"		"d32b41b0196d4e818a8008ede4944ecde2881a0e"
+		"logo_small"		"d32b41b0196d4e818a8008ede4944ecde2881a0e_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1620378161"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Objectif 3D - game"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Objectif 3D - game"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1622116585"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1598010"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4106"
+			"3"		"1773"
+			"4"		"1625"
+			"5"		"492"
+			"6"		"113"
+			"7"		"5652"
+			"8"		"5395"
+			"9"		"3877"
+			"10"		"30358"
+			"11"		"4195"
+			"12"		"96359"
+			"13"		"4305"
+			"14"		"4726"
+			"15"		"1751"
+			"16"		"4182"
+			"17"		"1734"
+			"18"		"8666"
+			"19"		"1685"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Objectif 3D - game"
+		"publisher"		"Objectif 3D - game"
+		"homepage"		"https://www.objectif3d.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Wild Dive"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WildDive.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1598011"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8040923462431914615"
+					"size"		"5121110054"
+					"download"		"1708095856"
+				}
+			}
+		}
+		"baselanguages"		"english,french"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9661477"
+				"timeupdated"		"1664997083"
+			}
+		}
+	}
+}
