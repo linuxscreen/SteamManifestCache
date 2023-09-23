@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"2011930"
+	"common"
+	{
+		"name"		"Destroy All Humans! 2 - Reprobed Demo"
+		"type"		"Demo"
+		"parent"		"1266700"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"c4f0674bb7947fa8de7704ad55ff66226a2489cf"
+		"clienticon"		"31d69e035af4d764bb52ef85ecc5aeedde332a9f"
+		"icon"		"fe9ffa97499fd5f4ba061e43b6206962dd8c5767"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.48837209302326"
+				"height_pct"		"74.31726430776538"
+			}
+		}
+		"store_asset_mtime"		"1654612503"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Black Forest Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"THQ Nordic"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Destroy All Humans!"
+			}
+		}
+		"steam_release_date"		"1655124941"
+		"gameid"		"2011930"
+	}
+	"extended"
+	{
+		"demoofappid"		"1266700"
+		"developer"		"Black Forest Games"
+		"publisher"		"THQ Nordic"
+		"homepage"		"https://www.destroyallhumansgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Destroy All Humans! 2 - Reprobed Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DH.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Shipping Build x64"
+				}
+				"description"		"Shipping Build x64"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2011931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7925054077019373150"
+					"size"		"15072566247"
+					"download"		"14342367808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"214138C70DDC7ECB4E8AB85531A16E2F"
+					"size"		"05EF62261C708AE0396C7F91D7CE6CCB"
+					"download"		"5B0AAE954F6B2D5E0222A526E9F1E4C3"
+				}
+				"milestone"
+				{
+					"gid"		"D2AFE1401FEAF180D3AB09946CC6AC46"
+					"size"		"AA56A7381BB849B554FCA2FB1AD66E04"
+					"download"		"F48D0555DF911FFD0C142DD9EB3F48C2"
+				}
+				"testgate"
+				{
+					"gid"		"A2AD7537845EEECE0C5806F847AB78B2"
+					"size"		"8AC2E992D97058203D7BEB1B6D5F9203"
+					"download"		"7F93192672D43320FC09BA71349A07BB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8942239"
+				"timeupdated"		"1655307652"
+			}
+			"internal"
+			{
+				"buildid"		"8866771"
+				"pwdrequired"		"1"
+				"timeupdated"		"1654274436"
+			}
+			"milestone"
+			{
+				"buildid"		"9546486"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663934227"
+			}
+			"testgate"
+			{
+				"buildid"		"9599333"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664277439"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"1000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
