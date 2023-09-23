@@ -1,0 +1,138 @@
+"appinfo"
+{
+	"appid"		"2400360"
+	"common"
+	{
+		"name"		"東方獣王園 〜 Unfinished Dream of All Living Ghost. Demo"
+		"type"		"Demo"
+		"parent"		"2400340"
+		"clienticon"		"4cc65a16a08c35caebe083578f79bea671b5d933"
+		"clienttga"		"3986e55a8490570e6ece98c3b9f1c1856d0205b0"
+		"icon"		"61d3534657ce22060ecc9a00b69913c2c181acd3"
+		"name_localized"
+		{
+			"english"		"Touhou Juuouen 〜 Unfinished Dream of All Living Ghost. Demo"
+			"japanese"		"東方獣王園 〜 Unfinished Dream of All Living Ghost. Demo"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"53.75611154825923"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1683346570"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"上海アリス幻樂団"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mediascape Co., Ltd."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1683687173"
+		"gameid"		"2400360"
+	}
+	"extended"
+	{
+		"demoofappid"		"2400340"
+		"developer"		"上海アリス幻樂団"
+		"publisher"		"Mediascape Co., Ltd."
+		"homepage"		"http://www16.big.or.jp/~zun/"
+	}
+	"config"
+	{
+		"installdir"		"th19tr"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"th19.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"custom.exe"
+				"type"		"config"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"japanese"
+		"2400361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4773487548167287962"
+					"size"		"210828636"
+					"download"		"185862688"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11377833"
+				"timeupdated"		"1685765468"
+			}
+		}
+	}
+}
