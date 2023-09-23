@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"1614730"
+	"common"
+	{
+		"name"		"Tavern Master - Prologue"
+		"type"		"Game"
+		"logo"		"afd11585191e84d73034f36c379a0e7a404c6f55"
+		"logo_small"		"afd11585191e84d73034f36c379a0e7a404c6f55_thumb"
+		"icon"		"5a6d2935a5b42c927f98e0b2afb25244d6322f07"
+		"clienticon"		"99a12e9e9bb93c69e361135b6ed198e2209f2a3f"
+		"clienttga"		"0e8b71815198ae5236f1932a85316ecc45bc70cb"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1623519583"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UntitledStudio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"UntitledStudio"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"WhisperGames"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1624550718"
+		"community_hub_visible"		"1"
+		"gameid"		"1614730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"599"
+			"2"		"492"
+			"3"		"4172"
+			"4"		"1643"
+			"5"		"8945"
+			"6"		"4791"
+			"7"		"12472"
+			"8"		"4328"
+			"9"		"16689"
+			"10"		"4191"
+			"11"		"4252"
+			"12"		"4166"
+			"13"		"1702"
+			"14"		"3987"
+			"15"		"1654"
+			"16"		"4182"
+			"17"		"14153"
+			"18"		"113"
+			"19"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"UntitledStudio"
+		"publisher"		"UntitledStudio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tavern Master - Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tavern Master.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TavernMaster_Mac.app\\Contents\\MacOS\\Tavern Master"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french,spanish,russian"
+		"1614731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2981898664712790216"
+					"size"		"905289469"
+					"download"		"331949760"
+				}
+			}
+		}
+		"1614732"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4541728659162142673"
+					"size"		"929935693"
+					"download"		"339825136"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7214191"
+				"timeupdated"		"1629356691"
+			}
+		}
+	}
+}
