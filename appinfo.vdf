@@ -1,0 +1,120 @@
+"appinfo"
+{
+	"appid"		"1725970"
+	"common"
+	{
+		"name"		"Bionite: Origins Demo"
+		"type"		"Demo"
+		"parent"		"414770"
+		"clienticon"		"044907921b95b65965a107d4a58c1f3b4aad8829"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"4b5a75727acee3e7093f7bd981e8300f1fae6c84"
+		"icon"		"cfcc973ee6206e334fb12dcb43aedb0798d7af76"
+		"logo"		"08161038262cd9da592f660fd1d4d0f44cc1f713"
+		"logo_small"		"08161038262cd9da592f660fd1d4d0f44cc1f713_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1628870755"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Platoon Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Platoon Stdios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1629233798"
+		"gameid"		"1725970"
+	}
+	"extended"
+	{
+		"demoofappid"		"414770"
+		"developer"		"Platoon Studios"
+		"publisher"		"Platoon Stdios"
+	}
+	"config"
+	{
+		"installdir"		"Bionite Origins Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bionite0010.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1725976"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7810437881964940983"
+					"size"		"6300684082"
+					"download"		"1604375872"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7987014"
+				"timeupdated"		"1641754094"
+			}
+		}
+	}
+}
