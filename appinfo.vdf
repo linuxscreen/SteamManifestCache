@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"1103290"
+	"common"
+	{
+		"name"		"Mind Trap"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"logo"		"1cce83ad3092305f9a683dd393a2e90d2a7ca89f"
+		"logo_small"		"1cce83ad3092305f9a683dd393a2e90d2a7ca89f_thumb"
+		"icon"		"2f9f031402fbcb542e6ba17a64e5ba0944d9d523"
+		"clienticon"		"e1a64716b2cc13761d7e154929198ba8655f71ae"
+		"clienttga"		"07c39a2618c6a283f7c453044668807ba0299386"
+		"releasestate"		"released"
+		"linuxclienticon"		"92a32745873fbdc1dad208dadbccac0eedb03051"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"metacritic_name"		"Mind Trap"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"55.8343057176196"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1567179792"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gear Worx Productions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gear Worx Productions"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Mind Trap"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1568690280"
+		"community_hub_visible"		"1"
+		"gameid"		"1103290"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"493"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Gear Worx Productions"
+		"publisher"		"Gear Worx Productions"
+		"homepage"		"http://www.gearworxprod.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mind Trap"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mind Trap.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mind Trap.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Mind Trap.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"Mind Trap.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1103291"
+		{
+		}
+		"1103292"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3025152743426601635"
+					"size"		"2858661800"
+					"download"		"976053440"
+				}
+			}
+		}
+		"1103293"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8184290038851239656"
+					"size"		"2866653025"
+					"download"		"981305104"
+				}
+			}
+		}
+		"1103294"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3480271970410199740"
+					"size"		"2910694696"
+					"download"		"998289568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4176140"
+				"timeupdated"		"1567905870"
+			}
+		}
+	}
+}
