@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"1363490"
+	"common"
+	{
+		"name"		"Dragon Spirits : Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"5f8040260e251c7ca4d2e621c58143cf9208a735"
+		"logo_small"		"5f8040260e251c7ca4d2e621c58143cf9208a735_thumb"
+		"icon"		"e0c12a7bfc1d251ad5e522dbc8b13d10bcb8e8df"
+		"clienttga"		"55669982cb4461a6693fac462e384b7559be41d3"
+		"clienticon"		"1d673e092db2682c8ff91af458daaa5f87ee0f78"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"龙魂：学院奇闻 序章"
+			"tchinese"		"龍魂：學院奇聞 序章"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667208497"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FHNBHJ"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"indienova"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"indienova"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1598501843"
+		"community_hub_visible"		"1"
+		"gameid"		"1363490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"916648"
+			"2"		"492"
+			"3"		"21"
+			"4"		"9"
+			"5"		"4046"
+			"6"		"4434"
+			"7"		"1719"
+			"8"		"1742"
+			"9"		"1720"
+			"10"		"17305"
+			"11"		"4182"
+			"12"		"4004"
+			"13"		"12472"
+			"14"		"5577"
+			"15"		"3916"
+			"16"		"3871"
+			"17"		"3964"
+			"18"		"4085"
+			"19"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"99"
+	}
+	"extended"
+	{
+		"developer"		"FHNBHJ"
+		"publisher"		"indienova"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dragon_Spirits_Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RGD.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Default startup mode"
+					"schinese"		"默认启动方式"
+				}
+				"description"		"Default startup mode"
+			}
+			"1"
+			{
+				"executable"		"Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Compatible mode for better performance on some devices"
+					"schinese"		"兼容模式启动，默认启动卡顿时使用"
+				}
+				"description"		"Compatible mode for better performance on some devices"
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1363491"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6679390706664378048"
+					"size"		"1063527011"
+					"download"		"958131504"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10627880"
+				"timeupdated"		"1677229580"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Save"
+				"pattern"		"*.rvdata2"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
