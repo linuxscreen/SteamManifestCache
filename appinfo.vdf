@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"1430650"
+	"common"
+	{
+		"name"		"Gas Station Simulator Demo"
+		"type"		"Demo"
+		"parent"		"1149620"
+		"releasestate"		"released"
+		"clienticon"		"be10b7db5766b6a23b80bc920fe28aa3c5a7b1ff"
+		"clienttga"		"e6b48f598b99fc28b736b174a56eb9f1fa38a818"
+		"icon"		"cf77689387ca7058f42b72f693c79a1c7e3ecce1"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"cf00325383576bb883e809023ab58efdf8eb82b5"
+		"logo_small"		"cf00325383576bb883e809023ab58efdf8eb82b5_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"45.399746371051506"
+				"height_pct"		"83.30884004432262"
+			}
+		}
+		"store_asset_mtime"		"1602275027"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DRAGO entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Movie Games S.A."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"DRAGO entertainment"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1602090256"
+		"gameid"		"1430650"
+	}
+	"extended"
+	{
+		"demoofappid"		"1149620"
+		"developer"		"DRAGO entertainment"
+		"publisher"		"Movie Games S.A."
+	}
+	"config"
+	{
+		"installdir"		"Gas Station Simulator Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GSS2.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1430651"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4028823568457363292"
+					"size"		"5446483657"
+					"download"		"2150785200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-test"
+				{
+					"gid"		"52295ECE7DCD9B8375C454D90903B644"
+					"size"		"EF637A9F1356F99AF1999E77E605F958"
+					"download"		"F0D68FEF63B70744DC522B05451A069D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5656507"
+				"timeupdated"		"1602189595"
+			}
+			"dev-test"
+			{
+				"buildid"		"5656507"
+				"pwdrequired"		"1"
+				"timeupdated"		"1602181175"
+			}
+		}
+	}
+}
