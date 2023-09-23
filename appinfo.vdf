@@ -1,0 +1,157 @@
+"appinfo"
+{
+	"appid"		"871170"
+	"common"
+	{
+		"name"		"3tene"
+		"type"		"Application"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"6ca681c8c56f7e0442bba32e909a5d98b2826188"
+		"logo_small"		"6ca681c8c56f7e0442bba32e909a5d98b2826188_thumb"
+		"icon"		"09f7d1339dcb8f2ea962d78e0411f266a114a045"
+		"clienttga"		"dc0d12f48edea51e727f1786cbbf28f8266735b3"
+		"linuxclienticon"		"78624aae2ec335809c5632182bc7f44a7a1d9587"
+		"clienticns"		"78624aae2ec335809c5632182bc7f44a7a1d9587"
+		"clienticon"		"d3a82d2b1b2b0c39d51d403438b63f73d613085e"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658534400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"3tene"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1602052213"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PLUSPLUS Co.,LTD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PLUSPLUS Co.,LTD"
+			}
+		}
+		"primary_genre"		"51"
+		"genres"
+		{
+			"0"		"51"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1531877051"
+		"community_hub_visible"		"1"
+		"gameid"		"871170"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"872"
+			"1"		"8013"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"PLUSPLUS Co.,LTD"
+		"publisher"		"PLUSPLUS Co.,LTD"
+		"homepage"		"http://3tene.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"3tene"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"3tene/3tene.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"871171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7664759694870198882"
+					"size"		"734341622"
+					"download"		"328784272"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12137721"
+				"timeupdated"		"1694138305"
+			}
+		}
+	}
+}
