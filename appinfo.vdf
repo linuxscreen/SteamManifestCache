@@ -1,0 +1,174 @@
+"appinfo"
+{
+	"appid"		"2347620"
+	"common"
+	{
+		"name"		"Spark Defense Demo"
+		"type"		"Demo"
+		"parent"		"2218100"
+		"icon"		"d34d48ca4cf75384d77a48b3d59a5bcd46590011"
+		"clienttga"		"ef50d1216b4a778486add3c6ca52a1e5106eac84"
+		"clienticns"		"0541f13c5456a37a883bcff43873246d01d6169e"
+		"clienticon"		"2ca1fa03e83276abd3348f5475f7c4cedc385bf6"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"releasestate"		"released"
+		"app_retired_publisher_request"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1678337781"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LifeForce Games Inc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LifeForce Games Inc"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1678421777"
+		"gameid"		"2347620"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2218100"
+		"developer"		"LifeForce Games Inc"
+		"publisher"		"LifeForce Games Inc"
+		"homepage"		"https://lifeforce.games/"
+	}
+	"config"
+	{
+		"installdir"		"Spark Defense Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Spark Defense.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SparkDefense.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2347621"
+		{
+		}
+		"2347622"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7259294115743832477"
+					"size"		"1587263601"
+					"download"		"379677632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"F34935D50D3D0F78C84F66777493B6AD"
+					"size"		"9A65414096DDFEB985D466205690D0EF"
+					"download"		"280BBC0286083941C7B7F25A9F3AF3C9"
+				}
+			}
+		}
+		"2347623"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8080477282442945316"
+					"size"		"1591835700"
+					"download"		"380992816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"DE66C226FDAF3F71051C801DB57A45ED"
+					"size"		"7B8AA09AB5E1114FE0B0F39A5341A203"
+					"download"		"08AEF6B2B51678B38678D831DF1578B6"
+				}
+			}
+		}
+		"2347624"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+		}
+		"2347625"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11433131"
+				"timeupdated"		"1686317242"
+			}
+			"testing"
+			{
+				"buildid"		"11433131"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686317127"
+			}
+		}
+	}
+}
