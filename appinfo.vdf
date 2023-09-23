@@ -1,0 +1,237 @@
+"appinfo"
+{
+	"appid"		"1668170"
+	"common"
+	{
+		"name"		"Track and Burn"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"7eb1be34d9b0de3bfce2f08ef43923a1eacea297"
+		"logo_small"		"7eb1be34d9b0de3bfce2f08ef43923a1eacea297_thumb"
+		"icon"		"92705ab2990980474e491ca56b97831797757f96"
+		"clienticon"		"a3dbc667013513505aca718b29d6db7508fcccbe"
+		"clienttga"		"a9c12a53bc72bb8cbd649f77222f108800826365"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"market_presence"		"0"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.46596420806155"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688999579"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tayasui"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1659698232"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1668170"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"3878"
+			"2"		"4252"
+			"3"		"5154"
+			"4"		"3859"
+			"5"		"1773"
+			"6"		"7481"
+			"7"		"1644"
+			"8"		"17770"
+			"9"		"4102"
+			"10"		"4305"
+			"11"		"3968"
+			"12"		"3916"
+			"13"		"4191"
+			"14"		"4182"
+			"15"		"4004"
+			"16"		"7622"
+			"17"		"3839"
+			"18"		"6691"
+			"19"		"1643"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Tayasui"
+		"homepage"		"https://tayasui.com/trackandburn/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Track and Burn"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TracknBurn_Windows\\Track & Burn.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"TracknBurn.app\\Contents\\MacOS\\Track _ Burn"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"TracknBurn_Linux\\TracknBurn_Linux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"1"
+	}
+	"depots"
+	{
+		"1668172"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5221458627336583764"
+					"size"		"407680303"
+					"download"		"120494896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"E53169427025EE553E37468A0F0B0B90"
+					"size"		"5BE770BCC778B48726CAB3C447C33384"
+					"download"		"99F34815BDDA0B512B17629BA2F78C73"
+				}
+			}
+		}
+		"1668171"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1981834275697877448"
+					"size"		"555918865"
+					"download"		"135696256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"3513D96BDDCB115B55E103A518B933D9"
+					"size"		"0C02AC58AEAA86B348C51B5804823300"
+					"download"		"7CB27138E4E423A8D9EACE2AAE47D241"
+				}
+			}
+		}
+		"1668173"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2598982852694147907"
+					"size"		"512779465"
+					"download"		"128278528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"2796CD07164ED710DF807F9378ED5ACA"
+					"size"		"B2F85D7524022EC7CA41E40E7D471418"
+					"download"		"CACA45D21F39DDCC5392B15751DFBBD9"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12216930"
+				"timeupdated"		"1695378059"
+			}
+			"development"
+			{
+				"buildid"		"12216930"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695050556"
+			}
+		}
+	}
+}
