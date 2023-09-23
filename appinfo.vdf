@@ -1,0 +1,112 @@
+"appinfo"
+{
+	"appid"		"2238670"
+	"common"
+	{
+		"name"		"Neuron Demo"
+		"type"		"Demo"
+		"parent"		"2238660"
+		"icon"		"508fbd60b637732274cd1adc613ae5d3291847dc"
+		"clienticon"		"9a3bee03597ea771f578974d31b169fabb87ccee"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1683767372"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Almost A Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Almost A Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1670282064"
+		"gameid"		"2238670"
+	}
+	"extended"
+	{
+		"demoofappid"		"2238660"
+		"developer"		"Almost A Studio"
+		"publisher"		"Almost A Studio"
+	}
+	"config"
+	{
+		"installdir"		"_neuron_demo_final_build"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"_neuron_demo_final_build\\Neuron.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2238671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6248078587358496778"
+					"size"		"219900991"
+					"download"		"131443392"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11239878"
+				"timeupdated"		"1684204545"
+			}
+		}
+	}
+}
