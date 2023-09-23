@@ -1,0 +1,416 @@
+"appinfo"
+{
+	"appid"		"355180"
+	"common"
+	{
+		"name"		"Codename CURE"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"icon"		"5ac0b80152b51c5d5978868cef0293626cb32f44"
+		"clienticon"		"1f74844b67c8f222a54a0b91108ff8eb0683a811"
+		"clienttga"		"d95f1e309e7d46861c4e4b9edba50a5a57f8b84a"
+		"logo"		"d912c0c763ae03576da5f4fcfea0d335cf9ebd66"
+		"logo_small"		"d912c0c763ae03576da5f4fcfea0d335cf9ebd66_thumb"
+		"metacritic_name"		"Codename CURE"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.98366394399067"
+				"height_pct"		"92.17525528378057"
+			}
+		}
+		"store_asset_mtime"		"1667069955"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hoobalugalar_X"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Raptor Byte"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_27"		"1"
+			"category_9"		"1"
+			"category_17"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_38"		"1"
+			"category_30"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1509451538"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"355180"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1659"
+			"2"		"3859"
+			"3"		"1662"
+			"4"		"1774"
+			"5"		"1663"
+			"6"		"1685"
+			"7"		"3843"
+			"8"		"19"
+			"9"		"3839"
+			"10"		"1695"
+			"11"		"4182"
+			"12"		"1667"
+			"13"		"4345"
+			"14"		"493"
+			"15"		"21"
+			"16"		"5348"
+			"17"		"128"
+			"18"		"4136"
+			"19"		"1697"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"gamedir"		"cure"
+		"serverbrowsername"		"Codename CURE"
+		"developer"		"Hoobalugalar_X"
+		"publisher"		"Raptor Byte"
+		"homepage"		"http://codenamecure.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Codename CURE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"cure.exe"
+				"arguments"		"-game cure -steam"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"cure.sh"
+				"arguments"		"-game cure -steam"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"cure.sh"
+				"arguments"		"-game cure -steam"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigfileids"		"543367488"
+	}
+	"depots"
+	{
+		"355181"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5452007387522586952"
+					"size"		"4278381978"
+					"download"		"2063170368"
+				}
+				"legacy"
+				{
+					"gid"		"4794030683933692783"
+					"size"		"3765292158"
+					"download"		"1847777424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"9C1E92E479824BAF863904224F4357E9"
+					"size"		"CDEC71246F23DD71AB891E6C230315F2"
+					"download"		"601F6E0595C1CDE5D04DE800C1028244"
+				}
+				"graveyard"
+				{
+					"gid"		"FBE13F40016162ECC94B34160ACF6FB6"
+					"size"		"9E9E56D1B00776AB6121E2E8C6140A7C"
+					"download"		"D7740156E9248A13B2018FFC862EE199"
+				}
+				"test"
+				{
+					"gid"		"50852BE01E767D030957695DDE73C43F"
+					"size"		"025CB3BC95E4A13599E2F83279AE4B4D"
+					"download"		"B85B0F7EE469FF6B6217FDCC0A2C473F"
+				}
+			}
+		}
+		"355182"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2125026181669143985"
+					"size"		"116736395"
+					"download"		"37149120"
+				}
+				"legacy"
+				{
+					"gid"		"556506019001158641"
+					"size"		"116410525"
+					"download"		"37018736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"826CB2719F6B5AE17F2A3C07AF4F02BE"
+					"size"		"509BCFE5A793B11F161C65C3670B4689"
+					"download"		"A756F7187F1D40F6C40CA0D631B8B456"
+				}
+				"graveyard"
+				{
+					"gid"		"D49D3D411247DA884637FC20E5A2540C"
+					"size"		"1D5BEAFC8C3B1983952975262DC1ED2E"
+					"download"		"CF5A2ACA2414A85D0A0026B79F9FDA48"
+				}
+				"test"
+				{
+					"gid"		"B2524BEF8DE6BD84E849E9B0B298E97C"
+					"size"		"8B26CA7D2CA978E331CA036071AE5C4B"
+					"download"		"7A82B83E1F9C44F9E342B48467F7F8CC"
+				}
+			}
+		}
+		"355183"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"323423181181172894"
+					"size"		"68856474"
+					"download"		"13743552"
+				}
+				"legacy"
+				{
+					"gid"		"5926996396142284868"
+					"size"		"68573142"
+					"download"		"13676272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"8DA6451DB7FF292D14268142CBC4ACEF"
+					"size"		"ABFB46175A1C35BDD2026B25AD77F560"
+					"download"		"425108353900C705D89DCEA78E22D106"
+				}
+				"graveyard"
+				{
+					"gid"		"A53B7887B01A961E24609E2EA1016F94"
+					"size"		"475AA6ADFD744A1298AD0D3D8B2F5608"
+					"download"		"53C14B0F341F3A6995628CAAAB417847"
+				}
+				"test"
+				{
+					"gid"		"30CF2A036172B12C95D25D71E47A4E7C"
+					"size"		"871435A901AB09CDDD01831597C61342"
+					"download"		"13A698035AF90F67836FA1382B8CADE2"
+				}
+			}
+		}
+		"355184"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5428632141118872830"
+					"size"		"100004193"
+					"download"		"17702720"
+				}
+				"legacy"
+				{
+					"gid"		"6168837280173154516"
+					"size"		"98820555"
+					"download"		"17365392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"FD91F82B01BC7390E98200CDB8B9F776"
+					"size"		"CC9E332AD786069C6C7D260AB1072466"
+					"download"		"D7AE712F098845A5B29A0EA853DF9253"
+				}
+				"graveyard"
+				{
+					"gid"		"9070C91A53C1A29685E01EF5BE4F0ED9"
+					"size"		"CF2200B54FDFE0A5F53CB54EA5D6784D"
+					"download"		"81425C2E8DC5EDCC9F617A8D4050A2B8"
+				}
+				"test"
+				{
+					"gid"		"F6E8961075899E7E29AC1CC1B22C1804"
+					"size"		"CBBA92F5734767F79A36016521CAC836"
+					"download"		"76CFB574DA0BE5D27F135C3E775C0FD1"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,portuguese,polish,hungarian,brazilian"
+		"workshopdepot"		"355180"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11501519"
+				"timeupdated"		"1687129423"
+			}
+			"development"
+			{
+				"buildid"		"11501519"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687129411"
+			}
+			"graveyard"
+			{
+				"buildid"		"1242101"
+				"pwdrequired"		"1"
+				"timeupdated"		"1470830519"
+			}
+			"legacy"
+			{
+				"buildid"		"1154641"
+				"description"		"oldest relevant version of game"
+				"timeupdated"		"1487881923"
+			}
+			"test"
+			{
+				"buildid"		"549350"
+				"pwdrequired"		"1"
+				"timeupdated"		"1556878913"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
