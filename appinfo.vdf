@@ -1,0 +1,166 @@
+"appinfo"
+{
+	"appid"		"1217980"
+	"common"
+	{
+		"name"		"Vengeance Demo"
+		"type"		"Demo"
+		"parent"		"384960"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"5bf34dd704e65dbeecf6f40263fa2283279e4fd9"
+		"clienticon"		"2f1b390d3ebc83838ca148839f4b873c2862deee"
+		"icon"		"ec87eb8d966715f18ce5f4130829dda082950762"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Vengeance Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"87.84104389086595"
+				"height_pct"		"41.51756129887343"
+			}
+		}
+		"store_asset_mtime"		"1587412487"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"314 Arts"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"314 Arts"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Vengeance"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1589056195"
+		"gameid"		"1217980"
+	}
+	"extended"
+	{
+		"demoofappid"		"384960"
+		"developer"		"314 Arts"
+		"publisher"		"314 Arts"
+		"homepage"		"http://314arts.com/"
+	}
+	"config"
+	{
+		"installdir"		"Vengeance Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Vengeance Reboot.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"Vengeance.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1217981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"265201868270611422"
+					"size"		"8651438047"
+					"download"		"3469496272"
+				}
+			}
+		}
+		"1217982"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7520835479172576180"
+					"size"		"8653750555"
+					"download"		"3460790016"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9007441"
+				"timeupdated"		"1656189479"
+			}
+		}
+	}
+}
