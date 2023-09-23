@@ -1,0 +1,219 @@
+"appinfo"
+{
+	"appid"		"982250"
+	"common"
+	{
+		"name"		"Spoils of Plunder"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"681030ae0d742d8b2988252cd2a814b0163a81b4"
+		"logo_small"		"681030ae0d742d8b2988252cd2a814b0163a81b4_thumb"
+		"icon"		"e1a416d46d199b7ae14989afbae06464c3a49700"
+		"clienticon"		"86b6b03cf5690e1b9234a7d962e752b31108c246"
+		"clienttga"		"76304f26a89c72bf737a6cca893dbd69c0a7f589"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"982250_eula_0"
+				"name"		"Spoils of Plunder EULA"
+				"url"		"https://store.steampowered.com//eula/982250_eula_0"
+			}
+		}
+		"metacritic_name"		"Spoils of Plunder"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1612988854"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dapper Grim Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dapper Grim Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630417320"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"982250"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"21"
+			"3"		"122"
+			"4"		"4231"
+			"5"		"1775"
+			"6"		"176981"
+			"7"		"1685"
+			"8"		"1773"
+			"9"		"1698"
+			"10"		"1646"
+			"11"		"5851"
+			"12"		"4252"
+			"13"		"4342"
+			"14"		"4604"
+			"15"		"9541"
+			"16"		"1684"
+			"17"		"4191"
+			"18"		"4057"
+			"19"		"4172"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Dapper Grim Studios"
+		"publisher"		"Dapper Grim Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Spoils of Plunder"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SOP.exe"
+				"description"		"Normal Launch"
+				"type"		"default"
+				"config"
+				{
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"982251"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"665070755789922737"
+					"size"		"15248215157"
+					"download"		"7023907920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"17A039EA2828C97BDDA26E7403303DBA"
+					"size"		"78606BC16A17A68529A1D34D61D13A23"
+					"download"		"714D41FBC9F4F7F1BBBE638D2ADC33ED"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7157029"
+				"timeupdated"		"1630417394"
+			}
+			"test"
+			{
+				"buildid"		"7157029"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630417448"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"SOP/Saved/"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+		}
+	}
+}
