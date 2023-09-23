@@ -1,0 +1,267 @@
+"appinfo"
+{
+	"appid"		"562010"
+	"common"
+	{
+		"name"		"Tanki Online"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticns"		"3b32275a6d1c8bdab7d17b57079b5b8cef10ba1d"
+		"clienttga"		"a0053860b7f22c7a0e0395fcf9143e7085af7238"
+		"clienticon"		"617f05310a07247eb821ccba42e3d20bd6cd8620"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"562010_eula_0"
+				"name"		"Tanki Online EULA"
+				"url"		"http://store.steampowered.com//eula/562010_eula_0"
+			}
+		}
+		"logo"		"d051f8fcefc946ed71b3607bf5a33b3440202a29"
+		"logo_small"		"d051f8fcefc946ed71b3607bf5a33b3440202a29_thumb"
+		"icon"		"7ef68f224b9c0cb26c90215f4a81be7df7077834"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1670457600"
+			"tested_build_id"		"7221572"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Tanki Online"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1694090719"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alternativa Game Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"APL Publishing Ltd."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1488454985"
+		"community_hub_visible"		"1"
+		"gameid"		"562010"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"13276"
+			"2"		"19"
+			"3"		"3859"
+			"4"		"128"
+			"5"		"1774"
+			"6"		"9"
+			"7"		"1775"
+			"8"		"1678"
+			"9"		"4345"
+			"10"		"3843"
+			"11"		"5711"
+			"12"		"1663"
+			"13"		"1662"
+			"14"		"5055"
+			"15"		"4166"
+			"16"		"1742"
+			"17"		"3810"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"developer"		"Alternativa Game Ltd."
+		"publisher"		"APL Publishing Ltd."
+		"homepage"		"http://tankionline.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"640070"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tanki Online"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tanki Online.app"
+				"workingdir"		"Tanki Online"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"Tanki Online.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"562011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4802870372492733886"
+					"size"		"178366055"
+					"download"		"67572480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"A16CB6646045A94CC2F02C6C2B8BA839"
+					"size"		"AB36A2F4779A905D4508C13690857714"
+					"download"		"6F21B7CA2026193E49A409667A86DB2C"
+				}
+			}
+		}
+		"562012"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5288804608567056243"
+					"size"		"40416177"
+					"download"		"12898224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"D183145423160133DEA493641FB9A878"
+					"size"		"908884AD4324F86AD037A3468CA2B51A"
+					"download"		"EE7F302CAD5B108AF0D3F679E9C4CDC3"
+				}
+			}
+		}
+		"640070"
+		{
+			"dlcappid"		"640070"
+			"config"
+			{
+				"optionaldlc"		"640070"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7221572"
+				"timeupdated"		"1629452770"
+			}
+			"develop"
+			{
+				"buildid"		"7221572"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629450735"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+}
