@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"1372770"
+	"common"
+	{
+		"name"		"Wildfire Demo"
+		"type"		"Demo"
+		"parent"		"431940"
+		"releasestate"		"released"
+		"clienticon"		"a6a34b8db5c7337dfb81c6baa2a6415addda7e36"
+		"clienttga"		"5c8c17f629911f940170ca17249bbe700ef48396"
+		"icon"		"0a7740ae8497c9d3667a8ccde949defc923d16bc"
+		"metacritic_name"		"Wildfire"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1599758062"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sneaky Bastards"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Humble Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1599758164"
+		"metacritic_score"		"79"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/wildfire?ftag=MCD-06-10aaa1f"
+		"gameid"		"1372770"
+	}
+	"extended"
+	{
+		"demoofappid"		"431940"
+		"developer"		"Sneaky Bastards"
+		"publisher"		"Humble Games"
+		"homepage"		"http://www.wildfire-game.com"
+	}
+	"config"
+	{
+		"installdir"		"Wildfire Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wildfire_Demo.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1372771"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9191655965057531919"
+					"size"		"330492047"
+					"download"		"234751872"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5500958"
+				"timeupdated"		"1599187143"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"25"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Wildfire_Demo"
+				"pattern"		"*.ini"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
