@@ -1,0 +1,234 @@
+"appinfo"
+{
+	"appid"		"1905950"
+	"common"
+	{
+		"name"		"Shelter 69"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"5f688efb7fbbf37cec2853b382e7bd296b821994"
+		"clienticon"		"9c5f451df9ccc4799d4ff63c0eb2f7fe47ebf3fd"
+		"clienttga"		"390217fb5037074480783f7f240393a01deccb3a"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664582400"
+			"tested_build_id"		"9235882"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"82.74231678486996"
+				"height_pct"		"90.76331017560156"
+			}
+		}
+		"store_asset_mtime"		"1692782073"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"JNT Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JNT Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"3"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1652717042"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1905950"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"12095"
+			"2"		"1643"
+			"3"		"12472"
+			"4"		"4182"
+			"5"		"3835"
+			"6"		"4085"
+			"7"		"9551"
+			"8"		"6650"
+			"9"		"4947"
+			"10"		"7332"
+			"11"		"17305"
+			"12"		"220585"
+			"13"		"4747"
+			"14"		"3871"
+			"15"		"4726"
+			"16"		"16689"
+			"17"		"916648"
+			"18"		"599"
+			"19"		"597"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"developer"		"JNT Games"
+		"publisher"		"JNT Games"
+		"homepage"		"https://shelter69.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Shelter 69"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Shelter69.exe"
+				"arguments"		"-dupacyce"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1905951"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7935576774240367820"
+					"size"		"536680715"
+					"download"		"165126448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"05805ADAA5FE700959EACFC0050A0E8F"
+					"size"		"A4862F6B31FF90FA5410509E05498BD7"
+					"download"		"923D6CD8859B411215C456E4B66CB676"
+				}
+			}
+		}
+		"1996190"
+		{
+			"dlcappid"		"1996190"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12223580"
+				"timeupdated"		"1695118185"
+			}
+			"development"
+			{
+				"buildid"		"12258384"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695397474"
+			}
+		}
+	}
+}
