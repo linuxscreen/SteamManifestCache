@@ -1,0 +1,484 @@
+"appinfo"
+{
+	"appid"		"390560"
+	"common"
+	{
+		"name"		"Fantasy Strike"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"logo"		"93ff4d4bfd13dde52ac0b3fd8d10869479dca0d7"
+		"logo_small"		"93ff4d4bfd13dde52ac0b3fd8d10869479dca0d7_thumb"
+		"clienticon"		"45985462349219ca30562efc3c0b6a9c70e173e2"
+		"clienttga"		"91a5a48a997894f0778836e386d7e610d405e49e"
+		"icon"		"087b241707e844dbfb4c440cdf85f3686bbe06c1"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"metacritic_name"		"Fantasy Strike"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"49.99999999999997"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667337611"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sirlin Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sirlin Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_28"		"1"
+			"category_24"		"1"
+			"category_29"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_43"		"1"
+			"category_44"		"1"
+			"category_13"		"1"
+			"category_35"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1564038180"
+		"community_hub_visible"		"1"
+		"gameid"		"390560"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4736"
+			"2"		"1743"
+			"3"		"3878"
+			"4"		"3859"
+			"5"		"492"
+			"6"		"1775"
+			"7"		"597"
+			"8"		"7368"
+			"9"		"4182"
+			"10"		"4252"
+			"11"		"4305"
+			"12"		"4085"
+			"13"		"1773"
+			"14"		"1684"
+			"15"		"6915"
+			"16"		"7481"
+			"17"		"19"
+			"18"		"4191"
+			"19"		"1734"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"developer"		"Sirlin Games"
+		"publisher"		"Sirlin Games"
+		"homepage"		"http://www.fantasystrike.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"640040,1221900,1222760"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Fantasy Strike"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FS_Win64.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"FS_Mac.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"FS_Linux.bin"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"390561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8398627731118258097"
+					"size"		"5384315905"
+					"download"		"4276963760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"28FF57DF90996A20F0DAC4273CFC270E"
+					"size"		"C52E83F27ECFE2CBCA8352E4CE677E4B"
+					"download"		"F31AB4329C7FBC5FF772433B8CB9F70B"
+				}
+				"lc_dev"
+				{
+					"gid"		"AA66AEB2A23B6D98AF54480A1997644F"
+					"size"		"1B45BB4326579E0D03DC4B80A758EBD5"
+					"download"		"44A0E3A3469A2554F84D21CEDF5E99AE"
+				}
+				"prerelease"
+				{
+					"gid"		"BE1D946B63E08F487A496EA6B3E3F66F"
+					"size"		"DAB373D530BC4C318410FFB17EDD81E7"
+					"download"		"E73D99DB39C2ADEA6076D5F80251CC77"
+				}
+				"wildwest"
+				{
+					"gid"		"2DCC66158ADB794B1BDA902782D39A08"
+					"size"		"FA21B67826171354225E1415366FF179"
+					"download"		"296D5F2E0349540EC2900EFC36575181"
+				}
+			}
+		}
+		"390563"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5673711140513514066"
+					"size"		"5394548448"
+					"download"		"4276888192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"46BD0F708F7C4C6B8843CD8B8A7D621B"
+					"size"		"ABA89E7C59327FDD34B77DD077C57C65"
+					"download"		"DD354B306C3771D08DC2795FB422C0F3"
+				}
+				"lc_dev"
+				{
+					"gid"		"10967A565B22C63347BB653D1044F932"
+					"size"		"9166E061EBCEB45BA16F2AC161BE517C"
+					"download"		"97AC7695082BFC5D4160A3A226C64D47"
+				}
+				"prerelease"
+				{
+					"gid"		"417A6CDC4C9AB1FAA95585B1B610852D"
+					"size"		"515F8FF800DCC09B7587E8291A0D4171"
+					"download"		"F4D2CC4488A26D19A5000BF1F7516575"
+				}
+				"wildwest"
+				{
+					"gid"		"A8E62A4C6C03A44BC7048EF70E5A91B7"
+					"size"		"99939633374EE4B333326C5A558EF336"
+					"download"		"1F2C8C0A42325AFF1A3761DBC55A904F"
+				}
+			}
+		}
+		"640040"
+		{
+			"dlcappid"		"640040"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1801722535421905224"
+					"size"		"413444918"
+					"download"		"414720400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"A698A5C4A164DCE370B239D8ACDD9BFF"
+					"size"		"3E3F5172D7C186E3CBA8359DCC5BB0DD"
+					"download"		"6EF6412E4690D06367C96BFC7B98C088"
+				}
+				"lc_dev"
+				{
+					"gid"		"283833F16B69F70624402C3FA5C82CD0"
+					"size"		"2EC8C43864A1EEE744A9A08B0A7F9859"
+					"download"		"BEA21C4D766728D4A99B95AD78C4E1E6"
+				}
+				"prerelease"
+				{
+					"gid"		"003B1CC902284F1890B571983A8A5CF6"
+					"size"		"EF9C95CE59CC7599FDC79E34E6495B04"
+					"download"		"C200FCE5D6A755A2F7C0D16875E20189"
+				}
+				"wildwest"
+				{
+					"gid"		"ACA64D00C0E2A8F8E1783C91ECC125DD"
+					"size"		"5816838347B4475FF13164BA2446109E"
+					"download"		"879506C036DB860F839F4C808A7A3DF6"
+				}
+			}
+		}
+		"390564"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2298710275900309454"
+					"size"		"4265695589"
+					"download"		"3096781040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"2EE626C09DB6647907AB1D0F96699B5C"
+					"size"		"D54DDB056F42E1EF06B3D21ABF10439D"
+					"download"		"46E1DEAF0F620A7F36CB9760FBDBE95A"
+				}
+				"lc_dev"
+				{
+					"gid"		"2939472F90793D0A7E15B6EDFFA269FD"
+					"size"		"5BE39E392FC61C025B15EC5E071C1297"
+					"download"		"A7F72FAB82A60DF491427E1F2E69CD3E"
+				}
+				"prerelease"
+				{
+					"gid"		"A4F664E5B33A22A178AF79268FF3E727"
+					"size"		"4DE09BA8780F04F9EB59701BF1066BB6"
+					"download"		"6B5A4D20FED03B79EA6C7E4FEEBCC655"
+				}
+				"wildwest"
+				{
+					"gid"		"5D59D844BCFBF80B45593453BCD1D838"
+					"size"		"DF914B516E37FD2B11E3EB7E89FB75B5"
+					"download"		"4785D8B4ABB8814303616D8FAED1A687"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7433292"
+				"timeupdated"		"1632771741"
+			}
+			"development"
+			{
+				"buildid"		"7433292"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632771486"
+			}
+			"lc_dev"
+			{
+				"buildid"		"4021058"
+				"pwdrequired"		"1"
+				"timeupdated"		"1564005496"
+			}
+			"prerelease"
+			{
+				"buildid"		"5317398"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595447377"
+			}
+			"wildwest"
+			{
+				"buildid"		"6843188"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623289064"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#offline"		"Offline"
+					"#presence_in_menus"		"In menus"
+					"#playing_fantasy_strike"		"Playing Fantasy Strike"
+					"#presence_local_versus"		"Playing local versus"
+					"#presence_casual_online"		"In casual play online"
+					"#presence_ranked_online"		"In ranked play online"
+					"#presence_friend_match_online"		"Playing a friend online"
+					"#presence_tutorial"		"In the tutorial"
+					"#presence_survival"		"Playing survival mode"
+					"#presence_daily_challenge"		"Playing daily challenge"
+					"#presence_arcade"		"Playing arcade mode"
+					"#presence_practice"		"In practice mode"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#offline"		"Hors ligne"
+					"#presence_in_menus"		"À l'écran principal"
+					"#playing_fantasy_strike"		"Joue à Fantasy Strike"
+					"#presence_local_versus"		"En versus local"
+					"#presence_casual_online"		"En match rapide en ligne"
+					"#presence_ranked_online"		"En match de compétition en ligne"
+					"#presence_friend_match_online"		"En match contre un ami en ligne"
+					"#presence_tutorial"		"Dans le tutoriel"
+					"#presence_survival"		"En match de survie"
+					"#presence_daily_challenge"		"En défi quotidien"
+					"#presence_arcade"		"En mode arcade"
+					"#presence_practice"		"En mode d'entraînement"
+				}
+			}
+			"japanese"
+			{
+				"tokens"
+				{
+					"#offline"		"オフライン"
+					"#presence_in_menus"		"メニュー内"
+					"#playing_fantasy_strike"		"Fantasy Strikeをプレイ中"
+					"#presence_local_versus"		"ローカル対戦中"
+					"#presence_casual_online"		"カジュアルマッチ中"
+					"#presence_ranked_online"		"ランクマッチ中"
+					"#presence_friend_match_online"		"フレンドマッチ中"
+					"#presence_tutorial"		"チュートリアル中"
+					"#presence_survival"		"サバイバル中"
+					"#presence_daily_challenge"		"デイリーチャレンジ中"
+					"#presence_arcade"		"アーケードモード中"
+					"#presence_practice"		"トレーニングモード中"
+				}
+			}
+		}
+	}
+}
