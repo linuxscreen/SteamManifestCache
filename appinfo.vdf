@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"1678210"
+	"common"
+	{
+		"name"		"Parasight Demo"
+		"type"		"Demo"
+		"parent"		"1676970"
+		"releasestate"		"released"
+		"clienticon"		"21c8035c5a9de6d5128735c73039948665a80f7f"
+		"clienttga"		"6963fa6eb4705dcf0010fb870ca20bcd9cd1195b"
+		"icon"		"b1271f93d1dcda1deb5859e39148dfa5026ea59d"
+		"linuxclienticon"		"21c8035c5a9de6d5128735c73039948665a80f7f"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1632081379"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ManyDevStudio"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Salemir Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"ManyDev Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626781822"
+		"gameid"		"1678210"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1676970"
+		"developer"		"ManyDevStudio"
+		"publisher"		"ManyDev Studio"
+	}
+	"config"
+	{
+		"installdir"		"Parasight"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Parasight.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Parasight.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Parasight"
+				"workingdir"		"MacOS"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1678211"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6287834770861317319"
+					"size"		"156666380"
+					"download"		"34317856"
+				}
+			}
+		}
+		"1678212"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8085052519768948761"
+					"size"		"156055088"
+					"download"		"34097680"
+				}
+			}
+		}
+		"1678213"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7811618014972995590"
+					"size"		"166209841"
+					"download"		"35555152"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7566807"
+				"timeupdated"		"1634731634"
+			}
+		}
+	}
+}
