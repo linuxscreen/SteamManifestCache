@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"2378710"
+	"common"
+	{
+		"name"		"How 2 Escape - Companion App"
+		"type"		"Demo"
+		"parent"		"2264140"
+		"releasestate"		"released"
+		"icon"		"7ea9197f37825e72bf89440210d1c9c5d3ed2b35"
+		"clienttga"		"a7049d9557be13685a673aa27d22aab8b53b91aa"
+		"clienticon"		"ace254a7a45c70234903715bf92352d477e62389"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1680780246"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Breakfirst Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Just For Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"How 2 Escape"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682344747"
+		"gameid"		"2378710"
+	}
+	"extended"
+	{
+		"demoofappid"		"2264140"
+		"developer"		"Breakfirst Games"
+		"publisher"		"Just For Games"
+	}
+	"config"
+	{
+		"installdir"		"How 2 Escape Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"How 2 Escape - Companion App.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2378711"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6019568471663993709"
+					"size"		"455777318"
+					"download"		"308459728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"app_pc"
+				{
+					"gid"		"2DCB3FE86DDF535E991C59CD4757EBCB"
+					"size"		"C98A9DE637EAC563CE83115F6D9B4527"
+					"download"		"DE4D9E70BC67796930682177FD871969"
+				}
+				"demo_test"
+				{
+					"gid"		"778A1E6C820B2644506907BDD4D4CC44"
+					"size"		"BA6DBFC114D405052A2729D96CB596C9"
+					"download"		"BE6FF3A9A2D18DF4C87F76DCF558EC93"
+				}
+				"preview"
+				{
+					"gid"		"2795C234076C56DC6F47E74CDE3D246A"
+					"size"		"64BAAD4E8AD55642DA82027BA4893551"
+					"download"		"2A161BCBA5858E8DB8FE1133493CA8F3"
+				}
+				"test"
+				{
+					"gid"		"D1CEFFAD4A022853F5538F1161F7E6B0"
+					"size"		"C623896FC4E91ABB19AF337B495BB54B"
+					"download"		"82CBA363A85A9EC72C8955B152477A08"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12087942"
+				"timeupdated"		"1693565557"
+			}
+			"app_pc"
+			{
+				"buildid"		"12086597"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693556279"
+			}
+			"demo_test"
+			{
+				"buildid"		"11641165"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688656651"
+			}
+			"preview"
+			{
+				"buildid"		"11465790"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686731306"
+			}
+			"test"
+			{
+				"buildid"		"11792864"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690381172"
+			}
+		}
+	}
+}
