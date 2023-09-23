@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"213870"
+	"common"
+	{
+		"name"		"Magic 2014 Demo"
+		"type"		"Demo"
+		"clienticon"		"b6ed37a4cd0aec2ac52684adc7c640becbf6f453"
+		"clienttga"		"0afa9be90e64e10aea2bbb3623f49f3ecb900367"
+		"icon"		"350d7326abee67845350521cbd5ed9b6fb81337f"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"parent"		"213850"
+		"metacritic_name"		"Duels of the Planeswalkers 2014 Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1369415640"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Stainless Games"
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1372266000"
+		"community_visible_stats"		"1"
+		"gameid"		"213870"
+		"review_score"		"7"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Stainless Games"
+		"gamedir"		"ValveTestApp213870"
+		"demoofappid"		"213850"
+		"homepage"		"http://www.wizards.com/Magic"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"onquitdemoshellexecute"		"steam://store/214340"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"./DotP_D14.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Magic 2014 Demo"
+	}
+	"depots"
+	{
+		"preloadonly"		"1"
+		"213871"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1780243370341261498"
+					"size"		"990727508"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"homonculus"
+				{
+					"gid"		"B987732CECEDE90D97956475E0BC75AF"
+					"size"		"7B17DB61E23AB2A2D362560A6B76A5EF"
+					"download"		"417060032371E6DD5429D387A96FA2E5"
+				}
+				"trial_beta"
+				{
+					"gid"		"9DC3DDB25599DCAB74F158A80CED7AC4"
+					"size"		"DD0063AB216FB4C289B2B74B37910165"
+					"download"		"716D32810198347B0CF6F022F7E27CDE"
+				}
+				"trial_beta_2"
+				{
+					"gid"		"F152FF8295F07F5FA8CFBA9AA7B60A14"
+					"size"		"006F18CA3F893D42804772A117CC181C"
+					"download"		"C5EFC96FE3FF926AECA09DBC0F67B633"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,russian,japanese,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"78489"
+			}
+			"homonculus"
+			{
+				"buildid"		"78489"
+				"pwdrequired"		"1"
+			}
+			"trial_beta"
+			{
+				"buildid"		"98013"
+				"pwdrequired"		"1"
+			}
+			"trial_beta_2"
+			{
+				"buildid"		"107750"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
