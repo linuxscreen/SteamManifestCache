@@ -1,0 +1,126 @@
+"appinfo"
+{
+	"appid"		"2402370"
+	"common"
+	{
+		"name"		"Paint Over Demo"
+		"type"		"Demo"
+		"parent"		"2339590"
+		"releasestate"		"released"
+		"icon"		"06adf7b5311284ee64aca8e239ec1e589382b484"
+		"clienticon"		"fcb8c0b5485c5cb6681689891e2c7389917b97bb"
+		"clienttga"		"3b502c2bb7190d32ba9e7ff7190b32d437959196"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.453908984830804"
+				"height_pct"		"74.16290667299928"
+			}
+		}
+		"store_asset_mtime"		"1682854182"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sheraf Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sheraf Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1682351841"
+		"gameid"		"2402370"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2339590"
+		"developer"		"Sheraf Games"
+		"publisher"		"Sheraf Games"
+	}
+	"config"
+	{
+		"installdir"		"Paint Over Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PaintOver.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2402371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4316632375395586562"
+					"size"		"2138778877"
+					"download"		"2009873552"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11551764"
+				"timeupdated"		"1687628750"
+			}
+		}
+	}
+}
