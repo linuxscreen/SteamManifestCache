@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"1707730"
+	"common"
+	{
+		"name"		"Blood for Poppies Demo"
+		"type"		"Demo"
+		"parent"		"1707720"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"clienticon"		"345a2e7555a7c93ece6a7cfe15bec75dc87bd793"
+		"clienttga"		"ff7d9963bcf88ab31f611f8de76840b2bf6eee6a"
+		"icon"		"b087849112b81269734408268f6a9a31e99964b8"
+		"clienticns"		"696a095a6876a284d4518a43748bf2b1f67eb32c"
+		"linuxclienticon"		"1b7db1918cb796166847f1f561643bde6285f2de"
+		"logo"		"1a8d37c463112d4dc62b9ecf4bcfa7343bb49da9"
+		"logo_small"		"1a8d37c463112d4dc62b9ecf4bcfa7343bb49da9_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"69.30232558139534"
+				"height_pct"		"86.47589646164809"
+			}
+		}
+		"store_asset_mtime"		"1627337233"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hosted Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hosted Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629382071"
+		"gameid"		"1707730"
+	}
+	"extended"
+	{
+		"demoofappid"		"1707720"
+		"developer"		"Hosted Games"
+		"publisher"		"Hosted Games"
+		"homepage"		"https://www.choiceofgames.com"
+	}
+	"config"
+	{
+		"installdir"		"Blood for Poppies Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blood For Poppies.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Blood for Poppies.app/Contents/MacOS/Blood for Poppies"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Blood For Poppies"
+				"arguments"		"--no-sandbox"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2951004733"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"1707731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"854731370790958496"
+					"size"		"238115239"
+					"download"		"80154592"
+				}
+			}
+		}
+		"1707732"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1118144618858943896"
+					"size"		"8285520"
+					"download"		"4448288"
+				}
+			}
+		}
+		"1707733"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"608644609865233451"
+					"size"		"240718560"
+					"download"		"74821232"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10934447"
+				"timeupdated"		"1680678514"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10000"
+		"appidredirect"		"1707720"
+	}
+}
