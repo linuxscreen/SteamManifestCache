@@ -1,0 +1,145 @@
+"appinfo"
+{
+	"appid"		"1413060"
+	"common"
+	{
+		"name"		"Chiaroscuro Demo"
+		"type"		"Demo"
+		"parent"		"1411260"
+		"releasestate"		"released"
+		"clienttga"		"516c0ba2123614bbfa1c64fb5b33ed89c50458be"
+		"clienticon"		"e77b428ee4828c8ad1da3b75d55e3b84ebe03b87"
+		"icon"		"8b23e0957c5554acf77bfb4ee670857416f7d37d"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1598945770"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BlackberryKin"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BlackberryKin"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1599065623"
+		"gameid"		"1413060"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1411260"
+		"developer"		"BlackberryKin"
+		"publisher"		"BlackberryKin"
+	}
+	"config"
+	{
+		"installdir"		"Chiaroscuro Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Chiaroscuro.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Chiaroscuro.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1413061"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8664094391651386848"
+					"size"		"875722300"
+					"download"		"587335408"
+				}
+			}
+		}
+		"1413062"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1028068786449140992"
+					"size"		"536983771"
+					"download"		"400324928"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11951457"
+				"timeupdated"		"1692158229"
+			}
+		}
+	}
+}
