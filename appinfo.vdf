@@ -1,0 +1,151 @@
+"appinfo"
+{
+	"appid"		"2343530"
+	"common"
+	{
+		"name"		"Iniquity Survivors Demo"
+		"type"		"Demo"
+		"parent"		"2154830"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"5e8853deb8faf6d521bb924151eb21315e61e890"
+		"clienticon"		"db366a90eb5e6156cb7372ef5ec82b452abcaa67"
+		"clienttga"		"01f9dad4f986f7b139190a08dc2fc74b78694806"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+		}
+		"store_asset_mtime"		"1678121319"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rivenous Studio"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Peer Reymer"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Rivenous Studio"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Iniquity"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_48"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1677923513"
+		"gameid"		"2343530"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2154830"
+		"developer"		"Rivenous Studio"
+		"publisher"		"Rivenous Studio"
+		"homepage"		"https://iniquity.rivenousstudio.com/"
+	}
+	"config"
+	{
+		"installdir"		"Iniquity"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Iniquity.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Iniquity Survivors Demo"
+				}
+				"description"		"Play Iniquity Survivors Demo"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2343531"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3045849212717209511"
+					"size"		"4333471192"
+					"download"		"4203130576"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11069921"
+				"timeupdated"		"1682240185"
+			}
+		}
+	}
+}
