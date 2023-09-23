@@ -1,0 +1,219 @@
+"appinfo"
+{
+	"appid"		"1739790"
+	"common"
+	{
+		"name"		"Alina of the Arena Demo"
+		"type"		"Demo"
+		"parent"		"1668690"
+		"name_localized"
+		{
+			"tchinese"		"鬥技場的阿利娜 Demo"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"logo"		"6a668affafeaf5f1834a7aebabb2f477d374a35c"
+		"logo_small"		"6a668affafeaf5f1834a7aebabb2f477d374a35c_thumb"
+		"icon"		"c44e2a31a907a475676609ff1f95785a207eb88c"
+		"clienticon"		"d7de106475e348061410faf62367bc20acc5604b"
+		"clienttga"		"df07a957eb762cffaaff8973b6ab6be8e91bdbb7"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1633264796"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PINIX"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PINIX"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"IndieArk"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1632240215"
+		"gameid"		"1739790"
+	}
+	"extended"
+	{
+		"demoofappid"		"1668690"
+		"developer"		"PINIX"
+		"publisher"		"PINIX"
+		"homepage"		"http://www.pinixgames.com/"
+	}
+	"config"
+	{
+		"installdir"		"Alina of the Arena Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Alina of the Arena Demo.app/Contents/MacOS/Alina of the Arena"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"Alina of the Arena Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2930581020"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,beta,developer"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,tchinese"
+		"1739791"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"313240390891747473"
+					"size"		"304313722"
+					"download"		"152818064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"1E0A53E5FD580FC033C801C81DC76293"
+					"size"		"D7B90D68BFFCB48203EF2F10887D1AD8"
+					"download"		"DBAC5B7193DBD6E658047602D88A7183"
+				}
+				"developer"
+				{
+					"gid"		"B2E4A5E9871876302ACBE1CBC3BE43C7"
+					"size"		"572DE33266DDD8CEFA2D6DE7A6642221"
+					"download"		"A5AF52C349AE43B27AE6B587842FD875"
+				}
+			}
+		}
+		"1739792"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1102583087514919697"
+					"size"		"283537991"
+					"download"		"147115200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"145C1139C282027F254298D7DC3A1D42"
+					"size"		"F16C5F43713AD79B7DF3ABA606FEFFBA"
+					"download"		"FE5DCDB8FEDF9B2381A12CE2229867CE"
+				}
+				"developer"
+				{
+					"gid"		"306E46E0AC2E680BE20EE4F62CD83201"
+					"size"		"86BF4BF86C603C645B0CA9571E698D7B"
+					"download"		"E0478770155A26966C8711997E26FC27"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10503667"
+				"timeupdated"		"1676086775"
+			}
+			"beta"
+			{
+				"buildid"		"10503667"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675911795"
+			}
+			"developer"
+			{
+				"buildid"		"10503667"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675843460"
+			}
+		}
+	}
+}
