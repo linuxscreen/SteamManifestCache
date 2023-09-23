@@ -1,0 +1,216 @@
+"appinfo"
+{
+	"appid"		"2161470"
+	"common"
+	{
+		"name"		"Wandering Sword Demo"
+		"type"		"Demo"
+		"parent"		"1876890"
+		"name_localized"
+		{
+			"schinese"		"逸剑风云决 试玩版"
+			"tchinese"		"逸劍風雲決 體驗版"
+			"english"		"Wandering Sword Demo"
+			"german"		"Wandering Sword Demo"
+			"french"		"Wandering Sword Demo"
+			"italian"		"Wandering Sword Demo"
+			"koreana"		"Wandering Sword Demo"
+			"spanish"		"Wandering Sword Demo"
+			"russian"		"Wandering Sword Demo"
+			"thai"		"Wandering Sword Demo"
+			"japanese"		"Wandering Sword Demo"
+			"portuguese"		"Wandering Sword Demo"
+			"polish"		"Wandering Sword Demo"
+			"danish"		"Wandering Sword Demo"
+			"dutch"		"Wandering Sword Demo"
+			"finnish"		"Wandering Sword Demo"
+			"norwegian"		"Wandering Sword Demo"
+			"swedish"		"Wandering Sword Demo"
+			"hungarian"		"Wandering Sword Demo"
+			"czech"		"Wandering Sword Demo"
+			"romanian"		"Wandering Sword Demo"
+			"turkish"		"Wandering Sword Demo"
+			"arabic"		"Wandering Sword Demo"
+			"brazilian"		"Wandering Sword Demo"
+			"bulgarian"		"Wandering Sword Demo"
+			"greek"		"Wandering Sword Demo"
+			"ukrainian"		"Wandering Sword Demo"
+			"latam"		"Wandering Sword Demo"
+			"vietnamese"		"Wandering Sword Demo"
+		}
+		"icon"		"318eb3cdfd94d32e5457c37ec2f093cdb52b30ba"
+		"clienttga"		"e8ec2053bda180835cd997fd235eb9171d6ead8a"
+		"clienticon"		"735338ed7291d9bf73c57732e73bcdb6da9e3354"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"store_asset_mtime"		"1675237882"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Swordman Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Swordman Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1675668600"
+		"gameid"		"2161470"
+	}
+	"extended"
+	{
+		"demoofappid"		"1876890"
+		"developer"		"The Swordman Studio"
+		"publisher"		"The Swordman Studio"
+	}
+	"config"
+	{
+		"installdir"		"Wandering Sword Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"JH.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2161471"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8225909971227961156"
+					"size"		"1928893407"
+					"download"		"1674488768"
+				}
+				"demo_bugfix"
+				{
+					"gid"		"2806624952576147043"
+					"size"		"1928894431"
+					"download"		"1674489536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demobeta"
+				{
+					"gid"		"D73A01E66656D23F4322016FC68CB19B"
+					"size"		"00BE0BA7B40ED1739FC0EB8FE5575A1D"
+					"download"		"EA8338F073E9C5761D098A91EF32B686"
+				}
+				"demobeta_without_ga"
+				{
+					"gid"		"1F7DE16CFBD03EC6AF1A7A321A3757EF"
+					"size"		"5342D5CEBF605F99B85D5213CCFE2493"
+					"download"		"93E30E1C6217051F6F812472BA4DFA8B"
+				}
+				"developer"
+				{
+					"gid"		"AE95A06DEA8219EA8D697896F85F2E8E"
+					"size"		"78C2CD6AC0B2BBCF53DFF0A515EE0180"
+					"download"		"0A61D0EFE6605E4A53ADB512E50CCB3A"
+				}
+				"review"
+				{
+					"gid"		"E0D69D24D568AD683F02B59DC1F0ECB3"
+					"size"		"280B8D136A31BB7DAFFD057867BDA581"
+					"download"		"DDF9B85CD65656B49B8E73B64B051605"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10515570"
+				"timeupdated"		"1676022539"
+			}
+			"demo_bugfix"
+			{
+				"buildid"		"10522540"
+				"description"		"open to public"
+				"timeupdated"		"1676022529"
+			}
+			"demobeta"
+			{
+				"buildid"		"10515570"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675996806"
+			}
+			"demobeta_without_ga"
+			{
+				"buildid"		"10496373"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675771773"
+			}
+			"developer"
+			{
+				"buildid"		"10307531"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673533678"
+			}
+			"review"
+			{
+				"buildid"		"10287261"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673324169"
+			}
+		}
+	}
+}
