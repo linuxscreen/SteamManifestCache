@@ -1,0 +1,292 @@
+"appinfo"
+{
+	"appid"		"558100"
+	"common"
+	{
+		"name"		"Art of War: Red Tides"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"131f278ca317fa740fb42c26283499c1c15ccbeb"
+		"icon"		"77e014e93cb7ca692ba464b59080baaca80ef79f"
+		"logo"		"72d2fab9542be0893270ed4ff3e2cc769196a419"
+		"logo_small"		"72d2fab9542be0893270ed4ff3e2cc769196a419_thumb"
+		"metacritic_name"		"Art of War: Red Tides"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1499265684"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Game Science"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Game Science"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"73"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1482410100"
+		"community_hub_visible"		"1"
+		"gameid"		"558100"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"3859"
+			"3"		"1676"
+			"4"		"493"
+			"5"		"1678"
+			"6"		"1718"
+			"7"		"19"
+			"8"		"492"
+			"9"		"1685"
+			"10"		"4667"
+			"11"		"4182"
+			"12"		"3942"
+			"13"		"597"
+			"14"		"1775"
+			"15"		"21"
+			"16"		"1667"
+			"17"		"1659"
+			"18"		"4085"
+			"19"		"1662"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Game Science"
+		"publisher"		"Game Science"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ArtOfWar"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"gslaunchershell.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"game\\u1game.exe"
+				"workingdir"		"game\\"
+				"description"		"Select this if you encountered error 104"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,schinese"
+		"558101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2513855542238151012"
+					"size"		"1674883605"
+					"download"		"1263421504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"gs_beta"
+				{
+					"gid"		"85E3D01418096FEE1F2BF408212C5DDC"
+					"size"		"31B71A60D64EC24A4E3AADBE06CC2F66"
+					"download"		"E35537EB698435AD0BCEA4DBA0F27758"
+				}
+				"test_wenyong"
+				{
+					"gid"		"4E1B8BD90F0BF04F1FED403E901C1BFF"
+					"size"		"27FCF47491874AE1CFBBE45D83B40331"
+					"download"		"4DAA3F00ACC8B39224733BF7E0141338"
+				}
+			}
+		}
+		"558102"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2675263250819887592"
+					"size"		"45316566"
+					"download"		"19394656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"gs_beta"
+				{
+					"gid"		"B26FE7A921101ADDB92B0B0762071EC7"
+					"size"		"95082B3FE8C22066F4CBD77BA046F23B"
+					"download"		"DA4E806DD7A9F5E671110751C38E8881"
+				}
+				"test_wenyong"
+				{
+					"gid"		"E16322CD720795298483A595A8848B31"
+					"size"		"DE01949220CA711C32A6C548BE2773D7"
+					"download"		"F627C9732836BB3A6B0EDBDB832D2331"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2428670"
+				"timeupdated"		"1515669882"
+			}
+			"gs_beta"
+			{
+				"buildid"		"2428670"
+				"pwdrequired"		"1"
+				"timeupdated"		"1515660650"
+			}
+			"test_wenyong"
+			{
+				"buildid"		"1544992"
+				"pwdrequired"		"1"
+				"timeupdated"		"1483074950"
+			}
+		}
+	}
+}
