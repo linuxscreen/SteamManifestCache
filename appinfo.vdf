@@ -1,0 +1,332 @@
+"appinfo"
+{
+	"appid"		"2443760"
+	"common"
+	{
+		"name"		"Forklift Racer"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"e66f441b91e2267738772140763656bd420bc651"
+		"clienttga"		"a993d06868ee93f92d40f91959b4d282e0a83c93"
+		"icon"		"7f7251f5f8e247f31b2495f5eb2d62f184ed6fa4"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1692835200"
+			"tested_build_id"		"11930483"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"89.25067192869055"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1685025291"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Wulinshu"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Wulinshu"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"9"
+			"2"		"37"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_44"		"1"
+			"category_33"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1689627643"
+		"community_hub_visible"		"1"
+		"gameid"		"2443760"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"1773"
+			"2"		"4747"
+			"3"		"3839"
+			"4"		"1697"
+			"5"		"7481"
+			"6"		"113"
+			"7"		"4175"
+			"8"		"493"
+			"9"		"492"
+			"10"		"3968"
+			"11"		"3859"
+			"12"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"Team Wulinshu"
+		"publisher"		"Team Wulinshu"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Forklift Racer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ForkliftRacer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ForkliftRacer.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2443763"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"916701474200545630"
+					"size"		"3904095470"
+					"download"		"3797390896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"53C09833DA8080E49B7053F26EDB4B64"
+					"size"		"E737578EFD45FEAC5E8A9E6C8E85328D"
+					"download"		"7689FCCB50AC48FD6623518887829066"
+				}
+			}
+		}
+		"2443764"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3212283700781003778"
+					"size"		"3666174470"
+					"download"		"3476299920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D9DF607468A639DA3300CC234D41C2CD"
+					"size"		"FC340EB260BB88393CB7655680B4C1E7"
+					"download"		"B24B835A17DDA9A4552F9084781DE093"
+				}
+			}
+		}
+		"2443765"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12250729"
+				"timeupdated"		"1695331429"
+			}
+			"beta"
+			{
+				"buildid"		"12250729"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695331437"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ForkliftRacer/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"LinuxXdgConfigHome"
+				"path"		"ForkliftRacer/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
