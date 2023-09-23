@@ -1,0 +1,114 @@
+"appinfo"
+{
+	"appid"		"1307820"
+	"common"
+	{
+		"name"		"Say No! More Demo"
+		"type"		"Demo"
+		"parent"		"1191900"
+		"releasestate"		"released"
+		"clienticon"		"2ec6f6ee8b59b28e09f58e0e85478964fa007040"
+		"clienttga"		"386a6973ed28d8ccceaa9e6661840905a2441b41"
+		"icon"		"1a02972b3395ce5f1a180f7abba54421dbbcba33"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1602173795"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Fizbin"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Thunderful Publishing"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592329212"
+		"gameid"		"1307820"
+	}
+	"extended"
+	{
+		"demoofappid"		"1191900"
+		"developer"		"Studio Fizbin"
+		"publisher"		"Thunderful Publishing"
+		"homepage"		"http://www.saynomo.re"
+	}
+	"config"
+	{
+		"installdir"		"SayNo!MoreDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SNM.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1307821"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7679200975011343310"
+					"size"		"501735152"
+					"download"		"256288640"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5020371"
+				"timeupdated"		"1591781910"
+			}
+		}
+	}
+}
