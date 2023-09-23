@@ -1,0 +1,225 @@
+"appinfo"
+{
+	"appid"		"1214360"
+	"common"
+	{
+		"name"		"SKYE"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"9d91f443f51091ac28802decfd8244e242583ae5"
+		"logo_small"		"9d91f443f51091ac28802decfd8244e242583ae5_thumb"
+		"icon"		"fc04ab3701989f69e8630b766448182d82413a21"
+		"clienttga"		"7e0846ef6bccde0eba9254d4ad5aa5e8614e9cf1"
+		"clienticon"		"2d84d3d84b5af4f70d7a790406592fc356904fd2"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1673049600"
+			"tested_build_id"		"5297635"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"27.714573846772367"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1592512971"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DeCoded Production"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Breda University of Applied Sciences"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592514968"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1214360"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"113"
+			"2"		"699"
+			"3"		"21"
+			"4"		"15045"
+			"5"		"597"
+			"6"		"1654"
+			"7"		"3834"
+			"8"		"5411"
+			"9"		"9994"
+			"10"		"5608"
+			"11"		"493"
+			"12"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"DeCoded Production"
+		"publisher"		"Breda University of Applied Sciences"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Skye"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Seaplane.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1214361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3765986489725599860"
+					"size"		"1690643930"
+					"download"		"498953328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development-debug"
+				{
+					"gid"		"61B684D38030BA753A7ED2AB462BD961"
+					"size"		"BCEB5AC9EC4C25BE77AD80FF68FD44E2"
+					"download"		"ACFF7BEB4DE778ABAA4ED93C8607C279"
+				}
+				"development-release"
+				{
+					"gid"		"F7D884EED9A9CE687897ED22711EBBD2"
+					"size"		"FCE6F1D1D8A4F3B5B05A06BAF761AEA9"
+					"download"		"700619CE9319589E905FC57C729905BF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5297635"
+				"timeupdated"		"1594932049"
+			}
+			"development-debug"
+			{
+				"buildid"		"5542539"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600109775"
+			}
+			"development-release"
+			{
+				"buildid"		"5542406"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600107784"
+			}
+		}
+	}
+}
