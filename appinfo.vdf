@@ -1,0 +1,125 @@
+"appinfo"
+{
+	"appid"		"2152870"
+	"common"
+	{
+		"name"		"GOHOME Demo"
+		"type"		"Demo"
+		"parent"		"1334840"
+		"releasestate"		"released"
+		"icon"		"2d999df7bba7d383595422cd3f3bcab0ca940f9a"
+		"clienttga"		"0e79e71c79e3a9a5bc868d118c80a01c22c3e18a"
+		"clienticon"		"23b7e06a2eab8f3153d43d21571dfb82727d9252"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1662996796"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"市松製化"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"市松製化"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1663083512"
+		"gameid"		"2152870"
+	}
+	"extended"
+	{
+		"demoofappid"		"1334840"
+		"developer"		"市松製化"
+		"publisher"		"市松製化"
+	}
+	"config"
+	{
+		"installdir"		"GHPCdemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GHPCdemo.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2152871"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4912331570386523426"
+					"size"		"1221932226"
+					"download"		"1122825520"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9506699"
+				"timeupdated"		"1663083154"
+			}
+		}
+	}
+}
