@@ -1,0 +1,330 @@
+"appinfo"
+{
+	"appid"		"1731270"
+	"common"
+	{
+		"name"		"Global City"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"4114d9c12d0f357217e19de499a1ef009f0fd3e9"
+		"logo_small"		"4114d9c12d0f357217e19de499a1ef009f0fd3e9_thumb"
+		"icon"		"c95aade47a9a36009d3992fd404b5383c54d3cca"
+		"clienttga"		"0ae16399b61c43285a452fb6211c94ab76d4bfa5"
+		"clienticon"		"13e9a8b0f2c4671ef4ae2ed45ee1f38c828cd702"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"66.6277712952159"
+				"height_pct"		"81.53495294472583"
+			}
+		}
+		"store_asset_mtime"		"1643203351"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Red Brix Wall"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MY.GAMES"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"29"
+			"3"		"3"
+			"4"		"28"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1638283706"
+		"community_hub_visible"		"1"
+		"gameid"		"1731270"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4328"
+			"1"		"9"
+			"2"		"1643"
+			"3"		"16689"
+			"4"		"8945"
+			"5"		"599"
+			"6"		"4695"
+			"7"		"5673"
+			"8"		"1702"
+			"9"		"3859"
+			"10"		"597"
+			"11"		"12472"
+			"12"		"4364"
+			"13"		"4845"
+			"14"		"5851"
+			"15"		"4305"
+			"16"		"87918"
+			"17"		"17305"
+			"18"		"4182"
+			"19"		"6276"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"Red Brix Wall"
+		"publisher"		"MY.GAMES"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Global City"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"City.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"City64.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1731271"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1789117568696824813"
+					"size"		"360581856"
+					"download"		"340409920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_stage"
+				{
+					"gid"		"0BA8A25440F662E0B90CA2FD00B99B39"
+					"size"		"F1A17D53381DE4D1C3EDCED9FDE50C0E"
+					"download"		"DF5E9BA14B40CCFBCDA498FF7E3EAF9D"
+				}
+				"prod"
+				{
+					"gid"		"31F5256BEAB3A685DB8EE1C05D7E4795"
+					"size"		"C8D3F874515F50C44AF69AE01AC93822"
+					"download"		"8D948E4694A995480B1F1BD66B9033D8"
+				}
+				"test"
+				{
+					"gid"		"68893662D7D45A7745170CEB8B34AB07"
+					"size"		"3E8B53C25C037EA56CE53D3E968B6576"
+					"download"		"5778113A18D1BAD2BD37444764D8BF05"
+				}
+			}
+		}
+		"1731272"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3531301638096226869"
+					"size"		"10252008"
+					"download"		"3322496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_stage"
+				{
+					"gid"		"A369E81B30843442B723201AB34353BE"
+					"size"		"8078E7A36699DD39D129045498D44454"
+					"download"		"B5F3AF3A1E4382A2A128B2E26C50F757"
+				}
+				"prod"
+				{
+					"gid"		"B36F5BB2B5B6AE0203B22DA9C9F4154C"
+					"size"		"C6DF75CBBCF58315F1DBC3E1C20C39AC"
+					"download"		"C6C52E4D5CF67E39CC8948C7807A73C6"
+				}
+				"test"
+				{
+					"gid"		"349556544E76B439B299E49C63FCBE8C"
+					"size"		"2A2E6DD946FF79FF96B551C99E8CFA0C"
+					"download"		"2D85A6F33ED5E5D2358E1C30CC640237"
+				}
+			}
+		}
+		"1731273"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+		}
+		"1731274"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"1731275"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2628975689492063560"
+					"size"		"8631528"
+					"download"		"2968336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_stage"
+				{
+					"gid"		"8E5C227D3BB0466D0EE970D3F429D2AE"
+					"size"		"E67F1B8718866D11C8AB5F780E11D21E"
+					"download"		"D3F22E54C75B8160681E0F048C47BA08"
+				}
+				"prod"
+				{
+					"gid"		"063528B9149A0337CC6CA7CC095C9BD3"
+					"size"		"14FE38B8F7B0FF8E0A008C849337F229"
+					"download"		"BC7478A971193C6C7C1D5D43299E32E7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12170235"
+				"timeupdated"		"1694610875"
+			}
+			"dev_stage"
+			{
+				"buildid"		"12169689"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694528872"
+			}
+			"prod"
+			{
+				"buildid"		"12170235"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694533064"
+			}
+			"test"
+			{
+				"buildid"		"7552485"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634555929"
+			}
+		}
+	}
+}
