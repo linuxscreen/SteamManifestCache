@@ -1,0 +1,197 @@
+"appinfo"
+{
+	"appid"		"1070150"
+	"common"
+	{
+		"name"		"SLAYERS FOR HIRE"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"58e70d5dce32afedeaa1cb4f3ccd27dcfd8a49bb"
+		"logo"		"95889530079cb56249796c19af8ecc0df79ba99c"
+		"logo_small"		"95889530079cb56249796c19af8ecc0df79ba99c_thumb"
+		"clienttga"		"6b2c1d3af81f95ac284c80d6278c8a562da6fb3d"
+		"clienticon"		"01bd017e98e9286f3ef542d4584f96d7b793f4d8"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1632338592"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Meta Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Meta Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_18"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1584723540"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1070150"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"493"
+			"3"		"1743"
+			"4"		"4736"
+			"5"		"113"
+			"6"		"3878"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Meta Games"
+		"publisher"		"Meta Games"
+		"homepage"		"https://metagames.studio"
+		"isfreeapp"		"1"
+		"listofdlc"		"1721670"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SLAYERS FOR HIRE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Slayers For Hire.exe"
+				"type"		"default"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1070151"
+		{
+		}
+		"1070152"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4436034033133720242"
+					"size"		"2349195876"
+					"download"		"459141008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betaboys"
+				{
+					"gid"		"9FA4206F660AADD764387CE40C14DE16"
+					"size"		"E620013CB0B4A0777669DC66FD707BF7"
+					"download"		"06601ED40C12DCD3AB3F3742E4491D0A"
+				}
+				"superbetaboys"
+				{
+					"gid"		"8F3E4C3ADB7C6CE9A1C1CD465CFC0232"
+					"size"		"AD9B14051F01484EA96D5B2983C5998F"
+					"download"		"0942784DC494BADD79083BE213F077F8"
+				}
+				"testpatchbranch"
+				{
+					"gid"		"8363230F9DDA182CAE5CA1C133927AF6"
+					"size"		"455638B733743C1C73B92427C7322A46"
+					"download"		"40780EF787F9020176D12075215040AF"
+				}
+				"thatonepatch"
+				{
+					"gid"		"78AAABE8E3DD2BD09B2C193A8A8ADC82"
+					"size"		"66CFE71700BCEA8D440C5E1DA759DDDA"
+					"download"		"500C86CD92AC5016DA9C4F9E74AE6B07"
+				}
+			}
+		}
+		"1721670"
+		{
+			"dlcappid"		"1721670"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7542463"
+				"timeupdated"		"1634326804"
+			}
+			"betaboys"
+			{
+				"buildid"		"5444650"
+				"pwdrequired"		"1"
+				"timeupdated"		"1598047597"
+			}
+			"superbetaboys"
+			{
+				"buildid"		"7324692"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631114853"
+			}
+			"testpatchbranch"
+			{
+				"buildid"		"5581535"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600819571"
+			}
+			"thatonepatch"
+			{
+				"buildid"		"5529391"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625964855"
+			}
+		}
+	}
+}
