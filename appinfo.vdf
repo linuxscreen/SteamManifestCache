@@ -1,0 +1,332 @@
+"appinfo"
+{
+	"appid"		"1710920"
+	"common"
+	{
+		"name"		"Dwerve: Prologue"
+		"type"		"Game"
+		"logo"		"54a22cf6dfd18b9695955a99d4ea38ee4eae6c08"
+		"logo_small"		"54a22cf6dfd18b9695955a99d4ea38ee4eae6c08_thumb"
+		"icon"		"29f4258d32d68e43bbe8880bfb63f34beb78c457"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienttga"		"97d1028d764ec5f1e8159e119e91cae4fa5d41a4"
+		"clienticon"		"5bb3e3768528f89561c79df18492c3fd4b03db32"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"战匠杜沃: 序幕"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.581395348837205"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1668540963"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Half Human Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Half Human Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Electronic Sheep Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630674029"
+		"community_hub_visible"		"1"
+		"gameid"		"1710920"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4106"
+			"1"		"1645"
+			"2"		"1720"
+			"3"		"122"
+			"4"		"1742"
+			"5"		"3964"
+			"6"		"4231"
+			"7"		"21725"
+			"8"		"17305"
+			"9"		"4474"
+			"10"		"19"
+			"11"		"21"
+			"12"		"1708"
+			"13"		"9"
+			"14"		"1646"
+			"15"		"1684"
+			"16"		"3813"
+			"17"		"4026"
+			"18"		"492"
+			"19"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Half Human Games"
+		"publisher"		"Half Human Games"
+		"homepage"		"https://dwerve.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dwerve Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dwerve.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Dwerve.app/Contents/MacOS/Dwerve Prologue"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Dwerve.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,schinese,tchinese,russian,brazilian,latam"
+		"1710921"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4137019291605962639"
+					"size"		"1085836348"
+					"download"		"504910976"
+				}
+				"beta"
+				{
+					"gid"		"4137019291605962639"
+					"size"		"1085836348"
+					"download"		"504910976"
+				}
+			}
+		}
+		"1710924"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9078005484916050955"
+					"size"		"2146163427"
+					"download"		"544256016"
+				}
+				"beta"
+				{
+					"gid"		"9078005484916050955"
+					"size"		"2146163427"
+					"download"		"544256016"
+				}
+			}
+		}
+		"1710922"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6575554832998042037"
+					"size"		"1068997169"
+					"download"		"502344848"
+				}
+				"beta"
+				{
+					"gid"		"6575554832998042037"
+					"size"		"1068997169"
+					"download"		"502344848"
+				}
+			}
+		}
+		"1710923"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5708548808641923654"
+					"size"		"850060382"
+					"download"		"497949792"
+				}
+				"beta"
+				{
+					"gid"		"5708548808641923654"
+					"size"		"850060382"
+					"download"		"497949792"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9880539"
+				"timeupdated"		"1667764077"
+			}
+			"beta"
+			{
+				"buildid"		"9880539"
+				"description"		"Beta testing branch"
+				"timeupdated"		"1667763416"
+			}
+		}
+	}
+}
