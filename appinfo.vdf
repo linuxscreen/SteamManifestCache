@@ -1,0 +1,201 @@
+"appinfo"
+{
+	"appid"		"1893860"
+	"common"
+	{
+		"name"		"Three Finger Battle Arena"
+		"type"		"Game"
+		"clienttga"		"586519b24858887c9834db8278ce343342824f36"
+		"clienticon"		"963947c0537a4aa0264684ec3e43b12e6c352c85"
+		"icon"		"f64027e8554224d478c3a5511d61b55643bcdb9c"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"602ccde029204ae9b8b8286cd1e2aeaa88c6a36d"
+		"logo_small"		"602ccde029204ae9b8b8286cd1e2aeaa88c6a36d_thumb"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"63.28875143652915"
+				"height_pct"		"67.01388888888891"
+			}
+		}
+		"store_asset_mtime"		"1644559923"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Joseph Maltby"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Joseph Maltby "
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1645894560"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1893860"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"1775"
+			"3"		"3859"
+			"4"		"1625"
+			"5"		"5395"
+			"6"		"5547"
+			"7"		"1663"
+			"8"		"4191"
+			"9"		"3839"
+			"10"		"492"
+			"11"		"4305"
+			"12"		"4252"
+			"13"		"4136"
+			"14"		"1774"
+			"15"		"1662"
+			"16"		"7178"
+			"17"		"4036"
+			"18"		"113"
+			"19"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Joseph Maltby"
+		"publisher"		"Joseph Maltby "
+		"homepage"		"https://linktr.ee/ThreeFingerBattleArena"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Three Finger Battle Arena"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TFBA.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1893861"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1604413511681476984"
+					"size"		"288974220"
+					"download"		"187511920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"29B1D5D7868E2048733A9B128331675D"
+					"size"		"A85CE2210C6157EE98D05C2D0688A61B"
+					"download"		"335F1B13AB6829A9C43C89F0B7F3D711"
+				}
+				"testpublic"
+				{
+					"gid"		"305F014A28DC41D7F6910A55B70BA64A"
+					"size"		"84F2982DB66AF8D26AEFF5AF4D927F1E"
+					"download"		"19C9126AE9B5D2D3AA50FDF27EBB0041"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9975646"
+				"timeupdated"		"1668881039"
+			}
+			"test"
+			{
+				"buildid"		"9975646"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668880962"
+			}
+			"testpublic"
+			{
+				"buildid"		"8502500"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649184138"
+			}
+		}
+	}
+}
