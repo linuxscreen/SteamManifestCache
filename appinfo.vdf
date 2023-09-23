@@ -1,0 +1,487 @@
+"appinfo"
+{
+	"appid"		"214090"
+	"common"
+	{
+		"name"		"Tiny and Big: Grandpa's Leftovers Demo"
+		"type"		"Demo"
+		"clienticns"		"d376241a7e5098300cc7602e2db10f9e6e3745d5"
+		"logo"		"ca0fe3057ac0310df1e1ab290a290a8a2bc19ff9"
+		"logo_small"		"ca0fe3057ac0310df1e1ab290a290a8a2bc19ff9_thumb"
+		"icon"		"c362bffcd556d943af0dcb5c8e50ceafde987409"
+		"clienttga"		"0111fce1031f85e374b4baf2e5d7e852e96d1a1e"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+		}
+		"oslist"		"windows,macos,linux"
+		"parent"		"205910"
+		"clienticon"		"94a18d1cd13036861013180e55aad314e26b18fe"
+		"linuxclienticon"		"415ed3a94aa3a13ba0ba048f4ef05d00674c5a76"
+		"metacritic_name"		"Tiny and Big: Grandpa's Leftovers Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1355964308"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Black Pants Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Black Pants Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+			"french"
+			{
+				"supported"		"1"
+			}
+			"italian"
+			{
+				"supported"		"1"
+			}
+			"spanish"
+			{
+				"supported"		"1"
+			}
+		}
+		"steam_release_date"		"1355964060"
+		"community_visible_stats"		"1"
+		"gameid"		"214090"
+	}
+	"extended"
+	{
+		"developer"		"Black Pants Studio"
+		"gamedir"		"Tiny and Big: Grandpa's Leftovers Demo"
+		"homepage"		"http://www.tinyandbig.com"
+		"icon"		""
+		"installscript_macos"		"tinyandbig.app/installscript_osx.vdf"
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Black Pants Studio"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"TinyAndBigDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"tinyandbig.exe"
+				"arguments"		"--dialog=0"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"tinyandbig.app/Contents/MacOS/tinyandbig"
+				"arguments"		"--dialog=0"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"tinyandbig"
+				"arguments"		"--dialog=0"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"installscriptsignature"		"95fc8a2042e7cef2b8f64e3ab249cb11bf748e437361c6e5e95d748829969f2e66b78a26318497e8b1f8383994cdcba81c68dbd3f007d4b004b1ebb62655ffc2bc339c71a7d3c57d66a16d731bca82fafe85173ee86dfc81a3c7ceba0c64e5d618dbde2d90347e152a546297b91b35d8670b690986111324fc8304627da45b65"
+		"installscriptoverride"		"1"
+	}
+	"install"
+	{
+		"version"		"2"
+		"symlink"
+		{
+			"0"
+			{
+				"link"		"tinyandbig.app/Contents/Frameworks/Cg.framework/Headers"
+				"target"		"Versions/Current/Headers"
+			}
+			"1"
+			{
+				"link"		"tinyandbig.app/Contents/Frameworks/Cg.framework/Resources"
+				"target"		"Versions/Current/Resources"
+			}
+			"2"
+			{
+				"link"		"tinyandbig.app/Contents/Frameworks/Cg.framework/Cg"
+				"target"		"Versions/Current/Cg"
+			}
+			"3"
+			{
+				"link"		"tinyandbig.app/Contents/Frameworks/Cg.framework/Versions/Current"
+				"target"		"1.0"
+			}
+			"4"
+			{
+				"link"		"tinyandbig.app/Contents/Frameworks/SDL.framework/Headers"
+				"target"		"Versions/Current/Headers"
+			}
+			"5"
+			{
+				"link"		"tinyandbig.app/Contents/Frameworks/SDL.framework/Resources"
+				"target"		"Versions/Current/Resources"
+			}
+			"6"
+			{
+				"link"		"tinyandbig.app/Contents/Frameworks/SDL.framework/SDL"
+				"target"		"Versions/Current/SDL"
+			}
+			"7"
+			{
+				"link"		"tinyandbig.app/Contents/Frameworks/SDL.framework/Versions/Current"
+				"target"		"A"
+			}
+		}
+		"chmod"
+		{
+			"0"
+			{
+				"file"		"tinyandbig.app/Contents/Frameworks/Cg.framework/Versions/1.0/Cg"
+				"mode"		"755"
+			}
+			"1"
+			{
+				"file"		"tinyandbig.app/Contents/Frameworks/SDL.framework/Versions/A/SDL"
+				"mode"		"755"
+			}
+			"2"
+			{
+				"file"		"tinyandbig.app/Contents/MacOS/libcal3d.dylib"
+				"mode"		"755"
+			}
+			"3"
+			{
+				"file"		"tinyandbig.app/Contents/MacOS/libsteam_api.dylib"
+				"mode"		"755"
+			}
+			"4"
+			{
+				"file"		"tinyandbig.app/Contents/MacOS/tinyandbig"
+				"mode"		"755"
+			}
+		}
+	}
+	"depots"
+	{
+		"214091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8452845322109263925"
+					"size"		"546745758"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"8471621609516624836"
+					"size"		"588947685"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"88544E1A418C4BED8EF0DE9C0436404D"
+					"size"		"78F4D3D3A3B584C47A7E554094FC030F"
+					"download"		"C526C1267D05C0F8A851A11F37B179EB"
+				}
+			}
+		}
+		"214092"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6597383589649437274"
+					"size"		"805938357"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"5982043793345157968"
+					"size"		"715519774"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"7C2B6F96018513A6A1DFAE32C38A612F"
+					"size"		"BCB03565DA224AB528E4725485A7DFCB"
+					"download"		"C526C1267D05C0F8A851A11F37B179EB"
+				}
+			}
+		}
+		"214093"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1805547754668545471"
+					"size"		"436"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"3386582300569910841"
+					"size"		"436"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"1473F6B948B7D73C929746557186340E"
+					"size"		"14BF20DF67480342860CD351D6C266B6"
+					"download"		"C526C1267D05C0F8A851A11F37B179EB"
+				}
+			}
+		}
+		"214094"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7146238842635026450"
+					"size"		"436"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"8371743871313437116"
+					"size"		"436"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"D7787520E76F147540C9475B62457165"
+					"size"		"14BF20DF67480342860CD351D6C266B6"
+					"download"		"C526C1267D05C0F8A851A11F37B179EB"
+				}
+			}
+		}
+		"214095"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6755462258795826475"
+					"size"		"436"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"7746058664107901649"
+					"size"		"436"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"172161E5B7E17E67E5F7988DAE550F05"
+					"size"		"14BF20DF67480342860CD351D6C266B6"
+					"download"		"C526C1267D05C0F8A851A11F37B179EB"
+				}
+			}
+		}
+		"214096"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3036307431147756781"
+					"size"		"436"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"3036307431147756781"
+					"size"		"436"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"5E11A84B58EB21106964FB5DEEFEAAFA"
+					"size"		"14BF20DF67480342860CD351D6C266B6"
+					"download"		"C526C1267D05C0F8A851A11F37B179EB"
+				}
+			}
+		}
+		"214097"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5522243930582734980"
+					"size"		"436"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"7633765244970173358"
+					"size"		"436"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"B36A95B725F9C5CFA3AC2C17D9040F6F"
+					"size"		"14BF20DF67480342860CD351D6C266B6"
+					"download"		"C526C1267D05C0F8A851A11F37B179EB"
+				}
+			}
+		}
+		"214098"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6448600231167416536"
+					"size"		"588957309"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"5BA0B6F43167E7596DD659330360F0F7"
+					"size"		"51DDDB9EEA0A4F507C91F1C295CBAC35"
+					"download"		"C526C1267D05C0F8A851A11F37B179EB"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"72322"
+			}
+			"local"
+			{
+				"buildid"		"4105"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+			"testing"
+			{
+				"buildid"		"72322"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"0"
+	}
+}
