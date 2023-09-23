@@ -1,0 +1,409 @@
+"appinfo"
+{
+	"appid"		"298240"
+	"common"
+	{
+		"name"		"War Trigger 3"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"0b1fbff78868f7bc0a463a4297ad00b9f2c093e4"
+		"logo_small"		"0b1fbff78868f7bc0a463a4297ad00b9f2c093e4_thumb"
+		"icon"		"5594cbc3c6838be2c4066a871cdca5de4f25dc53"
+		"clienttga"		"a61be538815844dbb02eb69391a2eee59ffc9fe2"
+		"clienticon"		"eb0325d5f9caac1114e21d9bbdf55a02c702e5d5"
+		"clienticns"		"64bb4b062ddc3bebfe2edd2b3fbd83359a32e99e"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"298240_eula_0"
+				"name"		"Red Crucible: Firestorm EULA"
+				"url"		"https://store.steampowered.com//eula/298240_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1693267200"
+			"tested_build_id"		"9082149"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"WT3"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1580237556"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rocketeer Games Studio, LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rocketeer Games Studio, LLC"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1450822504"
+		"community_hub_visible"		"1"
+		"gameid"		"298240"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1774"
+			"1"		"113"
+			"2"		"1663"
+			"3"		"3859"
+			"4"		"19"
+			"5"		"1678"
+			"6"		"3839"
+			"7"		"13276"
+			"8"		"3814"
+			"9"		"599"
+			"10"		"1695"
+			"11"		"4182"
+			"12"		"1775"
+			"13"		"1697"
+			"14"		"492"
+			"15"		"1685"
+			"16"		"7481"
+			"17"		"493"
+			"18"		"21"
+			"19"		"597"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"developer"		"Rocketeer Games Studio, LLC"
+		"publisher"		"Rocketeer Games Studio, LLC"
+		"homepage"		"https://www.rocketeergames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"WT3"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"War Trigger 3.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"War Trigger 3.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollerconfigfileids"		"576969626"
+		"steamcontrollertemplateindex"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"298241"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6190088125697110150"
+					"size"		"637945458"
+					"download"		"230486512"
+				}
+				"beta"
+				{
+					"gid"		"6190088125697110150"
+					"size"		"637945458"
+					"download"		"230486512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"D1C6EE4FDEB9CD4ED4FC1AA203116777"
+					"size"		"421EB1D37E180240BB77F165EBCCE2C0"
+					"download"		"C7AF82FD575F1A320D26FDDD9666D314"
+				}
+				"test_server"
+				{
+					"gid"		"85FA6D09DC253E0CE24BD82FEC21AB1C"
+					"size"		"436E11F9409CEA43B5BC2C87CB393150"
+					"download"		"E184A4790A1104FE04BA6D746F635A07"
+				}
+			}
+		}
+		"298242"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8916084917114058490"
+					"size"		"637945458"
+					"download"		"230486512"
+				}
+				"beta"
+				{
+					"gid"		"8916084917114058490"
+					"size"		"637945458"
+					"download"		"230486512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"5559ACDC841FF965DB2FB83C6DDC86C6"
+					"size"		"421EB1D37E180240BB77F165EBCCE2C0"
+					"download"		"C7AF82FD575F1A320D26FDDD9666D314"
+				}
+				"test_server"
+				{
+					"gid"		"87B9688A36B4C846CCE54DEE11FD3C35"
+					"size"		"436E11F9409CEA43B5BC2C87CB393150"
+					"download"		"E184A4790A1104FE04BA6D746F635A07"
+				}
+			}
+		}
+		"298243"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"234454210622088157"
+					"size"		"637945458"
+					"download"		"230486512"
+				}
+				"beta"
+				{
+					"gid"		"234454210622088157"
+					"size"		"637945458"
+					"download"		"230486512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"59EC6CA99BA8095C2B1AC2152BF2D825"
+					"size"		"421EB1D37E180240BB77F165EBCCE2C0"
+					"download"		"C7AF82FD575F1A320D26FDDD9666D314"
+				}
+				"test_server"
+				{
+					"gid"		"0A101476361B0F7A32F6CEC3730F50A3"
+					"size"		"436E11F9409CEA43B5BC2C87CB393150"
+					"download"		"E184A4790A1104FE04BA6D746F635A07"
+				}
+			}
+		}
+		"298244"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1932468460382285371"
+					"size"		"637945458"
+					"download"		"230482032"
+				}
+				"beta"
+				{
+					"gid"		"1932468460382285371"
+					"size"		"637945458"
+					"download"		"230482032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"DD97BBDEBC51C5FEB90896F09F8970CE"
+					"size"		"421EB1D37E180240BB77F165EBCCE2C0"
+					"download"		"4391431B706A238D71032A3BCE9A5992"
+				}
+				"test_server"
+				{
+					"gid"		"0ED78A63E18B41F615984EDF3CE6FF1E"
+					"size"		"436E11F9409CEA43B5BC2C87CB393150"
+					"download"		"E184A4790A1104FE04BA6D746F635A07"
+				}
+			}
+		}
+		"298245"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1634238390630781821"
+					"size"		"1060967637"
+					"download"		"1067656016"
+				}
+				"beta"
+				{
+					"gid"		"1634238390630781821"
+					"size"		"1060967637"
+					"download"		"1067656016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"5E5FFF255E04A01DBE6A7BB3F1BA52E6"
+					"size"		"2C739B693FCCA35E35EF3725E631E1AE"
+					"download"		"9CFE533B4B1734C22DC7BB2BD75D32FF"
+				}
+				"test_server"
+				{
+					"gid"		"09E200253347319D1C27D87C7F21BA26"
+					"size"		"A4C62C627D4F9CD87E616A55E50892C1"
+					"download"		"D8DE99385218C36F82B08405A53AEE56"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9082149"
+				"timeupdated"		"1657236906"
+			}
+			"beta"
+			{
+				"buildid"		"9082149"
+				"description"		"Beta"
+				"timeupdated"		"1657236898"
+			}
+			"development"
+			{
+				"buildid"		"9082149"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657242058"
+			}
+			"test_server"
+			{
+				"buildid"		"2030690"
+				"pwdrequired"		"1"
+				"timeupdated"		"1502442795"
+			}
+		}
+	}
+}
