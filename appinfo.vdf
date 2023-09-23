@@ -1,0 +1,130 @@
+"appinfo"
+{
+	"appid"		"2354980"
+	"common"
+	{
+		"name"		"House Sitter Escape Game Demo"
+		"type"		"Demo"
+		"parent"		"2328770"
+		"releasestate"		"released"
+		"icon"		"0c14875709cce14da9f9743e1d7d68daa9ace570"
+		"clienticon"		"ce06761b5126ef45d9dbe3fe698e74284521b056"
+		"clienttga"		"295e3722dba77223131b558c655a804b78b12c53"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"openvr_action_manifest_path"		"HouseSitterEscapeGame\\House sitter Escape game_Data\\StreamingAssets\\SteamVR"
+		"openvrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1678529640"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Émiguéma Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Émiguéma Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678867977"
+		"gameid"		"2354980"
+	}
+	"extended"
+	{
+		"demoofappid"		"2328770"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Émiguéma Studio"
+		"publisher"		"Émiguéma Studio"
+	}
+	"config"
+	{
+		"installdir"		"House Sitter Escape Game Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HouseSitterEscapeGameDemo\\House sitter Escape game.exe"
+				"type"		"option1"
+				"description_loc"
+				{
+					"english"		"House Sitter Escape Game (non-VR)"
+					"french"		"House Sitter Escape Game (non-VR)"
+				}
+				"description"		"House Sitter Escape Game (non-VR)"
+			}
+			"1"
+			{
+				"executable"		"HouseSitterEscapeGameDemo\\House sitter Escape game.exe"
+				"arguments"		"--enable-vr"
+				"type"		"vr"
+				"description_loc"
+				{
+					"english"		"House Sitter Escape Game (VR)"
+					"french"		"House Sitter Escape Game (VR)"
+				}
+				"description"		"House Sitter Escape Game (VR)"
+			}
+		}
+	}
+	"depots"
+	{
+		"2354981"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1148181304183534045"
+					"size"		"2562705735"
+					"download"		"120741584"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11070664"
+				"timeupdated"		"1682254859"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"appidredirect"		"2328770"
+	}
+}
