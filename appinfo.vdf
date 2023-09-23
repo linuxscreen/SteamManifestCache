@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"1715640"
+	"common"
+	{
+		"name"		"Hex of the Lich Demo"
+		"type"		"Demo"
+		"parent"		"1631900"
+		"clienticon"		"e575291359ec758ec6f03b53e80d181b3bea418a"
+		"clienttga"		"533399d32356b5420dda7b33d1cd905c8c1ccde1"
+		"icon"		"391f61329b0d235722a78c7fd52de8a9998e55cd"
+		"clienticns"		"38cbac94acb9a1760f18cbb05beb87d249693769"
+		"linuxclienticon"		"772e13df574598b4b4150b71a838bcf637f62e72"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"69.82276175834205"
+				"height_pct"		"88.74153439999778"
+			}
+		}
+		"store_asset_mtime"		"1653259694"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Clobster Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Clobster Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631224930"
+		"gameid"		"1715640"
+	}
+	"extended"
+	{
+		"demoofappid"		"1631900"
+		"developer"		"Clobster Games"
+		"publisher"		"Clobster Games"
+	}
+	"config"
+	{
+		"installdir"		"Hex of the Lich Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hex of the Lich.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Hex of the Lich.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Hex of the Lich.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1715642"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7127539288239909880"
+					"size"		"285004746"
+					"download"		"50399504"
+				}
+			}
+		}
+		"1715643"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5491183605949327912"
+					"size"		"305568552"
+					"download"		"45006288"
+				}
+			}
+		}
+		"1715644"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"10555753773106227"
+					"size"		"261763986"
+					"download"		"43424288"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9213087"
+				"timeupdated"		"1659070503"
+			}
+		}
+	}
+}
