@@ -1,0 +1,166 @@
+"appinfo"
+{
+	"appid"		"1811480"
+	"common"
+	{
+		"name"		"頭痛"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"4a6aea6c5a313f4fdc021e990314812ccd7770cc"
+		"logo_small"		"4a6aea6c5a313f4fdc021e990314812ccd7770cc_thumb"
+		"icon"		"99d43cfc9e3a7ceceeff97b98687f00f19a8e5a7"
+		"clienticon"		"f441545b8ef3b1b74df0b32568655194bbe9f348"
+		"clienttga"		"af2d4f0f870724fcb504fac073a7ae24e09ad312"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.71689099773948"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1637487071"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MONZEN"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MONZEN"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1637395532"
+		"community_hub_visible"		"1"
+		"gameid"		"1811480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"9204"
+			"2"		"1738"
+			"3"		"3839"
+			"4"		"4191"
+			"5"		"21006"
+			"6"		"597"
+			"7"		"599"
+			"8"		"3987"
+			"9"		"1742"
+			"10"		"5716"
+			"11"		"4175"
+			"12"		"21"
+			"13"		"4166"
+			"14"		"3978"
+			"15"		"113"
+			"16"		"4182"
+			"17"		"492"
+			"18"		"3859"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"MONZEN"
+		"publisher"		"MONZEN"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"頭痛"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"KAKI.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1811481"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2439217112008377559"
+					"size"		"1501793977"
+					"download"		"1394260544"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10708308"
+				"timeupdated"		"1678180191"
+			}
+		}
+	}
+}
