@@ -1,0 +1,247 @@
+"appinfo"
+{
+	"appid"		"1490860"
+	"common"
+	{
+		"name"		"Til Nord"
+		"type"		"Game"
+		"logo"		"994b5017898b561fc7d84508a4761540ae89fa74"
+		"logo_small"		"994b5017898b561fc7d84508a4761540ae89fa74_thumb"
+		"icon"		"62fb5868088686ea3f7b83440b860a93329e9d0b"
+		"clienticon"		"b817394f56f9f70b698fe42b1759ac11e3c6a230"
+		"clienttga"		"11fc6cb6d777c6b36c62b78703354c7e4bc8b348"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.11671335367032"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1624959220"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Moose Attack Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Breda University of Applied Sciences"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1624966229"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1490860"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1695"
+			"1"		"3834"
+			"2"		"1644"
+			"3"		"9803"
+			"4"		"699"
+			"5"		"7622"
+			"6"		"21"
+			"7"		"30358"
+			"8"		"6869"
+			"9"		"3839"
+			"10"		"4191"
+			"11"		"1697"
+			"12"		"7481"
+			"13"		"1100687"
+			"14"		"4175"
+			"15"		"4182"
+			"16"		"113"
+			"17"		"3859"
+			"18"		"493"
+			"19"		"128"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Moose Attack Studios"
+		"publisher"		"Breda University of Applied Sciences"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Til Nord"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TilNord.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2505183632"
+			{
+				"controller_type"		"controller_switch_pro"
+				"enabled_branches"		"default,beta,internal-testing,playtesting,release-candidate"
+				"use_action_block"		"false"
+			}
+			"2547265069"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,beta,internal-testing,playtesting,release-candidate"
+				"use_action_block"		"false"
+			}
+			"2547272002"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,beta,internal-testing,playtesting,release-candidate"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"9"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1490861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1692354499464893059"
+					"size"		"11157471656"
+					"download"		"3914087328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-testing"
+				{
+					"gid"		"081170192789BC9E2939F2262874B875"
+					"size"		"B8D5E731B97DB11B0834A1EC6E6EE72C"
+					"download"		"A54C1011F00051024A6D11F27099694A"
+				}
+				"release-candidate"
+				{
+					"gid"		"F74748C2C2E82D27B450D7C6F48ADA92"
+					"size"		"9FFBAF0A40BDED43D4A83B6AE087D096"
+					"download"		"B66F1E46E912707E9C2E5B3DAD6060A3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6951766"
+				"timeupdated"		"1624981061"
+			}
+			"internal-testing"
+			{
+				"buildid"		"6933200"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624949029"
+			}
+			"release-candidate"
+			{
+				"buildid"		"6951766"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624980302"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"25000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Snow/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
