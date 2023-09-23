@@ -1,0 +1,273 @@
+"appinfo"
+{
+	"appid"		"2407990"
+	"common"
+	{
+		"name"		"Atomic Heart Demo"
+		"type"		"Demo"
+		"parent"		"668580"
+		"releasestate"		"released"
+		"icon"		"2a9828aaf232ea5c4b2575212786c62166306390"
+		"clienttga"		"5c47d6e554ea31509c0753d7c399f357fd3e320f"
+		"clienticon"		"0f79844e606b382b5b7ebf0009f9db9d44df9094"
+		"name_localized"
+		{
+			"tchinese"		"原子之心"
+			"schinese"		"原子之心"
+			"koreana"		"아토믹 하트"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2407990_eula_0"
+				"name"		"Atomic Heart Demo EULA"
+				"url"		"https://store.steampowered.com//eula/2407990_eula_0"
+				"version"		"1"
+			}
+			"1"
+			{
+				"id"		"2407990_eula_1"
+				"name"		"Atomic Heart Demo EULA"
+				"url"		"https://store.steampowered.com//eula/2407990_eula_1"
+				"version"		"1"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Atomic Heart"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1684222857"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mundfish"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Focus Entertainment"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"4Divinity"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1684310160"
+		"metacritic_score"		"75"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/atomic-heart?ftag=MCD-06-10aaa1f"
+		"gameid"		"2407990"
+	}
+	"extended"
+	{
+		"demoofappid"		"668580"
+		"developer"		"Mundfish"
+		"publisher"		"Focus Entertainment"
+		"homepage"		"https://www.focus-entmt.com/games/atomic-heart"
+	}
+	"config"
+	{
+		"installdir"		"Atomic Heart"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AtomicHeart.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2407991"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6966247888851551753"
+					"size"		"45201369754"
+					"download"		"27888178848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"mf_qa"
+				{
+					"gid"		"E45F569D8DD4D4B78B661C16A912A47B"
+					"size"		"DABD3731044122268403C46F2C1B7127"
+					"download"		"A6868FAC4CA5060150754941D9135F88"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11226720"
+				"timeupdated"		"1684139679"
+			}
+			"mf_qa"
+			{
+				"buildid"		"11295457"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684832424"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"appidredirect"		"668580"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"AtomicHeart/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
