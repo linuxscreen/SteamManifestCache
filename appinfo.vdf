@@ -1,0 +1,298 @@
+"appinfo"
+{
+	"appid"		"1180320"
+	"common"
+	{
+		"name"		"三国杀"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"logo"		"16ea69ad1f9638f00ec92e73810fc5cba045a042"
+		"logo_small"		"16ea69ad1f9638f00ec92e73810fc5cba045a042_thumb"
+		"icon"		"3bfb4a8f04ad160f9c61456e49cdda98147161a6"
+		"clienticon"		"45a5e6bcaecf5c9939a152fedd3e87b55258c6c6"
+		"clienttga"		"b85a787ad3be434e08901871cf0b1e581c676ce5"
+		"name_localized"
+		{
+			"english"		" War of the Three Kingdoms"
+			"schinese"		"三国杀"
+			"sc_schinese"		"三国杀"
+			"tchinese"		"三国杀"
+		}
+		"releasestatesteamchina"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1656633600"
+			"tested_build_id"		"8636785"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"三国杀"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"zh-cn,en"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.581395348837205"
+				"height_pct"		"38.601282355734995"
+			}
+		}
+		"store_asset_mtime"		"1686292430"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"杭州游卡网络技术有限公司"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"杭州游卡网络技术有限公司"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_20"		"1"
+			"category_38"		"1"
+			"category_9"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1639756680"
+		"community_hub_visible"		"1"
+		"gameid"		"1180320"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"113"
+			"2"		"3859"
+			"3"		"1666"
+			"4"		"13070"
+			"5"		"1775"
+			"6"		"3987"
+			"7"		"9"
+			"8"		"4191"
+			"9"		"5984"
+			"10"		"6815"
+			"11"		"17389"
+			"12"		"597"
+			"13"		"1716"
+			"14"		"1084988"
+			"15"		"122"
+			"16"		"1685"
+			"17"		"1741"
+			"18"		"3843"
+			"19"		"32322"
+		}
+		"review_score"		"1"
+		"review_percentage"		"11"
+	}
+	"extended"
+	{
+		"developer"		"杭州游卡网络技术有限公司"
+		"publisher"		"杭州游卡网络技术有限公司"
+		"homepage"		"https://www.sanguosha.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Sgsc10th"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sgsc10th.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"11638435"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688635065"
+			}
+			"public"
+			{
+				"buildid"		"12165775"
+				"timeupdated"		"1694497279"
+			}
+			"steam_game_test"
+			{
+				"buildid"		"12165168"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694489502"
+			}
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1180321"
+		{
+			"config"
+			{
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3233575993734141936"
+					"size"		"242069076"
+					"download"		"77584736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"BF3C84FB07B145EF602E64C813D85827"
+					"size"		"8D284874C14D92407634C64DE43F2C14"
+					"download"		"22689D1C207CDD4CD72FCEE4D60F49A0"
+				}
+				"steam_game_test"
+				{
+					"gid"		"D8A2973D520FC18BA398CCF2463C8CD4"
+					"size"		"CD14E9EB0850F995945E600B4834205B"
+					"download"		"D29A002724C8F0DDE0B66E9A78EE1417"
+				}
+			}
+		}
+		"1180322"
+		{
+			"config"
+			{
+				"realm"		"steamchina"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7162185423666251564"
+					"size"		"242078068"
+					"download"		"77590640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"4730B813C0473D220FB3F55EB832ADEB"
+					"size"		"450162F10B4BF130A8131C0A6B704F00"
+					"download"		"049B87ECC2931F4ABDE2DEB9EA4740AD"
+				}
+				"steam_game_test"
+				{
+					"gid"		"CF0A68696A95248AE89C7522C313EDFA"
+					"size"		"1917F8FDDC99F0736CD769A7C2C6F464"
+					"download"		"B9722F43A1204AE4E3639C3E65C692CC"
+				}
+			}
+		}
+		"1853290"
+		{
+			"dlcappid"		"1853290"
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"steam_game_test"
+				{
+					"gid"		"91E9A3585802E1BEDFD3ABD28BEED36C"
+					"size"		"EDF6ABFCBB2AB1F6FCE6574DCFD794F1"
+					"download"		"0D49DF0BE4F339CF72748997DB6893A6"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+	}
+}
