@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"1300660"
+	"common"
+	{
+		"name"		"Dinosaur Fossil Hunter Demo 2020"
+		"type"		"Demo"
+		"parent"		"864700"
+		"clienticon"		"4a01a3a2be93e46013f466518989c6537021c7db"
+		"clienttga"		"e5a0796a551529a2103c844221777774807c02bc"
+		"icon"		"e380f9ab4e7a81936d0d3a751e9df3cc2e8e68c5"
+		"logo"		"279f03fdd78acfa216e52a4635da9209c47b680e"
+		"logo_small"		"279f03fdd78acfa216e52a4635da9209c47b680e_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1601982792"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"▲ Pyramid Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pyramid Games S.A."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1602100463"
+		"community_visible_stats"		"1"
+		"gameid"		"1300660"
+	}
+	"extended"
+	{
+		"demoofappid"		"864700"
+		"developer"		"▲ Pyramid Games"
+		"publisher"		"Pyramid Games S.A."
+		"homepage"		"http://pyramid.games"
+	}
+	"config"
+	{
+		"installdir"		"Dinosaur Fossil Hunter Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dinosaur Fossil Hunter.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"old_version"
+				}
+			}
+			"1"
+			{
+				"executable"		"launcher/playway-launcher.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1300661"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"910456606135152245"
+					"size"		"9357081881"
+					"download"		"4526422288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"6C1CAF71BD76636BFC5CE19C338101A2"
+					"size"		"A1021CDEEBC46B7DFC2C7B9081A20BC1"
+					"download"		"F9EDFBAD8AE33767A6048AA364DBA6BE"
+				}
+				"old_version"
+				{
+					"gid"		"39381FEE2B7B6C005EBE75D293F9F754"
+					"size"		"5EB12A1AC37D0F90AE017135F9133749"
+					"download"		"C54176DC04AFB14795B8E40A724E648F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7281756"
+				"timeupdated"		"1630684235"
+			}
+			"beta"
+			{
+				"buildid"		"7310919"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630926457"
+			}
+			"old_version"
+			{
+				"buildid"		"5651083"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630684136"
+			}
+		}
+	}
+}
