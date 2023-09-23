@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1722040"
+	"common"
+	{
+		"name"		"Rabby in the Land of Sweets"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"お菓子の国のラビィ"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"f43784de081c84485a11af599c21b03d1c0d1acd"
+		"clienttga"		"75a3e5be79bba6ef3b7e8d32119a3bf14408af37"
+		"icon"		"8ad20727c1ef5c8e5ff39c1529719fcb71a59451"
+		"logo"		"e0909fbbd5ceae0825b24815073e989e71d8e3a7"
+		"logo_small"		"e0909fbbd5ceae0825b24815073e989e71d8e3a7_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658793600"
+			"tested_build_id"		"7165392"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.418932252338024"
+				"height_pct"		"77.45844054756563"
+			}
+		}
+		"store_asset_mtime"		"1628748711"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TOKYO COOL JAPAN"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TOKYO COOL JAPAN"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629785498"
+		"community_hub_visible"		"1"
+		"gameid"		"1722040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"5379"
+			"2"		"4106"
+			"3"		"3798"
+			"4"		"3871"
+			"5"		"4726"
+			"6"		"4085"
+			"7"		"113"
+			"8"		"4195"
+			"9"		"3964"
+			"10"		"4004"
+			"11"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"TOKYO COOL JAPAN"
+		"publisher"		"TOKYO COOL JAPAN"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Rabby in the Land of Sweets"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RabbitGame.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1722041"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5326017396491119359"
+					"size"		"218977028"
+					"download"		"33914032"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7165392"
+				"timeupdated"		"1628583789"
+			}
+		}
+	}
+}
