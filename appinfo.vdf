@@ -1,0 +1,170 @@
+"appinfo"
+{
+	"appid"		"390100"
+	"common"
+	{
+		"name"		"9Dragons"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"f6ddc3e4de36a91cad78237b4a0310e0ee46fd05"
+		"clienttga"		"c682773b7a1a7a11c26ee7754851bb7a9ab0f0ae"
+		"icon"		"1a978f7a3ba0e8328abf75e8d42f18fb3af6012d"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"390100_eula_0"
+				"name"		"9Dragons EULA"
+				"url"		"http://store.steampowered.com//eula/390100_eula_0"
+			}
+		}
+		"logo"		"141abc9532c377613f3958879fd238fbf2fb16fe"
+		"logo_small"		"141abc9532c377613f3958879fd238fbf2fb16fe_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"9Dragons"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1668117778"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Joongwon Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"RedFox Games"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1487059200"
+		"steam_release_date"		"1487139859"
+		"community_hub_visible"		"1"
+		"gameid"		"390100"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"128"
+			"2"		"122"
+			"3"		"6915"
+			"4"		"1775"
+			"5"		"19"
+			"6"		"1684"
+			"7"		"4085"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"Joongwon Entertainment"
+		"publisher"		"RedFox Games"
+		"homepage"		"https://www.playredfox.com/nine_dragons"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"9Dragons"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RFstl.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"390101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2893781351467360132"
+					"size"		"3617080005"
+					"download"		"1514806000"
+				}
+			}
+		}
+		"720910"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"720910"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5344991"
+				"timeupdated"		"1596014304"
+			}
+		}
+	}
+}
