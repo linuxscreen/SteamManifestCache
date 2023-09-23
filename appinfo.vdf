@@ -1,0 +1,265 @@
+"appinfo"
+{
+	"appid"		"1194480"
+	"common"
+	{
+		"name"		"Cursed Gem"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"445feb079a2542973b2bfddd915297b53fc4fae2"
+		"logo_small"		"445feb079a2542973b2bfddd915297b53fc4fae2_thumb"
+		"icon"		"738ab584019ed5d3ee5a3d82bff2f76cfb961ea4"
+		"clienticon"		"6fac24022d843cd0ce1edbcc6b08098c862e0324"
+		"clienttga"		"bbd452698eeeac17780524d6a72e2d2f46cbf474"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.297658953477054"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1596114441"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AikonCWD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Vega Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1596467760"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1194480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1625"
+			"1"		"19"
+			"2"		"21"
+			"3"		"492"
+			"4"		"4026"
+			"5"		"3964"
+			"6"		"4106"
+			"7"		"3877"
+			"8"		"5537"
+			"9"		"5379"
+			"10"		"3871"
+			"11"		"4094"
+			"12"		"198631"
+			"13"		"21006"
+			"14"		"1742"
+			"15"		"4136"
+			"16"		"3968"
+			"17"		"4747"
+			"18"		"4004"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"AikonCWD"
+		"publisher"		"Vega Games"
+		"homepage"		"https://cursedgemgame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Cursed Gem"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"arguments"		"-none"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"game.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"Cursed Gem.app\\Contents\\MacOS\\Cursed Gem"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1194481"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6955441879336765259"
+					"size"		"49044199"
+					"download"		"44318128"
+				}
+				"beta"
+				{
+					"gid"		"7907441496787139456"
+					"size"		"49044583"
+					"download"		"44318400"
+				}
+			}
+		}
+		"1194482"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6476383088968403516"
+					"size"		"34010912"
+					"download"		"9382160"
+				}
+				"beta"
+				{
+					"gid"		"4499953939575497820"
+					"size"		"34959136"
+					"download"		"9953216"
+				}
+			}
+		}
+		"1194483"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"852461530983950964"
+					"size"		"37299914"
+					"download"		"10378320"
+				}
+				"beta"
+				{
+					"gid"		"5675528025246329691"
+					"size"		"44599514"
+					"download"		"12418736"
+				}
+			}
+		}
+		"1194484"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4906501954171608586"
+					"size"		"105640089"
+					"download"		"57006624"
+				}
+				"beta"
+				{
+					"gid"		"5525294562906945373"
+					"size"		"133352519"
+					"download"		"65362432"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7410081"
+				"timeupdated"		"1632392190"
+			}
+			"beta"
+			{
+				"buildid"		"7433048"
+				"description"		"Testing new builds of Cursed Gem"
+				"timeupdated"		"1632768825"
+			}
+		}
+	}
+}
