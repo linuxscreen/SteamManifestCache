@@ -1,0 +1,151 @@
+"appinfo"
+{
+	"appid"		"2404260"
+	"common"
+	{
+		"name"		"The Coffin of Andy and Leyley Demo"
+		"type"		"Demo"
+		"parent"		"2378900"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"efd62c7d4c1a6ed0b4d7b61dc7e487fa710ad960"
+		"clienttga"		"edea05e401925e7a6e1addf067d76e6578bc6357"
+		"clienticon"		"091a71dad99745979556579a1f3d5a0abae61a8d"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"94.2240373395566"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1682060067"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nemlei"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nemlei"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1682327905"
+		"gameid"		"2404260"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2378900"
+		"developer"		"Nemlei"
+		"publisher"		"Nemlei"
+	}
+	"config"
+	{
+		"installdir"		"The Coffin of Andy and Leyley Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2404261"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"646344045383469634"
+					"size"		"223269638"
+					"download"		"107151648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DC8B6454E5C515180301443D3C72DB5F"
+					"size"		"3B2202CCD29194F7B0EB5DDF35C37C7F"
+					"download"		"4B8DDAC446318F3105A77E4AF3A59D50"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11139134"
+				"timeupdated"		"1683045485"
+			}
+			"beta"
+			{
+				"buildid"		"11139134"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683044963"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"CoffinAndyLeyley"
+				"pattern"		"*.rpgsave"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"appidredirect"		"2378900"
+	}
+}
