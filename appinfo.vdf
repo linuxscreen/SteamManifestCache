@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"1199570"
+	"common"
+	{
+		"name"		"Rogue Heroes: Ruins of Tasos Demo"
+		"type"		"Demo"
+		"parent"		"787810"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"219941baa2284c5e8b8a412df6b960ab182437fa"
+		"clienticon"		"8afda26bf395e40e4b9e3267ab22ebfa08df6c9d"
+		"icon"		"94c6224c1df6e3322d1959bf6cdcb825733b45e7"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"39.031505250875135"
+				"height_pct"		"67.09807646639754"
+			}
+		}
+		"store_asset_mtime"		"1620726054"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Heliocentric Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team17 Digital"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Team17 Digital"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1590677961"
+		"gameid"		"1199570"
+	}
+	"extended"
+	{
+		"demoofappid"		"787810"
+		"developer"		"Heliocentric Studios"
+		"publisher"		"Team17 Digital"
+		"homepage"		"http://www.RogueHeroesGame.com"
+	}
+	"config"
+	{
+		"installdir"		"Rogue Heroes Ruins of Tasos Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Rogue Heroes.exe"
+				"type"		"default"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"1199571"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8826355242728735547"
+					"size"		"3776975433"
+					"download"		"180458832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"t17_qa"
+				{
+					"gid"		"A6FF1A206A52F051CE960ECCA9D8FD5D"
+					"size"		"940128FEF2FE6DC2BEBEC3F7ACB21E26"
+					"download"		"2EC0999DA23C4526BB30587AB49BBAC5"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,schinese,tchinese,russian,japanese,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5545091"
+				"timeupdated"		"1600182615"
+			}
+			"t17_qa"
+			{
+				"buildid"		"5545091"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600137912"
+			}
+		}
+	}
+}
