@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"1713200"
+	"common"
+	{
+		"name"		"Tales of Komori: Prologue"
+		"type"		"Game"
+		"name_localized"
+		{
+			"schinese"		"古守传说：序"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"4898db7bca129ad1bdb15d156e204b2b9c4185f0"
+		"clienttga"		"d7fbfb071305d1d0c94b22bb83ca0de2cbe1a861"
+		"icon"		"c84c417b81721fdfe46b7443abec105e203f86a6"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1713200_eula_0"
+				"name"		"Tales of Komori: Prologue EULA"
+				"url"		"https://store.steampowered.com//eula/1713200_eula_0"
+				"version"		"1"
+			}
+		}
+		"logo"		"ce10c9a0bc61ddec15d121b7ae02fbed6aac4575"
+		"logo_small"		"ce10c9a0bc61ddec15d121b7ae02fbed6aac4575_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.978996499416567"
+				"height_pct"		"39.36170262105634"
+			}
+		}
+		"store_asset_mtime"		"1628706594"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Komori Fan Club"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Komori Fan Club"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630066600"
+		"community_hub_visible"		"1"
+		"gameid"		"1713200"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21"
+			"2"		"4434"
+			"3"		"11014"
+			"4"		"5379"
+			"5"		"14139"
+			"6"		"3964"
+			"7"		"6815"
+			"8"		"5984"
+			"9"		"4018"
+			"10"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Komori Fan Club"
+		"publisher"		"Komori Fan Club"
+		"homepage"		"https://www.komori.club/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TOK-Prologue"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1713202"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8185206290883811792"
+					"size"		"359851366"
+					"download"		"176759024"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7236057"
+				"timeupdated"		"1629741884"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
