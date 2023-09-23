@@ -1,0 +1,192 @@
+"appinfo"
+{
+	"appid"		"678720"
+	"common"
+	{
+		"name"		"Cat Quest Demo"
+		"type"		"Demo"
+		"parent"		"593280"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"38e66e3c588d34aab8ff1915b228252654770e75"
+		"logo_small"		"38e66e3c588d34aab8ff1915b228252654770e75_thumb"
+		"icon"		"19e8f248211655a2fb91e7cebd154f82fba23000"
+		"clienttga"		"8ec63b8d5d9c3f8ca63221d760a3d2e375015852"
+		"clienticon"		"3cb91f334a29260fe89360ed9f8d9cb5e35e41cb"
+		"metacritic_name"		"Cat Quest Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"84.6923083031107"
+			}
+		}
+		"store_asset_mtime"		"1572346362"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Gentlebros"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kepler Interactive"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1502204755"
+		"gameid"		"678720"
+	}
+	"extended"
+	{
+		"demoofappid"		"593280"
+		"developer"		"The Gentlebros"
+		"publisher"		"Kepler Interactive"
+		"homepage"		"http://thegentlebros.com/catquest/"
+	}
+	"config"
+	{
+		"installdir"		"Cat Quest Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Cat Quest.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Cat Quest.app/Contents/MacOS/Cat Quest"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"678721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"874657390400420722"
+					"size"		"247118855"
+					"download"		"71775312"
+				}
+				"beta"
+				{
+					"gid"		"4289906139254987318"
+					"size"		"240803015"
+					"download"		"69928000"
+				}
+			}
+		}
+		"678722"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8332575452491997516"
+					"size"		"299988879"
+					"download"		"85371696"
+				}
+				"beta"
+				{
+					"gid"		"4683409552986662755"
+					"size"		"293392157"
+					"download"		"83414128"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2016327"
+				"timeupdated"		"1502045036"
+			}
+			"beta"
+			{
+				"buildid"		"2211723"
+				"timeupdated"		"1508404227"
+			}
+		}
+	}
+}
