@@ -1,0 +1,224 @@
+"appinfo"
+{
+	"appid"		"1274130"
+	"common"
+	{
+		"name"		"HYPERCHARGE: Unboxed Demo"
+		"type"		"Demo"
+		"parent"		"523660"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"9528b4c32ccd4ce76c413dcb271646f1526d7504"
+		"clienticon"		"12d28be62a683a7ae2234bafe0dd707f5fd32f4e"
+		"icon"		"c77f6f65ac3a3f128537570f7b8320e72058fff3"
+		"clienticns"		"12d28be62a683a7ae2234bafe0dd707f5fd32f4e"
+		"linuxclienticon"		"12d28be62a683a7ae2234bafe0dd707f5fd32f4e"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1274130_eula_0"
+				"name"		"HYPERCHARGE: Unboxed Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1274130_eula_0"
+			}
+		}
+		"logo"		"863891b729059962956b3c0cd813c97e790d1c3d"
+		"logo_small"		"863891b729059962956b3c0cd813c97e790d1c3d_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"39.26487747957992"
+				"height_pct"		"72.41747803372122"
+			}
+		}
+		"store_asset_mtime"		"1588264874"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Digital Cybercherries"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Digital Cybercherries"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_48"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1588007804"
+		"gameid"		"1274130"
+	}
+	"extended"
+	{
+		"demoofappid"		"523660"
+		"developer"		"Digital Cybercherries"
+		"publisher"		"Digital Cybercherries"
+		"homepage"		"http://www.hypercharge.digitalcybercherries.com/"
+	}
+	"config"
+	{
+		"installdir"		"HCUDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Unboxed.exe"
+				"arguments"		"-demo -nohmd"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1274131"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5004694458101394530"
+					"size"		"3409737565"
+					"download"		"3245000576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"0874AA76A479D66E192AC60EEDA0915A"
+					"size"		"22C8CC85B4A54D549776CE36CFDB0F48"
+					"download"		"82A05BBED906CF47E1FB20F1F27C8005"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9092173"
+				"timeupdated"		"1657393238"
+			}
+			"developer"
+			{
+				"buildid"		"11210150"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683819588"
+			}
+		}
+	}
+}
