@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1700000"
+	"common"
+	{
+		"name"		"ShemHaMephorash Demo"
+		"type"		"Demo"
+		"parent"		"1481720"
+		"clienticon"		"794e8d256cc946bc9d5fd2969dc4020493043d1f"
+		"clienttga"		"ce3de809ac3e11475a0777f1d042a76a7053db7b"
+		"icon"		"536502e3ef9c5b3bb57601ce44364479230b0d7a"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.09677419354839"
+				"height_pct"		"62.447447559792934"
+			}
+		}
+		"store_asset_mtime"		"1626795511"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SignTyche"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Tyche's Bookshelf"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Tyche's Bookshelf"
+			}
+		}
+		"steam_release_date"		"1627049899"
+		"gameid"		"1700000"
+	}
+	"extended"
+	{
+		"demoofappid"		"1481720"
+		"developer"		"SignTyche"
+		"publisher"		"Tyche's Bookshelf"
+	}
+	"config"
+	{
+		"installdir"		"ShemHaMephorash_demo"
+		"launch"
+		{
+			"5"
+			{
+				"executable"		"ShemHaMephorash_Launcher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"ShemHaMephorash"
+				}
+				"description"		"ShemHaMephorash"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"1700001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1569131470303525534"
+					"size"		"437322970"
+					"download"		"363158416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"7BA27FE5CD2095C49CF400CFDFC94A49"
+					"size"		"C9635298C060F1353F48F97BD8D61DD1"
+					"download"		"CABAC9D194010EF83FC1C55D17A5E537"
+				}
+			}
+		}
+		"1700002"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7853115241946193024"
+					"size"		"33857506"
+					"download"		"23209056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"2F9C0A583B93B1F73C1C1649797E6B5D"
+					"size"		"A958B746D459D3BFBCE71DCCC1393530"
+					"download"		"6809B986B0945C7BECB4373C98F02FC3"
+				}
+			}
+		}
+		"1700003"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2210386079520819845"
+					"size"		"35729938"
+					"download"		"23194848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"B720DC3856FC826614EEA11FDF211C26"
+					"size"		"279F21BA45CE254340322ECA0646B2A9"
+					"download"		"16CC534BA48B46EA8A7B7C9FFE2B1990"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8756135"
+				"timeupdated"		"1653098384"
+			}
+			"develop"
+			{
+				"buildid"		"8756135"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652803247"
+			}
+		}
+	}
+}
