@@ -1,0 +1,172 @@
+"appinfo"
+{
+	"appid"		"1769510"
+	"common"
+	{
+		"name"		"FEWAR-DVD"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"f347569d8c35cc399e7307fea4fd77f5bde1eea0"
+		"clienttga"		"224b8218133a350e7608d66288c59360143287bf"
+		"icon"		"a35925af6cd45ee7affaadccd2feb59597c17a6d"
+		"logo"		"170e7f5b87425a3f8be6f35b9088cc64d0e94cc4"
+		"logo_small"		"170e7f5b87425a3f8be6f35b9088cc64d0e94cc4_thumb"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.59277585353789"
+				"height_pct"		"56.037436552367495"
+			}
+		}
+		"store_asset_mtime"		"1640929158"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"dev_dwarf"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"HIS"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Lewmoth"
+			}
+			"3"
+			{
+				"type"		"developer"
+				"name"		"nickmuse"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1640969460"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1769510"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1773"
+			"1"		"42804"
+			"2"		"19"
+			"3"		"5125"
+			"4"		"1720"
+			"5"		"3959"
+			"6"		"1714"
+			"7"		"4975"
+			"8"		"492"
+			"9"		"7481"
+			"10"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"dev_dwarf"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FEWAR-DVD"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"fewar.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Run the game."
+				}
+				"description"		"Run the game."
+			}
+		}
+	}
+	"depots"
+	{
+		"1769511"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1964873872873769890"
+					"size"		"25631694"
+					"download"		"16503200"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8238288"
+				"timeupdated"		"1645341768"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"fewar"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
