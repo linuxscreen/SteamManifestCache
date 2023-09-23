@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"1791610"
+	"common"
+	{
+		"name"		"东方秘剑录"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"758453940ed57c06057eb2961b19fb979542544a"
+		"logo_small"		"758453940ed57c06057eb2961b19fb979542544a_thumb"
+		"icon"		"20c86afff59ddb32deee2124a1e310728a1a8010"
+		"clienttga"		"018cfecc7e68ba200cc4fae0ccfa794a61b52735"
+		"clienticon"		"42449bfc7bf0e0c48eaaba2fe531cfb090b06dd0"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"东方秘剑录"
+			"tchinese"		"東方秘劍錄"
+			"japanese"		"東方秘剣録"
+			"english"		"Touhou Mystery Reel"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw,ja"
+			"library_hero"		"en,zh-cn,zh-tw,ja"
+			"library_logo"		"zh-cn,zh-tw,ja,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"97.90697674418604"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1661266091"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Iceprite"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Iceprite"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1644811577"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1791610"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"21"
+			"2"		"19"
+			"3"		"9"
+			"4"		"4106"
+			"5"		"1625"
+			"6"		"4158"
+			"7"		"5379"
+			"8"		"5537"
+			"9"		"3834"
+			"10"		"3798"
+			"11"		"1738"
+			"12"		"3871"
+			"13"		"3964"
+			"14"		"4085"
+			"15"		"4726"
+			"16"		"4305"
+			"17"		"1751"
+			"18"		"4172"
+			"19"		"4608"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Iceprite"
+		"publisher"		"Iceprite"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TouhouMysteryReel"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TouhouMysteryReel.exe"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"1791611"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4283239159897623720"
+					"size"		"204139894"
+					"download"		"63093920"
+				}
+				"develop"
+				{
+					"gid"		"4283239159897623720"
+					"size"		"204139894"
+					"download"		"63093920"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9632559"
+				"timeupdated"		"1664611165"
+			}
+			"develop"
+			{
+				"buildid"		"9632559"
+				"description"		"test"
+				"timeupdated"		"1664611143"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Iceprite/TouhouMysteryReel"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
