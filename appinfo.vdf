@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"934180"
+	"common"
+	{
+		"name"		"Trials of Wilderness"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"8d37fc98629919a38b25bf233ac132e426793e02"
+		"logo_small"		"8d37fc98629919a38b25bf233ac132e426793e02_thumb"
+		"icon"		"40d0a0d5e5eaa843963d790247d4b29be81de81f"
+		"clienttga"		"339679d1666392c3c391ec611fed74ec41d419b9"
+		"clienticon"		"64720accd88dead93239662019a4c7b824cbef53"
+		"releasestate"		"released"
+		"osextended"		""
+		"name_localized"
+		{
+			"russian"		"Испытания диких земель"
+			"schinese"		"荒野的试炼"
+		}
+		"metacritic_name"		"Trials of Wilderness"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.76744186046512"
+				"height_pct"		"52.27974352885299"
+			}
+		}
+		"store_asset_mtime"		"1654284528"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MightByte Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MightByte Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_48"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1640448480"
+		"community_hub_visible"		"1"
+		"gameid"		"934180"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"6730"
+			"2"		"19"
+			"3"		"1695"
+			"4"		"1685"
+			"5"		"21"
+			"6"		"9564"
+			"7"		"4172"
+			"8"		"7332"
+			"9"		"492"
+			"10"		"3839"
+			"11"		"493"
+			"12"		"4182"
+			"13"		"4175"
+			"14"		"1702"
+			"15"		"597"
+			"16"		"1100689"
+			"17"		"1720"
+			"18"		"19568"
+			"19"		"30358"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"MightByte Games"
+		"publisher"		"MightByte Games"
+		"homepage"		"https://www.instagram.com/mightbyte_games/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Trials of Wilderness"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Trials of wilderness.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"934181"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2665888369780573935"
+					"size"		"3419759561"
+					"download"		"1554795248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"november_2020"
+				{
+					"gid"		"F241F76E87C463F76E31C6F2BF2C38DF"
+					"size"		"5CCF02C60A2D5B6BD2E2C5D305247BAA"
+					"download"		"E493669C7041E8A25A3C1A107930CB97"
+				}
+				"test"
+				{
+					"gid"		"FD3AD78684377372FE2C7FE8E2870173"
+					"size"		"C3C82730B516CC4A920C86931B3A5578"
+					"download"		"50A40FBC2C308BB29C8A655C557C467E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11024366"
+				"timeupdated"		"1681771648"
+			}
+			"november_2020"
+			{
+				"buildid"		"5919068"
+				"pwdrequired"		"1"
+				"timeupdated"		"1614272963"
+			}
+			"test"
+			{
+				"buildid"		"11024366"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681770690"
+			}
+		}
+	}
+}
