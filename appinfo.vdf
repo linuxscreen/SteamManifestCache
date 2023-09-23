@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"2242040"
+	"common"
+	{
+		"name"		"Qublyne Dungeons Demo"
+		"type"		"Demo"
+		"parent"		"2202070"
+		"icon"		"8987bcc635c95495f1fdfed3f039fe31e9ee98f6"
+		"clienticon"		"d1bc2ab013b611e37e34cc9522d4e9994515fb3d"
+		"clienttga"		"22b2edd1bf5c9a88160e744cfdf6f2fd7184aa76"
+		"linuxclienticon"		"1340698304cd71ee2134f74d078f14b0fe2265f9"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1670413358"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Arkadium Atrium Artum"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Arkadium Atrium Artum"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1670523156"
+		"gameid"		"2242040"
+	}
+	"extended"
+	{
+		"demoofappid"		"2202070"
+		"developer"		"Arkadium Atrium Artum"
+		"publisher"		"Arkadium Atrium Artum"
+	}
+	"config"
+	{
+		"installdir"		"QublyneDungeonsDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"qublyne_dungeons_DEMO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"qublyne_dungeons_DEMO.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"2242041"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7741235397273483897"
+					"size"		"167316488"
+					"download"		"53616064"
+				}
+			}
+		}
+		"2242042"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"190429191210067716"
+					"size"		"163590168"
+					"download"		"52458032"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10120984"
+				"timeupdated"		"1670686459"
+			}
+		}
+	}
+}
