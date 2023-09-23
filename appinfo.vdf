@@ -1,0 +1,123 @@
+"appinfo"
+{
+	"appid"		"2407360"
+	"common"
+	{
+		"name"		"IfSunSets Demo"
+		"type"		"Demo"
+		"parent"		"2271930"
+		"icon"		"dacfa9c7acd83e46d0babdd65427b48f043df295"
+		"clienttga"		"f79d73d4e7ad1d26baec2cdf99951e150b076edd"
+		"clienticon"		"29f753765eabe7b2dd003f5ae432946aa2b47d9a"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"99.53325554259044"
+				"height_pct"		"98.48017098076468"
+			}
+		}
+		"store_asset_mtime"		"1682572153"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"POLYMORPH"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"POLYMORPH"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1686991070"
+		"gameid"		"2407360"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2271930"
+		"developer"		"POLYMORPH"
+		"publisher"		"POLYMORPH"
+	}
+	"config"
+	{
+		"installdir"		"IfSunSets Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"IfSunSets.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2407361"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2144235757671381799"
+					"size"		"16325531033"
+					"download"		"16003041248"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11505073"
+				"timeupdated"		"1687173952"
+			}
+		}
+	}
+}
