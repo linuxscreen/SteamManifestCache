@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"2305790"
+	"common"
+	{
+		"name"		"1v1.LOL"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2305790_eula_0"
+				"name"		"1v1.LOL EULA"
+				"url"		"https://store.steampowered.com//eula/2305790_eula_0"
+				"version"		"1"
+			}
+		}
+		"icon"		"3e85c42adbff47726016e2a377842f6301bcc768"
+		"clienttga"		"2e93ed3e3a104b5d94f8018488f8edaeddf67db9"
+		"clienticns"		"4bbc9e79ee86e116db640a2bdbc55a2a5a577fd0"
+		"linuxclienticon"		"3800e9083dff1b104c4900a6b8369f2de80198bc"
+		"clienticon"		"3800e9083dff1b104c4900a6b8369f2de80198bc"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1676799416"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"JustPlay.LOL"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JustPlay.LOL"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"29"
+			"4"		"28"
+			"5"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"hebrew"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1687096860"
+		"community_hub_visible"		"1"
+		"gameid"		"2305790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"599"
+			"3"		"176981"
+			"4"		"1774"
+			"5"		"113"
+			"6"		"3814"
+			"7"		"4191"
+			"8"		"1697"
+			"9"		"3859"
+			"10"		"1775"
+			"11"		"1708"
+			"12"		"5711"
+			"13"		"21"
+			"14"		"128"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"JustPlay.LOL"
+		"publisher"		"JustPlay.LOL"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"1v1.LOL"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"1v1_LOL.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"2305791"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2214584250161855835"
+					"size"		"1024312817"
+					"download"		"278956256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"AC10D72AEA45B7B2EB5B254020C744FF"
+					"size"		"54161783C0EEF163DB0B9D80C23A4FE9"
+					"download"		"A4F8265A36FA7890F771D3F5FE2524ED"
+				}
+				"rcprod"
+				{
+					"gid"		"83578C9A8F2AD79A69DA65447EBC8546"
+					"size"		"93D03193736C9366486777C9D74D4FE3"
+					"download"		"F72D28EF9072824B4EBAAC3B7C424EF7"
+				}
+				"releasecandidate"
+				{
+					"gid"		"44A54FD669F01F7CDDA80BA03E3394EB"
+					"size"		"5594D74017802A2DFDAD7DBD18881601"
+					"download"		"57E7DA6A598EB91BDE8433965A55DAA3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11856892"
+				"timeupdated"		"1691065205"
+			}
+			"develop"
+			{
+				"buildid"		"12245062"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695289421"
+			}
+			"rcprod"
+			{
+				"buildid"		"12235188"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695206435"
+			}
+			"releasecandidate"
+			{
+				"buildid"		"12225376"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695126640"
+			}
+		}
+	}
+}
