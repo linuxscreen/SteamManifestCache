@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"2095250"
+	"common"
+	{
+		"name"		"LASER LAB"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"36f362175d94638998c7258b570a37a686ea902e"
+		"clienticon"		"62be5d530ec130aebe5fdfb663bb584ce6fdf917"
+		"clienttga"		"8af4c15aa21f735d12080e84c589a433c17e492d"
+		"name_localized"
+		{
+			"schinese"		"光束实验室"
+			"tchinese"		"光束實驗室"
+		}
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"52.9171528588098"
+				"height_pct"		"59.11897411541201"
+			}
+		}
+		"store_asset_mtime"		"1660952157"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ronald Wang"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ronald Wang"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1662660081"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2095250"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"5537"
+			"2"		"1664"
+			"3"		"4191"
+			"4"		"3839"
+			"5"		"1654"
+			"6"		"1720"
+			"7"		"113"
+			"8"		"3942"
+			"9"		"4182"
+			"10"		"5673"
+			"11"		"492"
+			"12"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Ronald Wang"
+		"publisher"		"Ronald Wang"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"LaserLab"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LaserLab.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"2095251"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2005942812676283292"
+					"size"		"843232018"
+					"download"		"763096416"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9381975"
+				"timeupdated"		"1661380023"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"LaserLab/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
