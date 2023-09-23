@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"1365790"
+	"common"
+	{
+		"name"		"The Game of The Playful Demo"
+		"type"		"Demo"
+		"parent"		"1359440"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"143e7be6f7a38336a48c53bdce583819f0ce49c2"
+		"clienttga"		"8d538a97eabc7a6ff529a94ec6021b1912b331b0"
+		"icon"		"92f1efac253a6db39f2019c367867d6b7d5fb948"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.46543778801843"
+				"height_pct"		"62.07025217919315"
+			}
+		}
+		"store_asset_mtime"		"1621035032"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"深蓝制作组"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"深蓝制作组"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1621382076"
+		"gameid"		"1365790"
+	}
+	"extended"
+	{
+		"demoofappid"		"1359440"
+		"developer"		"深蓝制作组"
+		"publisher"		"深蓝制作组"
+	}
+	"config"
+	{
+		"installdir"		"The Game of The Playful Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1365791"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8405357152626433939"
+					"size"		"336351122"
+					"download"		"182115744"
+				}
+				"v1100"
+				{
+					"gid"		"8405357152626433939"
+					"size"		"336351122"
+					"download"		"182115744"
+				}
+				"v1112"
+				{
+					"gid"		"114208936481921010"
+					"size"		"421443751"
+					"download"		"259748240"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11694095"
+				"timeupdated"		"1691850324"
+			}
+			"v1100"
+			{
+				"buildid"		"11694095"
+				"description"		"V1100版立绘"
+				"timeupdated"		"1689254187"
+			}
+			"v1112"
+			{
+				"buildid"		"11694838"
+				"description"		"ino立绘版本"
+				"timeupdated"		"1691850454"
+			}
+		}
+	}
+}
