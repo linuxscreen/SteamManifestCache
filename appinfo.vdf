@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"1831900"
+	"common"
+	{
+		"name"		"UE5 Shooter Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"6a5d5e8923afb86f9bb68b0d41d954434ae5bdcd"
+		"logo_small"		"6a5d5e8923afb86f9bb68b0d41d954434ae5bdcd_thumb"
+		"icon"		"a3830f9e758c6801ab064775415aabcda83bf2fb"
+		"clienttga"		"5f178f2d3dfce329b1e36cea4df5731d4f3021cc"
+		"clienticns"		"1f7d0b4ee6bbbe314aad858a5f11909138776caa"
+		"linuxclienticon"		"7ef9c8077f6b8d2a29035a28c09fed0ff38270be"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"76972405300e8c31683608b9a60e93620d4d3b8f"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"91.56079854809437"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1639572102"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"李晟艺"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"李晟艺"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"李晟艺"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"李晟艺"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"李晟艺"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1639739573"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1831900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"19"
+			"2"		"6506"
+			"3"		"1774"
+			"4"		"5900"
+			"5"		"1663"
+			"6"		"5395"
+			"7"		"4191"
+			"8"		"4168"
+			"9"		"113"
+			"10"		"122"
+			"11"		"3993"
+			"12"		"1775"
+			"13"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"45"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=1831900"
+		"absolutemousecoordinates"		"1"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"李晟艺"
+		"publisher"		"李晟艺"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Windows"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AdvancedShooterGame.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1831901"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6054934198498287841"
+					"size"		"5213552341"
+					"download"		"3346002800"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8655054"
+				"timeupdated"		"1651316359"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"10000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"sync_while_suspended"		"1"
+	}
+}
