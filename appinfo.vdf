@@ -1,0 +1,344 @@
+"appinfo"
+{
+	"appid"		"1158980"
+	"common"
+	{
+		"name"		"Idle big Devil"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"d5d95fe73a320c882eabaf723914e1f4e90c0b8b"
+		"logo_small"		"d5d95fe73a320c882eabaf723914e1f4e90c0b8b_thumb"
+		"icon"		"a1734b730ec7ab3a961ffc159fbd04cf4c6935cd"
+		"clienttga"		"7e9d493f48a3424cd4b8003d5341ab8d51f3b810"
+		"clienticon"		"a275ab9a9c74b82051291c7d9abb22a8af9db3c5"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"english"		"Idle Big Devil"
+			"schinese"		"放置大魔王"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"7814315"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.28121353558929"
+				"height_pct"		"56.83923058655902"
+			}
+		}
+		"store_asset_mtime"		"1636615844"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HONG KONG SPARK SOFTWARE TECHNOLOGY CO., LIMITED"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HONG KONG SPARK SOFTWARE TECHNOLOGY CO., LIMITED"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Idle Big Devil"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"IBD"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1635942472"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1158980"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"597"
+			"3"		"615955"
+			"4"		"21"
+			"5"		"492"
+			"6"		"379975"
+			"7"		"1666"
+			"8"		"12095"
+			"9"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=1158980"
+		"developer"		"HONG KONG SPARK SOFTWARE TECHNOLOGY CO., LIMITED"
+		"publisher"		"HONG KONG SPARK SOFTWARE TECHNOLOGY CO., LIMITED"
+		"isfreeapp"		"1"
+		"listofdlc"		"1365000"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Idle Big Devil"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DMW.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"DMW.app/Contents/MacOS/IBD"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"DMW.app/Contents/MacOS/IBD"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"client_test"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"8"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"hasdepotsindlc"		"0"
+		"1158981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1169919982881376095"
+					"size"		"814926723"
+					"download"		"655996752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"oldversion"
+				{
+					"gid"		"011A61473041189682CCBBD5BF02EE43"
+					"size"		"6A6C5DBE120A8C166C8C2B19928A6DC3"
+					"download"		"6DB59B7CDB6BF4907705BC924A72C0A7"
+				}
+				"publish_test"
+				{
+					"gid"		"0FEC853033ABE44A8CA9F834C1169A22"
+					"size"		"30B1745A650EF3E31EAFEF631D02E0F5"
+					"download"		"10D24A0ADE01B761F85D6B35689AD807"
+				}
+			}
+		}
+		"1158982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6152155018251513369"
+					"size"		"795818982"
+					"download"		"648997328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"oldversion"
+				{
+					"gid"		"7ACA334E2A3502C2045235E7962671E1"
+					"size"		"D2307AF923411E8B7E0D3F26BC7D10EB"
+					"download"		"6019A6D20A55DB63E1F4E3BE5DDE8B27"
+				}
+				"publish_test"
+				{
+					"gid"		"CAF08C1C4DC6918FFA1C2F56CD99E2D0"
+					"size"		"657850147A19B412848D06A2B12BB2CC"
+					"download"		"930E5607B91139EB2BA7E8321EFB16BF"
+				}
+			}
+		}
+		"1158983"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"496411611380151068"
+					"size"		"816641099"
+					"download"		"649072528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"oldversion"
+				{
+					"gid"		"53E15BABE44CF526D2E752018ABF6E8D"
+					"size"		"6404B559EEF205A234D46862420B1353"
+					"download"		"B77569AC24D2EC88CED9ECD696E6D6BF"
+				}
+				"publish_test"
+				{
+					"gid"		"95AB3F72B2EABF3CED11920B4975A1A6"
+					"size"		"96EF7556DB7638F3E116FB0040EC99F5"
+					"download"		"FAE55C6BE101F3C67410145392AE7425"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10871893"
+				"timeupdated"		"1680056989"
+			}
+			"oldversion"
+			{
+				"buildid"		"7649911"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635945483"
+			}
+			"publish_test"
+			{
+				"buildid"		"10871893"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679991227"
+			}
+		}
+	}
+}
