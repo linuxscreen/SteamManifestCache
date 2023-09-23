@@ -1,0 +1,160 @@
+"appinfo"
+{
+	"appid"		"1713600"
+	"common"
+	{
+		"name"		"Spinstar Demo"
+		"type"		"Demo"
+		"parent"		"1669850"
+		"releasestate"		"released"
+		"clienticon"		"25b27c446cf43ec9fa9ccf9d3eb7b7cd5bba0a47"
+		"clienttga"		"0cf86cd83364472a5806fd54bff91411f9418952"
+		"icon"		"6209c4bceedbd47a781b02c77522f439aac35f17"
+		"clienticns"		"3616e7b45eb85135f96114c4e63e0491106fe63f"
+		"linuxclienticon"		"d4bc6cd4f66960e9deb4bdb1e94450f925cb18bb"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1628795395"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PixyDevs"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PixyDevs"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629079748"
+		"gameid"		"1713600"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1669850"
+		"developer"		"PixyDevs"
+		"publisher"		"PixyDevs"
+	}
+	"config"
+	{
+		"installdir"		"Spinstar Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"spinstar_windows.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"spinstar.app\\Contents\\MacOS\\spinstar"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"spinstar_linux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1713601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1248645920775230248"
+					"size"		"69356205"
+					"download"		"41477168"
+				}
+			}
+		}
+		"1713602"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6194748142426596873"
+					"size"		"75897786"
+					"download"		"42154656"
+				}
+			}
+		}
+		"1713603"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"957224703469851796"
+					"size"		"75001980"
+					"download"		"42395056"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7218682"
+				"timeupdated"		"1629408306"
+			}
+		}
+	}
+}
