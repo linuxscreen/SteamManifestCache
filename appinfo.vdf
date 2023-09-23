@@ -1,0 +1,298 @@
+"appinfo"
+{
+	"appid"		"462930"
+	"common"
+	{
+		"name"		"AdVenture Communist"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"logo"		"e1bb47b87fa0abae4364d44e18d0a932e8f3f3cd"
+		"logo_small"		"e1bb47b87fa0abae4364d44e18d0a932e8f3f3cd_thumb"
+		"icon"		"b22cfd05cc4cdf32ce7e8f618ad6f7e1aecc47c3"
+		"osarch"		""
+		"clienttga"		"11020c270add9a97da3be0f3a3c619ef16162d94"
+		"clienticns"		"b73e0e461c2766dac1aa2c6f67897c4fbed089e0"
+		"clienticon"		"b0dbe958f678fd33b3d5df4c611eb6fddd191af0"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1653004800"
+			"tested_build_id"		"1633891"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"AdVenture Communist"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1470937388"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hyper Hippo Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hyper Hippo Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1470812400"
+		"steam_release_date"		"1471969740"
+		"community_hub_visible"		"1"
+		"gameid"		"462930"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"379975"
+			"2"		"597"
+			"3"		"4182"
+			"4"		"493"
+			"5"		"599"
+			"6"		"492"
+			"7"		"9"
+			"8"		"4136"
+			"9"		"5350"
+			"10"		"10397"
+			"11"		"1756"
+			"12"		"21"
+			"13"		"615955"
+			"14"		"4845"
+			"15"		"1698"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"developer"		"Hyper Hippo Games"
+		"publisher"		"Hyper Hippo Games"
+		"homepage"		"http://hyperhippo.ca/games/adventure-communist"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"AdVenture Communist"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"adventure-communist.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"adventure-communist.app"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"462931"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4822956185351534006"
+					"size"		"65917106"
+					"download"		"14849936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"balance-tests"
+				{
+					"gid"		"861E47BA363F1C720C2E1F9B6F69464B"
+					"size"		"B84236227E17909CB58C73A29A5458A9"
+					"download"		"FDD41817F6894BBB9B85FEFCFE4A45D5"
+				}
+				"experiment-1"
+				{
+					"gid"		"D3CEC864DB5695AA10FCE7DE1B2D0A32"
+					"size"		"1521684BDAEF0E40390792059F70BC72"
+					"download"		"9B1FBA1911EE6843A56A3FFAAF3A0253"
+				}
+				"internal"
+				{
+					"gid"		"0A78B6411CA18EFADDFD73A67E1995F7"
+					"size"		"38D245934DFAAC50BAA3D8CEA76186CF"
+					"download"		"DBEB8255AE46940792738BC0505B4243"
+				}
+				"release-candidate"
+				{
+					"gid"		"62CE04423C7AECE66C76E6E62813D9EC"
+					"size"		"1CAB8AC0B52A953D1FFDFB0130282365"
+					"download"		"88D906F5D17C7365140F98E0C09391A4"
+				}
+			}
+		}
+		"462932"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5802123879527257891"
+					"size"		"76297410"
+					"download"		"17442736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"balance-tests"
+				{
+					"gid"		"AED54435E7EC79C4ABDF7D26EC672B47"
+					"size"		"932496070AFB3E6DC76FAA00BF3D8281"
+					"download"		"DFFDE7DA679AE0CB09E1E20A5A3FCE99"
+				}
+				"experiment-1"
+				{
+					"gid"		"FF77CC2740CB6E61E0434252D9BC800C"
+					"size"		"7812C72DEC442E446F70AE07E83367F5"
+					"download"		"AABEB36EDD765DD0AB5467BB70E698A6"
+				}
+				"internal"
+				{
+					"gid"		"FA93F27942E11929F55FEC181383E50B"
+					"size"		"E485A8D828E2DBBC3CA90AB90F11250F"
+					"download"		"F1DE45B9D49B3F566A2657B7478CB394"
+				}
+				"release-candidate"
+				{
+					"gid"		"48457667204D5B48F053347568A2F85F"
+					"size"		"AAD8DED953360D5203340E80306A6CF9"
+					"download"		"B37EFF7F4F752AC5096AF5BBFC4667EA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1633891"
+				"timeupdated"		"1487196793"
+			}
+			"balance-tests"
+			{
+				"buildid"		"1568515"
+				"pwdrequired"		"1"
+				"timeupdated"		"1484349601"
+			}
+			"experiment-1"
+			{
+				"buildid"		"1684418"
+				"pwdrequired"		"1"
+				"timeupdated"		"1489193183"
+			}
+			"internal"
+			{
+				"buildid"		"2327044"
+				"pwdrequired"		"1"
+				"timeupdated"		"1512000612"
+			}
+			"release-candidate"
+			{
+				"buildid"		"1633891"
+				"pwdrequired"		"1"
+				"timeupdated"		"1487192295"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"50"
+	}
+}
