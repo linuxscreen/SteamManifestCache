@@ -1,0 +1,153 @@
+"appinfo"
+{
+	"appid"		"1699680"
+	"common"
+	{
+		"name"		"Cleo - a pirate's tale Demo"
+		"type"		"Demo"
+		"parent"		"1361230"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"91a2b68aa7db50c6db276683af3b83fb487ee5ca"
+		"clienttga"		"787baf9a7a81c0af0b70f54ed00159014d328806"
+		"icon"		"4ee672c1d3780f6c7d8951a882f91826ab95205e"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1629465128"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Christoph Schultz"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Greycap Audiovisual Mediadesign UG"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629663037"
+		"gameid"		"1699680"
+	}
+	"extended"
+	{
+		"demoofappid"		"1361230"
+		"developer"		"Christoph Schultz"
+		"publisher"		"Greycap Audiovisual Mediadesign UG"
+		"homepage"		"http://www.cleogame.de"
+	}
+	"config"
+	{
+		"installdir"		"Cleo - a pirate's tale Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Cleo_Demo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Cleo_Demo210820.app\\Contents\\MacOS\\Cleo_Demo"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1699681"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2543418331351056033"
+					"size"		"1314754389"
+					"download"		"342930304"
+				}
+			}
+		}
+		"1699682"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4563020737609371536"
+					"size"		"1316510882"
+					"download"		"343344992"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7248231"
+				"timeupdated"		"1629898156"
+			}
+		}
+	}
+}
