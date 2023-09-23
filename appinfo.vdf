@@ -1,0 +1,258 @@
+"appinfo"
+{
+	"appid"		"1584760"
+	"common"
+	{
+		"name"		"Lake Demo"
+		"type"		"Demo"
+		"parent"		"1118240"
+		"clienttga"		"26e5f06d20f233e231a6d86fb1942019e5e02295"
+		"clienticon"		"a25fad53f157716303810ee5360230f90acc376e"
+		"icon"		"704c0cfea8cf0d20ca6b9dc37c17d481482ccb63"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"37.441860465116235"
+				"height_pct"		"83.81619567798623"
+			}
+		}
+		"store_asset_mtime"		"1617868133"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gamious"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Whitethorn Digital"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Gamious"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1619179134"
+		"gameid"		"1584760"
+	}
+	"extended"
+	{
+		"demoofappid"		"1118240"
+		"developer"		"Gamious"
+		"publisher"		"Whitethorn Digital"
+	}
+	"config"
+	{
+		"installdir"		"Lake Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lake.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1584761"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1810185562778121274"
+					"size"		"2213280156"
+					"download"		"921161440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"2BB5A82912FF62BCD7A59E68D91B37CB"
+					"size"		"51A5C73714ED39123071E2126CCDBEEA"
+					"download"		"19B722BE14BDA82FF7F905685792054E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10451314"
+				"timeupdated"		"1676379038"
+			}
+			"development"
+			{
+				"buildid"		"10451314"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676304275"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"1118240"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Gamious/Lake/lake/saves"
+				"pattern"		"*.lake"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Gamious/Lake/lake/saves"
+				"pattern"		"*.png"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Gamious/Lake/lake/saves"
+				"pattern"		"*.txt"
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Gamious/Lake/lake/photos"
+				"pattern"		"*.png"
+			}
+			"4"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Gamious/Lake/lake"
+				"pattern"		"*global.lake"
+			}
+			"copied_from_parent"		"1"
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Gamious/Lake/lake/saves"
+						"replace"		".config/unity3d/Gamious/Lake/lake/saves"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Gamious/Lake/lake/saves"
+						"replace"		".config/unity3d/Gamious/Lake/lake/saves"
+					}
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Gamious/Lake/lake/saves"
+						"replace"		".config/unity3d/Gamious/Lake/lake/saves"
+					}
+				}
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Gamious/Lake/lake/saves"
+						"replace"		".config/unity3d/Gamious/Lake/lake/photos"
+					}
+				}
+			}
+			"4"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Gamious/Lake/lake/saves"
+						"replace"		".config/unity3d/Gamious/Lake/lake"
+					}
+				}
+			}
+		}
+	}
+}
