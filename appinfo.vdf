@@ -1,0 +1,142 @@
+"appinfo"
+{
+	"appid"		"213390"
+	"common"
+	{
+		"name"		"Atooms to Moolecules"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"metacritic_name"		"Atooms to Moolecules Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1338850708"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BitSits Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BitSits Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1333762920"
+		"gameid"		"213390"
+		"exfgls"		"1"
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"BitSits Games"
+		"gamedir"		"ValveTestApp213390"
+		"homepage"		"http://bitsits.blogspot.in/2011/02/atooms-to-moolecule.html"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"BitSits Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Atooms To Moolecules"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Atooms to Moolecules.exe"
+				"arguments"		""
+				"description"		""
+				"workingdir"		""
+			}
+		}
+		"installscriptsignature"		"636ddb5954e29cdc54ace0264c3f840d42af06dca4aa31769b86d3dc45a44ef278328708718a3e74c0782aa72dab7ccb468d5621613dc9473c44341f2459b63601398159f75044daa94cfff85edaf4d2e50cd510119e64900aef2eb6c1ab1b97578cc56afc6e892a36670be996e7f3928d8384303018c6589eda67d341876fe4"
+		"installscriptoverride"		"1"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"xna redistributables"
+			{
+				"process 1"		"%windir%\\system32\\msiexec.exe"
+				"command 1"		"/i \"%INSTALLDIR%\\redist\\xnafx40_redist.msi\" /passive"
+				"nocleanup"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"213391"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3549117301796573738"
+					"size"		"16743538"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"1322465011198171847"
+					"size"		"9688918"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"3549117301796573738"
+					"size"		"16743538"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3367"
+			}
+			"beta"
+			{
+				"buildid"		"3155"
+			}
+			"local"
+			{
+				"buildid"		"3366"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+		}
+	}
+}
