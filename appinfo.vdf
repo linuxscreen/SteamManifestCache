@@ -1,0 +1,182 @@
+"appinfo"
+{
+	"appid"		"2020670"
+	"common"
+	{
+		"name"		"StarMaker VR"
+		"type"		"Game"
+		"icon"		"6720d9ff2ba2317c3fd8a4b7c2117c04c5e69d41"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2020670_eula_2"
+				"name"		"StarMaker VR EULA"
+				"url"		"https://store.steampowered.com//eula/2020670_eula_2"
+				"version"		"2"
+			}
+			"1"
+			{
+				"id"		"2020670_eula_3"
+				"name"		"StarMaker VR EULA"
+				"url"		"https://store.steampowered.com//eula/2020670_eula_3"
+				"version"		"1"
+			}
+		}
+		"clienttga"		"be4a73077a8889d49828b1b8cefccd90b3e9632d"
+		"linuxclienticon"		"c8ae5848075cd6b8c8694c2d7148de5f6914b37e"
+		"clienticon"		"49d104ff7611b78dabb18a57eb71606e6b939aee"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"Starmaker_Data\\StreamingAssets\\SteamVR"
+		"openvrsupport"		"1"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1671607408"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"STAR SHINE ENTERTAINMENT PTE LTD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"STAR SHINE ENTERTAINMENT PTE LTD"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664521260"
+		"community_hub_visible"		"1"
+		"gameid"		"2020670"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"1752"
+			"2"		"597"
+			"3"		"492"
+			"4"		"7948"
+			"5"		"5154"
+			"6"		"4182"
+			"7"		"7368"
+			"8"		"1621"
+			"9"		"1663"
+			"10"		"7926"
+			"11"		"8253"
+			"12"		"4252"
+			"13"		"1710"
+			"14"		"784"
+			"15"		"1027"
+			"16"		"4191"
+			"17"		"1774"
+			"18"		"1669"
+			"19"		"3839"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"STAR SHINE ENTERTAINMENT PTE LTD"
+		"publisher"		"STAR SHINE ENTERTAINMENT PTE LTD"
+		"homepage"		"https://vr.starmakerstudios.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Starmaker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StarMaker.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2020671"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"463543218985602857"
+					"size"		"1057507997"
+					"download"		"837237440"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10305275"
+				"timeupdated"		"1673513234"
+			}
+		}
+	}
+}
