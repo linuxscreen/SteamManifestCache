@@ -1,0 +1,172 @@
+"appinfo"
+{
+	"appid"		"1238250"
+	"common"
+	{
+		"name"		"Cave Game"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"aafcb392433b8e9711d1c0038bf6f777e54bc9de"
+		"logo_small"		"aafcb392433b8e9711d1c0038bf6f777e54bc9de_thumb"
+		"icon"		"7539826bec82171018f3ee7cfeb0c98cad5ec4b4"
+		"clienticon"		"686c51b779c5944a35bc997d31ab14880831f529"
+		"clienttga"		"9beecba0daaa218f71a08524e5c55d624c1d0b66"
+		"releasestate"		"released"
+		"metacritic_name"		"Cave Game"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"20.466744457409575"
+				"height_pct"		"87.15277777777777"
+			}
+		}
+		"store_asset_mtime"		"1581108116"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Conarium Software"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Conarium Software"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"28"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1582791240"
+		"community_hub_visible"		"1"
+		"gameid"		"1238250"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"21"
+			"2"		"599"
+			"3"		"493"
+			"4"		"1643"
+			"5"		"5125"
+			"6"		"7332"
+			"7"		"6129"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Conarium Software"
+		"publisher"		"Conarium Software"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"CaveGame"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"cavegame.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"CaveGame.Client.DesktopGL"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1238252"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4714119513022195014"
+					"size"		"190110503"
+					"download"		"67376064"
+				}
+			}
+		}
+		"1238253"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2117920117765056093"
+					"size"		"190111248"
+					"download"		"67376480"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10749049"
+				"timeupdated"		"1678591557"
+			}
+		}
+	}
+}
