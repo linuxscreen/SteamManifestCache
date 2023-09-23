@@ -1,0 +1,158 @@
+"appinfo"
+{
+	"appid"		"1479690"
+	"common"
+	{
+		"name"		"素敵な彼女の作り方 Demo"
+		"type"		"Demo"
+		"parent"		"1396150"
+		"releasestate"		"released"
+		"clienttga"		"cdc5128df7df642d515e1adbc86bfe0c935814b0"
+		"clienticon"		"2fbfd2767768efec8b707d597c0c1a3d9a6ea05e"
+		"icon"		"d779383ec347de1c60d25aabb06ffe506a57722a"
+		"name_localized"
+		{
+			"english"		"Sutekina kanojo no tsukurikata  Demo"
+			"japanese"		"素敵な彼女の作り方 体験版"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"31f1cb645160d184f7069ede41d9c2e4ffa801e5"
+		"logo_small"		"31f1cb645160d184f7069ede41d9c2e4ffa801e5_thumb"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-tw,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-tw,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1613704140"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sushi_soft"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sushi_soft"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1621220660"
+		"gameid"		"1479690"
+	}
+	"extended"
+	{
+		"demoofappid"		"1396150"
+		"developer"		"Sushi_soft"
+		"publisher"		"Sushi_soft"
+		"homepage"		"https://www.sushi-soft.com/"
+	}
+	"config"
+	{
+		"installdir"		"Sutekina_kanojo_no_tsukurikata_demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sutekina_kanojo_no_tsukurikata.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"1479691"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6481321307875058664"
+					"size"		"1594421402"
+					"download"		"265823680"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5898413"
+				"timeupdated"		"1606714229"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Sutekina_kanojo_no_tsukurikata_Data/Utage"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
