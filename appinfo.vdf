@@ -1,0 +1,104 @@
+"appinfo"
+{
+	"appid"		"1712520"
+	"common"
+	{
+		"name"		"Walking into Walls Demo"
+		"type"		"Demo"
+		"parent"		"1710220"
+		"releasestate"		"released"
+		"clienticon"		"eed582d92404bcf6eccedcb74d2d6df682ce9aa5"
+		"clienttga"		"06f747325c8f828f040ac53c99061e448b47ccf3"
+		"icon"		"8b3727e9379862f50f60a82f6645429216440186"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1627924807"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gerald W Lynch"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GJ Arts"
+			}
+		}
+		"steam_release_date"		"1628006910"
+		"gameid"		"1712520"
+	}
+	"extended"
+	{
+		"demoofappid"		"1710220"
+		"developer"		"Gerald W Lynch"
+		"publisher"		"GJ Arts"
+	}
+	"config"
+	{
+		"installdir"		"Walking into Walls Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WallsDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1712521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8036135475288745792"
+					"size"		"66418053"
+					"download"		"49632256"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7119176"
+				"timeupdated"		"1627925202"
+			}
+		}
+	}
+}
