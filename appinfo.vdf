@@ -1,0 +1,172 @@
+"appinfo"
+{
+	"appid"		"2346620"
+	"common"
+	{
+		"name"		"The MisAdventures of Xenos Demo"
+		"type"		"Demo"
+		"parent"		"2285000"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"634ac1349c99da7e7a03def21278a209596477b2"
+		"clienticon"		"e92a7be3dcdac410112bca501f40a113fa13116a"
+		"clienttga"		"afcefbac2182a817fb0e71c20909bf737340afaf"
+		"clienticns"		"44daa425c15c1898ecdaf80d715f9f1436e3ee7e"
+		"linuxclienticon"		"0c073bff18ea759e2ec143f797697ae7081a8011"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1678253069"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ZestyTS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ZestyTS"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"steam_release_date"		"1678461735"
+		"gameid"		"2346620"
+	}
+	"extended"
+	{
+		"demoofappid"		"2285000"
+		"absolutemousecoordinates"		"1"
+		"developer"		"ZestyTS"
+		"publisher"		"ZestyTS"
+	}
+	"config"
+	{
+		"installdir"		"The MisAdventures of Xenos Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"Game.app"
+				"arguments"		"--in-process-gpu"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"Game"
+				"arguments"		"--in-process-gpu"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2346622"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2528840578035965602"
+					"size"		"525843354"
+					"download"		"290451360"
+				}
+			}
+		}
+		"2346623"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9220931098470250608"
+					"size"		"711470305"
+					"download"		"252349328"
+				}
+			}
+		}
+		"2346624"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8388726144134826296"
+					"size"		"577712062"
+					"download"		"289720640"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10752366"
+				"timeupdated"		"1678666617"
+			}
+		}
+	}
+}
