@@ -1,0 +1,186 @@
+"appinfo"
+{
+	"appid"		"1722360"
+	"common"
+	{
+		"name"		"Bloodlines of Shadow Springs Demo"
+		"type"		"Demo"
+		"parent"		"1580160"
+		"clienticon"		"2cedacb1396690cb6d1680c3b8cad0c75912ebbd"
+		"clienttga"		"e8528264953bb17a90eae066916729777627f94f"
+		"icon"		"0ebcc95c5eb02116e8943825e455200f1bad316b"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1628594280"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lesson of Passion"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Ktulhu Solutions"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Lesson of Passion"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1628924181"
+		"gameid"		"1722360"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1580160"
+		"developer"		"Lesson of Passion"
+		"publisher"		"Lesson of Passion"
+	}
+	"config"
+	{
+		"installdir"		"Shadow Springs Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"demo.app/Contents/MacOS/BloodlinesOfShadowSpringsDemo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"demo.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1722361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"831356556985389195"
+					"size"		"233342502"
+					"download"		"211835552"
+				}
+			}
+		}
+		"1722362"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"999043178392996713"
+					"size"		"234321438"
+					"download"		"213156480"
+				}
+			}
+		}
+		"1722363"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2941306070169378799"
+					"size"		"242355870"
+					"download"		"213807072"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7177926"
+				"timeupdated"		"1628758506"
+			}
+		}
+	}
+}
