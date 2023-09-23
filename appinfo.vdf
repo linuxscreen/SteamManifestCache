@@ -1,0 +1,602 @@
+"appinfo"
+{
+	"appid"		"596060"
+	"common"
+	{
+		"name"		"Dishonored 2 Demo"
+		"type"		"Demo"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"parent"		"403640"
+		"clienttga"		"01c864b17baf1833240d49d0cdabcc1696aa3d1f"
+		"clienticon"		"a7353bffe65192a4a87008380d49c0e2ff9327ca"
+		"icon"		"6d6bac950a234764a353c518607dcd01973f5b65"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"596060_eula_0"
+				"name"		"Dishonored 2 Demo EULA"
+				"url"		"http://store.steampowered.com//eula/596060_eula_0"
+			}
+		}
+		"metacritic_name"		"Dishonored 2 Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1490710103"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Arkane Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bethesda Softworks"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1491450945"
+		"gameid"		"596060"
+		"review_score"		"7"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"demoofappid"		"403640"
+		"developer"		"Arkane Studios"
+		"publisher"		"Bethesda Softworks"
+		"homepage"		"https://dishonored.bethesda.net?utm_source=steam"
+	}
+	"config"
+	{
+		"installdir"		"Dishonored 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dishonored2.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Dishonored2_x64Retail.exe"
+				"arguments"		"+net_usePlatformBackend 1"
+				"description"		"Dishonored 2 Retail DEMO"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"beta"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigfileids"		"792125551"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,tchinese,russian,japanese,polish,brazilian"
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"596061"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7605909746980158942"
+					"size"		"19526673684"
+					"download"		"16970409776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"65484102567898EC8EC5426E3A4E1F40"
+					"size"		"7702FA98CC57AA207413D5F8A4193341"
+					"download"		"8A13EBB16BF160373A7FF75F818A05B6"
+				}
+			}
+		}
+		"596062"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"388449861846493543"
+					"size"		"372857526"
+					"download"		"148733568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"EE555701DA378E58A9069AFEC4320313"
+					"size"		"B474CC5E55820FEBF7C0C0E2370AE875"
+					"download"		"1433507E1B1D51227AE1AA3B7F22C6DB"
+				}
+			}
+		}
+		"596063"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5467677894378082081"
+					"size"		"47512576"
+					"download"		"32266320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C546C38AAA1510B27ADEBAC7CD1E1534"
+					"size"		"4F681EA76E95BD305818C37C3D978518"
+					"download"		"50D162ACBE73C7B34256CE9E0A8A0BA3"
+				}
+			}
+		}
+		"596064"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2868051711960306403"
+					"size"		"2567277490"
+					"download"		"2445930672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"EE3D99AA4B6DA64A6FD1087F1B4106D7"
+					"size"		"C521C275FAFD59B9E1FD9D5AD29B8CDA"
+					"download"		"99D7C14037A8D8E5FAA7C9F083634125"
+				}
+			}
+		}
+		"596065"
+		{
+			"config"
+			{
+				"language"		"french"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2088885774536910540"
+					"size"		"2569402839"
+					"download"		"2448471008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3E1B975A3055AA1E3A27C7EC7AAE0405"
+					"size"		"E130EF1F3B85572215E6311147E523E4"
+					"download"		"A0AD7A7BE316CA4EBB207F8F94FC9595"
+				}
+			}
+		}
+		"596066"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7609773455451255764"
+					"size"		"2635501260"
+					"download"		"2514077824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0A782CE8078C8C3CBC67DFBE868C66D9"
+					"size"		"02CADEBA6D8EAD48CF93F9D67C0D1F6B"
+					"download"		"87B07AD8382AB100DCA15452680D7C6E"
+				}
+			}
+		}
+		"596067"
+		{
+			"config"
+			{
+				"language"		"italian"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3614984394733851572"
+					"size"		"2659657428"
+					"download"		"2539336208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9D034387C31956808D285B99C90240C6"
+					"size"		"24A26ACE07529E7B476CE5ED5F69A423"
+					"download"		"4E4AF09CBBC4772788F3E5FBC4E427D7"
+				}
+			}
+		}
+		"596068"
+		{
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8395247834619557605"
+					"size"		"2668002730"
+					"download"		"2543203312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"17D063540C9DCD446E742AE2A9540C13"
+					"size"		"DE124D1B38B7CC306A32122826B85B2A"
+					"download"		"01871F0A47F8BD707190C66B326D682A"
+				}
+			}
+		}
+		"596069"
+		{
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"767264985074886177"
+					"size"		"2597240238"
+					"download"		"2472673024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"17B5031592D04DF14F96CF1F42DCB7B9"
+					"size"		"6ADF421B05CA07CFA9326476945A66C9"
+					"download"		"49866905757EF51275D88AB91D3CA258"
+				}
+			}
+		}
+		"597620"
+		{
+			"config"
+			{
+				"language"		"polish"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6903665483021098405"
+					"size"		"2620851971"
+					"download"		"2496297360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2DEF7720200564DDF8264C653078F799"
+					"size"		"4154817B4790F1A964589E188EAD5130"
+					"download"		"F2FF7A892DB6DB16ACDD8C7BD529216A"
+				}
+			}
+		}
+		"597621"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5675893024953022522"
+					"size"		"2670038027"
+					"download"		"2548145216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"314C59A18A402CA05133CD01FB9F28F9"
+					"size"		"319AAD15AEF01AC75167955937CFD6F3"
+					"download"		"4257006D65D1042E5952FCA5C39DF7D9"
+				}
+			}
+		}
+		"597622"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2991328552400833255"
+					"size"		"2613092503"
+					"download"		"2488648256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"60D6EE3A79DCD7ED408D80293D473B21"
+					"size"		"C3E86DB6D97DD6710D6E1CCC7E081FC1"
+					"download"		"3407700DB721096F96BA262ADCDE8743"
+				}
+			}
+		}
+		"597623"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"374648351982076171"
+					"size"		"1653216676"
+					"download"		"1601804752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"36AF19626CDF1C0F87D911A6FF7A5C84"
+					"size"		"19616B3C30775422955CFE4521B88EF6"
+					"download"		"9CBCBD96E60B05F5504B0B9AE285FF91"
+				}
+			}
+		}
+		"597624"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"972070404718312595"
+					"size"		"2037368808"
+					"download"		"1916694592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F6F55C33F96D35BED1E27B1E366A9CE3"
+					"size"		"7A584ABCE0183C77FFA87367E241A076"
+					"download"		"FBC70773ECD2053602EE433FAAF81764"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1886335"
+				"timeupdated"		"1497545539"
+			}
+			"beta"
+			{
+				"buildid"		"1886335"
+				"pwdrequired"		"1"
+				"timeupdated"		"1497343247"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"appidredirect"		"403640"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Arkane Studios/Dishonored2/base/savegame"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
