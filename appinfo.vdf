@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"1715830"
+	"common"
+	{
+		"name"		"GhostHunter"
+		"type"		"Game"
+		"name_localized"
+		{
+			"english"		"GhostHunter"
+			"schinese"		"除灵派对"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"1a38513ba6da1e4d53ee3edccdf9d95afb327f0a"
+		"logo_small"		"1a38513ba6da1e4d53ee3edccdf9d95afb327f0a_thumb"
+		"icon"		"8bbf83628d6313c6980f3ad8da48860a7923291d"
+		"clienticon"		"b5ab3cc9667cd8a1dc6776b1af58a58e8037935a"
+		"clienttga"		"b91ea93815408d42a010ebfdbcee8bce759e3571"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"66.86197916666666"
+				"height_pct"		"61.45833333333333"
+			}
+		}
+		"store_asset_mtime"		"1639364060"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"谷雨工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"谷雨工作室"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1639138113"
+		"community_hub_visible"		"1"
+		"gameid"		"1715830"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1718"
+			"1"		"597"
+			"2"		"4136"
+			"3"		"1685"
+			"4"		"19"
+			"5"		"5350"
+			"6"		"4106"
+			"7"		"5395"
+			"8"		"4191"
+			"9"		"4562"
+			"10"		"4195"
+			"11"		"4726"
+			"12"		"1719"
+			"13"		"1667"
+			"14"		"1654"
+			"15"		"1681"
+			"16"		"10808"
+			"17"		"5363"
+			"18"		"4057"
+			"19"		"1775"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"谷雨工作室"
+		"publisher"		"谷雨工作室"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"除灵派对"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1715831"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"438460644425166018"
+					"size"		"622462313"
+					"download"		"159821888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"B5CCCEA51732437DB315B31FBB0B6209"
+					"size"		"038B18CBD655CCA71FA3527D4ABC6F1C"
+					"download"		"AACF69B8BDBB5FFE6600EEC859129580"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8000616"
+				"timeupdated"		"1641890940"
+			}
+			"test"
+			{
+				"buildid"		"8000616"
+				"pwdrequired"		"1"
+				"timeupdated"		"1641889867"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"99999999999"
+		"maxnumfiles"		"9999"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"ghosthunter.bin"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
