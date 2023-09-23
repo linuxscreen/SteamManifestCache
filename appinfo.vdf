@@ -1,0 +1,130 @@
+"appinfo"
+{
+	"appid"		"2348150"
+	"common"
+	{
+		"name"		"Fragment of CISCD Demo"
+		"type"		"Demo"
+		"parent"		"2340440"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"653c99193f675dff9a7ea85b7b1d6397de4b12d3"
+		"clienttga"		"0530ba8ec75706794dc92e8e22e58f4c88f9f14b"
+		"icon"		"e0a1986d1c7b4ef41b8a44eaa9ff27cc8d273423"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.08401400233374"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1678410780"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Triangelaction"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Triangelaction"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678458000"
+		"gameid"		"2348150"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2340440"
+		"developer"		"Triangelaction"
+		"publisher"		"Triangelaction"
+	}
+	"config"
+	{
+		"installdir"		"Fragment of CISCD Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2348151"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8563524091309449518"
+					"size"		"5447989045"
+					"download"		"5262603008"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11205520"
+				"timeupdated"		"1683783053"
+			}
+		}
+	}
+}
