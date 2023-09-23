@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1594860"
+	"common"
+	{
+		"name"		"GashiShachiNoSachi"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"0ab5d562c6f5b42b29d44e0bc372ddbefc933348"
+		"logo_small"		"0ab5d562c6f5b42b29d44e0bc372ddbefc933348_thumb"
+		"icon"		"5b004d3ef763ff7b40cf2c0c72d044267145aa03"
+		"clienticon"		"cb761206eb56e63f27ae889f25c029b73273c823"
+		"clienttga"		"28722715cf1c50a698521fc81064fee4d79e35f7"
+		"name_localized"
+		{
+			"japanese"		"餓史シャチの幸"
+			"english"		"GashiShachiNoSachi"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1618825851"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"XPLORER SIX"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"XPLORER SIX"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1620111675"
+		"community_hub_visible"		"1"
+		"gameid"		"1594860"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1698"
+			"2"		"3871"
+			"3"		"4400"
+			"4"		"5716"
+			"5"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"XPLORER SIX"
+		"publisher"		"XPLORER SIX"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"GashiShachiNoSachi"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GashiShachiNoSachi\\GashiShachiNoSachi.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"japanese"
+		"1594861"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5125753484495132557"
+					"size"		"140046842"
+					"download"		"41153328"
+				}
+				"english"
+				{
+					"gid"		"5125753484495132557"
+					"size"		"140046842"
+					"download"		"41153328"
+				}
+			}
+		}
+		"1594862"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2045192632672106610"
+					"size"		"140035913"
+					"download"		"41150176"
+				}
+				"english"
+				{
+					"gid"		"2045192632672106610"
+					"size"		"140035913"
+					"download"		"41150176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6604034"
+				"timeupdated"		"1619477195"
+			}
+			"english"
+			{
+				"buildid"		"6604033"
+				"description"		"english"
+				"timeupdated"		"1619477179"
+			}
+		}
+	}
+}
