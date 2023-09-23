@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"2201760"
+	"common"
+	{
+		"name"		"Super Dark Deception Demo"
+		"type"		"Demo"
+		"parent"		"2193720"
+		"icon"		"f144c5efa5437d6c49af80f3727711eab227c828"
+		"clienticon"		"34ad587530190629b271eda0508c2bd480ef2071"
+		"clienttga"		"de30dc02bbb895c1714c046a2d5fecde880c1555"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.551617471533675"
+				"height_pct"		"80.38584020881117"
+			}
+		}
+		"store_asset_mtime"		"1668492104"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Glowstick Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Glowstick Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dark Deception"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1668183789"
+		"gameid"		"2201760"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2193720"
+		"developer"		"Glowstick Entertainment"
+		"publisher"		"Glowstick Entertainment"
+	}
+	"config"
+	{
+		"installdir"		"Super Dark Deception"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Super Dark Deception.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2201763"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3284870005887330404"
+					"size"		"154228999"
+					"download"		"47561600"
+				}
+				"mac-os"
+				{
+					"gid"		"3284870005887330404"
+					"size"		"154228999"
+					"download"		"47561600"
+				}
+				"windows"
+				{
+					"gid"		"3284870005887330404"
+					"size"		"154228999"
+					"download"		"47561600"
+				}
+			}
+		}
+		"2201762"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8097749599705127006"
+					"size"		"178000596"
+					"download"		"54812032"
+				}
+				"mac-os"
+				{
+					"gid"		"1892382583543793698"
+					"size"		"178000596"
+					"download"		"54812032"
+				}
+				"windows"
+				{
+					"gid"		"8097749599705127006"
+					"size"		"178000596"
+					"download"		"54812032"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9918910"
+				"timeupdated"		"1668183563"
+			}
+			"mac-os"
+			{
+				"buildid"		"9922111"
+				"description"		"mac only"
+				"timeupdated"		"1668222142"
+			}
+			"windows"
+			{
+				"buildid"		"9918910"
+				"description"		"windows only"
+				"timeupdated"		"1668181294"
+			}
+		}
+	}
+}
