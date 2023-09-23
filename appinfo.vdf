@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"939910"
+	"common"
+	{
+		"name"		"Royal Alchemist Demo"
+		"type"		"Demo"
+		"parent"		"939790"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"icon"		"cc0560223b89036a8b607a252e5a155e84bc44f0"
+		"logo"		"12c899d07f3051f0a26405e98577d9b3d6de2b9f"
+		"logo_small"		"12c899d07f3051f0a26405e98577d9b3d6de2b9f_thumb"
+		"clienticon"		"02a3172956613564293d06951ab8c69e8905175d"
+		"clienttga"		"282250e14ecb5bdb20e912817ccd9272af1568a0"
+		"clienticns"		"02a3172956613564293d06951ab8c69e8905175d"
+		"linuxclienticon"		"02a3172956613564293d06951ab8c69e8905175d"
+		"metacritic_name"		"Royal Alchemist Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"44.86581096849477"
+				"height_pct"		"46.960341961529366"
+			}
+		}
+		"store_asset_mtime"		"1588602505"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nifty Visuals"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nifty Productions"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1535612400"
+		"steam_release_date"		"1536413632"
+		"gameid"		"939910"
+	}
+	"extended"
+	{
+		"demoofappid"		"939790"
+		"developer"		"Nifty Visuals"
+		"publisher"		"Nifty Productions"
+		"homepage"		"http://niftyvisuals.tumblr.com/tagged/Royal-Alchemist"
+	}
+	"config"
+	{
+		"installdir"		"Royal Alchemist Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RoyalAlchemistDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"RoyalAlchemistDemo.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"RoyalAlchemistDemo.app\\Contents\\MacOS\\RoyalAlchemistDemo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"939911"
+		{
+		}
+		"939912"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3634816982695387772"
+					"size"		"372622974"
+					"download"		"323842672"
+				}
+			}
+		}
+		"939913"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4717180195925928876"
+					"size"		"398648984"
+					"download"		"330753872"
+				}
+			}
+		}
+		"939914"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8102130710959150621"
+					"size"		"375954855"
+					"download"		"325153872"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4934688"
+				"timeupdated"		"1587641501"
+			}
+		}
+	}
+}
