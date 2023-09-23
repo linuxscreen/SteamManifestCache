@@ -1,0 +1,132 @@
+"appinfo"
+{
+	"appid"		"2360600"
+	"common"
+	{
+		"name"		"manaCompiler Demo"
+		"type"		"Demo"
+		"parent"		"1836380"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"b17004c277da67894ef33eef068225faba00ac86"
+		"clienticon"		"cb5bbf6a1c65801c29b11ce71b502719b54418c0"
+		"clienttga"		"79867ed29b6e92fa11851e83719210a285f17d9f"
+		"clienticns"		"874e580c446e1efdda0c5bcdbe72c09eee2e5ce1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1678993370"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Joel Kivelä"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Joel Kivelä"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1679069354"
+		"gameid"		"2360600"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1836380"
+		"developer"		"Joel Kivelä"
+		"publisher"		"Joel Kivelä"
+		"homepage"		"https://hypertonal.net/manacompiler/"
+	}
+	"config"
+	{
+		"installdir"		"manaCompiler Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"manaCompiler Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"manaCompilerDemo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2360601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"663874510068035757"
+					"size"		"84849429"
+					"download"		"27177472"
+				}
+			}
+		}
+		"2360602"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4510897087237854832"
+					"size"		"34873009"
+					"download"		"14766832"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12062395"
+				"timeupdated"		"1693339995"
+			}
+		}
+	}
+}
