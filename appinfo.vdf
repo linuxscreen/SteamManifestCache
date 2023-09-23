@@ -1,0 +1,138 @@
+"appinfo"
+{
+	"appid"		"2226850"
+	"common"
+	{
+		"name"		"Darkness Reborn Demo"
+		"type"		"Demo"
+		"parent"		"2186740"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"bb85a1e0bf32fe5e942764e51e76ac6ea9529ebf"
+		"clienticon"		"9239190a61f17fb9c403b6c969ba20ee36846a69"
+		"icon"		"b9114d9d0816ffa01963c61e0288b76188be1ba9"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1668871079"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Stanisław Młyński"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Stanisław Młyński"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1669044486"
+		"gameid"		"2226850"
+	}
+	"extended"
+	{
+		"demoofappid"		"2186740"
+		"developer"		"Stanisław Młyński"
+		"publisher"		"Stanisław Młyński"
+	}
+	"config"
+	{
+		"installdir"		"Darkness Reborn Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DarknessReborn.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Run Darkness Reborn DEMO"
+				}
+				"description"		"Run Darkness Reborn DEMO"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"2226851"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2158992950917720144"
+					"size"		"10316697540"
+					"download"		"4365269408"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9975173"
+				"timeupdated"		"1668871169"
+			}
+		}
+	}
+}
