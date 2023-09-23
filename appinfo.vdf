@@ -1,0 +1,113 @@
+"appinfo"
+{
+	"appid"		"2240230"
+	"common"
+	{
+		"name"		"The Secret Parcel Demo"
+		"type"		"Demo"
+		"parent"		"2147200"
+		"clienticon"		"11278ace6372dd2a670575979759c5016dec7711"
+		"clienttga"		"8791fe51e0424e4d4e25f779e13c8314f2bb74ce"
+		"icon"		"b5acb9f41a501a811f35e06bea6b6e0d2796d1a7"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1670420088"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Santiago Velez Saffon"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Santiago Velez Saffon"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1670378930"
+		"gameid"		"2240230"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2147200"
+		"developer"		"Santiago Velez Saffon"
+		"publisher"		"Santiago Velez Saffon"
+	}
+	"config"
+	{
+		"installdir"		"The Secret Parcel Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"secret_parcel.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2240231"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4086887625656520310"
+					"size"		"367065136"
+					"download"		"244641840"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10221645"
+				"timeupdated"		"1672178944"
+			}
+		}
+	}
+}
