@@ -1,0 +1,157 @@
+"appinfo"
+{
+	"appid"		"1054530"
+	"common"
+	{
+		"name"		"Little Witch Nobeta Demo"
+		"type"		"Demo"
+		"parent"		"1049890"
+		"releasestate"		"released"
+		"clienticon"		"b76cbb08a1ab12c1d7ef4d805b35aff9aa532242"
+		"clienttga"		"d60f118ea4d8e97f28c1da5f28ff6212668a8aa3"
+		"icon"		"fefa53b829dca3c780d49bf283ff2a7315d382ad"
+		"oslist"		"windows"
+		"osarch"		""
+		"metacritic_name"		"Little Witch Nobeta Demo Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1553134291"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pupuya Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pupuya Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1550563200"
+		"steam_release_date"		"1553339220"
+		"gameid"		"1054530"
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"demoofappid"		"1049890"
+		"developer"		"Pupuya Games"
+		"publisher"		"Pupuya Games"
+	}
+	"config"
+	{
+		"installdir"		"Little Witch Nobeta Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LittleWitchNobeta_Demo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1054531"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8067079512661696326"
+					"size"		"1019052506"
+					"download"		"362729968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5076841"
+				"timeupdated"		"1590461927"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"LittleWitchNobeta_Demo_Data/Save"
+				"pattern"		"Save0?.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"LittleWitchNobeta_Demo_Data"
+				"pattern"		"Config.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
