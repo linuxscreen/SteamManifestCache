@@ -1,0 +1,117 @@
+"appinfo"
+{
+	"appid"		"1895730"
+	"common"
+	{
+		"name"		"Sky Resort - Delphi & Jessy Demo"
+		"type"		"Demo"
+		"parent"		"1888560"
+		"clienticon"		"bb5b1313b766263755d5032ed91d761f705a5e4f"
+		"clienttga"		"d9cfd4612a13af4bee90e62ddf7958053a31676b"
+		"icon"		"91f3e96de49ff10121298e09bdb9d50cffbeda96"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1645358112"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CrazySky3D"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CrazySky3D"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1650041280"
+		"gameid"		"1895730"
+	}
+	"extended"
+	{
+		"demoofappid"		"1888560"
+		"developer"		"CrazySky3D"
+		"publisher"		"CrazySky3D"
+	}
+	"config"
+	{
+		"installdir"		"Sky Resort - Delphi & Jessy Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SkyResortDelphiJessyDemo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SkyResortDelphiJessyDemo.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1895731"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6282269022383992098"
+					"size"		"255595854"
+					"download"		"178906592"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8194816"
+				"timeupdated"		"1644790647"
+			}
+		}
+	}
+}
