@@ -1,0 +1,182 @@
+"appinfo"
+{
+	"appid"		"1551180"
+	"common"
+	{
+		"name"		"TF Visualizer"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1551180_eula_0"
+				"name"		"TF Visualizer EULA"
+				"url"		"https://store.steampowered.com//eula/1551180_eula_0"
+				"version"		"1"
+			}
+		}
+		"logo"		"e1071b4606d35f93372964853fb05ac95213458a"
+		"logo_small"		"e1071b4606d35f93372964853fb05ac95213458a_thumb"
+		"icon"		"08a7f063911c85da4074770de15e753b63ca88c4"
+		"clienttga"		"9ebfdb431d4f972b91b2a1a385c22db8355c85dd"
+		"clienticon"		"45b7c1104e9bd9e23a3f889ccd75062593fb2357"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.811391035254694"
+				"height_pct"		"64.82326249295349"
+			}
+		}
+		"store_asset_mtime"		"1647975762"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TF"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TF Studios"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"52"
+			"1"		"53"
+			"2"		"57"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1638544080"
+		"community_hub_visible"		"1"
+		"gameid"		"1551180"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+			"1"		"1027"
+			"2"		"84"
+			"3"		"8013"
+			"4"		"492"
+			"5"		"597"
+			"6"		"784"
+			"7"		"1621"
+			"8"		"1756"
+			"9"		"4166"
+			"10"		"4305"
+			"11"		"4711"
+			"12"		"8253"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"TF"
+		"publisher"		"TF Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TF Visualizer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TF Visualizer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1551181"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"780788522452554660"
+					"size"		"265007282"
+					"download"		"95409904"
+				}
+				"version1.0"
+				{
+					"gid"		"3621910143944663321"
+					"size"		"523891740"
+					"download"		"383211952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betabranch"
+				{
+					"gid"		"FD107D39D5499A227657A290B082BD1D"
+					"size"		"F68BF168BF6930B4975C83D8596FE37F"
+					"download"		"339EA75FA3B3F135E70FD76994DE5FFC"
+				}
+			}
+		}
+		"workshopdepot"		"1551180"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8359556"
+				"timeupdated"		"1647089637"
+			}
+			"betabranch"
+			{
+				"buildid"		"8359448"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647085739"
+			}
+			"version1.0"
+			{
+				"buildid"		"7874681"
+				"description"		"legacy version"
+				"timeupdated"		"1646239366"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
