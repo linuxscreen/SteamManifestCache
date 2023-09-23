@@ -1,0 +1,216 @@
+"appinfo"
+{
+	"appid"		"1673060"
+	"common"
+	{
+		"name"		"One Spirit Demo"
+		"type"		"Demo"
+		"parent"		"1565810"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"81bc0b0cf2c81885fc5b3ac10b38a4d1b99e1f4c"
+		"clienttga"		"4106afacea8c6a757c2883e0506862edda570484"
+		"icon"		"0e634f6511001169247d80cc98df5e90ba75ce12"
+		"clienticns"		"81bc0b0cf2c81885fc5b3ac10b38a4d1b99e1f4c"
+		"linuxclienticon"		"81bc0b0cf2c81885fc5b3ac10b38a4d1b99e1f4c"
+		"releasestate"		"released"
+		"logo"		"3981c795c2b9d660339ed0c22b0c397d190ca786"
+		"logo_small"		"3981c795c2b9d660339ed0c22b0c397d190ca786_thumb"
+		"app_retired_publisher_request"		"1"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"65.58139534883722"
+				"height_pct"		"74.31726430776538"
+			}
+		}
+		"store_asset_mtime"		"1642085560"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VOYVOD ARTS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VOYVOD ARTS"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1624973291"
+		"gameid"		"1673060"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1565810"
+		"developer"		"VOYVOD ARTS"
+		"publisher"		"VOYVOD ARTS"
+	}
+	"config"
+	{
+		"installdir"		"One Spirit Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OneSpirit.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"OneSpirit-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"OneSpirit.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"OneSpirit-32.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"4"
+			{
+				"executable"		"OneSpirit.app\\Contents\\MacOS\\OneSpirit"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"1673061"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4794896634564349924"
+					"size"		"829215092"
+					"download"		"709749728"
+				}
+			}
+		}
+		"1673062"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1842808813052142954"
+					"size"		"731447971"
+					"download"		"682121584"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8700093"
+				"timeupdated"		"1652024126"
+			}
+		}
+	}
+}
