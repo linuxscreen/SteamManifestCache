@@ -1,0 +1,192 @@
+"appinfo"
+{
+	"appid"		"1578360"
+	"common"
+	{
+		"name"		"CityBeat: The Sorority Shuffle Demo"
+		"type"		"Demo"
+		"parent"		"1525040"
+		"clienticon"		"e671e9c3435c3ed32330b939ff2b031095ddf3f3"
+		"clienttga"		"b251e2b21be87a1c6638a73621dc8f0114c3a081"
+		"icon"		"037d522cc0d8fbaac7c2f107c1b9efa0178c85cb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.534883720930225"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1616044404"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ktulhu Solutions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ktulhu Solutions"
+			}
+		}
+		"steam_release_date"		"1616652832"
+		"gameid"		"1578360"
+	}
+	"extended"
+	{
+		"demoofappid"		"1525040"
+		"developer"		"Ktulhu Solutions"
+		"publisher"		"Ktulhu Solutions"
+	}
+	"config"
+	{
+		"installdir"		"CityBeat The Sorority Shuffle Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"citybeat.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"citybeat.app/Contents/MacOS/citybeat"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"with chrome"
+				}
+				"description"		"with chrome"
+			}
+			"2"
+			{
+				"executable"		"citybeat"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"citybeat.app/Contents/MacOS/native"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"with native browser"
+				}
+				"description"		"with native browser"
+			}
+			"4"
+			{
+				"executable"		"run.bat"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"if any issues with chrome"
+				}
+				"description"		"if any issues with chrome"
+			}
+		}
+	}
+	"depots"
+	{
+		"1578361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8328068846744785546"
+					"size"		"20379784"
+					"download"		"12146272"
+				}
+			}
+		}
+		"1578362"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8336757752926018618"
+					"size"		"36191799"
+					"download"		"19298704"
+				}
+			}
+		}
+		"1578363"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"654064705681020046"
+					"size"		"16105577"
+					"download"		"12178176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6443715"
+				"timeupdated"		"1616743467"
+			}
+		}
+	}
+}
