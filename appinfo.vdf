@@ -1,0 +1,143 @@
+"appinfo"
+{
+	"appid"		"2095160"
+	"common"
+	{
+		"name"		"液化物LIQUID Demo"
+		"type"		"Demo"
+		"parent"		"2095130"
+		"releasestate"		"released"
+		"clienttga"		"553d2ba041ab3fad4402e5e21738682e2fca337a"
+		"clienticon"		"6b28698304643c88dfe3d42f35d77211d69a2930"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"47db0ab791211078791acd0cc2ab5046f983c28e"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.52181650683568"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1675634781"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Automaticgrasshopper"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"East2West Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1667811599"
+		"gameid"		"2095160"
+	}
+	"extended"
+	{
+		"demoofappid"		"2095130"
+		"developer"		"Automaticgrasshopper"
+		"publisher"		"East2West Games"
+	}
+	"config"
+	{
+		"installdir"		"LIQUID液化物"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LIQUID_v0.99demo\\LIQUID.exe"
+				"description_loc"
+				{
+					"english"		"中文版"
+				}
+				"description"		"中文版"
+			}
+			"1"
+			{
+				"executable"		"LIQUID_v0.99demo\\ENG\\LIQUID.exe"
+				"description_loc"
+				{
+					"english"		"ENGLISH"
+				}
+				"description"		"ENGLISH"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"hasdepotsindlc"		"1"
+		"2095161"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7414062884294932395"
+					"size"		"1070654889"
+					"download"		"347277392"
+				}
+				"demo"
+				{
+					"gid"		"7890551029399806026"
+					"size"		"391191595"
+					"download"		"195759024"
+				}
+			}
+		}
+		"2095162"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8624311728166300062"
+					"size"		"1070654889"
+					"download"		"347277392"
+				}
+				"demo"
+				{
+					"gid"		"1670540746228358551"
+					"size"		"390904620"
+					"download"		"195537104"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10483836"
+				"timeupdated"		"1675634706"
+			}
+			"demo"
+			{
+				"buildid"		"9207706"
+				"description"		"demo use"
+				"timeupdated"		"1659009273"
+			}
+		}
+	}
+}
