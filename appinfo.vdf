@@ -1,0 +1,274 @@
+"appinfo"
+{
+	"appid"		"1875080"
+	"common"
+	{
+		"name"		"Supraland Six Inches Under Demo"
+		"type"		"Demo"
+		"parent"		"1522870"
+		"clienttga"		"67cdc8a36ad3b627f43b0458ad7d318da268205e"
+		"clienticon"		"88a60de0ae4797607c4ce220bd7c586ca10b3bfb"
+		"icon"		"83562bbec9889afe2d8f17018caba1648db07418"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1642043747"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Supra Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Supra Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Supraverse"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642194319"
+		"gameid"		"1875080"
+	}
+	"extended"
+	{
+		"demoofappid"		"1522870"
+		"developer"		"Supra Games"
+		"publisher"		"Supra Games"
+		"homepage"		"http://supragames.de"
+	}
+	"config"
+	{
+		"installdir"		"Supraland Six Inches Under Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SupralandSIU.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Supraland: Six Inches Under - DirectX 12 (Default)"
+				}
+				"description"		"Supraland: Six Inches Under - DirectX 12 (Default)"
+			}
+			"1"
+			{
+				"executable"		"SupralandSIU.exe"
+				"arguments"		"-dx11"
+				"type"		"option1"
+				"description_loc"
+				{
+					"english"		"Supraland: Six Inches Under - DirectX 11"
+				}
+				"description"		"Supraland: Six Inches Under - DirectX 11"
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"9"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1875081"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2888063805719192931"
+					"size"		"4812982981"
+					"download"		"4572606960"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8019311"
+				"timeupdated"		"1642165138"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"appidredirect"		"1522870"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"SupralandSIU/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"LinuxHome"
+				"path"		".config/Epic/SupralandSIU/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"SupralandSIU/Saved/SaveGames"
+				"pattern"		"*.exr"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"LinuxHome"
+				"path"		".config/Epic/SupralandSIU/Saved/SaveGames"
+				"pattern"		"*.exr"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
