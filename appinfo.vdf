@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"922480"
+	"common"
+	{
+		"name"		"Auto Battle Royale"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"defd45ac168edc4866ac7948a3ddf33d5a6d83bb"
+		"logo_small"		"defd45ac168edc4866ac7948a3ddf33d5a6d83bb_thumb"
+		"icon"		"55f65b13a689fc10a77952a796897240492191f1"
+		"clienttga"		"b869262ef11d5ad7a01ca8aa931c5bf855e8157a"
+		"clienticon"		"0bfd47bbb94e838f792e56c539c3ce56fdb0a32c"
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"自走大逃杀"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"metacritic_name"		"Auto Battle Royale"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1565660029"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ByKing"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ByKing"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+			"5"		"2"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1573632000"
+		"steam_release_date"		"1567062262"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"922480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"128"
+			"1"		"113"
+			"2"		"19"
+			"3"		"9"
+			"4"		"492"
+			"5"		"597"
+			"6"		"493"
+			"7"		"176981"
+			"8"		"1084988"
+		}
+		"review_score"		"5"
+		"review_percentage"		"61"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=922480"
+		"developer"		"ByKing"
+		"publisher"		"ByKing"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"funclick_zzq"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"q3dgame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,schinese"
+		"922482"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2458825511627962144"
+					"size"		"90764881"
+					"download"		"44416944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"funclick"
+				{
+					"gid"		"BC8F71928B3EBA6350D122B1D4A83B4A"
+					"size"		"203DB14D78C3A5C007217BA4010CB91D"
+					"download"		"ECDA4D8AF806E3F3F641C00DA6D8D6B0"
+				}
+			}
+		}
+		"922481"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7593565792896328297"
+					"size"		"90670096"
+					"download"		"44350112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"funclick"
+				{
+					"gid"		"3FD893DCBB0538911EE433B89CC2038B"
+					"size"		"A3442113A84224770F7CE2A3730BC843"
+					"download"		"D71629626AFA770895C538641ABBD194"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4161584"
+				"timeupdated"		"1567477864"
+			}
+			"funclick"
+			{
+				"buildid"		"4161584"
+				"pwdrequired"		"1"
+				"timeupdated"		"1567476910"
+			}
+		}
+	}
+}
