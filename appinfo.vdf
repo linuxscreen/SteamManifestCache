@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"1722630"
+	"common"
+	{
+		"name"		"Galaxy's Extreme Demo"
+		"type"		"Demo"
+		"parent"		"1491120"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"f93cd074a785cef89175dfcf718b2accc59e53f3"
+		"clienttga"		"a1b4a2cbaeec9f3c2586be64cc52d5b961714993"
+		"icon"		"7738ad9f18cfe7f94dd06ba5782301777b7f074e"
+		"logo"		"c1b1d6df2b5896b5107606479ecf967ef5b0fe81"
+		"logo_small"		"c1b1d6df2b5896b5107606479ecf967ef5b0fe81_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1628617476"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bianca Mello"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Luciano Mello"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Golden Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630099545"
+		"gameid"		"1722630"
+	}
+	"extended"
+	{
+		"demoofappid"		"1491120"
+		"developer"		"Bianca Mello"
+		"publisher"		"Golden Games"
+	}
+	"config"
+	{
+		"installdir"		"GalaxysExtremeDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GalaxysExtreme.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Galaxy's Extreme"
+					"brazilian"		"Jogar Galaxy's Extreme"
+				}
+				"description"		"Play Galaxy's Extreme"
+			}
+			"1"
+			{
+				"executable"		"GalaxysExtreme.exe"
+				"arguments"		"-FeatureLevelES31"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Galaxy's Extreme in performance mode"
+					"brazilian"		"Galaxy's Extreme no modo desempenho"
+				}
+				"description"		"Galaxy's Extreme in performance mode"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,brazilian"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1722631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"882427494310485990"
+					"size"		"309542657"
+					"download"		"241486640"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7489907"
+				"timeupdated"		"1633547470"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"6291456"
+		"maxnumfiles"		"20"
+		"appidredirect"		"1491120"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"GalaxysExtreme/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
