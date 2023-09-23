@@ -1,0 +1,135 @@
+"appinfo"
+{
+	"appid"		"1728920"
+	"common"
+	{
+		"name"		"東方霊守祀 ~ Consciousness' Unity of Opposites Demo"
+		"type"		"Demo"
+		"parent"		"1712580"
+		"releasestate"		"released"
+		"clienticon"		"54b022ea6c6ec08a616e66309b7a087294ea265c"
+		"clienttga"		"d4d97d536302d8e773e3cd8161df70008fdec6a5"
+		"icon"		"a7545ad87c3c553dff2e1ff91111e3083d0f6259"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1629463257"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"只鹳狸药堂"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"只鹳狸药堂"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629459026"
+		"gameid"		"1728920"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1712580"
+		"developer"		"只鹳狸药堂"
+		"publisher"		"只鹳狸药堂"
+	}
+	"config"
+	{
+		"installdir"		"thcuo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LuaSTGPlus.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1728921"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8770615749072621365"
+					"size"		"234390935"
+					"download"		"232797824"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7216284"
+				"timeupdated"		"1629379841"
+			}
+		}
+	}
+}
