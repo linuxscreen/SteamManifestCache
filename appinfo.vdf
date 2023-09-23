@@ -1,0 +1,304 @@
+"appinfo"
+{
+	"appid"		"626680"
+	"common"
+	{
+		"name"		"Kreedz Climbing"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"6b5099ffe19613cdfc9a44ceb99415c3496caf23"
+		"clienttga"		"9b330e552fae84896fcc01e3ec56e10120683be8"
+		"icon"		"9c9e2463d9ad8d83d12466b78a2cd55a55aec8a3"
+		"logo"		"f24e5512edcb1c923484205fe266fe475d8954cc"
+		"logo_small"		"f24e5512edcb1c923484205fe266fe475d8954cc_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1673308800"
+			"tested_build_id"		"5418398"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Kreedz Climbing"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1494519515"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ObsessionSoft"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ObsessionSoft"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"9"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_17"		"1"
+			"category_16"		"1"
+			"category_23"		"1"
+			"category_30"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1497549729"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"626680"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"699"
+			"2"		"492"
+			"3"		"4036"
+			"4"		"701"
+			"5"		"3859"
+			"6"		"1663"
+			"7"		"3839"
+			"8"		"19"
+			"9"		"4182"
+			"10"		"5395"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"gamedir"		"kz"
+		"serverbrowsername"		"Kreedz Climbing"
+		"developer"		"ObsessionSoft"
+		"publisher"		"ObsessionSoft"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"KreedzClimbing"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game kz -steam +mat_dxlevel 95 +con_enable 1"
+				"description"		"Play Kreedz Climbing"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game kz -steam -sw -noborder +mat_dxlevel 95 +con_enable 1 "
+				"description"		"Play Kreedz Climbing (Borderless Window)"
+				"type"		"none"
+			}
+			"2"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game kz -steam +con_enable 1 +mat_dxlevel 80"
+				"description"		"Play Kreedz Climbing DX8 (Lowest quality, highest FPS)"
+				"type"		"none"
+			}
+			"3"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game kz -steam -sw -noborder +con_enable 1 +mat_dxlevel 80"
+				"description"		"Play Kreedz Climbing DX8 (Borderless Window)"
+				"type"		"none"
+			}
+			"4"
+			{
+				"executable"		"bin\\kz\\LaunchSDKTool.exe"
+				"arguments"		"-tool hammer"
+				"workingdir"		"bin"
+				"type"		"editor"
+			}
+			"5"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game ModDemoViewer/KreedzClimbing -steam -toconsole +con_enable 1"
+				"description"		"Play KZMod 2.0 Legacy Demo Viewer"
+				"type"		"none"
+			}
+			"6"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game ModDemoViewer/KreedzClimbing -steam -toconsole -sw -noborder +con_enable 1"
+				"description"		"Play KZMod 2.0 Legacy Demo Viewer (Borderless)"
+				"type"		"none"
+			}
+			"7"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game kz -steam -tools -nop4"
+				"description"		"Launch Tools Mode (Particles, etc...)"
+				"type"		"none"
+			}
+			"8"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game kz -steam -tools -nop4 -sw -noborder"
+				"description"		"Launch Tools Mode (Borderless Window)"
+				"type"		"none"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,russian,dutch"
+		"workshopdepot"		"626680"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"626681"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"709716141106702081"
+					"size"		"7541887833"
+					"download"		"3113660000"
+				}
+			}
+		}
+		"626682"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8678478298508221557"
+					"size"		"200823589"
+					"download"		"63167712"
+				}
+			}
+		}
+		"626683"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4180345417335507414"
+					"size"		"239392"
+					"download"		"94000"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10013402"
+				"timeupdated"		"1669357732"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+	}
+}
