@@ -1,0 +1,245 @@
+"appinfo"
+{
+	"appid"		"1047980"
+	"common"
+	{
+		"name"		"Trap Shrine / 女装神社 Demo"
+		"type"		"Demo"
+		"parent"		"951000"
+		"releasestate"		"released"
+		"logo"		"cac0cc2e806c7b80ff9b01e9cb88b3b2c3106845"
+		"logo_small"		"cac0cc2e806c7b80ff9b01e9cb88b3b2c3106845_thumb"
+		"icon"		"be785df9887ce41573ed3fe056e48e97e34518fc"
+		"clienticon"		"8b2cafe2505cbede3fe3ed1d0108bd3875bcaee8"
+		"clienttga"		"43df1c0f7f93bcc129cdf8cf8c9293c81206b8d4"
+		"oslist"		"windows"
+		"osarch"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"Trap Shrine / 女装神社 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1552733989"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"No Strike"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Eroge Japan"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1552816987"
+		"gameid"		"1047980"
+	}
+	"extended"
+	{
+		"demoofappid"		"951000"
+		"developer"		"No Strike"
+		"publisher"		"Eroge Japan"
+	}
+	"config"
+	{
+		"installdir"		"Trap Shrine  女装神社 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"josou_jinjya_trial.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,tchinese,japanese"
+		"1047981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2684601299557380205"
+					"size"		"322898690"
+					"download"		"288602768"
+				}
+			}
+		}
+		"1047982"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4164025163905616395"
+					"size"		"331061320"
+					"download"		"281928832"
+				}
+			}
+		}
+		"1047983"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4212601476732651633"
+					"size"		"503075794"
+					"download"		"324122112"
+				}
+			}
+		}
+		"1047984"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7153421129626645379"
+					"size"		"503075794"
+					"download"		"324122112"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3882104"
+				"timeupdated"		"1559539380"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"5000"
+		"appidredirect"		"951000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/no-strike_savedata/josoujinjya/save"
+				"pattern"		"*.sd"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/no-strike_savedata/josoujinjya_e/save"
+				"pattern"		"*.sd"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/no-strike_savedata/josoujinjya_c/save"
+				"pattern"		"*.sd"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/no-strike_savedata/josoujinjya"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"4"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/no-strike_savedata/josoujinjya_e"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"5"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/no-strike_savedata/josoujinjya_c"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
