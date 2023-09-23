@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"1349880"
+	"common"
+	{
+		"name"		"失格冒險者與惡魔之石 Demo"
+		"type"		"Demo"
+		"parent"		"1349850"
+		"name_localized"
+		{
+			"tchinese"		"失格冒險者與惡魔之石 Demo"
+			"english"		"Faild Adventurer Demo"
+		}
+		"clienttga"		"3c586c635dd6ae86304fcd69e78e2b2a322b9e9d"
+		"clienticon"		"7ba5c6c99d9c6097a5395f165501dd171cb5796a"
+		"icon"		"1c3c2fe60fd0628a6fdbc9bac643b56581661e49"
+		"linuxclienticon"		"bdab9fb806449e421667c6183fcbc0ebf7cb36bc"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"zh-tw,en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"49.12641158812599"
+				"height_pct"		"94.4444444444444"
+			}
+		}
+		"store_asset_mtime"		"1612873845"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Srloop"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Srloop"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Lewd Formosa"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1612716751"
+		"gameid"		"1349880"
+	}
+	"extended"
+	{
+		"demoofappid"		"1349850"
+		"developer"		"Srloop"
+		"publisher"		"Srloop"
+	}
+	"config"
+	{
+		"installdir"		"Faild Adventurer Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FailedAdventurer.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1349881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6620798950258122305"
+					"size"		"1231243790"
+					"download"		"236824544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"836B3495EDDF534D7A305858480AB8C3"
+					"size"		"84FF2906A328C4BBA4C0FEADFFF46192"
+					"download"		"AEED8DDC3202746CD01E9278D326E963"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7084184"
+				"timeupdated"		"1627212335"
+			}
+			"test"
+			{
+				"buildid"		"7084184"
+				"pwdrequired"		"1"
+				"timeupdated"		"1627211746"
+			}
+		}
+	}
+}
