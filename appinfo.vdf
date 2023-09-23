@@ -1,0 +1,313 @@
+"appinfo"
+{
+	"appid"		"288330"
+	"common"
+	{
+		"name"		"RUNNING WITH RIFLES Demo"
+		"type"		"Demo"
+		"parent"		"270150"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"icon"		"feacad90f64b2db6c3f7ac6dafe62d21a1b3df55"
+		"clienticon"		"dec58da2320d49c4ca404840616076bcb16d55e9"
+		"clienttga"		"2d0868ee2f9b3d8f77e9d5d8b0118d333ec2615e"
+		"linuxclienticon"		"351fc88b16adc6acef6901b01e79b3da98f89e29"
+		"logo"		"c0a93d0003786bb1aee907be02544519276d0729"
+		"logo_small"		"c0a93d0003786bb1aee907be02544519276d0729_thumb"
+		"osarch"		""
+		"osextended"		""
+		"metacritic_name"		"RUNNING WITH RIFLES Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1396431484"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Osumia Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Osumia Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1399564740"
+		"gameid"		"288330"
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"demoofappid"		"270150"
+		"developer"		"Osumia Games"
+		"publisher"		"Osumia Games"
+		"homepage"		"http://www.runningwithrifles.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"RunningWithRiflesDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"rwr_demo.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"rwr_config.exe"
+				"description"		"Configure"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"launch_demo"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"launch_config"
+				"description"		"Configure"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"4"
+			{
+				"executable"		"RunningWithRiflesDemo.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"5"
+			{
+				"executable"		"RunningWithRiflesDemo.app/Contents/MacOS/Config.app"
+				"description"		"Configure"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"13"
+		"steaminputmanifestpath"		"action_manifest.vdf"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"288331"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7015562997722422253"
+					"size"		"833970919"
+					"download"		"522648448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"47E8F0EE53B2DB9B8477A2FBD210F0F5"
+					"size"		"1D1645B4B9B33B68E0A92CD2CA726AC3"
+					"download"		"008E9373097FF65229B7AC848E4FDE91"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12034862"
+				"timeupdated"		"1692994398"
+			}
+			"experimental"
+			{
+				"buildid"		"12034862"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692994390"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"270150"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Running with rifles"
+				"pattern"		"summary_profile.xml"
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Running with rifles/savegames"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Running with rifles"
+						"replace"		".running_with_rifles"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Running with rifles"
+						"replace"		"RunningWithRifles"
+					}
+				}
+			}
+		}
+	}
+}
