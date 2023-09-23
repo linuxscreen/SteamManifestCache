@@ -1,0 +1,139 @@
+"appinfo"
+{
+	"appid"		"2174450"
+	"common"
+	{
+		"name"		"Wassie Tale Demo"
+		"type"		"Demo"
+		"parent"		"1987950"
+		"icon"		"7d69ad36b2fc05d6dc5a2805deb84cfb08b031d9"
+		"clienttga"		"26598c0346eafc0e09be086620a940464ba88458"
+		"clienticon"		"9be8d8d42d9d1e0d72ba8c788a63546ac9c96e20"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1664998111"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Perditotite Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Perditotite Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Wassies By Wassies"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"steam_release_date"		"1664957044"
+		"gameid"		"2174450"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1987950"
+		"developer"		"Perditotite Games"
+		"publisher"		"Perditotite Games"
+	}
+	"config"
+	{
+		"installdir"		"Wassie Tale Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WassieTale_Demo_Release_Windows\\WassieTale.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"WassieTale_Demo_Release_Mac.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"2174451"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2460612885640460562"
+					"size"		"358499546"
+					"download"		"70616704"
+				}
+			}
+		}
+		"2174452"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1136083322446339089"
+					"size"		"381387677"
+					"download"		"77442208"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9658614"
+				"timeupdated"		"1664971714"
+			}
+		}
+	}
+}
