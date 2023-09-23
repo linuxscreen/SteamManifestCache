@@ -1,0 +1,145 @@
+"appinfo"
+{
+	"appid"		"2072760"
+	"common"
+	{
+		"name"		"Voidborn Demo"
+		"type"		"Demo"
+		"parent"		"2072660"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"eebab72253d9b6f7f8feef3ff87e5ceb42e6c9bb"
+		"clienticon"		"c6bf0da2d3c7c45d46d68b7fd47aac78d5229d61"
+		"icon"		"65943de94dc285110cfb3dfd74214d1fac3a21ab"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1665416166"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Xekvera"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Xekvera"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1660906845"
+		"gameid"		"2072760"
+	}
+	"extended"
+	{
+		"demoofappid"		"2072660"
+		"developer"		"Xekvera"
+		"publisher"		"Xekvera"
+	}
+	"config"
+	{
+		"installdir"		"Voidborn Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Voidborn.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2072761"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1438648862166003478"
+					"size"		"677663490"
+					"download"		"564539520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"64C9710C5DAAB36E6F87A3F8A6C4E799"
+					"size"		"18123FC5E37DAD40975BDCD5D3E024E8"
+					"download"		"EFB79DCA530ED5B40A48E4B6E0D4D0BC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11507114"
+				"timeupdated"		"1687189053"
+			}
+			"testing"
+			{
+				"buildid"		"11507114"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687188873"
+			}
+		}
+	}
+}
