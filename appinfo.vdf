@@ -1,0 +1,216 @@
+"appinfo"
+{
+	"appid"		"2249550"
+	"common"
+	{
+		"name"		"联盟大乱斗"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"e9bda280c99d47ff3b088c23d4cf0c639350e24f"
+		"clienttga"		"d642402470dffdba0b52e4f9bf6501fc7e0af97b"
+		"clienticon"		"1244a227f8b29be6038a7085fb5b37ce90a344c8"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1676073600"
+			"tested_build_id"		"10359651"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en,zh-cn,zh-tw"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"12.818696080252593"
+				"height_pct"		"48.95833333333334"
+			}
+		}
+		"store_asset_mtime"		"1672765570"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SmallToAnt"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SmallToAnt"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1672815878"
+		"community_hub_visible"		"1"
+		"gameid"		"2249550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1084988"
+			"2"		"3859"
+			"3"		"1775"
+			"4"		"32322"
+			"5"		"9"
+			"6"		"1666"
+			"7"		"1718"
+			"8"		"128"
+			"9"		"454187"
+			"10"		"4684"
+			"11"		"3843"
+			"12"		"3959"
+			"13"		"1697"
+			"14"		"4057"
+			"15"		"492"
+			"16"		"597"
+			"17"		"4252"
+			"18"		"1678"
+			"19"		"1708"
+		}
+		"review_score"		"5"
+		"review_percentage"		"48"
+	}
+	"extended"
+	{
+		"developer"		"SmallToAnt"
+		"publisher"		"SmallToAnt"
+		"homepage"		"https://www.facebook.com/WarLeague123"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"WarLeague"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WarLeague\\WarLeague.exe"
+				"type"		"default"
+				"description_loc"
+				{
+					"english"		"WarLeague"
+					"schinese"		"联盟大乱斗"
+					"tchinese"		"聯盟大亂鬥"
+				}
+				"description"		"WarLeague"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese,tchinese"
+		"hasdepotsindlc"		"1"
+		"2249551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5797827690227547537"
+					"size"		"729588475"
+					"download"		"560207296"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10940655"
+				"timeupdated"		"1680727558"
+			}
+		}
+	}
+}
