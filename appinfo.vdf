@@ -1,0 +1,184 @@
+"appinfo"
+{
+	"appid"		"1696610"
+	"common"
+	{
+		"name"		"Escape from the Lockdown: The Demon Fortress"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"ce6af4da09b38ac7d98b2436f0f8cf901c37ba50"
+		"logo"		"96750024d6fbbc12ef0ca057053aeb8a44e1dbf7"
+		"logo_small"		"96750024d6fbbc12ef0ca057053aeb8a44e1dbf7_thumb"
+		"clienticon"		"a678cec916876d4d4579a4edb246c834de064df2"
+		"clienttga"		"8034e64274fc063d260daf22221e79d4439031a3"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.27906976744186"
+				"height_pct"		"17.323676086440287"
+			}
+		}
+		"store_asset_mtime"		"1629275247"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SCRAP Co., Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SCRAP Co., Ltd."
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630054500"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1696610"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"597"
+			"2"		"9"
+			"3"		"1664"
+			"4"		"17305"
+			"5"		"1770"
+			"6"		"1698"
+			"7"		"5379"
+			"8"		"4474"
+			"9"		"5537"
+			"10"		"3834"
+			"11"		"9204"
+			"12"		"4486"
+			"13"		"3839"
+			"14"		"6815"
+			"15"		"21"
+			"16"		"4145"
+			"17"		"6691"
+			"18"		"4175"
+			"19"		"4046"
+		}
+	}
+	"extended"
+	{
+		"developer"		"SCRAP Co., Ltd."
+		"publisher"		"SCRAP Co., Ltd."
+		"homepage"		"https://realescapegame.jp/lockdown_fortress/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1704960,1704961"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Escape from the Lockdown The Demon Fortress"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EFDF.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1696611"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"81131572178571717"
+					"size"		"2138137227"
+					"download"		"1673233472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2AFFCEC895E94B207C8D84B75A21AF0C"
+					"size"		"7EC648FECC286F5008C9A62F260F400F"
+					"download"		"DEF1D2AC3A5DAD4243B5F9C399BA8FC4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7272240"
+				"timeupdated"		"1630319012"
+			}
+			"beta"
+			{
+				"buildid"		"7253801"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629969672"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"52428800"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"ScrapJP/EFDF"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
