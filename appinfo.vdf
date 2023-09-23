@@ -1,0 +1,121 @@
+"appinfo"
+{
+	"appid"		"2336960"
+	"common"
+	{
+		"name"		"Monstronium Demo"
+		"type"		"Demo"
+		"parent"		"1891510"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"93039908c5aa010d2a88e5da37a1daf03286edf9"
+		"clienticon"		"61c507d78037b415363e2fd981f626e9e3fe4b80"
+		"clienttga"		"3f298e1c2bb4fa077a6dc6b1542cb63f2f2dbf8a"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1677454045"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Capytoon"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Capytoon"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678067132"
+		"gameid"		"2336960"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1891510"
+		"developer"		"Capytoon"
+		"publisher"		"Capytoon"
+	}
+	"config"
+	{
+		"installdir"		"Monstronium Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"-fullscreen"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"13"
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2336961"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6707180113421897033"
+					"size"		"553729309"
+					"download"		"527161248"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11012573"
+				"timeupdated"		"1681593202"
+			}
+		}
+	}
+}
