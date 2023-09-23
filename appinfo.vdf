@@ -1,0 +1,454 @@
+"appinfo"
+{
+	"appid"		"2141910"
+	"common"
+	{
+		"name"		"Magic: The Gathering Arena"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"7d47257d34e74c04121cbdffd23af8eaa2914a85"
+		"clienticon"		"8f85ec2cf6741adea3b0f5f980bd54433142fc64"
+		"clienttga"		"d0346af65864b9eec429776cec1c24a815917513"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2141910_eula_0"
+				"name"		"Magic: The Gathering Arena EULA"
+				"url"		"https://store.steampowered.com//eula/2141910_eula_0"
+				"version"		"6"
+			}
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1686614400"
+			"tested_build_id"		"11312540"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"26.4311113345193"
+				"height_pct"		"43.6538460421139"
+			}
+		}
+		"store_asset_mtime"		"1693938041"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wizards of the Coast LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wizards of the Coast LLC"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1684855740"
+		"community_hub_visible"		"1"
+		"gameid"		"2141910"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1666"
+			"2"		"9271"
+			"3"		"113"
+			"4"		"32322"
+			"5"		"1775"
+			"6"		"5055"
+			"7"		"1741"
+			"8"		"1684"
+			"9"		"1708"
+			"10"		"4057"
+			"11"		"3859"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"allowmicrotxnfromrestrictedcountries"		"0"
+		"microtxnrestrictedcountries"		"CN,HK,MO,TW,BN,ID,KH,LA,MM,MY,PH,SG,TH,VN,RU,BY"
+		"developer"		"Wizards of the Coast LLC"
+		"publisher"		"Wizards of the Coast LLC"
+		"homepage"		"https://magic.wizards.com/mtgarena"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MTGA"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MTGA.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"2141911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6042161810259099875"
+					"size"		"383290752"
+					"download"		"123945584"
+				}
+				"local"
+				{
+					"gid"		"6592785910951468866"
+					"size"		"383528944"
+					"download"		"124001376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"cardsetclient_july"
+				{
+					"gid"		"78F906EA19D2A6506131A435B64B0E14"
+					"size"		"57EE439AA575287E003F17B042922C06"
+					"download"		"8A7F8909DFEF031C05348BE30EFACFA5"
+				}
+				"cardsetclient_ltr"
+				{
+					"gid"		"CFC750E68C11D9F35A952CF4F29A9D78"
+					"size"		"9B0E7A2A693447602F3382682A646197"
+					"download"		"9F50BA038861A84933D0F4948365EA34"
+				}
+				"cardsetclient_mat"
+				{
+					"gid"		"E0B34F0C413F0DAD7115D2CBCF33D2B0"
+					"size"		"F87680656E7C23DA0B92CAEF1D4F6D50"
+					"download"		"ED161FD7805AE2069D202299A3CF1C14"
+				}
+				"cardsetclient_woe"
+				{
+					"gid"		"01D3DB915837FE442EF4FD51716F2092"
+					"size"		"592D67AA88D14929B324BC2C724A5DB7"
+					"download"		"4E4B12081CBA6F9209FDAD92F7CA53FA"
+				}
+				"livecontentweekly"
+				{
+					"gid"		"824118922FBC17911B1915989F8D7F2D"
+					"size"		"88B67BD191FBE4566DF48DE7D615E269"
+					"download"		"63E7D5F26BBEFBD3D65709712953882D"
+				}
+				"mdndev"
+				{
+					"gid"		"BA09A125F84E0A89CA8CEDE2A802A809"
+					"size"		"AB404CC6B49089813F652B09961D1A56"
+					"download"		"FA4A82FDA0376F5E47AB5246397EAA62"
+				}
+				"mdntrunk"
+				{
+					"gid"		"223DD8D309FD7A7BACF9B79BE426E7A4"
+					"size"		"571F89ECA4D24F5DFFECBCEDCB37E9AA"
+					"download"		"706EC0FDF8FF00144D0348F6D4462F79"
+				}
+				"release"
+				{
+					"gid"		"9ED068A772046D3BE85D955B206AAFA2"
+					"size"		"6A1D4D33CD93B671D378136ECFB6B7F3"
+					"download"		"A2169AA5C765D084108E8BCF453A76EE"
+				}
+				"releasestaging"
+				{
+					"gid"		"693281550F2CD70DA501FA65597987A6"
+					"size"		"0252AC11C685E7D3BA252AC9DDDB51E3"
+					"download"		"067DDCC6478824CD3467A62B55DBEA7B"
+				}
+			}
+		}
+		"2141912"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9127495843888696190"
+					"size"		"8674043910"
+					"download"		"7520116096"
+				}
+				"local"
+				{
+					"gid"		"7744107546988577618"
+					"size"		"8942184401"
+					"download"		"7742399280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"cardsetclient_july"
+				{
+					"gid"		"8F0BE94E1C926A7D9A608DC4D3C50EEC"
+					"size"		"823AA439C7F9738DF2AAC462CE0F6DCC"
+					"download"		"908C4D5BDED51B58056487DD5BCC2305"
+				}
+				"cardsetclient_ltr"
+				{
+					"gid"		"95D1E3914019859DD16A7A620BCA86A2"
+					"size"		"EC4FC4322B5D1F863E37DB908833EFF4"
+					"download"		"E245D2247380006DCCD30B5DCD7D86B5"
+				}
+				"cardsetclient_woe"
+				{
+					"gid"		"381D9A80FEC4F6BEAD620D3CB125E2E3"
+					"size"		"A0819EF81F9655E8DED81C0CBCEB93BE"
+					"download"		"9DFFE1A9AB897BE7F8EA84C9E41D6F4A"
+				}
+				"livecontentweekly"
+				{
+					"gid"		"CE00BAC288D77D106C835652C05D8414"
+					"size"		"AD6BAA52B6FC19428C68F66EDD3B3C0F"
+					"download"		"7CCA59BC3BB3B3F27B5275E214DAC572"
+				}
+				"mdndev"
+				{
+					"gid"		"DF8CD2E00036972B59BC6EE1C9D59558"
+					"size"		"62B9453C5F619CB5BEDCE8DD0D16E173"
+					"download"		"5A33859C2EC5D94D73F9AE8165320FD4"
+				}
+				"mdntrunk"
+				{
+					"gid"		"B0AB70F3B5604E764F9856FA8C468DED"
+					"size"		"79C7ABEC324EF6EB04337BF783B44FA8"
+					"download"		"D6D6BB02040F08482572DB4004A89F13"
+				}
+				"release"
+				{
+					"gid"		"C8FD979DDB01190539A86D62822B0435"
+					"size"		"6D5E33E0B118A64418AA87789890BEF7"
+					"download"		"C00D9ACC17E35AD7804B61786F464A01"
+				}
+				"releasestaging"
+				{
+					"gid"		"5C69760734B3B353A5708ACFA90844BC"
+					"size"		"BAAB5366144F066014E55E408F32E1AC"
+					"download"		"F14BC42913311E8617882F8A4E087171"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12135542"
+				"timeupdated"		"1694534389"
+			}
+			"cardsetclient_july"
+			{
+				"buildid"		"11323062"
+				"pwdrequired"		"1"
+				"lcsrequired"		"1"
+				"timeupdated"		"1685082889"
+			}
+			"cardsetclient_ltr"
+			{
+				"buildid"		"11161674"
+				"pwdrequired"		"1"
+				"lcsrequired"		"1"
+				"timeupdated"		"1683268465"
+			}
+			"cardsetclient_mat"
+			{
+				"buildid"		"10916005"
+				"pwdrequired"		"1"
+				"lcsrequired"		"1"
+				"timeupdated"		"1680501331"
+			}
+			"cardsetclient_woe"
+			{
+				"buildid"		"11717197"
+				"pwdrequired"		"1"
+				"lcsrequired"		"1"
+				"timeupdated"		"1689576441"
+			}
+			"livecontentweekly"
+			{
+				"buildid"		"12175209"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694583868"
+			}
+			"local"
+			{
+				"buildid"		"12222596"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1695106084"
+			}
+			"mdndev"
+			{
+				"buildid"		"12175753"
+				"pwdrequired"		"1"
+				"lcsrequired"		"1"
+				"timeupdated"		"1694591391"
+			}
+			"mdntrunk"
+			{
+				"buildid"		"12175050"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694581674"
+			}
+			"release"
+			{
+				"buildid"		"12174920"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694580045"
+			}
+			"releasestaging"
+			{
+				"buildid"		"12262754"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695445735"
+			}
+		}
+	}
+}
