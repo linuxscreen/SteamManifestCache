@@ -1,0 +1,153 @@
+"appinfo"
+{
+	"appid"		"2335150"
+	"common"
+	{
+		"name"		"Tiny Tied Demo"
+		"type"		"Demo"
+		"parent"		"2330640"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"abf4c42462a49f2916cc700378f98641ac66fe0f"
+		"clienttga"		"d14dd313f5fbe9161c383c18d8ed316dc124c9a3"
+		"clienticon"		"66999f135a9b8fac0cd97e2400080155cdd72596"
+		"clienticns"		"9966ebb35a6790591a73f180801d2bd49e4d4bad"
+		"linuxclienticon"		"81a3972aa3c76446864914b3e2d5ee73242441a0"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"39.26487747957992"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1678581890"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Merpui"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Merpui"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1677764760"
+		"gameid"		"2335150"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2330640"
+		"developer"		"Merpui"
+		"publisher"		"Merpui"
+	}
+	"config"
+	{
+		"installdir"		"Tiny Tied Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tiny Tied Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Tiny Tied Demo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Tiny Tied Demo.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2335151"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6987986286772198797"
+					"size"		"74321440"
+					"download"		"36639248"
+				}
+			}
+		}
+		"2335152"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8008946031052898408"
+					"size"		"111141266"
+					"download"		"46341456"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10723138"
+				"timeupdated"		"1678310088"
+			}
+		}
+	}
+}
