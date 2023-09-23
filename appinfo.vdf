@@ -1,0 +1,127 @@
+"appinfo"
+{
+	"appid"		"1740410"
+	"common"
+	{
+		"name"		"Mission Mars Demo"
+		"type"		"Demo"
+		"parent"		"1576620"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"9e22f8e8c8be2193785e8fdf6dce34f307f6238c"
+		"clienttga"		"a27a281397027e1ee4c915373fd40aeb83441136"
+		"icon"		"0b85c8f60dec4e973445381e5948be9ca454e321"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1630004061"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anvelopa"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anvelopa"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630155330"
+		"gameid"		"1740410"
+	}
+	"extended"
+	{
+		"demoofappid"		"1576620"
+		"developer"		"Anvelopa"
+		"publisher"		"Anvelopa"
+	}
+	"config"
+	{
+		"installdir"		"Mission Mars Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mission_Mars_Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1740411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1652036964609030854"
+					"size"		"440202729"
+					"download"		"335939584"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8647844"
+				"timeupdated"		"1651221386"
+			}
+		}
+	}
+}
