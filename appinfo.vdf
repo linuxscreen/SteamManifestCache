@@ -1,0 +1,164 @@
+"appinfo"
+{
+	"appid"		"1672940"
+	"common"
+	{
+		"name"		"ASKE Demo"
+		"type"		"Demo"
+		"parent"		"1672790"
+		"releasestate"		"released"
+		"clienttga"		"0d2c3f818c9fe539b3673b7dcc1daf025ce361b5"
+		"clienticon"		"6d8118c8b9a982d03d050b0d44f0a42f1c38b3de"
+		"icon"		"f6958ae9a7e81b5f59b3425dfaee854aacf2226e"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"47.34029921633817"
+			}
+		}
+		"store_asset_mtime"		"1628958411"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tomás Esconjaureguy"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tomás Esconjaureguy"
+			}
+		}
+		"steam_release_date"		"1628868745"
+		"gameid"		"1672940"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1672790"
+		"developer"		"Tomás Esconjaureguy"
+		"publisher"		"Tomás Esconjaureguy"
+	}
+	"config"
+	{
+		"installdir"		"ASKE Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ASKE (demo).exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"ASKE (demo).x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"ASKE (demo).app\\Contents\\MacOS\\ASKE (demo)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1672941"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7608299922186487900"
+					"size"		"170523905"
+					"download"		"63280512"
+				}
+			}
+		}
+		"1672942"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5460072329565939252"
+					"size"		"192019619"
+					"download"		"70048464"
+				}
+			}
+		}
+		"1672944"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7786874143855362323"
+					"size"		"178027284"
+					"download"		"66528368"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7226427"
+				"timeupdated"		"1629517818"
+			}
+		}
+	}
+}
