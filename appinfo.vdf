@@ -1,0 +1,227 @@
+"appinfo"
+{
+	"appid"		"1325510"
+	"common"
+	{
+		"name"		"HELLSEED Demo"
+		"type"		"Demo"
+		"parent"		"1168690"
+		"releasestate"		"released"
+		"clienttga"		"695a0f46268086e33ec2b8daa591989145113e8b"
+		"clienticon"		"49183a7188ec6fedff10eca4d8e593203ed3f958"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"0aeab528d0bc0dd377785b133aa8ec8156172449"
+		"logo_small"		"0aeab528d0bc0dd377785b133aa8ec8156172449_thumb"
+		"icon"		"930cdc0fdd453a5940eb27e6c8f48400a23c61d3"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.97712739704372"
+				"height_pct"		"59.204027073682084"
+			}
+		}
+		"store_asset_mtime"		"1616236420"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Profenix Studio SRLS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Profenix Studio SRLS"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"HELLSEED"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1592505152"
+		"gameid"		"1325510"
+	}
+	"extended"
+	{
+		"demoofappid"		"1168690"
+		"developer"		"Profenix Studio SRLS"
+		"publisher"		"Profenix Studio SRLS"
+	}
+	"config"
+	{
+		"installdir"		"HELLSEED_demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"S2Configuration.exe"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"HELLSEED_demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229030"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229032"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1325511"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2042486496739041220"
+					"size"		"3154143394"
+					"download"		"1188741424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D6D122103266DA6DD5708D72EA857665"
+					"size"		"B78A216FCCAA9427FB6B61DAE5615F58"
+					"download"		"D2B5029BE3FB0EB896F4024F281415CE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10612175"
+				"timeupdated"		"1677089255"
+			}
+			"beta"
+			{
+				"buildid"		"10612175"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677084091"
+			}
+		}
+	}
+}
