@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"2214500"
+	"common"
+	{
+		"name"		"X Invader: Prologue"
+		"type"		"Game"
+		"icon"		"d9ff8bcd48e3dced6e9b9ade4eb0440fed41417f"
+		"clienticon"		"c485a31aa3a503862ee7b6463865505bcd273afa"
+		"clienttga"		"8cc963bc386a665546a0d0fdad53dcabee29b2f7"
+		"name_localized"
+		{
+			"english"		"X Invader: Prologue"
+			"koreana"		"엑스 인베이더: 프롤로그"
+		}
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1675987200"
+			"tested_build_id"		"10505631"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"43.46557759626603"
+				"height_pct"		"64.4383756827357"
+			}
+		}
+		"store_asset_mtime"		"1692785893"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ALLAF GAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ALLAF GAMES"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"ALLAF GAMES"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1675215028"
+		"community_hub_visible"		"1"
+		"gameid"		"2214500"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"5547"
+			"2"		"1646"
+			"3"		"4255"
+			"4"		"4758"
+			"5"		"4885"
+			"6"		"4637"
+			"7"		"3959"
+			"8"		"6730"
+			"9"		"1774"
+			"10"		"1773"
+			"11"		"1716"
+			"12"		"3871"
+			"13"		"4791"
+			"14"		"4726"
+			"15"		"4115"
+			"16"		"1721"
+			"17"		"4136"
+			"18"		"19"
+			"19"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"ALLAF GAMES"
+		"publisher"		"ALLAF GAMES"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"X Invader Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"X Invader.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2214501"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1205442475250762611"
+					"size"		"396722941"
+					"download"		"277568000"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12139080"
+				"timeupdated"		"1694154311"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"5000"
+	}
+}
