@@ -1,0 +1,252 @@
+"appinfo"
+{
+	"appid"		"216530"
+	"common"
+	{
+		"name"		"Football Manager 2013 Demo"
+		"type"		"Demo"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"danish"		"1"
+			"dutch"		"1"
+			"norwegian"		"1"
+			"swedish"		"1"
+			"czech"		"1"
+			"turkish"		"1"
+		}
+		"logo"		"1f9b3e3f091dc462d09c96afaba23437a9ec6da2"
+		"logo_small"		"1f9b3e3f091dc462d09c96afaba23437a9ec6da2_thumb"
+		"clienticon"		"fd9d71263ba9e165acf11e8e546f2fdd891d17e1"
+		"clienttga"		"2ace5bc718bc3975a3cfc3176594c3d313d7d039"
+		"icon"		"b5de89029a7d5c73029d8d23892fc4eca226d035"
+		"clienticns"		"3242a86a8fd18ba3c081664dd51477b14c414791"
+		"oslist"		"windows,macos"
+		"eulas"
+		{
+			"0"
+			{
+				"url"		"http://store.steampowered.com/eula/207890_eula"
+				"id"		"207890_eula"
+				"name"		"207890_eula"
+			}
+		}
+		"parent"		"207890"
+		"metacritic_name"		"Football Manager 2013 Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1351270802"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sports Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1351270800"
+		"gameid"		"216530"
+	}
+	"extended"
+	{
+		"demoofappid"		"207890"
+		"developer"		"Sports Interactive"
+		"gamedir"		"Football Manager 2013 Demo"
+		"homepage"		"http://www.sigames.com/"
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"launcheula"		"http://store.steampowered.com/eula/207890_eula"
+		"noservers"		"0"
+		"onquitdemoshellexecute"		"steam://store/207890"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"validoslist"		"windows,macos"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"SEGA"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Football Manager 2013 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"fm.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"fm.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"cegpublickey"		"30819D300D06092A864886F70D010101050003818B0030818702818100B7D828FC4ABD2A3C55B240126B72D3114938A7A1834193955F9EE6BC73B528818FCC8C3A01EA42BCDAC7739B3F60348FB3E8A2A7AE8892B813C61CBE33EF6465605064D21E59DBBF923E64E138F2D11E511C1E039F1966DC833DE4EB9A305BC1E019BE440E2B2E24C27BC4FA124EDC69E2C9EE2DF56F8E135FC1E229FE1E96BF020111"
+		"checkguid"		"fm.exe"
+	}
+	"depots"
+	{
+		"216531"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6258018114435536060"
+					"size"		"3027021655"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"146254886310019762"
+					"size"		"3027021655"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"CA56676A85E7FBDBC3751010FAD10E85"
+					"size"		"45DFE204417A9DEBAEE2A595253F4EF5"
+					"download"		"1A66031E05161E3782D279A44DD02361"
+				}
+			}
+		}
+		"216532"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3137823419742827325"
+					"size"		"207127053"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"3281989198794845018"
+					"size"		"207127053"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"323F6E58DCA47128AAB6C63207D5E14E"
+					"size"		"3C1668AC305A656A3E44420E94E5730B"
+					"download"		"1A66031E05161E3782D279A44DD02361"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"preloadonly"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"54549"
+			}
+			"local"
+			{
+				"buildid"		"54547"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+			"test"
+			{
+				"buildid"		"54549"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
