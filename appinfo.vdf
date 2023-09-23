@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1133730"
+	"common"
+	{
+		"name"		"Second Galaxy"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"abdb66845e856bd9dfb513fbf626c7f0c95d1a30"
+		"logo_small"		"abdb66845e856bd9dfb513fbf626c7f0c95d1a30_thumb"
+		"icon"		"858858943e6751d7a597ca42e60a07fcb8efd754"
+		"clienticon"		"6dd8c924b966ede09d01984f9a9287a8e40426af"
+		"clienttga"		"62beed06601d9cc66321efe5befdea4b67e5aebd"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1133730_eula_0"
+				"name"		"Second Galaxy EULA"
+				"url"		"https://store.steampowered.com//eula/1133730_eula_0"
+			}
+		}
+		"metacritic_name"		"Second Galaxy"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-tw,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"17.873303167420815"
+				"height_pct"		"34.722222222222214"
+			}
+		}
+		"store_asset_mtime"		"1582627198"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Zilong Game Limited"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Zilong Game Limited"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1568201535"
+		"community_hub_visible"		"1"
+		"gameid"		"1133730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"128"
+			"2"		"122"
+			"3"		"9"
+			"4"		"1755"
+			"5"		"1695"
+			"6"		"3942"
+			"7"		"4853"
+		}
+		"review_score"		"5"
+		"review_percentage"		"51"
+	}
+	"extended"
+	{
+		"developer"		"Zilong Game Limited"
+		"publisher"		"Zilong Game Limited"
+		"homepage"		"https://secondgalaxy.zlongame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Second Galaxy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SecondGalaxy.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1133731"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6716281877030423486"
+					"size"		"3554475560"
+					"download"		"2843866784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"EC81AC0E150ABCDA3749156D7D48EE6C"
+					"size"		"F90997BFEEDB6E5803A93E291B495857"
+					"download"		"21BE5C93840190435A2DFE648CB46987"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese,tchinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6674556"
+				"timeupdated"		"1620713332"
+			}
+			"alpha"
+			{
+				"buildid"		"6674556"
+				"pwdrequired"		"1"
+				"timeupdated"		"1620639266"
+			}
+		}
+	}
+}
