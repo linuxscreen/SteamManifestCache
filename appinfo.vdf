@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"734910"
+	"common"
+	{
+		"name"		"Eternal Hour: Golden Hour"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienttga"		"0d7f5ac5d538d2e46537d2b7d5686ac87d890440"
+		"clienticon"		"0d8e32d1d423b4981a0e3eba8d4b243b4044cf38"
+		"icon"		"861f463997b67b4280f09194e7b30a8c69779386"
+		"clienticns"		"7315ae0fb3f7cb31f117ab6084cda4bc6e874095"
+		"logo"		"51c7060a854f49e8e4e1b2d4961f1fd17f0c9725"
+		"logo_small"		"51c7060a854f49e8e4e1b2d4961f1fd17f0c9725_thumb"
+		"linuxclienticon"		"03a9d547594e30b1b7d45f9f279c9e974c3c471a"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"Eternal Hour: Golden Hour"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"45.40161726433476"
+				"height_pct"		"59.375"
+			}
+		}
+		"store_asset_mtime"		"1568768792"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Seventh Heart Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sekai Project"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1511820515"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"734910"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"113"
+			"2"		"6650"
+			"3"		"3799"
+			"4"		"4085"
+			"5"		"5611"
+			"6"		"4947"
+			"7"		"597"
+			"8"		"21"
+			"9"		"492"
+			"10"		"4182"
+			"11"		"4726"
+			"12"		"1742"
+			"13"		"3871"
+			"14"		"4234"
+			"15"		"5984"
+			"16"		"5153"
+			"17"		"7113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Seventh Heart Studios"
+		"publisher"		"Sekai Project"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Eternal Hour Golden Hour"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EternalHour_GoldenHour.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"EternalHour_GoldenHour.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"EternalHour_GoldenHour.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"15"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"734912"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"784829184662493262"
+					"size"		"697873996"
+					"download"		"619591520"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2900146"
+				"timeupdated"		"1530129521"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"200"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
