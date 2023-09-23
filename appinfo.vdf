@@ -1,0 +1,99 @@
+"appinfo"
+{
+	"appid"		"214820"
+	"common"
+	{
+		"name"		"E.Y.E: Divine Cybermancy Demo"
+		"type"		"Demo"
+		"logo"		"884aa3d655faa379d5beabc75cc88f763ac19d2d"
+		"logo_small"		"884aa3d655faa379d5beabc75cc88f763ac19d2d_thumb"
+		"icon"		"cf002604755ca810bc6f4297e609e969eca5ad98"
+		"clienttga"		"c6550a69a37c0eaeb31ecf96c1a791a63af92442"
+		"clienticon"		"a6fb5d2773e2b99c9ac209beb3479c61d11ac6d2"
+		"freeondemand"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1342051831"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Streum On Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"steam_release_date"		"1342049940"
+		"community_visible_stats"		"1"
+		"gameid"		"214820"
+	}
+	"extended"
+	{
+		"developer"		"Streum On Studio"
+		"gamedir"		"E.Y.E: Divine Cybermancy Demo"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"EYE Divine Cybermancy Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EYE.exe"
+				"description"		"Run E.Y.E demo"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"214821"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3383980818204184333"
+					"size"		"2465154319"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"3383980818204184333"
+					"size"		"2465154319"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5694"
+			}
+			"local"
+			{
+				"buildid"		"5693"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+		}
+	}
+}
