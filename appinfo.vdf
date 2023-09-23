@@ -1,0 +1,200 @@
+"appinfo"
+{
+	"appid"		"1811430"
+	"common"
+	{
+		"name"		"Biters & Bullets: Prologue"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"3250239584a85127c9bfcbd5e5a42b7ba416ec6b"
+		"clienticon"		"e3c4b375f69138e070f8c6da0a08194418a8835b"
+		"clienttga"		"340ecf07324f67a394b6886f90944d5868b8e04d"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"75"
+				"height_pct"		"54.17952980289715"
+			}
+		}
+		"store_asset_mtime"		"1660226377"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Night Owls"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Night Owls"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1658271097"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1811430"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"42804"
+			"2"		"597"
+			"3"		"4885"
+			"4"		"3959"
+			"5"		"4191"
+			"6"		"4252"
+			"7"		"4791"
+			"8"		"3835"
+			"9"		"1662"
+			"10"		"1659"
+			"11"		"6426"
+			"12"		"3993"
+			"13"		"7481"
+			"14"		"3968"
+			"15"		"11104"
+			"16"		"4182"
+			"17"		"492"
+			"18"		"4345"
+			"19"		"4667"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Night Owls"
+		"publisher"		"Night Owls"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BitersAndBullets"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BitersAndBullets.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1811431"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1000957237958801798"
+					"size"		"382462165"
+					"download"		"208628912"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9370223"
+				"timeupdated"		"1661252780"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"NightOwls/BitersAndBullets/{64BitSteamID}"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
