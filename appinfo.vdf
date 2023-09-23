@@ -1,0 +1,234 @@
+"appinfo"
+{
+	"appid"		"1823340"
+	"common"
+	{
+		"name"		"*NEW* SCUFFED BHOP SIMULATION 2026 GOTY EDITION"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienticon"		"563cd542a4de7e167664cdd9d84a565f9923fcec"
+		"clienttga"		"3c390175f43e3a6d223fec9f9328075f32c40c86"
+		"icon"		"7264c8400ddc91f9b789495aeade3a8286219e8b"
+		"logo"		"4615de83ed851e66ba28fa46838871b465401226"
+		"logo_small"		"4615de83ed851e66ba28fa46838871b465401226_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"56.518786826377905"
+				"height_pct"		"76.38888888888889"
+			}
+		}
+		"store_asset_mtime"		"1647432300"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Chris Shanaz"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Scuffed Development"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"shanaz game studios"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1648224238"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1823340"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"597"
+			"2"		"1625"
+			"3"		"3810"
+			"4"		"5395"
+			"5"		"8666"
+			"6"		"4191"
+			"7"		"3839"
+			"8"		"1697"
+			"9"		"5179"
+			"10"		"4136"
+			"11"		"4036"
+			"12"		"1775"
+			"13"		"1685"
+			"14"		"3859"
+			"15"		"3843"
+			"16"		"4182"
+			"17"		"1721"
+			"18"		"113"
+			"19"		"29482"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Chris Shanaz"
+		"publisher"		"shanaz game studios"
+		"homepage"		"https://scuffed.dev/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1904440"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"NEW SCUFFED BHOP SIMULATION 2026 GOTY EDITION"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bhop2.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"bhop2.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"bhop2.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1823341"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2279821376370749043"
+					"size"		"701704534"
+					"download"		"572179504"
+				}
+			}
+		}
+		"1823342"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3193916240048754421"
+					"size"		"719629736"
+					"download"		"578249376"
+				}
+			}
+		}
+		"1823343"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4502145918005580114"
+					"size"		"540986137"
+					"download"		"440795872"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10262484"
+				"timeupdated"		"1672932952"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"4000000"
+		"maxnumfiles"		"30"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+}
