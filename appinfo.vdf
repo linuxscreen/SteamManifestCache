@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"1691030"
+	"common"
+	{
+		"name"		"Evertried Demo"
+		"type"		"Demo"
+		"parent"		"1607040"
+		"releasestate"		"released"
+		"clienttga"		"9700735289053991bc5859a3ffc12877190494cf"
+		"clienticon"		"816ca3975f76e16245450a48f918a8772d5ddd9f"
+		"icon"		"13d6f7dea9f7e67272ef08d268483566254945c4"
+		"logo"		"138fa6318af2391613fb1f9f4cd31318e3fe9d0d"
+		"logo_small"		"138fa6318af2391613fb1f9f4cd31318e3fe9d0d_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"87.90697674418604"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1626794483"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lunic Games / Danilo Domingues"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DANGEN Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"DANGEN Entertainment"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626793041"
+		"gameid"		"1691030"
+	}
+	"extended"
+	{
+		"demoofappid"		"1607040"
+		"developer"		"Lunic Games / Danilo Domingues"
+		"publisher"		"DANGEN Entertainment"
+		"homepage"		"https://lunicgames.com/evertried"
+	}
+	"config"
+	{
+		"installdir"		"Evertried Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Evertried.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Evertried.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1691031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2536052729730599075"
+					"size"		"580759950"
+					"download"		"179870144"
+				}
+			}
+		}
+		"1691032"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1221049442733473952"
+					"size"		"582544937"
+					"download"		"179774672"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7197987"
+				"timeupdated"		"1629136188"
+			}
+		}
+	}
+}
