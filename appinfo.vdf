@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"2540340"
+	"common"
+	{
+		"name"		"Paper Can't Fly Demo"
+		"type"		"Demo"
+		"parent"		"2106960"
+		"icon"		"3aa05408d5d83a055e9afbfc0a0d67d661522620"
+		"clienticon"		"97e266f10e1e3d334e1b184f0530c6b447949dd8"
+		"clienttga"		"4a7f67e3b1b7c652b00c677c0dbd0cd6b94f440a"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1691006616"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Prisma Games L.L.C."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Prisma Games L.L.C."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_17"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1690995823"
+		"gameid"		"2540340"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Prisma Games L.L.C."
+		"publisher"		"Prisma Games L.L.C."
+		"homepage"		"http://www.papercantfly.com"
+	}
+	"config"
+	{
+		"installdir"		"Paper Can't Fly Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Paper Cant Fly Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Paper Cant Fly Demo.app\\Contents\\MacOS\\Paper Cant Fly Demo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Paper Cant Fly Demo.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2540341"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5039556285026993251"
+					"size"		"102206643"
+					"download"		"51604496"
+				}
+			}
+		}
+		"2540342"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3859332430433319956"
+					"size"		"126635540"
+					"download"		"59756464"
+				}
+			}
+		}
+		"2540343"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1261189815217683599"
+					"size"		"115506085"
+					"download"		"52092080"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11830710"
+				"timeupdated"		"1690916270"
+			}
+		}
+	}
+}
