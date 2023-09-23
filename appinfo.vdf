@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"1505750"
+	"common"
+	{
+		"name"		"Astro Zip VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"3"
+				"depth"		"3"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"feadd0ac68f7f25d4e46b3794f5b9153c8ff7351"
+		"clienttga"		"ca8d0908afde9321a3da2e009ee9b50f567b6d87"
+		"icon"		"48479ff6e14a4c53451a8b16fdb8df720418c24d"
+		"logo"		"671be80baf02f9cf4b5417c4cea53736f6c382dc"
+		"logo_small"		"671be80baf02f9cf4b5417c4cea53736f6c382dc_thumb"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.4340723453909"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1613870478"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nicholas Page Dyer"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nicholas Page Dyer"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1615568400"
+		"community_hub_visible"		"1"
+		"gameid"		"1505750"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"15045"
+			"1"		"1773"
+			"2"		"4191"
+			"3"		"1697"
+			"4"		"21978"
+			"5"		"7250"
+			"6"		"19"
+			"7"		"597"
+			"8"		"4305"
+			"9"		"3942"
+			"10"		"1755"
+			"11"		"492"
+			"12"		"5752"
+			"13"		"4295"
+			"14"		"3916"
+			"15"		"4004"
+			"16"		"4182"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Nicholas Page Dyer"
+		"publisher"		"Nicholas Page Dyer"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Astro Zip VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AstroZipVR.exe"
+				"type"		"default"
+				"description_loc"
+				{
+					"english"		"Default"
+				}
+				"description"		"Default"
+			}
+			"1"
+			{
+				"executable"		"AstroZipVR.exe"
+				"arguments"		"-vrmode openvr"
+				"type"		"vr"
+			}
+			"2"
+			{
+				"executable"		"AstroZipVR.exe"
+				"arguments"		"-vrmode oculus"
+				"type"		"othervr"
+			}
+		}
+	}
+	"depots"
+	{
+		"1505751"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8004690634592277749"
+					"size"		"111255670"
+					"download"		"55100304"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6270704"
+				"timeupdated"		"1613862618"
+			}
+		}
+	}
+}
