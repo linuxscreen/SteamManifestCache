@@ -1,0 +1,240 @@
+"appinfo"
+{
+	"appid"		"2443020"
+	"common"
+	{
+		"name"		"Holstin Demo"
+		"type"		"Demo"
+		"parent"		"2235430"
+		"releasestate"		"released"
+		"clienttga"		"cfe860afa2280da3656611c6b8e894aa19e93cb2"
+		"clienticon"		"985e8a8eec999070c736d384d13f2edabed67eae"
+		"icon"		"d49850d7c6e8feb4286f965978a129ec46ef3a99"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693413490"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sonka"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sonka"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1693577376"
+		"community_visible_stats"		"1"
+		"gameid"		"2443020"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Sonka"
+		"publisher"		"Sonka"
+	}
+	"config"
+	{
+		"installdir"		"Holstin Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Demo2\\Holstin.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2443021"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2051211934933608485"
+					"size"		"3730412446"
+					"download"		"1298807264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F8369E71F99DCD8C5D8F1AF7108FACBE"
+					"size"		"6BC4D2C378F7756795F3B452B3A4954C"
+					"download"		"6172D5CB5D4087791657B4F64240DA31"
+				}
+				"combat_level8_wip"
+				{
+					"gid"		"F6603A52CC0B873BF6240FAEC2A1623C"
+					"size"		"E11D79B36CE307CFF9E8C4CE9439BE26"
+					"download"		"4438AF3138FBFDA1EAD5D455C3D8E335"
+				}
+				"launcher_test"
+				{
+					"gid"		"5DD343F54AB56281DB81FCF8161F2922"
+					"size"		"01A0E633E38172E71DF2D209572004B2"
+					"download"		"775CBFAC8DE89CB6ADE87A00790DF5A1"
+				}
+				"test_branch"
+				{
+					"gid"		"A77C8352F59DA489319B3A61FA410012"
+					"size"		"0BCB2C3C40A13066E8F016A1DF9102F0"
+					"download"		"D07710F6E74CAD4F4D31D070B37FB381"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12089175"
+				"timeupdated"		"1693575056"
+			}
+			"beta"
+			{
+				"buildid"		"12247034"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695303324"
+			}
+			"combat_level8_wip"
+			{
+				"buildid"		"11735417"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689753970"
+			}
+			"launcher_test"
+			{
+				"buildid"		"12247034"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695303344"
+			}
+			"test_branch"
+			{
+				"buildid"		"11735417"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689754447"
+			}
+		}
+	}
+}
