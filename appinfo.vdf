@@ -1,0 +1,243 @@
+"appinfo"
+{
+	"appid"		"1390750"
+	"common"
+	{
+		"name"		"Gamedec Demo"
+		"type"		"Demo"
+		"parent"		"917720"
+		"clienttga"		"b06762cde40c6d6d5b4f26c290853e3ed5f7643f"
+		"clienticon"		"994780f7dcf6e03eecd8aa194c3abdb46e84cb7f"
+		"icon"		"ce1f3dca2fa29b2d01a09b781856f7f66756e940"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"f8fa9e69ad0c69ae6c759a3aa09bc9bab23ae67d"
+		"logo_small"		"f8fa9e69ad0c69ae6c759a3aa09bc9bab23ae67d_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.93465577596266"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1616841128"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anshar Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anshar Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1598555580"
+		"gameid"		"1390750"
+	}
+	"extended"
+	{
+		"demoofappid"		"917720"
+		"developer"		"Anshar Studios"
+		"publisher"		"Anshar Studios"
+		"homepage"		"https://gamedec.com/"
+	}
+	"config"
+	{
+		"installdir"		"Gamedec Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GameDEC\\Binaries\\Win64\\GameDEC-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Gamedec Demo"
+				}
+				"description"		"Gamedec Demo"
+			}
+			"1"
+			{
+				"executable"		"GameDEC\\Binaries\\Win64\\GameDEC-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"demo"
+				}
+				"description_loc"
+				{
+					"english"		"Gamedec Demo"
+				}
+				"description"		"Gamedec Demo"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,schinese,russian,polish"
+		"verifyupdates"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1390751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8979249761116273329"
+					"size"		"10224979619"
+					"download"		"4318986352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"9ADE9B3E10572FBAD4965E3EEF61B1A3"
+					"size"		"1BAA7CE474741921D7A6C9A724B91FB1"
+					"download"		"F9C6FA20FF1DB5132C23FE4C5A2DC6CF"
+				}
+				"shipping"
+				{
+					"gid"		"62F7047BD876F92698A5668D38C86221"
+					"size"		"F6BF4D551A0B628F51CB1BA076FDEB0E"
+					"download"		"94781DED82AEEBBFFED3526E49886153"
+				}
+				"test"
+				{
+					"gid"		"ADCE3ECF546D2BA70D4A01DAB141679A"
+					"size"		"AAD101B20560B1B6EC1C5444620DA33E"
+					"download"		"B6CB8BFF8BDF46CBDABF67DFEC58DCFF"
+				}
+			}
+		}
+		"1390752"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2977281428723477757"
+					"size"		"10217845870"
+					"download"		"4310820512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"F99187930A502C246ACF20EA5AE189F9"
+					"size"		"847965CD9E89DA690622639CFB481AD6"
+					"download"		"E6607EECFE5A43C68DEA0C215C71C232"
+				}
+				"shipping"
+				{
+					"gid"		"FC465C969591FB77CA00879A76136B60"
+					"size"		"C120465FFB4BF4E965876A38620DE92C"
+					"download"		"6FA8697E0A43AC5EB53BEA1B56FB8762"
+				}
+				"test"
+				{
+					"gid"		"DA11EC51A20C286030376EA21676D0EB"
+					"size"		"BB50537B1FE8918E74B9CBA420EE09D5"
+					"download"		"156872DB4C726D66AD9E47F145FB93C6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7806268"
+				"timeupdated"		"1638343157"
+			}
+			"development"
+			{
+				"buildid"		"7806115"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638331184"
+			}
+			"shipping"
+			{
+				"buildid"		"7806268"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638334038"
+			}
+			"test"
+			{
+				"buildid"		"7806193"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638332740"
+			}
+		}
+	}
+}
