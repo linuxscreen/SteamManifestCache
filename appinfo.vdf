@@ -1,0 +1,609 @@
+"appinfo"
+{
+	"appid"		"442120"
+	"common"
+	{
+		"name"		"Pinball FX3"
+		"type"		"Game"
+		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"442120_eula_0"
+				"name"		"Pinball FX3 EULA"
+				"url"		"http://store.steampowered.com//eula/442120_eula_0"
+			}
+		}
+		"logo"		"18a715fa8294b6ff7bb6d574061777fe88043140"
+		"logo_small"		"18a715fa8294b6ff7bb6d574061777fe88043140_thumb"
+		"clienticon"		"4e98b27963f6e766102aec43914c47ec9514d1d1"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"icon"		"8ca505ed87783e67323d3de929f602e6b6b73eec"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1644278400"
+			"tested_build_id"		"5904600"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Pinball FX3"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"48.185128220181696"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1666879845"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Zen Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Zen Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Zen Studios"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1506422280"
+		"metacritic_score"		"89"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/pinball-fx3?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"442120"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"6621"
+			"1"		"113"
+			"2"		"599"
+			"3"		"1773"
+			"4"		"597"
+			"5"		"4004"
+			"6"		"3968"
+			"7"		"5154"
+			"8"		"5350"
+			"9"		"4182"
+			"10"		"3859"
+			"11"		"1654"
+			"12"		"6691"
+			"13"		"7368"
+			"14"		"4791"
+			"15"		"4711"
+			"16"		"4305"
+			"17"		"4175"
+			"18"		"7743"
+			"19"		"701"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Zen Studios"
+		"publisher"		"Zen Studios"
+		"homepage"		"http://www.pinballfx.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"646660,646661,646662,646663,646664,646665,646666,646667,646668,646669,646670,646671,646672,646673,657420,657421,657422,657423,657424,657430,657431,715110,718800,750060,782110,836820,931640,947000,984180,1044440,1086760,1167870,1203510,1450220,1849550"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Pinball FX3"
+		"steamcontrollertemplateindex"		"4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Pinball FX3.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"1862407079"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,spanish"
+		"442121"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6999247961723594705"
+					"size"		"7928146703"
+					"download"		"7753047552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"cabinet"
+				{
+					"gid"		"E80E810BBE5E646DA54F5A15DE24A4A4"
+					"size"		"AE7BF8D7A887FDF9C0F464D6F7E59232"
+					"download"		"51EED7FD42A96432227B012D5C3C1003"
+				}
+				"console"
+				{
+					"gid"		"BEBBBE03C747D0A17F934CA83053E06E"
+					"size"		"3B26B28DB6DF71015BC50EDADF104B16"
+					"download"		"2CEECACCF5C1A103DA08C08FE86EB9A6"
+				}
+				"jwp_marketing"
+				{
+					"gid"		"CB00858BDF08FA0B99D1B85B606AE59C"
+					"size"		"4A0C9F008C6CAAE2C591E40065F25062"
+					"download"		"C28EF82EF4AB7F934656D7B1F2330A92"
+				}
+				"pfx3_preview_3"
+				{
+					"gid"		"08EB9B4218780AF7646EF9C7DBD9B95A"
+					"size"		"6EB838AE2A1935F58E96B7D977D4E1D4"
+					"download"		"614B811B79C04829AD59DCDE55571176"
+				}
+				"pfx3_preview2"
+				{
+					"gid"		"1C21AB767A211DD34C636847AD501AC4"
+					"size"		"8DD0B1002038A72B5D8FA296AD4D089F"
+					"download"		"C26504135A74BD430FB6E1697E9D0A4A"
+				}
+				"pinball_demo"
+				{
+					"gid"		"8BE77507C5FF8179AD803907746E3ECD"
+					"size"		"DA65E85C1D99040D04D46676139F0902"
+					"download"		"A6095D66E58EA0748F9AAA59B145DBF8"
+				}
+				"pinballfx_beta"
+				{
+					"gid"		"D9C58080FB00C32D76C86C573F9187C1"
+					"size"		"5541721CD16741F5878AA4C617E8E18F"
+					"download"		"ECEB2B9740B3BFCF822868DFA3EA2473"
+				}
+				"red_cup_release_tmp"
+				{
+					"gid"		"2732A13BDC6CEAB611BC5E86C48097F4"
+					"size"		"EA959A554413EC5AEA161E0C85A6FDC4"
+					"download"		"839E71C7200EF1C833DA454A3968C368"
+				}
+				"release"
+				{
+					"gid"		"FAA1A931B61164E088B2C81C01CF4477"
+					"size"		"78779E075217FC94CBFED490FE78EFD0"
+					"download"		"6065D2D7E7446D1EA7C261D7866E79A3"
+				}
+				"release_dev"
+				{
+					"gid"		"2650C97279B9C92D1C8B7E3794D60F86"
+					"size"		"E4D1BD4034150BF4BECBE276D0E9F3C3"
+					"download"		"6194230F46B72036896CE63CECE55944"
+				}
+				"test"
+				{
+					"gid"		"846B7A05A305A1666005B61B9D9655F0"
+					"size"		"5B01ADCB1CABF752F9260F7404369736"
+					"download"		"FECEF3E1E0103ECB7A200247279B1C8C"
+				}
+				"universalmonsterspack"
+				{
+					"gid"		"BC573124A8D65A5574F5C4D23A88F40D"
+					"size"		"3F14FBEEA02C135BE8F9FDD044547F94"
+					"download"		"528658DD3AA91151A2F755CAF2D0BADC"
+				}
+				"williams_pinball_press"
+				{
+					"gid"		"7469C03FFE7F5CB0CA914AC7BDA7E78D"
+					"size"		"8AE332E841C0BA832647B72357C49F81"
+					"download"		"9E64728302B328E2A8C035DDA2043817"
+				}
+				"williams_volume4_press"
+				{
+					"gid"		"F34D4C2F60DB562ECAA41474C8792ACB"
+					"size"		"72CE6F905C76F3AAA002147C6BCE4550"
+					"download"		"AB50367A06CC65BA627DC6F96E88B200"
+				}
+				"williams_volume5"
+				{
+					"gid"		"F9E5BA0EBE87A7C207D75E5831A49379"
+					"size"		"4DCC5CA8F2EA6CC90C7EEF1258213FB5"
+					"download"		"5624C78ABFFC738FB43045DC8CD25C06"
+				}
+				"williamspinball_3"
+				{
+					"gid"		"FAADD83922DBAF2ECCA7C0B5E9D99964"
+					"size"		"33CD14FD2C47A93744F21ABC06A8A975"
+					"download"		"7DDDF3067C9F3E9BAA5335B6C8BB78B1"
+				}
+				"williamspinball_4_beta"
+				{
+					"gid"		"05DFFB1D58CDF1DCCA6D56F7B15798AD"
+					"size"		"ACCD1EA707BA8C763F3B7248D8C7817B"
+					"download"		"5B1FA6F67BB42F495E890A402A4360AE"
+				}
+				"williamspinball_vol5"
+				{
+					"gid"		"14F93E2CB1383CACF0238EF6ECAEE770"
+					"size"		"F7D9BAEC96A008C8D96397D6DB62E2F2"
+					"download"		"A9D19F000A726815DC4DB18709647995"
+				}
+				"williamspinball_vol6"
+				{
+					"gid"		"A9DAD0819E9D43CB0FFD0720006F61D7"
+					"size"		"44A8A5F31957617F95E2EFBAEAFAFB1F"
+					"download"		"F014BBE6B1CF7962EA25F9C747B45E5F"
+				}
+				"wms_beta_temp"
+				{
+					"gid"		"4040882A44DA32D9E3D55AA3D04AB46E"
+					"size"		"93EE86461D894390C2EB59E6D5E4DD7D"
+					"download"		"C0579C4DF78D2E026A9DB4ABFC41EFFF"
+				}
+				"wms_deep_temp"
+				{
+					"gid"		"D25D6C8F09C5B81F51DD1E27C7A05AC9"
+					"size"		"DB65050A163DBB66801E8E4807560813"
+					"download"		"F2BA61EC35DF08D51527AD8AF25181FF"
+				}
+				"wms_indianajones"
+				{
+					"gid"		"C76B723075509DE6A8007C2A2D99066F"
+					"size"		"8D526FFA4BF42686F34A39622D0B1054"
+					"download"		"203787D569F91CB65DA5511898827DB3"
+				}
+				"wms_mp_beta"
+				{
+					"gid"		"6C5CAE9EAC691EED9B94356EC9501F46"
+					"size"		"4B4418AE3223E9CBC69BD42ACD297F59"
+					"download"		"82E62443F207D7FA32473016D9854F8A"
+				}
+			}
+		}
+		"442122"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+		}
+		"442123"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+		}
+		"442124"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+		}
+		"442125"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+		}
+		"442126"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8268077"
+				"timeupdated"		"1646923696"
+			}
+			"cabinet"
+			{
+				"buildid"		"2661914"
+				"pwdrequired"		"1"
+				"timeupdated"		"1522932971"
+			}
+			"console"
+			{
+				"buildid"		"9543751"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663578445"
+			}
+			"jwp_marketing"
+			{
+				"buildid"		"2468879"
+				"pwdrequired"		"1"
+				"timeupdated"		"1516893514"
+			}
+			"pfx3_preview_3"
+			{
+				"buildid"		"3054222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1534942239"
+			}
+			"pfx3_preview2"
+			{
+				"buildid"		"2675762"
+				"pwdrequired"		"1"
+				"timeupdated"		"1523436584"
+			}
+			"pinball_demo"
+			{
+				"buildid"		"3042097"
+				"pwdrequired"		"1"
+				"timeupdated"		"1534528056"
+			}
+			"pinballfx_beta"
+			{
+				"buildid"		"4369492"
+				"pwdrequired"		"1"
+				"timeupdated"		"1573216676"
+			}
+			"red_cup_release_tmp"
+			{
+				"buildid"		"3111843"
+				"pwdrequired"		"1"
+				"timeupdated"		"1536741946"
+			}
+			"release"
+			{
+				"buildid"		"8257222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645598143"
+			}
+			"release_dev"
+			{
+				"buildid"		"2746096"
+				"pwdrequired"		"1"
+				"timeupdated"		"1525441138"
+			}
+			"test"
+			{
+				"buildid"		"4474079"
+				"pwdrequired"		"1"
+				"timeupdated"		"1599733321"
+			}
+			"universalmonsterspack"
+			{
+				"buildid"		"4319976"
+				"pwdrequired"		"1"
+				"timeupdated"		"1571925648"
+			}
+			"williams_pinball_press"
+			{
+				"buildid"		"3136747"
+				"pwdrequired"		"1"
+				"timeupdated"		"1537794109"
+			}
+			"williams_volume4_press"
+			{
+				"buildid"		"3842904"
+				"pwdrequired"		"1"
+				"timeupdated"		"1558438135"
+			}
+			"williams_volume5"
+			{
+				"buildid"		"4393541"
+				"pwdrequired"		"1"
+				"timeupdated"		"1573828418"
+			}
+			"williamspinball_3"
+			{
+				"buildid"		"3645586"
+				"pwdrequired"		"1"
+				"timeupdated"		"1552579456"
+			}
+			"williamspinball_4_beta"
+			{
+				"buildid"		"3744949"
+				"pwdrequired"		"1"
+				"timeupdated"		"1555492204"
+			}
+			"williamspinball_vol5"
+			{
+				"buildid"		"4435429"
+				"pwdrequired"		"1"
+				"timeupdated"		"1574956993"
+			}
+			"williamspinball_vol6"
+			{
+				"buildid"		"4791633"
+				"pwdrequired"		"1"
+				"timeupdated"		"1584541342"
+			}
+			"wms_beta_temp"
+			{
+				"buildid"		"3122871"
+				"pwdrequired"		"1"
+				"timeupdated"		"1536946223"
+			}
+			"wms_deep_temp"
+			{
+				"buildid"		"3128445"
+				"pwdrequired"		"1"
+				"timeupdated"		"1537189299"
+			}
+			"wms_indianajones"
+			{
+				"buildid"		"8268077"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645732849"
+			}
+			"wms_mp_beta"
+			{
+				"buildid"		"4047943"
+				"pwdrequired"		"1"
+				"timeupdated"		"1564153319"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+	}
+}
