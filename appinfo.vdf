@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"1129120"
+	"common"
+	{
+		"name"		"Blasphemous Demo"
+		"type"		"Demo"
+		"parent"		"774361"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"5a0cd4a52daec20f89a45d0a2b45681b29962bcd"
+		"logo"		"8f13a6891a6f7883ae5eb6495a06d4ba713d2052"
+		"logo_small"		"8f13a6891a6f7883ae5eb6495a06d4ba713d2052_thumb"
+		"clienttga"		"dcd885c22c0680b4b39b6d63f7e6456e1f6d8c04"
+		"clienticon"		"81ec50234b5a4835e788739637e3af0d7160b6ec"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Blasphemous Demo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1566982568"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Game Kitchen"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team17 Digital Ltd"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1567002900"
+		"gameid"		"1129120"
+	}
+	"extended"
+	{
+		"demoofappid"		"774361"
+		"developer"		"The Game Kitchen"
+		"publisher"		"Team17 Digital Ltd"
+		"homepage"		"https://www.team17.com/games/blasphemous/"
+	}
+	"config"
+	{
+		"installdir"		"Blasphemous Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blasphemous.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1129121"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4530993596552029621"
+					"size"		"701215864"
+					"download"		"552882432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betadev"
+				{
+					"gid"		"81494AB95457F7653B1ADCA97E309C2A"
+					"size"		"7B54BED9D90B88238994E85D66657A22"
+					"download"		"D8792836AFB4023A816B4EB26B68390D"
+				}
+				"demo_qa"
+				{
+					"gid"		"F83E87D3A53902760AA2E787F46E414A"
+					"size"		"4C216805924D50D9576D2772D8EC2B8E"
+					"download"		"2E8DEE4E008889D4AB04BCA502F76DC3"
+				}
+				"demo_qa_backup"
+				{
+					"gid"		"DB180DAB7B7BF3C64CF5021E39403EE2"
+					"size"		"B0FDC039A3A3C5B7BD808510C962CE16"
+					"download"		"8E80B410AC7CBC7068ACB318068B413F"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,japanese,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5309257"
+				"timeupdated"		"1596212430"
+			}
+			"betadev"
+			{
+				"buildid"		"5237016"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593591181"
+			}
+			"demo_qa"
+			{
+				"buildid"		"5309257"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595247827"
+			}
+			"demo_qa_backup"
+			{
+				"buildid"		"5309236"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595247842"
+			}
+		}
+	}
+}
