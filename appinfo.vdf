@@ -1,0 +1,259 @@
+"appinfo"
+{
+	"appid"		"1985510"
+	"common"
+	{
+		"name"		"Ukraine War Stories"
+		"type"		"Game"
+		"clienticon"		"30d31f32bb5fe04001931f03ef09783d1c26eaa6"
+		"clienttga"		"61c5022ce23fc7cbfa7d2919338d28082b3a3887"
+		"icon"		"789ad4fe96dcb5f4a1a4a3b961d986e790328197"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.88372093023255"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1671177550"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Starni Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Starni Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666101382"
+		"community_hub_visible"		"1"
+		"gameid"		"1985510"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4486"
+			"1"		"11014"
+			"2"		"1678"
+			"3"		"3799"
+			"4"		"122"
+			"5"		"3871"
+			"6"		"31275"
+			"7"		"3987"
+			"8"		"6426"
+			"9"		"6971"
+			"10"		"21"
+			"11"		"5094"
+			"12"		"1742"
+			"13"		"599"
+			"14"		"4252"
+			"15"		"4064"
+			"16"		"4166"
+			"17"		"5608"
+			"18"		"5984"
+			"19"		"5186"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Starni Games"
+		"publisher"		"Starni Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Ukraine War Stories"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UWS_vc.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1985511"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5187616530566658018"
+					"size"		"557437214"
+					"download"		"330674192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"DB23FEDACF9F94A6974A9A6F1DA80867"
+					"size"		"AC40B3098B6AF92B8E2D3ED3D9BD7C29"
+					"download"		"CE76A9CE47DDB3EAC3C4640F2E681C26"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,koreana,schinese,tchinese,russian,japanese,polish,finnish,brazilian,ukrainian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9812268"
+				"timeupdated"		"1666873743"
+			}
+			"test"
+			{
+				"buildid"		"9812268"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666871495"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"StarniGames/UWS"
+				"pattern"		"*.save"
+			}
+		}
+	}
+}
