@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"1058700"
+	"common"
+	{
+		"name"		"LOVE³ -Love Cube- Demo"
+		"type"		"Demo"
+		"parent"		"939600"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"2bd3ae8ab75a995b99b957a69f60df3051bc99b1"
+		"clienttga"		"bc4c9d0587359697d728c113a6de2816b682c42d"
+		"icon"		"bd1b5347f089b200b6d0e5cc848e0aec97d7a985"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"LOVE CUBE Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.19836639439906"
+				"height_pct"		"35.94158157207315"
+			}
+		}
+		"store_asset_mtime"		"1572340566"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NEKO WORK H"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NEKO WORKs"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1556204679"
+		"gameid"		"1058700"
+	}
+	"extended"
+	{
+		"demoofappid"		"939600"
+		"developer"		"NEKO WORK H"
+		"publisher"		"NEKO WORKs"
+	}
+	"config"
+	{
+		"installdir"		"LOVE CUBE Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"lovecube.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"1058701"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7347869389343562380"
+					"size"		"974630189"
+					"download"		"949544816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5B3B0E106D1E4B4C5CA21FE2DF6B0928"
+					"size"		"5E544561AD549567CF86CA2FF855570E"
+					"download"		"2C85C817A1659B536E84E156EC4B419D"
+				}
+				"develop"
+				{
+					"gid"		"839247E9CA2C49D3905B540DDAEFA14C"
+					"size"		"96B4E4480E60CBEC44FAE02779E1FF0C"
+					"download"		"13BD215033142E2CFF89FE3CC5559149"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8505842"
+				"timeupdated"		"1649233711"
+			}
+			"beta"
+			{
+				"buildid"		"8505842"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649230726"
+			}
+			"develop"
+			{
+				"buildid"		"8505842"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649229593"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"500"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"NEKO WORK H/LOVE CUBE-Steam Demo"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
