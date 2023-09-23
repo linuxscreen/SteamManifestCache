@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"1704070"
+	"common"
+	{
+		"name"		"Get Stuffed!"
+		"type"		"Game"
+		"icon"		"4e53ac241ed817ef6341098effc2e40f1fbedd7f"
+		"logo"		"10d64c4eaf40ec5c8140f0a8ac5fd52cac8b458a"
+		"logo_small"		"10d64c4eaf40ec5c8140f0a8ac5fd52cac8b458a_thumb"
+		"clienticon"		"2e2b5e3934947f784fcd0846a1d816a0a2427612"
+		"clienttga"		"b07b31a499e7b43d1fd001f957cf1b02bce9f8e4"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1656633600"
+			"tested_build_id"		"7114583"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.67038755800828"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1627562926"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kaleidoscope Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Octopus 8 Studios"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628845839"
+		"community_hub_visible"		"1"
+		"gameid"		"1704070"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"19"
+			"2"		"3859"
+			"3"		"1773"
+			"4"		"4637"
+			"5"		"113"
+			"6"		"1775"
+			"7"		"3871"
+			"8"		"4726"
+			"9"		"4136"
+			"10"		"4562"
+			"11"		"4195"
+			"12"		"492"
+			"13"		"4305"
+			"14"		"4791"
+			"15"		"1643"
+			"16"		"5350"
+			"17"		"3993"
+			"18"		"7178"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Kaleidoscope Games"
+		"publisher"		"Octopus 8 Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Get Stuffed!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Get Stuffed!.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1704071"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5679210170450974033"
+					"size"		"270642518"
+					"download"		"72647120"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7114583"
+				"timeupdated"		"1627661722"
+			}
+		}
+	}
+}
