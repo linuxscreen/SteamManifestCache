@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1964970"
+	"common"
+	{
+		"name"		"Class Five Memorial GAME"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"f3c163cf382946e1bb5902e43e355d3bc577ff33"
+		"clienticon"		"6b7a7de71e18d0c38741230e4cf890deb57edca3"
+		"clienttga"		"1ecdf00d1dabe9fd58f63cb4a40469c3d9211655"
+		"name_localized"
+		{
+			"schinese"		"五班纪念GAME"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"95"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1651113553"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"李晟艺"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"李晟艺"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"李晟艺"
+			}
+			"3"
+			{
+				"type"		"developer"
+				"name"		"李晟艺"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"李晟艺"
+			}
+			"5"
+			{
+				"type"		"publisher"
+				"name"		"李晟艺"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1656642140"
+		"community_hub_visible"		"1"
+		"gameid"		"1964970"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9551"
+			"1"		"597"
+			"2"		"599"
+			"3"		"1036"
+			"4"		"10235"
+			"5"		"5395"
+			"6"		"3834"
+			"7"		"9204"
+			"8"		"4191"
+			"9"		"29363"
+			"10"		"4175"
+			"11"		"5350"
+			"12"		"4166"
+			"13"		"1702"
+			"14"		"4182"
+		}
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		""
+		"developer"		"李晟艺"
+		"publisher"		"李晟艺"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Windows"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ban5.exe"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1964971"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2233018189428002268"
+					"size"		"1594454858"
+					"download"		"1385346192"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8641897"
+				"timeupdated"		"1651151926"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+}
