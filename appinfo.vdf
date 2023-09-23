@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"1686760"
+	"common"
+	{
+		"name"		"Knight of Exile Demo"
+		"type"		"Demo"
+		"parent"		"1644430"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"b7cc0295625af552eee0bd2e3295e43c4fcdd07a"
+		"clienttga"		"aeb615de4722ec342dc59410c8faae0901e716b8"
+		"icon"		"ed296a2c8c60b5006f917e451fb2f18be500a3ae"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"44.32355723746453"
+			}
+		}
+		"store_asset_mtime"		"1627408888"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DonXuglo Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DonXuglo Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627407800"
+		"gameid"		"1686760"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1644430"
+		"developer"		"DonXuglo Games"
+		"publisher"		"DonXuglo Games"
+	}
+	"config"
+	{
+		"installdir"		"Knight of Exile Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"KnightofExileDemo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"KnightofExileDemo.app\\Contents\\MacOS\\KnightofExileDemo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Knigh of Exile Demo.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,spanish,latam"
+		"hasdepotsindlc"		"0"
+		"1686761"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9119304881845254047"
+					"size"		"319898019"
+					"download"		"247597968"
+				}
+			}
+		}
+		"1686762"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7267519524499018836"
+					"size"		"1093424832"
+					"download"		"237619008"
+				}
+			}
+		}
+		"1686763"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"987315517550769384"
+					"size"		"321963915"
+					"download"		"249031552"
+				}
+			}
+		}
+		"1686764"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5132079660097440726"
+					"size"		"324450825"
+					"download"		"250525680"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6990079"
+				"timeupdated"		"1625623891"
+			}
+		}
+	}
+}
