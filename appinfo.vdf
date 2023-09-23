@@ -1,0 +1,132 @@
+"appinfo"
+{
+	"appid"		"1740700"
+	"common"
+	{
+		"name"		"Feline Sweet Demo"
+		"type"		"Demo"
+		"parent"		"1723390"
+		"clienttga"		"d1d4d5e04c3fc2b304e9dfff987b640e12156929"
+		"clienticon"		"dd56ed47e774048df485664874f1d31f62a30bed"
+		"icon"		"362042b2004b45b48365c12ee06bcf86350b7518"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1740700_eula_0"
+				"name"		"Feline Sweet Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1740700_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"60.23255813953489"
+				"height_pct"		"43.92068392305865"
+			}
+		}
+		"store_asset_mtime"		"1630180473"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anommymousse"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anommymousse Games Ltd."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630418939"
+		"gameid"		"1740700"
+	}
+	"extended"
+	{
+		"demoofappid"		"1723390"
+		"developer"		"Anommymousse"
+		"publisher"		"Anommymousse Games Ltd."
+	}
+	"config"
+	{
+		"installdir"		"Feline Sweet Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FelineSweet.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1740701"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5657648959061760125"
+					"size"		"1892549311"
+					"download"		"579006848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demoreleasetest"
+				{
+					"gid"		"9361068BDE28CE26CFF2FB3CAC7D1A50"
+					"size"		"D655C03A66327443794B18F6E0373874"
+					"download"		"48FF24C90F379D9CEE22D8BB6CA51E0D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7946967"
+				"timeupdated"		"1640678076"
+			}
+			"demoreleasetest"
+			{
+				"buildid"		"7946967"
+				"pwdrequired"		"1"
+				"timeupdated"		"1640677905"
+			}
+		}
+	}
+}
