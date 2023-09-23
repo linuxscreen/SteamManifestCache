@@ -1,0 +1,131 @@
+"appinfo"
+{
+	"appid"		"2175010"
+	"common"
+	{
+		"name"		"Seasick Demo"
+		"type"		"Demo"
+		"parent"		"2094950"
+		"releasestate"		"released"
+		"icon"		"4286fc46050db9c3d70f86347d69e16c395c1e76"
+		"clienticon"		"a666001a052df245fa76b9c6c0dd22d90994cb57"
+		"clienttga"		"2b4d80738778c336a0cb92682d7ffd9f64a46b57"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1664808010"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Khitori"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Khitori"
+			}
+		}
+		"steam_release_date"		"1664894082"
+		"gameid"		"2175010"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2094950"
+		"developer"		"Khitori"
+		"publisher"		"Khitori"
+	}
+	"config"
+	{
+		"installdir"		"Seasick Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Seasick_Demo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Seasick_Demo.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2175011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"54694409592194240"
+					"size"		"51754464"
+					"download"		"24567056"
+				}
+			}
+		}
+		"2175012"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"262054585007596931"
+					"size"		"53399984"
+					"download"		"25292912"
+				}
+			}
+		}
+		"2175013"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1083319670493986784"
+					"size"		"89436656"
+					"download"		"34145392"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9646164"
+				"timeupdated"		"1664836004"
+			}
+		}
+	}
+}
