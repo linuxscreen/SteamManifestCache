@@ -1,0 +1,340 @@
+"appinfo"
+{
+	"appid"		"1402020"
+	"common"
+	{
+		"name"		"SCP: Labrat"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"SCP Labrat_Data/StreamingAssets/SteamVR/actions.json"
+		"logo"		"6d857e7e1116181900f45200c62ae52d57e6a8da"
+		"logo_small"		"6d857e7e1116181900f45200c62ae52d57e6a8da_thumb"
+		"icon"		"90e4a6660ecf80ba71e95b97897f15beae9e9411"
+		"clienticon"		"a8abdae0cbf45a31eeb370a2151e9efffa41c72c"
+		"clienttga"		"ea3f6eef8fe46cde69e45f3cbbf6b4fe45e3923d"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"openxrsupport"		"1"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1673049600"
+			"tested_build_id"		"10245776"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.11748357298171"
+				"height_pct"		"53.027436140018914"
+			}
+		}
+		"store_asset_mtime"		"1671946767"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bezbro Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bezbro Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"SCP.GAMES"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1671950189"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1402020"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"3859"
+			"2"		"21978"
+			"3"		"4182"
+			"4"		"3978"
+			"5"		"113"
+			"6"		"19"
+			"7"		"1662"
+			"8"		"3942"
+			"9"		"3834"
+			"10"		"3968"
+			"11"		"4175"
+			"12"		"3839"
+			"13"		"1721"
+			"14"		"5125"
+			"15"		"6276"
+			"16"		"6971"
+			"17"		"21"
+			"18"		"3843"
+			"19"		"4667"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Bezbro Games"
+		"publisher"		"Bezbro Games"
+		"homepage"		"https://bezbrogames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SCP Labrat"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SCP Labrat.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"SCP Labrat.exe"
+				"arguments"		"-vr"
+				"type"		"openxr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"with VR"
+				}
+				"description"		"with VR"
+			}
+			"2"
+			{
+				"executable"		"SCP Labrat.exe"
+				"arguments"		"-novr"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"with Desktop"
+				}
+				"description"		"with Desktop"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1402021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9184767645860676960"
+					"size"		"4298532387"
+					"download"		"2624966608"
+				}
+				"breach-beta"
+				{
+					"gid"		"3137830062741537623"
+					"size"		"4163340419"
+					"download"		"2533213712"
+				}
+				"v1_96"
+				{
+					"gid"		"3845194592514955007"
+					"size"		"2100486024"
+					"download"		"891543088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"7E00A14C89B0B2F3259572DD20D397BC"
+					"size"		"2DD1BEF1245EA8E236A58F394794E596"
+					"download"		"9E8DE6DD6ED6FCCD85AC70B686714915"
+				}
+				"labmouse"
+				{
+					"gid"		"C926A14A5400D8CDED79D0A3FB0DFDE0"
+					"size"		"045220D628FB3BD163846A3F49838E0C"
+					"download"		"DA16057DA054D3C6291F2F482BD260BF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12072728"
+				"timeupdated"		"1693433335"
+			}
+			"breach-beta"
+			{
+				"buildid"		"11763340"
+				"description"		"Beta for breach multiplayer mode"
+				"timeupdated"		"1690004104"
+			}
+			"debug"
+			{
+				"buildid"		"11745598"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689835820"
+			}
+			"labmouse"
+			{
+				"buildid"		"12086302"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693553907"
+			}
+			"v1_96"
+			{
+				"buildid"		"8270556"
+				"description"		"Legacy version of SCP: Labrat"
+				"timeupdated"		"1671748683"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#statustext"		"{#Status_%gamestatus%}"
+					"#status_menu"		"At main menu"
+					"#status_loading"		"Loading"
+					"#status_singleplayer"		"Playing Singleplayer"
+					"#status_multiplayer"		"Playing Multiplayer"
+					"#status_inlobby"		"Waiting for Players"
+				}
+			}
+		}
+	}
+}
