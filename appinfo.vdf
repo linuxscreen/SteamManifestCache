@@ -1,0 +1,114 @@
+"appinfo"
+{
+	"appid"		"2339250"
+	"common"
+	{
+		"name"		"Genesis of a Small God Demo"
+		"type"		"Demo"
+		"parent"		"2328710"
+		"icon"		"7bc97b9c0b6b35d18b60a43308789ac856ae7556"
+		"clienticon"		"3cd07fdd6df27a63ca29184ad0e782a62a586ecd"
+		"clienttga"		"facb62e6e211d71aa535b867c44ac5a2b651bca4"
+		"clienticns"		"5d6735ead1a499dea3af04ad05a00113298b1471"
+		"linuxclienticon"		"9d6bc6a8b4e545561ae63c4c795f6e8cc477e9d3"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1677592346"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pierre Nury"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pierre Nury"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"gameid"		"2339250"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2328710"
+		"developer"		"Pierre Nury"
+		"publisher"		"Pierre Nury"
+	}
+	"config"
+	{
+		"installdir"		"Genesis of a Small God Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SmallGod.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2339251"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1603548293619940113"
+					"size"		"1500023880"
+					"download"		"1056108864"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12033191"
+				"timeupdated"		"1692973464"
+			}
+		}
+	}
+}
