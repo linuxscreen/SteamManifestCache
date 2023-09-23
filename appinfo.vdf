@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1547070"
+	"common"
+	{
+		"name"		"Wow Dance"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"a033c554930b2d9c315df7263eb818ea1d4df2ee"
+		"clienticns"		"d5497c0a6d905fd3e3d4001fc9717d5640f13bc1"
+		"linuxclienticon"		"d5497c0a6d905fd3e3d4001fc9717d5640f13bc1"
+		"controllervr"
+		{
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"clienticon"		"0056c3de06398aa286fea99f93dc436bada8b62a"
+		"icon"		"ee5da043059b949bc6b77bc3289fda44647dc2c0"
+		"logo"		"88cdbaed77f3a430a63e31300ac6746a33d4f56a"
+		"logo_small"		"88cdbaed77f3a430a63e31300ac6746a33d4f56a_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"Wow Dance"
+		}
+		"othervrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1617960995"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Prometheus Vision Technology Co., Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Prometheus Vision Technology Co., Ltd."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1616153915"
+		"community_hub_visible"		"1"
+		"gameid"		"1547070"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1752"
+			"2"		"21978"
+			"3"		"4191"
+			"4"		"379975"
+			"5"		"4726"
+			"6"		"3839"
+			"7"		"113"
+			"8"		"1654"
+			"9"		"7481"
+			"10"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Prometheus Vision Technology Co., Ltd."
+		"publisher"		"Prometheus Vision Technology Co., Ltd."
+		"homepage"		"https://www.prometh.xyz/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1618990"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Wow Dance"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WowDance.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"hasdepotsindlc"		"0"
+		"1547071"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7786139421944179832"
+					"size"		"4878775087"
+					"download"		"3705514384"
+				}
+			}
+		}
+		"1618990"
+		{
+			"dlcappid"		"1618990"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7580595"
+				"timeupdated"		"1634896770"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
