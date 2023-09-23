@@ -1,0 +1,256 @@
+"appinfo"
+{
+	"appid"		"2129490"
+	"common"
+	{
+		"name"		"Memory Lost: Chapter One"
+		"type"		"Game"
+		"icon"		"58dedc77ff0557f7e92522f85fb4de2bdcea785c"
+		"clienttga"		"6a0d5b2287ede0a941fc10d6469f1c1a328f6287"
+		"clienticon"		"7d0888549458eb03f5f487de0dd6568cb25b0c11"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"89.5155545001187"
+			}
+		}
+		"store_asset_mtime"		"1669913581"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Magic Hazard"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Magic Hazard"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1669906872"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2129490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4255"
+			"1"		"19"
+			"2"		"4637"
+			"3"		"4158"
+			"4"		"1774"
+			"5"		"5851"
+			"6"		"4791"
+			"7"		"492"
+			"8"		"4166"
+			"9"		"4345"
+			"10"		"4667"
+			"11"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Magic Hazard"
+		"publisher"		"Magic Hazard"
+		"homepage"		"https://magichazard.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MemoryLost_ChapterOne"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MemoryLost.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"MemoryLost.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2129491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2876081554097119272"
+					"size"		"6767987498"
+					"download"		"4126145984"
+				}
+			}
+		}
+		"2129492"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3688583532576063715"
+					"size"		"6535018603"
+					"download"		"4041598384"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10185983"
+				"timeupdated"		"1671554672"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"sync_while_suspended"		"1"
+	}
+}
