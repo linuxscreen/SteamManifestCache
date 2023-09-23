@@ -1,0 +1,128 @@
+"appinfo"
+{
+	"appid"		"1450490"
+	"common"
+	{
+		"name"		"Dark Deception: Monsters & Mortals Demo"
+		"type"		"Demo"
+		"parent"		"1266690"
+		"oslist"		""
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"244f176100fb80cab9cb3d3f101bed9e2aeb325c"
+		"icon"		"9cc7cf35a85ee263f54b394a17b7a7effa0a0d4f"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"65.1371807000946"
+			}
+		}
+		"store_asset_mtime"		"1602840240"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Glowstick Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Glowstick Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dark Deception"
+			}
+		}
+		"steam_release_date"		"1602874860"
+		"gameid"		"1450490"
+	}
+	"extended"
+	{
+		"demoofappid"		"1266690"
+		"developer"		"Glowstick Entertainment"
+		"publisher"		"Glowstick Entertainment"
+	}
+	"config"
+	{
+		"installdir"		"Dark Deception Monsters & Mortals Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DD_MnM.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1450491"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"35798711462289174"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5717594"
+				"timeupdated"		"1603311474"
+			}
+		}
+	}
+}
