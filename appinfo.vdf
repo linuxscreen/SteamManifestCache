@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"2091510"
+	"common"
+	{
+		"name"		"TRAFFIC"
+		"type"		"Game"
+		"icon"		"654f67099207a6ba8d9dab41da8e69ad7da9bdf5"
+		"clienttga"		"072e030e18b659060ddc77c87ac544cdbfad1284"
+		"clienticon"		"46586fb23435a86a95cdcbe96de51f91cb71d7ab"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"64.9289099526066"
+				"height_pct"		"91.51756129887343"
+			}
+		}
+		"store_asset_mtime"		"1666432307"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Laud Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Laud Publishing"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1662091200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2091510"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"1721"
+			"2"		"5900"
+			"3"		"4342"
+			"4"		"4166"
+			"5"		"3978"
+			"6"		"3839"
+			"7"		"1710"
+			"8"		"4106"
+			"9"		"11014"
+			"10"		"21"
+			"11"		"1742"
+			"12"		"19"
+			"13"		"4064"
+			"14"		"3834"
+			"15"		"4182"
+			"16"		"5716"
+			"17"		"4191"
+			"18"		"6426"
+			"19"		"7250"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Laud Games"
+		"publisher"		"Laud Publishing"
+		"homepage"		"https://laudgames.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TRAFFIC"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LowFileSizeGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2091511"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8334263885108319879"
+					"size"		"658059485"
+					"download"		"413778496"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10627457"
+				"timeupdated"		"1677225870"
+			}
+		}
+	}
+}
