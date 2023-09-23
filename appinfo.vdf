@@ -1,0 +1,127 @@
+"appinfo"
+{
+	"appid"		"1708130"
+	"common"
+	{
+		"name"		"Misericorde: Volume One Demo"
+		"type"		"Demo"
+		"parent"		"1708110"
+		"releasestate"		"released"
+		"clienticon"		"5f36b71215b3048c34e7dd59d73e91847609b5b0"
+		"clienttga"		"79552641784ed4fa4d8f75e8c475b5a1f6dde6bf"
+		"icon"		"f97551ad1bea203d636073c3bd4270dd0b738a0f"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.275526727336"
+				"height_pct"		"96.18004888665044"
+			}
+		}
+		"store_asset_mtime"		"1629586477"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"XEECEE"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"XEECEE"
+			}
+		}
+		"steam_release_date"		"1628869176"
+		"gameid"		"1708130"
+	}
+	"extended"
+	{
+		"demoofappid"		"1708110"
+		"developer"		"XEECEE"
+		"publisher"		"XEECEE"
+	}
+	"config"
+	{
+		"installdir"		"Misericorde Volume One Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MISERICORDE_DEMO-win32-x64\\MISERICORDE_DEMO.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"1708131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7356562075309027785"
+					"size"		"681579919"
+					"download"		"546275552"
+				}
+				"beta"
+				{
+					"gid"		"7356562075309027785"
+					"size"		"681579919"
+					"download"		"546275552"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7228858"
+				"timeupdated"		"1629591702"
+			}
+			"beta"
+			{
+				"buildid"		"7228858"
+				"description"		"patch testing"
+				"timeupdated"		"1629591515"
+			}
+		}
+	}
+}
