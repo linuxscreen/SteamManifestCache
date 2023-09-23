@@ -1,0 +1,243 @@
+"appinfo"
+{
+	"appid"		"1653430"
+	"common"
+	{
+		"name"		"Tales And Tactics Demo"
+		"type"		"Demo"
+		"parent"		"1652250"
+		"releasestate"		"released"
+		"icon"		"bbcc6da57c4bb9f3a6a0ada75ce840dd0c220512"
+		"clienticon"		"7e288a2f3d7aee29bed4d19667e7ea935d76014a"
+		"clienttga"		"514490495aef3e0302686a1a14aeb8ee5bbd053a"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"传说与战术自走棋 Demo"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"33.40297192177498"
+				"height_pct"		"62.48817407757805"
+			}
+		}
+		"store_asset_mtime"		"1685227971"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Table 9 Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Yogscast Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1687193520"
+		"gameid"		"1653430"
+	}
+	"extended"
+	{
+		"demoofappid"		"1652250"
+		"developer"		"Table 9 Studio"
+		"publisher"		"Yogscast Games"
+	}
+	"config"
+	{
+		"installdir"		"Tales & Tactics Demo"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"TalesAndTactics.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1652251"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"423375095195285731"
+					"size"		"2628507581"
+					"download"		"2440391232"
+				}
+				"experimental"
+				{
+					"gid"		"423375095195285731"
+					"size"		"2628507581"
+					"download"		"2440391232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"creator"
+				{
+					"gid"		"A81A6E02CFF3C6AFC2695E03AF38C5D9"
+					"size"		"9F046A1809D7A92B6B871932B4408373"
+					"download"		"A687A342E88173B041868F6A7EE203E0"
+				}
+				"devtestbranch"
+				{
+					"gid"		"B8C2AA9760BBDF5113F2FE91996A018E"
+					"size"		"E5D705C132EA819987F319E13E86F0CF"
+					"download"		"0DC2472F99CE1710A965CA813CA45BE5"
+				}
+				"perftest"
+				{
+					"gid"		"F75E2B6BC8A632DE73A74270C395EE21"
+					"size"		"9312FDEC31D6A454408290562910A9EC"
+					"download"		"81C834EF0220020DEA99496557C8EC09"
+				}
+				"press"
+				{
+					"gid"		"EFA3D6F7DCAA5A3EA6C3D53E4C6EF81F"
+					"size"		"2FD8384AA9EF42CF2EFF1D7055C039E7"
+					"download"		"9DFAFC54E12383949981BA663D6FA68C"
+				}
+			}
+			"depotfromapp"		"1652250"
+		}
+		"1653431"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3970507239935187412"
+					"size"		"3233168601"
+					"download"		"3050335968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devbranch"
+				{
+					"gid"		"4EBEE04851BDDF20BFA89A150ED8F943"
+					"size"		"115A1A77CD160C27C1809E4FBE108265"
+					"download"		"5ADF55F8A45B74101B91018C1FE7CBFD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11911719"
+				"timeupdated"		"1691671695"
+			}
+			"devbranch"
+			{
+				"buildid"		"11887427"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691444586"
+			}
+			"creator"
+			{
+				"buildid"		"11911896"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691673385"
+			}
+			"devtestbranch"
+			{
+				"buildid"		"12175660"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694589054"
+			}
+			"perftest"
+			{
+				"buildid"		"11911896"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691673403"
+			}
+			"press"
+			{
+				"buildid"		"11911896"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691673409"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"600000"
+		"maxnumfiles"		"50"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"AutoRogue/Saved/SaveGames/MySaveGame"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TalesAndTactics/Saved/SaveGames/MySaveGame"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
