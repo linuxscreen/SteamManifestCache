@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1731800"
+	"common"
+	{
+		"name"		"Where Is My Parking Spot - Parking Reimagined Demo"
+		"type"		"Demo"
+		"parent"		"1631260"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"50542d355993943c2cf8cac8ed5aa932b7851f05"
+		"clienttga"		"547cf4cecc88df499bed26e87a5b48785399bd34"
+		"icon"		"29ed210d5eaa22ab8dd3e9a3b580f002e85fe678"
+		"logo"		"edd0ce3f28ce0ba7ba31a31f558c7985ee2531b5"
+		"logo_small"		"edd0ce3f28ce0ba7ba31a31f558c7985ee2531b5_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1629383189"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Not-So Classic Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Not-So Classic Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630000847"
+		"gameid"		"1731800"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1631260"
+		"developer"		"Not-So Classic Games"
+		"publisher"		"Not-So Classic Games"
+	}
+	"config"
+	{
+		"installdir"		"Where Is My Parking Spot 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WIMPS Parking Reimagined.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"WIMPS Parking Reimagined.app\\Contents\\MacOS\\WIMPS Parking Reimagined"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"WIMPS Parking Reimagined.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1731801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3931089646868884069"
+					"size"		"2066447245"
+					"download"		"424588752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"7F71B80FAC690CD5D5BF1D88AA695009"
+					"size"		"111DF5D54E04BEAC81331D6CFC650341"
+					"download"		"FCDB0CCD459F2431D1F49CA6408D1A37"
+				}
+			}
+		}
+		"1731802"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1345256373118397167"
+					"size"		"2092282298"
+					"download"		"432954704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"7B26F0B346EFA62CADB36C625FC726AE"
+					"size"		"54398BCFE6A1D81E0835C09552AABD75"
+					"download"		"371D36113F1567C177A211A2854B784C"
+				}
+			}
+		}
+		"1731803"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2507321654962412311"
+					"size"		"2161424251"
+					"download"		"453314768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"C1AC6448C6164D7385C61DA22933CE5C"
+					"size"		"352287AAE47C10BA08F74D98BD3F29DF"
+					"download"		"FFA4885467C60191470D84D0BEFA2165"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7263772"
+				"timeupdated"		"1630095488"
+			}
+			"development"
+			{
+				"buildid"		"7634276"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635726142"
+			}
+		}
+	}
+}
