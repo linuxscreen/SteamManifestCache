@@ -1,0 +1,254 @@
+"appinfo"
+{
+	"appid"		"1321660"
+	"common"
+	{
+		"name"		"Voidtrain Demo"
+		"type"		"Demo"
+		"parent"		"1159690"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"99f29e9c22adedf6cd469b7133e6b801819d8749"
+		"clienttga"		"6956a240fa0102753df8022692668201a56f82d6"
+		"icon"		"42ac88f2a79b018eafbffb48c6fc17dc60957b6f"
+		"name_localized"
+		{
+			"schinese"		"虚空列车 Demo"
+		}
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1589543823"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nearga"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" HypeTrain Digital"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1675702976"
+		"gameid"		"1321660"
+	}
+	"extended"
+	{
+		"demoofappid"		"1159690"
+		"developer"		"Nearga"
+		"publisher"		" HypeTrain Digital"
+	}
+	"config"
+	{
+		"installdir"		"Voidtrain Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VoidTrain.exe"
+				"arguments"		"-disable_eos_overlay"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1321661"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8909676868459740097"
+					"size"		"19131135224"
+					"download"		"7081339808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"E78C02301DB6D3845C6277D37758D991"
+					"size"		"8A02AA848D88A33B78C24154CD0D3DA6"
+					"download"		"574BDB349D39DBA2A6F98B848BC4DBC6"
+				}
+				"testbranch-dev"
+				{
+					"gid"		"E039188B4DE7EE70C6A7DBD348D2EFE3"
+					"size"		"446ADC2E55E6C229C3AA0BD1531EC1FF"
+					"download"		"D93A30698D386D646E0C96483AD60553"
+				}
+				"testbranch2"
+				{
+					"gid"		"92B480A5DD9D57DB5F8B93C35E01FA0C"
+					"size"		"46FECC7EA7C49024C8E9C807B0F81510"
+					"download"		"4ACFEF95A55751FC54286B27760D177F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12059197"
+				"timeupdated"		"1694008919"
+			}
+			"testbranch"
+			{
+				"buildid"		"12059197"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693314471"
+			}
+			"testbranch-dev"
+			{
+				"buildid"		"5174559"
+				"pwdrequired"		"1"
+				"timeupdated"		"1592336398"
+			}
+			"testbranch2"
+			{
+				"buildid"		"10491913"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675724504"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"appidredirect"		"1159690"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"VoidTrain/Saved/SaveGames/SteamCloud"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
