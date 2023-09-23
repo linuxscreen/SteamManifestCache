@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"2084050"
+	"common"
+	{
+		"name"		"Unsolved Case"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"0ba0007615dcbf343a62f8da2121352dc3e74e1d"
+		"clienticon"		"84db93f0fab2aafe3c34893a2cc066f4b4ee3ed6"
+		"clienttga"		"795bd1da5696137acb4d1003e2461048a14234c9"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1670860195"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Eleven Puzzles"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Eleven Puzzles"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Cryptic Killer"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1669309299"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2084050"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3843"
+			"1"		"1664"
+			"2"		"769306"
+			"3"		"1698"
+			"4"		"4508"
+			"5"		"8369"
+			"6"		"21"
+			"7"		"597"
+			"8"		"3834"
+			"9"		"5716"
+			"10"		"4195"
+			"11"		"5613"
+			"12"		"4234"
+			"13"		"1685"
+			"14"		"3871"
+			"15"		"6815"
+			"16"		"1751"
+			"17"		"3859"
+			"18"		"4305"
+			"19"		"6378"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Eleven Puzzles"
+		"publisher"		"Eleven Puzzles"
+		"homepage"		"https://elevenpuzzles.com/unsolved-case"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Unsolved Case"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Unsolved Case.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Unsolved Case.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2084051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4054899879536867279"
+					"size"		"2258844290"
+					"download"		"152599120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"560EEA915C0B2C31DA999832385B7C92"
+					"size"		"88FD67C7B1308AE84A5B46F6A1888A57"
+					"download"		"853A5D7AFC6689BE1E21D837B4D36FBA"
+				}
+			}
+		}
+		"2084052"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2460065566934819567"
+					"size"		"2283370266"
+					"download"		"159879328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"7A9B086F1EBD834565FF841512ABB402"
+					"size"		"132752C16D17A79610CCF039419DB098"
+					"download"		"550DA8F56AADDB0E5FB53CFEE847A777"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12067200"
+				"timeupdated"		"1693390882"
+			}
+			"beta"
+			{
+				"buildid"		"12067200"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693390483"
+			}
+		}
+	}
+}
