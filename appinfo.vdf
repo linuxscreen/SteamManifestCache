@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"1691110"
+	"common"
+	{
+		"name"		"TBOT - Twitch Bot"
+		"type"		"Application"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"12cbf7df240868a4a9662587cd954385f110745b"
+		"logo"		"b9366d2751f601d77d3a8e06ad3717e152dcaf96"
+		"logo_small"		"b9366d2751f601d77d3a8e06ad3717e152dcaf96_thumb"
+		"clienticon"		"3af20057e9679e4d8f304155ae216cd63e48b79a"
+		"clienttga"		"deb46c1e6e2440de0cb797b1d05d4797de28f424"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658534400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"91.91279887482415"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1652429525"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Live3D"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Live3D"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"51"
+			"2"		"58"
+			"3"		"60"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630294140"
+		"community_hub_visible"		"1"
+		"gameid"		"1691110"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"87"
+			"2"		"8013"
+			"3"		"3810"
+			"4"		"7926"
+			"5"		"7481"
+			"6"		"16689"
+			"7"		"1751"
+			"8"		"255534"
+			"9"		"4155"
+			"10"		"6052"
+			"11"		"4182"
+			"12"		"3877"
+			"13"		"3859"
+			"14"		"872"
+			"15"		"493"
+			"16"		"784"
+			"17"		"13906"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"enablegameoverlayforapp"		"1"
+		"developer"		"Live3D"
+		"publisher"		"Live3D"
+		"homepage"		"https://kolchatbot.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TBOT - Twitch Bot"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Twitchbot-win32-x64/Twitchbot.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1691111"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6707835486217754280"
+					"size"		"361461082"
+					"download"		"90074528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"63C241AE909D1A6BDB6EC430A873FF42"
+					"size"		"633F9D92F0AE191471B4749A9B6FB226"
+					"download"		"844F0383D5C8747E63BC09D5B62438F4"
+				}
+				"test-mac"
+				{
+					"gid"		"A7DB33EC67C145A5B55F1EE76C170CDC"
+					"size"		"A6264C14F242C8AF792FC16C1EB410ED"
+					"download"		"8B632FBEC6DE40E7854CB7DD149528E4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9721423"
+				"timeupdated"		"1665993913"
+			}
+			"test"
+			{
+				"buildid"		"9721423"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665745523"
+			}
+			"test-mac"
+			{
+				"buildid"		"8688413"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651807335"
+			}
+		}
+	}
+}
