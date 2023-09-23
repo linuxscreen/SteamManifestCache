@@ -1,0 +1,247 @@
+"appinfo"
+{
+	"appid"		"1412190"
+	"common"
+	{
+		"name"		"BEACHED"
+		"type"		"Game"
+		"icon"		"ba375f26eeb61f92c8a744cfe93700e46575fecb"
+		"logo"		"c6803b8e7ec4824f4d229a810678f6bd31febf63"
+		"logo_small"		"c6803b8e7ec4824f4d229a810678f6bd31febf63_thumb"
+		"clienttga"		"1ababb5c64123065ea3e0a8adbdc50ca45af7755"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"32bbb739e544d3e1ed5bb988e54d20133b700877"
+		"clienticns"		"c0b426ec6b05facbd6c0e5194d994a4dd9441b56"
+		"linuxclienticon"		"cd8bc029ff79f500289efada8f15b93e4e468553"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1685145600"
+			"tested_build_id"		"11186480"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"32.94528521536668"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1685068644"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gradient Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gradient Studios"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"29"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628062260"
+		"community_hub_visible"		"1"
+		"gameid"		"1412190"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"3859"
+			"2"		"19"
+			"3"		"21"
+			"4"		"1695"
+			"5"		"113"
+			"6"		"3834"
+			"7"		"1697"
+			"8"		"3810"
+			"9"		"3814"
+			"10"		"3839"
+			"11"		"3978"
+			"12"		"128"
+			"13"		"493"
+			"14"		"597"
+			"15"		"1100689"
+			"16"		"1685"
+			"17"		"12095"
+			"18"		"1667"
+			"19"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"gamedir"		"BEACHED"
+		"serverbrowsername"		"BEACHED"
+		"developer"		"Gradient Studios"
+		"publisher"		"Gradient Studios"
+		"homepage"		"https://discord.gg/RBucNBX"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Beached"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"WindowsNoEditor/BeachedV2.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1412192"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7749642526577558730"
+					"size"		"1696459257"
+					"download"		"475039472"
+				}
+				"beta"
+				{
+					"gid"		"7749642526577558730"
+					"size"		"1696459257"
+					"download"		"475039472"
+				}
+			}
+		}
+		"1412191"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3729294166889722549"
+					"size"		"5960492459"
+					"download"		"1237729088"
+				}
+				"beta"
+				{
+					"gid"		"4177943924946091604"
+					"size"		"2633860981"
+					"download"		"668351248"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11510053"
+				"timeupdated"		"1687214524"
+			}
+			"beta"
+			{
+				"buildid"		"10999405"
+				"description"		"Public beta branch"
+				"timeupdated"		"1681684053"
+			}
+		}
+	}
+}
