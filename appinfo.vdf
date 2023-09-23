@@ -1,0 +1,275 @@
+"appinfo"
+{
+	"appid"		"1702320"
+	"common"
+	{
+		"name"		"PIGGY: Hunt"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"0874e551889f0b249a1282039f4ddf69fc07cb27"
+		"logo_small"		"0874e551889f0b249a1282039f4ddf69fc07cb27_thumb"
+		"icon"		"c7f3c3c8b4cac7f15dcf26462e2ba4e47571e502"
+		"clienttga"		"41098abcd21a92dc98bc214a02148e81b3b6c570"
+		"clienticon"		"74e92ef6e43e8b254f17daa38cfa8f75495a3d29"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658188800"
+			"tested_build_id"		"8864646"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.06912442396313"
+				"height_pct"		"56.03512608959659"
+			}
+		}
+		"store_asset_mtime"		"1634928488"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Shaggy Doge"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Shaggy Doge"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"29"
+			"6"		"2"
+			"7"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1634240940"
+		"community_hub_visible"		"1"
+		"gameid"		"1702320"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"19"
+			"2"		"1667"
+			"3"		"3859"
+			"4"		"3978"
+			"5"		"5350"
+			"6"		"1685"
+			"7"		"1775"
+			"8"		"4191"
+			"9"		"597"
+			"10"		"4106"
+			"11"		"3834"
+			"12"		"3798"
+			"13"		"4562"
+			"14"		"4305"
+			"15"		"1687"
+			"16"		"4604"
+			"17"		"1773"
+			"18"		"3814"
+			"19"		"4637"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Shaggy Doge"
+		"publisher"		"Shaggy Doge"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Piggy Hunt"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"piggy-hunt.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1702321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7789210222340978264"
+					"size"		"1108270384"
+					"download"		"519419952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-beam-sandbox"
+				{
+					"gid"		"068AF3A462BBF2BF36579C873FB2984A"
+					"size"		"497D071E97B561C1954DCD00E0A50ACD"
+					"download"		"0F66E3E879C0E2D3715848514986CD39"
+				}
+				"dev-pork"
+				{
+					"gid"		"5DDBD9EFE774E8F3FFFB36866CEA8D0D"
+					"size"		"0176008F88919172FD8AF51D3E449FA4"
+					"download"		"E31B4A3C5B79EAAEE326B2D5F3A22DB2"
+				}
+				"prod-chefs"
+				{
+					"gid"		"745B538B18B889B2DEE16DE9D2D0C8ED"
+					"size"		"FB79120DDFC34658D79D2B706A38515E"
+					"download"		"2940367B2FD1604E2760C2DC8A003A30"
+				}
+				"prod-chefs-okta"
+				{
+					"gid"		"D97362C49295FA5376EBD1E5AAB7A117"
+					"size"		"CE09F220099D5F6FEF7A078B10118155"
+					"download"		"CDE252FE63CD8E97A893445208377847"
+				}
+				"prod-chefs-pork"
+				{
+					"gid"		"802A7B6A13509BE3FC4407E1458A7BDB"
+					"size"		"C313C4E0C2F4B0A94C2F562696F0A700"
+					"download"		"B9876D40E0B6D7A76737D379636B4FE2"
+				}
+				"prod-foodcourt"
+				{
+					"gid"		"31D9460E42FA3238CBFDBDA948AFE3A3"
+					"size"		"B7BA1CD6676D0C7EB7DA9D3F225638FF"
+					"download"		"FB5A50D0B5A310F09255C0E8F1BBE2CA"
+				}
+				"staging-waiter"
+				{
+					"gid"		"3D44759CEA8F79E5E5A909F92EC42EF4"
+					"size"		"7E36868EC72FDD818E38304C4824C0D9"
+					"download"		"6A7F913AE5DDD53C1CD6B39BC8034C25"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7883527"
+				"timeupdated"		"1639570490"
+			}
+			"dev-beam-sandbox"
+			{
+				"buildid"		"7841534"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638882366"
+			}
+			"dev-pork"
+			{
+				"buildid"		"7808347"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638360615"
+			}
+			"prod-chefs"
+			{
+				"buildid"		"7857638"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639081454"
+			}
+			"prod-chefs-okta"
+			{
+				"buildid"		"7854607"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639050024"
+			}
+			"prod-chefs-pork"
+			{
+				"buildid"		"7843889"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638909792"
+			}
+			"prod-foodcourt"
+			{
+				"buildid"		"7905336"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639787328"
+			}
+			"staging-waiter"
+			{
+				"buildid"		"7681724"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636457816"
+			}
+		}
+	}
+}
