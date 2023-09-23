@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"1737040"
+	"common"
+	{
+		"name"		"Motor Town: Behind The Wheel Beta Demo"
+		"type"		"Demo"
+		"parent"		"1369670"
+		"releasestate"		"released"
+		"clienttga"		"2e389128918a1ed34fad979bac38e0e7eae5bde3"
+		"clienticon"		"eb6167ade88c187f3cc82603faa4f17859d0054e"
+		"icon"		"8fec159c9ec45bc61870fc1c5764766afe3c71bd"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"32.90163968642657"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1631151874"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"P3 Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"P3 Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_9"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1631365686"
+		"gameid"		"1737040"
+	}
+	"extended"
+	{
+		"demoofappid"		"1369670"
+		"developer"		"P3 Games"
+		"publisher"		"P3 Games"
+		"homepage"		"https://motor-town.com/"
+	}
+	"config"
+	{
+		"installdir"		"Motor Town  Behind The Wheel Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MotorTown\\Binaries\\Win64\\MotorTown-Win64-Shipping.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1737041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7644376081045914682"
+					"size"		"1606526527"
+					"download"		"1358759040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"DEDC6EA7A721A1126F66710F9A6961A4"
+					"size"		"2075BDDB9E71DE1DA68A8DAF9F32E218"
+					"download"		"3C05B2F7870E7C08D64B32F01C8CB8DB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11900949"
+				"timeupdated"		"1692166781"
+			}
+			"development"
+			{
+				"buildid"		"11900949"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692166775"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"100"
+		"appidredirect"		"1369670"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"MotorTown/Saved/SaveGames/Characters"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"MotorTown/Saved/SaveGames/Worlds"
+				"pattern"		"*.world"
+				"recursive"		"1"
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
