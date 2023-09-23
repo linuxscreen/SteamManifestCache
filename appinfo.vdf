@@ -1,0 +1,242 @@
+"appinfo"
+{
+	"appid"		"1468260"
+	"common"
+	{
+		"name"		"Leaf Blower Revolution - Idle Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"879b55f665e66581af893ab63865e244d4360b55"
+		"logo_small"		"879b55f665e66581af893ab63865e244d4360b55_thumb"
+		"icon"		"2d4f99c08afe2e11673db964da768953e752a0fc"
+		"clienticon"		"75201322c02bc51714d4e4a04bf4f2c8c801e9a1"
+		"clienttga"		"1aa55a2e34ab48b4038a6821452a94d168f17730"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1643846400"
+			"tested_build_id"		"7506923"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"72.11981566820276"
+				"height_pct"		"68.4829374668474"
+			}
+		}
+		"store_asset_mtime"		"1685522393"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Humble North"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Humble North"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1607070795"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1468260"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"615955"
+			"1"		"113"
+			"2"		"379975"
+			"3"		"3964"
+			"4"		"1654"
+			"5"		"597"
+			"6"		"4136"
+			"7"		"492"
+			"8"		"3871"
+			"9"		"4791"
+			"10"		"4182"
+			"11"		"4166"
+			"12"		"4305"
+			"13"		"87918"
+			"14"		"5652"
+			"15"		"1702"
+			"16"		"3834"
+			"17"		"3968"
+			"18"		"1756"
+			"19"		"29482"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Humble North"
+		"publisher"		"Humble North"
+		"isfreeapp"		"1"
+		"listofdlc"		"1482630,1482631,1482632,1873910,2125730,2239260"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Leaf Blower Revolution"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"8"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1468261"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4592092093442993274"
+					"size"		"58664866"
+					"download"		"39247920"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12258370"
+				"timeupdated"		"1695397458"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"33554432"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#area"		"Area: %area%"
+					"#tool"		"Tool: %tool"
+				}
+			}
+		}
+	}
+}
