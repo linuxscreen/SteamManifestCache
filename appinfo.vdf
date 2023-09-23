@@ -1,0 +1,224 @@
+"appinfo"
+{
+	"appid"		"1699870"
+	"common"
+	{
+		"name"		"Sengoku - A Time of Warriors and Demons"
+		"type"		"Game"
+		"logo"		"5abc39172fffa7739dc1e2e9727e198d50959e7a"
+		"logo_small"		"5abc39172fffa7739dc1e2e9727e198d50959e7a_thumb"
+		"icon"		"158e398d6a698abd2cbf23486cb46335035b982c"
+		"clienticon"		"8d116cb04911ab0f918cce8ee74c9b8361b911e2"
+		"clienticns"		"112a336ccf62549d8d3cbd6f6aaa786e6e3124a7"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1699870_eula_0"
+				"name"		"Sengoku - A Time of Warriors and Demons EULA"
+				"url"		"https://store.steampowered.com//eula/1699870_eula_0"
+				"version"		"1"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.88914549653579"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1628025494"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Diego Avena"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Ellen Mowat"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Jon Kuntz"
+			}
+			"3"
+			{
+				"type"		"developer"
+				"name"		"Kaylee Whitehead"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"Diego Avena"
+			}
+			"5"
+			{
+				"type"		"publisher"
+				"name"		"Ellen Mowat"
+			}
+			"6"
+			{
+				"type"		"publisher"
+				"name"		"Jon Kuntz"
+			}
+			"7"
+			{
+				"type"		"publisher"
+				"name"		"Kaylee Whitehead"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1629135044"
+		"community_hub_visible"		"1"
+		"gameid"		"1699870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4106"
+			"3"		"1646"
+			"4"		"4736"
+			"5"		"1625"
+			"6"		"5379"
+			"7"		"3798"
+			"8"		"3871"
+			"9"		"4046"
+			"10"		"4608"
+			"11"		"1688"
+			"12"		"9541"
+			"13"		"4598"
+			"14"		"3987"
+			"15"		"4182"
+			"16"		"1678"
+			"17"		"3993"
+			"18"		"3964"
+			"19"		"7250"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Diego Avena"
+		"publisher"		"Diego Avena"
+		"homepage"		"https://sengokuproductions.itch.io/sengoku"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Sengoku - A Time of Warriors and Demons"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sengoku.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1699871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6243882870808813054"
+					"size"		"10671397153"
+					"download"		"641280720"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7211791"
+				"timeupdated"		"1629319186"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"80000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"SengokuFinalThree/Sengoku"
+				"pattern"		"*.gd"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
