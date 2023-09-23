@@ -1,0 +1,158 @@
+"appinfo"
+{
+	"appid"		"500750"
+	"common"
+	{
+		"name"		"GI Racing 2.0"
+		"type"		"Game"
+		"icon"		"ca9a61adc3f1c5141d24f89455f7d3dffd185753"
+		"logo"		"0d21dbe2c0523d9b0d150f0814241c19bc34b5e2"
+		"logo_small"		"0d21dbe2c0523d9b0d150f0814241c19bc34b5e2_thumb"
+		"clienticon"		"ca231acd79ddf7f176ab6c99eda486c402751631"
+		"clienttga"		"7693ecd159e13df93dd259f221efc86a7775718c"
+		"oslist"		"windows"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"500750_eula_0"
+				"name"		"GI Racing 2.0 EULA"
+				"url"		"http://store.steampowered.com//eula/500750_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"metacritic_name"		"GI Racing 2.0"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1469446603"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TGI Game Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Game Institute"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"9"
+			"2"		"28"
+			"3"		"18"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1469234700"
+		"community_hub_visible"		"1"
+		"gameid"		"500750"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"493"
+			"2"		"492"
+			"3"		"599"
+			"4"		"701"
+		}
+		"review_score"		"7"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"TGI Game Studio"
+		"publisher"		"The Game Institute"
+		"homepage"		"https://www.gameinstitute.com/giracing2/"
+		"gamemanualurl"		"https://store.steampowered.com/manual/500750/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"GI Racing 2.0"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"giracing2.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"500751"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8608706676616395829"
+					"size"		"854692355"
+					"download"		"288191280"
+				}
+			}
+		}
+		"500752"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1270370"
+				"timeupdated"		"1470753324"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
