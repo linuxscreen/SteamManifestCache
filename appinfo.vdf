@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1217100"
+	"common"
+	{
+		"name"		"Mega Hasan"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"logo"		"e6799f4cbfbed77dcac039637b90d2b279aa39a4"
+		"logo_small"		"e6799f4cbfbed77dcac039637b90d2b279aa39a4_thumb"
+		"icon"		"68a83e57e21a2f6dea1ed30426828754fd3f173c"
+		"clienticon"		"57ae9c30ac6b2d8a0549d68c4bbcfaba1c2fda8e"
+		"clienttga"		"3e70009a8b54b2960cdddec905c7d88585750465"
+		"clienticns"		"6d9baa7720a64bad7ab642744a5aab45f8464b03"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"metacritic_name"		"Mega Hasan"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.00462084840669"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1578201998"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tameem Hamoui"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cold & Old"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1578924062"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1217100"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"19"
+			"3"		"21"
+			"4"		"5379"
+			"5"		"4136"
+			"6"		"1625"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Tameem Hamoui"
+		"publisher"		"Cold & Old"
+		"homepage"		"https://coldandold.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mega Hasan"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mega Hasan.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1217101"
+		{
+			"config"
+			{
+				"language"		""
+			}
+		}
+		"1217102"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5645962438932686721"
+					"size"		"57113601"
+					"download"		"40431008"
+				}
+				"another_testing"
+				{
+					"gid"		"5207027622673944810"
+					"size"		"51892770"
+					"download"		"39482288"
+				}
+			}
+		}
+		"1217103"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7332423738416427218"
+					"size"		"50089638"
+					"download"		"39725280"
+				}
+				"another_testing"
+				{
+					"gid"		"155305830364643781"
+					"size"		"51486477"
+					"download"		"40214512"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9413608"
+				"timeupdated"		"1661838724"
+			}
+			"another_testing"
+			{
+				"buildid"		"4535401"
+				"timeupdated"		"1577844776"
+			}
+		}
+	}
+}
