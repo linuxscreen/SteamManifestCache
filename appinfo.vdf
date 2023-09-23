@@ -1,0 +1,261 @@
+"appinfo"
+{
+	"appid"		"1275070"
+	"common"
+	{
+		"name"		"A Buttload of Free Games"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"85dda655e89f4eb9d76408fef328fee20bd18f26"
+		"logo"		"7856db7be0c7bb410357547da5db83cdef282cd5"
+		"logo_small"		"7856db7be0c7bb410357547da5db83cdef282cd5_thumb"
+		"clienticon"		"81249057948e5914314daad18c8d8c8dd873e4fd"
+		"clienttga"		"09dcc1c7cb0883df52b59487cc63eb339241d225"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.712643678160916"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1594127667"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Del Nordlund"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Patrick Flattery"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Sebastian Scaini"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Sebastian Scaini"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"3"
+			"6"		"28"
+			"7"		"18"
+			"8"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_48"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_18"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_44"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1586519321"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1275070"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"21"
+			"3"		"492"
+			"4"		"597"
+			"5"		"599"
+			"6"		"701"
+			"7"		"9"
+			"8"		"122"
+			"9"		"6650"
+			"10"		"12095"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,beta"
+		"developer"		"Del Nordlund"
+		"publisher"		"Sebastian Scaini"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"A Buttload of Free Games"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"A Buttload of Free Games.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SebastianScainiLauncher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"legacy"
+				}
+			}
+			"2"
+			{
+				"executable"		"SebastianScainiLauncher.exe"
+				"type"		"default"
+				"config"
+				{
+					"betakey"		"launcher_2.x"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1275071"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3235169144585957751"
+					"size"		"19029946411"
+					"download"		"2999424928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8586328CB35E3B6E51464EFC8E44CF96"
+					"size"		"276A268B07AFB0B0AD12E5B19022C479"
+					"download"		"A5EE90EC1DDA98F5CF868A7486C34242"
+				}
+				"launcher_2.x"
+				{
+					"gid"		"88FA91E8C3DA90FCC6C5BC87800F6E72"
+					"size"		"BCB1DDAB66ADEA6E74600B36F26F9E2C"
+					"download"		"519FBFE00AB1AB3F433EB0FD588AEE25"
+				}
+				"legacy"
+				{
+					"gid"		"E308CE5585D39DC9B931AB87DA214199"
+					"size"		"0F1BC9FC92922AEBBADCABAED0FA56C9"
+					"download"		"9EEEFD28EDC73ABEFFE3620C792331D2"
+				}
+				"publicbeta"
+				{
+					"gid"		"F4D123637D0D76D0B70C373146CED211"
+					"size"		"0DAC4CEE063F9E59691A27EA026E1E07"
+					"download"		"E0BD23E11870C8FDD4524A528DF59894"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10703908"
+				"timeupdated"		"1678140925"
+			}
+			"beta"
+			{
+				"buildid"		"10703908"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678134263"
+			}
+			"launcher_2.x"
+			{
+				"buildid"		"9780613"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670630976"
+			}
+			"legacy"
+			{
+				"buildid"		"4859968"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632517187"
+			}
+			"publicbeta"
+			{
+				"buildid"		"10703908"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678134270"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
