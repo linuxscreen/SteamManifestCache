@@ -1,0 +1,252 @@
+"appinfo"
+{
+	"appid"		"528460"
+	"common"
+	{
+		"name"		"Rogalia"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"logo"		"0909efa721bec75cb19b2ef567e9434ec21f7313"
+		"logo_small"		"0909efa721bec75cb19b2ef567e9434ec21f7313_thumb"
+		"icon"		"38c7b512bf92909668ac9aa6d1278ef53ab9498b"
+		"clienticon"		"7ba26ba4ba19543f7b96198ea2161fa5e578449c"
+		"clienttga"		"cc5c611b261d9a282d3ae19c9a5396bd9a182244"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"1"
+			{
+				"id"		"528460_eula_1"
+				"name"		"Rogalia EULA 1"
+				"url"		"http://store.steampowered.com//eula/528460_eula_1"
+			}
+		}
+		"metacritic_name"		"Rogalia"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"31.33022170361727"
+				"height_pct"		"70.89764901448586"
+			}
+		}
+		"store_asset_mtime"		"1573388158"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TatriX"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Nanalli"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"TatriX"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"29"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1539595554"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"528460"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"128"
+			"1"		"122"
+			"2"		"1695"
+			"3"		"3810"
+			"4"		"492"
+			"5"		"21"
+			"6"		"1662"
+			"7"		"1754"
+			"8"		"5851"
+			"9"		"4026"
+			"10"		"1643"
+			"11"		"1775"
+			"12"		"113"
+			"13"		"493"
+			"14"		"3964"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"TatriX"
+		"publisher"		"TatriX"
+		"homepage"		"http://rogalia.ru"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Rogalia"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"./rogalia"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"1"
+			{
+				"executable"		"rogalia.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"rogalia.app/Contents/MacOS/nwjs"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,schinese,tchinese,russian,japanese"
+		"hasdepotsindlc"		"0"
+		"528461"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2852068675604709303"
+					"size"		"596355261"
+					"download"		"332567568"
+				}
+			}
+		}
+		"528462"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1196951886953497954"
+					"size"		"504695449"
+					"download"		"325176576"
+				}
+			}
+		}
+		"528463"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7910581212895088979"
+					"size"		"574152105"
+					"download"		"346070800"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11633897"
+				"timeupdated"		"1688587982"
+			}
+		}
+	}
+}
