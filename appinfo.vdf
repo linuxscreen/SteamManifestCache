@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"1062070"
+	"common"
+	{
+		"name"		"Tex-Mechs"
+		"type"		"Game"
+		"icon"		"15eb415484984a0e74248cde41416ece5f791214"
+		"logo"		"77e68b6d8781c9899a1dee39ee2cb56027ab177d"
+		"logo_small"		"77e68b6d8781c9899a1dee39ee2cb56027ab177d_thumb"
+		"clienttga"		"2f2062b905d2ed38ad51769e9f9497567dd5b75a"
+		"clienticon"		"16939b4534286c2772a8ca3d843ef636c27529d3"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticns"		"16939b4534286c2772a8ca3d843ef636c27529d3"
+		"linuxclienticon"		"16939b4534286c2772a8ca3d843ef636c27529d3"
+		"languages"
+		{
+			"english"		"1"
+			"tchinese"		"1"
+			"latam"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1062070_eula_0"
+				"name"		"Tex-Mechs EULA"
+				"url"		"https://store.steampowered.com//eula/1062070_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"metacritic_name"		"Tex-Mechs"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.13793177003511"
+				"height_pct"		"49.24038130920287"
+			}
+		}
+		"store_asset_mtime"		"1579907421"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SMU Guildhall"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SMU Guildhall"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1582272000"
+		"steam_release_date"		"1582310142"
+		"community_hub_visible"		"1"
+		"gameid"		"1062070"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"492"
+			"3"		"1774"
+			"4"		"4821"
+			"5"		"4234"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"SMU Guildhall"
+		"publisher"		"SMU Guildhall"
+		"homepage"		"http://texmechsgame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TexMechs"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TexMechs.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65525"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,tchinese,latam"
+		"1062071"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4234800201576400454"
+					"size"		"759799136"
+					"download"		"676693392"
+				}
+			}
+		}
+		"1062072"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4600507"
+				"timeupdated"		"1579788293"
+			}
+		}
+	}
+}
