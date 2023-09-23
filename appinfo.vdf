@@ -1,0 +1,200 @@
+"appinfo"
+{
+	"appid"		"1649290"
+	"common"
+	{
+		"name"		"Deep Lake: Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"58bf22f91f4ecd27d136518a106d33c0639d7f9d"
+		"logo_small"		"58bf22f91f4ecd27d136518a106d33c0639d7f9d_thumb"
+		"icon"		"b3e1b4ff721b7dbe112cfd4afde9fa072f446c7f"
+		"clienticon"		"bdffbedc8e48c19b8921e54a1cfa264547da311f"
+		"clienttga"		"9a0a0f5c96af879ad7c8133146b03e16ad9e9c16"
+		"clienticns"		"bbe278fdc247f05221f417f6e6196e2e22d28281"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1640471229"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sinto_Kengeki"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Vengersky"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Aleksey_Chuyko"
+			}
+			"3"
+			{
+				"type"		"developer"
+				"name"		"Ilya_Chuyko"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"Kairos GD"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1624363006"
+		"community_hub_visible"		"1"
+		"gameid"		"1649290"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"3799"
+			"2"		"3834"
+			"3"		"3871"
+			"4"		"4085"
+			"5"		"6052"
+			"6"		"1714"
+			"7"		"4175"
+			"8"		"1742"
+			"9"		"6869"
+			"10"		"4182"
+			"11"		"4342"
+			"12"		"5716"
+			"13"		"29855"
+			"14"		"492"
+			"15"		"3952"
+			"16"		"7948"
+			"17"		"113"
+			"18"		"597"
+			"19"		"19"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Sinto_Kengeki"
+		"publisher"		"Kairos GD"
+		"homepage"		"https://kairosgamedev.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Deep Lake Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DeepLake.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents\\MacOS\\DeepLake"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"hasdepotsindlc"		"0"
+		"1649291"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4161562333025808518"
+					"size"		"1188524760"
+					"download"		"967756368"
+				}
+			}
+		}
+		"1649292"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2453103151584659206"
+					"size"		"1090135813"
+					"download"		"939925824"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7938835"
+				"timeupdated"		"1640391198"
+			}
+		}
+	}
+}
