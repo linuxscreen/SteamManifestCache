@@ -1,0 +1,272 @@
+"appinfo"
+{
+	"appid"		"2224850"
+	"common"
+	{
+		"name"		"EMPTY SHELL: PROLOGUE"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"100676a373b7a18bf654437dcc08da51d39658b6"
+		"clienttga"		"2c54dd8377e7d0422879adc116435fa3a42d8df7"
+		"icon"		"ca8c47426a9e8db5a6f8c606c37dfabbe0cdad61"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1686787200"
+			"tested_build_id"		"10412969"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692219592"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CC ARTS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hyperstrange"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1672995328"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2224850"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"3959"
+			"2"		"4106"
+			"3"		"1716"
+			"4"		"4791"
+			"5"		"1667"
+			"6"		"19"
+			"7"		"7481"
+			"8"		"1742"
+			"9"		"21"
+			"10"		"3942"
+			"11"		"1662"
+			"12"		"3916"
+			"13"		"4004"
+			"14"		"3978"
+			"15"		"3993"
+			"16"		"113"
+			"17"		"4342"
+			"18"		"4182"
+			"19"		"4345"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"CC ARTS"
+		"publisher"		"Hyperstrange"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Empty Shell Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EmptyShell.exe"
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"2224851"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1880275733007829247"
+					"size"		"141779993"
+					"download"		"50940976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"E56DA6DB46B8729152D3FF1026FDD5CD"
+					"size"		"76171E7959E7FCE5B527BA062148A0C1"
+					"download"		"00806B7059AA63D6A179093D8F836417"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11503612"
+				"timeupdated"		"1687161506"
+			}
+			"testing"
+			{
+				"buildid"		"11503612"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687161352"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"3000000"
+		"maxnumfiles"		"4"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"CCARTS/EmptyShell"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
