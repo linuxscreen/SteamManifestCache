@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"1786210"
+	"common"
+	{
+		"name"		"Automobilista 2 Demo VW TSI Cup"
+		"type"		"Demo"
+		"parent"		"1066890"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"controllervr"
+		{
+			"xinput"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"clienttga"		"299eab4abeee2aae735c98cda8bd71aadfe4fa04"
+		"clienticon"		"619c117330af778dc9669b75e78c026048a462d5"
+		"icon"		"e467fb507aa56c3868a942ccf4c864572008be58"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1636993743"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Reiza Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Reiza Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1637181582"
+		"gameid"		"1786210"
+	}
+	"extended"
+	{
+		"demoofappid"		"1066890"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Reiza Studios"
+		"publisher"		"Reiza Studios"
+		"homepage"		"https://www.game-automobilista2.com/"
+	}
+	"config"
+	{
+		"installdir"		"Automobilista 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AMS2Demo.exe"
+				"arguments"		"-novr"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"AMS2Demo.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"AMS2Demo.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1786211"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4423277248445011599"
+					"size"		"13339757069"
+					"download"		"5984388608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stagingtest"
+				{
+					"gid"		"1B6080736F541D5E99997D39E7898B51"
+					"size"		"3C716B7CFDE6A17F6950BF741ECB4F6D"
+					"download"		"E3428BF3FCF1A432ACA4D28C98D9E37A"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,spanish,portuguese,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9476601"
+				"timeupdated"		"1662660390"
+			}
+			"stagingtest"
+			{
+				"buildid"		"9476601"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662641907"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1000"
+	}
+}
