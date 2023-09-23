@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"2215570"
+	"common"
+	{
+		"name"		"Retail Wars"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"d6204c4543d6f9f334b4a6c54f473aee29989d16"
+		"clienticon"		"4ade67612e0878730bd80506256c508f7429677c"
+		"clienttga"		"af609791da0308da67e492dcbe23e30a4fbd525b"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1693958400"
+			"tested_build_id"		"10118800"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.302031452080925"
+				"height_pct"		"43.85639309484807"
+			}
+		}
+		"store_asset_mtime"		"1668734913"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Turtle Hat Productions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Turtle Hat Productions"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1673987047"
+		"community_hub_visible"		"1"
+		"gameid"		"2215570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"4840"
+			"2"		"7368"
+			"3"		"4158"
+			"4"		"5350"
+			"5"		"7178"
+			"6"		"1775"
+			"7"		"1743"
+			"8"		"1773"
+			"9"		"4191"
+			"10"		"493"
+			"11"		"19"
+			"12"		"113"
+			"13"		"4136"
+			"14"		"7481"
+			"15"		"4195"
+			"16"		"4562"
+			"17"		"3859"
+		}
+		"review_score"		"7"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Turtle Hat Productions"
+		"publisher"		"Turtle Hat Productions"
+		"homepage"		"https://linktr.ee/turtlehatproductions"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"RetailWars"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RetailWars.exe"
+				"arguments"		"-forcecontrollerappid 2215570"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2215571"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"142035294847815219"
+					"size"		"397964199"
+					"download"		"106521888"
+				}
+				"local"
+				{
+					"gid"		"4014197095710351050"
+					"size"		"397964199"
+					"download"		"106521888"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10118800"
+				"timeupdated"		"1670639774"
+			}
+			"local"
+			{
+				"buildid"		"10118779"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1670639246"
+			}
+		}
+	}
+}
