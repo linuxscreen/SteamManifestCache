@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"1645760"
+	"common"
+	{
+		"name"		"Yield! Demo"
+		"type"		"Demo"
+		"parent"		"1561960"
+		"releasestate"		"released"
+		"clienttga"		"6a67783045b7c62384dc553c7ff5d299084766fc"
+		"clienticon"		"6d1a734347f23f543f66ada51757f0ea578eda7a"
+		"icon"		"2b76d2f6c271db8586dbf734ce96d3762f05a623"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"76.48774795799301"
+				"height_pct"		"46.200608078948676"
+			}
+		}
+		"store_asset_mtime"		"1685884940"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Billionworlds"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Billionworlds"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623740040"
+		"gameid"		"1645760"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1561960"
+		"developer"		"Billionworlds"
+		"publisher"		"Billionworlds"
+		"homepage"		"https://billionworlds.com"
+	}
+	"config"
+	{
+		"installdir"		"Yield! Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Yield!.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Yield.app\\Contents\\MacOS\\Yield!"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Kingdoms.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1645761"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6197941101307232900"
+					"size"		"662342283"
+					"download"		"172725840"
+				}
+			}
+		}
+		"1645762"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1914689373467864243"
+					"size"		"717901106"
+					"download"		"179629792"
+				}
+			}
+		}
+		"1645763"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3635930621069179873"
+					"size"		"683884037"
+					"download"		"175830640"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12254951"
+				"timeupdated"		"1695373585"
+			}
+		}
+	}
+}
