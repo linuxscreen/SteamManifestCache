@@ -1,0 +1,248 @@
+"appinfo"
+{
+	"appid"		"1648900"
+	"common"
+	{
+		"name"		"The Colossus Is Coming: The Interactive Experience"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"aee5bb35c8b75eefffa72cd2a8aa7e235dc410cc"
+		"logo_small"		"aee5bb35c8b75eefffa72cd2a8aa7e235dc410cc_thumb"
+		"icon"		"3bf8eae384519eb69a30a8c4764ce70e1fb2c6e6"
+		"clienttga"		"d2ad6bb6c485a8e56e36da73ead521ab6b2f48fe"
+		"clienticon"		"21a676b7c1a4604560419cd124bad86c30533807"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1676419200"
+			"tested_build_id"		"7267442"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.186046511627936"
+				"height_pct"		"53.039658038470684"
+			}
+		}
+		"store_asset_mtime"		"1623603921"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FYRE Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"FYRE Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1636084829"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1648900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5900"
+			"1"		"599"
+			"2"		"1667"
+			"3"		"1698"
+			"4"		"4145"
+			"5"		"4094"
+			"6"		"4342"
+			"7"		"1663"
+			"8"		"3834"
+			"9"		"1738"
+			"10"		"21"
+			"11"		"4191"
+			"12"		"4400"
+			"13"		"3839"
+			"14"		"6052"
+			"15"		"4175"
+			"16"		"4166"
+			"17"		"5984"
+			"18"		"5608"
+			"19"		"5716"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"FYRE Games"
+		"publisher"		"FYRE Games"
+		"homepage"		"https://www.fyregames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Colossus Is Coming An Interactive Expansion to the Album by Auric Echoes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Colossus Is Coming.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"The Colossus Is Coming.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1648901"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6370641522457246849"
+					"size"		"1387114088"
+					"download"		"1386337824"
+				}
+			}
+		}
+		"1648902"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2273395561841094123"
+					"size"		"1247712760"
+					"download"		"539435040"
+				}
+			}
+		}
+		"1648903"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2200152554854277012"
+					"size"		"1240231584"
+					"download"		"537475888"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7267442"
+				"timeupdated"		"1630188189"
+			}
+		}
+	}
+}
