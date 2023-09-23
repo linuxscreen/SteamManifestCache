@@ -1,0 +1,240 @@
+"appinfo"
+{
+	"appid"		"2228440"
+	"common"
+	{
+		"name"		"World of Haiku Demo"
+		"type"		"Demo"
+		"parent"		"1856090"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienttga"		"d3e0cddefb9b46d57d74da2b4a2d61f6d1501c00"
+		"clienticon"		"5bce19c7b56ca3e0da54277d07561316f96b1bd8"
+		"icon"		"263782f37022a11c131c8dd1794a1f77a344defb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1669088973"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Haiku, Inc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Haiku, Inc"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1669406584"
+		"gameid"		"2228440"
+	}
+	"extended"
+	{
+		"demoofappid"		"1856090"
+		"developer"		"Haiku, Inc"
+		"publisher"		"Haiku, Inc"
+		"homepage"		"https://www.worldofhaiku.com/"
+	}
+	"config"
+	{
+		"installdir"		"World of Haiku Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"World_of_Haiku.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"World_of_Haiku.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"World_of_Haiku.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2228441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7951597003767993182"
+					"size"		"1211175871"
+					"download"		"284732432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"7D79D7164BE5316770B6D9044C5E861D"
+					"size"		"ED32ECE634901C5FA263EB80E6E827DB"
+					"download"		"5EA9683A169F0C537E98A945F7F30547"
+				}
+			}
+		}
+		"2228442"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2446348683894222182"
+					"size"		"1205048518"
+					"download"		"282755952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"6BE60192BF9AD573FDF5A81FAD056D43"
+					"size"		"2B8042BA919F938B362A3DC23E74A9A9"
+					"download"		"58915F6C0EDA67EF5D9EC8B4BD377A0F"
+				}
+			}
+		}
+		"2228443"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"191030734562542242"
+					"size"		"1215873574"
+					"download"		"285140560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"D7F396DDE6D73EE6B1E41E1CE434679F"
+					"size"		"10370D5466A90851E3621B19B73AC565"
+					"download"		"82C8EC9D68ED976117BE742329FECAF0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10621289"
+				"timeupdated"		"1677169797"
+			}
+			"staging"
+			{
+				"buildid"		"10621289"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677166429"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Haiku Inc/World_of_Haiku"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		""
+						"replace"		"com.HaikuInc.WorldofHaiku"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Haiku Inc/World_of_Haiku"
+						"replace"		".config/unity3d/Haiku Inc/WorldofHaiku"
+					}
+				}
+			}
+		}
+	}
+}
