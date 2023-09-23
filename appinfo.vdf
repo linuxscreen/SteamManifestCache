@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"1389950"
+	"common"
+	{
+		"name"		"Amalgam"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"c6396c9c67479c062ffba774ca1001ff2534780f"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"354182901f37ab9c3e0e9a80eaa4c83883c1237b"
+		"icon"		"1c840b7a3c7b1c354711dadfad82f635ecfc31eb"
+		"logo"		"198372410ce87e26e052733b5ce047d917eefdc5"
+		"logo_small"		"198372410ce87e26e052733b5ce047d917eefdc5_thumb"
+		"requiredappid"		"220"
+		"isfreeapp"		"1"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"ukrainian"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"39.79274611398964"
+				"height_pct"		"52.43055555555554"
+			}
+		}
+		"store_asset_mtime"		"1682443657"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Troiz"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Troiz"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1605002050"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1389950"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"5348"
+			"2"		"19"
+			"3"		"1663"
+			"4"		"4182"
+			"5"		"21"
+			"6"		"1774"
+			"7"		"3839"
+			"8"		"1743"
+			"9"		"4191"
+			"10"		"6506"
+			"11"		"1710"
+			"12"		"1684"
+			"13"		"4295"
+			"14"		"1659"
+			"15"		"1742"
+			"16"		"5094"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Troiz"
+		"publisher"		"Troiz"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Amalgam"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game amalgam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1389951"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6520869510003108190"
+					"size"		"9471889991"
+					"download"		"4778091792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"CC581AB49394E2DA66551F1AFBF6277A"
+					"size"		"974341B08D146C0257D4F44FB3BDB29E"
+					"download"		"95C8AE28B303C3B16C95AF994CF423FB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11172243"
+				"timeupdated"		"1683396385"
+			}
+			"test"
+			{
+				"buildid"		"11052866"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682018703"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"15728640"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"amalgam/save"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
