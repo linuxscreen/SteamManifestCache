@@ -1,0 +1,158 @@
+"appinfo"
+{
+	"appid"		"2225860"
+	"common"
+	{
+		"name"		"PESTICIDE Demo"
+		"type"		"Demo"
+		"parent"		"2191920"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"a637ca19129f96ae9989388f94eaa24c83a53fe4"
+		"clienticon"		"c4ed2318350dae0ece728467f4ddcafb97e7f411"
+		"clienttga"		"28e3f2e410453e672e4f16b25284ccb5475f4548"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1688128986"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nuclear Dog team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nuclear Dog team"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1669097177"
+		"community_hub_visible"		"1"
+		"gameid"		"2225860"
+	}
+	"extended"
+	{
+		"demoofappid"		"2191920"
+		"developer"		"Nuclear Dog team"
+		"publisher"		"Nuclear Dog team"
+	}
+	"config"
+	{
+		"installdir"		"PESTICIDE_DEMO_Win"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PESTICIDE.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"launch PESTICIDE Demo"
+				}
+				"description"		"launch PESTICIDE Demo"
+			}
+			"1"
+			{
+				"executable"		"PESTICIDE_Linux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch PESTICIDE Demo"
+				}
+				"description"		"Launch PESTICIDE Demo"
+			}
+		}
+	}
+	"depots"
+	{
+		"2225861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6655913651874014201"
+					"size"		"4981342638"
+					"download"		"1738150304"
+				}
+			}
+		}
+		"2225862"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"600247277105924925"
+					"size"		"5018756065"
+					"download"		"1750203776"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11620514"
+				"timeupdated"		"1688458311"
+			}
+		}
+	}
+}
