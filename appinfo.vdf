@@ -1,0 +1,212 @@
+"appinfo"
+{
+	"appid"		"2361390"
+	"common"
+	{
+		"name"		"全球戒备"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"b5ac453ac928350baac0c77b3822ba6de2cc2d22"
+		"clienttga"		"bf0d2a0a818f6fc7216bc9a4410660f62fc09da5"
+		"clienticon"		"5bdb32045577d6a19b5646597d4f5980d655a548"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2361390_eula_0"
+				"name"		"全球戒备 EULA"
+				"url"		"https://store.steampowered.com//eula/2361390_eula_0"
+				"version"		"1"
+			}
+		}
+		"name_localized"
+		{
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.68055322785136"
+				"height_pct"		"53.125"
+			}
+		}
+		"store_asset_mtime"		"1692674375"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bu Yi Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"苦柚Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Bu Yi Ltd."
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"29"
+			"1"		"2"
+			"2"		"37"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1691114112"
+		"community_hub_visible"		"1"
+		"gameid"		"2361390"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"6730"
+			"1"		"128"
+			"2"		"1685"
+			"3"		"14139"
+			"4"		"21725"
+			"5"		"4684"
+			"6"		"1775"
+			"7"		"1741"
+			"8"		"9"
+			"9"		"1697"
+			"10"		"4325"
+			"11"		"5765"
+			"12"		"4168"
+			"13"		"5752"
+			"14"		"1673"
+			"15"		"5673"
+			"16"		"4182"
+			"17"		"3843"
+			"18"		"3859"
+			"19"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Bu Yi Ltd."
+		"publisher"		"苦柚Games"
+		"homepage"		"https://wj.qq.com/s2/12615281/077a/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"全球戒备"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"全球戒备.exe"
+				"arguments"		"-nolauncher -steam --language=chinese"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2361391"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3187250716749805272"
+					"size"		"20945005018"
+					"download"		"7396980032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"100FC95800F3DF596E8AF858A62858E5"
+					"size"		"2D095D2F5510C2146D5A0B0926C18CCB"
+					"download"		"3B506EF723DF221E57C94A595BBD7409"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12191204"
+				"timeupdated"		"1694759436"
+			}
+			"beta"
+			{
+				"buildid"		"12191204"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694715204"
+			}
+		}
+	}
+}
