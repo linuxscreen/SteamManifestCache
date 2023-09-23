@@ -1,0 +1,134 @@
+"appinfo"
+{
+	"appid"		"2137970"
+	"common"
+	{
+		"name"		"喵之旅人 Demo"
+		"type"		"Demo"
+		"parent"		"2123100"
+		"clienticon"		"ec2a93cd29cccf82f3342ff033b41e6c4254dcba"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"icon"		"60d78e036767fe94f77abbdc9615151011402a70"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1661915655"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kitty May Strike"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gamera Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664261471"
+		"gameid"		"2137970"
+	}
+	"extended"
+	{
+		"demoofappid"		"2123100"
+		"developer"		"Kitty May Strike"
+		"publisher"		"Gamera Games"
+	}
+	"config"
+	{
+		"installdir"		"喵之旅人 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"KittyMayCry.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2137971"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7648522693501133497"
+					"size"		"1516593018"
+					"download"		"1408059744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"BACEA89D33EA1B83BA587F01CF311740"
+					"size"		"FBA4422AA7A8F484B57D8FBF2F485215"
+					"download"		"C25F71CCA380B303107E13C107FDCCAC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9613891"
+				"timeupdated"		"1664418575"
+			}
+			"test"
+			{
+				"buildid"		"9613891"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664418599"
+			}
+		}
+	}
+}
