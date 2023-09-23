@@ -1,0 +1,225 @@
+"appinfo"
+{
+	"appid"		"2207750"
+	"common"
+	{
+		"name"		"Extreme Tag!"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"49f84ad5440c855b6f10bfdbb5ff7005cf763e9b"
+		"clienticns"		"313ab4d5df08866da201abddc41fc048206c799d"
+		"linuxclienticon"		"ada7de39c426011ae77ea0ec2417f3b180d76c8a"
+		"clienticon"		"d3cb16cf6dd4192ec2b61a8750850882dbf4364d"
+		"clienttga"		"359589f966c1fb2b1c17be3bef72b04c80f5a0d1"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.597432905484226"
+				"height_pct"		"58.58465922583709"
+			}
+		}
+		"store_asset_mtime"		"1691248597"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Explosive Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Explosive Entertainment"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1691196708"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2207750"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"1773"
+			"3"		"1625"
+			"4"		"5395"
+			"5"		"492"
+			"6"		"4191"
+			"7"		"4195"
+			"8"		"3839"
+			"9"		"1719"
+			"10"		"5350"
+			"11"		"1775"
+			"12"		"113"
+			"13"		"7926"
+			"14"		"3859"
+			"15"		"4747"
+			"16"		"12057"
+			"17"		"4182"
+			"18"		"4136"
+		}
+		"review_score"		"7"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Explosive Entertainment"
+		"publisher"		"Explosive Entertainment"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Extreme Tag!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Extreme Tag!.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Extreme Tag Mac Build.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"extreme_tag.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"2207750"
+		"2207751"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3359297970866795384"
+					"size"		"740010824"
+					"download"		"201884336"
+				}
+			}
+		}
+		"2207752"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8766776664268119734"
+					"size"		"772120593"
+					"download"		"212238736"
+				}
+			}
+		}
+		"2207753"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8823573822172389552"
+					"size"		"844562087"
+					"download"		"251969968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12109073"
+				"timeupdated"		"1693879092"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
