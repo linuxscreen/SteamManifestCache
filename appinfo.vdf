@@ -1,0 +1,152 @@
+"appinfo"
+{
+	"appid"		"1570870"
+	"common"
+	{
+		"name"		"星空列车与白的旅行 Demo"
+		"type"		"Demo"
+		"parent"		"1567800"
+		"clienticon"		"99e177872ce72c9e16586c00a93a33bb39cb7c43"
+		"clienttga"		"01e24d95074d396b1e2382d440082af3b32859d6"
+		"icon"		"2160983ddc31be667ad69d2c5b33a73d6161b266"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"95.27649769585254"
+				"height_pct"		"21.333151074416307"
+			}
+		}
+		"store_asset_mtime"		"1617950570"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"しらたまこ"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"inc.ZOFE"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Syawase Works China"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1619332759"
+		"gameid"		"1570870"
+	}
+	"extended"
+	{
+		"demoofappid"		"1567800"
+		"developer"		"しらたまこ"
+		"publisher"		"inc.ZOFE"
+		"homepage"		"http://shiratamaco.com/"
+	}
+	"config"
+	{
+		"installdir"		"星空列车与白的旅行 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"星空列车与白的旅行 体验版.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"schinese"
+		"1570871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5138744700701363503"
+					"size"		"4545539609"
+					"download"		"1109616016"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6596627"
+				"timeupdated"		"1619332656"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"300000000"
+		"maxnumfiles"		"500"
+		"appidredirect"		"1567800"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Save"
+				"pattern"		"*"
+			}
+		}
+	}
+}
