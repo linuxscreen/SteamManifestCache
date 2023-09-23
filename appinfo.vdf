@@ -1,0 +1,133 @@
+"appinfo"
+{
+	"appid"		"1722060"
+	"common"
+	{
+		"name"		"奇迹战队 Demo"
+		"type"		"Demo"
+		"parent"		"1695610"
+		"name_localized"
+		{
+			"english"		"Fantastic Troop Demo"
+			"tchinese"		"奇跡戰隊 Demo"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"9e35f340cac525ce7d94d0453e173273a7487475"
+		"linuxclienticon"		"fe2dc5ff0ad1a51a0ba674b2095a9d3734f56529"
+		"clienticns"		"b822e76c17b15cdccc80af918f2637ed013a7f9b"
+		"clienticon"		"29ca0415377701f4a9e49a673c180c459efac2f7"
+		"icon"		"d018f61fada99a9e147913a00cc8b0b4171d98e7"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1640019837"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Black Nova"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Black Nova"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"奇迹战队"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630475920"
+		"gameid"		"1722060"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1695610"
+		"developer"		"Black Nova"
+		"publisher"		"Black Nova"
+	}
+	"config"
+	{
+		"installdir"		"奇迹战队demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"-windowed"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1722061"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1206678213465106392"
+					"size"		"584267089"
+					"download"		"454308768"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7914906"
+				"timeupdated"		"1640019653"
+			}
+		}
+	}
+}
