@@ -1,0 +1,271 @@
+"appinfo"
+{
+	"appid"		"1682490"
+	"common"
+	{
+		"name"		"Slender Threads: Prologue"
+		"type"		"Game"
+		"logo"		"06097bb1614323470278ec68a39f2b36e826686d"
+		"logo_small"		"06097bb1614323470278ec68a39f2b36e826686d_thumb"
+		"icon"		"4c2c82ed976cd89f1c03cc2ab54eebe063aacf41"
+		"clienticon"		"fd0fb87dcbdfe2df303cbc270903f7415ee06ea4"
+		"clienttga"		"d1a9a60142928c3a364de0882473cd96da8e09ee"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1688083200"
+			"tested_build_id"		"7715989"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.08376494197084"
+				"height_pct"		"68.95127643484838"
+			}
+		}
+		"store_asset_mtime"		"1667594979"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Blyts"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Blyts"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631709420"
+		"community_hub_visible"		"1"
+		"gameid"		"1682490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1698"
+			"2"		"1721"
+			"3"		"1742"
+			"4"		"1667"
+			"5"		"1664"
+			"6"		"21"
+			"7"		"4342"
+			"8"		"492"
+			"9"		"4166"
+			"10"		"4182"
+			"11"		"4345"
+			"12"		"4064"
+			"13"		"5716"
+			"14"		"19995"
+			"15"		"6815"
+			"16"		"1684"
+			"17"		"6426"
+			"18"		"4975"
+			"19"		"4195"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Blyts"
+		"publisher"		"Blyts"
+		"homepage"		"http://www.slenderthreadsgame.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Slender Threads Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SlenderThreadsPrologue.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SlenderThreadsPrologue.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"SlenderThreadsPrologue.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1682492"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5554659359818198139"
+					"size"		"1054293567"
+					"download"		"264264272"
+				}
+			}
+		}
+		"1682493"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6373853654038538588"
+					"size"		"1080937116"
+					"download"		"273061280"
+				}
+			}
+		}
+		"1682494"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7478325408963046495"
+					"size"		"1103000175"
+					"download"		"267518496"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7715989"
+				"timeupdated"		"1636998235"
+			}
+		}
+	}
+}
