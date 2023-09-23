@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1716430"
+	"common"
+	{
+		"name"		"Unholy Alliance - Tower Defense Demo"
+		"type"		"Demo"
+		"parent"		"1689220"
+		"releasestate"		"released"
+		"clienticon"		"aaccda83ad865f092ec80e9c34ca74e224304f75"
+		"clienttga"		"9cbbec74d06a2821acab6a96e7ea17db7d9afabc"
+		"icon"		"27ca521faa5994334a89bff7aaf308021aa80285"
+		"clienticns"		"d104779a437e302e51b3db1c4fdace1e0fe3593b"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"65.27494876703705"
+				"height_pct"		"73.6111111111111"
+			}
+		}
+		"store_asset_mtime"		"1628086688"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mutasim Nadeem"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mutasim Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1628283743"
+		"community_visible_stats"		"1"
+		"gameid"		"1716430"
+	}
+	"extended"
+	{
+		"demoofappid"		"1689220"
+		"developer"		"Mutasim Nadeem"
+		"publisher"		"Mutasim Games"
+	}
+	"config"
+	{
+		"installdir"		"Unholy Alliance - Tower Defense Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Unholy Alliance - Demo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Unholy Alliance - Demo.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1716431"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6940919706604737472"
+					"size"		"274318188"
+					"download"		"220344320"
+				}
+			}
+		}
+		"1716432"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4269952279406581336"
+					"size"		"274700334"
+					"download"		"215962256"
+				}
+			}
+		}
+		"baselanguages"		"english,arabic"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7375874"
+				"timeupdated"		"1631866595"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"appidredirect"		"1689220"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Unholy_Alliance_Win02"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"Unholy Alliance"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Unholy_Alliance_Win02"
+						"replace"		"Unholy Alliance"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocal"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Unholy Alliance"
+						"replace"		"Unholy_Alliance_Win02"
+					}
+				}
+			}
+		}
+	}
+}
