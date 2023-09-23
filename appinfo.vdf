@@ -1,0 +1,252 @@
+"appinfo"
+{
+	"appid"		"1865130"
+	"common"
+	{
+		"name"		"Haha Doodle"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"8033659e063113e6cfd6a07c821bb8504a6413ad"
+		"icon"		"24a06e3522fbd82b97732c572259443a38dc86d4"
+		"clienticon"		"7f0e614be249c5440bc1db7a683382c342e112e1"
+		"logo"		"a925b3bda1946f091aa88a73cb289b509fab2231"
+		"logo_small"		"a925b3bda1946f091aa88a73cb289b509fab2231_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1657065600"
+			"tested_build_id"		"8359227"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.02325581395347"
+				"height_pct"		"34.267394918071716"
+			}
+		}
+		"store_asset_mtime"		"1641818588"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cliff"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Haha Doodle"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1643133571"
+		"community_hub_visible"		"1"
+		"gameid"		"1865130"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"5350"
+			"2"		"3843"
+			"3"		"1654"
+			"4"		"84"
+			"5"		"3871"
+			"6"		"4747"
+			"7"		"1625"
+			"8"		"10437"
+			"9"		"113"
+			"10"		"492"
+			"11"		"4726"
+			"12"		"4305"
+			"13"		"3859"
+			"14"		"15172"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Cliff"
+		"publisher"		"Haha Doodle"
+		"homepage"		"https://hahadoodle.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Haha Doodle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hahadoodle.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"hahadoodle.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,schinese,russian,portuguese"
+		"1865132"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6788180601347446881"
+					"size"		"307254820"
+					"download"		"87617872"
+				}
+			}
+		}
+		"1865131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8375830394009374463"
+					"size"		"342010402"
+					"download"		"95762704"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8359227"
+				"timeupdated"		"1647078957"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
