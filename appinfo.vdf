@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"207630"
+	"common"
+	{
+		"name"		"iBomber Defense Pacific  Demo"
+		"type"		"Demo"
+		"clienticon"		"813d89fcff390e2ce4487e0fe85cec3e11f1e174"
+		"clienttga"		"f4a987810bd31b543f3fe267d990e3d28c513e8c"
+		"icon"		"c5f5cdbd2164185a4ad08ecc0bf13a9451c591ac"
+		"clienticns"		"eeab69a088e07d851b4f9cdbf658d7a0e7f11a71"
+		"freeondemand"		"1"
+		"oslist"		"windows,macos,linux"
+		"parent"		"206690"
+		"metacritic_name"		"iBomber Defense Pacific  Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1330971347"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cobra Mobile"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cobra Mobile"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1330968900"
+		"gameid"		"207630"
+	}
+	"extended"
+	{
+		"demoofappid"		"206690"
+		"developer"		"Cobra Mobile"
+		"gamedir"		"ibomber defense pacific demo"
+		"homepage"		"http://www.cobramobile.com/steam/"
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"installscript_macos"		"iBomber Defense Pacific Demo.app/installscript_osx.vdf"
+		"installscript_osx"		"iBomber Defense Pacific Demo.app/installscript_osx.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos,linux"
+		"publisher"		"Cobra Mobile"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"ibomber defense pacific demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"iBomberDefensePacificDemo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"iBomber Defense Pacific Demo.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"iBomberDefensePacificDemo"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"207632"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"559856201467823652"
+					"size"		"92559297"
+					"download"		"78021520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"FB9B640DD878F32A57CC27ED5CD2421D"
+					"size"		"6727C8BA3BDAC793D912DB996EB09F9F"
+					"download"		"8A5A4EBC1BE4054CF103474797B071EE"
+				}
+			}
+		}
+		"207631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6344751136392471196"
+					"size"		"87487085"
+					"download"		"74834096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"529447F54F774BC9D3E7B119FA19E557"
+					"size"		"92C0BF33B71A57F891952A52E6167F9A"
+					"download"		"BA8CBC2F636FAA5DA5CCA5C8BE8BE20D"
+				}
+			}
+		}
+		"207633"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1554202365823220591"
+					"size"		"88000917"
+					"download"		"74505568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"BF11FB8AAAD4B2FF15AD747D6217DB4E"
+					"size"		"10D2546EF7F986A520EF77A7A5D2A316"
+					"download"		"D753E6611447A56CA1943D9935EB912F"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"604752"
+			}
+			"testing"
+			{
+				"buildid"		"604752"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"0"
+	}
+}
