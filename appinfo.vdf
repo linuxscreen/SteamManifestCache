@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"1648820"
+	"common"
+	{
+		"name"		"Extremely Realistic Siege Warfare Simulator Demo"
+		"type"		"Demo"
+		"parent"		"1222210"
+		"clienticon"		"2d1c541960c467da4f3dadef420403cd3323ae66"
+		"clienttga"		"c730d8ff5d65b3e7bebb2f8858d4859c63f18523"
+		"icon"		"508257fae338c993024356b329b68162479b7f5e"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"超逼真的攻城模拟器 试玩版"
+			"sc_schinese"		"超逼真的攻城模拟器"
+		}
+		"releasestatesteamchina"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.36371524497312"
+				"height_pct"		"64.05643855968016"
+			}
+		}
+		"store_asset_mtime"		"1679562259"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Screambox Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Screambox Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623776255"
+		"gameid"		"1648820"
+	}
+	"extended"
+	{
+		"demoofappid"		"1222210"
+		"developer"		"Screambox Studio"
+		"publisher"		"Screambox Studio"
+	}
+	"config"
+	{
+		"installdir"		"Extremely Realistic Siege Warfare Simulator Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SWS.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1648821"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1974543421481047600"
+					"size"		"2087561486"
+					"download"		"642280128"
+				}
+				"daily_build"
+				{
+					"gid"		"1974543421481047600"
+					"size"		"2087561486"
+					"download"		"642280128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_team"
+				{
+					"gid"		"19B48DAD73A99AE842374FC659AC88EB"
+					"size"		"90C925AF95A956321394AAA6FD0E99D3"
+					"download"		"208983DE8EB91652EDBEDA166DEFF177"
+				}
+				"player_bug_test"
+				{
+					"gid"		"25C117605C8F6212EDAB0CD9A3541900"
+					"size"		"8F309EDB3EDD56A95DBE9C24BE773D78"
+					"download"		"58BE7E6D51BD8FDCE7BA864F78E30079"
+				}
+				"steam_china_only"
+				{
+					"gid"		"2A76E3CD97026376C8468D7FF0FF4A06"
+					"size"		"05EFFB5A5A45E2827114C8587CAE8789"
+					"download"		"D26E9CA609D10D0160495EAD23A59811"
+				}
+			}
+		}
+		"1648822"
+		{
+		}
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"11057504"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682068768"
+			}
+			"daily_build"
+			{
+				"sc_schinese"		"新特性的测试分支，可能会不稳定。"
+				"buildid"		"12244850"
+				"description"		"New features in testing."
+				"timeupdated"		"1695290650"
+			}
+			"public"
+			{
+				"buildid"		"12244850"
+				"timeupdated"		"1695290642"
+			}
+			"dev_team"
+			{
+				"buildid"		"12244850"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695288236"
+			}
+			"player_bug_test"
+			{
+				"buildid"		"8874773"
+				"pwdrequired"		"1"
+				"timeupdated"		"1654421206"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"20"
+	}
+}
