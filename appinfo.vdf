@@ -1,0 +1,144 @@
+"appinfo"
+{
+	"appid"		"1663310"
+	"common"
+	{
+		"name"		"TRAIN CREW Demo"
+		"type"		"Demo"
+		"parent"		"1618290"
+		"releasestate"		"released"
+		"clienticon"		"b6e63cfca36269d6e1988494c0e449d3e811ae49"
+		"clienttga"		"64973d406fe05d013eb2c03e28367983d795ba1e"
+		"icon"		"e646ac4aee5369afb20b2fd8993d621a13e50036"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.93023255813954"
+				"height_pct"		"62.53858940869152"
+			}
+		}
+		"store_asset_mtime"		"1651379590"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mizotsuki Rail / acty"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mizotsuki Rail / acty"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1625093645"
+		"gameid"		"1663310"
+	}
+	"extended"
+	{
+		"demoofappid"		"1618290"
+		"developer"		"Mizotsuki Rail / acty"
+		"publisher"		"Mizotsuki Rail / acty"
+	}
+	"config"
+	{
+		"installdir"		"TRAIN_CREW_Prologue_Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TrainCrew.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1663311"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3783389745182722660"
+					"size"		"4639588131"
+					"download"		"2198062960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D9C67DCC20CDA2ECAB98BD7CEF34135D"
+					"size"		"69E6E91A223B71460296AF6BA196EF6B"
+					"download"		"85B3D313A7C82FB6F7BC099E1106541E"
+				}
+			}
+		}
+		"baselanguages"		"english,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8992073"
+				"timeupdated"		"1655972243"
+			}
+			"beta"
+			{
+				"buildid"		"8992073"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655971859"
+			}
+		}
+	}
+}
