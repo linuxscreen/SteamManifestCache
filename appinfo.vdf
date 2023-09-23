@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"1241360"
+	"common"
+	{
+		"name"		"Lasting Solstice Demo"
+		"type"		"Demo"
+		"parent"		"1217710"
+		"clienticon"		"3a4620318e529a24ea5bae64864078ee56f825d0"
+		"clienttga"		"5ae7b5ebec347a2f09ddab1642f983800993cbfa"
+		"icon"		"446009e881a177e60f56c83f0843f317e242825d"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"metacritic_name"		"Lasting Solstice Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"93.81419225547344"
+				"height_pct"		"68.24401537594272"
+			}
+		}
+		"store_asset_mtime"		"1580758504"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GudeNeko"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GudeNeko"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1584035094"
+		"gameid"		"1241360"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1217710"
+		"developer"		"GudeNeko"
+		"publisher"		"GudeNeko"
+	}
+	"config"
+	{
+		"installdir"		"Lasting Solstice Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LastingSolsticeD.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"LastingSolsticeD.app\\Contents\\MacOS\\LastingSolsticeD"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"LastingSolsticeD.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"1241364"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		"english"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6278129980844051406"
+					"size"		"193673561"
+					"download"		"152460416"
+				}
+			}
+		}
+		"1241361"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3851774829049392581"
+					"size"		"243530633"
+					"download"		"166744912"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5193520"
+				"timeupdated"		"1592665933"
+			}
+		}
+	}
+}
