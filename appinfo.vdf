@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1718800"
+	"common"
+	{
+		"name"		"Titanium Hound Demo"
+		"type"		"Demo"
+		"parent"		"1691620"
+		"releasestate"		"released"
+		"clienticon"		"2577efdc5987209ef5103f1d270e7c3a3de7c937"
+		"clienttga"		"c958db7ae182694c9729016f1b54f57544c4d587"
+		"icon"		"914cc0bbeb4d2c0f669943b5cd5bec86c9cae685"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1718800_eula_0"
+				"name"		"Titanium Hound Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1718800_eula_0"
+				"version"		"1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"c1652a0033b8b7e72339326766b6dc08d2016606"
+		"logo_small"		"c1652a0033b8b7e72339326766b6dc08d2016606_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1676115433"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Red Spot Sylphina"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Red Spot Sylphina"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629476740"
+		"gameid"		"1718800"
+	}
+	"extended"
+	{
+		"demoofappid"		"1691620"
+		"developer"		"Red Spot Sylphina"
+		"publisher"		"Red Spot Sylphina"
+		"homepage"		"https://www.indiedb.com/games/titanium-hound"
+	}
+	"config"
+	{
+		"installdir"		"Titanium Hound Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TitaniumHound.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1718801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6781745631222132620"
+					"size"		"573270700"
+					"download"		"176233040"
+				}
+			}
+		}
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10523274"
+				"timeupdated"		"1676029474"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"5"
+		"appidredirect"		"1691620"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TitaniumHound/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"copied_from_parent"		"1"
+		}
+	}
+}
