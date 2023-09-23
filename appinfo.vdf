@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"243340"
+	"common"
+	{
+		"name"		"Rayman Legends Demo"
+		"type"		"Demo"
+		"releasestate"		"released"
+		"logo"		"484d0bc511629c6c82ada24f47bf499217f48318"
+		"logo_small"		"484d0bc511629c6c82ada24f47bf499217f48318_thumb"
+		"icon"		"0240d02c5faaba7a8419abefc7c66e797947b9e9"
+		"clienttga"		"5f3548d3b6de094e75f959da7f6acf6f4b8975e9"
+		"clienticon"		"c30ee8c8dfbc7bd3722f0c15e3a1c0488d3d4383"
+		"oslist"		"windows"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"243340_eula_0"
+				"name"		"Rayman Legends Demo EULA"
+				"url"		"http://store.steampowered.com/eula/243340_eula_0"
+			}
+		}
+		"parent"		"242550"
+		"metacritic_name"		"Rayman® Legends Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1375339022"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"publisher"
+				"name"		"Ubisoft"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"34"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+			"category_24"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1377759600"
+		"steam_release_date"		"1377759600"
+		"gameid"		"243340"
+		"review_score"		"7"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		""
+		"gamedir"		"ValveTestApp243340"
+		"homepage"		"http://rayman.ubi.com/legends/"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Ubisoft"
+		"gamemanualurl"		"https://store.steampowered.com/manual/243340/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Rayman Legends Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Rayman Legends.exe"
+				"arguments"		"-uplay_steam_mode -upc_steam_free_package_id 13050"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"243341"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1038619600754672075"
+					"size"		"1215440803"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,spanish,russian,polish,danish,dutch,finnish,norwegian,swedish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"105043"
+			}
+		}
+	}
+}
