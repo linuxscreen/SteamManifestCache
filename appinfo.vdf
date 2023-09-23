@@ -1,0 +1,123 @@
+"appinfo"
+{
+	"appid"		"2245660"
+	"common"
+	{
+		"name"		"Master of Puppets Demo"
+		"type"		"Demo"
+		"parent"		"1620600"
+		"clienttga"		"c7aa7e731bf6dce5abbc91abba6a06fcb2230d86"
+		"clienticon"		"3098aea3d97e6e327af8ebdbc854f26d4a158544"
+		"icon"		"92d74c590423c6e030713cbb1f90d811637eced0"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1682765073"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BoaNeo AB"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BoaNeo AB"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"steam_release_date"		"1670525254"
+		"gameid"		"2245660"
+	}
+	"extended"
+	{
+		"demoofappid"		"1620600"
+		"developer"		"BoaNeo AB"
+		"publisher"		"BoaNeo AB"
+	}
+	"config"
+	{
+		"installdir"		"Master of Puppets Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MOP.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"MOP.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2245661"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8454276396050659052"
+					"size"		"539490557"
+					"download"		"151426928"
+				}
+			}
+		}
+		"2245662"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5413134466125603490"
+					"size"		"415747063"
+					"download"		"125709184"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11431681"
+				"timeupdated"		"1686305247"
+			}
+		}
+	}
+}
