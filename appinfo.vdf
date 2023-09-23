@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"2235470"
+	"common"
+	{
+		"name"		"Chrono Survival Demo"
+		"type"		"Demo"
+		"parent"		"1897740"
+		"icon"		"4255871474bbd7be333526841872c313cc0d1660"
+		"clienttga"		"ab691607c146617f7454acf4fdbe734509156798"
+		"clienticon"		"3be6ad6d8d874f74ee091673d35837750689035d"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1669646461"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Petushock Production"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Petushock Production"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1669816894"
+		"gameid"		"2235470"
+	}
+	"extended"
+	{
+		"demoofappid"		"1897740"
+		"developer"		"Petushock Production"
+		"publisher"		"Petushock Production"
+	}
+	"config"
+	{
+		"installdir"		"Chrono Survival Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Chrono Survival.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2235471"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9095330793224784197"
+					"size"		"592649278"
+					"download"		"98993424"
+				}
+			}
+		}
+		"1897741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7299161371608291865"
+					"size"		"597659266"
+					"download"		"99463920"
+				}
+				"beta"
+				{
+					"gid"		"7299161371608291865"
+					"size"		"597659266"
+					"download"		"99463920"
+				}
+				"previous_patch"
+				{
+					"gid"		"3047803424590245561"
+					"size"		"592594630"
+					"download"		"98384576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"008D71DA919A42C277408F49992C454E"
+					"size"		"00E82DF4B08575C4AC0A083B0ED45F36"
+					"download"		"052F254F667D6A361FA88EC2D9E1BBE4"
+				}
+				"lucker24"
+				{
+					"gid"		"4782E3A1EA6506106FF3D871E4AA9B6F"
+					"size"		"D10D0BB0358E374DED867BEAB07BC5B4"
+					"download"		"4A542734F89010CA4C8352D5397A9E5D"
+				}
+			}
+			"depotfromapp"		"1897740"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10229739"
+				"timeupdated"		"1672342171"
+			}
+			"developer"
+			{
+				"buildid"		"10428452"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674995072"
+			}
+			"lucker24"
+			{
+				"buildid"		"10326134"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673787362"
+			}
+		}
+	}
+}
