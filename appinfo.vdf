@@ -1,0 +1,156 @@
+"appinfo"
+{
+	"appid"		"1407270"
+	"common"
+	{
+		"name"		"Prison Simulator Demo"
+		"type"		"Demo"
+		"parent"		"842180"
+		"clienttga"		"2563e454cbc6ce16bc400405dba08046a8051cfd"
+		"clienticon"		"74b2a4571e832a52a9969d33f1dde11ca0d2be68"
+		"icon"		"00be0b5f3159ff70ee2d41df0881444399785ab8"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.51893612730774"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1604056437"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Baked Games S.A."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Baked Games S.A."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1600061165"
+		"community_visible_stats"		"1"
+		"gameid"		"1407270"
+	}
+	"extended"
+	{
+		"demoofappid"		"842180"
+		"developer"		"Baked Games S.A."
+		"publisher"		"PlayWay S.A."
+		"homepage"		"http://www.bakedgames.pl/"
+	}
+	"config"
+	{
+		"installdir"		"Prison Simulator Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"playway-launcher-win32-ia32\\playway-launcher.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1407271"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1677964569034205821"
+					"size"		"3938252857"
+					"download"		"3205132848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2daysinternaltests"
+				{
+					"gid"		"FF1D2BC0238F9930B476391D6B1B67AA"
+					"size"		"3FF341CF1DEABF441E2FA31B2F07E73B"
+					"download"		"AF3D2F41DB52E8A55ACDE9DB15AE3BD2"
+				}
+				"playway"
+				{
+					"gid"		"937F6D14B73A4805E149559B149B1BB1"
+					"size"		"2B85EF64AB8BCD7FAC185C75CBCC70DD"
+					"download"		"4ADE556E5ED163F051089B0AED99DF40"
+				}
+			}
+		}
+		"baselanguages"		"english,polish"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8746391"
+				"timeupdated"		"1652692845"
+			}
+			"2daysinternaltests"
+			{
+				"buildid"		"8746391"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652692854"
+			}
+			"playway"
+			{
+				"buildid"		"6763932"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622109891"
+			}
+		}
+	}
+}
