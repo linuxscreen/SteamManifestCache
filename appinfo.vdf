@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"1659400"
+	"common"
+	{
+		"name"		"Hideout: Face your fears"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"f9170592e2df0093c7d2480c5d3c5cfd8ef5f376"
+		"clienticon"		"6944989a305e1a5e8e822a8b771a0c491d527694"
+		"clienttga"		"e703a6ba60523c7a66581fd71d0b48955deb1267"
+		"logo"		"9dc4dfccee61a6087e0cabe2c6fde571f1e3ce27"
+		"logo_small"		"9dc4dfccee61a6087e0cabe2c6fde571f1e3ce27_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1651708800"
+			"tested_build_id"		"7078435"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"simultaneous_gamepad_mouse"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"56.86046511627905"
+				"height_pct"		"77.96247922108762"
+			}
+		}
+		"store_asset_mtime"		"1625527574"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Better in Red"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"ESAT"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"ESAT"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626264090"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1659400"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1687"
+			"1"		"3835"
+			"2"		"3978"
+			"3"		"3834"
+			"4"		"1664"
+			"5"		"4342"
+			"6"		"1697"
+			"7"		"4175"
+			"8"		"5752"
+			"9"		"4182"
+			"10"		"21"
+			"11"		"1742"
+			"12"		"4191"
+			"13"		"4295"
+			"14"		"7208"
+			"15"		"7926"
+			"16"		"5030"
+			"17"		"4064"
+			"18"		"1738"
+			"19"		"493"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Better in Red"
+		"publisher"		"ESAT"
+		"homepage"		"https://www.esat.es/en/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hideout Face your fears"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StealthProject.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1659401"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3700200068684818883"
+					"size"		"3257638076"
+					"download"		"2859343872"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7078435"
+				"timeupdated"		"1627061394"
+			}
+		}
+	}
+}
