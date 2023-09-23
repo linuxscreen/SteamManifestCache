@@ -1,0 +1,104 @@
+"appinfo"
+{
+	"appid"		"1706490"
+	"common"
+	{
+		"name"		"Changes Demo"
+		"type"		"Demo"
+		"parent"		"1654920"
+		"clienticon"		"9ab356853e0b5b7c3bf572fcd9f88847531cb711"
+		"clienttga"		"afe5a140ef5e23b16d0e9d9e913dbd672c52ba89"
+		"icon"		"903a8bcd21b6002fdb5f6eb5526c94b1aad0c389"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1633220808"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Collin Eye"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Et Al Games"
+			}
+		}
+		"steam_release_date"		"1630955707"
+		"gameid"		"1706490"
+	}
+	"extended"
+	{
+		"demoofappid"		"1654920"
+		"developer"		"Collin Eye"
+		"publisher"		"Et Al Games"
+	}
+	"config"
+	{
+		"installdir"		"Changes Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"changes_demo/changes_win.exe"
+				"workingdir"		"changes_demo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1706491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6509505927251620272"
+					"size"		"655696622"
+					"download"		"190489600"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7819860"
+				"timeupdated"		"1638496439"
+			}
+		}
+	}
+}
