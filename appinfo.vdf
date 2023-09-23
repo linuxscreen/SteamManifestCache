@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"458660"
+	"common"
+	{
+		"name"		"The Slimeking's Tower"
+		"type"		"Game"
+		"oslist"		"windows"
+		"logo"		"be45c9ecfcef507053315da983429607fc5f80af"
+		"logo_small"		"be45c9ecfcef507053315da983429607fc5f80af_thumb"
+		"icon"		"5c4a861555d5c88e973fd802a3068c5daf0c63fb"
+		"clienttga"		"f4c98a08546d7074fde20180ceddcf225700f129"
+		"clienticon"		"fdd20d11541c1409f882959ef2384409ab386c84"
+		"clienticns"		"fdd20d11541c1409f882959ef2384409ab386c84"
+		"releasestate"		"released"
+		"metacritic_name"		"The Slimeking's Tower"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1494786624"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RevampedPRO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"RevampedPRO"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1500274800"
+		"steam_release_date"		"1629574069"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"458660"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"21"
+			"3"		"122"
+			"4"		"42804"
+			"5"		"1716"
+			"6"		"3959"
+			"7"		"113"
+			"8"		"3964"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"RevampedPRO"
+		"publisher"		"RevampedPRO"
+		"isfreeapp"		"1"
+		"listofdlc"		"678710"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"The Slimekings Tower"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"tst.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,spanish"
+		"hasdepotsindlc"		"1"
+		"458661"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7607216962682682802"
+					"size"		"42271758"
+					"download"		"29049984"
+				}
+			}
+		}
+		"678710"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8078395402315178570"
+					"size"		"245257232"
+					"download"		"233989824"
+				}
+			}
+			"dlcappid"		"678710"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2803008"
+				"timeupdated"		"1527169585"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"The_Slimeking_s_Tower_1416"
+				"pattern"		"*.ini"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"The_Slimeking_Tower_1500"
+				"pattern"		"*.ini"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"The_Slimeking_s_Tower_1500"
+				"pattern"		"*.ini"
+			}
+		}
+	}
+}
