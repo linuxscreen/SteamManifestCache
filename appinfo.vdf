@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1701290"
+	"common"
+	{
+		"name"		"RagtagRacingDemo"
+		"type"		"Demo"
+		"parent"		"1694620"
+		"clienticon"		"f840fb788fb5e18e62584446091b37fcd9e98e8d"
+		"clienttga"		"b9dd3f0103d18848d743f2d4b84631139da1e8f7"
+		"icon"		"92ac728f019f58a7794fca09b25435a80e4acdac"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1627564998"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Vince Vector"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Credit 1 Studios"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Haphazard Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1627489064"
+		"gameid"		"1701290"
+	}
+	"extended"
+	{
+		"demoofappid"		"1694620"
+		"developer"		"Vince Vector"
+		"publisher"		"Credit 1 Studios"
+	}
+	"config"
+	{
+		"installdir"		"RagtagRacingDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Racing.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Racing.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Racing.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english"
+		"1701291"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5544097964642397625"
+					"size"		"351758663"
+					"download"		"67129504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"76D303CD1B9B638BDDDCB5A4B17E0E78"
+					"size"		"0FCBD1A2FF322AF5F4BF3492D4B3BCB7"
+					"download"		"AED9D1AB36771A800C5E2B04418D3B44"
+				}
+			}
+		}
+		"1701292"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"425662541264713244"
+					"size"		"357050936"
+					"download"		"68892848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BD8ADB1817176422310AD0BADF7DFAAF"
+					"size"		"A41027A096069C8D7FD479140C59932F"
+					"download"		"149BCD9C16FE067988F5BD4C18380565"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7236130"
+				"timeupdated"		"1629746984"
+			}
+			"beta"
+			{
+				"buildid"		"7236130"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629742582"
+			}
+		}
+	}
+}
