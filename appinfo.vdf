@@ -1,0 +1,116 @@
+"appinfo"
+{
+	"appid"		"2242350"
+	"common"
+	{
+		"name"		"Diffraction Demo"
+		"type"		"Demo"
+		"parent"		"2183100"
+		"icon"		"5ea91a2f592222b1b6832cdebfa067e8ecee988e"
+		"clienttga"		"13106bf36964a2a49eea8fc42a1c200d3a380a5f"
+		"clienticon"		"55fdf1a684936003b8d7c3f6e48ce049bfce5145"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.921077919350154"
+				"height_pct"		"51.1352885525071"
+			}
+		}
+		"store_asset_mtime"		"1670258274"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rain Droplet Atelier"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rain Droplet Atelier"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1670518834"
+		"gameid"		"2242350"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"2183100"
+		"developer"		"Rain Droplet Atelier"
+		"publisher"		"Rain Droplet Atelier"
+	}
+	"config"
+	{
+		"installdir"		"Diffraction demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Diffraction.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2242351"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8868515414356535591"
+					"size"		"344366437"
+					"download"		"241419520"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10637595"
+				"timeupdated"		"1677349755"
+			}
+		}
+	}
+}
