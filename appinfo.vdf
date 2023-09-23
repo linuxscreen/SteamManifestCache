@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"834880"
+	"common"
+	{
+		"name"		"Acro FS"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"xinput"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"logo"		"05cb8a5ce0e7ff7f154d7026dec32276b7c774f5"
+		"logo_small"		"05cb8a5ce0e7ff7f154d7026dec32276b7c774f5_thumb"
+		"icon"		"c289c63019d12d2f62db75ccae14f17e5308d9e7"
+		"clienticon"		"a75719a467d60b231c0faa2f3717cf55ed634449"
+		"clienttga"		"91239ba2a92d065ca13f241f99e93e93e2dfe130"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"834880_eula_0"
+				"name"		"Acro FS EULA"
+				"url"		"https://store.steampowered.com//eula/834880_eula_0"
+			}
+		}
+		"metacritic_name"		"Acro FS Demo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1569620449"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Knife Edge Software"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Knife Edge Software"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1527090720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"834880"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"493"
+			"2"		"15045"
+			"3"		"21978"
+		}
+		"review_score"		"5"
+		"review_percentage"		"56"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Knife Edge Software"
+		"publisher"		"Knife Edge Software"
+		"homepage"		"http://acrofs.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"AcroFS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\AcroFS_x64.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"bin\\AcroFS_x64.exe"
+				"arguments"		"-steamvr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"bin\\AcroFS_x64.exe"
+				"arguments"		"-oculusvr"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"834881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1093088630528011380"
+					"size"		"11020805763"
+					"download"		"4976144528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"privatebeta"
+				{
+					"gid"		"F5282757AA72FEFEF93E7E1F09A248F3"
+					"size"		"D0104921F561A523D66008D526D11A89"
+					"download"		"6DBC19D9244A9CEBB4E7EC236459A712"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4251456"
+				"timeupdated"		"1570666753"
+			}
+			"privatebeta"
+			{
+				"buildid"		"4251456"
+				"pwdrequired"		"1"
+				"timeupdated"		"1570047655"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"52428800"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Knife Edge Software\\Acro FS\\Race Results"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
