@@ -1,0 +1,125 @@
+"appinfo"
+{
+	"appid"		"2421980"
+	"common"
+	{
+		"name"		"ALMOST Demo"
+		"type"		"Demo"
+		"parent"		"2280150"
+		"icon"		"9e7aeb4fbe360cb059ce877a39eac980278e2b3f"
+		"clienticon"		"44f05fb69088997a6f1d67875b22ba21c2eb51fe"
+		"clienttga"		"c051e82d8f6f18c96c8a12348f75919d28b3949a"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1683310004"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"INFRANGIBLE STUDIO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"INFRANGIBLE STUDIO"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1687117891"
+		"gameid"		"2421980"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"INFRANGIBLE STUDIO"
+		"publisher"		"INFRANGIBLE STUDIO"
+		"homepage"		"https://infrangible.studio"
+	}
+	"config"
+	{
+		"installdir"		"ALMOST Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Almost.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2421981"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3831779970577236173"
+					"size"		"1827313461"
+					"download"		"1655304208"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11551046"
+				"timeupdated"		"1687611591"
+			}
+		}
+	}
+}
