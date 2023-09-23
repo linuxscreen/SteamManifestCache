@@ -1,0 +1,360 @@
+"appinfo"
+{
+	"appid"		"777130"
+	"common"
+	{
+		"name"		"Blush Blush"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"7fc23c6a5993080a0c44f86e33788f5b67224bd1"
+		"logo_small"		"7fc23c6a5993080a0c44f86e33788f5b67224bd1_thumb"
+		"icon"		"8bbb1fea72f238f9f7065b3c63038489cb610262"
+		"clienticon"		"d5f6bea80ccfba62984235fe482e52eafe490aea"
+		"clienttga"		"c6f1c5ed4002efd7b5732b465f59c89534bf04fc"
+		"clienticns"		"d5f6bea80ccfba62984235fe482e52eafe490aea"
+		"linuxclienticon"		"d5f6bea80ccfba62984235fe482e52eafe490aea"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664323200"
+			"tested_build_id"		"9116084"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Blush Blush"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.17522925165241"
+				"height_pct"		"69.84650186753119"
+			}
+		}
+		"store_asset_mtime"		"1690671156"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sad Panda Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sad Panda Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1554361200"
+		"steam_release_date"		"1587577979"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"777130"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"44868"
+			"2"		"113"
+			"3"		"9551"
+			"4"		"6650"
+			"5"		"4085"
+			"6"		"379975"
+			"7"		"4947"
+			"8"		"9130"
+			"9"		"31579"
+			"10"		"5611"
+			"11"		"597"
+			"12"		"4726"
+			"13"		"599"
+			"14"		"4182"
+			"15"		"3799"
+			"16"		"4136"
+			"17"		"492"
+			"18"		"493"
+			"19"		"8945"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Sad Panda Studios"
+		"publisher"		"Sad Panda Studios"
+		"homepage"		"https://sadpandastudios.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1223580"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BlushBlush"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BlushBlush.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"BlushBlush.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"BlushBlush.x86"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"BlushBlush.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"777131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5110058600860334616"
+					"size"		"494140961"
+					"download"		"417840288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"EFD967722C8A26C5C94AABF3E791AC25"
+					"size"		"5306F9C8E0E19E5CD0FEC10EC576BF38"
+					"download"		"C49E666BF43BA8470CFC09C1805CB877"
+				}
+				"alpha_nextgen"
+				{
+					"gid"		"F4907BC332CE9793B4007747081125A0"
+					"size"		"00718E9B209BDA416CE1009138BC3A6D"
+					"download"		"53C9161166D7A2F27B72ED3D62399834"
+				}
+				"beta"
+				{
+					"gid"		"147D76CE72241847BFB470B1E0A8FD32"
+					"size"		"FB1EB8ACDA1D54C8E084A1BEE6DDC651"
+					"download"		"1BDD13273670C828AEF5F2B7C74AF0CD"
+				}
+			}
+		}
+		"777132"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7453087207611182305"
+					"size"		"525150808"
+					"download"		"427221456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"DED7668B8DE9CCA13CFD947073AEBDCF"
+					"size"		"6FBF8C363074A778F41F312A2E874F37"
+					"download"		"271D9B321C6C9890D75F4D1E57178CBF"
+				}
+				"alpha_nextgen"
+				{
+					"gid"		"85836062BF92D55BDE21391342E3D8D4"
+					"size"		"B1959056F6E8057D080E644F5C1E7D07"
+					"download"		"5001EEA874605E8B1ED0DFEB1EC9000B"
+				}
+				"beta"
+				{
+					"gid"		"A0A8D40EC6733E01606F1E4EA6ACF4D4"
+					"size"		"8DBE0A3908748F2D95B894C38B785E75"
+					"download"		"B1AFF7B351B4EDBEA2742E3D164EA3C7"
+				}
+			}
+		}
+		"777133"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5141918209327496236"
+					"size"		"543622073"
+					"download"		"420712256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"C40976FD5DE9C0EFBE035370F225C57B"
+					"size"		"533179A1214B03F2C9563EA8BA8B7423"
+					"download"		"F87FC96EE293BE511B7D5A85E88CABD7"
+				}
+				"alpha_nextgen"
+				{
+					"gid"		"91E74B830B6C3AD7CFB618730F7FAFFA"
+					"size"		"6376FC4427A229CEBE831C09E2F3E76C"
+					"download"		"7C4CE8E4E9FECBB6193EC32FBE835DED"
+				}
+				"beta"
+				{
+					"gid"		"081EEE815EAB51C97A09E500486936E2"
+					"size"		"EEFA92CA9E0E6324266C3827BD74BEE2"
+					"download"		"02A36F110298A290CDAD23680A4C3529"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12164997"
+				"timeupdated"		"1694638595"
+			}
+			"alpha"
+			{
+				"buildid"		"12249710"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695323252"
+			}
+			"alpha_nextgen"
+			{
+				"buildid"		"12249710"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695323264"
+			}
+			"beta"
+			{
+				"buildid"		"12164997"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694550558"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
