@@ -1,0 +1,237 @@
+"appinfo"
+{
+	"appid"		"1275590"
+	"common"
+	{
+		"name"		"Dieselpunk Wars Prologue"
+		"type"		"Game"
+		"logo"		"a066ce72577219fcf413a6dcfaae913eb3de8638"
+		"logo_small"		"a066ce72577219fcf413a6dcfaae913eb3de8638_thumb"
+		"icon"		"4dfad2815b6334661fad784db9020f2e37423844"
+		"clienticon"		"1c6c94d3e860e9411ccfc085f56c7003f37dd810"
+		"clienttga"		"c2f01e2dc7a66032c3ac5564f7e7fe689e08be3d"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.46674445740957"
+				"height_pct"		"69.37689879736168"
+			}
+		}
+		"store_asset_mtime"		"1587395261"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Image Power S.A."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Roasted Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Image Power S.A."
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1587398432"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1275590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"599"
+			"2"		"19"
+			"3"		"492"
+			"4"		"3810"
+			"5"		"1643"
+			"6"		"5363"
+			"7"		"3968"
+			"8"		"4182"
+			"9"		"1702"
+			"10"		"3993"
+			"11"		"13276"
+			"12"		"15045"
+			"13"		"4175"
+			"14"		"6910"
+			"15"		"4102"
+			"16"		"1644"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Image Power S.A."
+		"publisher"		"Image Power S.A."
+		"homepage"		"http://imagepower.pl/en/home/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dieselpunk Wars Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dieselpunk Wars Prologue.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1275591"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4059698350185470819"
+					"size"		"2106329100"
+					"download"		"1041470128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"942264D2AFDB73BBEE866CCA45702DAD"
+					"size"		"7BA72311A3F5F1BCC75A7D80DB9FCC3E"
+					"download"		"142AEA206D33C008E615071604257794"
+				}
+				"test"
+				{
+					"gid"		"A99AC074753C4E43A2E97A25BB12D87A"
+					"size"		"3DD1F02FA470A5F0D9A615369AE2E1DC"
+					"download"		"F5428A522DB7A1E9FCED562574CA3C31"
+				}
+			}
+		}
+		"workshopdepot"		"1275590"
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6034015"
+				"timeupdated"		"1609683142"
+			}
+			"beta"
+			{
+				"buildid"		"5888797"
+				"pwdrequired"		"1"
+				"timeupdated"		"1606442451"
+			}
+			"test"
+			{
+				"buildid"		"6034015"
+				"pwdrequired"		"1"
+				"timeupdated"		"1609682312"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"300000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Profile"
+				"pattern"		"*.cfg"
+			}
+		}
+	}
+}
