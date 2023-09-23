@@ -1,0 +1,146 @@
+"appinfo"
+{
+	"appid"		"1678490"
+	"common"
+	{
+		"name"		"Deep Rune Demo"
+		"type"		"Demo"
+		"parent"		"1631780"
+		"releasestate"		"released"
+		"clienticon"		"1566de9daba3ab8c9205fe9d4d1fbd972682d39c"
+		"clienttga"		"6058a22d85575c51cd6aeab1af7e16f008b9c837"
+		"icon"		"bea7105f2b099afa95bcae7adf819fc4df4715b9"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"7e7a56f738d1a61fcf13fd8c6a9790e3c0266861"
+		"logo_small"		"7e7a56f738d1a61fcf13fd8c6a9790e3c0266861_thumb"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1635755832"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"JC Bailey"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JC Bailey"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626950112"
+		"gameid"		"1678490"
+	}
+	"extended"
+	{
+		"demoofappid"		"1631780"
+		"developer"		"JC Bailey"
+		"publisher"		"JC Bailey"
+	}
+	"config"
+	{
+		"installdir"		"Deep Rune Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DeepRune.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1678491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1721172074146285383"
+					"size"		"88220369"
+					"download"		"66611936"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7717179"
+				"timeupdated"		"1637006435"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"DeepRune"
+				"pattern"		"*.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
