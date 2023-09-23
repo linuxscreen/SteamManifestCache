@@ -1,0 +1,164 @@
+"appinfo"
+{
+	"appid"		"1932070"
+	"common"
+	{
+		"name"		"REAVER Demo"
+		"type"		"Demo"
+		"parent"		"1890950"
+		"linuxclienticon"		"5ededba962bf113975c5389b634d317dfa0ded09"
+		"clienttga"		"579481fedde974cd133e0be39e88e55a58bca8b2"
+		"clienticon"		"2604b7dc9451555d1b132f2ca0af26f5c78e649f"
+		"icon"		"d42138a3d4a7a5676ba2cce6c0dc8de82493eea9"
+		"clienticns"		"f93503586c403c7223ddcf4d09d5fee846b59d2a"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1646758125"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Marat Nugmanov"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Amir Mustafin"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Dmitry Kardashevsky"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Marat Nugmanov"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"Amir Mustafin"
+			}
+			"5"
+			{
+				"type"		"publisher"
+				"name"		"Dmitry Kardashevsky"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1647326844"
+		"gameid"		"1932070"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1890950"
+		"developer"		"Marat Nugmanov"
+		"publisher"		"Marat Nugmanov"
+	}
+	"config"
+	{
+		"installdir"		"REAVER DEMO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Reaver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Reaver.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1932077"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7261801483690155543"
+					"size"		"3147107421"
+					"download"		"1028030240"
+				}
+			}
+		}
+		"1932078"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5737876346617650557"
+					"size"		"3018600281"
+					"download"		"1005557840"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11141945"
+				"timeupdated"		"1683074180"
+			}
+		}
+	}
+}
