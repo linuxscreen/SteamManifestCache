@@ -1,0 +1,186 @@
+"appinfo"
+{
+	"appid"		"2021590"
+	"common"
+	{
+		"name"		"Football Manager 2023 Demo"
+		"type"		"Demo"
+		"parent"		"1904540"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"clienticon"		"d3369ce2ebb7dd70fb8173bb859f4fefc783179f"
+		"clienttga"		"1c02ccbf60ac412d8890d472fd4e11e1d532041f"
+		"clienticns"		"f5f22e7509ae2a475dd583d5ec7c21bfe1348045"
+		"icon"		"dfcd7bcbf3d930b0bcb0476931f5ec592672b838"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1667472299"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sports Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+		}
+		"steam_release_date"		"1667865600"
+		"gameid"		"2021590"
+	}
+	"extended"
+	{
+		"demoofappid"		"1904540"
+		"developer"		"Sports Interactive"
+		"publisher"		"SEGA"
+	}
+	"config"
+	{
+		"installdir"		"Football Manager 2023 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"fm.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"fm.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,portuguese,polish,danish,dutch,norwegian,swedish,turkish,greek"
+		"2021591"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7152138351926784748"
+					"size"		"6990305834"
+					"download"		"5266761664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"nightly"
+				{
+					"gid"		"E25DCEC11343A5B9158AC19B4D74C400"
+					"size"		"03170C022474DA25DC49C55D6B79A0D4"
+					"download"		"F243B1AB6D13F181CDDF329F2B0BEA58"
+				}
+				"si-bvt"
+				{
+					"gid"		"40FA63350A82F3EA62BBC61381A20EFF"
+					"size"		"351BF1CF59657035C9842DDCED53145B"
+					"download"		"C7777083858C907001386100A1C312AB"
+				}
+			}
+		}
+		"2021592"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"644137985818020761"
+					"size"		"386954896"
+					"download"		"202566976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"nightly"
+				{
+					"gid"		"69DE91314B57419D4A0B0B6042F0A485"
+					"size"		"2BC9DA58A3A1D019C5320F5714BD9326"
+					"download"		"AAF05416303BF9A2690C2A5536906980"
+				}
+				"si-bvt"
+				{
+					"gid"		"6A305F58C24FF55F24E9EF60C602D90E"
+					"size"		"E30EDD84B641CF2E067E7FF15EEABC95"
+					"download"		"F788A9CFA4E23648940F13B452174EBC"
+				}
+			}
+		}
+		"2021593"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8204998345950873817"
+					"size"		"254117013"
+					"download"		"77991088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"nightly"
+				{
+					"gid"		"349B1C6C51F24CEF942AD0D6D12DB07E"
+					"size"		"0F5C189F58FBC6A5D223FEB4328DFD1C"
+					"download"		"D4521B5F8BFBFC3B36A1EF08D8BD9589"
+				}
+				"si-bvt"
+				{
+					"gid"		"444C244DDA46F8F6BE327D25554183DD"
+					"size"		"725B8CAFFD2AA20D1F6CD70C87113080"
+					"download"		"F5ED2CA5355C6F4690C61A401B923A6C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11099470"
+				"timeupdated"		"1683644536"
+			}
+			"nightly"
+			{
+				"buildid"		"9803194"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666783870"
+			}
+			"si-bvt"
+			{
+				"buildid"		"11099470"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682566713"
+			}
+		}
+	}
+}
