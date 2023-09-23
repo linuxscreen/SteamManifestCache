@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"1729830"
+	"common"
+	{
+		"name"		"Tactical Monsters - Strategy Edition"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticns"		"1fb171151a7b2e004cb44e7a849dd331f2075d58"
+		"clienticon"		"418bb157cc3998ee85cbcc05a78cf2cc16327a4b"
+		"clienttga"		"1950f057421ee02273ed7473a1d077af52de52dd"
+		"icon"		"ae0d6b2e325afca6d6c0057e71be233abaa3ac21"
+		"logo"		"bf05d7b4e49780d5aa23884c3a4ddc4b45ab61b5"
+		"logo_small"		"bf05d7b4e49780d5aa23884c3a4ddc4b45ab61b5_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"10.864785094210688"
+				"height_pct"		"55.21157481875936"
+			}
+		}
+		"store_asset_mtime"		"1629792362"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Camex Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Camex Games"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630640869"
+		"community_hub_visible"		"1"
+		"gameid"		"1729830"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1741"
+			"2"		"1718"
+			"3"		"5055"
+			"4"		"14139"
+			"5"		"4975"
+			"6"		"493"
+			"7"		"1684"
+			"8"		"113"
+			"9"		"492"
+			"10"		"597"
+			"11"		"1671"
+			"12"		"3859"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Camex Games"
+		"publisher"		"Camex Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tactical Monsters - Strategy Edition"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tactical Monsters.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Tactical Monsters.app/Contents/MacOS/Tactical Monsters - Strategy Edition Demo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"1729831"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8198233651500502202"
+					"size"		"278161732"
+					"download"		"179840304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"E416319C6E2B8EAEA0DC0E484B587216"
+					"size"		"F41E0281AAB392301183F6BC92523DD4"
+					"download"		"4C6D1292B71E653F465882D5BE1830C6"
+				}
+			}
+		}
+		"1729832"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7046731277204637011"
+					"size"		"280648177"
+					"download"		"181448176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"0FDB6F3040A0865FEF990B4861F42B1E"
+					"size"		"75C093CD45AD66D5C84C6F96F594429C"
+					"download"		"C1FA15EF7689B7D6538E8A121C058656"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7221550"
+				"timeupdated"		"1629810121"
+			}
+			"test"
+			{
+				"buildid"		"7221550"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629450617"
+			}
+		}
+	}
+}
