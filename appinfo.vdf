@@ -1,0 +1,144 @@
+"appinfo"
+{
+	"appid"		"1677850"
+	"common"
+	{
+		"name"		"Letters from a Rainy Day -Oceans and Lace- Trial Version"
+		"type"		"Demo"
+		"parent"		"1637370"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"ツユチル・レター～海と栞に雨音を～ 体験版"
+			"schinese"		"梅时露霁书~雨潺海汐间~ 体验版"
+			"tchinese"		"梅時露霽書～雨潺海汐間～ 體驗版"
+		}
+		"clienticon"		"3fec011b9c92a660d95a2dc50c7d098279fc3872"
+		"clienttga"		"e91c581c0f526cc69ed7f37f2a4e6ab2baa29ca3"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"282759b60539a703d4a46c0041ce4140501f1e94"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1624849893"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lily Spinel"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HUBLOTS"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"mirai works"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625014950"
+		"gameid"		"1677850"
+	}
+	"extended"
+	{
+		"demoofappid"		"1637370"
+		"developer"		"Lily Spinel"
+		"publisher"		"HUBLOTS"
+		"homepage"		"http://lily-spinel.com/tsuyuchiru1/"
+	}
+	"config"
+	{
+		"installdir"		"tsuyuchiru1_trial"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"tsuyuchiru1_trial.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"1677851"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7803765817400097815"
+					"size"		"999867381"
+					"download"		"857503232"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6933019"
+				"timeupdated"		"1624622588"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"200"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"savedata"
+				"pattern"		"*.*"
+			}
+		}
+	}
+}
