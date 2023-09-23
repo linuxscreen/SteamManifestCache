@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"1054600"
+	"common"
+	{
+		"name"		"Resistance Element"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"bd4a6c50e4cd7d49b88daab54224c539674129aa"
+		"icon"		"92835bd2b2b527e2e9572d4cf24fb8b60712b84d"
+		"logo"		"0f3dbc635a03b372080a44a939a579de9844b81d"
+		"logo_small"		"0f3dbc635a03b372080a44a939a579de9844b81d_thumb"
+		"clienticon"		"0f7b9227dd698798d5e9c43ae424bdededacdffc"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Resistance Element"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.395348837209305"
+				"height_pct"		"66.33816195677986"
+			}
+		}
+		"store_asset_mtime"		"1613225674"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Eric Schafenberg"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Eric Schafenberg"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1558976606"
+		"community_hub_visible"		"1"
+		"gameid"		"1054600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"113"
+			"2"		"21"
+			"3"		"4667"
+			"4"		"5348"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"requiredappid"		"420"
+		"isfreeapp"		"1"
+		"developer"		"Eric Schafenberg"
+		"publisher"		"Eric Schafenberg"
+	}
+	"config"
+	{
+		"installdir"		"ResistanceElement"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game \"resistanceelement\""
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1054601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1660500998918002953"
+					"size"		"6726712231"
+					"download"		"3538981776"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6941993"
+				"timeupdated"		"1624841187"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"300000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"resistanceelement/save"
+				"pattern"		"*"
+			}
+		}
+	}
+}
