@@ -1,0 +1,226 @@
+"appinfo"
+{
+	"appid"		"1690730"
+	"common"
+	{
+		"name"		"Incremental Cubes"
+		"type"		"Game"
+		"logo"		"c0eb14b9e21fea1d5bc0c79a7fe27766b178d270"
+		"logo_small"		"c0eb14b9e21fea1d5bc0c79a7fe27766b178d270_thumb"
+		"icon"		"4fe3b510f51d8e82e8b7d6206f8656fc15462d8a"
+		"clienticon"		"9d1ca3b43ebadc1f9bf93ceb4bc3d507d5d48a18"
+		"clienttga"		"72052b0a624ca58164eaff36938a41585546cd5c"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1662508800"
+			"tested_build_id"		"8931503"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"19.703977370693224"
+				"height_pct"		"29.564806054872278"
+			}
+		}
+		"store_asset_mtime"		"1630634942"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TENPA-Studio-"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Idle System, Inc."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"3"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1635967915"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1690730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"615955"
+			"1"		"599"
+			"2"		"379975"
+			"3"		"113"
+			"4"		"1084988"
+			"5"		"16689"
+			"6"		"5652"
+			"7"		"3871"
+			"8"		"4004"
+			"9"		"5794"
+			"10"		"122"
+			"11"		"4182"
+			"12"		"7926"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"TENPA-Studio-"
+		"publisher"		"Idle System, Inc."
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Incremental Cubes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"IncrementalCubes.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1690731"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5389329852888102553"
+					"size"		"320877144"
+					"download"		"221814064"
+				}
+				"backnumber"
+				{
+					"gid"		"1773722111347762954"
+					"size"		"304147222"
+					"download"		"218028192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"97A33721D156975C6CA4A94B0172FCA9"
+					"size"		"BF2E2CD643EB25B9401F32EDB30083F0"
+					"download"		"EC7E4E13326244C06A864F476C41B8B3"
+				}
+				"innertest"
+				{
+					"gid"		"82D0636EAA868F4B94B8EE15682F732D"
+					"size"		"60F84855F0D440C691427F5746B76E5D"
+					"download"		"F4D4B31DB2AE0448C20D66711B57AAE6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12208871"
+				"timeupdated"		"1694930852"
+			}
+			"backnumber"
+			{
+				"buildid"		"10944583"
+				"description"		"publishing an old version."
+				"timeupdated"		"1693891096"
+			}
+			"beta"
+			{
+				"buildid"		"8607208"
+				"pwdrequired"		"1"
+				"timeupdated"		"1650648394"
+			}
+			"innertest"
+			{
+				"buildid"		"12184054"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694931091"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"DefaultCompany/IncrementalCubes"
+				"pattern"		"*.txt"
+			}
+		}
+	}
+}
