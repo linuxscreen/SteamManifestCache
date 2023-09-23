@@ -1,0 +1,127 @@
+"appinfo"
+{
+	"appid"		"2543060"
+	"common"
+	{
+		"name"		"Tome of Fates Demo"
+		"type"		"Demo"
+		"parent"		"2310150"
+		"icon"		"03e14f1ca909379b5de4cefe72d6e00c9bc0c726"
+		"clienticon"		"6d8fa33e3605d6644a0df52c4f6c81bb3a5657e1"
+		"clienttga"		"9bf9a1f4a483d8bdea6b6c32dacc372bcb38a542"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"linuxclienticon"		"fadb46e03e7ca1ae91228c5fe7d131bcfd1ca699"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1694156628"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Grey Mount Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Grey Mount Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1691190821"
+		"gameid"		"2543060"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Grey Mount Studio"
+		"publisher"		"Grey Mount Studio"
+	}
+	"config"
+	{
+		"installdir"		"Tome of Fates Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Client.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Client"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2543061"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4029789781312808800"
+					"size"		"2514018447"
+					"download"		"350775696"
+				}
+			}
+		}
+		"2543062"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"34442717174533755"
+					"size"		"3074602807"
+					"download"		"356511360"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12262423"
+				"timeupdated"		"1695440250"
+			}
+		}
+	}
+}
