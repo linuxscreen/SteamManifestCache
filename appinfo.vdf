@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"1221010"
+	"common"
+	{
+		"name"		"Senren＊Banka Trial version"
+		"type"		"Demo"
+		"parent"		"1144400"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"f800bd798024622e760728cce1fb8760daf94c76"
+		"logo_small"		"f800bd798024622e760728cce1fb8760daf94c76_thumb"
+		"icon"		"52bb7ecf2ec4e08b37206e52bd43e328d785fabb"
+		"name_localized"
+		{
+			"english"		"Senren＊Banka Trial version"
+			"tchinese"		"千戀＊萬花 體驗版"
+			"japanese"		"千恋＊万花 体験版"
+			"schinese"		"千恋＊万花 体验版"
+		}
+		"clienticon"		"261ee72853334678626f1b6d169d21704eabb534"
+		"clienttga"		"25c42ca1ca83b444590b255a29d93c85b52dd965"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"Senren＊Banka Trial version"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw"
+			"library_hero"		"en,zh-cn,zh-tw"
+			"library_logo"		"en,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"48.855835240274615"
+				"height_pct"		"48.10021372595583"
+			}
+		}
+		"store_asset_mtime"		"1578888935"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Yuzusoft"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HIKARI FIELD"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"NekoNyan Ltd."
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1579255073"
+		"gameid"		"1221010"
+		"review_score"		"8"
+		"review_percentage"		"99"
+	}
+	"extended"
+	{
+		"demoofappid"		"1144400"
+		"developer"		"Yuzusoft"
+		"publisher"		"HIKARI FIELD"
+		"homepage"		"http://hikarifield.co.jp/senren/"
+	}
+	"config"
+	{
+		"installdir"		"SenrenBanka_trial"
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamconfigurator3rdpartynative"		"4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SenrenBanka.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"1221011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6447705543916288763"
+					"size"		"2314830899"
+					"download"		"2010848000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"EAE56A409DC14D3A8A311F566E29B926"
+					"size"		"8BFE10B38DED6A18D64BA4C6C6125B65"
+					"download"		"7CC9AB2483228519912289953BC0B7FC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4609662"
+				"timeupdated"		"1580093898"
+			}
+			"beta"
+			{
+				"buildid"		"4609662"
+				"pwdrequired"		"1"
+				"timeupdated"		"1580090043"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"savedata"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
