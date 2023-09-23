@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"1433270"
+	"common"
+	{
+		"name"		"SCP: Escape Together Dedicated Server"
+		"type"		"Tool"
+		"parent"		"1394270"
+		"releasestate"		"released"
+		"oslist"		""
+		"osarch"		""
+		"osextended"		""
+		"logo"		"b6a8bdd487a8ab9dcb28debf562b39b356e0e561"
+		"logo_small"		"b6a8bdd487a8ab9dcb28debf562b39b356e0e561_thumb"
+		"clienticon"		"9980ec5179bb93d7c188a85cd338defa8ba6ad1a"
+		"clienttga"		"4355438dc2e6710f64414d436a52f0243a38ea14"
+		"icon"		"a44220936f0850fede0aa4fc4c53720828902e0e"
+		"linuxclienticon"		"c4ad71504833ed792a5f0abb9d213a4786bcc6e9"
+		"associations"
+		{
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"1433270"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SCP Escape Together Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"scp_et.x86_64"
+				"arguments"		"-batchmode -nographics"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"SCP_ET.exe"
+				"arguments"		"-batchmode -nographics"
+				"type"		"server"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1923798258558304932"
+					"size"		"44194776"
+					"download"		"13804528"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4884950798805348056"
+					"size"		"73781292"
+					"download"		"20270768"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1433271"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7450459338352164992"
+					"size"		"1077030009"
+					"download"		"350458960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ced-test"
+				{
+					"gid"		"2292E1BD1FF98FD065EFBC354EE66268"
+					"size"		"4002ECA0CB6B23C4D73A57E84EC9CB6C"
+					"download"		"F173F5BEE4AE57980779F44B79223BF6"
+				}
+				"ci-build"
+				{
+					"gid"		"A671C5E235F540095D4795FB81FB1498"
+					"size"		"CFF2D4F880D578077836466F44CB7B4A"
+					"download"		"178EFED97A88E096EDAB40937F62272A"
+				}
+				"kuebv-test"
+				{
+					"gid"		"135830FE74285D5389D5AEB6A05F9284"
+					"size"		"68368A46C57FC60A501F5383C9AB67B8"
+					"download"		"19BA9019EDD9B43251C7DD87FDF984C3"
+				}
+			}
+		}
+		"1433272"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1770697046529543496"
+					"size"		"1020604966"
+					"download"		"343577328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ced-test"
+				{
+					"gid"		"4EAD750C373049387D80066BB4A39B96"
+					"size"		"F9162DBCFA4F0AB08077F2D9E5A26E38"
+					"download"		"4C70414F6AA8C17D7D7215DB7838FFDA"
+				}
+				"ci-build"
+				{
+					"gid"		"2EF24207E00BA88A8C674DEB471F94C4"
+					"size"		"D10F1736FDD8EDAA64C87CE7413266AD"
+					"download"		"0D4398E1CB4F092DA80DDDDC89E96243"
+				}
+				"kuebv-test"
+				{
+					"gid"		"9038C01E16E7349CFAA6A744B7DDFF52"
+					"size"		"0D545F6747095E5ACCAB205FBA705196"
+					"download"		"ABEA44E57CB2C53169BA5A69D9DCC598"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11506896"
+				"timeupdated"		"1687195092"
+			}
+			"ced-test"
+			{
+				"buildid"		"11506896"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687187462"
+			}
+			"ci-build"
+			{
+				"buildid"		"11658195"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688868574"
+			}
+			"kuebv-test"
+			{
+				"buildid"		"11658195"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688868577"
+			}
+		}
+	}
+}
