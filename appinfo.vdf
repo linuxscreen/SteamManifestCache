@@ -1,0 +1,134 @@
+"appinfo"
+{
+	"appid"		"2563110"
+	"common"
+	{
+		"name"		"Backrooms:Run For Your Life Demo"
+		"type"		"Demo"
+		"parent"		"2559530"
+		"icon"		"a7817ca5c5e2aa0335e0ad23914fbba8ac2d9adc"
+		"clienticon"		"2ed25b05345cc96730a4918c48e37536cc43fc23"
+		"clienttga"		"3254146530329654d77e06007a5f5a85d1a138e7"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1692845870"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Phoenix Cockroach Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Phoenix Cockroach Studio"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_48"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1693359071"
+		"gameid"		"2563110"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Phoenix Cockroach Studio"
+		"publisher"		"Phoenix Cockroach Studio"
+	}
+	"config"
+	{
+		"installdir"		"Backrooms Run For Your Life Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Backrooms Run For Your Life Demo\\Run_For_Your_Life_.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2563111"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3181677467748158682"
+					"size"		"504532374"
+					"download"		"383562928"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12079843"
+				"timeupdated"		"1693493445"
+			}
+		}
+	}
+}
