@@ -1,0 +1,250 @@
+"appinfo"
+{
+	"appid"		"640030"
+	"common"
+	{
+		"name"		"Trianga's Project: Battle Splash 2.0 (Free Open Beta)"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"0d33cdc1c17c3832c583968db7c52fe0866a1cc5"
+		"logo_small"		"0d33cdc1c17c3832c583968db7c52fe0866a1cc5_thumb"
+		"icon"		"4050d56f7cb2ce2afa88d65d0bcbf71e40758875"
+		"clienttga"		"97c47f4249bcbf0da83d3b85cf05c6d24dd51553"
+		"clienticon"		"617ad2297890397991cbb4767c432048cd2b78ec"
+		"releasestate"		"released"
+		"metacritic_name"		"Trianga's Project: Battle Splash 2.0"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1503644857"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dranya Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dranya Studio"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1505148645"
+		"community_hub_visible"		"1"
+		"gameid"		"640030"
+		"exfgls"		"1"
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Dranya Studio"
+		"publisher"		"Dranya Studio"
+		"homepage"		"http://battlesplash.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Battle Splash 2.0 (Free Open Beta)"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Battle Splash.exe"
+				"description"		"Battle Splash"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Battle Splash.exe"
+				"arguments"		"-force-d3d9 -force-gfx-st"
+				"description"		"Battle Splash DX9"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Battle Splash Debug.exe"
+				"description"		"Battle Splash Development Build"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"develop"
+				}
+			}
+			"3"
+			{
+				"executable"		"Battle Splash 2.0.app"
+				"description"		"Battle Splash for Mac OS X"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"workshopdepot"		"640030"
+		"640031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2139992746345012704"
+					"size"		"965029493"
+					"download"		"316560816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"8D183011A9A581D7B6E0918FEDFE5CCE"
+					"size"		"CED50FB0BA39966F46C57B46B826E2F6"
+					"download"		"719DBD0B9F6EE00C78BFC01931844188"
+				}
+			}
+		}
+		"640032"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"640034"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7586210351352958908"
+					"size"		"433260059"
+					"download"		"78409008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"9635AF5ED60F4168A81528A2AD3073F2"
+					"size"		"B0A5493355BF4EF7A8B873AF63C4BF03"
+					"download"		"6C11C4463E5EF9D30A1FBEFDB678CDCD"
+				}
+			}
+		}
+		"640033"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1802753759091764813"
+					"size"		"425275624"
+					"download"		"75918128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"4530080C4572A4A294DD531D3CD29034"
+					"size"		"66500187A91268553FD195D26EAAD6E6"
+					"download"		"22C617A9273FD7B7011E1660BBB69B65"
+				}
+			}
+		}
+		"640035"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"94A5D0A9A3AA935AF81771AA0AE8B811"
+					"size"		"335328B00785AEF269E9D6060BE49B8B"
+					"download"		"DAC34933FE7BA00467B8080D2F1EF627"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2362047"
+				"timeupdated"		"1513107581"
+			}
+			"develop"
+			{
+				"buildid"		"2286618"
+				"pwdrequired"		"1"
+				"timeupdated"		"1510754681"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+	}
+}
