@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"741360"
+	"common"
+	{
+		"name"		"VR Hybrid War 2117 - VR混合战争2117"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"1c249870aed6967a2ee371b1bdef7ed41d26b687"
+		"logo_small"		"1c249870aed6967a2ee371b1bdef7ed41d26b687_thumb"
+		"icon"		"7b29e560fde0a1374042ca1e58810554520fa119"
+		"clienttga"		"54d02734fc5164d2106db43d343e1bf830025bb1"
+		"clienticon"		"b656ff30ee952e2a1040e2d08ca447a968d0b426"
+		"openvrsupport"		"1"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1680652800"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"VR Hybrid War 2117"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1510942273"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Timo Polvinen"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Appila Oy"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1505977200"
+		"steam_release_date"		"1510335840"
+		"community_hub_visible"		"1"
+		"gameid"		"741360"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21978"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Timo Polvinen"
+		"publisher"		"Appila Oy"
+		"homepage"		"https://www.appila.fi/vrhybridwar"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"VR Hybrid War 2117"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VRHybridWar2117.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"741361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6535939461624236710"
+					"size"		"1698595418"
+					"download"		"453270288"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2607672"
+				"timeupdated"		"1575822056"
+			}
+		}
+	}
+}
