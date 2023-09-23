@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"1728720"
+	"common"
+	{
+		"name"		"Sharecare YOU VR Demo"
+		"type"		"Demo"
+		"parent"		"724590"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"ab2155f72ccee12600673c0e33a801af2a74676f"
+		"logo_small"		"ab2155f72ccee12600673c0e33a801af2a74676f_thumb"
+		"icon"		"1a131830f0e26266ec81a33f2a0df4624e7ebef2"
+		"openxrsupport"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"clienticon"		"4fa15790dd97929bd9e21ea37ef3c2072ef3390c"
+		"clienttga"		"12a36acb93a8cff8cfc43e3cd7c5af661b87bae4"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1728720_eula_0"
+				"name"		"Sharecare YOU VR Demo EULA"
+				"url"		"https://store.steampowered.com//eula/1728720_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"app_retired_publisher_request"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"45.11059371362046"
+				"height_pct"		"33.282675547374254"
+			}
+		}
+		"store_asset_mtime"		"1629305037"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sharecare Reality Lab"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sharecare, Inc."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629449165"
+		"gameid"		"1728720"
+		"onlyvrsupport"		"1"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"724590"
+		"vrheadsetstreaming"		"1"
+		"developer"		"Sharecare Reality Lab"
+		"publisher"		"Sharecare, Inc."
+		"homepage"		"https://www.sharecareyou.com/"
+	}
+	"config"
+	{
+		"installdir"		"Sharecare YOU VR Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sharecare YOU VR.exe"
+				"arguments"		"-vrmode openvr"
+				"type"		"vr"
+			}
+			"1"
+			{
+				"executable"		"Sharecare YOU VR.exe"
+				"arguments"		"-vrmode oculus"
+				"type"		"othervr"
+			}
+		}
+	}
+	"depots"
+	{
+		"1728721"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2268045905580577296"
+					"size"		"2507441742"
+					"download"		"2153979920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"AE0F2B52D55353507579D1B40F3E06E0"
+					"size"		"65A74089CC0EDE1C4E8C8E3EC425F62A"
+					"download"		"16552AC98E82B44AE774A6BBD51DAAB6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7897322"
+				"timeupdated"		"1639760519"
+			}
+			"beta"
+			{
+				"buildid"		"7897322"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639684683"
+			}
+		}
+	}
+}
