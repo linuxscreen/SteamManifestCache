@@ -1,0 +1,201 @@
+"appinfo"
+{
+	"appid"		"2172030"
+	"common"
+	{
+		"name"		"Elong Plug"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"6c0dab3317b9bf587d71efbb9cf5a67f049601a4"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"icon"		"b9f888cb2b4202c3d2062b4ef7ab8bea8b19263b"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1687478400"
+			"tested_build_id"		"9894777"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"68.70480153007591"
+				"height_pct"		"54.16847327846319"
+			}
+		}
+		"store_asset_mtime"		"1674634405"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aria Mohebi"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Benjamin Greenhalgh"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"AriaMohebi"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1677288052"
+		"community_hub_visible"		"1"
+		"gameid"		"2172030"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21"
+			"2"		"1719"
+			"3"		"5395"
+			"4"		"4726"
+			"5"		"3834"
+			"6"		"3968"
+			"7"		"1654"
+			"8"		"10397"
+			"9"		"4136"
+			"10"		"1742"
+			"11"		"597"
+			"12"		"1695"
+			"13"		"4166"
+			"14"		"5900"
+			"15"		"1697"
+			"16"		"1625"
+			"17"		"4182"
+			"18"		"7481"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Aria Mohebi"
+		"publisher"		"AriaMohebi"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Elong Plug"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ElongPlug.exe"
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"2172031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1751919702991498027"
+					"size"		"1163012295"
+					"download"		"171811808"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9894777"
+				"timeupdated"		"1667931369"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
