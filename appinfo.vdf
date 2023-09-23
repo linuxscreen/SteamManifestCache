@@ -1,0 +1,121 @@
+"appinfo"
+{
+	"appid"		"1889470"
+	"common"
+	{
+		"name"		"Half-Life Decay: Solo Mission DEMO"
+		"type"		"Demo"
+		"parent"		"1874090"
+		"clienttga"		"631b62c444244847d75a7d3c747dc1a47dac8937"
+		"clienticon"		"c16c3258060c6260ac25f4f84b476e051322d020"
+		"icon"		"267cfc0054ae99581aeb5be7f9e862fc42289d2d"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"57.55508870815738"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1648756696"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Solo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Solo"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1648680290"
+		"gameid"		"1889470"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1874090"
+		"developer"		"Team Solo"
+		"publisher"		"Team Solo"
+	}
+	"config"
+	{
+		"installdir"		"Half-Life Decay Solo Mission Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl.exe"
+				"arguments"		"-game decaysolodemo"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1889471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"231373698248053034"
+					"size"		"464144073"
+					"download"		"165863776"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10028078"
+				"timeupdated"		"1669617824"
+			}
+		}
+	}
+}
