@@ -1,0 +1,114 @@
+"appinfo"
+{
+	"appid"		"1681800"
+	"common"
+	{
+		"name"		"ソードオブパラディンRE Demo"
+		"type"		"Demo"
+		"parent"		"1624160"
+		"releasestate"		"released"
+		"clienticon"		"c4d8e6816fef2f2e3245c20f1dd3588cc654b4b7"
+		"clienttga"		"c1f069546c7805b95365b36a005f4708fca5ffa4"
+		"icon"		"146928bba67402e20e7a370c1243af1de45f6fa1"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1625705808"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PALADIN WORKS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PALADIN WORKS"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625100025"
+		"gameid"		"1681800"
+	}
+	"extended"
+	{
+		"demoofappid"		"1624160"
+		"developer"		"PALADIN WORKS"
+		"publisher"		"PALADIN WORKS"
+	}
+	"config"
+	{
+		"installdir"		"ソードオブパラディンRE Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sword_of_Paladin_RE_demo\\Game.exe"
+				"workingdir"		"Sword_of_Paladin_RE_demo"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Double-click \"Game.exe\" to start the game."
+					"japanese"		"「Game.exe」をダブルクリックすれば、ゲームがスタートします。"
+				}
+				"description"		"Double-click \"Game.exe\" to start the game."
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"japanese"
+		"1681801"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4002279720689929940"
+					"size"		"746730495"
+					"download"		"617769376"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6964659"
+				"timeupdated"		"1625149923"
+			}
+		}
+	}
+}
