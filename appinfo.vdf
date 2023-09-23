@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"1713420"
+	"common"
+	{
+		"name"		"Turbo Shell Demo"
+		"type"		"Demo"
+		"parent"		"1565880"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"bc9c19ccc9cac0f8a6dbfcca7c833e1bb8d65759"
+		"clienttga"		"bfb53eda6e2acbb56abcdf56faccb02f7d2f2a3b"
+		"icon"		"1495044ca38cfbe86b1d1be490bc46bbc322445a"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"ukrainian"		"1"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.73271889400921"
+				"height_pct"		"93.75466414957509"
+			}
+		}
+		"store_asset_mtime"		"1629647760"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Radioactive Dreams"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Radioactive Dreams"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1629704415"
+		"community_visible_stats"		"1"
+		"gameid"		"1713420"
+	}
+	"extended"
+	{
+		"demoofappid"		"1565880"
+		"developer"		"Radioactive Dreams"
+		"publisher"		"Radioactive Dreams"
+		"homepage"		"http://radioactivedreams.com/"
+	}
+	"config"
+	{
+		"installdir"		"Turbo Shell Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TurboShell.exe"
+				"arguments"		"-Installed"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65532"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1713421"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4757258295887111421"
+					"size"		"645733635"
+					"download"		"83565040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"8F69E47BE359D40253CBD3B18629DE64"
+					"size"		"B47E4A9813723E029020A70971F11AAA"
+					"download"		"C0DD6871CE43DB140F9B7E648F906520"
+				}
+				"testing"
+				{
+					"gid"		"7126F7EB55B280834E1321F1856CE2E2"
+					"size"		"31EFEAC7D13EB91F864C50F201D78AE9"
+					"download"		"F151CCE3918A3F00ABAF8F17E5963EBF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11555156"
+				"timeupdated"		"1687888979"
+			}
+			"internal"
+			{
+				"buildid"		"11555156"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687713353"
+			}
+			"testing"
+			{
+				"buildid"		"11555155"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687713487"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"52428800"
+		"maxnumfiles"		"500"
+		"appidredirect"		"1565880"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TurboShell/Saved/{64BitSteamID}"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TurboShell/Saved/{64BitSteamID}/Profile"
+				"pattern"		"*.replay"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		".config/Epic/"
+			}
+		}
+	}
+}
