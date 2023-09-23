@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"1707840"
+	"common"
+	{
+		"name"		"Marble Pop Paradise"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"Marble Pop Paradise_Data\\\\StreamingAssets\\\\SteamVR\\\\actions.json"
+		"logo"		"60e216038ca90a9421fc2de568d2dc1f395d9b7e"
+		"logo_small"		"60e216038ca90a9421fc2de568d2dc1f395d9b7e_thumb"
+		"clienticon"		"85a1e3968256863ce2e9ae86af1b1e349a20af86"
+		"clienttga"		"62620afdfcd07881fd5f23d7071edbbc4b00b6ce"
+		"icon"		"053c0b917aa6c40b8950ad8ddfa6deadf262ec88"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1646063325"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"WINR Games Inc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"WINR Games Inc"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628774388"
+		"community_hub_visible"		"1"
+		"gameid"		"1707840"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"9"
+			"2"		"1664"
+			"3"		"1774"
+			"4"		"1665"
+			"5"		"21978"
+			"6"		"4195"
+			"7"		"4305"
+			"8"		"4166"
+			"9"		"30358"
+			"10"		"1654"
+			"11"		"4835"
+			"12"		"4182"
+			"13"		"6426"
+		}
+		"review_score"		"7"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"0"
+		"developer"		"WINR Games Inc"
+		"publisher"		"WINR Games Inc"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Marble Pop Paradise"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Marble Pop Paradise.exe"
+				"arguments"		"-steamvr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Marble Pop Paradise.exe"
+				"arguments"		"-oculus"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1707841"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2139960443329105029"
+					"size"		"678658468"
+					"download"		"394059328"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8310557"
+				"timeupdated"		"1646345737"
+			}
+		}
+	}
+}
