@@ -1,0 +1,103 @@
+"appinfo"
+{
+	"appid"		"33150"
+	"common"
+	{
+		"name"		"Alien Shooter Revisited Demo"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"parent"		"33110"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sigma Team Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sigma Team Inc."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_10"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1239778800"
+		"steam_release_date"		"1243444200"
+		"gameid"		"33150"
+	}
+	"extended"
+	{
+		"demoofappid"		"33110"
+		"developer"		"Sigma Team Inc."
+		"gamedir"		"Alien Shooter Revisited Demo"
+		"homepage"		"http://www.sigma-team.net/"
+		"icon"		""
+		"noservers"		"1"
+		"onquitdemoshellexecute"		"steam://store/33110"
+		"order"		"1"
+		"primarycache"		"33151"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Sigma Team Inc."
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Alien Shooter Revisited Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AlienShooter.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"33151"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"777303537739582958"
+					"size"		"223604916"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13147"
+			}
+		}
+	}
+}
