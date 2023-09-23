@@ -1,0 +1,129 @@
+"appinfo"
+{
+	"appid"		"2002330"
+	"common"
+	{
+		"name"		"Armed and Armoured Demo"
+		"type"		"Demo"
+		"parent"		"1829070"
+		"clienttga"		"17b00ffec6c3610d704f47e6da2bfe11c777f273"
+		"clienticon"		"00110bf5481c313cafde0a103c40135914bd6b4b"
+		"icon"		"f2013f229328deebc82f04e2139ed937c3b798a5"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1652501306"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Chengdu Armoured Dude Technology Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Virtual Sappers Ltd."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1652844050"
+		"gameid"		"2002330"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1829070"
+		"developer"		"Chengdu Armoured Dude Technology Ltd."
+		"publisher"		"The Virtual Sappers Ltd."
+	}
+	"config"
+	{
+		"installdir"		"Armed and Armoured Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ArmedAndArmouredCombatDemo.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"2002331"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3471451046939698685"
+					"size"		"2432654168"
+					"download"		"942800448"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9693499"
+				"timeupdated"		"1665445895"
+			}
+		}
+	}
+}
