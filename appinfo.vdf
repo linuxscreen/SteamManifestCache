@@ -1,0 +1,310 @@
+"appinfo"
+{
+	"appid"		"1597480"
+	"common"
+	{
+		"name"		"Zombie Gunship Survival"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"220c610398afb6d7cabc9700a7ca130425255e23"
+		"logo_small"		"220c610398afb6d7cabc9700a7ca130425255e23_thumb"
+		"icon"		"37478feb463adb6e64b8dddc62f3da26d0f7420f"
+		"clienticon"		"ffeead8acb8774c8f976eed53f76e820a3df473d"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1597480_eula_0"
+				"name"		"Zombie Gunship Survival EULA"
+				"url"		"https://store.steampowered.com//eula/1597480_eula_0"
+				"version"		"2"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1651622400"
+			"tested_build_id"		"8634048"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.25581395348837"
+				"height_pct"		"55.319401567323666"
+			}
+		}
+		"store_asset_mtime"		"1638694858"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Flaregames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Flaregames"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1632298716"
+		"community_hub_visible"		"1"
+		"gameid"		"1597480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"9"
+			"2"		"1774"
+			"3"		"4255"
+			"4"		"5547"
+			"5"		"3813"
+			"6"		"4191"
+			"7"		"4175"
+			"8"		"6052"
+			"9"		"1659"
+			"10"		"1662"
+			"11"		"4342"
+			"12"		"4168"
+			"13"		"3835"
+			"14"		"1678"
+			"15"		"7332"
+			"16"		"4155"
+			"17"		"1645"
+			"18"		"16689"
+			"19"		"4637"
+		}
+		"review_score"		"5"
+		"review_percentage"		"46"
+	}
+	"extended"
+	{
+		"developer"		"Flaregames"
+		"publisher"		"Flaregames"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Zombie Gunship Survival"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"zgi_steam_win_x64.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamconfigurator3rdpartynative"		"2"
+		"steamcontrollerconfigdetails"
+		{
+			"2601094236"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		""
+				"use_action_block"		"true"
+			}
+			"2957413964"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,release_candidate,stable_dev,unstable_dev"
+				"use_action_block"		"true"
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1597481"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7798295125247273734"
+					"size"		"2140990076"
+					"download"		"2087227984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"release_candidate"
+				{
+					"gid"		"B150FC3814C095A0374A33836BA9E781"
+					"size"		"B7C797FC83A26AC18BA728EB9A78A74D"
+					"download"		"4B7446AFA7606E19F753121826854338"
+				}
+				"stable_dev"
+				{
+					"gid"		"287E3F75871DD495AD7C02746624C947"
+					"size"		"B6118D00D426234B5BDB7CF3410CBB9D"
+					"download"		"C1AC603229086BDF0860F28C4A851C64"
+				}
+				"unstable_dev"
+				{
+					"gid"		"B650F91BE017412C59DB94EE3BB7D229"
+					"size"		"9D00F307925EE486963095BAD2ADB761"
+					"download"		"7D28BCBFFBA5E625A7D4C9D9CCE847F1"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,turkish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12186475"
+				"timeupdated"		"1695118161"
+			}
+			"release_candidate"
+			{
+				"buildid"		"12186475"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694680777"
+			}
+			"stable_dev"
+			{
+				"buildid"		"12186392"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694679912"
+			}
+			"unstable_dev"
+			{
+				"buildid"		"11356670"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685511703"
+			}
+		}
+	}
+}
