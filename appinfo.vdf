@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"1423370"
+	"common"
+	{
+		"name"		"NOeSIS-羽化"
+		"type"		"Game"
+		"logo"		"504080787382fab560334c55621d77d5bc349d92"
+		"logo_small"		"504080787382fab560334c55621d77d5bc349d92_thumb"
+		"icon"		"246d99e6d177a1d17b308e477289496785062bb9"
+		"clienttga"		"2e46d34d0af3ecbe4a5c779ac38028f52b36511c"
+		"clienticon"		"3a54b21a6a6e04bfc66f05cc51268716d12cf60b"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,ja"
+			"library_hero"		"en,zh-cn,ja"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.819204801200314"
+				"height_pct"		"57.78269215546585"
+			}
+		}
+		"store_asset_mtime"		"1617945959"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Classic Chocolat"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Red × Balloon"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Hikare 个人汉化"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"NOeSIS三部曲"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+			"5"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1636394880"
+		"community_hub_visible"		"1"
+		"gameid"		"1423370"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"3871"
+			"2"		"4085"
+			"3"		"4726"
+			"4"		"597"
+			"5"		"4182"
+			"6"		"1667"
+			"7"		"11014"
+			"8"		"1742"
+			"9"		"9"
+			"10"		"9551"
+			"11"		"1721"
+			"12"		"1663"
+			"13"		"5716"
+			"14"		"4947"
+			"15"		"113"
+			"16"		"9130"
+			"17"		"12095"
+			"18"		"492"
+			"19"		"4345"
+		}
+		"review_score"		"8"
+		"review_percentage"		"99"
+	}
+	"extended"
+	{
+		"developer"		"Classic Chocolat"
+		"publisher"		"Red × Balloon"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"NOeSIS02-羽化"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NOeSIS02_Start.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"NOeSIS02（默认启动项）"
+				}
+				"description"		"NOeSIS02（默认启动项）"
+			}
+			"1"
+			{
+				"executable"		"NOeSIS02_Spare.exe"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"NOeSIS02（仅默认启动项不可用时使用）"
+				}
+				"description"		"NOeSIS02（仅默认启动项不可用时使用）"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese,japanese"
+		"1423371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4892509114740031734"
+					"size"		"208275382"
+					"download"		"179407552"
+				}
+			}
+		}
+		"1423373"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3373799627816101038"
+					"size"		"185776546"
+					"download"		"164594848"
+				}
+			}
+		}
+		"1423372"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"636714303921567360"
+					"size"		"195138215"
+					"download"		"174724848"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10653801"
+				"timeupdated"		"1677575301"
+			}
+		}
+	}
+}
