@@ -1,0 +1,131 @@
+"appinfo"
+{
+	"appid"		"1547770"
+	"common"
+	{
+		"name"		"游戏人生：心魔 Demo"
+		"type"		"Demo"
+		"parent"		"1543000"
+		"clienticon"		"8c54a32818de16731b227373209b6eba766ae462"
+		"clienttga"		"e9d31dc94b06a528756f6038f083b59fc7cb8a22"
+		"icon"		"fc65175be68266c6d7c3276b3796efb162950ad5"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.290673369811117"
+				"height_pct"		"31.435114503816834"
+			}
+		}
+		"store_asset_mtime"		"1612663133"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"地心游戏"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"地心游戏"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"游戏人生"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1623053678"
+		"gameid"		"1547770"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1543000"
+		"developer"		"地心游戏"
+		"publisher"		"地心游戏"
+		"homepage"		"https://www.dixinzuobiao.club"
+	}
+	"config"
+	{
+		"installdir"		"XinmoDemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"XinMo/XinMo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1547771"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7052904142530290874"
+					"size"		"863571473"
+					"download"		"150797600"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7088235"
+				"timeupdated"		"1627301310"
+			}
+		}
+	}
+}
