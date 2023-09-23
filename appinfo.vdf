@@ -1,0 +1,124 @@
+"appinfo"
+{
+	"appid"		"2420850"
+	"common"
+	{
+		"name"		"Peraglees - The Ooloufian Resistance Demo"
+		"type"		"Demo"
+		"parent"		"2420540"
+		"icon"		"01d2b0277565b165752faa467cb72cf634aa00b5"
+		"clienttga"		"ec001537076d026aad60ff73b099912fc258eedf"
+		"clienticon"		"b59d68486abd4b8f649de9a02991756000c766a2"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1686705270"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DPADFTW"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DPADFTW"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1683383076"
+		"gameid"		"2420850"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"DPADFTW"
+		"publisher"		"DPADFTW"
+		"homepage"		"https://www.youtube.com/KAOTIXFURY"
+	}
+	"config"
+	{
+		"installdir"		"Peraglees The Ooloufian Resistance Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PTOR_DEMO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2420851"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5136900135056408886"
+					"size"		"127068743"
+					"download"		"123108784"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11994926"
+				"timeupdated"		"1692643187"
+			}
+		}
+	}
+}
