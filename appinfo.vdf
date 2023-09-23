@@ -1,0 +1,139 @@
+"appinfo"
+{
+	"appid"		"1686360"
+	"common"
+	{
+		"name"		"Frincess&Cnight Demo"
+		"type"		"Demo"
+		"parent"		"1452540"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"1ff8b51d7ca6cc4e93d56758f1789128a187ecb9"
+		"clienttga"		"de6b33404745ac9a58b3b8d2c40c62cea1d77ff0"
+		"icon"		"727435c4cabccba1d650a7a75aa13a9473cd1eb3"
+		"clienticns"		"adedb7c4676ebfe45cee940c24d81835912a9125"
+		"linuxclienticon"		"40c2f7d700756b8e0413e68a857545fb62d910f5"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1625301632"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Singlecore Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Singlecore Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625766831"
+		"gameid"		"1686360"
+	}
+	"extended"
+	{
+		"demoofappid"		"1452540"
+		"developer"		"Singlecore Games"
+		"publisher"		"Singlecore Games"
+	}
+	"config"
+	{
+		"installdir"		"Frincess&Cnight Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FrincessAndCnight Demo.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"FrincessAndCnight Demo.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1686361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8234366664549113528"
+					"size"		"107826509"
+					"download"		"23910288"
+				}
+			}
+		}
+		"1686362"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6804658028687737981"
+					"size"		"102343183"
+					"download"		"21864288"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7122932"
+				"timeupdated"		"1627881834"
+			}
+		}
+	}
+}
