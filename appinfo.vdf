@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1010850"
+	"common"
+	{
+		"name"		"東方翠神廻廊 〜 Faith in the Goddess of Suwa."
+		"type"		"Game"
+		"clienticon"		"13021234195081e89e77bf06a564eb37ee5d4ac4"
+		"clienttga"		"7fdfa66ae654fab27167ab9b726af01010657c1f"
+		"icon"		"7c191bf4b1cb4cfdef533b2657960bac59876141"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"0fdf75e585e529c0eb91cfc4f94b5958b67f7a2e"
+		"logo_small"		"0fdf75e585e529c0eb91cfc4f94b5958b67f7a2e_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"東方翠神廻廊 〜 Faith in the Goddess of Suwa."
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1547559740"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"T.D"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"T.D"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"3"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1549872000"
+		"steam_release_date"		"1549872452"
+		"community_hub_visible"		"1"
+		"gameid"		"1010850"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"113"
+			"2"		"122"
+			"3"		"493"
+			"4"		"6650"
+			"5"		"4085"
+			"6"		"4434"
+			"7"		"180368"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"T.D"
+		"publisher"		"T.D"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"thsuijin"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"東方翠神廻廊.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"baselanguages"		"japanese"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1010851"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"40968732596133522"
+					"size"		"1157479952"
+					"download"		"236553088"
+				}
+			}
+		}
+		"1010852"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10046892"
+				"timeupdated"		"1669808805"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"16777216"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"savedata"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
