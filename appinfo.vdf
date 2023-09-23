@@ -1,0 +1,242 @@
+"appinfo"
+{
+	"appid"		"1301220"
+	"common"
+	{
+		"name"		"Dear Devere"
+		"type"		"Game"
+		"logo"		"4052dea728cb90f7206012c3e79dd7d9373ccc35"
+		"logo_small"		"4052dea728cb90f7206012c3e79dd7d9373ccc35_thumb"
+		"icon"		"10a53b2c9485b3e6813c0ab2ca18baed6e9b386c"
+		"clienticns"		"9e43858f4a0723bde29ccdb85218c53c1a2b4d73"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"718fd228760db159785ada65b507e73b2ca3dae4"
+		"clienttga"		"b1cecd86b258907df4496005a4d6901932bafce9"
+		"linuxclienticon"		"97e8ac265e0ea2cd2807a49afe36f62014b483de"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"english"		"Dear Devere"
+			"schinese"		"亲爱的德韦尔"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1628994200"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jasmine Osler"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jasmine Osler"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1586674800"
+		"steam_release_date"		"1590783770"
+		"community_hub_visible"		"1"
+		"gameid"		"1301220"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"3799"
+			"3"		"4947"
+			"4"		"1742"
+			"5"		"3987"
+			"6"		"1756"
+			"7"		"4166"
+			"8"		"5411"
+			"9"		"5608"
+			"10"		"4057"
+			"11"		"4182"
+			"12"		"5094"
+			"13"		"1654"
+			"14"		"5716"
+			"15"		"1710"
+			"16"		"4252"
+			"17"		"4094"
+			"18"		"809"
+			"19"		"4175"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Jasmine Osler"
+		"publisher"		"Jasmine Osler"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dear Devere"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DearDevere.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"64-bit"
+				}
+				"description"		"64-bit"
+			}
+			"1"
+			{
+				"executable"		"DearDevere.app\\Contents\\MacOS\\DearDevere"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"DearDevere.sh"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"Dear Devere-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+				"description_loc"
+				{
+					"english"		"32-bit"
+				}
+				"description"		"32-bit"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1301221"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8543121786579776473"
+					"size"		"402595638"
+					"download"		"265977824"
+				}
+			}
+		}
+		"1301222"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7836474075452400646"
+					"size"		"354835384"
+					"download"		"251886496"
+				}
+			}
+		}
+		"1301223"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"213307399470812612"
+					"size"		"383858443"
+					"download"		"259528176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7960569"
+				"timeupdated"		"1641068057"
+			}
+		}
+	}
+}
