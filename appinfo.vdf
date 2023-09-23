@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"1682630"
+	"common"
+	{
+		"name"		"Big Boy Boxing Demo"
+		"type"		"Demo"
+		"parent"		"1680780"
+		"releasestate"		"released"
+		"clienticon"		"f557516c1bf9ca01c906633020092242258e70b8"
+		"clienttga"		"d1f3e30def132354a6c44a32dd073209cc997ba8"
+		"icon"		"3056e0e7728f3578f9b89a18b8538f3a71641fc6"
+		"linuxclienticon"		"9136d25b3d7f4404ca3dbc2f5ddbbb193ed7c431"
+		"clienticns"		"58aaaef71bfce9ed016bd88092ad5dc6e509053a"
+		"logo"		"e1e9848ec0e3307cbe99fd22b6a434df592537f1"
+		"logo_small"		"e1e9848ec0e3307cbe99fd22b6a434df592537f1_thumb"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50.00000000000001"
+				"height_pct"		"91.4153407741629"
+			}
+		}
+		"store_asset_mtime"		"1637252215"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Soupmasters"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Soupmasters"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Big Boy Boxing"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627130347"
+		"gameid"		"1682630"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1680780"
+		"developer"		"Soupmasters"
+		"publisher"		"Soupmasters"
+		"homepage"		"https://soupmasters.com/"
+	}
+	"config"
+	{
+		"installdir"		"Big Boy Boxing Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Big Boy Boxing (Alpha Build).exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Big Boy Boxing (Alpha Build).app/Contents/MacOS/Big Boy Boxing (Alpha Build)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Big Boy Boxing (Alpha Build).x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"Big Boy Boxing (Alpha Build).app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1682631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"408152499005416740"
+					"size"		"127054971"
+					"download"		"22159424"
+				}
+			}
+		}
+		"1682632"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"541669201186303913"
+					"size"		"158317065"
+					"download"		"31916848"
+				}
+			}
+		}
+		"1682633"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7760025610996811402"
+					"size"		"178048513"
+					"download"		"25962400"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7106315"
+				"timeupdated"		"1627552568"
+			}
+		}
+	}
+}
