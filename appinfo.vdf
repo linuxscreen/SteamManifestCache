@@ -1,0 +1,130 @@
+"appinfo"
+{
+	"appid"		"591590"
+	"common"
+	{
+		"name"		"SoulSet Demo"
+		"type"		"Demo"
+		"parent"		"589860"
+		"releasestate"		"released"
+		"clienticns"		"aad06d894d53dfc1002a9b78fe46e1ef947b6ed6"
+		"linuxclienticon"		"1695ec0bcf7b83e6c5b69e4b03bd3342cbce9c63"
+		"clienticon"		"379cc93860d5c95fe86528d734d199fb4cbb4255"
+		"clienttga"		"b3f3377f090981d8ac17a458129e567d8e47dc11"
+		"icon"		"4eb036ef461bae846593e5fc476f566ae68757d9"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"metacritic_name"		"SoulSet Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1486929713"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NoBreadStudio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NoBreadStudio"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"71"
+			"1"		"73"
+			"2"		"25"
+			"3"		"4"
+			"4"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1487034052"
+		"gameid"		"591590"
+	}
+	"extended"
+	{
+		"demoofappid"		"589860"
+		"developer"		"NoBreadStudio"
+		"publisher"		"NoBreadStudio"
+	}
+	"config"
+	{
+		"installdir"		"SoulSet Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SoulSet_Prologue_Demo.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SoulSet_Prologue_Demo.app"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"SoulSet_Prologue_Demo.sh"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"591591"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7520636044047287133"
+					"size"		"410636797"
+					"download"		"330279376"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1626307"
+				"timeupdated"		"1486934723"
+			}
+		}
+	}
+}
