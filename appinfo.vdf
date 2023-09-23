@@ -1,0 +1,124 @@
+"appinfo"
+{
+	"appid"		"2539320"
+	"common"
+	{
+		"name"		"ReXueLinHun Dynasty demo"
+		"type"		"Demo"
+		"parent"		"2424310"
+		"linuxclienticon"		"191fadf187277b13edcd218783c1450edbcd865c"
+		"clienttga"		"d9d9a700a759bc12eac18873f7be315c4278fee3"
+		"icon"		"988cb7dc9f1b12d2712474e46980403644522313"
+		"clienticon"		"f61288a4b1ef968f6dd1ec01828453c8aa85670e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-xc"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"96.32438739789967"
+				"height_pct"		"51.13987176442651"
+			}
+		}
+		"store_asset_mtime"		"1690916726"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MHSS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MONSH"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1691000589"
+		"gameid"		"2539320"
+	}
+	"extended"
+	{
+		"developer"		"MHSS"
+		"publisher"		"MONSH"
+	}
+	"config"
+	{
+		"installdir"		"ReXueLinHundemo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"\\ReXueLinHun_demo\\Windows\\ReXueLinHun.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2539321"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8168362076895230981"
+					"size"		"2173871324"
+					"download"		"1710187360"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11823489"
+				"timeupdated"		"1690742041"
+			}
+		}
+	}
+}
