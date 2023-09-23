@@ -1,0 +1,148 @@
+"appinfo"
+{
+	"appid"		"843050"
+	"common"
+	{
+		"name"		"North Stars"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"91f8ebef8f2f564b7b90c5d77995e2be321f09f8"
+		"clienticon"		"208eff56409b4cc7b0f2d19668674ecbb51584d3"
+		"icon"		"7be5e0829ff027f5c0d1ca78a5862dd2093d8cef"
+		"logo"		"c82a445bae6491982f065afe4e1537be0410b227"
+		"logo_small"		"c82a445bae6491982f065afe4e1537be0410b227_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"North Stars"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1529762191"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"凌望游戏工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"凌望游戏工作室"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_18"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1530168768"
+		"community_hub_visible"		"1"
+		"gameid"		"843050"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1774"
+			"2"		"1663"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"凌望游戏工作室"
+		"publisher"		"凌望游戏工作室"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"North Stars"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NS.exe"
+				"arguments"		"-windowed"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"843051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3918839322167418514"
+					"size"		"579611308"
+					"download"		"495145696"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3988800"
+				"timeupdated"		"1562460675"
+			}
+		}
+	}
+}
