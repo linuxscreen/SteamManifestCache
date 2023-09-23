@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"2540030"
+	"common"
+	{
+		"name"		"Checkmate! My Shogi Club President can't be this Cute! Demo"
+		"type"		"Demo"
+		"parent"		"2458440"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"ea49f752719c29b248e3f7bbd10d235d3aeca727"
+		"clienticon"		"a016cab8422fe23b61555375996b6cfa678f9546"
+		"clienttga"		"61d0a1a301ceb5920de7744bd2a6ed04cd8e2dce"
+		"releasestate"		"released"
+		"app_retired_publisher_request"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"83.28188078841129"
+			}
+		}
+		"store_asset_mtime"		"1690902332"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pablo Barrón"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pablo Barrón"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1691359573"
+		"gameid"		"2540030"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Pablo Barrón"
+		"publisher"		"Pablo Barrón"
+	}
+	"config"
+	{
+		"installdir"		"Checkmate! My Shogi Club President can't be this Cute! Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Checkmate! - Shogi.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Checkmate! - Shogi.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2540031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8939188028101821737"
+					"size"		"571625578"
+					"download"		"270253344"
+				}
+			}
+		}
+		"2540032"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5860781263914972171"
+					"size"		"561558087"
+					"download"		"267165120"
+				}
+			}
+		}
+		"2540033"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6399505374247575320"
+					"size"		"569377464"
+					"download"		"268098480"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11879612"
+				"timeupdated"		"1691359395"
+			}
+		}
+	}
+}
