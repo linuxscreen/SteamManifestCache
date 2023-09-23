@@ -1,0 +1,97 @@
+"appinfo"
+{
+	"appid"		"1672120"
+	"common"
+	{
+		"name"		"Grandmother's Tale Demo"
+		"type"		"Demo"
+		"parent"		"1523240"
+		"clienttga"		"b686807f5959f6e8a05a8ad4837da732c4934cd3"
+		"clienticon"		"3ac3835b2929811605ca32e62185a1fb8f6cc69d"
+		"icon"		"7e9b8f67850c24ca02129e69a08d234cea09b5e1"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1624619221"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TWO B SOFT"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TWO B SOFT"
+			}
+		}
+		"steam_release_date"		"1625124757"
+		"gameid"		"1672120"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1523240"
+		"developer"		"TWO B SOFT"
+		"publisher"		"TWO B SOFT"
+	}
+	"config"
+	{
+		"installdir"		"Grandmother's Tale Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GrandmotherTales.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"GrandmotherTales.exe"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1672121"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3012809857102898308"
+					"size"		"946428985"
+					"download"		"248640384"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7625132"
+				"timeupdated"		"1635513420"
+			}
+		}
+	}
+}
