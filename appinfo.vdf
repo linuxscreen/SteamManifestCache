@@ -1,0 +1,239 @@
+"appinfo"
+{
+	"appid"		"1903380"
+	"common"
+	{
+		"name"		"Food Truck Simulator Demo"
+		"type"		"Demo"
+		"parent"		"1160920"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"b3836ec65bfe2abb64c864d2efbb78ee09d4dd90"
+		"clienttga"		"847400f11593c4a0a8d7ac53be87296faa1cfc0e"
+		"icon"		"835d5325c9d8dc6ac66c07fb05ad4b184c89b1b9"
+		"logo"		"22978dcdc17477b35e819e5048b598e3588cafd3"
+		"logo_small"		"22978dcdc17477b35e819e5048b598e3588cafd3_thumb"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.372093023255815"
+				"height_pct"		"65.19829019235335"
+			}
+		}
+		"store_asset_mtime"		"1644332769"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DRAGO entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Movie Games S.A."
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1645464336"
+		"gameid"		"1903380"
+	}
+	"extended"
+	{
+		"demoofappid"		"1160920"
+		"developer"		"DRAGO entertainment"
+		"publisher"		"Movie Games S.A."
+	}
+	"config"
+	{
+		"installdir"		"Food Truck Simulator Demo"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FTR3.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1903381"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1746622056657848925"
+					"size"		"4985110777"
+					"download"		"4601937968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"drago-devbranch"
+				{
+					"gid"		"25F4133F44449C4A88F5118A12EFB1F8"
+					"size"		"B2B85A6ED423042105C5FAEAE193CCC2"
+					"download"		"8C917B0727CBF8A9133D99EF2E3047F5"
+				}
+				"qa-branch-development"
+				{
+					"gid"		"CCB677D2CEDE636FD5B5D377E445FAD3"
+					"size"		"55F1FDC24AEDF06799DEF43A26597006"
+					"download"		"4D4897C4CCCAA7784DDF84A3AB9AAFE8"
+				}
+				"qa-branch-shipping"
+				{
+					"gid"		"5C5B771434089D4AA55145398266ACC1"
+					"size"		"C18ED5C5C8217BD427AED09075D37267"
+					"download"		"F602FAB80373645EE3D4E9A79053E9CD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9215532"
+				"timeupdated"		"1659102660"
+			}
+			"drago-devbranch"
+			{
+				"buildid"		"10242724"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672661054"
+			}
+			"qa-branch-development"
+			{
+				"buildid"		"8208573"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644951191"
+			}
+			"qa-branch-shipping"
+			{
+				"buildid"		"8231622"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645206459"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"209715200"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"FTR3/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
