@@ -1,0 +1,152 @@
+"appinfo"
+{
+	"appid"		"1678330"
+	"common"
+	{
+		"name"		"Heim Demo"
+		"type"		"Demo"
+		"parent"		"1274470"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"d76f5e53b23a567ea3d893911aa8e3aea5cbc0ac"
+		"clienttga"		"12b2b936eb9a4a8fc781aaa8d7b7764b819d8d5f"
+		"icon"		"053939966b3e30623815bd0b7790336f910722c4"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.11627906976743"
+				"height_pct"		"82.67632391355974"
+			}
+		}
+		"store_asset_mtime"		"1625704723"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tom Ryckeboer"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tom Ryckeboer"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625234710"
+		"gameid"		"1678330"
+	}
+	"extended"
+	{
+		"demoofappid"		"1274470"
+		"developer"		"Tom Ryckeboer"
+		"publisher"		"Tom Ryckeboer"
+	}
+	"config"
+	{
+		"installdir"		"Heim Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Heim.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1678331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3451284978847315559"
+					"size"		"1142160970"
+					"download"		"341270832"
+				}
+			}
+		}
+		"1678332"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7705952880534611338"
+					"size"		"1098393440"
+					"download"		"318118336"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8040528"
+				"timeupdated"		"1642510823"
+			}
+		}
+	}
+}
