@@ -1,0 +1,131 @@
+"appinfo"
+{
+	"appid"		"2003290"
+	"common"
+	{
+		"name"		"Garden Galaxy Demo"
+		"type"		"Demo"
+		"parent"		"1970460"
+		"releasestate"		"released"
+		"clienticon"		"d7bdb8e668f9857b424255d27c30f01f57a6d718"
+		"clienttga"		"46847e68ecba34419f50e34120cfdb9e619a6065"
+		"icon"		"36f0253db571bacce512c179735709c8485862cb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"49.3819236118299"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1662726449"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anneka Tran"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anneka Tran"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1655072820"
+		"gameid"		"2003290"
+	}
+	"extended"
+	{
+		"demoofappid"		"1970460"
+		"developer"		"Anneka Tran"
+		"publisher"		"Anneka Tran"
+	}
+	"config"
+	{
+		"installdir"		"Garden Galaxy Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Garden Galaxy Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2003291"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4840512637665835488"
+					"size"		"164114831"
+					"download"		"37691072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"9F72F79B27D87F435E2A98637E8C274C"
+					"size"		"A4F15A6D048776161D0961D024703F24"
+					"download"		"E57E5639F6BC558B8E7525000FBFCCAB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11563792"
+				"timeupdated"		"1687879867"
+			}
+			"testing"
+			{
+				"buildid"		"11563792"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687818133"
+			}
+		}
+	}
+}
