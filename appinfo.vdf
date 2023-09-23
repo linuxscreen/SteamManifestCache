@@ -1,0 +1,508 @@
+"appinfo"
+{
+	"appid"		"661130"
+	"common"
+	{
+		"name"		"ChilloutVR"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"icon"		"cea462fb36800641295e78b9644cf66ea3b884b5"
+		"clienticon"		"92d98bd1d3c4ec59e26939eacbebfe9e89e7c391"
+		"clienttga"		"15b5a92e0fd452f9cbbb30cf78323ab6fe3ad021"
+		"logo"		"95918560bed8e2e1c9324a3abebac1534f5d215f"
+		"logo_small"		"95918560bed8e2e1c9324a3abebac1534f5d215f_thumb"
+		"openvr_action_manifest_path"		"ChilloutVR_Data/StreamingAssets/SteamVR/actions.json"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1645833600"
+			"tested_build_id"		"7910558"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"market_presence"		"0"
+		"metacritic_name"		"ChilloutVR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"49.429717432087216"
+				"height_pct"		"83.10431454415294"
+			}
+		}
+		"store_asset_mtime"		"1617830114"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alpha Blend Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Alpha Blend Interactive"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+			"5"		"3"
+			"6"		"28"
+			"7"		"2"
+			"8"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_20"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1612822554"
+		"community_hub_visible"		"1"
+		"gameid"		"661130"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"128"
+			"1"		"113"
+			"2"		"597"
+			"3"		"492"
+			"4"		"122"
+			"5"		"599"
+			"6"		"19"
+			"7"		"9"
+			"8"		"21978"
+			"9"		"493"
+			"10"		"6650"
+			"11"		"3839"
+			"12"		"12095"
+			"13"		"4667"
+			"14"		"21"
+			"15"		"3834"
+			"16"		"4726"
+			"17"		"4166"
+			"18"		"4345"
+			"19"		"24904"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"0"
+		"gamedir"		"ChilloutVR"
+		"serverbrowsername"		"ChilloutVR"
+		"developer"		"Alpha Blend Interactive"
+		"publisher"		"Alpha Blend Interactive"
+		"homepage"		"https://abinteractive.net"
+		"isfreeapp"		"1"
+		"listofdlc"		"1136890,1435530"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ChilloutVR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ChilloutVR.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"ChilloutVR.exe"
+				"arguments"		"-vr"
+				"type"		"vr"
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"661131"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5021784219979817408"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ben-dev"
+				{
+					"gid"		"759130C3D8A7009259E819135DCF8F9D"
+					"size"		"99879F77DE1CD09E882DBF6EEE66C08A"
+					"download"		"99879F77DE1CD09E882DBF6EEE66C08A"
+				}
+				"experimental"
+				{
+					"gid"		"99733EA74511D45B49F65B41C081CCC7"
+					"size"		"2622DC1EB93AB1D7C3479B415AF6B6D3"
+					"download"		"2622DC1EB93AB1D7C3479B415AF6B6D3"
+				}
+				"herp"
+				{
+					"gid"		"7BA9ED4E454A55BD904BB9333FBCA648"
+					"size"		"44B8CD16AB1212FAEB155BEFF1D52CC8"
+					"download"		"44B8CD16AB1212FAEB155BEFF1D52CC8"
+				}
+				"khodrin"
+				{
+					"gid"		"3F810BB0392087395DBA2DBE1BB3D711"
+					"size"		"6C91E3442E0FBB0384FA6C21C82710EA"
+					"download"		"6C91E3442E0FBB0384FA6C21C82710EA"
+				}
+				"khodrins-tester"
+				{
+					"gid"		"A5F75B3A416C8BACA2C3991D9902EA48"
+					"size"		"34BA954D57924ADA78B19DCF054A4EB3"
+					"download"		"34BA954D57924ADA78B19DCF054A4EB3"
+				}
+				"nak-dev"
+				{
+					"gid"		"60A326A2C52031DED1DE660C9459364B"
+					"size"		"0280650ABFC220D7B10B8E08ADFFB898"
+					"download"		"0280650ABFC220D7B10B8E08ADFFB898"
+				}
+				"nicokurokusagi-dev"
+				{
+					"gid"		"1B1780FDCAFDA8E657EE2D7AA181DE68"
+					"size"		"2FA60B3AD097ED66EAB1DC77F2BF6B2C"
+					"download"		"2FA60B3AD097ED66EAB1DC77F2BF6B2C"
+				}
+				"qa-team"
+				{
+					"gid"		"67A5F90D71F094CD19E2D95A56A0DDC5"
+					"size"		"1BD8E606AFE3C8B44C03D215B0BF9DAC"
+					"download"		"1BD8E606AFE3C8B44C03D215B0BF9DAC"
+				}
+				"zlucplayz"
+				{
+					"gid"		"06612315DEC0052F1028E1174B8C8531"
+					"size"		"265F587B1167F52A3742732ABFE300E2"
+					"download"		"265F587B1167F52A3742732ABFE300E2"
+				}
+			}
+		}
+		"661132"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1481626195646382280"
+					"size"		"1239215309"
+					"download"		"403654288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ben-dev"
+				{
+					"gid"		"9E993A394B2B5892747B4E36FDA4A574"
+					"size"		"11D521F88FB97E6EE216D551E770D2ED"
+					"download"		"C5E56555F3EE38E10826566716C974FC"
+				}
+				"experimental"
+				{
+					"gid"		"42782A928853222642AA1C875FE031C9"
+					"size"		"AE744F83DDA1D41BC4179EB533DB8F97"
+					"download"		"F4D94FB47C0947F16896FD4952FC2286"
+				}
+				"herp"
+				{
+					"gid"		"9A34D7788A25410C1692B052158E76E7"
+					"size"		"32FEB431B647839CF37CCA0203EB8C12"
+					"download"		"44CD4612D5E98432D0A23249BD74729B"
+				}
+				"khodrin"
+				{
+					"gid"		"8E1018B4C0DD4EF8C5770C2FBC2DFCF4"
+					"size"		"36DCFCBBFDF660AC5FE1A1E4A8CA1AF1"
+					"download"		"7A233F577A034C8B713B16A478A75417"
+				}
+				"khodrins-tester"
+				{
+					"gid"		"75E8B86DF0528F73A3521D0F48044E23"
+					"size"		"303C4B5827B1293ED5FCD759F328D203"
+					"download"		"3B353217DDC88F15EAB1C842DE040074"
+				}
+				"nak-dev"
+				{
+					"gid"		"D923F10F92607DA09CD2FDF91F755511"
+					"size"		"3A61F236B7D9143968B0F6431AE75D89"
+					"download"		"D6D46409EB21ABC3E083563094E5B8D4"
+				}
+				"nicokurokusagi-dev"
+				{
+					"gid"		"8530EF432C6FE1F075C9F7212E2E82CA"
+					"size"		"A94EBD1D91C1C78AB17DB7615F51B5DB"
+					"download"		"5AB2DC3FAD82ACBFD95D63A3CD88CD0E"
+				}
+				"qa-team"
+				{
+					"gid"		"5639EF15382D7A68EC411E3BE930F33F"
+					"size"		"F7C48281C525E01E1F6FE94BDA83AF14"
+					"download"		"74E4236F7957651FBE73EE1F0193285E"
+				}
+				"zlucplayz"
+				{
+					"gid"		"0F41E7914CE297256D77B2108D207CC1"
+					"size"		"A768D62A634AEEDFAE77C86296D1C6EF"
+					"download"		"4D2E63D537F009B62C32F237CA925F5A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11817990"
+				"timeupdated"		"1690667240"
+			}
+			"ben-dev"
+			{
+				"buildid"		"11999896"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692680534"
+			}
+			"experimental"
+			{
+				"buildid"		"12210508"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695050622"
+			}
+			"herp"
+			{
+				"buildid"		"12253183"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695356594"
+			}
+			"khodrin"
+			{
+				"buildid"		"11817990"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691212282"
+			}
+			"khodrins-tester"
+			{
+				"buildid"		"11817990"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691212292"
+			}
+			"nak-dev"
+			{
+				"buildid"		"12138320"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694144855"
+			}
+			"nicokurokusagi-dev"
+			{
+				"buildid"		"11817990"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691212266"
+			}
+			"qa-team"
+			{
+				"buildid"		"12263174"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695453774"
+			}
+			"zlucplayz"
+			{
+				"buildid"		"11871765"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691212257"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1500000"
+		"maxnumfiles"		"10"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"ChilloutVR_Data"
+				"pattern"		"player.config"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"ChilloutVR_Data"
+				"pattern"		"guardian.config"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"ChilloutVR_Data"
+				"pattern"		"safety.config"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_online"		"Connected to %instancename% [%instanceprivacy%] (%currentplayer%/%maxplayer%)"
+					"#status_starting"		"Launching ChilloutVR"
+					"#status_waitingformatch"		"In Matchmaking for %gamemode%"
+				}
+			}
+		}
+	}
+}
