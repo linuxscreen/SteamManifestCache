@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"2000660"
+	"common"
+	{
+		"name"		"IN HEAT: Lustful Nights Demo"
+		"type"		"Demo"
+		"parent"		"1962890"
+		"releasestate"		"released"
+		"clienttga"		"94aedb088ac87740e549f3a99c777f5ecdf06a2a"
+		"clienticon"		"292cef091fa83defa9a0f3e05b59115773fe8911"
+		"icon"		"3d98c5b920f4ed3a188eaf1bf451cdc19f014333"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.496620225108373"
+				"height_pct"		"23.112811082040963"
+			}
+		}
+		"store_asset_mtime"		"1652464698"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MonsterBox"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Critical Bliss"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1653100758"
+		"gameid"		"2000660"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1962890"
+		"developer"		"MonsterBox"
+		"publisher"		"Critical Bliss"
+	}
+	"config"
+	{
+		"installdir"		"IN HEAT Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"INHEAT.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Game"
+				}
+				"description"		"Launch Game"
+			}
+			"1"
+			{
+				"executable"		"INHEAT.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Game"
+				}
+				"description"		"Launch Game"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2000662"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8889414477980491590"
+					"size"		"743211283"
+					"download"		"598733776"
+				}
+			}
+		}
+		"2000663"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6454291455428246128"
+					"size"		"684908460"
+					"download"		"552935680"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9115916"
+				"timeupdated"		"1657743768"
+			}
+		}
+	}
+}
