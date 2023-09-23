@@ -1,0 +1,278 @@
+"appinfo"
+{
+	"appid"		"1112400"
+	"common"
+	{
+		"name"		"Project Torque"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"e7e86321cc83e29d2ce8818a48f15711b9d90514"
+		"logo_small"		"e7e86321cc83e29d2ce8818a48f15711b9d90514_thumb"
+		"icon"		"b9e5ebd9e6554aadddb106bf660d7f4c98c303f7"
+		"clienttga"		"ffe430d15aae8f35e899cf89edf072f39c1af945"
+		"clienticon"		"c08cc3fd42b907f83d5b9e2c50ad4b8b606d8709"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1652745600"
+			"tested_build_id"		"7548241"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Project Torque - Free 2 Play MMO Racing Game"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.02973497091145"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1593033881"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Invictus Games Ltd."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"JOGARA LTD"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"JOGARA LTD"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Heat Online"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Level R"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1209538800"
+		"steam_release_date"		"1576862040"
+		"community_hub_visible"		"1"
+		"gameid"		"1112400"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"113"
+			"2"		"128"
+			"3"		"1100687"
+			"4"		"3859"
+			"5"		"1695"
+			"6"		"7481"
+			"7"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"Invictus Games Ltd."
+		"publisher"		"JOGARA LTD"
+		"homepage"		"https://www.facebook.com/ProjectTorqueRacing/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Project Torque"
+		"steamconfigurator3rdpartynative"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProjectTorque.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"test"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"1112402"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"95460184884060917"
+					"size"		"10783843366"
+					"download"		"2381544864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B80D7B6955AF9F70AF0FA21AAC641934"
+					"size"		"A07C3E3D0FE8778F0C86AFEA5C126051"
+					"download"		"DC5B87D44964292DC1DCC9FF77060F80"
+				}
+				"cars"
+				{
+					"gid"		"CFFA874D3073B2CF35906C74D13024E3"
+					"size"		"22A9D0AEA055E5DBC96148CEBA24CCC5"
+					"download"		"789C93F172DE76671170E5F05270E498"
+				}
+				"devcomp"
+				{
+					"gid"		"5CD614CBE7128EAF17CDD7E307C6EDC0"
+					"size"		"3A84FCEB325F34B84DDB716BC90BD597"
+					"download"		"5E833EFBD99C942A03A2F981BBB5AD6D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9678942"
+				"timeupdated"		"1665183525"
+			}
+			"beta"
+			{
+				"buildid"		"9681036"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665224366"
+			}
+			"cars"
+			{
+				"buildid"		"6337220"
+				"pwdrequired"		"1"
+				"timeupdated"		"1614961470"
+			}
+			"devcomp"
+			{
+				"buildid"		"8793615"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671333670"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"500"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"*.*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
