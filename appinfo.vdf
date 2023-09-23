@@ -1,0 +1,223 @@
+"appinfo"
+{
+	"appid"		"201230"
+	"common"
+	{
+		"name"		"EverQuest II"
+		"type"		"Game"
+		"logo"		"b6deba831da83809f5827a9d39b512e4c2d47663"
+		"logo_small"		"b6deba831da83809f5827a9d39b512e4c2d47663_thumb"
+		"icon"		"f5693e55c1ca895cfa5032838b67fd5f1aa68774"
+		"clienticon"		"c4fd016409870d7b8b1971c654a48ef510bddac0"
+		"clienttga"		"6329ef6720562bd4296d30b11bc5e138d59b1651"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1645142400"
+			"tested_build_id"		"7810640"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"EverQuest II"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30"
+				"height_pct"		"39"
+			}
+		}
+		"store_asset_mtime"		"1578606667"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Darkpaw Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Daybreak Game Company"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1323280800"
+		"metacritic_score"		"83"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/everquest-ii?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"201230"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"128"
+			"2"		"122"
+			"3"		"1754"
+			"4"		"1702"
+			"5"		"1684"
+			"6"		"1695"
+			"7"		"21"
+			"8"		"3859"
+			"9"		"3834"
+			"10"		"19"
+			"11"		"4747"
+			"12"		"4182"
+			"13"		"3810"
+			"14"		"1693"
+			"15"		"1697"
+			"16"		"3839"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Darkpaw Games"
+		"gamedir"		"EverQuest II F2P"
+		"homepage"		"http://www.everquest2.com"
+		"icon"		""
+		"inhibitautoversionroll"		"1"
+		"installscript"		"installscript.vdf"
+		"isfreeapp"		"1"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"201231"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Daybreak Game Company"
+		"listofdlc"		"24100,24110,24190,24230,224560,249770,332430,333890,333891,333892,334430,420410"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LaunchPad.exe"
+				"arguments"		"Updates:enable=0 Updates:PatchSelf=1 promoID=133 campaignID=1063054 launchArgs=STEAM_ENABLED launchPoint=steam"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"EverQuest 2"
+		"noupdatesafterinstall"		"1"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"201231"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1662320834568470755"
+					"size"		"28326951999"
+					"download"		"27187682720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"24AA7507870C3EDB6523BE0B06A004EF"
+					"size"		"38972171A2FD0847A5FB90BEC2D6FEA4"
+					"download"		"34568B44D705C990ED08A53A5E61CE70"
+				}
+				"livenext"
+				{
+					"gid"		"0629044CB6AFB8CF4846C8BB36878A9A"
+					"size"		"ACEB09012E15BBC45F6A4D8152AB283F"
+					"download"		"ADFD39A3E039E3C843AB390EE7166991"
+				}
+				"qa"
+				{
+					"gid"		"223E16AF99E96C8B30101DD902846441"
+					"size"		"26248F1AC246A6D1816481C65D9CE492"
+					"download"		"CD9ACECED680C15A64E85BEFF052164E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9082003"
+				"timeupdated"		"1657236582"
+			}
+			"beta"
+			{
+				"buildid"		"9082003"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657235728"
+			}
+			"livenext"
+			{
+				"buildid"		"9082003"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657234675"
+			}
+			"qa"
+			{
+				"buildid"		"21943"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
