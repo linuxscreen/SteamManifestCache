@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"2246960"
+	"common"
+	{
+		"name"		"A Shot in the Dark - Demo"
+		"type"		"Demo"
+		"parent"		"1853830"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"icon"		"b91cea501d079dd2013760bcd7d0f331fbd67811"
+		"clienttga"		"f195b72b2cc4253e5f28d87ade61a8391fe86ce0"
+		"clienticon"		"82c0860220b09ead898597e839a2f5d92ef7baed"
+		"clienticns"		"82c0860220b09ead898597e839a2f5d92ef7baed"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1679783453"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ViM Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ViM Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1670947055"
+		"community_visible_stats"		"1"
+		"gameid"		"2246960"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"demoofappid"		"1853830"
+		"developer"		"ViM Studios"
+		"publisher"		"ViM Studios"
+	}
+	"config"
+	{
+		"installdir"		"A Shot in the Dark"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AShotInTheDark.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"AShotInTheDark.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"AShotInTheDark.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"3"
+			{
+				"executable"		"AShotInTheDark-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"2246961"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"168337751890120444"
+					"size"		"4069157528"
+					"download"		"3743665888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_demo"
+				{
+					"gid"		"57F0A9DF3C0E95A0D053EB3768742451"
+					"size"		"C3D52D7DCD021101FB3A7903C81CD62E"
+					"download"		"9BC859B50E86CF42BE3AA871C3F81804"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12005557"
+				"timeupdated"		"1692725863"
+			}
+			"beta_demo"
+			{
+				"buildid"		"11862234"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691117398"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*"
+			}
+		}
+	}
+}
