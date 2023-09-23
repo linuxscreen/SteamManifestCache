@@ -1,0 +1,94 @@
+"appinfo"
+{
+	"appid"		"208010"
+	"common"
+	{
+		"name"		"Noitu Love 2 Devolution Demo"
+		"type"		"Demo"
+		"clienticon"		"2f5fbc2991ac7bfe07d1598dfd298bc3e09169fb"
+		"clienttga"		"6ee84d9aa12f003829a909248d339feba97998d6"
+		"icon"		"5adf980b8120d38ba1388e13f060b07775e7a387"
+		"freeondemand"		"1"
+		"parent"		"207530"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1335397755"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Joakim Sandberg"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Joakim Sandberg"
+			}
+		}
+		"primary_genre"		"0"
+		"steam_release_date"		"1335397620"
+		"gameid"		"208010"
+	}
+	"extended"
+	{
+		"demoofappid"		"207530"
+		"developer"		"Joakim Sandberg"
+		"gamedir"		"Noitu Love 2 Demo"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"208011"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Joakim Sandberg"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Noitu Love 2 Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"nl2demo.exe"
+			}
+			"1"
+			{
+				"description"		"Video and Mouse Configuration"
+				"executable"		"config.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"208011"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8926710900383576871"
+					"size"		"9665801"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"30051"
+			}
+		}
+	}
+}
