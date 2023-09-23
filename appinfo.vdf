@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"246540"
+	"common"
+	{
+		"name"		"Flashback Demo"
+		"section_type"		"ownersonly"
+		"type"		"Demo"
+		"parent"		"245730"
+		"releasestate"		"released"
+		"clienticon"		"4ee47d44e3ccb9fd44555d19071922c5fa7c2cb9"
+		"clienttga"		"d911326d500e8f50b040f20f1612ac54992f6adc"
+		"icon"		"b9dc24acfb5e31cc8808d91866bd26975da2224e"
+		"logo"		"d63ef0871ec78fb4f0f6d14a710b00cbe6696ffc"
+		"logo_small"		"d63ef0871ec78fb4f0f6d14a710b00cbe6696ffc_thumb"
+		"oslist"		"windows"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"246540_eula_0"
+				"name"		"Flashback Demo EULA"
+				"url"		"http://store.steampowered.com/eula/246540_eula_0"
+			}
+		}
+		"metacritic_name"		"Flashback Demo"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1380649067"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"publisher"
+				"name"		"Ubisoft"
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"34"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1380648240"
+		"gameid"		"246540"
+	}
+	"extended"
+	{
+		"demoofappid"		"245730"
+		"publisher"		"Ubisoft"
+		"homepage"		"http://www.flashback-game.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Flashback Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binaries/Win32/Flashback.exe"
+				"arguments"		"-uplay_steam_mode"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"246541"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2270482534104641667"
+					"size"		"1111785464"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,spanish,russian,japanese,dutch,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"113134"
+			}
+		}
+	}
+}
