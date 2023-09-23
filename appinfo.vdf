@@ -1,0 +1,141 @@
+"appinfo"
+{
+	"appid"		"2338440"
+	"common"
+	{
+		"name"		"Axium's Box Demo"
+		"type"		"Demo"
+		"parent"		"2273220"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"d15e9af0ee77a70d83056c0a098cf1b9d1918b79"
+		"clienttga"		"bc170d984958de8bf3a9b71626e12dfdfc2a0c31"
+		"clienticon"		"e42677e1a9efa3edb6525fbc0dc4393ff37281fa"
+		"clienticns"		"e42677e1a9efa3edb6525fbc0dc4393ff37281fa"
+		"linuxclienticon"		"e42677e1a9efa3edb6525fbc0dc4393ff37281fa"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.86593696304178"
+				"height_pct"		"51.11940298507466"
+			}
+		}
+		"store_asset_mtime"		"1677531613"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LeonHeart Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LeonHeart Studios"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1677597422"
+		"gameid"		"2338440"
+	}
+	"extended"
+	{
+		"demoofappid"		"2273220"
+		"developer"		"LeonHeart Studios"
+		"publisher"		"LeonHeart Studios"
+		"homepage"		"https://danielleonheart.wixsite.com/leon"
+	}
+	"config"
+	{
+		"installdir"		"Axium's Box Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AxiumsBox.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"V0.1"
+				}
+				"description"		"V0.1"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2338441"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"211886943541590493"
+					"size"		"5818075260"
+					"download"		"5195708208"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11014887"
+				"timeupdated"		"1681652526"
+			}
+		}
+	}
+}
