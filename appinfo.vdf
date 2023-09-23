@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"696600"
+	"common"
+	{
+		"name"		"Between Planets"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"icon"		"8004020f278433b6cff987c3d7baa5c4469e53a7"
+		"clienttga"		"dab1691b500d54282df463bdca50d11f477bf985"
+		"clienticon"		"960027a3744a1537fecf0de2da3c6a73081fc5fe"
+		"logo"		"24ac95284a97b478c21cf15baf47292bb34a8592"
+		"logo_small"		"24ac95284a97b478c21cf15baf47292bb34a8592_thumb"
+		"metacritic_name"		"Between Planets"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.737931630580405"
+				"height_pct"		"57.856325364785334"
+			}
+		}
+		"store_asset_mtime"		"1565139010"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"宇镇（个人）"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"宇镇（个人）"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1564988400"
+		"steam_release_date"		"1564871040"
+		"community_hub_visible"		"1"
+		"gameid"		"696600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"493"
+			"3"		"1662"
+			"4"		"3810"
+			"5"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"gamedir"		"Between Planets"
+		"serverbrowsername"		"Between Planets"
+		"developer"		"宇镇（个人）"
+		"publisher"		"宇镇（个人）"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Between Planets"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BetweenPlanets.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,schinese"
+		"696601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3999474473543597325"
+					"size"		"10841830693"
+					"download"		"3268424128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"AB8E241E484FAC6862D8CB192ABFB6E7"
+					"size"		"104935C804149CEC3878953F82FA55EF"
+					"download"		"B098A0AB698D3486F865AF60ED41208B"
+				}
+			}
+		}
+		"696602"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4128235"
+				"timeupdated"		"1566451065"
+			}
+			"beta"
+			{
+				"buildid"		"4185322"
+				"pwdrequired"		"1"
+				"timeupdated"		"1568181205"
+			}
+		}
+	}
+}
