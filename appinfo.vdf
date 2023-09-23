@@ -1,0 +1,355 @@
+"appinfo"
+{
+	"appid"		"2175210"
+	"common"
+	{
+		"name"		"Winter Survival: Prologue"
+		"type"		"Game"
+		"clienticon"		"d5a42846b19a42272d3bfb1bf2b6fce8b39d596a"
+		"clienttga"		"783cdedbeb765e7c72a234e5e34c687aac018a31"
+		"icon"		"654587cfdee75645bdacabdd354b1fcff79ab0d0"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"冬日幸存者：序章"
+			"tchinese"		"冬日倖存者：序章"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1683072000"
+			"tested_build_id"		"10619470"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.69565217391305"
+				"height_pct"		"95.97482783186891"
+			}
+		}
+		"store_asset_mtime"		"1682522946"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DRAGO entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DRAGO entertainment"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"HeartBeat Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"DRAGO entertainment"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1676483545"
+		"community_hub_visible"		"1"
+		"gameid"		"2175210"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"1100689"
+			"2"		"1695"
+			"3"		"4182"
+			"4"		"3834"
+			"5"		"4166"
+			"6"		"3839"
+			"7"		"21"
+			"8"		"4106"
+			"9"		"1702"
+			"10"		"3810"
+			"11"		"599"
+			"12"		"5900"
+			"13"		"3978"
+			"14"		"19"
+			"15"		"9564"
+			"16"		"3920"
+			"17"		"1742"
+			"18"		"1687"
+			"19"		"4175"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"DRAGO entertainment"
+		"publisher"		"DRAGO entertainment"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Winter Survival Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WSS.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"WSS.exe"
+				"arguments"		"-d3d11"
+				"type"		"option1"
+				"description_loc"
+				{
+					"english"		"Winter Survival : Prologue (DX11 Mode)"
+				}
+				"description"		"Winter Survival : Prologue (DX11 Mode)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2175211"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7821460691128584164"
+					"size"		"11024041434"
+					"download"		"3780205296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-branch"
+				{
+					"gid"		"79778E798AEA94CFBD34532B83F99F7F"
+					"size"		"2F58FE459237897A658CD1E9BDED5803"
+					"download"		"F42B069FC97A816CB614505B725B95B3"
+				}
+				"dev-branch-next"
+				{
+					"gid"		"BFE35441DA5EFD492D36BF0B1B3576E5"
+					"size"		"CF5B5E0557EF197891D99E0A8CA4D633"
+					"download"		"DEFDAB15108A946C1975EE50E7447837"
+				}
+				"partner"
+				{
+					"gid"		"E805190CF07952025949BD2D6A65515A"
+					"size"		"18C5C932E5FB1A102E10E99A2D5530B4"
+					"download"		"32F370887AC8631CA9B3F86C72216E0F"
+				}
+				"partner-shipping"
+				{
+					"gid"		"7D80FE23C067BBC9B231932339F406E6"
+					"size"		"53B7512E7911382202C53ECC4839D670"
+					"download"		"1F956825411C6EDD9F434A9ED6B4C440"
+				}
+				"shipping-branch"
+				{
+					"gid"		"BC8F71F91868656599621C86D448BA5D"
+					"size"		"ACDD2B3618E6ED94026ABEFEC7286CC2"
+					"download"		"2D41EF6384EE8B95E958223846597453"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10619470"
+				"timeupdated"		"1677257893"
+			}
+			"dev-branch"
+			{
+				"buildid"		"10547535"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676370379"
+			}
+			"dev-branch-next"
+			{
+				"buildid"		"10566765"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676630503"
+			}
+			"partner"
+			{
+				"buildid"		"10547535"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676407838"
+			}
+			"partner-shipping"
+			{
+				"buildid"		"10547446"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676407828"
+			}
+			"shipping-branch"
+			{
+				"buildid"		"10619470"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677151627"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"WSS/Saved/SaveGames/Prologue/"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
