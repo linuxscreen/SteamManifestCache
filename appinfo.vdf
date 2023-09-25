@@ -162,12 +162,19 @@
 			"2476356657"
 			{
 				"controller_type"		"controller_mobile_touch"
-				"enabled_branches"		"default,beta"
+				"enabled_branches"		"default,beta,v0.42"
+				"use_action_block"		"false"
+			}
+			"3038309628"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,beta,v0.42"
 				"use_action_block"		"false"
 			}
 		}
 		"steamconfigurator3rdpartynative"		"65535"
 		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
 	}
 	"depots"
 	{
@@ -184,15 +191,21 @@
 			{
 				"public"
 				{
-					"gid"		"6672077833690273418"
-					"size"		"768759329"
-					"download"		"371491904"
+					"gid"		"921091035732216064"
+					"size"		"1005399768"
+					"download"		"533094032"
 				}
 				"beta"
 				{
-					"gid"		"6672077833690273418"
-					"size"		"768759329"
-					"download"		"371491904"
+					"gid"		"921091035732216064"
+					"size"		"1005399768"
+					"download"		"533094032"
+				}
+				"v0.42"
+				{
+					"gid"		"7257855086902690177"
+					"size"		"794693876"
+					"download"		"377397184"
 				}
 			}
 		}
@@ -200,14 +213,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12260418"
-				"timeupdated"		"1695414932"
+				"buildid"		"12270378"
+				"timeupdated"		"1695603767"
 			}
 			"beta"
 			{
-				"buildid"		"12260418"
+				"buildid"		"12270378"
 				"description"		"Playtest Branch"
-				"timeupdated"		"1695413999"
+				"timeupdated"		"1695603737"
+			}
+			"v0.42"
+			{
+				"buildid"		"7631688"
+				"description"		"Previous Version"
+				"timeupdated"		"1695493240"
 			}
 		}
 	}
