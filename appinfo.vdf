@@ -142,10 +142,10 @@
 			"11"		"4195"
 			"12"		"1669"
 			"13"		"4182"
-			"14"		"5350"
-			"15"		"4562"
-			"16"		"1663"
-			"17"		"6650"
+			"14"		"4562"
+			"15"		"5350"
+			"16"		"6650"
+			"17"		"1663"
 			"18"		"4136"
 			"19"		"1667"
 		}
@@ -219,9 +219,15 @@
 			{
 				"public"
 				{
-					"gid"		"1090052586416865630"
-					"size"		"614997425"
-					"download"		"315443600"
+					"gid"		"1423970907608391075"
+					"size"		"615004812"
+					"download"		"315446224"
+				}
+				"test_branch"
+				{
+					"gid"		"1423970907608391075"
+					"size"		"615004812"
+					"download"		"315446224"
 				}
 			}
 		}
@@ -229,8 +235,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12259598"
-				"timeupdated"		"1695406598"
+				"buildid"		"12273253"
+				"timeupdated"		"1695635317"
+			}
+			"test_branch"
+			{
+				"buildid"		"12273253"
+				"description"		"test branch for laterst update"
+				"timeupdated"		"1695635179"
 			}
 		}
 	}
@@ -252,6 +264,13 @@
 				"path"		""
 				"pattern"		"ChatGPTSetting.json"
 			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"Saves"
+				"pattern"		"*.lps"
+				"recursive"		"1"
+			}
 		}
 	}
 	"localization"
@@ -262,10 +281,10 @@
 			{
 				"tokens"
 				{
-					"#status_idle"		"%username%在%mode%闲逛"
-					"#status_music"		"%username%在%mode%跳舞"
-					"#status_sleep"		"%username%在%mode%睡大觉"
-					"#status_work"		"%username%在%mode%%work%"
+					"#status_idle"		"%username%在%mode%%idel%%lv%"
+					"#status_music"		"%username%在%mode%跳舞%lv%"
+					"#status_sleep"		"%username%在%mode%睡大觉%lv%"
+					"#status_work"		"%username%在%mode%%work%%lv%"
 					"#status_diy"		"%DIY%"
 					"#status_ill"		"%username% 生病了"
 				}
@@ -274,10 +293,10 @@
 			{
 				"tokens"
 				{
-					"#status_idle"		"%username%在%mode%閒逛"
-					"#status_music"		"%username%在%mode%跳舞"
-					"#status_sleep"		"%username%在%mode%睡大覺"
-					"#status_work"		"%username%在%mode%%work%"
+					"#status_idle"		"%username%在%mode%%idel%%lv%"
+					"#status_music"		"%username%在%mode%跳舞%lv%"
+					"#status_sleep"		"%username%在%mode%睡大覺%lv%"
+					"#status_work"		"%username%在%mode%%work%%lv%"
 					"#status_diy"		"%DIY%"
 					"#status_ill"		"%username% 生病了"
 				}
@@ -286,10 +305,10 @@
 			{
 				"tokens"
 				{
-					"#status_idle"		"%username% is %mode% idle"
-					"#status_music"		"%username% dancing %mode%"
-					"#status_sleep"		"%username% Sleep %mode%"
-					"#status_work"		"%username% %work% %mode%"
+					"#status_idle"		"%username% is %mode% %idel%%lv%"
+					"#status_music"		"%username% dancing %mode%%lv%"
+					"#status_sleep"		"%username% Sleep %mode%%lv%"
+					"#status_work"		"%username% %work% %mode%%lv%"
 					"#status_diy"		"%DIY%"
 					"#status_ill"		"%username% is sick"
 				}
