@@ -1,0 +1,68 @@
+"appinfo"
+{
+	"appid"		"2619700"
+	"common"
+	{
+		"name"		"ACROBATIC CAR - Level Editor"
+		"type"		"Tool"
+		"parent"		"1602330"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"3ea3f4f79c2ba88333faed1aed68bc8984978e36"
+		"clienttga"		"f7b990ae3417f5b6b95d280b4088a337e3ad7bc7"
+		"clienticon"		"a0beb8d9a0aedbb27d57a052698cccbeeb1f3663"
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"2619700"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Level Editor"
+		"uselaunchcommandline"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Level_Editor.exe"
+				"type"		"default"
+				"description_loc"
+				{
+					"english"		"level editor for ACROBATIC CAR"
+				}
+				"description"		"level editor for ACROBATIC CAR"
+			}
+		}
+	}
+	"depots"
+	{
+		"2619701"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"373420603394258567"
+					"size"		"7779162"
+					"download"		"3809936"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12267985"
+				"timeupdated"		"1695557814"
+			}
+		}
+	}
+}
