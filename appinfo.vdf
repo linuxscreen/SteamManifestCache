@@ -17,9 +17,9 @@
 			"tchinese"		"1"
 			"japanese"		"1"
 		}
-		"clienticon"		"0c566a68503c51f6538469df5444e75ad2d5df10"
-		"clienttga"		"b5ae4f4513d11c03b97a3438ed09ef2c5580efde"
-		"icon"		"987b1449cec81ce59ca0a5773c7b04c829411e30"
+		"clienticon"		"2d7bb49209e5ee62a67411f0bd0d247662e32ed2"
+		"clienttga"		"2f8d1412c144f3fe07207238366827282d13dba0"
+		"icon"		"7d8fe7673360d33a53a7194867f7fdc749265b26"
 		"name_localized"
 		{
 			"japanese"		"機動戦士ガンダム　バトルオペレーション２"
@@ -84,11 +84,11 @@
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
-				"width_pct"		"50"
-				"height_pct"		"50"
+				"width_pct"		"62.06201094690229"
+				"height_pct"		"41.52953098893127"
 			}
 		}
-		"store_asset_mtime"		"1685488650"
+		"store_asset_mtime"		"1695854858"
 		"associations"
 		{
 			"0"
@@ -194,7 +194,7 @@
 		"publisher"		"Bandai Namco Entertainment Inc."
 		"homepage"		"https://p-bo2.ggame.jp/en/"
 		"isfreeapp"		"1"
-		"listofdlc"		"2261981,2261982,2261983"
+		"listofdlc"		"2261981,2261982,2261983,2564280"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -224,7 +224,7 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"dev-debug,qa-debug,compat,matching-test,master-dev-patch56,master-dev-patch57,aws_env_test,gmoport_env_test,master-dev-patch59,network_test_check,network_test_check2,master-dev-patch61,master-dev-patch63,master-dev-patch64,master-dev-patch65,master-dev-patch66,master-dev-patch67,master-dev-patch68,master-dev-patch69,debug_p70,obt_p64_patch,branchuploadtest,test_j"
+					"betakey"		"dev-debug,qa-debug,compat,matching-test,master-dev-patch56,master-dev-patch57,aws_env_test,gmoport_env_test,master-dev-patch59,network_test_check,network_test_check2,master-dev-patch61,master-dev-patch63,master-dev-patch64,master-dev-patch65,master-dev-patch66,master-dev-patch67,master-dev-patch68,master-dev-patch69,debug_p70,debug_p71,obt_p64_patch,branchuploadtest,test_j"
 				}
 				"description_loc"
 				{
@@ -240,7 +240,7 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"dev-debug,qa-debug,compat,press,matching-test,master-dev-patch56,ishikawa_test,master-dev-patch57,aws_env_test,gmoport_env_test,master-dev-patch59,network_test_check,network_test_check2,master-dev-patch61,master-dev-patch63,master-dev-patch64,master-dev-patch65,master-dev-patch66,master-dev-patch67,master-dev-patch68,master-dev-patch69,debug_p70,obt_p64_patch,branchuploadtest"
+					"betakey"		"dev-debug,qa-debug,compat,press,matching-test,master-dev-patch56,ishikawa_test,master-dev-patch57,aws_env_test,gmoport_env_test,master-dev-patch59,network_test_check,network_test_check2,master-dev-patch61,master-dev-patch63,master-dev-patch64,master-dev-patch65,master-dev-patch66,master-dev-patch67,master-dev-patch68,master-dev-patch69,debug_p70,debug_p71,obt_p64_patch,branchuploadtest"
 				}
 				"description_loc"
 				{
@@ -289,7 +289,7 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"master-release-patch69,release_p70,branchuploadtest"
+					"betakey"		"master-release-patch69,release_p70,release_p71,branchuploadtest"
 				}
 				"description_loc"
 				{
@@ -306,7 +306,7 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"master-release-patch69,release_p70,branchuploadtest"
+					"betakey"		"master-release-patch69,release_p70,release_p71,branchuploadtest"
 				}
 				"description_loc"
 				{
@@ -397,18 +397,24 @@
 			{
 				"public"
 				{
-					"gid"		"1034751202466590493"
-					"size"		"49784901327"
-					"download"		"19333375040"
+					"gid"		"5232589051528475091"
+					"size"		"50459504398"
+					"download"		"19548046032"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"debug_p70"
 				{
-					"gid"		"8EA31C12916D5498E0BE32B741701AB5"
-					"size"		"D0B75729806215E9070F082A27AC26A9"
-					"download"		"E795B8D13458CD12D215017F74DD11F8"
+					"gid"		"13A925FBDB5C0AEE42F039DD08A0E15F"
+					"size"		"FD07148315CC717325B4089464A32466"
+					"download"		"22DB8332AC07E0E314FCB4F88220D225"
+				}
+				"debug_p71"
+				{
+					"gid"		"CFE69EBD05499025875291BD9FD8125A"
+					"size"		"2FD50EFD64B996F4C2F87E97E00DBE7D"
+					"download"		"F758C97DB7EBAFD672575E1B32259165"
 				}
 				"dev-debug"
 				{
@@ -502,21 +508,33 @@
 				}
 				"prd_p70"
 				{
-					"gid"		"99966E0A2F12484F49F4F8E1045D7C9F"
-					"size"		"E450CDD27BDCB5CBD324BA423758A330"
-					"download"		"B4B44C27F94A9A2F580A217C5B861E71"
+					"gid"		"9D7928F18E9146CFDC3DD2DB31D48FBB"
+					"size"		"39C5321C5C49CEFD823EE8D3F161A041"
+					"download"		"DEE8D88667918A0C4E26D786BAB4A159"
+				}
+				"prd_p71"
+				{
+					"gid"		"F73A89F4BBA39E20F342ABB49A096CF2"
+					"size"		"033E32EA3172918F24DA4392B0A8EABD"
+					"download"		"3A324365A12F9A8B816D09D2C2D0F575"
 				}
 				"release_p70"
 				{
-					"gid"		"62F6E9C4996DB6A34077B8176E9687FB"
-					"size"		"77DD56CDB3F95853ABF2937D884C11A7"
-					"download"		"4AE3F4F2C2710825466495EB83C76418"
+					"gid"		"1926C8020B4AE793730FBF8012F70F9C"
+					"size"		"76DB88EFF3500E4E81155C1BD280D76D"
+					"download"		"68CCB1C5BB2D6CBE91DF3EF1BC47D61F"
+				}
+				"release_p71"
+				{
+					"gid"		"1A806E35EACD448C88FEFFA7EC3A2CE3"
+					"size"		"A3F95469D476A2AE0E0B776481AFA482"
+					"download"		"302F712831F6E221A604CD3F83F9F10F"
 				}
 				"release_prd_log"
 				{
-					"gid"		"47FEBF184452CEC3B7F71678903A52E5"
-					"size"		"DB5DDC823AEBE776E2FB3F0380D741B8"
-					"download"		"1E5B513E0F6790E73C16AD44CA6FAD9B"
+					"gid"		"28A6DB4C7AA7C92D8A3E3A0625128FDD"
+					"size"		"E9EBB3F1AD8A3119B85E497DF0BB84C1"
+					"download"		"10A7B0960320C47B6EB4630C36A25253"
 				}
 				"test_j"
 				{
@@ -530,14 +548,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12000959"
-				"timeupdated"		"1692856036"
+				"buildid"		"12286428"
+				"timeupdated"		"1695879908"
 			}
 			"debug_p70"
 			{
-				"buildid"		"12180417"
+				"buildid"		"12285105"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694659823"
+				"timeupdated"		"1695729571"
+			}
+			"debug_p71"
+			{
+				"buildid"		"12298636"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695866089"
 			}
 			"dev-debug"
 			{
@@ -631,21 +655,33 @@
 			}
 			"prd_p70"
 			{
-				"buildid"		"12185105"
+				"buildid"		"12286428"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694670133"
+				"timeupdated"		"1695777956"
+			}
+			"prd_p71"
+			{
+				"buildid"		"12299266"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695866136"
 			}
 			"release_p70"
 			{
-				"buildid"		"12185164"
+				"buildid"		"12286524"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694670115"
+				"timeupdated"		"1695777968"
+			}
+			"release_p71"
+			{
+				"buildid"		"12299290"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695866204"
 			}
 			"release_prd_log"
 			{
-				"buildid"		"12163429"
+				"buildid"		"12002154"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694493295"
+				"timeupdated"		"1695281277"
 			}
 			"test_j"
 			{
