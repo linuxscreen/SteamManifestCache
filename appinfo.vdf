@@ -6,9 +6,9 @@
 		"name"		"IfSunSets Demo"
 		"type"		"Demo"
 		"parent"		"2271930"
-		"icon"		"dacfa9c7acd83e46d0babdd65427b48f043df295"
-		"clienttga"		"f79d73d4e7ad1d26baec2cdf99951e150b076edd"
-		"clienticon"		"29f753765eabe7b2dd003f5ae432946aa2b47d9a"
+		"icon"		"c521cc93e5f50b6353e22e5caa2db95f0e93242f"
+		"clienttga"		"2b15684b04dc000f4f7b1302cc934cf02c576f2c"
+		"clienticon"		"2e480b6e1a6ed21311c5cb9bbd6566f60f83ef35"
 		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
@@ -60,6 +60,11 @@
 				"full_audio"		"true"
 				"subtitles"		"true"
 			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1686991070"
 		"gameid"		"2407360"
@@ -105,9 +110,18 @@
 			{
 				"public"
 				{
-					"gid"		"2144235757671381799"
-					"size"		"16325531033"
-					"download"		"16003041248"
+					"gid"		"7171978745048893336"
+					"size"		"19470725442"
+					"download"		"18821347856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo_ver2"
+				{
+					"gid"		"72BAD838F73639B5028E8AAC421B4074"
+					"size"		"58E8DFDE9B215CB23AD9396E576E3770"
+					"download"		"9EA5138F1F1F4C82438C0C74C8EA72C6"
 				}
 			}
 		}
@@ -115,8 +129,14 @@
 		{
 			"public"
 			{
-				"buildid"		"11505073"
-				"timeupdated"		"1687173952"
+				"buildid"		"12295952"
+				"timeupdated"		"1695816032"
+			}
+			"demo_ver2"
+			{
+				"buildid"		"12295952"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695816735"
 			}
 		}
 	}
