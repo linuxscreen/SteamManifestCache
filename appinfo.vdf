@@ -3,9 +3,9 @@
 	"appid"		"730"
 	"common"
 	{
-		"clienticon"		"d1159d1a4d0e18da4d74f85dbb4934d7a92ace2b"
-		"clienttga"		"e5712521f56feb63b46b67caa05fcd9eccd9e9b0"
-		"name"		"Counter-Strike: Global Offensive"
+		"clienticon"		"324b323045b09bace182f928f4104dfcd93cb7f3"
+		"clienttga"		"c52076783b94290949b1ab5ac44a84c036c4c313"
+		"name"		"Counter-Strike 2"
 		"languages"
 		{
 			"english"		"1"
@@ -39,15 +39,15 @@
 		}
 		"logo"		"d0595ff02f5c79fd19b06f4d6165c3fda2372820"
 		"logo_small"		"d0595ff02f5c79fd19b06f4d6165c3fda2372820_thumb"
-		"icon"		"69f7ebe2735c366c65c0b33dae00e12dc40edbe4"
+		"icon"		"8dbc71957312bbd3baea65848b545be9eae2a355"
 		"metacritic_url"		""
 		"clienticns"		"a42c6010effb3f108ae59f1b08843d08386e6b2a"
-		"oslist"		"windows,macos,linux"
+		"oslist"		"windows,linux"
 		"type"		"Game"
 		"linuxclienticon"		"ff52d4cc462d49c0297b9bc0558b4ef4c3bdd9ae"
 		"exfgls"		"1"
 		"osarch"		""
-		"osextended"		"macos64"
+		"osextended"		""
 		"steamchinaapproved"		"1"
 		"name_localized"
 		{
@@ -105,7 +105,7 @@
 			}
 		}
 		"market_presence"		"1"
-		"metacritic_name"		"Counter-Strike: Global Offensive"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -119,17 +119,17 @@
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en,zh-xc"
+			"library_capsule"		"en,zh-cn"
 			"library_hero"		"en,zh-xc"
 			"library_logo"		"en"
 			"logo_position"
 			{
-				"pinned_position"		"BottomCenter"
-				"width_pct"		"49"
-				"height_pct"		"27"
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.04131049949528"
+				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1683566770"
+		"store_asset_mtime"		"1695853121"
 		"associations"
 		{
 			"0"
@@ -138,11 +138,6 @@
 				"name"		"Valve"
 			}
 			"1"
-			{
-				"type"		"developer"
-				"name"		"Hidden Path Entertainment"
-			}
-			"2"
 			{
 				"type"		"publisher"
 				"name"		"Valve"
@@ -157,7 +152,6 @@
 		"category"
 		{
 			"category_1"		"1"
-			"category_22"		"1"
 			"category_15"		"1"
 			"category_8"		"1"
 			"category_29"		"1"
@@ -170,6 +164,12 @@
 			"category_46"		"1"
 			"category_41"		"1"
 			"category_42"		"1"
+			"category_27"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_59"		"1"
 		}
 		"supported_languages"
 		{
@@ -286,10 +286,12 @@
 			{
 				"supported"		"true"
 			}
+			"indonesian"
+			{
+				"supported"		"true"
+			}
 		}
 		"steam_release_date"		"1345568400"
-		"metacritic_score"		"83"
-		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/counter-strike-global-offensive?ftag=MCD-06-10aaa1f"
 		"community_visible_stats"		"1"
 		"workshop_visible"		"1"
 		"community_hub_visible"		"1"
@@ -324,16 +326,16 @@
 	{
 		"developer"		"Valve"
 		"gamedir"		"csgo"
-		"homepage"		"http://blog.counter-strike.net/"
+		"homepage"		"http://counter-strike.net/"
 		"icon"		""
 		"languages_macos"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,brazilian,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,bulgarian,ukrainian"
 		"loadallbeforelaunch"		"1"
-		"minclientversion"		"1678777200"
-		"minclientversion_pw_csgo"		"1678777200"
+		"minclientversion"		"1694466342"
+		"minclientversion_pw_csgo"		"1694466342"
 		"noservers"		"0"
 		"primarycache"		"731"
 		"primarycache_macos"		"733"
-		"serverbrowsername"		"Counter-Strike: Global Offensive"
+		"serverbrowsername"		"Counter-Strike 2"
 		"state"		"eStateAvailable"
 		"vacmacmodulecache"		"160"
 		"vacmodulecache"		"202"
@@ -354,67 +356,68 @@
 		{
 			"0"
 			{
-				"executable"		"csgo.exe"
-				"vacmodulefilename"		"resource\\sourceinit.dat"
+				"executable"		"game\\bin\\win64\\cs2.exe"
 				"arguments"		"-steam"
 				"config"
 				{
 					"oslist"		"windows"
+					"realm"		"steamglobal"
 				}
 			}
 			"1"
 			{
-				"executable"		"csgo.sh"
-				"vacmodulefilename"		"resource\\sourceinit_macos.dat"
+				"executable"		"game/cs2.sh"
 				"arguments"		"-steam"
-				"config"
-				{
-					"oslist"		"macos"
-				}
-			}
-			"2"
-			{
-				"executable"		"csgo.sh"
-				"arguments"		"-steam"
-				"description"		"Launch"
 				"config"
 				{
 					"oslist"		"linux"
+					"realm"		"steamglobal"
 				}
+				"compat_tool"		"SteamLinuxRuntime_sniper"
 			}
-			"3"
+			"2"
 			{
-				"executable"		"game\\bin\\win64\\cs2.exe"
+				"executable"		"csgo.exe"
 				"arguments"		"-steam"
 				"type"		"option1"
 				"config"
 				{
 					"oslist"		"windows"
-					"ownsdlc"		"2279720"
+					"betakey"		"demo_viewer"
 					"realm"		"steamglobal"
 				}
 				"description_loc"
 				{
-					"english"		"Counter-Strike 2 (Limited Test)"
+					"english"		"Counter-Strike: Global Offensive (Demo Viewer, 2013)"
 				}
-				"description"		"Counter-Strike 2 (Limited Test)"
+				"description"		"Counter-Strike: Global Offensive (Demo Viewer, 2013)"
 			}
-			"4"
+			"3"
 			{
-				"executable"		"game/cs2.sh"
+				"executable"		"csgo.exe"
 				"arguments"		"-steam"
 				"type"		"option1"
 				"config"
 				{
-					"oslist"		"macos"
-					"ownsdlc"		"741"
+					"oslist"		"windows"
+					"betakey"		"csgo_demo_viewer"
 					"realm"		"steamglobal"
 				}
 				"description_loc"
 				{
-					"english"		"Counter-Strike 2 (Limited Test)"
+					"english"		"Counter-Strike: Global Offensive (Demo Viewer, 2023)"
 				}
-				"description"		"Counter-Strike 2 (Limited Test)"
+				"description"		"Counter-Strike: Global Offensive (Demo Viewer, 2023)"
+			}
+			"4"
+			{
+				"executable"		"game\\bin\\win64\\cs2.exe"
+				"arguments"		"-steam -perfectworld"
+				"config"
+				{
+					"oslist"		"windows"
+					"realm"		"steamchina"
+				}
 			}
 			"5"
 			{
@@ -423,7 +426,7 @@
 				"type"		"option1"
 				"config"
 				{
-					"oslist"		"linux"
+					"oslist"		"macos"
 					"ownsdlc"		"741"
 					"realm"		"steamglobal"
 				}
@@ -458,7 +461,7 @@
 		"installscriptoverride"		"1"
 		"verifyupdates"		"0"
 		"usesfrenemies"		"no"
-		"steamcontrollertemplateindex"		"13"
+		"steamcontrollertemplateindex"		"6"
 		"signaturescheckedonlaunch"
 		{
 			"windows"
@@ -478,24 +481,14 @@
 		"gameoverlay_testmode"		"1"
 		"enable_duration_control"		"1"
 		"duration_control_show_interstitial"		"0"
-		"steamcontrollertouchtemplateindex"		"1"
-		"steamcontrollertouchconfigdetails"
-		{
-			"2131738518"
-			{
-				"controller_type"		"controller_mobile_touch"
-				"enabled_branches"		"default"
-				"use_action_block"		"false"
-			}
-		}
 		"steam_china_only"
 		{
 			"steam_china_enable_duration_control"		"1"
 			"steam_china_duration_control_show_interstitial"		"0"
 		}
 		"uselaunchcommandline"		"1"
-		"steaminputmanifestpath"		"csgo\\cfg\\controller_config\\steam_input_manifest.vdf"
 		"steamconfigurator3rdpartynative"		"65535"
+		"steamdecktouchscreen"		"1"
 		"cegpublickey"		"30819D300D06092A864886F70D010101050003818B0030818702818100A2E1BC73B8542963E95838CFD770CE44881742E9B49D951A54AEBE7345BDFCB19F08B63B9CF84A60FF0DAE381A9455C4D54902EB68831BA4D34C1A9A97000AB8C1782A4A2B48898430BD62CCEAD799207BBA2D19673133C920896318F58AA5626E5615F5CDE8C170855977837D474AAF4EF116D68CDE1004A9022BE6708EE913020111"
 		"checkguid"		"client.dll"
 	}
@@ -531,8 +524,8 @@
 			}
 			"public"
 			{
-				"buildid"		"12203598"
-				"timeupdated"		"1694822299"
+				"buildid"		"12299470"
+				"timeupdated"		"1695847196"
 			}
 			"1.21.3.1"
 			{
@@ -552,15 +545,15 @@
 			}
 			"dpr"
 			{
-				"buildid"		"12203598"
+				"buildid"		"12299470"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694821689"
+				"timeupdated"		"1695847084"
 			}
 			"dprp"
 			{
-				"buildid"		"12292379"
+				"buildid"		"12299470"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695793588"
+				"timeupdated"		"1695847066"
 			}
 		}
 		"228988"
@@ -592,9 +585,9 @@
 			{
 				"public"
 				{
-					"gid"		"2224497558453288476"
-					"size"		"363646638"
-					"download"		"254439680"
+					"gid"		"80842852993180241"
+					"size"		"7"
+					"download"		"64"
 				}
 				"csgo_demo_viewer"
 				{
@@ -619,13 +612,13 @@
 				}
 				"dpr"
 				{
-					"gid"		"E948C6E8AE96D308C0F2E3C795CAD365"
-					"size"		"942F85F3D4BEBAE636266C88984B54C4"
-					"download"		"CC6C937AC748A6B64C0135E335F3D2B4"
+					"gid"		"7C53C5E14F00CEB0B45FD2A62C645EA4"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"FC37713281A034CF1ABF6B176D8B0B7F"
+					"gid"		"9AC7FB49CD9748C32210D12845F09D73"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -642,9 +635,9 @@
 			{
 				"public"
 				{
-					"gid"		"7173575548168592307"
-					"size"		"276601455"
-					"download"		"73844224"
+					"gid"		"5365697764311792209"
+					"size"		"7"
+					"download"		"64"
 				}
 				"csgo_demo_viewer"
 				{
@@ -669,13 +662,13 @@
 				}
 				"dpr"
 				{
-					"gid"		"2DE16C80314DCD4E72957AB49A3230CD"
-					"size"		"37F8E8437CAC13F6349DD21D77A0446D"
-					"download"		"907290740D93868D5243B616A47558B4"
+					"gid"		"B99279C0280A2C24A7903101193748FB"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"8C3D47E6076E8A68E6C4C6651E536EFB"
+					"gid"		"D3F218AF202658B48AAD3D09344DBDCD"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -688,9 +681,9 @@
 			{
 				"public"
 				{
-					"gid"		"718406683749122620"
-					"size"		"32720383227"
-					"download"		"13643659808"
+					"gid"		"1426765997144691132"
+					"size"		"7"
+					"download"		"64"
 				}
 				"csgo_demo_viewer"
 				{
@@ -715,13 +708,13 @@
 				}
 				"dpr"
 				{
-					"gid"		"47D1292BE1975FAF284D5D936D41EFC7"
-					"size"		"521929CCFC1F1BDCE8A21F85E930A45C"
-					"download"		"70D510E7AD081D72ADDD8ED0B732DDF0"
+					"gid"		"7C490493077ECACBCBFF1F638C634769"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"D974DA71D6F54657CD391373E967CA09"
+					"gid"		"1A0A3D2E20D8910DA057E640E1C8758D"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -737,9 +730,9 @@
 			{
 				"public"
 				{
-					"gid"		"3106517550092294329"
-					"size"		"434699006"
-					"download"		"114335440"
+					"gid"		"5517407730715373428"
+					"size"		"7"
+					"download"		"64"
 				}
 				"csgo_demo_viewer"
 				{
@@ -758,13 +751,13 @@
 				}
 				"dpr"
 				{
-					"gid"		"10B88633AF88B6C93451B0F8C80FBA00"
-					"size"		"770CB457BCC0F7A61330C27DB5C01BC6"
-					"download"		"61F1C0CFC0411C6EADB205ED256C1162"
+					"gid"		"AB1B378BCC2DA53D25AA08706FB45B01"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"1AB01B1E489BF34A78CD60680BC14841"
+					"gid"		"A79A7964DFA7DE85E181DDD0AA09F8D5"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -776,9 +769,9 @@
 			{
 				"public"
 				{
-					"gid"		"3867231304834558645"
-					"size"		"0"
-					"download"		"0"
+					"gid"		"9126839779885101296"
+					"size"		"7"
+					"download"		"64"
 				}
 				"csgo_demo_viewer"
 				{
@@ -791,13 +784,13 @@
 			{
 				"dpr"
 				{
-					"gid"		"D59F6949A6580ECCE180A36F40654EA9"
-					"size"		"D2B961AC1C3AC602A2B9C9C22B8EFC8A"
-					"download"		"D2B961AC1C3AC602A2B9C9C22B8EFC8A"
+					"gid"		"B07721E32BBFD7891B7D495BF32D77C7"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"1F1B602771A60647A29D114AEFE7343A"
+					"gid"		"FCE08E1F5316179B3AF45973699419FB"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -809,9 +802,9 @@
 			{
 				"public"
 				{
-					"gid"		"1949918900514112752"
-					"size"		"0"
-					"download"		"0"
+					"gid"		"4015479693301011259"
+					"size"		"7"
+					"download"		"64"
 				}
 				"csgo_demo_viewer"
 				{
@@ -824,13 +817,13 @@
 			{
 				"dpr"
 				{
-					"gid"		"49C5768C53C3F802FEA9DC0169B40998"
-					"size"		"D2B961AC1C3AC602A2B9C9C22B8EFC8A"
-					"download"		"D2B961AC1C3AC602A2B9C9C22B8EFC8A"
+					"gid"		"36263A278FA8DEDFCEF5B0CCC15644CD"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"22A6A6B7D379E00A9DD6119512166716"
+					"gid"		"8B032C4B9C58F57EA9FFCF391449D775"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -842,9 +835,9 @@
 			{
 				"public"
 				{
-					"gid"		"8959772282070246004"
-					"size"		"417072383"
-					"download"		"143962432"
+					"gid"		"5969522990051904343"
+					"size"		"7"
+					"download"		"64"
 				}
 				"csgo_demo_viewer"
 				{
@@ -857,13 +850,13 @@
 			{
 				"dpr"
 				{
-					"gid"		"A0C189D5B02732EC9F6F221A4A99D06E"
-					"size"		"DECE9DE24FA66793B95F75A5FDF4C26E"
-					"download"		"90FDD84D8B26D7B8571158F3D513E1B3"
+					"gid"		"1C27396D9E68F7D9B7077032892BA1E4"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"3F13DE2548486B8BBAFCFD38C88E6BD4"
+					"gid"		"A744223C9BC549F2A7EF66580E253474"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -875,9 +868,9 @@
 			{
 				"public"
 				{
-					"gid"		"313951540668567317"
-					"size"		"920601806"
-					"download"		"741168448"
+					"gid"		"3406333105763347055"
+					"size"		"7"
+					"download"		"64"
 				}
 				"csgo_demo_viewer"
 				{
@@ -890,13 +883,13 @@
 			{
 				"dpr"
 				{
-					"gid"		"3538A869EED60C3F9F2F90CD2B0F49DD"
-					"size"		"547C20984613BB46E9052A876F2B5965"
-					"download"		"BFD75E886E0735795FD2522161C3623A"
+					"gid"		"5647C3DB1A146F3D5AA5958C81444EA1"
+					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
+					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"8FBF45D66485162FE9938D865F87EACB"
+					"gid"		"608757A91BFC5BDC07D4B4559F4E9BA7"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -908,30 +901,24 @@
 			{
 				"public"
 				{
-					"gid"		"7394304315934590367"
-					"size"		"33463119373"
-					"download"		"27609550288"
-				}
-				"csgo_demo_viewer"
-				{
-					"gid"		"7394304315934590367"
-					"size"		"33463119373"
-					"download"		"27609550288"
+					"gid"		"4805760862032162118"
+					"size"		"34405068613"
+					"download"		"28452567568"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dpr"
 				{
-					"gid"		"B1C3FD80A9DC98FC9264697B45A2B917"
-					"size"		"21367EE9D6F1EAFE67BF945D0FB3415E"
-					"download"		"5235639A44C6BD2CFC045AB360B4D033"
+					"gid"		"8F8CBB5DB87A530E558EA957570DB6A6"
+					"size"		"06403CE32FA802869C8ECAFB8B68EFE0"
+					"download"		"AA6D2CBA6DCD0DAB51C6D1E60E746CFA"
 				}
 				"dprp"
 				{
-					"gid"		"69A87CC67219A5E889AD9A25186CF22E"
-					"size"		"2918574F0BCC6826B0BEF5F4DB760619"
-					"download"		"A3573F80DC4FF88DF289563AE6F6F54A"
+					"gid"		"9D5A9AFC3F69D6666D328D9A53D205E9"
+					"size"		"F4D0FF2EF077F452706BD81948EBAE8A"
+					"download"		"E2C3048F2D495A987C190495B83CFBF2"
 				}
 			}
 		}
@@ -945,30 +932,24 @@
 			{
 				"public"
 				{
-					"gid"		"3031085382770375306"
-					"size"		"624062179"
-					"download"		"333250688"
-				}
-				"csgo_demo_viewer"
-				{
-					"gid"		"3031085382770375306"
-					"size"		"624062179"
-					"download"		"333250688"
+					"gid"		"7725996696657716079"
+					"size"		"640833559"
+					"download"		"346610512"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dpr"
 				{
-					"gid"		"873FBD3801E2FC08AB56A690475F3F8B"
-					"size"		"7A82A5B6E169620328AE6E3CF68AD9BB"
-					"download"		"B5F8A89C8247E30EC0B522E309AAF7FD"
+					"gid"		"827E3A2273876441FC61807BEB7AE16B"
+					"size"		"81A737FE66ED162680D91A6B38EA997F"
+					"download"		"88A68DC41E3DC948D8C4477789658ACC"
 				}
 				"dprp"
 				{
-					"gid"		"66F4AD8C43B335910C8BA41BC7E268E4"
-					"size"		"3E4009BB325389F5EAA5299989928D78"
-					"download"		"4E4C386016850E756816023A5456C810"
+					"gid"		"E7091EA75F3BFB17CA52D1EEAF14CC17"
+					"size"		"A8A992B1120556AFD12BBA04CD76C18F"
+					"download"		"42AFCDB9A2F4FDE3FC65699266052500"
 				}
 			}
 		}
@@ -982,30 +963,24 @@
 			{
 				"public"
 				{
-					"gid"		"7652703859550572256"
-					"size"		"349187425"
-					"download"		"161289472"
-				}
-				"csgo_demo_viewer"
-				{
-					"gid"		"7652703859550572256"
-					"size"		"349187425"
-					"download"		"161289472"
+					"gid"		"2255381383282107396"
+					"size"		"350256017"
+					"download"		"161830384"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dpr"
 				{
-					"gid"		"3422A9451B4F3CF355A6F4A3F4FC1866"
-					"size"		"26DAC2F7848BB0F201250BF9203957B7"
-					"download"		"58FC83EADEF91EDE8BC6DBC2FC5D4481"
+					"gid"		"F6E03214F326F43242BA7D2DFF4018B9"
+					"size"		"2BD60B6A2FC952BADD1592A379FC79F0"
+					"download"		"8D0CC5AE7E7037A98FAD8D03B5599B38"
 				}
 				"dprp"
 				{
-					"gid"		"893F43C95D8C852BEFBE591D9E7E5D60"
+					"gid"		"B65821F468E5B0AB956FE7EC3CB65CC8"
 					"size"		"FC4A357EFFB905AA8F279FBF7D4780FF"
-					"download"		"3B6AF888BCAED756F0B0DFBE66FB7B33"
+					"download"		"C4585C3CA690270E8302762DDB9BE211"
 				}
 			}
 		}
@@ -1019,30 +994,24 @@
 			{
 				"public"
 				{
-					"gid"		"5810764050486147234"
-					"size"		"262608952"
-					"download"		"72405600"
-				}
-				"csgo_demo_viewer"
-				{
-					"gid"		"5810764050486147234"
-					"size"		"262608952"
-					"download"		"72405600"
+					"gid"		"7075113191428521452"
+					"size"		"265646037"
+					"download"		"73860224"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dpr"
 				{
-					"gid"		"89DB587BA2D57A6DDEA7A3BAE2DAD0C9"
-					"size"		"213F083715F1CBFA5FB2F5E6477D6DA8"
-					"download"		"CF32B7A2D757E65C2584E60EB27C9AA4"
+					"gid"		"A1C54F8A088EE67F4C152959A2FE34E7"
+					"size"		"E80BE8451F2ECC388862989785143F73"
+					"download"		"6403C2B8CB3D362276A63ABF2E41CF3E"
 				}
 				"dprp"
 				{
-					"gid"		"7F5A963660F6F5A9116B1A66314CF130"
-					"size"		"3F4A8BCBA4E187372CB916406D0D5241"
-					"download"		"E9C5AB5D3A56072038AFB9CD0AF31512"
+					"gid"		"ADF13106862DB95E9AC32E47E6F6521D"
+					"size"		"FE603C47336A7E13C878BFEDFF34BF8C"
+					"download"		"7539870CC5D098F007D4F20D5CEC2C30"
 				}
 			}
 		}
@@ -1052,24 +1021,18 @@
 			{
 				"public"
 				{
-					"gid"		"4260986158965787628"
-					"size"		"1030352138"
-					"download"		"835746320"
-				}
-				"csgo_demo_viewer"
-				{
-					"gid"		"4260986158965787628"
-					"size"		"1030352138"
-					"download"		"835746320"
+					"gid"		"659985682443764204"
+					"size"		"1032474660"
+					"download"		"837831936"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dpr"
 				{
-					"gid"		"33FEBC782C20F61C99A8E266BD28CBEC"
-					"size"		"18C76C5F7CD8865D85AD6CF90A663D39"
-					"download"		"ABD4C7DA3E07F4E2591651E346B11BA6"
+					"gid"		"315283D82F6421629053E7952F9FFB3F"
+					"size"		"D96859C0681E1D59E2543BE25588451E"
+					"download"		"38985F86029AB3ADBC9EB945EF60F6E8"
 				}
 				"dprp"
 				{
@@ -1098,30 +1061,24 @@
 			{
 				"public"
 				{
-					"gid"		"5528370932775793682"
-					"size"		"678563559"
-					"download"		"157729824"
-				}
-				"csgo_demo_viewer"
-				{
-					"gid"		"5528370932775793682"
-					"size"		"678563559"
-					"download"		"157729824"
+					"gid"		"8394680149895232992"
+					"size"		"705826330"
+					"download"		"163885152"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dpr"
 				{
-					"gid"		"0F770B9724E88F3CE53FF85CDE02A118"
-					"size"		"E134B0877F3AEEE22E2B7A8653D07019"
-					"download"		"C063621980A0BBE647B5FFD48F21A8FB"
+					"gid"		"A990051CA1E03E48524AC7AB2D155F9C"
+					"size"		"7CC69EFC7E7B4FD0AA41B7ABCE622DBC"
+					"download"		"9638DDE0AA4EAD38D1B28A3ED1990FAE"
 				}
 				"dprp"
 				{
-					"gid"		"8662F1DEF2171B4EFF30C030E4EBF738"
-					"size"		"564EC3DABBFA7EFD7D665B7C9CFDE155"
-					"download"		"A41D9AE3E7D67F6C3522C7751A8F1516"
+					"gid"		"961A44705943F3AEA57F4A987130D5E8"
+					"size"		"DF40DC457397B75D095214B63E91B5B1"
+					"download"		"BE4C03117F9AF1817107DB14112F0E47"
 				}
 			}
 			"config"
