@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"1493710"
+	"common"
+	{
+		"name"		"Proton Experimental"
+		"section_type"		"ownersonly"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"oslist"		"linux"
+		"osarch"		""
+		"osextended"		""
+		"associations"
+		{
+		}
+		"gameid"		"1493710"
+	}
+	"config"
+	{
+		"installdir"		"Proton - Experimental"
+	}
+	"depots"
+	{
+		"1493711"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4193496743342639612"
+					"size"		"1237174573"
+					"download"		"290436512"
+				}
+				"bleeding-edge"
+				{
+					"gid"		"1456381402428597935"
+					"size"		"1231940865"
+					"download"		"289625456"
+				}
+				"bleeding-edge-7.0"
+				{
+					"gid"		"4416042513559933936"
+					"size"		"1088080178"
+					"download"		"265226832"
+				}
+				"bleeding-edge-debug"
+				{
+					"gid"		"2873787486396106990"
+					"size"		"4356433745"
+					"download"		"860206256"
+				}
+				"debug"
+				{
+					"gid"		"524919403378710785"
+					"size"		"4363971088"
+					"download"		"861433152"
+				}
+				"experimental-7.0"
+				{
+					"gid"		"7300629940669357326"
+					"size"		"1087976459"
+					"download"		"265210192"
+				}
+				"experimental-7.0-20221115"
+				{
+					"gid"		"1963678024750466295"
+					"size"		"1090707327"
+					"download"		"266128272"
+				}
+				"previous"
+				{
+					"gid"		"2979081205394213854"
+					"size"		"1237193435"
+					"download"		"290431584"
+				}
+				"test-bug-22500"
+				{
+					"gid"		"7388412424688863542"
+					"size"		"1234518995"
+					"download"		"289662112"
+				}
+				"test-dsound"
+				{
+					"gid"		"6407325982586210842"
+					"size"		"1237182267"
+					"download"		"290458864"
+				}
+				"test-dsound2"
+				{
+					"gid"		"2114875212011522336"
+					"size"		"1237182894"
+					"download"		"290451232"
+				}
+				"test-gdb"
+				{
+					"gid"		"7552284191274740570"
+					"size"		"1234525469"
+					"download"		"289680000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qatest"
+				{
+					"gid"		"95F78C9F790589EB78A1E9F6BBAA2FF5"
+					"size"		"F8A64C13139AB8EAE6922F679F8D8A22"
+					"download"		"6F9CE60141322529E7D64E8516E32CA0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12135228"
+				"timeupdated"		"1694114326"
+			}
+			"bleeding-edge"
+			{
+				"buildid"		"12308754"
+				"description"		"latest and untested dxvk, vkd3d-proton and wine changes; backup your prefixes before using"
+				"timeupdated"		"1695917097"
+			}
+			"bleeding-edge-7.0"
+			{
+				"buildid"		"11042002"
+				"description"		"the last bleeding edge 7.0 release"
+				"timeupdated"		"1682021325"
+			}
+			"bleeding-edge-debug"
+			{
+				"buildid"		"12308793"
+				"description"		"as dangerous as regular bleeding-edge, just with debug symbols"
+				"timeupdated"		"1695917285"
+			}
+			"debug"
+			{
+				"buildid"		"12135234"
+				"description"		"Unstripped"
+				"timeupdated"		"1694114317"
+			}
+			"experimental-7.0"
+			{
+				"buildid"		"10895624"
+				"description"		"the last experimental 7 release"
+				"timeupdated"		"1682021358"
+			}
+			"experimental-7.0-20221115"
+			{
+				"buildid"		"9941395"
+				"description"		"experimental-7.0-20221115"
+				"timeupdated"		"1684246564"
+			}
+			"previous"
+			{
+				"buildid"		"12078547"
+				"description"		"Previous default build"
+				"timeupdated"		"1694114305"
+			}
+			"qatest"
+			{
+				"buildid"		"12297294"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695824875"
+			}
+			"test-bug-22500"
+			{
+				"buildid"		"11800491"
+				"description"		"Test branch for controller hotplug issue"
+				"timeupdated"		"1690452231"
+			}
+			"test-dsound"
+			{
+				"buildid"		"12180215"
+				"description"		"dsound changes testing"
+				"timeupdated"		"1694625788"
+			}
+			"test-dsound2"
+			{
+				"buildid"		"12182655"
+				"description"		"test dsound device limit bump"
+				"timeupdated"		"1694644338"
+			}
+			"test-gdb"
+			{
+				"buildid"		"11800897"
+				"description"		"un-reverted gdb integration"
+				"timeupdated"		"1690455419"
+			}
+		}
+	}
+}
