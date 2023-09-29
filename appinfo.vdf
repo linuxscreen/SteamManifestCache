@@ -1,0 +1,289 @@
+"appinfo"
+{
+	"appid"		"374980"
+	"common"
+	{
+		"name"		"Zombie Grinder Dedicated Server"
+		"section_type"		"ownersonly"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"f216fd690ec56441e8b85186c2db40ca7a31f3b3"
+		"logo_small"		"f216fd690ec56441e8b85186c2db40ca7a31f3b3_thumb"
+		"icon"		"1ee5ebf07af8d548454e27165bdbc8883056bb68"
+		"clienttga"		"c742786faab875d5a83d41adaba4b6322e30b7f5"
+		"clienticon"		"1313f9c3930e4f17f3c60acf2eaf3202abc14aa3"
+		"clienticns"		"9b425ef6a814941035bf60ca1e9f40d39e8c11a3"
+		"linuxclienticon"		"47edc274603ac59eceedcbe0e2e77999ccca4768"
+		"associations"
+		{
+		}
+		"gameid"		"374980"
+	}
+	"extended"
+	{
+		"gamedir"		"zombiegrinder"
+		"serverbrowsername"		"Zombie Grinder"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"ZombieGrinderDedicatedServer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binary/Server.exe"
+				"description"		"Launch"
+				"workingdir"		"Binary/"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Binary/ZombieGrinder.app/Contents/MacOS/Server"
+				"description"		"Launch"
+				"workingdir"		"Binary/"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Binary/Server"
+				"description"		"Launch"
+				"workingdir"		"Binary/"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1923798258558304932"
+					"size"		"44194776"
+					"download"		"13804528"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4884950798805348056"
+					"size"		"73781292"
+					"download"		"20270768"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"374981"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7154443791000396439"
+					"size"		"121817737"
+					"download"		"106511072"
+				}
+				"nightly"
+				{
+					"gid"		"7154443791000396439"
+					"size"		"121817737"
+					"download"		"106511072"
+				}
+				"rcbuild"
+				{
+					"gid"		"7154443791000396439"
+					"size"		"121817737"
+					"download"		"106511072"
+				}
+			}
+		}
+		"374982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"64823490078023323"
+					"size"		"9898662"
+					"download"		"3266768"
+				}
+				"nightly"
+				{
+					"gid"		"64823490078023323"
+					"size"		"9898662"
+					"download"		"3266768"
+				}
+				"rcbuild"
+				{
+					"gid"		"64823490078023323"
+					"size"		"9898662"
+					"download"		"3266768"
+				}
+			}
+		}
+		"374983"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3629520069727201116"
+					"size"		"17850508"
+					"download"		"4821904"
+				}
+				"nightly"
+				{
+					"gid"		"3629520069727201116"
+					"size"		"17850508"
+					"download"		"4821904"
+				}
+				"rcbuild"
+				{
+					"gid"		"3629520069727201116"
+					"size"		"17850508"
+					"download"		"4821904"
+				}
+			}
+		}
+		"374984"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2446415286446662071"
+					"size"		"19947797"
+					"download"		"5212032"
+				}
+				"nightly"
+				{
+					"gid"		"2446415286446662071"
+					"size"		"19947797"
+					"download"		"5212032"
+				}
+				"rcbuild"
+				{
+					"gid"		"2446415286446662071"
+					"size"		"19947797"
+					"download"		"5212032"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1092295"
+				"timeupdated"		"1461608971"
+			}
+			"nightly"
+			{
+				"buildid"		"1092295"
+				"description"		"Nightly builds. May be very unstable.\t"
+				"timeupdated"		"1461542405"
+			}
+			"rcbuild"
+			{
+				"buildid"		"1092295"
+				"description"		"Release candidate build for testing."
+				"timeupdated"		"1461608980"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+	}
+}
