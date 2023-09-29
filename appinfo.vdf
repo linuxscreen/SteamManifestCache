@@ -1,0 +1,150 @@
+"appinfo"
+{
+	"appid"		"312070"
+	"common"
+	{
+		"name"		"Dark Horizons: Mechanized Corps Dedicated Server"
+		"section_type"		"ownersonly"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"oslist"		"linux"
+		"parent"		"266470"
+		"freeondemand"		"1"
+		"associations"
+		{
+		}
+		"gameid"		"312070"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Dark Horizons Mechanized Corps Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DHMCDed"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1923798258558304932"
+					"size"		"44194776"
+					"download"		"13804528"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4884950798805348056"
+					"size"		"73781292"
+					"download"		"20270768"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"312071"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9130850983636379988"
+					"size"		"2410229024"
+					"download"		"899987040"
+				}
+				"beta_testing"
+				{
+					"gid"		"6780493223730701921"
+					"size"		"2389043705"
+					"download"		"899156640"
+				}
+				"beta2_private"
+				{
+					"gid"		"9130850983636379988"
+					"size"		"2410229024"
+					"download"		"899987040"
+				}
+			}
+		}
+		"312072"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"beta2_private"
+				{
+					"gid"		"2472684528410320248"
+					"size"		"1883497369"
+					"download"		"463269872"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"912039"
+			}
+			"beta_testing"
+			{
+				"buildid"		"726551"
+			}
+			"beta2_private"
+			{
+				"buildid"		"3478238"
+				"description"		"unity prebeta2"
+				"timeupdated"		"1547740473"
+			}
+		}
+	}
+}
