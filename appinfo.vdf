@@ -1,0 +1,80 @@
+"appinfo"
+{
+	"appid"		"258680"
+	"common"
+	{
+		"name"		"Chivalry: Deadliest Warrior dedicated server"
+		"section_type"		"ownersonly"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"gameid"		"258680"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"chivalry_dw_ded_server"
+	}
+	"depots"
+	{
+		"258681"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4373543455110935693"
+					"size"		"998729675"
+					"download"		"1029125968951"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"10317FD6C8382B0A39AEF78166DDB100"
+					"size"		"890B11C396BAF47C350C45E82CF0343E"
+					"download"		"6CEFE71C0075146EC778F1E2ACEB8AD4"
+				}
+				"betaauto"
+				{
+					"gid"		"47557C2C46204878FB6CC78E28D0D9FA"
+					"size"		"8FE27618D000E5018C944CC083AFA761"
+					"download"		"C395E15482F4875E52EABFA9D90E42CA"
+				}
+				"defaultauto"
+				{
+					"gid"		"9B8C56BB8F560D2298DEE4904CECFF76"
+					"size"		"920320F43E5CC059A6E5E080297F9BED"
+					"download"		"488102C0F43CFDA8157795D8FD1C18A4"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"356819"
+			}
+			"beta"
+			{
+				"buildid"		"820825"
+				"pwdrequired"		"1"
+			}
+			"betaauto"
+			{
+				"buildid"		"820825"
+				"pwdrequired"		"1"
+			}
+			"defaultauto"
+			{
+				"buildid"		"820814"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
