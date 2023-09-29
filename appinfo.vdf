@@ -1,0 +1,90 @@
+"appinfo"
+{
+	"appid"		"1391110"
+	"common"
+	{
+		"name"		"Steam Linux Runtime 2.0 (soldier)"
+		"section_type"		"ownersonly"
+		"type"		"Tool"
+		"oslist"		"linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"gameid"		"1391110"
+	}
+	"config"
+	{
+		"installdir"		"SteamLinuxRuntime_soldier"
+	}
+	"depots"
+	{
+		"1391111"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3201670542175132810"
+					"size"		"643559038"
+					"download"		"177871056"
+				}
+				"client_beta"
+				{
+					"gid"		"548864502283832349"
+					"size"		"643634119"
+					"download"		"177894672"
+				}
+				"previous_release"
+				{
+					"gid"		"4457696821870907976"
+					"size"		"643534006"
+					"download"		"177863056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private_beta"
+				{
+					"gid"		"9F09F859E524CD613B949A83A4F04650"
+					"size"		"7EB88B793BBDEEC9491FB7B493B1F2A5"
+					"download"		"87708F1C5D6AD819CC013F810664754C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12134011"
+				"timeupdated"		"1695324615"
+			}
+			"client_beta"
+			{
+				"buildid"		"12249901"
+				"description"		"use with Steam beta client"
+				"timeupdated"		"1695324632"
+			}
+			"previous_release"
+			{
+				"buildid"		"11903565"
+				"description"		"previous release"
+				"timeupdated"		"1695324607"
+			}
+			"private_beta"
+			{
+				"buildid"		"12249901"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695324625"
+			}
+		}
+	}
+}
