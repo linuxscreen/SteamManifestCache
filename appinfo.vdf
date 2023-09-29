@@ -1,0 +1,90 @@
+"appinfo"
+{
+	"appid"		"1628350"
+	"common"
+	{
+		"name"		"Steam Linux Runtime 3.0 (sniper)"
+		"section_type"		"ownersonly"
+		"type"		"Tool"
+		"oslist"		"linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"associations"
+		{
+		}
+		"gameid"		"1628350"
+	}
+	"config"
+	{
+		"installdir"		"SteamLinuxRuntime_sniper"
+	}
+	"depots"
+	{
+		"1628351"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6965650628445372107"
+					"size"		"703826423"
+					"download"		"188171392"
+				}
+				"client_beta"
+				{
+					"gid"		"2072021422074156985"
+					"size"		"703892803"
+					"download"		"188192000"
+				}
+				"previous_release"
+				{
+					"gid"		"3084442718377920662"
+					"size"		"703780909"
+					"download"		"188161408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private_beta"
+				{
+					"gid"		"2CF10212C6B24D4DB6D714A97D50CD28"
+					"size"		"0494EF66BBC1BD48938191D12D4A0D76"
+					"download"		"5F2B6879FE406AE934D43B87789EDA84"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12134018"
+				"timeupdated"		"1695324693"
+			}
+			"client_beta"
+			{
+				"buildid"		"12249908"
+				"description"		"use with Steam beta client"
+				"timeupdated"		"1695324700"
+			}
+			"previous_release"
+			{
+				"buildid"		"11903591"
+				"description"		"previous release"
+				"timeupdated"		"1695324684"
+			}
+			"private_beta"
+			{
+				"buildid"		"12249908"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695324709"
+			}
+		}
+	}
+}
