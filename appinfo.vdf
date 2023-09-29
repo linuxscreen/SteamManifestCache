@@ -338,7 +338,7 @@
 			"1"
 			{
 				"executable"		"game\\bin\\win64\\dota2.exe"
-				"arguments"		"-steam +voice_fadeouttime 0 -prewarm_panorama"
+				"arguments"		"-steam +voice_fadeouttime 0 -prewarm_panorama +dota_disable_controller_support 1"
 				"config"
 				{
 					"oslist"		"windows"
@@ -354,7 +354,7 @@
 			"2"
 			{
 				"executable"		"game/dota.sh"
-				"arguments"		"+@panorama_min_comp_layer_dimension 0 -prewarm_panorama"
+				"arguments"		"+@panorama_min_comp_layer_dimension 0 -prewarm_panorama +dota_disable_controller_support 1"
 				"config"
 				{
 					"oslist"		"macos"
@@ -369,7 +369,7 @@
 			"3"
 			{
 				"executable"		"game/dota.sh"
-				"arguments"		"+@panorama_min_comp_layer_dimension 0 -prewarm_panorama"
+				"arguments"		"+@panorama_min_comp_layer_dimension 0 -prewarm_panorama +dota_disable_controller_support 1"
 				"config"
 				{
 					"oslist"		"linux"
@@ -452,9 +452,9 @@
 			{
 				"public"
 				{
-					"gid"		"7320265952319908084"
-					"size"		"8054225846"
-					"download"		"3396565216"
+					"gid"		"227840080375086573"
+					"size"		"8107314422"
+					"download"		"3396949376"
 				}
 			}
 			"encryptedmanifests"
@@ -497,9 +497,9 @@
 			{
 				"public"
 				{
-					"gid"		"2792029701440818689"
-					"size"		"2112163590"
-					"download"		"1085702288"
+					"gid"		"7990572654967086802"
+					"size"		"2112386393"
+					"download"		"1121733984"
 				}
 			}
 			"encryptedmanifests"
@@ -542,9 +542,9 @@
 			{
 				"public"
 				{
-					"gid"		"6149511370966456883"
-					"size"		"2151400934"
-					"download"		"1392929648"
+					"gid"		"5889613325754323375"
+					"size"		"2157468942"
+					"download"		"1427804128"
 				}
 			}
 			"encryptedmanifests"
@@ -587,9 +587,9 @@
 			{
 				"public"
 				{
-					"gid"		"3211458091481932848"
-					"size"		"2080236312"
-					"download"		"1078420112"
+					"gid"		"4112968859492297555"
+					"size"		"2108548411"
+					"download"		"1138562368"
 				}
 			}
 			"encryptedmanifests"
@@ -632,9 +632,9 @@
 			{
 				"public"
 				{
-					"gid"		"5699334089757928560"
-					"size"		"2127950102"
-					"download"		"849629328"
+					"gid"		"5297697076786798060"
+					"size"		"2136033497"
+					"download"		"833956656"
 				}
 			}
 			"encryptedmanifests"
@@ -677,9 +677,9 @@
 			{
 				"public"
 				{
-					"gid"		"5598209448449402455"
-					"size"		"33683405560"
-					"download"		"16172553936"
+					"gid"		"4305737693625423153"
+					"size"		"34662945359"
+					"download"		"16348769392"
 				}
 			}
 			"encryptedmanifests"
@@ -726,9 +726,9 @@
 			{
 				"public"
 				{
-					"gid"		"927345945782711791"
-					"size"		"716341472"
-					"download"		"407410896"
+					"gid"		"8795372752530775476"
+					"size"		"724930837"
+					"download"		"410998400"
 				}
 			}
 			"encryptedmanifests"
@@ -776,9 +776,9 @@
 			{
 				"public"
 				{
-					"gid"		"3086457922188409815"
-					"size"		"463029344"
-					"download"		"117094144"
+					"gid"		"3206249569858686779"
+					"size"		"471229536"
+					"download"		"119833056"
 				}
 			}
 			"encryptedmanifests"
@@ -825,9 +825,9 @@
 			{
 				"public"
 				{
-					"gid"		"6506746157830581628"
-					"size"		"1240917053"
-					"download"		"496883856"
+					"gid"		"3672165464645566548"
+					"size"		"1263433722"
+					"download"		"502745408"
 				}
 			}
 			"encryptedmanifests"
@@ -919,9 +919,9 @@
 			{
 				"public"
 				{
-					"gid"		"613736385726333446"
-					"size"		"1319043996"
-					"download"		"495560752"
+					"gid"		"8994385530791002314"
+					"size"		"1344788175"
+					"download"		"502258688"
 				}
 			}
 			"encryptedmanifests"
@@ -1167,9 +1167,9 @@
 			{
 				"public"
 				{
-					"gid"		"141181812147138970"
-					"size"		"12916674253"
-					"download"		"4090386048"
+					"gid"		"2000212995758898984"
+					"size"		"12997950076"
+					"download"		"4120085824"
 				}
 			}
 			"encryptedmanifests"
@@ -1264,9 +1264,9 @@
 			{
 				"public"
 				{
-					"gid"		"4725300717004954330"
-					"size"		"895175190"
-					"download"		"412542064"
+					"gid"		"7826702087811249694"
+					"size"		"913867454"
+					"download"		"417070672"
 				}
 			}
 			"encryptedmanifests"
@@ -1314,9 +1314,9 @@
 			{
 				"public"
 				{
-					"gid"		"539758127384667803"
-					"size"		"10579632"
-					"download"		"2910640"
+					"gid"		"8056610118313650505"
+					"size"		"10587312"
+					"download"		"2911104"
 				}
 			}
 			"encryptedmanifests"
@@ -1351,8 +1351,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12191398"
-				"timeupdated"		"1694716381"
+				"buildid"		"12304574"
+				"timeupdated"		"1695889594"
 			}
 			"old_build_test"
 			{
@@ -6917,7 +6917,7 @@
 					"#dota_rp_spectating_while_finding"		"Buscando una partida y viendo otra"
 					"#dota_rp_strategy_time"		"{%param0%}: Fase de estrategia"
 					"#dota_rp_tourney_between_games"		"Copa de Batalla {%param1%} (descanso)"
-					"#dota_rp_tourney_finding_match"		"Buscando oponente {%param1%}"
+					"#dota_rp_tourney_finding_match"		"Buscando oponente ({%param1%})"
 					"#dota_rp_tourney_game_in_progress"		"Copa de Batalla {%param0%}"
 					"#dota_rp_tourney_playing_as"		"Copa de Batalla {%param2%} como {%param1%}"
 					"#dota_rp_tourney_registering"		"Inscribiéndose en la Copa de Batalla {%param0%}"
