@@ -1,0 +1,66 @@
+"appinfo"
+{
+	"appid"		"2348590"
+	"common"
+	{
+		"name"		"Proton 8.0"
+		"section_type"		"ownersonly"
+		"type"		"Tool"
+		"oslist"		"linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"gameid"		"2348590"
+	}
+	"config"
+	{
+		"installdir"		"Proton 8.0"
+	}
+	"depots"
+	{
+		"2348591"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2113822758360273931"
+					"size"		"1232603706"
+					"download"		"292577088"
+				}
+				"debug"
+				{
+					"gid"		"8961942558235422756"
+					"size"		"3968660026"
+					"download"		"776888912"
+				}
+				"release-candidate"
+				{
+					"gid"		"8076388423343235160"
+					"size"		"1222652793"
+					"download"		"290551840"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11723527"
+				"timeupdated"		"1689968579"
+			}
+			"debug"
+			{
+				"buildid"		"11723539"
+				"description"		" debug symbols"
+				"timeupdated"		"1689968565"
+			}
+			"release-candidate"
+			{
+				"buildid"		"12216519"
+				"description"		"Proton 8.0-4 RC testing"
+				"timeupdated"		"1695048369"
+			}
+		}
+	}
+}
