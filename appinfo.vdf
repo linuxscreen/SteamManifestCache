@@ -70,6 +70,7 @@
 			"category_30"		"1"
 			"category_40"		"1"
 			"category_52"		"1"
+			"category_53"		"1"
 		}
 		"supported_languages"
 		{
@@ -209,6 +210,16 @@
 		"requiredefaultinstallfolder"		"1"
 		"contenttype"		"3"
 		"installdir"		"SteamVR"
+		"app_mappings"
+		{
+			"1"
+			{
+				"platform"		"linux"
+				"branch"		"beta"
+				"tool"		"SteamLinuxRuntime_sniper"
+				"comment"		"sniper SLR"
+			}
+		}
 		"launch"
 		{
 			"0"
@@ -277,23 +288,23 @@
 				"buildid"		"12081735"
 				"timeupdated"		"1694032308"
 			}
-			"1.25.8"
-			{
-				"buildid"		"11150177"
-				"pwdrequired"		"1"
-				"timeupdated"		"1688600228"
-			}
 			"alpha"
 			{
-				"buildid"		"12155229"
+				"buildid"		"12302235"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694390271"
+				"timeupdated"		"1695866356"
 			}
 			"beta"
 			{
-				"buildid"		"12081735"
+				"buildid"		"12291707"
 				"description"		"SteamVR Beta Update"
-				"timeupdated"		"1693515351"
+				"timeupdated"		"1695783156"
+			}
+			"gamma"
+			{
+				"buildid"		"12302235"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695866370"
 			}
 			"linux_v1.14"
 			{
@@ -403,6 +414,12 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1694032422"
 			}
+			"v2.0.1"
+			{
+				"buildid"		"12280662"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695787538"
+			}
 		}
 		"228983"
 		{
@@ -466,9 +483,9 @@
 				}
 				"beta"
 				{
-					"gid"		"1494197004626350073"
-					"size"		"1144424904"
-					"download"		"359308672"
+					"gid"		"285640671295271611"
+					"size"		"1144310728"
+					"download"		"359295200"
 				}
 				"linux_v1.14"
 				{
@@ -497,17 +514,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"7782503588D2ABB0C7E817949F565F7D"
-					"size"		"FCD8C1133750AACAEA8B0C698C45B169"
-					"download"		"BBE7D5A24476C6D337F5B141626DBB8C"
-				}
 				"alpha"
 				{
-					"gid"		"0DA64F9A49CB7A5122A316D14B7FD848"
-					"size"		"7A9F99D6A461331A80758A903341E82F"
-					"download"		"CDB3464BE57E17AE1EB06C9A928801F6"
+					"gid"		"74572A8B16E2567B7CCABD7FCF903A7D"
+					"size"		"160EF4443BFD55C1E4FC765A8C8178BB"
+					"download"		"717D400E064E5E72BCC56A88EB22C417"
+				}
+				"gamma"
+				{
+					"gid"		"ED04CBAE96D8414E187C7E13B13C059D"
+					"size"		"A7F4E6CDF542D24601DC5CCF9AA23D5E"
+					"download"		"ACCFDB978EBCE50EA142B56C4D4EB14F"
 				}
 				"rel_hotfix"
 				{
@@ -589,15 +606,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"3C40905D8004D5817F97100B1A1D325F"
-					"size"		"B8720A4DF5110CE78184C9DD88A60590"
-					"download"		"2C39F10380F80F1B94FAE1780D7E3FD5"
+					"gid"		"C05CA1A1982EB60C9DA2C9C7B2DE7F9B"
+					"size"		"A90073BF4314335389D1B497902E052B"
+					"download"		"15278B14D8E1B8E7899E8B707B9786CD"
 				}
 				"v1.27.5"
 				{
 					"gid"		"3147D3E28AF1EB291A7CA7B05105E17B"
 					"size"		"63B08A10F5BCD6FD4A02346D5F0067B4"
 					"download"		"06EA4665C95148E31DB77585EB528480"
+				}
+				"v2.0.1"
+				{
+					"gid"		"3A067BBAE45EDECE8B9322C605746B90"
+					"size"		"5020FB0A0C1AEA2FCB560FC9D9FD030D"
+					"download"		"CF516EEDA87C57AEF4EE495A04A860D2"
 				}
 			}
 		}
@@ -649,17 +672,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"379FDD8C5610BEFDF9F65772224D60AB"
-					"size"		"C4CC5FEED4D11FA2CE2DF48298AB9355"
-					"download"		"C4CC5FEED4D11FA2CE2DF48298AB9355"
-				}
 				"alpha"
 				{
 					"gid"		"70FEEFCAC9C0C9B39C319DC03211341F"
 					"size"		"BAA78E4F449BE34891A72FED987531E7"
 					"download"		"BAA78E4F449BE34891A72FED987531E7"
+				}
+				"gamma"
+				{
+					"gid"		"45BFADFE271F7A458FE95246564FF060"
+					"size"		"536F5106736E84BF0D1CD545D50022F0"
+					"download"		"536F5106736E84BF0D1CD545D50022F0"
 				}
 				"rel_hotfix"
 				{
@@ -741,15 +764,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"820C4AC19BD365895D1F2580A53E387F"
-					"size"		"73447D142C50CABDC0F2D4E0B00FA3F9"
-					"download"		"73447D142C50CABDC0F2D4E0B00FA3F9"
+					"gid"		"174B563A0DAB6C8C560FC688DDA350FE"
+					"size"		"638DAF70525B7D0D6F15AEDF9D6F4471"
+					"download"		"638DAF70525B7D0D6F15AEDF9D6F4471"
 				}
 				"v1.27.5"
 				{
 					"gid"		"99A316108008AE725816473B489C235C"
 					"size"		"91B408FCEAB4AEF0A03CFF0D40DB1BD5"
 					"download"		"91B408FCEAB4AEF0A03CFF0D40DB1BD5"
+				}
+				"v2.0.1"
+				{
+					"gid"		"F63877ABC520C4A261E8091B2324917D"
+					"size"		"BC74309106A0F14FB12A6A96B6DB83A1"
+					"download"		"BC74309106A0F14FB12A6A96B6DB83A1"
 				}
 			}
 		}
@@ -770,9 +799,9 @@
 				}
 				"beta"
 				{
-					"gid"		"6793017837429788461"
-					"size"		"1026605522"
-					"download"		"339757232"
+					"gid"		"2016577975480789376"
+					"size"		"1028258820"
+					"download"		"340198816"
 				}
 				"linux_v1.14"
 				{
@@ -801,17 +830,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"2A7BC17676B3A4F2C23F93CC30EFFFEF"
-					"size"		"D0AF005043A6BCA5E047410345834728"
-					"download"		"0C1252B4C86A15AFD3E85C3B390D3BF0"
-				}
 				"alpha"
 				{
-					"gid"		"111942E4033D8ED3EE53790D001B3AF1"
-					"size"		"3FD45C1B19125D5F2651D870CB1BE4AF"
-					"download"		"0809DFD0D4DBF5027B1344BCC01147E3"
+					"gid"		"E8378CC4E5B078446C878B49C8A86B38"
+					"size"		"D2526D2B401C5DDA36251D64FB7CE09E"
+					"download"		"143D909BED5F35488DA0BB391F4B4C59"
+				}
+				"gamma"
+				{
+					"gid"		"CD331049F0614B0C105E6D92B72B3E33"
+					"size"		"90F3A5D240E41E7C9E425274B66E93C2"
+					"download"		"84296758D9BEC98830ADA1F438202097"
 				}
 				"rel_hotfix"
 				{
@@ -893,15 +922,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"286A5C0BF9C99BD24C1302B0E961B933"
-					"size"		"5FFE1BA517E99C0A4BB667E7044A884F"
-					"download"		"D7A19C0E8C5D46E623A387A310ECA997"
+					"gid"		"144D01F4F14A26A6C18F9A3908901A89"
+					"size"		"34840CCAF34F43D65210D2FAF72EEE8C"
+					"download"		"C16655A68210DEA6590207EDE95C0C86"
 				}
 				"v1.27.5"
 				{
 					"gid"		"550CC2B45E40CDB0299DFB2ADA4EF67E"
 					"size"		"FB07CAC093979DB92E9D0A25CFB558BC"
 					"download"		"7C7BD5AE41AB0402D9BA645CE4266602"
+				}
+				"v2.0.1"
+				{
+					"gid"		"11D7DA00EED63A95C587CC3BCE7DE06E"
+					"size"		"AEE63D10E43D6A7048B2AE20C4D702B1"
+					"download"		"432C91204130DC00CC0A67FBFB9B2F30"
 				}
 			}
 		}
@@ -922,9 +957,9 @@
 				}
 				"beta"
 				{
-					"gid"		"2232945182712745816"
-					"size"		"543322310"
-					"download"		"241311984"
+					"gid"		"2701208058215288585"
+					"size"		"543874493"
+					"download"		"241403520"
 				}
 				"linux_v1.14"
 				{
@@ -953,17 +988,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"5FE4DA6E768953E36FD30FF40731AEEA"
-					"size"		"1B15836C094D54834E5D270EEEEEC1EB"
-					"download"		"09D8D0D8E5128D96C1075616FA6B1439"
-				}
 				"alpha"
 				{
-					"gid"		"6D70E2A715A8CD2AFC44DB16A266CA14"
-					"size"		"7796CDE4933F9BD3D6A18A91BCA300F5"
-					"download"		"8A0919852378DB60B70AC251C72364FD"
+					"gid"		"AE0DF4AC893C7847F2611EC753F7133B"
+					"size"		"1321D6F92B3D03BAD32FF3B9B03E5E00"
+					"download"		"A57355B34A2F9730B67413FB887B3146"
+				}
+				"gamma"
+				{
+					"gid"		"E550F7AB3B8B383818DC14A25F32611C"
+					"size"		"563DF465E2B71A21B88907336496F96B"
+					"download"		"3A89126B88E96BD2A08E05F2D12D6E08"
 				}
 				"rel_hotfix"
 				{
@@ -1045,15 +1080,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"9244287A8ADAF9817412D2BD1E20D870"
-					"size"		"9523EC8F176AE3C265857CF324C4F1CE"
-					"download"		"33BF0972BC8EE1646D64BDE33557A07C"
+					"gid"		"F10878E64824121DE27EDC4418930916"
+					"size"		"2AE2780425B20D7822405F51E3CAA8B3"
+					"download"		"1E3A42DBBF995CB79E6C91CF921E5F13"
 				}
 				"v1.27.5"
 				{
 					"gid"		"E3FA1ECA655B65DE585CE714942F47A1"
 					"size"		"D39A7C79824A443747DD65E635891AA2"
 					"download"		"0352A3C5C22B3E150C6D9F0A9B686430"
+				}
+				"v2.0.1"
+				{
+					"gid"		"4212FBBF28C75CF15453E453C50E7AD3"
+					"size"		"AFA501B3BDE8908B2675796F87316E5A"
+					"download"		"3FFDC87E98782C46B59AEE5801FC7F4E"
 				}
 			}
 		}
@@ -1104,17 +1145,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"58A612560DE6AA2CBC60F18B4F30AEE9"
-					"size"		"C4CC5FEED4D11FA2CE2DF48298AB9355"
-					"download"		"C4CC5FEED4D11FA2CE2DF48298AB9355"
-				}
 				"alpha"
 				{
-					"gid"		"331599A417E5556C8364EF2309A5A441"
-					"size"		"5B3E18935EEAD6E42F089349C32FA3CE"
-					"download"		"EB63F11DC6F962610542F536AA81AE5A"
+					"gid"		"4C8FF9495034404822BD26D92D2E09C3"
+					"size"		"BAA78E4F449BE34891A72FED987531E7"
+					"download"		"BAA78E4F449BE34891A72FED987531E7"
+				}
+				"gamma"
+				{
+					"gid"		"D72BE53765D7A84F9D71017DA6CFE7C0"
+					"size"		"536F5106736E84BF0D1CD545D50022F0"
+					"download"		"536F5106736E84BF0D1CD545D50022F0"
 				}
 				"rel_hotfix"
 				{
@@ -1196,15 +1237,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"BE55B470AF1DF38272063C131BFF9216"
-					"size"		"73447D142C50CABDC0F2D4E0B00FA3F9"
-					"download"		"73447D142C50CABDC0F2D4E0B00FA3F9"
+					"gid"		"0C4532F0AE7E5672D33E386510301C60"
+					"size"		"638DAF70525B7D0D6F15AEDF9D6F4471"
+					"download"		"638DAF70525B7D0D6F15AEDF9D6F4471"
 				}
 				"v1.27.5"
 				{
 					"gid"		"2FF4993A86A5BEBFF762FBC294EE6012"
 					"size"		"91B408FCEAB4AEF0A03CFF0D40DB1BD5"
 					"download"		"91B408FCEAB4AEF0A03CFF0D40DB1BD5"
+				}
+				"v2.0.1"
+				{
+					"gid"		"B89B65EF5AABA18764EDF959413D32A7"
+					"size"		"55AC603088F5F8500691DC1859C28AE8"
+					"download"		"BD033B6E24FD5C879B8D905816C825E1"
 				}
 			}
 		}
@@ -1255,17 +1302,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"97E1D5BC79C92CA3507EE69AA478AF96"
-					"size"		"E01F67B2170DCAA43F2BE6304642C54A"
-					"download"		"53E4104D4744D3963E7F2D1F2117FEDD"
-				}
 				"alpha"
 				{
 					"gid"		"B623F8E6499CEC0AEFE26FA520FF6A72"
 					"size"		"C65850B91294763DA2C4A662E82B62FC"
 					"download"		"5A2078D7FF3736A2E27817590E649175"
+				}
+				"gamma"
+				{
+					"gid"		"7DF8423B656A94FF2E4BA4A54D563D73"
+					"size"		"F18AC8792807D1ABFAC98E9D13FC94C2"
+					"download"		"9D54FE51CF6AAEE9E3C3BF3EFEC0D553"
 				}
 				"rel_hotfix"
 				{
@@ -1347,15 +1394,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"754716A336E3CEF6D06153389076E2E2"
-					"size"		"8445613050991B0FA80E6905A87637C0"
-					"download"		"03795495CA9E942CF1F4F38B16A25A92"
+					"gid"		"BF6C3878FB2CD3AED9F56C5F41FD7C02"
+					"size"		"C6D494C45FE28948E260EA8422C781E5"
+					"download"		"6ABFC5AD3718C4E891593EDD61017A4A"
 				}
 				"v1.27.5"
 				{
 					"gid"		"C70ECE67A0DDA30EC3C9AFEF58D17A7F"
 					"size"		"ECA7B99C2E5A454E2496943DACADBAB1"
 					"download"		"51A1B0C558240C2FA161170AD0830712"
+				}
+				"v2.0.1"
+				{
+					"gid"		"1F14A30383D52C5D3CFB030EBA48CC1B"
+					"size"		"5ECDD47D2B0B4A69D3C9D31A72FFF32E"
+					"download"		"D5E5D7E7651E42790AB746D9BB33C313"
 				}
 			}
 		}
@@ -1406,17 +1459,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"2FDCAE6758338264DEFC064BE0D858A4"
-					"size"		"C4CC5FEED4D11FA2CE2DF48298AB9355"
-					"download"		"C4CC5FEED4D11FA2CE2DF48298AB9355"
-				}
 				"alpha"
 				{
 					"gid"		"7336B79C479D496A0ED9AE92E55B484F"
 					"size"		"BAA78E4F449BE34891A72FED987531E7"
 					"download"		"BAA78E4F449BE34891A72FED987531E7"
+				}
+				"gamma"
+				{
+					"gid"		"558980E483EE2141C49A7BAF9B80F7AE"
+					"size"		"536F5106736E84BF0D1CD545D50022F0"
+					"download"		"536F5106736E84BF0D1CD545D50022F0"
 				}
 				"rel_hotfix"
 				{
@@ -1498,15 +1551,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"BC11DE299A076FB52E501D148F1AD529"
-					"size"		"73447D142C50CABDC0F2D4E0B00FA3F9"
-					"download"		"73447D142C50CABDC0F2D4E0B00FA3F9"
+					"gid"		"A851E493CABC909393E8CEC6C7B14837"
+					"size"		"638DAF70525B7D0D6F15AEDF9D6F4471"
+					"download"		"638DAF70525B7D0D6F15AEDF9D6F4471"
 				}
 				"v1.27.5"
 				{
 					"gid"		"13A00A78FE719CAB16D47C3193D28936"
 					"size"		"91B408FCEAB4AEF0A03CFF0D40DB1BD5"
 					"download"		"91B408FCEAB4AEF0A03CFF0D40DB1BD5"
+				}
+				"v2.0.1"
+				{
+					"gid"		"E1B3603A0A5B939BB038D6F38ACEF9D3"
+					"size"		"BC74309106A0F14FB12A6A96B6DB83A1"
+					"download"		"BC74309106A0F14FB12A6A96B6DB83A1"
 				}
 			}
 		}
@@ -1558,17 +1617,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"D9E086A0FCE403FF5B465FE7FABB77D7"
-					"size"		"C12A7EB79A7BC2C9C94F7A75308D2786"
-					"download"		"39B1D5F8A652A1CC65A7F4C3BA6763B0"
-				}
 				"alpha"
 				{
 					"gid"		"ED15B11E6C8916D38E0888D0DF0B6A11"
 					"size"		"367F6E16B685C645685BB8A98FC30ADF"
 					"download"		"411C72BAD2226A398844182EC913298D"
+				}
+				"gamma"
+				{
+					"gid"		"30FADFB98C8857CC469099862DFDBA8E"
+					"size"		"E43F76A6C02977CA61E76ECD7DDF72E1"
+					"download"		"B0F1179641342C749CAFBDACD087949E"
 				}
 				"rel_hotfix"
 				{
@@ -1650,15 +1709,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"77B4AA964B358291295207D029B66B46"
-					"size"		"25FF8F9CB66DDF1523C82B5AD90E5631"
-					"download"		"F2B0379D8502A2932E1E32FFC0D57E2E"
+					"gid"		"D9BDDE89AB1AE85110CEA035C71EF53C"
+					"size"		"6D271CF26C16E0E47EFECC661A83B44A"
+					"download"		"AB0C374F90D2FFFEC9781AECEC60AA47"
 				}
 				"v1.27.5"
 				{
 					"gid"		"5F5F6E34B68A8EC37A17C2F7616FE1CD"
 					"size"		"6AC8483972281E00BED4949D54D5D127"
 					"download"		"CE1B8EF33C6DEB91418974667583941E"
+				}
+				"v2.0.1"
+				{
+					"gid"		"AEB297683BAD17B4545220CDB657C2FF"
+					"size"		"C85BB2AA6E81A397C3BB9107A131A7D6"
+					"download"		"807AF049D070FB20B11AEDA582AEBDE5"
 				}
 			}
 		}
@@ -1705,17 +1770,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"7B0DC25F5F6D9449C205E49E61554481"
-					"size"		"39C471EDC86CAA3C0751CDD37AB967EB"
-					"download"		"C67CDE0A21D1779E180F454EBB953539"
-				}
 				"alpha"
 				{
 					"gid"		"EDC1ECB42AD69E735DCAAF5BB075C2DD"
 					"size"		"79B7700FC445561CB71A405B00F47F01"
 					"download"		"F50128B26A5F94957D3BFE1AFEEAF82A"
+				}
+				"gamma"
+				{
+					"gid"		"4FF06DF9FD83F5921557A7D1EFDEC7EB"
+					"size"		"D84CC5C2BC3328E13C4B5C30502FB245"
+					"download"		"8772BA906AE1C215E8D97529F94F4AA6"
 				}
 				"rel_hotfix"
 				{
@@ -1797,15 +1862,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"4F9EB16FE2007C9BADB952675AEA385A"
-					"size"		"874EDC40A22371CC67D4A3368787CF69"
-					"download"		"EDE1214CD5B1177BF1EAEDAF07B477E8"
+					"gid"		"F1DC90E57FF43593928422D7BA9B60AC"
+					"size"		"C9D7387628D6A7EC26D685404BB5036A"
+					"download"		"ED8A2F1A7281D8718BBF168C4B2F64E9"
 				}
 				"v1.27.5"
 				{
 					"gid"		"92D1A6ADB19C3D8DFC97A1D4852C8FD1"
 					"size"		"ABD8205C386E956F301B793B0E292AAC"
 					"download"		"CBAC7FB32E2F0CB39D0A29D0C24D7D6B"
+				}
+				"v2.0.1"
+				{
+					"gid"		"CF379D4E08571F46001BE90FB330B898"
+					"size"		"BDBAD9068F834F9E434EE8B1C35B6AA5"
+					"download"		"0BE79DC5AD6D1F792C3186EB0817A89E"
 				}
 			}
 		}
@@ -1857,17 +1928,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"4390E13565D943EE26C4F4F59777C670"
-					"size"		"42B138347EDB77B80940002E8F74945C"
-					"download"		"24A270E312732CFD1BB5D6CE1A422903"
-				}
 				"alpha"
 				{
 					"gid"		"F899B1FCC774967DFA287FC6ACA17250"
 					"size"		"D185BD6E1883590ADE8CF5101B6BB963"
 					"download"		"CD0C0E2E52435F4682B0558C4A6048E6"
+				}
+				"gamma"
+				{
+					"gid"		"D184F48F8EA1A5893075F8DF13F0C768"
+					"size"		"44E2D293196580CBD4731FF4741A45BB"
+					"download"		"E17097771F97EFF8787AAB517290A9D0"
 				}
 				"rel_hotfix"
 				{
@@ -1949,15 +2020,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"AE56E2E0BCE1B7FA58213F45E6CE2298"
-					"size"		"07B93B625D0C56A3ACCC52A8AD714F67"
-					"download"		"173BDFE87B4FCE9FEE2136506C2B2E41"
+					"gid"		"FF2EB42844860396B562D11D66BF642B"
+					"size"		"03EEF50E4AD0E741D28E8AD0B6839821"
+					"download"		"EB15F5DD9A08766D51DB0FED6EA6C50C"
 				}
 				"v1.27.5"
 				{
 					"gid"		"3B1CA9907AA54D681CF8281B87FF4E6F"
 					"size"		"661B34D0E21D470AA12BAA555DBA3A6C"
 					"download"		"2ABC4D5BBA5F6167C4B3E26C6277376A"
+				}
+				"v2.0.1"
+				{
+					"gid"		"1C0BC0E6E918A1D2861DD28237DB5477"
+					"size"		"B75F9ADE5C8B2BCC1C8EF15EF693F3D5"
+					"download"		"540EAEF5129A76B32FF5A84F6DCA7260"
 				}
 			}
 		}
@@ -2009,17 +2086,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"ECBD132E47392EDF39BCFEA2F80D22ED"
-					"size"		"307E4487FE3BCF4D548FF62E5F06C79C"
-					"download"		"DEF11FC9A59AEB29AF550FCF18662766"
-				}
 				"alpha"
 				{
 					"gid"		"4BAD8DE62FECF12B343849559AAD2641"
 					"size"		"273CEC190638792C843A0A0D53E19F55"
 					"download"		"95781C9497DECB04120DB4055FEC12C7"
+				}
+				"gamma"
+				{
+					"gid"		"77752F9A7FB59902DFCAC19BA946D2D7"
+					"size"		"40CDBD2FF73BDC2310B62AF0708C847C"
+					"download"		"1F6D2C00CC26BB5CA2982BF318C8368B"
 				}
 				"rel_hotfix"
 				{
@@ -2101,15 +2178,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"4A8E34EB72D7A09587B7840F55D11D23"
-					"size"		"1F2ADB98C2241A76EB408C36D6E9717F"
-					"download"		"C4B63CEFFDA7141072045417E5E84CA0"
+					"gid"		"A575169AF4770A9BE9A111D4E32B8263"
+					"size"		"133BDE06E171CBEA7952C012BCB05706"
+					"download"		"B99C0107BDB6D00949F38F99B9190FCE"
 				}
 				"v1.27.5"
 				{
 					"gid"		"CA9E917685EDFC5FBE0EF2DA8A1B7697"
 					"size"		"3CEF95104385561DAB0357C1A7699984"
 					"download"		"B3F7D47A8BF7155A7A192A8FF153BF9D"
+				}
+				"v2.0.1"
+				{
+					"gid"		"6F24A6DEA3A54E016BADCB010950EEB7"
+					"size"		"83E0F23A78D00E7D1CF1CAA9533A057D"
+					"download"		"EC2286D103245467382AF227B4F6B4DB"
 				}
 			}
 		}
@@ -2161,17 +2244,17 @@
 			}
 			"encryptedmanifests"
 			{
-				"1.25.8"
-				{
-					"gid"		"BA0B58F022A5BFF8AE9567E817A03CB3"
-					"size"		"BA7302007228B664F79500CF7F13FC09"
-					"download"		"149E6400965B2E9FC5137550AF32CEA1"
-				}
 				"alpha"
 				{
 					"gid"		"0CD07D799347CBDB8923E41D85C193F6"
 					"size"		"05856FB37141021372885B58FA386454"
 					"download"		"17FB733BCD24DF4A934D86590616F9BF"
+				}
+				"gamma"
+				{
+					"gid"		"5732F57B19C6C9C956B9A90C4CA35B53"
+					"size"		"0D70F824221ECA0E90425043106D3168"
+					"download"		"FE12C0407BD7961A9EE009363EDDE685"
 				}
 				"rel_hotfix"
 				{
@@ -2253,15 +2336,21 @@
 				}
 				"v1.26.7"
 				{
-					"gid"		"460EC1FC0A428523C3B1773C2F424234"
-					"size"		"41624159EB84AA842B2779D03435278A"
-					"download"		"CCAB659E064314F8C26B0329A84FD682"
+					"gid"		"0D1643A19890D9E1EBEACCC3A3DC7535"
+					"size"		"10465C15AE89A89175D14E63864F0DF1"
+					"download"		"64DF85A85968973B5B7F694CCA15BA07"
 				}
 				"v1.27.5"
 				{
 					"gid"		"EB21F927325A64E6B1A43846F387C671"
 					"size"		"7270274125BADFF842A21BD14973A840"
 					"download"		"6CB1261EF7150A8F96FE764A08EA67F6"
+				}
+				"v2.0.1"
+				{
+					"gid"		"734D4D091D780F668A409E91CAB71997"
+					"size"		"D05BCF8F5CD21DD555163CA5A3DA3B0E"
+					"download"		"5A37EC52D729EDDF113D8A7E615DF5A0"
 				}
 			}
 		}
@@ -2281,18 +2370,24 @@
 				}
 				"beta"
 				{
-					"gid"		"7466637241347614145"
-					"size"		"2443229"
-					"download"		"680368"
+					"gid"		"7327308454688686921"
+					"size"		"3114658"
+					"download"		"896400"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"52DF8114A3D94D1F6494909868393C4C"
-					"size"		"60DC6CACA67E986C0AC941E2A1C2590C"
-					"download"		"E6D45EEA51645193B9039CD56151C804"
+					"gid"		"BC462839674F0279A67C03BC5EF8B18D"
+					"size"		"EF1FE44C5E067701A5F7CB219709D1CA"
+					"download"		"E946240FA92672EDC4D299478E0CC794"
+				}
+				"gamma"
+				{
+					"gid"		"E0E86F39013898632F0180E6B19BE8C9"
+					"size"		"E32AD2C924F8BE6555993B11D2AD565D"
+					"download"		"3276C239BEBF239C705B822E0521B57B"
 				}
 				"rel_hotfix"
 				{
@@ -2305,6 +2400,12 @@
 					"gid"		"B5DB527FA8DEE33A1B31ADC48B66B355"
 					"size"		"1437902E4BFDB02B9C71B67B5BCFA6BD"
 					"download"		"8ABBB9E94BFAFD02F20D18055DAD7511"
+				}
+				"v2.0.1"
+				{
+					"gid"		"5EE9C642271F4FABEE763F12F6DEA28D"
+					"size"		"F67DD2E24EC58D276146DCFD62F31FEE"
+					"download"		"00219B5C00D6C54BDBA457E627C8C857"
 				}
 			}
 		}
