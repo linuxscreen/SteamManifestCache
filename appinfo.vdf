@@ -1,0 +1,137 @@
+"appinfo"
+{
+	"appid"		"261140"
+	"common"
+	{
+		"name"		"Just Cause 2: Multiplayer - Dedicated Server"
+		"section_type"		"ownersonly"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"parent"		"259080"
+		"icon"		"6cdb990bb1973c0ada2cd644d71ba0533b5d4e7e"
+		"logo"		"0152a746c6133af187e63ae40e6071cb6674810f"
+		"logo_small"		"0152a746c6133af187e63ae40e6071cb6674810f_thumb"
+		"clienticon"		"15389354fcd2e476044399f1927f5840f3fb7d06"
+		"clienttga"		"c21985c632d726864fcf631fd7779dbaa5294bab"
+		"associations"
+		{
+		}
+		"gameid"		"261140"
+		"exfgls"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Just Cause 2 - Multiplayer Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"JcmpServer.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"261141"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4033097335746349012"
+					"size"		"18623460"
+					"download"		"6746640"
+				}
+				"publicbeta"
+				{
+					"gid"		"4033097335746349012"
+					"size"		"18623460"
+					"download"		"6746640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3056955F611A54126046FA0CEAED8EF5"
+					"size"		"50451DDB2BBA45826E41F402C76976BD"
+					"download"		"FE287C58618428370A1645B3A0B46184"
+				}
+			}
+		}
+		"261142"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2136927542703471059"
+					"size"		"30585808"
+					"download"		"10122736"
+				}
+				"publicbeta"
+				{
+					"gid"		"2136927542703471059"
+					"size"		"30585808"
+					"download"		"10122736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A7954AC72DEA089300221CEA3C66C9EB"
+					"size"		"5291F24F386A8B077779776873D17788"
+					"download"		"0E418F1CB7BE80C3C603A3078A7FF70B"
+				}
+			}
+		}
+		"markdlcdepots"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1850768"
+				"timeupdated"		"1495974376"
+			}
+			"beta"
+			{
+				"buildid"		"3431012"
+				"pwdrequired"		"1"
+				"timeupdated"		"1545952004"
+			}
+			"publicbeta"
+			{
+				"buildid"		"1850768"
+				"description"		"Public beta testing branch"
+				"timeupdated"		"1495974357"
+			}
+		}
+	}
+}
