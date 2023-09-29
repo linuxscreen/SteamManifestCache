@@ -1,7 +1,6 @@
 "appinfo"
 {
 	"appid"		"222840"
-	"public_only"		"1"
 	"common"
 	{
 		"name"		"Left 4 Dead Dedicated Server"
@@ -9,5 +8,166 @@
 		"type"		"Tool"
 		"parent"		"500"
 		"gameid"		"222840"
+	}
+	"extended"
+	{
+		"developer"		""
+		"gamedir"		"ValveTestApp222840"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Left 4 Dead Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"srcds.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"preloadonly"		"1"
+		"1004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1923798258558304932"
+					"size"		"44194776"
+					"download"		"13804528"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1005"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2135359612286175146"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"1006"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4884950798805348056"
+					"size"		"73781292"
+					"download"		"20270768"
+				}
+			}
+			"depotfromapp"		"1007"
+		}
+		"222841"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"521697192620921648"
+					"size"		"7700359119"
+					"download"		"5306421264"
+				}
+				"steampipe"
+				{
+					"gid"		"521697192620921648"
+					"size"		"7700359119"
+					"download"		"5306421264"
+				}
+			}
+		}
+		"222843"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"566988563581014145"
+					"size"		"47121182"
+					"download"		"14758048"
+				}
+				"steampipe"
+				{
+					"gid"		"566988563581014145"
+					"size"		"47121182"
+					"download"		"14758048"
+				}
+			}
+		}
+		"222842"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2129779849353783940"
+					"size"		"95890157"
+					"download"		"35716880"
+				}
+				"steampipe"
+				{
+					"gid"		"2129779849353783940"
+					"size"		"95890157"
+					"download"		"35716880"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8119738"
+				"timeupdated"		"1643658424"
+			}
+			"steampipe"
+			{
+				"buildid"		"8119738"
+				"timeupdated"		"1643658413"
+			}
+		}
 	}
 }
