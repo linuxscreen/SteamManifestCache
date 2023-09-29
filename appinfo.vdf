@@ -1,0 +1,77 @@
+"appinfo"
+{
+	"appid"		"8710"
+	"common"
+	{
+		"name"		"STCC - The Game Demo Dedicated Server"
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"gameid"		"8710"
+	}
+	"extended"
+	{
+		"developer"		"SimBin Studios"
+		"gamedir"		"STCC Demo Dedicated Server"
+		"homepage"		"http://game.stcc.se/"
+		"icon"		""
+		"loadallbeforelaunch"		"1"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"8701"
+		"serverbrowsername"		""
+		"state"		"eStateTool"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"convertgcfs"		"1"
+		"installdir"		"STCC Demo Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"STCC_Demo_Dedicated_Steam.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"8701"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"754530197296991187"
+					"size"		"438399926"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"8700"
+		}
+		"1004"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3578600867548439549"
+					"size"		"9662208"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1002"
+		}
+		"markdlcdepots"		"1"
+		"branches"
+		{
+		}
+	}
+}
