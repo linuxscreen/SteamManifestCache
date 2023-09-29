@@ -1,0 +1,78 @@
+"appinfo"
+{
+	"appid"		"8730"
+	"common"
+	{
+		"name"		"GTR Evolution Demo Dedicated Server"
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"gameid"		"8730"
+	}
+	"extended"
+	{
+		"developer"		"SimBin Studios"
+		"gamedir"		"GTR Evolution Demo Dedicated Servera"
+		"homepage"		"http://www.gtr-evolution.com/"
+		"icon"		""
+		"loadallbeforelaunch"		"1"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"8721"
+		"serverbrowsername"		""
+		"state"		"eStateTool"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"convertgcfs"		"1"
+		"installdir"		"GTR Evolution Demo Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"description"		"GTR Evolution Demo Dedicated Server"
+				"executable"		"GtrEvo_Demo_Dedicated_Steam.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"8721"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4782400170459747895"
+					"size"		"457639237"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"8720"
+		}
+		"1004"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3578600867548439549"
+					"size"		"9662208"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1002"
+		}
+		"branches"
+		{
+		}
+	}
+}
