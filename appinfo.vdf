@@ -1,0 +1,89 @@
+"appinfo"
+{
+	"appid"		"1580130"
+	"common"
+	{
+		"name"		"Proton 6.3"
+		"section_type"		"ownersonly"
+		"type"		"Tool"
+		"releasestate"		"released"
+		"oslist"		"linux"
+		"osarch"		""
+		"osextended"		""
+		"associations"
+		{
+		}
+		"gameid"		"1580130"
+	}
+	"config"
+	{
+		"installdir"		"Proton 6.3"
+	}
+	"depots"
+	{
+		"1580131"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4522412267115809749"
+					"size"		"1107672033"
+					"download"		"258874992"
+				}
+				"debug"
+				{
+					"gid"		"2788298011152390633"
+					"size"		"2705122273"
+					"download"		"551315920"
+				}
+				"issue5102"
+				{
+					"gid"		"7255805801188541214"
+					"size"		"1100635021"
+					"download"		"256862176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qatest"
+				{
+					"gid"		"78D277010D849401C3443CE05365DAB9"
+					"size"		"9B74BEA3146893110DB06F6C45D6B264"
+					"download"		"137CEE788FC92488C82F415C45D4D074"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8988778"
+				"timeupdated"		"1656532357"
+			}
+			"debug"
+			{
+				"buildid"		"8988786"
+				"description"		"build with debug symbols"
+				"timeupdated"		"1656532348"
+			}
+			"issue5102"
+			{
+				"buildid"		"7249488"
+				"description"		"test build for issue 5102"
+				"timeupdated"		"1629912676"
+			}
+			"qatest"
+			{
+				"buildid"		"8988778"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655929566"
+			}
+		}
+	}
+}
