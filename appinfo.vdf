@@ -1,0 +1,129 @@
+"appinfo"
+{
+	"appid"		"1647750"
+	"common"
+	{
+		"name"		"The Daunting House Demo"
+		"type"		"Demo"
+		"parent"		"1517190"
+		"releasestate"		"released"
+		"clienticon"		"aac7dee6b6b7d2d9038a55c78d60ef0003544dd0"
+		"clienttga"		"cf19e0d426948375496924a7ba093ddb425c811a"
+		"icon"		"64564ff6c22614586a37c6ae67afccc88c6eb73c"
+		"clienticns"		"7e93e53e2ad3814b96004898c07acdaed5a97190"
+		"linuxclienticon"		"b748f96ebd0ff9fa2ab38fbb98814362edff3c18"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.90033734779437"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1622789118"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VECTORINTERACTIVE STUDIOS PRIVATE LIMITED"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VECTORINTERACTIVE STUDIOS PRIVATE LIMITED"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1622837903"
+		"gameid"		"1647750"
+	}
+	"extended"
+	{
+		"demoofappid"		"1517190"
+		"developer"		"VECTORINTERACTIVE STUDIOS PRIVATE LIMITED"
+		"publisher"		"VECTORINTERACTIVE STUDIOS PRIVATE LIMITED"
+	}
+	"config"
+	{
+		"installdir"		"The Daunting House Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Daunting House.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TDH_MAC_DEMO.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1647751"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"575229480618745584"
+					"size"		"445878875"
+					"download"		"350058976"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6892693"
+				"timeupdated"		"1624011544"
+			}
+		}
+	}
+}
