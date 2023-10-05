@@ -154,6 +154,23 @@
 				}
 				"description"		"with debug console"
 			}
+			"2"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"development"
+				}
+				"description_loc"
+				{
+					"english"		"with debug console"
+				}
+				"description"		"with debug console"
+			}
 		}
 		"uselaunchcommandline"		"1"
 		"steamcontrollertouchtemplateindex"		"1"
@@ -191,15 +208,15 @@
 			{
 				"public"
 				{
-					"gid"		"921091035732216064"
-					"size"		"1005399768"
-					"download"		"533094032"
+					"gid"		"7936161471538858362"
+					"size"		"1005594399"
+					"download"		"532864928"
 				}
 				"beta"
 				{
-					"gid"		"921091035732216064"
-					"size"		"1005399768"
-					"download"		"533094032"
+					"gid"		"7936161471538858362"
+					"size"		"1005594399"
+					"download"		"532864928"
 				}
 				"v0.42"
 				{
@@ -208,24 +225,47 @@
 					"download"		"377397184"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"7649EECC179164CE738F970407601172"
+					"size"		"9693424A09256E6DA74D686EBC0C53A8"
+					"download"		"08A13AB1E71805FC2D01C9D1D7E4A84A"
+				}
+			}
+		}
+		"1617802"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12270378"
-				"timeupdated"		"1695603767"
+				"buildid"		"12359488"
+				"timeupdated"		"1696468028"
 			}
 			"beta"
 			{
-				"buildid"		"12270378"
+				"buildid"		"12359488"
 				"description"		"Playtest Branch"
-				"timeupdated"		"1695603737"
+				"timeupdated"		"1696467620"
+			}
+			"development"
+			{
+				"buildid"		"12359474"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696467525"
 			}
 			"v0.42"
 			{
 				"buildid"		"7631688"
-				"description"		"Previous Version"
+				"description"		"Previous Stable Version"
 				"timeupdated"		"1695493240"
 			}
 		}
@@ -240,7 +280,14 @@
 			{
 				"root"		"gameinstall"
 				"path"		"save"
-				"pattern"		"*.rmmzsave"
+				"pattern"		"file*.rmmzsave"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"global.rmmzsave"
 				"recursive"		"1"
 			}
 		}
