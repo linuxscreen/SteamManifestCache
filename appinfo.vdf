@@ -1,0 +1,127 @@
+"appinfo"
+{
+	"appid"		"2413780"
+	"common"
+	{
+		"name"		"安妮的游戏 The Game of Annie Demo"
+		"type"		"Demo"
+		"parent"		"2373290"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"344ffb1529d166eba4ba5a898705ee5b6130ab9a"
+		"clienttga"		"05e7c8820497df3587e02f4f0a48c5da4d85b98b"
+		"clienticon"		"2fc65093cfb46df02dd537ca16ab4122ae23ec22"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1683527971"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"potentknight"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"potentknight"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1683528153"
+		"gameid"		"2413780"
+	}
+	"extended"
+	{
+		"developer"		"potentknight"
+		"publisher"		"potentknight"
+	}
+	"config"
+	{
+		"installdir"		"The Game of Annie Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"THE GAME OF ANNIE Demo.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2413781"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"34698054930577137"
+					"size"		"7633276105"
+					"download"		"3379970496"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12120309"
+				"timeupdated"		"1693987380"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"900000000"
+		"maxnumfiles"		"1000"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Potent Knight"
+				"pattern"		"*.es3"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
