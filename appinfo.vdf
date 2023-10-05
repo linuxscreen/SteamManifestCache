@@ -105,7 +105,7 @@
 				"height_pct"		"42.36111111111107"
 			}
 		}
-		"store_asset_mtime"		"1671649509"
+		"store_asset_mtime"		"1696460509"
 		"associations"
 		{
 			"0"
@@ -122,8 +122,8 @@
 		"primary_genre"		"37"
 		"genres"
 		{
-			"0"		"37"
-			"1"		"28"
+			"0"		"28"
+			"1"		"37"
 		}
 		"category"
 		{
@@ -184,24 +184,6 @@
 		{
 			"0"
 			{
-				"executable"		"SinVR.exe"
-				"type"		"vr"
-				"config"
-				{
-					"oslist"		"windows"
-				}
-			}
-			"1"
-			{
-				"executable"		"SinNoVR.exe"
-				"type"		"default"
-				"config"
-				{
-					"oslist"		"windows"
-				}
-			}
-			"2"
-			{
 				"executable"		"SinVR/SinVR.exe"
 				"arguments"		"SteamPC"
 				"type"		"default"
@@ -209,11 +191,40 @@
 				{
 					"oslist"		"windows"
 				}
+			}
+			"1"
+			{
+				"executable"		"SinVR/SinVR.exe"
+				"arguments"		"SteamVR"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"SinNoVR.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
 				"description_loc"
 				{
-					"english"		"ForbiddenWorld beta version"
+					"english"		"Legacy version without VR"
 				}
-				"description"		"ForbiddenWorld beta version"
+				"description"		"Legacy version without VR"
+			}
+			"3"
+			{
+				"executable"		"SinVR.exe"
+				"type"		"vr"
+				"description_loc"
+				{
+					"english"		"Legacy version with VR"
+				}
+				"description"		"Legacy version with VR"
 			}
 		}
 	}
@@ -231,9 +242,9 @@
 			{
 				"public"
 				{
-					"gid"		"4477911491340541526"
-					"size"		"601063122"
-					"download"		"111487520"
+					"gid"		"3363487614338811223"
+					"size"		"1115899630"
+					"download"		"310004704"
 				}
 				"beta"
 				{
@@ -252,9 +263,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"30CD05802A98CB02C9C5E0A7BC53788F"
-					"size"		"14AB5CAB6B48B5389E8FECAF72909B95"
-					"download"		"506CAD4E232F5D04561080A33BC92DD9"
+					"gid"		"29E1D2589CC1324888254796510EF49C"
+					"size"		"ED6F8B5FD7BBA4BABA0C10558B17BC6E"
+					"download"		"2D2275F010FB557BD0E4AFC578D58C6F"
 				}
 			}
 		}
@@ -269,9 +280,9 @@
 			{
 				"public"
 				{
-					"gid"		"6437626572518416531"
-					"size"		"223778971"
-					"download"		"226840384"
+					"gid"		"2355678979245908293"
+					"size"		"131108275"
+					"download"		"132902144"
 				}
 				"beta"
 				{
@@ -290,9 +301,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"766199F6D57840CC6CFC570B73E2695D"
-					"size"		"4A07504E3F2E124451D5C2A8D434AFB0"
-					"download"		"53584D537013394E6DFF48BB99CC1F3C"
+					"gid"		"7DA00C6A29EDE298CA1D52F8F3BD920D"
+					"size"		"7C03B3A87E718D54B2BDAA73A79B076A"
+					"download"		"AFB34922D8120951687BCCD1C4270538"
 				}
 			}
 		}
@@ -307,9 +318,9 @@
 			{
 				"public"
 				{
-					"gid"		"3204701858028290866"
-					"size"		"115249436"
-					"download"		"116826000"
+					"gid"		"1746037218572071694"
+					"size"		"56570203"
+					"download"		"57344256"
 				}
 				"beta"
 				{
@@ -328,9 +339,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"EC439BB7CE0D822971A15E2098BD0287"
-					"size"		"D7394AE7041A5DAF4C4A4C6B967BC818"
-					"download"		"31CA3E8727B73AC2206549DD77C3DFC0"
+					"gid"		"CF2FF4310B7446857B4156E1B62EB9C3"
+					"size"		"C3FE58BEF108FC14A83A7E1280E7AB77"
+					"download"		"63A79D6479578E3CA4DA8641D56049EE"
 				}
 			}
 		}
@@ -345,9 +356,9 @@
 			{
 				"public"
 				{
-					"gid"		"5872004722150256385"
-					"size"		"174066221"
-					"download"		"176448192"
+					"gid"		"115972795370049215"
+					"size"		"58878383"
+					"download"		"59683792"
 				}
 				"beta"
 				{
@@ -366,9 +377,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"FD23EEBD36DBE2468156D23B01695152"
-					"size"		"63BCEB7EBC85410ACC4CE430DD4CA26C"
-					"download"		"BC6BB0C0DAF2DEE24A380F2632CB9606"
+					"gid"		"7683F258267D3C366275DF1A37985D2E"
+					"size"		"7D7596F627778A4A2F21507ACC533206"
+					"download"		"2D74A10BCEB652D1A72B3BEAE62C0492"
 				}
 			}
 		}
@@ -383,9 +394,9 @@
 			{
 				"public"
 				{
-					"gid"		"8967413195763739831"
-					"size"		"111273035"
-					"download"		"112795984"
+					"gid"		"3890244948975884683"
+					"size"		"44777785"
+					"download"		"45390880"
 				}
 				"beta"
 				{
@@ -404,9 +415,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"644E65C8E0F66AAC632691C46EF69A01"
-					"size"		"C53097E556B372C744A59FB5AEBBDE99"
-					"download"		"057EC74D58DAD7E31119DBDDAF241A0F"
+					"gid"		"F702E4706F30B2B6607CB3656229F6BF"
+					"size"		"63680255F62493CCC2F5A4F529B35727"
+					"download"		"7190C7612433963AC450FA8B7723901E"
 				}
 			}
 		}
@@ -421,9 +432,9 @@
 			{
 				"public"
 				{
-					"gid"		"432873627677304150"
-					"size"		"236151662"
-					"download"		"239381104"
+					"gid"		"7254875975373417289"
+					"size"		"68758872"
+					"download"		"69696688"
 				}
 				"beta"
 				{
@@ -442,9 +453,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"F7881C3125100AEC7C5870E3F33E67C8"
-					"size"		"34CCFD379A3C17FBB735AC45B2F8BFB0"
-					"download"		"AFA1CEE5D56D9C52D92D9670A7460811"
+					"gid"		"1467CA42238F613A749998E34C4F9809"
+					"size"		"8164B1C479B0A8A655840E2FBBE20609"
+					"download"		"FC3946EEDDBB162100E71ACD1F4D1F5E"
 				}
 			}
 		}
@@ -459,9 +470,9 @@
 			{
 				"public"
 				{
-					"gid"		"1398217245817553670"
-					"size"		"298571746"
-					"download"		"302655696"
+					"gid"		"784788306570080823"
+					"size"		"78911616"
+					"download"		"79990784"
 				}
 				"beta"
 				{
@@ -480,9 +491,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"5383121720681AF54BB02DBDBBCCA2B9"
-					"size"		"A8C6A19AA5DB763F98748330AE49D7AF"
-					"download"		"95EE906DDD44B64B45C00FE0DC4CD3DF"
+					"gid"		"DEA0904B6FC025139A92C1E61CE852BB"
+					"size"		"260D7BF568BD41609E88D73DDA2694A4"
+					"download"		"C3267FDE947D892787C7CB542E7D7046"
 				}
 			}
 		}
@@ -497,9 +508,9 @@
 			{
 				"public"
 				{
-					"gid"		"7000885460165851695"
-					"size"		"170504621"
-					"download"		"172836160"
+					"gid"		"5341834137386629458"
+					"size"		"77575605"
+					"download"		"78637024"
 				}
 				"beta"
 				{
@@ -518,9 +529,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"2F0EF040601BC29C44273D9FCF3E96D2"
-					"size"		"322A088A60337A8E093A896EC0E9131E"
-					"download"		"4248036C4839EBE7C0BF959F54A37828"
+					"gid"		"CD247738BD6892065F5B7F3B22CD1FA5"
+					"size"		"CB41B98B88041C0314EA1C191CD9E159"
+					"download"		"0FC0E7CA6B3F7F105074059762834872"
 				}
 			}
 		}
@@ -535,9 +546,9 @@
 			{
 				"public"
 				{
-					"gid"		"4697172922282625170"
-					"size"		"140683109"
-					"download"		"142608160"
+					"gid"		"7539821128019991617"
+					"size"		"55011187"
+					"download"		"55763632"
 				}
 				"beta"
 				{
@@ -556,9 +567,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"3D9863A7C5BF1CFC16A4AADC21437CCB"
-					"size"		"CE5E843FA4B69E29B2E71CBA94BA6D8C"
-					"download"		"06CBD04FFA0D1B26C7F27F24D8F70024"
+					"gid"		"842E200C9636E8B04293535F976E8BBF"
+					"size"		"80F441B94ECAB08BF1EC061AD284DB78"
+					"download"		"3E74424290BF0D57C26F936AB2096018"
 				}
 			}
 		}
@@ -573,9 +584,9 @@
 			{
 				"public"
 				{
-					"gid"		"2813984339033298150"
-					"size"		"217701361"
-					"download"		"220680480"
+					"gid"		"7039245142909962611"
+					"size"		"88290784"
+					"download"		"81325936"
 				}
 				"beta"
 				{
@@ -594,9 +605,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"6EF8D350CE3DCBE62E9804D595D9EBD4"
-					"size"		"F4C17D027145A9C266F11FF49B2FFAC0"
-					"download"		"4511108DDFEF37147B2CE4B0DC8A21C7"
+					"gid"		"7B45FBEE2C1620D2E25DBE74A6978289"
+					"size"		"E9C528E22BBDE85C097DEC6DA09EDA0E"
+					"download"		"ECB33E42A77468921C9E1E257F8C7242"
 				}
 			}
 		}
@@ -611,9 +622,9 @@
 			{
 				"public"
 				{
-					"gid"		"3613676142261578178"
-					"size"		"236981954"
-					"download"		"240224544"
+					"gid"		"3898067046960778549"
+					"size"		"72179093"
+					"download"		"73165936"
 				}
 				"beta"
 				{
@@ -632,9 +643,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"97C23821241AA8C2C056954FEC09F3E2"
-					"size"		"E2B8BA6B3BDE68FCC3D69CF4FDDEFDFA"
-					"download"		"D4ED3BEA8CF2025B85960EE7B1AAD041"
+					"gid"		"4E05FCCA360C6B1CEBBF5EA7D305779D"
+					"size"		"67058ED8318DFF2C745E1DCA28D760BF"
+					"download"		"DA21C3B71D807F5E70D430CAB72D6746"
 				}
 			}
 		}
@@ -649,9 +660,9 @@
 			{
 				"public"
 				{
-					"gid"		"6208710053647477042"
-					"size"		"264870717"
-					"download"		"268494640"
+					"gid"		"6060997438593672020"
+					"size"		"88019253"
+					"download"		"89223952"
 				}
 				"beta"
 				{
@@ -670,9 +681,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"0530003502BD6E3769FADE14779B7ACD"
-					"size"		"0A5E0B5EC4A83FE88FADB529D0FE7E90"
-					"download"		"CF6C3A02AD299B34675F81A3790233A7"
+					"gid"		"6FB7C34FE50AEFA9AE564C3080531953"
+					"size"		"D00AEEB725F4B7148A6F8A0ACBA9B09A"
+					"download"		"40BE308DC39E675485EF4678D0A045B5"
 				}
 			}
 		}
@@ -687,9 +698,9 @@
 			{
 				"public"
 				{
-					"gid"		"321810044439970256"
-					"size"		"322400826"
-					"download"		"326811808"
+					"gid"		"885098383615679600"
+					"size"		"168663500"
+					"download"		"170971360"
 				}
 				"beta"
 				{
@@ -708,9 +719,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"37C029AEE19EA253642999C625C734A2"
-					"size"		"DD6697C57C66BC8DB23A0B63E513EF51"
-					"download"		"3B1E225F32DFAAA6E8C54D0263059A90"
+					"gid"		"3C48E31F36F38D6520A1B3F917C0F486"
+					"size"		"34F216509BCEA4569612B82B06B66AA8"
+					"download"		"83EEB34B9285B1BF5F07313E27874B6C"
 				}
 			}
 		}
@@ -725,9 +736,9 @@
 			{
 				"public"
 				{
-					"gid"		"398109405231301355"
-					"size"		"161001465"
-					"download"		"163204496"
+					"gid"		"8862977713717056056"
+					"size"		"107932783"
+					"download"		"109409168"
 				}
 				"beta"
 				{
@@ -746,9 +757,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"6DFD733C7FD5AA10A4F738BDCF41971F"
-					"size"		"3A69C527F76C8930AF69DF1237642FC5"
-					"download"		"AC6CA2027FA5873EF673C0E12D9D09FF"
+					"gid"		"5D993112E7296C4A534C40708D9401C2"
+					"size"		"40996746CF1A83CA66BD214156B17287"
+					"download"		"468B9A1A1EDD87765B7423EF61B60A8D"
 				}
 			}
 		}
@@ -763,9 +774,9 @@
 			{
 				"public"
 				{
-					"gid"		"2522120463862495271"
-					"size"		"305715410"
-					"download"		"309897232"
+					"gid"		"8851041023246719949"
+					"size"		"61563049"
+					"download"		"62406080"
 				}
 				"beta"
 				{
@@ -784,9 +795,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"A5222AFDF1BF312B0F43D08F91FD25EB"
-					"size"		"55634CD624980E52C0B83EF034DF4B58"
-					"download"		"9AB0E70245F627283585FB9AA4A290D0"
+					"gid"		"D9A4FBF0EB93753733FE952BEB2A5337"
+					"size"		"300D38C9E5D00F2CF8C2FA535C1F4C5D"
+					"download"		"0CC349166D8F5B5B68FBA8A4FB2CE8FA"
 				}
 			}
 		}
@@ -801,9 +812,9 @@
 			{
 				"public"
 				{
-					"gid"		"8015569417680842933"
-					"size"		"181425369"
-					"download"		"183903616"
+					"gid"		"9161779840521785165"
+					"size"		"62380985"
+					"download"		"63233952"
 				}
 				"beta"
 				{
@@ -822,9 +833,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"284630B38FF574EF504D6165D10F7214"
-					"size"		"7EDB02C357B278CE5373FB8462A4DEC4"
-					"download"		"8A18F1BC3BFBC401C57BABC603E5765E"
+					"gid"		"DBCA194CC76C87DB829B3D97B78A6852"
+					"size"		"5ED3B0022C5FFEEF801AEB2B84B58308"
+					"download"		"F4FBF7619CF2AA36F09835CC862287FA"
 				}
 			}
 		}
@@ -839,9 +850,9 @@
 			{
 				"public"
 				{
-					"gid"		"4094344599776716572"
-					"size"		"158422345"
-					"download"		"160589920"
+					"gid"		"7973084369708014993"
+					"size"		"62634005"
+					"download"		"63490608"
 				}
 				"beta"
 				{
@@ -860,9 +871,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"145A272BA8D8323B9528DB4ACE233F37"
-					"size"		"D1721CECFC6D1C1ADB3B97B901A86163"
-					"download"		"9E4F81A6179C2EAC658083D2D3AF11EC"
+					"gid"		"D89093AF831D01AF45211B677F8B46DB"
+					"size"		"FFF6787DD935F5AF88A008192B274DAE"
+					"download"		"B7FA4B5FC7BAE4038641B663A2BF1D00"
 				}
 			}
 		}
@@ -877,9 +888,9 @@
 			{
 				"public"
 				{
-					"gid"		"1854436361843970872"
-					"size"		"276321057"
-					"download"		"280098864"
+					"gid"		"7447676773686255672"
+					"size"		"90686175"
+					"download"		"91926288"
 				}
 				"beta"
 				{
@@ -898,9 +909,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"4E99EDB9DA16A914D26FBC7B6021B033"
-					"size"		"979E854D178187F7CFB3323F465F0694"
-					"download"		"D5E0405AC5058624F40AF3EE22BF0122"
+					"gid"		"2354C0C7996F17CF1D76646AADFD3D84"
+					"size"		"BD883A009EE909DF4FAF1C365CCAF969"
+					"download"		"402809B70EE85EC35F61D5B04239A20B"
 				}
 			}
 		}
@@ -915,9 +926,9 @@
 			{
 				"public"
 				{
-					"gid"		"3164023522042669024"
-					"size"		"214827500"
-					"download"		"217767024"
+					"gid"		"2078392682154409363"
+					"size"		"108493817"
+					"download"		"109977904"
 				}
 				"beta"
 				{
@@ -936,9 +947,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"8140E847BCBDE5AD6D165E0A7378405A"
-					"size"		"775AB26781BF4CB3DB8783A0B1B4D2B4"
-					"download"		"DFD09BBF69F6C99822D19023BF88B687"
+					"gid"		"A84C60FAD4F712482B3E56ADB9D029E6"
+					"size"		"0D5F35E2A6DB07DF375ABA44CAEDFED6"
+					"download"		"A3B26389BCCF5B9042B706C708E6E0EB"
 				}
 			}
 		}
@@ -953,9 +964,9 @@
 			{
 				"public"
 				{
-					"gid"		"8647327264051400438"
-					"size"		"230537315"
-					"download"		"233687424"
+					"gid"		"1161705664821911801"
+					"size"		"105010087"
+					"download"		"106446544"
 				}
 				"beta"
 				{
@@ -974,9 +985,9 @@
 			{
 				"forbiddenworld"
 				{
-					"gid"		"95D1B8E905BF41B4D3B9A7D264D8784B"
-					"size"		"38AB3A86244DACBFD6A6E399EC72BAD1"
-					"download"		"77AAB0FBF3502374031B848AA139658B"
+					"gid"		"BC15DAB7F652DB2B7F77F9634521C9C5"
+					"size"		"B7C6E7F1EF88C3F07EB336C2C337AA42"
+					"download"		"10BFA25975B77943CF6E2AB73B3B4ECA"
 				}
 			}
 		}
@@ -984,8 +995,8 @@
 		{
 			"public"
 			{
-				"buildid"		"4163706"
-				"timeupdated"		"1567537400"
+				"buildid"		"12350243"
+				"timeupdated"		"1696458488"
 			}
 			"beta"
 			{
@@ -994,9 +1005,9 @@
 			}
 			"forbiddenworld"
 			{
-				"buildid"		"12192912"
+				"buildid"		"12350243"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694730755"
+				"timeupdated"		"1696393004"
 			}
 			"legacy"
 			{
