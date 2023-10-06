@@ -171,6 +171,23 @@
 				}
 				"description"		"with debug console"
 			}
+			"3"
+			{
+				"executable"		"Game"
+				"arguments"		"--in-process-gpu --use-vulkan --flag-switches-begin --enable-gpu-rasterization --enable-unsafe-webgpu --enable-zero-copy --ignore-gpu-blocklist --enable-features=Vulkan,CanvasOopRasterization --flag-switches-end"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+					"betakey"		"linux-development"
+				}
+				"description_loc"
+				{
+					"english"		"with debug console"
+				}
+				"description"		"with debug console"
+			}
 		}
 		"uselaunchcommandline"		"1"
 		"steamcontrollertouchtemplateindex"		"1"
@@ -179,13 +196,13 @@
 			"2476356657"
 			{
 				"controller_type"		"controller_mobile_touch"
-				"enabled_branches"		"default,beta,v0.42"
+				"enabled_branches"		"default,beta,development,linux-development,v0.42"
 				"use_action_block"		"false"
 			}
-			"3038309628"
+			"3046425110"
 			{
 				"controller_type"		"controller_neptune"
-				"enabled_branches"		"default,beta,v0.42"
+				"enabled_branches"		"default,beta,development,linux-development,v0.42"
 				"use_action_block"		"false"
 			}
 		}
@@ -208,15 +225,15 @@
 			{
 				"public"
 				{
-					"gid"		"7936161471538858362"
-					"size"		"1005594399"
-					"download"		"532864928"
+					"gid"		"2707603180270266521"
+					"size"		"867455647"
+					"download"		"397194416"
 				}
 				"beta"
 				{
-					"gid"		"7936161471538858362"
-					"size"		"1005594399"
-					"download"		"532864928"
+					"gid"		"2707603180270266521"
+					"size"		"867455647"
+					"download"		"397194416"
 				}
 				"v0.42"
 				{
@@ -229,9 +246,15 @@
 			{
 				"development"
 				{
-					"gid"		"7649EECC179164CE738F970407601172"
-					"size"		"9693424A09256E6DA74D686EBC0C53A8"
-					"download"		"08A13AB1E71805FC2D01C9D1D7E4A84A"
+					"gid"		"AC6D380788D5E5C9E762B84549CA2D47"
+					"size"		"56E86E0FA95952D1A258DB2D12BA3D1B"
+					"download"		"46B2527BB03535277F1DCF8EDBCC8F52"
+				}
+				"linux-development"
+				{
+					"gid"		"16A22FE93B0EBA2EC368CF1F67D0CDD3"
+					"size"		"46F32A8322EF890197A6E8125FE718D1"
+					"download"		"8F75B6907B8CB618740688BF36ED83F2"
 				}
 			}
 		}
@@ -241,26 +264,51 @@
 			{
 				"oslist"		"linux"
 				"osarch"		"64"
+				"steamdeck"		"1"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"B7B1201DDC74E047AC4BA78F6A6D9BDA"
+					"size"		"FC9138FF3D07F649D129F9F93CF843D2"
+					"download"		"3D266542337981FC0F6F74B0C8A2F3D9"
+				}
+				"linux-development"
+				{
+					"gid"		"2210D9A2E476CF2C2965CD4CF9CB6794"
+					"size"		"3BE6B4BE76F308F364316E2E5214F731"
+					"download"		"C416E101B9E1C3B88197CE45790FD5A9"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12359488"
-				"timeupdated"		"1696468028"
+				"buildid"		"12366675"
+				"timeupdated"		"1696525633"
 			}
 			"beta"
 			{
-				"buildid"		"12359488"
+				"buildid"		"12366675"
 				"description"		"Playtest Branch"
-				"timeupdated"		"1696467620"
+				"timeupdated"		"1696525620"
 			}
 			"development"
 			{
-				"buildid"		"12359474"
+				"buildid"		"12370143"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696467525"
+				"timeupdated"		"1696557385"
+			}
+			"linux-development"
+			{
+				"buildid"		"12367020"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696528507"
 			}
 			"v0.42"
 			{
