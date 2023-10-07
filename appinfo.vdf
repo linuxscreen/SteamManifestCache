@@ -174,13 +174,29 @@
 			"3"
 			{
 				"executable"		"Game"
-				"arguments"		"--in-process-gpu --use-vulkan --flag-switches-begin --enable-gpu-rasterization --enable-unsafe-webgpu --enable-zero-copy --ignore-gpu-blocklist --enable-features=Vulkan,CanvasOopRasterization --flag-switches-end"
+				"arguments"		"--in-process-gpu --flag-switches-begin --enable-gpu-rasterization --enable-unsafe-webgpu --enable-zero-copy --ignore-gpu-blocklist --enable-features=CanvasOopRasterization --flag-switches-end"
 				"type"		"option3"
 				"config"
 				{
 					"oslist"		"linux"
 					"osarch"		"64"
-					"betakey"		"linux-development"
+					"betakey"		"development"
+				}
+				"description_loc"
+				{
+					"english"		"with debug console"
+				}
+				"description"		"with debug console"
+			}
+			"4"
+			{
+				"executable"		"Game.app"
+				"arguments"		"--in-process-gpu"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"development"
 				}
 				"description_loc"
 				{
@@ -218,22 +234,22 @@
 			"config"
 			{
 				"language"		"english"
-				"oslist"		"windows"
 				"osarch"		"64"
+				"oslist"		"windows,linux"
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"2707603180270266521"
-					"size"		"867455647"
-					"download"		"397194416"
+					"gid"		"4001951473761822636"
+					"size"		"867455584"
+					"download"		"397194400"
 				}
 				"beta"
 				{
-					"gid"		"2707603180270266521"
-					"size"		"867455647"
-					"download"		"397194416"
+					"gid"		"4001951473761822636"
+					"size"		"867455584"
+					"download"		"397194400"
 				}
 				"v0.42"
 				{
@@ -246,15 +262,9 @@
 			{
 				"development"
 				{
-					"gid"		"AC6D380788D5E5C9E762B84549CA2D47"
-					"size"		"56E86E0FA95952D1A258DB2D12BA3D1B"
-					"download"		"46B2527BB03535277F1DCF8EDBCC8F52"
-				}
-				"linux-development"
-				{
-					"gid"		"16A22FE93B0EBA2EC368CF1F67D0CDD3"
-					"size"		"46F32A8322EF890197A6E8125FE718D1"
-					"download"		"8F75B6907B8CB618740688BF36ED83F2"
+					"gid"		"B38419771E0F226D8CB2147C9CE00CB0"
+					"size"		"80C6308D16CDD5EDF25EF03B75A9029D"
+					"download"		"F2E81D888A440F67B50C7F1E7A7A6DD7"
 				}
 			}
 		}
@@ -264,7 +274,6 @@
 			{
 				"oslist"		"linux"
 				"osarch"		"64"
-				"steamdeck"		"1"
 			}
 			"manifests"
 			{
@@ -273,15 +282,49 @@
 			{
 				"development"
 				{
-					"gid"		"B7B1201DDC74E047AC4BA78F6A6D9BDA"
-					"size"		"FC9138FF3D07F649D129F9F93CF843D2"
-					"download"		"3D266542337981FC0F6F74B0C8A2F3D9"
+					"gid"		"92937902444095398116FACEE91CCD25"
+					"size"		"E10767F78F693E8F086603BB5823D902"
+					"download"		"BE72BF495008A20174CA87906F0D0C50"
 				}
-				"linux-development"
+			}
+		}
+		"1617803"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"development"
 				{
-					"gid"		"2210D9A2E476CF2C2965CD4CF9CB6794"
-					"size"		"3BE6B4BE76F308F364316E2E5214F731"
-					"download"		"C416E101B9E1C3B88197CE45790FD5A9"
+					"gid"		"520EBFE29F8B4F5CEA99A567D2684EB5"
+					"size"		"1EC8D3FF9226F9ACDB6F0D1EAF26B20F"
+					"download"		"D105887925FEB01BD2BA635C77DF9B2C"
+				}
+			}
+		}
+		"1617804"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"2EC047A0852873D14D2D6514117F712A"
+					"size"		"E10E441EAB592F9D4AEF3D56ABF97935"
+					"download"		"0D6DBB8C5CCD1BD6850CBD3FA764FA67"
 				}
 			}
 		}
@@ -289,26 +332,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12366675"
-				"timeupdated"		"1696525633"
+				"buildid"		"12375463"
+				"timeupdated"		"1696601750"
 			}
 			"beta"
 			{
-				"buildid"		"12366675"
+				"buildid"		"12375463"
 				"description"		"Playtest Branch"
-				"timeupdated"		"1696525620"
+				"timeupdated"		"1696601727"
 			}
 			"development"
 			{
-				"buildid"		"12370143"
+				"buildid"		"12379502"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696557385"
-			}
-			"linux-development"
-			{
-				"buildid"		"12367020"
-				"pwdrequired"		"1"
-				"timeupdated"		"1696528507"
+				"timeupdated"		"1696635682"
 			}
 			"v0.42"
 			{
