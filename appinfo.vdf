@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"2495750"
+	"common"
+	{
+		"name"		"清零计划2：天启派对 Demo"
+		"type"		"Demo"
+		"parent"		"2351560"
+		"icon"		"6556d92816f0ef99d934bb49c3901552d6de1576"
+		"clienticon"		"76e049687fc4f24185b00cffdedf0a6734f7b82a"
+		"clienttga"		"bcfcf7810b9dc3f05298ab204fab899c5ae8ecf8"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"Apocalypse Party Demo"
+		}
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"zh-cn,en"
+			"library_logo"		"en,zh-cn"
+		}
+		"store_asset_mtime"		"1695825159"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Breaker Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Breaker Games"
+			}
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1695827710"
+		"gameid"		"2495750"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Breaker Games"
+		"publisher"		"Breaker Games"
+	}
+	"config"
+	{
+		"installdir"		"Project Zero 2 DEMO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheLastSurvivor.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"schinese"		"Chinese"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2495751"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2519791282157346169"
+					"size"		"866106811"
+					"download"		"704985488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developerbranch"
+				{
+					"gid"		"189866EEE1A469CC8D4FDF37AB6C3D5E"
+					"size"		"D9BD36891308BF03E83316DCC6E0F89C"
+					"download"		"9325E375E293E8BE698995BCD7264C84"
+				}
+				"qaforplayer"
+				{
+					"gid"		"891B862020C6F6AF4CD766E9EC4BF8B7"
+					"size"		"2E8363DA7D94F4CF2C95486894D1ACCE"
+					"download"		"FFC64C8EDF7BC0B6172A0711F3BCDC39"
+				}
+			}
+		}
+		"2495752"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12361633"
+				"timeupdated"		"1696517356"
+			}
+			"developerbranch"
+			{
+				"buildid"		"12381495"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696666954"
+			}
+			"qaforplayer"
+			{
+				"buildid"		"12361633"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696491741"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TheLastSurvivor\\Saved\\SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
