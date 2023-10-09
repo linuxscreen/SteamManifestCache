@@ -13,6 +13,64 @@
 		"clienttga"		"d1745299f615c4fc17d1fd80c2e1514feb1aeed4"
 		"linuxclienticon"		"9d2c0e41c61b3425327a9c5f17ef20a9765abeb0"
 		"clienticon"		"81075024b7fc2ee170bb5fe282be7c126a3649ae"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1695427200"
+			"tested_build_id"		"12221249"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"6"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -83,16 +141,6 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
-			"japanese"
-			{
-				"supported"		"true"
-				"subtitles"		"true"
-			}
-			"koreana"
-			{
-				"supported"		"true"
-				"subtitles"		"true"
-			}
 		}
 		"steam_release_date"		"1690244934"
 		"community_hub_visible"		"1"
@@ -109,8 +157,8 @@
 			"6"		"1770"
 			"7"		"3959"
 			"8"		"9"
-			"9"		"454187"
-			"10"		"1736"
+			"9"		"1736"
+			"10"		"454187"
 			"11"		"9271"
 			"12"		"791774"
 			"13"		"3871"
@@ -122,7 +170,7 @@
 			"19"		"4182"
 		}
 		"review_score"		"8"
-		"review_percentage"		"94"
+		"review_percentage"		"93"
 	}
 	"extended"
 	{
@@ -161,9 +209,9 @@
 			{
 				"public"
 				{
-					"gid"		"7906994570001721677"
-					"size"		"746270656"
-					"download"		"496257296"
+					"gid"		"4690247545024226428"
+					"size"		"803516532"
+					"download"		"539956656"
 				}
 			}
 		}
@@ -171,8 +219,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12252628"
-				"timeupdated"		"1695350611"
+				"buildid"		"12391643"
+				"timeupdated"		"1696842882"
 			}
 		}
 	}
