@@ -15,6 +15,44 @@
 		"clienticon"		"75a97c0a7d117a4ec0d9da81d43d340f4049ed9e"
 		"clienttga"		"8369667535e81c57fdfed1bb5132683f72bd40ae"
 		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1696550400"
+			"tested_build_id"		"11887940"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -35,7 +73,7 @@
 				"height_pct"		"50"
 			}
 		}
-		"store_asset_mtime"		"1683261573"
+		"store_asset_mtime"		"1696845452"
 		"associations"
 		{
 			"0"
@@ -51,7 +89,7 @@
 			"2"
 			{
 				"type"		"franchise"
-				"name"		"Alternate Universe"
+				"name"		"Scuffy Game"
 			}
 		}
 		"primary_genre"		"1"
@@ -142,6 +180,15 @@
 			"depotfromapp"		"228980"
 			"sharedinstall"		"1"
 		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
 		"228990"
 		{
 			"config"
@@ -162,18 +209,18 @@
 			{
 				"public"
 				{
-					"gid"		"9137213360394748382"
-					"size"		"642895334"
-					"download"		"502269056"
+					"gid"		"3775647771782944844"
+					"size"		"658758075"
+					"download"		"515924000"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"283D28F54CEC4B0628A0B2C5A8FB9DEB"
-					"size"		"7AE0F49AD97508F38001B56795A28F4A"
-					"download"		"C604FCBBB6542156B153443E8FC93603"
+					"gid"		"DED39C33DF18AA5F7A8C8CB1DEEC4493"
+					"size"		"DAEB8C566404B45AF866E26CF292A9E4"
+					"download"		"FE603464EFB179B92A20AF55BE46A616"
 				}
 			}
 		}
@@ -181,14 +228,14 @@
 		{
 			"public"
 			{
-				"buildid"		"11887940"
-				"timeupdated"		"1691450972"
+				"buildid"		"12390584"
+				"timeupdated"		"1696842449"
 			}
 			"beta"
 			{
-				"buildid"		"11887940"
+				"buildid"		"12390584"
 				"pwdrequired"		"1"
-				"timeupdated"		"1691450950"
+				"timeupdated"		"1696832301"
 			}
 		}
 	}
