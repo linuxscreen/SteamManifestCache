@@ -1,0 +1,317 @@
+"appinfo"
+{
+	"appid"		"1422380"
+	"common"
+	{
+		"name"		"Witches x Warlocks"
+		"type"		"Game"
+		"logo"		"e02cc21c950f2d715c25b726db9f0cd1b6cfcf07"
+		"logo_small"		"e02cc21c950f2d715c25b726db9f0cd1b6cfcf07_thumb"
+		"icon"		"1b7ef94601644b8850c50271ee02a75a84edcadb"
+		"clienticon"		"33c21444579a1c012d4586aaa9c3e38374920c93"
+		"clienttga"		"ab16d5245e2112ebe6095bd7be7b76a7fd96a096"
+		"clienticns"		"a020021ae03809c6492a71c37ec33c1b078231f9"
+		"linuxclienticon"		"11cb809868312984aa86dacfc22c90ea48a621ae"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1689811200"
+			"tested_build_id"		"5977346"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.06301575393846"
+				"height_pct"		"86.80555555555556"
+			}
+		}
+		"store_asset_mtime"		"1666985044"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nifty Visuals"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nifty Productions"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1604171370"
+		"community_hub_visible"		"1"
+		"gameid"		"1422380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"44868"
+			"2"		"31579"
+			"3"		"9551"
+			"4"		"4726"
+			"5"		"1719"
+			"6"		"4562"
+			"7"		"492"
+			"8"		"1684"
+			"9"		"4085"
+			"10"		"11014"
+			"11"		"6971"
+			"12"		"31275"
+			"13"		"4182"
+			"14"		"599"
+			"15"		"113"
+			"16"		"597"
+			"17"		"4305"
+			"18"		"4747"
+			"19"		"12095"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Nifty Visuals"
+		"publisher"		"Nifty Productions"
+		"isfreeapp"		"1"
+		"listofdlc"		"1439490"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Witches x Warlocks"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Witches_x_Warlocks.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Witches_x_Warlocks-Mac-Shipping.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Witches_x_Warlocks.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"1422381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8614727394256967405"
+					"size"		"407660928"
+					"download"		"327865808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5D8091964C4AC7B9E21EBCACEDBE35C6"
+					"size"		"2CDD38BBA4F2F69B90E54427819C440E"
+					"download"		"F7F904E58954B79F23B877B070FC4A6A"
+				}
+			}
+		}
+		"1422382"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4690188120908806431"
+					"size"		"462104351"
+					"download"		"304347168"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BFA924C4D5A62BC0C741ADAE664E053B"
+					"size"		"7D3D51C6D49A3D9EBB3A59709ED26BAC"
+					"download"		"6EE7E8A1D521614453E3E713D0B99AE9"
+				}
+			}
+		}
+		"1422383"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6841293007605573713"
+					"size"		"425563704"
+					"download"		"298465680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2676595ADFDD329DA31F3CBDDDED17A9"
+					"size"		"665F976D1B3CCA3D91338BF296449878"
+					"download"		"E75686EDAEBFC5FC85E96DA07CA87118"
+				}
+			}
+		}
+		"1439491"
+		{
+			"dlcappid"		"1439490"
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+		}
+		"1439492"
+		{
+			"dlcappid"		"1439490"
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+		}
+		"1439493"
+		{
+			"dlcappid"		"1439490"
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5977346"
+				"timeupdated"		"1608142551"
+			}
+			"beta"
+			{
+				"buildid"		"5977318"
+				"pwdrequired"		"1"
+				"timeupdated"		"1608142213"
+			}
+		}
+	}
+}
