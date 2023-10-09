@@ -1,0 +1,324 @@
+"appinfo"
+{
+	"appid"		"1927780"
+	"common"
+	{
+		"name"		"Galaxy Life"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"c3b17496bec3847a5ea42987c80c299cbbec902b"
+		"clienttga"		"3a90e0b36338d8725ce1fa5b14fd444e16b02412"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1927780_eula_0"
+				"name"		"Galaxy Life EULA"
+				"url"		"https://store.steampowered.com//eula/1927780_eula_0"
+				"version"		"2"
+			}
+		}
+		"clienticon"		"85e0e3934d90fd6ca137805b8dc57b34dfd6e6b7"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1663891200"
+			"tested_build_id"		"9356511"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"48.00000000000003"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1683639261"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Phoenix Network"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Phoenix Network"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1661979790"
+		"community_hub_visible"		"1"
+		"gameid"		"1927780"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"4328"
+			"2"		"4684"
+			"3"		"17305"
+			"4"		"4975"
+			"5"		"1673"
+			"6"		"4195"
+			"7"		"5851"
+			"8"		"4136"
+			"9"		"4168"
+			"10"		"3942"
+			"11"		"1681"
+			"12"		"1708"
+			"13"		"7332"
+			"14"		"1775"
+			"15"		"3993"
+			"16"		"1702"
+			"17"		"6276"
+			"18"		"6730"
+			"19"		"1685"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		""
+		"gamedir"		"galaxy_life"
+		"developer"		"Phoenix Network"
+		"publisher"		"Phoenix Network"
+		"homepage"		"https://galaxylifegame.net"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Galaxy Life"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"x86/Galaxy Life.exe"
+				"arguments"		"-steam"
+				"workingdir"		"x86"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+				"description_loc"
+				{
+					"english"		"Play Galaxy Life(32bit)"
+				}
+				"description"		"Play Galaxy Life(32bit)"
+			}
+			"1"
+			{
+				"executable"		"x64/Galaxy Life.exe"
+				"arguments"		"-steam"
+				"workingdir"		"x64"
+				"config"
+				{
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Galaxy Life(64bit)"
+				}
+				"description"		"Play Galaxy Life(64bit)"
+			}
+			"2"
+			{
+				"executable"		"mac/Galaxy Life.app"
+				"arguments"		"-steam"
+				"workingdir"		"mac"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Play Galaxy Life"
+				}
+				"description"		"Play Galaxy Life"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1927781"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3573492187076113149"
+					"size"		"383145927"
+					"download"		"131930096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"mac-beta"
+				{
+					"gid"		"63B0545007961F7A4AF2A21759575C5A"
+					"size"		"E12F87543DFC27D7FC87D774052639D4"
+					"download"		"8A8BBF02DDBA374060F05E30AA8D3FF6"
+				}
+			}
+		}
+		"1927782"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"mac-beta"
+				{
+					"gid"		"5C40580846C42B40F66537C16B33E239"
+					"size"		"E12F87543DFC27D7FC87D774052639D4"
+					"download"		"7F5F52CE895A2465B16F8873BA40AB2B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11363913"
+				"timeupdated"		"1689529570"
+			}
+			"mac-beta"
+			{
+				"buildid"		"10583511"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676732938"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"10"
+	}
+}
