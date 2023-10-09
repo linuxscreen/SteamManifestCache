@@ -1,0 +1,212 @@
+"appinfo"
+{
+	"appid"		"1988940"
+	"common"
+	{
+		"name"		"からぱりうぉーず"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"f94546663abff4816b05f2bd4e06100724081dc7"
+		"clienticon"		"07bfc46645263aca0521b0f294b5fdba9a3097d1"
+		"clienttga"		"c8a0b1b78d05b7561e848cb3b0cfd4255fdc15e0"
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"73.6046511627907"
+				"height_pct"		"38.446924720968866"
+			}
+		}
+		"store_asset_mtime"		"1653528052"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"こおりみず"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"からふるぱーてぃ"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"こおりみず"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"からふるぱーてぃ"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1653622131"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1988940"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"599"
+			"2"		"3813"
+			"3"		"113"
+			"4"		"3871"
+			"5"		"4726"
+			"6"		"492"
+			"7"		"4085"
+			"8"		"493"
+			"9"		"4791"
+			"10"		"4182"
+			"11"		"6730"
+			"12"		"597"
+		}
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"こおりみず"
+		"publisher"		"こおりみず"
+		"isfreeapp"		"1"
+		"listofdlc"		"2009480"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ColorfulPartyWars"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ColorfulPartyWars.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"japanese"
+		"1988941"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6072659742125711999"
+					"size"		"700158365"
+					"download"		"106584288"
+				}
+				"v100beta"
+				{
+					"gid"		"6072659742125711999"
+					"size"		"700158365"
+					"download"		"106584288"
+				}
+			}
+		}
+		"1988942"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9091082"
+				"timeupdated"		"1657362358"
+			}
+			"v100beta"
+			{
+				"buildid"		"9091082"
+				"description"		"beta"
+				"timeupdated"		"1657362351"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"KorimizuNoOmochabako/ColorfulPartyWars/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
