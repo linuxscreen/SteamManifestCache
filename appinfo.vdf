@@ -205,13 +205,12 @@
 		{
 			"0"
 			{
-				"executable"		"launcher.exe"
-				"arguments"		"--exec=\"warlander.exe\" --argv=\"\""
+				"executable"		"warlander.exe"
 				"config"
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"release_candidate"
+					"betakey"		"release_candidate libra_tl_latest_build_release"
 				}
 				"description_loc"
 				{
@@ -449,6 +448,21 @@
 				}
 				"description"		"Sentry Warlander (Sentry)"
 			}
+			"15"
+			{
+				"executable"		"warlander.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"libra_tl_latest_build_release"
+				}
+				"description_loc"
+				{
+					"english"		"sentry off test"
+				}
+				"description"		"sentry off test"
+			}
 		}
 		"uselaunchcommandline"		"1"
 		"steamcontrollertemplateindex"		"2"
@@ -476,24 +490,24 @@
 			{
 				"public"
 				{
-					"gid"		"4712035817224751114"
-					"size"		"6463322713"
-					"download"		"5900893392"
+					"gid"		"4505883242718933007"
+					"size"		"6530047649"
+					"download"		"5943933904"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dev_testing"
 				{
-					"gid"		"FEBCDC3FEEBC6A22EAE31B71DF15A7AC"
-					"size"		"933AC77AE43D3D112B3510D64F7691FC"
-					"download"		"879000ABABCC65890A14FB0EC477652A"
+					"gid"		"163C1475A692CE14DA1A12080D38CAE8"
+					"size"		"7979E3BC169CB5D460676081A7A0A862"
+					"download"		"AE842DF4AAF3B860902D11A5A7EB0936"
 				}
 				"ds_testing"
 				{
-					"gid"		"9A73267B6187FF0A9CC0C5EB7CF5431A"
-					"size"		"82BF5C9096972831440432ED58F2C703"
-					"download"		"9B60E3874B97E3F5E03273B318811E1D"
+					"gid"		"82F6440EFBA25ECBE42C3009E4936A6F"
+					"size"		"48EE8725BEEDF4F584A2909C26299A06"
+					"download"		"8A9E60ABDC27605B0569C687FB9C5786"
 				}
 				"ds_testing_compat"
 				{
@@ -509,9 +523,9 @@
 				}
 				"libra_tl_dev_test_play"
 				{
-					"gid"		"6C30BD47ACB17D3637B17F09BDB6AEBE"
-					"size"		"CDF2AF4D424DE0AB11EFFC9B72B0881E"
-					"download"		"96FA7307BC15B8DDB776F36D47243CD5"
+					"gid"		"921DD88BF9FA338D10231F5365DD6CD8"
+					"size"		"0050535B86FEA065F510B91921EE649A"
+					"download"		"57DED30F8BF6BFE9D4892ECF10058637"
 				}
 				"libra_tl_external"
 				{
@@ -521,33 +535,33 @@
 				}
 				"libra_tl_latest_build"
 				{
-					"gid"		"6BF71DBB86047FCBFD06E2C1335338CB"
-					"size"		"DC75A15E8A55B21A480B7BA57CF9BD6B"
-					"download"		"B3BBE96E54DEDA89E4E3B7C12145E8AA"
+					"gid"		"FE82EC81F237AF78284BACB56382FE99"
+					"size"		"021047D5D8F716E066E10E402FDFE0AE"
+					"download"		"D0B89A25F323426DE9D5828E47EFCFD3"
 				}
 				"libra_tl_latest_build_dev"
 				{
-					"gid"		"DA17F065468E2DED0D1ADD943DC17F7F"
-					"size"		"C477BE9535456A4FBB30F85716E20ACC"
-					"download"		"289605F52272F89C99F47630C01C0B98"
+					"gid"		"C97A5FEAA710F7E081A8B4E0A78422CD"
+					"size"		"AD3E34E5DFFFCB76A7466C0C26E948C9"
+					"download"		"8FFE7685E7608ACCDEE18FBD327450C0"
 				}
 				"libra_tl_latest_build_release"
 				{
-					"gid"		"F0B3EDECB8A6E55D2915EAE338C84831"
-					"size"		"82E0DA97EAF7375D7B12217ABC2D9926"
-					"download"		"CF71A2CF52EBC437C64776CBA6FB1FEA"
+					"gid"		"040E47C4CB24D0F04A47A5C4E4401F50"
+					"size"		"BE8F815323ED6DA15F9FE0953FAB3737"
+					"download"		"F1F7F97F839B32A81CE241B83A1503C3"
 				}
 				"libra_tl_next_dev"
 				{
-					"gid"		"21B8AC3904C50CB528C389F739F215AE"
-					"size"		"4D45DD6DB5A94558AA7CF0A125CD3912"
-					"download"		"5AFA94239C4FDD37F8E71AAAE8E50207"
+					"gid"		"AE34F6FFC1D25C37D9A561B661C496BD"
+					"size"		"D85938901A6D52C3A892D5AF2EBCBBF1"
+					"download"		"4431DD99C8034FD62852210D499497A2"
 				}
 				"libra_tl_next_release"
 				{
-					"gid"		"096242BC11E660DD0961DD0C20324C09"
-					"size"		"3F382E7E338CB323ACC73FB9F0CC6411"
-					"download"		"59FE583137D6393725AE8423906A7F5F"
+					"gid"		"96AEC1F0D410FE3ECF6B4AD1B577376C"
+					"size"		"F7D47ACD2A573679B87C5E0F1CA2ACC5"
+					"download"		"BF04F27E9A2608108CB5F30B55697F49"
 				}
 				"libra_tl_patch_dev"
 				{
@@ -784,20 +798,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12192401"
-				"timeupdated"		"1696320002"
+				"buildid"		"12359483"
+				"timeupdated"		"1696924805"
 			}
 			"dev_testing"
 			{
-				"buildid"		"12342446"
+				"buildid"		"12372085"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696324290"
+				"timeupdated"		"1696578839"
 			}
 			"ds_testing"
 			{
-				"buildid"		"12342396"
+				"buildid"		"12372046"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696323937"
+				"timeupdated"		"1696578514"
 			}
 			"ds_testing_compat"
 			{
@@ -813,9 +827,9 @@
 			}
 			"libra_tl_dev_test_play"
 			{
-				"buildid"		"12341141"
+				"buildid"		"12371592"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696311021"
+				"timeupdated"		"1696573926"
 			}
 			"libra_tl_external"
 			{
@@ -825,33 +839,33 @@
 			}
 			"libra_tl_latest_build"
 			{
-				"buildid"		"12341111"
+				"buildid"		"12397821"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696310677"
+				"timeupdated"		"1696889531"
 			}
 			"libra_tl_latest_build_dev"
 			{
-				"buildid"		"12175169"
+				"buildid"		"12192390"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695344297"
+				"timeupdated"		"1696414943"
 			}
 			"libra_tl_latest_build_release"
 			{
-				"buildid"		"12175177"
+				"buildid"		"12192401"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695344277"
+				"timeupdated"		"1696414872"
 			}
 			"libra_tl_next_dev"
 			{
-				"buildid"		"12192390"
+				"buildid"		"12359466"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694725056"
+				"timeupdated"		"1696467461"
 			}
 			"libra_tl_next_release"
 			{
-				"buildid"		"12192401"
+				"buildid"		"12359483"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694725193"
+				"timeupdated"		"1696467586"
 			}
 			"libra_tl_patch_dev"
 			{
