@@ -361,6 +361,7 @@
 				"config"
 				{
 					"oslist"		"windows"
+					"osarch"		"64"
 					"realm"		"steamglobal"
 				}
 			}
@@ -371,6 +372,7 @@
 				"config"
 				{
 					"oslist"		"linux"
+					"osarch"		"64"
 					"realm"		"steamglobal"
 				}
 			}
@@ -399,14 +401,14 @@
 				"config"
 				{
 					"oslist"		"windows"
-					"betakey"		"csgo_demo_viewer"
+					"betakey"		"csgo_legacy"
 					"realm"		"steamglobal"
 				}
 				"description_loc"
 				{
-					"english"		"Counter-Strike: Global Offensive (Demo Viewer, 2023)"
+					"english"		"Legacy Version of CS:GO"
 				}
-				"description"		"Counter-Strike: Global Offensive (Demo Viewer, 2023)"
+				"description"		"Legacy Version of CS:GO"
 			}
 			"4"
 			{
@@ -426,6 +428,7 @@
 				"config"
 				{
 					"oslist"		"macos"
+					"betakey"		"csgo_demo_viewer"
 					"ownsdlc"		"741"
 					"realm"		"steamglobal"
 				}
@@ -442,6 +445,7 @@
 				"config"
 				{
 					"oslist"		"windows"
+					"osarch"		"64"
 					"ownsdlc"		"2279721"
 					"realm"		"steamglobal"
 				}
@@ -459,14 +463,45 @@
 				"config"
 				{
 					"oslist"		"macos"
-					"betakey"		"csgo_demo_viewer"
+					"betakey"		"csgo_legacy"
 					"realm"		"steamglobal"
 				}
 				"description_loc"
 				{
-					"english"		"Counter-Strike: Global Offensive (Demo Viewer, 2023)"
+					"english"		"Legacy Version of CS:GO"
 				}
-				"description"		"Counter-Strike: Global Offensive (Demo Viewer, 2023)"
+				"description"		"Legacy Version of CS:GO"
+			}
+			"8"
+			{
+				"executable"		"game\\csgo\\bin\\legacy\\csgo_legacy_app.exe"
+				"arguments"		"-steam.exe +app_set_config 730 betakey csgo_legacy"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+					"realm"		"steamglobal"
+				}
+				"description_loc"
+				{
+					"english"		"Download Legacy Version of CS:GO"
+				}
+				"description"		"Download Legacy Version of CS:GO"
+			}
+			"9"
+			{
+				"executable"		"game/csgo/bin/legacy/csgo_legacy_app_osx64"
+				"arguments"		"-steam.exe +app_set_config 730 betakey csgo_legacy"
+				"config"
+				{
+					"oslist"		"macos"
+					"realm"		"steamglobal"
+				}
+				"description_loc"
+				{
+					"english"		"Download Legacy Version of CS:GO"
+				}
+				"description"		"Download Legacy Version of CS:GO"
 			}
 		}
 		"systemprofile"		"1"
@@ -543,19 +578,19 @@
 			}
 			"public"
 			{
-				"buildid"		"12377892"
-				"timeupdated"		"1696629717"
+				"buildid"		"12398121"
+				"timeupdated"		"1696899320"
 			}
 			"1.21.3.1"
 			{
 				"buildid"		"611429"
 				"pwdrequired"		"1"
 			}
-			"csgo_demo_viewer"
+			"csgo_legacy"
 			{
-				"buildid"		"12203598"
-				"description"		"1.38.7.9"
-				"timeupdated"		"1695677326"
+				"buildid"		"12398598"
+				"description"		"Legacy Version of CS:GO"
+				"timeupdated"		"1696898511"
 			}
 			"demo_viewer"
 			{
@@ -564,17 +599,18 @@
 			}
 			"dpr"
 			{
-				"buildid"		"12377892"
+				"buildid"		"12398121"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696629696"
+				"timeupdated"		"1696896333"
 			}
 			"dprp"
 			{
-				"buildid"		"12377892"
+				"buildid"		"12398121"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696629704"
+				"timeupdated"		"1696896271"
 			}
 		}
+		"workshopdepot"		"730"
 		"228988"
 		{
 			"config"
@@ -604,15 +640,15 @@
 			{
 				"public"
 				{
-					"gid"		"595712255181867857"
+					"gid"		"3785172955357372462"
 					"size"		"7"
 					"download"		"64"
 				}
-				"csgo_demo_viewer"
+				"csgo_legacy"
 				{
-					"gid"		"2224497558453288476"
-					"size"		"363646638"
-					"download"		"254439680"
+					"gid"		"5705852174620875468"
+					"size"		"363675822"
+					"download"		"254447568"
 				}
 				"demo_viewer"
 				{
@@ -631,13 +667,13 @@
 				}
 				"dpr"
 				{
-					"gid"		"2181609F7123224FC88AD48EAF67C626"
+					"gid"		"64B1A3AA1FC717B03769FAE54D0B00D9"
 					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
 					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"46F8329194288DDE61B9B58FE00F9FD0"
+					"gid"		"34D9CA3CBB52B2AC50A6173D7378BBD0"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -654,15 +690,15 @@
 			{
 				"public"
 				{
-					"gid"		"610039252024421905"
+					"gid"		"7745300876576640040"
 					"size"		"7"
 					"download"		"64"
 				}
-				"csgo_demo_viewer"
+				"csgo_legacy"
 				{
-					"gid"		"7173575548168592307"
-					"size"		"276601455"
-					"download"		"73844224"
+					"gid"		"35069580937592877"
+					"size"		"276643099"
+					"download"		"73729712"
 				}
 				"demo_viewer"
 				{
@@ -681,13 +717,13 @@
 				}
 				"dpr"
 				{
-					"gid"		"A51320F9BAEA5ED7807ED8036D9938AA"
+					"gid"		"2A72DB22A77B001D5A3F57653A4DA83E"
 					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
 					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"CDA8ADE9E438FD99A841A9D371295E7F"
+					"gid"		"F84F7D717F95DEDAC81F89DECFEBCF1F"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -700,15 +736,15 @@
 			{
 				"public"
 				{
-					"gid"		"3965858955302576822"
+					"gid"		"3349151179844733852"
 					"size"		"7"
 					"download"		"64"
 				}
-				"csgo_demo_viewer"
+				"csgo_legacy"
 				{
-					"gid"		"718406683749122620"
-					"size"		"32720383227"
-					"download"		"13643659808"
+					"gid"		"3648672979634538346"
+					"size"		"32721327621"
+					"download"		"13644261504"
 				}
 				"demo_viewer"
 				{
@@ -727,13 +763,13 @@
 				}
 				"dpr"
 				{
-					"gid"		"0CCCF1314344F33A09F6CFDFB562DC87"
+					"gid"		"2BF58A51CA930FB07F999B6D901BF462"
 					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
 					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"4811BB14854BEED5373B3FEC38237E57"
+					"gid"		"B4FF30F21836230A23DD638FB0173883"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -749,15 +785,15 @@
 			{
 				"public"
 				{
-					"gid"		"7510337873173915010"
+					"gid"		"3025704487499487153"
 					"size"		"7"
 					"download"		"64"
 				}
-				"csgo_demo_viewer"
+				"csgo_legacy"
 				{
-					"gid"		"3106517550092294329"
-					"size"		"434699006"
-					"download"		"114335440"
+					"gid"		"8757972954718153212"
+					"size"		"434785022"
+					"download"		"114313584"
 				}
 			}
 			"encryptedmanifests"
@@ -770,13 +806,13 @@
 				}
 				"dpr"
 				{
-					"gid"		"699A08AF0BED3A76489221EECF2C367D"
+					"gid"		"E0F5DEB6442819F63657CC43AF13BA49"
 					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
 					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"B6F0D9FD0E3615B15376AAE29F610BAC"
+					"gid"		"C4936A464C26D3437451C36D5E0861D7"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -788,11 +824,11 @@
 			{
 				"public"
 				{
-					"gid"		"51871137282035252"
+					"gid"		"1514125102195615734"
 					"size"		"7"
 					"download"		"64"
 				}
-				"csgo_demo_viewer"
+				"csgo_legacy"
 				{
 					"gid"		"3867231304834558645"
 					"size"		"0"
@@ -803,13 +839,13 @@
 			{
 				"dpr"
 				{
-					"gid"		"6DD1FD1F2D0C5602263C34AFCD2780F9"
+					"gid"		"810A9ECA544D580A624FD8C1A678A9F0"
 					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
 					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"EB78273046D7EC1CDAE6BE3F376E8F22"
+					"gid"		"4AE4F561852C0A0D2BF2BC74284476CC"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -821,11 +857,11 @@
 			{
 				"public"
 				{
-					"gid"		"8855265821894466363"
+					"gid"		"2764604122106209999"
 					"size"		"7"
 					"download"		"64"
 				}
-				"csgo_demo_viewer"
+				"csgo_legacy"
 				{
 					"gid"		"1949918900514112752"
 					"size"		"0"
@@ -836,13 +872,13 @@
 			{
 				"dpr"
 				{
-					"gid"		"E4A8C203DC881D91C1DE7F25376943E2"
+					"gid"		"705BE7DDAC29D3BA8D16CB1786F4B86E"
 					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
 					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"B5F506427920CC8400C197130A90E522"
+					"gid"		"08EB6BD32B85196AE7A262E2255242AB"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -854,11 +890,11 @@
 			{
 				"public"
 				{
-					"gid"		"8009191876870283501"
+					"gid"		"8190148454123692719"
 					"size"		"7"
 					"download"		"64"
 				}
-				"csgo_demo_viewer"
+				"csgo_legacy"
 				{
 					"gid"		"8959772282070246004"
 					"size"		"417072383"
@@ -869,13 +905,13 @@
 			{
 				"dpr"
 				{
-					"gid"		"236E0FF5C082A0F4FF008BCA9EEE4EEC"
+					"gid"		"D0342980107201C56A311EFDD02C2948"
 					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
 					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"B90EE0E88A72D07DCE89DE7E87EBA36E"
+					"gid"		"DE047DBE770D5CB9FC774A1FC9168FAA"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -887,11 +923,11 @@
 			{
 				"public"
 				{
-					"gid"		"7002134630151705483"
+					"gid"		"1894586876787173951"
 					"size"		"7"
 					"download"		"64"
 				}
-				"csgo_demo_viewer"
+				"csgo_legacy"
 				{
 					"gid"		"313951540668567317"
 					"size"		"920601806"
@@ -902,13 +938,13 @@
 			{
 				"dpr"
 				{
-					"gid"		"8C663DDC234F7EBEE580A2089691AEF4"
+					"gid"		"01EEE02FC23E97B1E61B666FD9296503"
 					"size"		"458E6D6DACAF3BAF3227BF1244B1C518"
 					"download"		"DA693391BABE93CE10DCBDCFF179C1C2"
 				}
 				"dprp"
 				{
-					"gid"		"0E81CCB2CBA60418BF761C6888716CE5"
+					"gid"		"75793D841D4F3204F76A611C214BA109"
 					"size"		"D21FEA7F93E2C68E2BF621174A8A4551"
 					"download"		"3D2C948DD298272F42A9294690DCF8C0"
 				}
@@ -916,28 +952,32 @@
 		}
 		"2347770"
 		{
+			"config"
+			{
+				"osarch"		"64"
+			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"4523802233444184329"
-					"size"		"34437098195"
-					"download"		"28454766976"
+					"gid"		"4188924736942725200"
+					"size"		"34415145800"
+					"download"		"28439416384"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dpr"
 				{
-					"gid"		"98D1EE80B4A70CF3B1485B2975AF768E"
-					"size"		"7B1EE3F55A60CB7864CE50FBD56BABBF"
-					"download"		"58118829B68E7764AE5D59B83ED27F78"
+					"gid"		"5B380A4C639297CE83EBE96CA080B35C"
+					"size"		"6F99E09799373C696FBCFAB291F256FF"
+					"download"		"608DD7DC7494BD8DA7F88365D808BB34"
 				}
 				"dprp"
 				{
-					"gid"		"28A3D42283DF5550219FFB902207C553"
-					"size"		"B893C4334CD944D3BC52B70726F5A110"
-					"download"		"60E52B3E6AECCA00F2361D898E090F8F"
+					"gid"		"9CD013BA63CEB756FF6C353A32C947AF"
+					"size"		"FEF21251AD34FE299FF5253CFF9A9D87"
+					"download"		"4EA7C7D90D906C212BF1DC0E9EE96212"
 				}
 			}
 		}
@@ -951,24 +991,24 @@
 			{
 				"public"
 				{
-					"gid"		"6908244135149283259"
-					"size"		"644559677"
-					"download"		"347352144"
+					"gid"		"5969554055091288716"
+					"size"		"644588877"
+					"download"		"347345728"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dpr"
 				{
-					"gid"		"9906E78F19B87B6DBA67201F1623B8FB"
-					"size"		"B7095F6A92AB54CDFCEF47AC88689B9D"
-					"download"		"C300C3B0FCA4D3373BECBBD32B3B0A27"
+					"gid"		"F11B674BED3617C7A6BC73CA33A0039D"
+					"size"		"12D836929FF4CF9F4E63B4B01FFC5766"
+					"download"		"C683DFEFDD2012FD541DFF86F50FA35B"
 				}
 				"dprp"
 				{
-					"gid"		"682FBE2DA400D2A3587CEBC1C8E184E0"
-					"size"		"57EDA28023ACC05B37219625B5984B9C"
-					"download"		"768556C14AB796A995A2270AF84A1E25"
+					"gid"		"197E6352A43D28BA7DCE03F0A1EEE32C"
+					"size"		"306DCDDF7447C0C6C3AF90748F55FFE9"
+					"download"		"D937FB9B0D6933336AD047D661EF7AF1"
 				}
 			}
 		}
@@ -1008,34 +1048,39 @@
 			"config"
 			{
 				"oslist"		"linux"
+				"osarch"		"64"
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"7897503316464055018"
-					"size"		"265878096"
-					"download"		"73932848"
+					"gid"		"401122062106968969"
+					"size"		"265898768"
+					"download"		"73931200"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dpr"
 				{
-					"gid"		"3E35156096201F16F55F3717E26CE041"
-					"size"		"CF01CBC1AF6C3225F9413DEFF2A03646"
-					"download"		"498333C735F462289206BFBFFB0DC544"
+					"gid"		"975CEAADF5B2CF002BAE0CEECEC30497"
+					"size"		"29753B4DC9394ECF7B0DBE45945F4834"
+					"download"		"01FFB67C9E3B3484720A301CBE1BAE7D"
 				}
 				"dprp"
 				{
-					"gid"		"0169ADCAC46E21BC943B6F23EBA0E4F1"
-					"size"		"BE60A16BCA6A03A1A4E11B1D19A15FA1"
-					"download"		"574BEF67EF5D84E3B52F8EEF5A9F0ED0"
+					"gid"		"A620EB119039C5B4ED7760BE7D9E4A45"
+					"size"		"191F8A36A615E91991A285222C41918E"
+					"download"		"57C8E66EA11C960D24052E6A43D0E185"
 				}
 			}
 		}
 		"2347774"
 		{
+			"config"
+			{
+				"osarch"		"64"
+			}
 			"manifests"
 			{
 				"public"
@@ -1076,36 +1121,36 @@
 		"2347779"
 		{
 			"dlcappid"		"2279721"
+			"config"
+			{
+				"osarch"		"64"
+				"optionaldlc"		"2279721"
+			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"98989589054719164"
-					"size"		"709484794"
-					"download"		"167959664"
+					"gid"		"2447408451852759391"
+					"size"		"709483591"
+					"download"		"167955216"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dpr"
 				{
-					"gid"		"064037BAC0319E785A4C2FBC724A9DFE"
-					"size"		"8A822339A77BAB59F6BC600277D348B8"
-					"download"		"11C23C686F05657D1780529BE72FB8E1"
+					"gid"		"F97DB7D67AE2B97D2297B9B2D0DC6621"
+					"size"		"D6FBDFFA161ADDE3462031C249509A36"
+					"download"		"FEFDE49BC8DBC6AFAD8172335F877CCD"
 				}
 				"dprp"
 				{
-					"gid"		"0F6C3BCD590CA3D68ADE9239B6978B80"
-					"size"		"847E3EC46469E42F7EAA64735DE039D2"
-					"download"		"6E1ACFAFA46D87C1F9ED2CFBF2DE6284"
+					"gid"		"C83DEE810DCF5675604ECA6297BC47EF"
+					"size"		"DBF19309ED7B3E3103A1F7E8C6DA2415"
+					"download"		"46FE42F0B012BC00DA27C4CBFB00E44E"
 				}
 			}
-			"config"
-			{
-				"optionaldlc"		"2279721"
-			}
 		}
-		"workshopdepot"		"730"
 		"hasdepotsindlc"		"1"
 		"appmanagesdlc"		"1"
 	}
@@ -1132,7 +1177,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Mapa da Oficina"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Mapa da Oficina %game:score%"
 					"#display_lobby"		"Em sala - {#gamemode_%game:mode%}"
-					"#display_menu"		"Jogando CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"Sessão de Fiscalização"
 					"#display_watch"		"CS:GO — Assistindo"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -1309,7 +1354,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Карта от работилницата"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Карта от работилницата %game:score%"
 					"#display_lobby"		"В лоби - {#gamemode_%game:mode%}"
-					"#display_menu"		"Играе CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"В CS:GO сесия „Съгледвач“"
 					"#display_watch"		"Гледа CS:GO мач"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -1486,7 +1531,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Mapa z workshopu"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Mapa z workshopu %game:score%"
 					"#display_lobby"		"V lobby - {#gamemode_%game:mode%}"
-					"#display_menu"		"Hraje CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"V zasedání Dozoru CS:GO"
 					"#display_watch"		"Sleduje zápas v CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -1663,7 +1708,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Værkstedsbane"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Værkstedsbane %game:score%"
 					"#display_lobby"		"I lobby - {#gamemode_%game:mode%}"
-					"#display_menu"		"Spiller CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"I CS:GO Overwatch-session"
 					"#display_watch"		"Ser en CS:GO-kamp"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -1840,7 +1885,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Workshop-map"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Workshop-map %game:score%"
 					"#display_lobby"		"In een lobby - {#gamemode_%game:mode%}"
-					"#display_menu"		"Speelt CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"In CS:GO Overwatch-sessie"
 					"#display_watch"		"Bekijkt een CS:GO-spel"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -2017,9 +2062,9 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Workshop map"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Workshop map %game:score%"
 					"#display_lobby"		"In Lobby - {#gamemode_%game:mode%}"
-					"#display_menu"		"Playing CS:GO"
-					"#display_overwatch"		"In CS:GO Overwatch Session"
-					"#display_watch"		"Watching a CS:GO Match"
+					"#display_menu"		"Playing Counter-Strike 2"
+					"#display_overwatch"		"In Overwatch Session"
+					"#display_watch"		"Watching a Match"
 					"#gamemap_ar_baggage"		"Baggage"
 					"#gamemap_ar_dizzy"		"Dizzy"
 					"#gamemap_ar_lunacy"		"Lunacy"
@@ -2194,7 +2239,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Workshop-kartta"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Workshop-kartta %game:score%"
 					"#display_lobby"		"Aulassa - {#gamemode_%game:mode%}"
-					"#display_menu"		"Pelaamassa peliä CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"Valvomo-istunnossa"
 					"#display_watch"		"Katsoo CS:GO-peliä"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -2371,7 +2416,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Carte du Workshop"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Carte du Workshop %game:score%"
 					"#display_lobby"		"En salle d'attente - {#gamemode_%game:mode%}"
-					"#display_menu"		"Joue à CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"Dans une session Overwatch"
 					"#display_watch"		"Regarde un match CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -2548,7 +2593,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Workshop-Karte"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Workshop-Karte %game:score%"
 					"#display_lobby"		"In Lobby - {#gamemode_%game:mode%}"
-					"#display_menu"		"Spielt CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"In CS:GO – Overwatch"
 					"#display_watch"		"Schaut einem CS:GO-Spiel zu"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -2725,7 +2770,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Χάρτης εργαστηρίου"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Χάρτης εργαστηρίου %game:score%"
 					"#display_lobby"		"Σε αναμονή παιχνιδιού - {#gamemode_%game:mode%}"
-					"#display_menu"		"Παίζει CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"Σε συνεδρία CS:GO Overwatch"
 					"#display_watch"		"Παρακολουθεί έναν αγώνα CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -2902,7 +2947,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Műhely-pálya"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Műhely-pálya %game:score%"
 					"#display_lobby"		"Váróban - {#gamemode_%game:mode%}"
-					"#display_menu"		"CS:GO-val játszik"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"CS:GO Őrség-munkamenetben"
 					"#display_watch"		"CS:GO meccset néz"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -3079,7 +3124,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Mappa del Workshop"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Mappa del Workshop %game:score%"
 					"#display_lobby"		"In una lobby - {#gamemode_%game:mode%}"
-					"#display_menu"		"Sta giocando a CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"In una sessione di Sorveglianza di CS:GO"
 					"#display_watch"		"Sta guardando una partita di CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -3256,7 +3301,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - ワークショップマップ"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - ワークショップマップ %game:score%"
 					"#display_lobby"		"ロビーにいます - {#gamemode_%game:mode%}"
-					"#display_menu"		"CS:GO をプレイ中"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"CS:GO Overwatch セッション"
 					"#display_watch"		"CS:GO マッチを観戦中"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -3433,7 +3478,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - 창작마당 맵"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - 창작마당 맵 %game:score%"
 					"#display_lobby"		"대기실 - {#gamemode_%game:mode%}"
-					"#display_menu"		"CS:GO 플레이 중"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"CS:GO 감시부대 사건 검토 중"
 					"#display_watch"		"CS:GO 매치 관전 중"
 					"#gamemap_ar_baggage"		"수하물"
@@ -3610,7 +3655,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Mapa de Workshop"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Mapa de Workshop %game:score%"
 					"#display_lobby"		"En sala de espera - {#gamemode_%game:mode%}"
-					"#display_menu"		"Jugando a CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"En una sesión de Overwatch de CS:GO"
 					"#display_watch"		"Viendo una partida de CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -3787,7 +3832,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Workshop-kart"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Workshop-kart %game:score%"
 					"#display_lobby"		"I lobby - {#gamemode_%game:mode%}"
-					"#display_menu"		"Spiller CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"I CS:GO - Overwatch"
 					"#display_watch"		"Ser på en CS:GO-kamp"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -3964,7 +4009,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Mapa z warsztatu"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Mapa z warsztatu %game:score%"
 					"#display_lobby"		"W poczekalni - {#gamemode_%game:mode%}"
-					"#display_menu"		"Gra w CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"Podczas sesji Nadzoru CS:GO"
 					"#display_watch"		"Ogląda mecz z CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -4141,7 +4186,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Mapa do Workshop"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Mapa do Workshop %game:score%"
 					"#display_lobby"		"Num Lobby - {#gamemode_%game:mode%}"
-					"#display_menu"		"A jogar CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"CS:GO - Sessão de Vigilância"
 					"#display_watch"		"A ver partida de CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -4318,7 +4363,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Hartă din Atelier"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Hartă din Atelier %game:score%"
 					"#display_lobby"		"În lobby - {#gamemode_%game:mode%}"
-					"#display_menu"		"Joacă CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"Într-o sesiune CS:GO - Consiliul de supraveghere"
 					"#display_watch"		"Vizionează un meci CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -4495,7 +4540,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Карта из Мастерской"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Карта из Мастерской %game:score%"
 					"#display_lobby"		"В лобби - {#gamemode_%game:mode%}"
-					"#display_menu"		"Играет в CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"Рассматривает дело Патруля"
 					"#display_watch"		"Смотрит игру CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -4672,7 +4717,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - 创意工坊地图"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - 创意工坊地图 %game:score%"
 					"#display_lobby"		"在房间中 - {#gamemode_%game:mode%}"
-					"#display_menu"		"正在玩CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"在CS:GO监管会话中"
 					"#display_watch"		"观看一场CS:GO比赛"
 					"#gamemap_ar_baggage"		"行李仓库"
@@ -4849,7 +4894,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Mapa de Workshop"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Mapa de Workshop %game:score%"
 					"#display_lobby"		"En sala de espera - {#gamemode_%game:mode%}"
-					"#display_menu"		"Jugando a CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"En una sesión de Overwatch de CS:GO"
 					"#display_watch"		"Viendo una partida de CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -5026,7 +5071,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Workshop-bana"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Workshop-bana %game:score%"
 					"#display_lobby"		"I lobby - {#gamemode_%game:mode%}"
-					"#display_menu"		"Spelar CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"I CS:GO Overwatch-session"
 					"#display_watch"		"Tittar på en CS:GO-match"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -5203,7 +5248,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - 工作坊地圖"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - 工作坊地圖 %game:score%"
 					"#display_lobby"		"大廳中 - {#gamemode_%game:mode%}"
-					"#display_menu"		"正在玩 CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"在 CS:GO 監督任務中"
 					"#display_watch"		"正在觀看 CS:GO 比賽"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -5380,7 +5425,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - แผนที่เวิร์กชอป"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - แผนที่เวิร์กชอป %game:score%"
 					"#display_lobby"		"ในล็อบบี้ - {#gamemode_%game:mode%}"
-					"#display_menu"		"กำลังเล่น CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"อยู่ใน CS:GO เซสชันโอเวอร์วอตช์"
 					"#display_watch"		"กำลังชมแมตช์ CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -5557,7 +5602,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Atölye haritası"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Atölye haritası %game:score%"
 					"#display_lobby"		"Lobide - {#gamemode_%game:mode%}"
-					"#display_menu"		"CS:GO Oynuyor"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"CS:GO Overwatch Oturumunda"
 					"#display_watch"		"CS:GO Maçı Seyrediyor"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -5734,7 +5779,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Мапа майстерні"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Мапа майстерні %game:score%"
 					"#display_lobby"		"У лобі - {#gamemode_%game:mode%}"
-					"#display_menu"		"Грає в CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"У сеансі трибуналу CS:GO"
 					"#display_watch"		"Дивиться матч CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
@@ -5911,7 +5956,7 @@
 					"#display_gamewkshpmap"		"{#gamemode_%game:mode%} - Bản đồ Workshop"
 					"#display_gamewkshpmapscore"		"{#gamemode_%game:mode%} - Bản đồ Workshop %game:score%"
 					"#display_lobby"		"Trong phòng - {#gamemode_%game:mode%}"
-					"#display_menu"		"Đang chơi CS:GO"
+					"#display_menu"		"Playing Counter-Strike 2"
 					"#display_overwatch"		"Đang ở phiên CS:GO Overwatch"
 					"#display_watch"		"Theo dõi một trận CS:GO"
 					"#gamemap_ar_baggage"		"Baggage"
