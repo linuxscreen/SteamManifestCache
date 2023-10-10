@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"2166910"
+	"common"
+	{
+		"name"		"呆呆大冒险"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"83b84ee17d2690b2a2c88df592cbefa5110e5431"
+		"linuxclienticon"		"62310e78dd5c3b0a399d08e69556680d12df15f6"
+		"clienticns"		"62310e78dd5c3b0a399d08e69556680d12df15f6"
+		"clienttga"		"a5196a8e391e088231979d9609da253280f465ee"
+		"clienticon"		"62310e78dd5c3b0a399d08e69556680d12df15f6"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.128636069812515"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1685711648"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"slowpoke"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"slowpoke"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1677059005"
+		"community_hub_visible"		"1"
+		"gameid"		"2166910"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"14139"
+			"1"		"3959"
+			"2"		"1720"
+			"3"		"1677"
+			"4"		"1741"
+			"5"		"17305"
+			"6"		"4434"
+			"7"		"1716"
+			"8"		"122"
+			"9"		"4791"
+			"10"		"4325"
+			"11"		"3871"
+			"12"		"3964"
+			"13"		"1684"
+			"14"		"5984"
+			"15"		"21"
+			"16"		"4295"
+			"17"		"4182"
+			"18"		"5577"
+			"19"		"113"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"slowpoke"
+		"publisher"		"slowpoke"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"DaiDaiDaMaoXian"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DaiDaiDaMaoXian\\Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"2166911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1731325045212366743"
+					"size"		"927949997"
+					"download"		"785449792"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12384667"
+				"timeupdated"		"1696722687"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"www/save/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
