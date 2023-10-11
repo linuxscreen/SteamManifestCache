@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"1666300"
+	"common"
+	{
+		"name"		"Rogue Company Playtest"
+		"type"		"Beta"
+		"parent"		"872200"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"ab26c23e765986ae332d77171fb515a0b27afb20"
+		"clienticon"		"a52c5de7101ad97db5046e62eb16b8cd6d0bf9b3"
+		"icon"		"ec36ff029402b9cf4e1f7829f293fd12a71e6ce1"
+		"logo"		"c5748425a195be3e67343187e9b1b330e2476fda"
+		"logo_small"		"c5748425a195be3e67343187e9b1b330e2476fda_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1624544687"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1696263818"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1666300"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"betaforappid"		"872200"
+		"playtest_type"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Rogue Company Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RogueCompany.exe"
+				"arguments"		"-oss=steam -hirezenv=PTS -homedir=RogueCompanypts"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1666301"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5440810998299346756"
+					"size"		"27335002854"
+					"download"		"26174140720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_tester"
+				{
+					"gid"		"08FE8EEA5470A51DC395CFBDE53514A5"
+					"size"		"F18EE81C9FCFB89DBEDE9381B538D1DB"
+					"download"		"E38E7B7FFB4866FBC26E6FB06EEFA423"
+				}
+				"externalqa"
+				{
+					"gid"		"42201042E6F9E09A2C709C899EB72107"
+					"size"		"811B23122CFA8ACC9CC7034717BC3BE6"
+					"download"		"47DCE658E389B2B544252E9513E01AF7"
+				}
+				"livestaging"
+				{
+					"gid"		"FA460D6EE8D0848A5DFB8822F606CC17"
+					"size"		"0FAF57EC0BA2C5B186DDE4509221F38A"
+					"download"		"8E221387FB69E032CE69627F1B7870E9"
+				}
+				"rhdemo"
+				{
+					"gid"		"80B575899A9F94BCC8FAFBE52D15750F"
+					"size"		"33CA419C05BB2F5EF29BC3C72A3F55D7"
+					"download"		"BE8C01EF78B65EA65F6DD23ED63D74BD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12324968"
+				"timeupdated"		"1696080421"
+			}
+			"beta_tester"
+			{
+				"buildid"		"12324968"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696079364"
+			}
+			"externalqa"
+			{
+				"buildid"		"7794822"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638204109"
+			}
+			"livestaging"
+			{
+				"buildid"		"9756322"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668608747"
+			}
+			"rhdemo"
+			{
+				"buildid"		"8451244"
+				"pwdrequired"		"1"
+				"timeupdated"		"1648481883"
+			}
+		}
+	}
+}
