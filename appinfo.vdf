@@ -1,0 +1,162 @@
+"appinfo"
+{
+	"appid"		"2248870"
+	"common"
+	{
+		"name"		"Little white man"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"parent"		"224870"
+		"icon"		"f5cffa81d06b9c8acd4dc013126c955226441781"
+		"clienttga"		"6c88a433577d7afd2e74a30d42c8c418a7a6ede8"
+		"linuxclienticon"		"3b8bd7192e5ccc1f07d9b4fec9587fa929c62be8"
+		"clienticon"		"c0026bd56b79f5c93f66c8a8bfae49ccffb45fa7"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"38.68144690781804"
+				"height_pct"		"49.240085490382334"
+			}
+		}
+		"store_asset_mtime"		"1671773674"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cheng Yong Xing"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cheng Yong Xing"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1671865315"
+		"community_hub_visible"		"1"
+		"gameid"		"2248870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"3993"
+			"3"		"1697"
+			"4"		"4182"
+			"5"		"113"
+			"6"		"492"
+			"7"		"597"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"developer"		"Cheng Yong Xing"
+		"publisher"		"Cheng Yong Xing"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"WindowsNoEditor"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Little white man.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,schinese"
+		"2248872"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5940756470076502604"
+					"size"		"1134900642"
+					"download"		"1049964464"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10159714"
+				"timeupdated"		"1671164796"
+			}
+		}
+	}
+}
