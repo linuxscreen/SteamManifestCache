@@ -1,0 +1,238 @@
+"appinfo"
+{
+	"appid"		"1301850"
+	"common"
+	{
+		"name"		"Meditation VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"6cc2618a6e08ae45d892acb8feecf4f1c9e3e1ba"
+		"logo_small"		"6cc2618a6e08ae45d892acb8feecf4f1c9e3e1ba_thumb"
+		"icon"		"49df94a3e4fd6521a196f0361b98801926d37178"
+		"linuxclienticon"		"9fe5b721f310e347cfa812365b8522e96cf91345"
+		"clienttga"		"c4756ef4f7e20860900e3cdc01aa2e52866a3d28"
+		"clienticon"		"8c08c3ef617f9bfc8588246b3da27bd0a312ab9c"
+		"clienticns"		"0ba55e841404e76f92bb342903d057005bae9849"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openvr_action_manifest_path"		"WindowsNoEditor\\MeditationIsland\\Config\\SteamVRBindings\\steamvr_manifest.json"
+		"openvrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.50832716890081"
+				"height_pct"		"63.194444444444436"
+			}
+		}
+		"store_asset_mtime"		"1601568976"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Better Than Life"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Better Than Life"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1596214473"
+		"community_hub_visible"		"1"
+		"gameid"		"1301850"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"1654"
+			"2"		"3934"
+			"3"		"9994"
+			"4"		"4175"
+			"5"		"493"
+			"6"		"597"
+			"7"		"113"
+			"8"		"492"
+			"9"		"13782"
+			"10"		"9204"
+			"11"		"599"
+			"12"		"4191"
+			"13"		"29363"
+			"14"		"4835"
+			"15"		"4182"
+			"16"		"3859"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Better Than Life"
+		"publisher"		"Better Than Life"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Meditation VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor/MeditationIsland.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"WindowsNoEditor/Meditation_VR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"private-tracker"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1301851"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5588514377198635234"
+					"size"		"6265339570"
+					"download"		"6002459424"
+				}
+				"beta"
+				{
+					"gid"		"5588514377198635234"
+					"size"		"6265339570"
+					"download"		"6002459424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private"
+				{
+					"gid"		"EDF0F247286BC98C2F2C2AB1157F1578"
+					"size"		"0AC0E1B2FF648124EFFC2F3303B80413"
+					"download"		"206C7A342333D74A7DFE217033E65E2D"
+				}
+				"private-tracker"
+				{
+					"gid"		"C7BE3076EF5714A4601C0D94CA67134E"
+					"size"		"265722570F88CEBB3D52CAF022911D0C"
+					"download"		"8ED5EF1B3BDC2DE59898272AAF6620F4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5558999"
+				"timeupdated"		"1600364669"
+			}
+			"beta"
+			{
+				"buildid"		"5558999"
+				"timeupdated"		"1600362478"
+			}
+			"private"
+			{
+				"buildid"		"6087971"
+				"pwdrequired"		"1"
+				"timeupdated"		"1610720130"
+			}
+			"private-tracker"
+			{
+				"buildid"		"6384471"
+				"pwdrequired"		"1"
+				"timeupdated"		"1615833446"
+			}
+		}
+	}
+}
