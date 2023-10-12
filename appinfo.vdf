@@ -1,0 +1,171 @@
+"appinfo"
+{
+	"appid"		"1546550"
+	"common"
+	{
+		"name"		"Chickenman"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"d815c354a4272c94756ba6ebe37e8cef7c0806e3"
+		"clienticns"		"68107eb8018230493056060ab4da473ab073f794"
+		"linuxclienticon"		"c2fb700103b86333b87145148f2ffee2ed47419c"
+		"clienticon"		"13f2a77ef4dedf90cd324aa78fa221f47194aaa9"
+		"icon"		"72eb694fb28ec91e5663cedf1795aade83b43147"
+		"logo"		"e24dba5673554fbcd990c2730a1e320ff4973692"
+		"logo_small"		"e24dba5673554fbcd990c2730a1e320ff4973692_thumb"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1614247308"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Falling Light"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Falling Light"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1619158656"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1546550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1773"
+			"2"		"4158"
+			"3"		"5395"
+			"4"		"4191"
+			"5"		"1719"
+			"6"		"5752"
+			"7"		"3993"
+			"8"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Falling Light"
+		"publisher"		"Falling Light"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Chickenman"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Chickenman.app\\Contents\\MacOS\\Chickenman"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Chickenman\\Chickenman.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1546551"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4432156327033235875"
+					"size"		"267443192"
+					"download"		"93521200"
+				}
+			}
+		}
+		"1546552"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6084860532112778764"
+					"size"		"269505157"
+					"download"		"94031808"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6400848"
+				"timeupdated"		"1616069592"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
