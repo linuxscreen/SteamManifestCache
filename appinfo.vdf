@@ -1,0 +1,164 @@
+"appinfo"
+{
+	"appid"		"515020"
+	"common"
+	{
+		"name"		"The VR Museum of Fine Art"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"1"
+			}
+			"seated"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"4c957ecff1f87540af911863a41357b364c981d5"
+		"logo"		"eb2be21d85e05bdecfac1dbd40993559f2a6e77b"
+		"logo_small"		"eb2be21d85e05bdecfac1dbd40993559f2a6e77b_thumb"
+		"clienttga"		"15a06b0e2d24f17802715cc188d68c3b20084f2a"
+		"clienticon"		"dff5adf45e52c477f888b2b7649a680ebc389c44"
+		"openvrsupport"		"1"
+		"metacritic_name"		"The VR Museum of Fine Art"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1486095565"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Finn Sinclair"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Finn Sinclair"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+			"category_14"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1471713406"
+		"community_hub_visible"		"1"
+		"gameid"		"515020"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"597"
+			"2"		"599"
+			"3"		"492"
+			"4"		"21978"
+			"5"		"1036"
+			"6"		"6650"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Finn Sinclair"
+		"publisher"		"Finn Sinclair"
+		"homepage"		"https://polarsoftware.wordpress.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"The VR Museum of Fine Art"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Museum2.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"515021"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"962418223734191582"
+					"size"		"2294949289"
+					"download"		"946936944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"33AF86F4E43BF18099F6580BCB0C1661"
+					"size"		"D63F6A297479FD81428D1B90334C82E9"
+					"download"		"C917DAD8098D08BD9C30D47ECA86383A"
+				}
+			}
+		}
+		"515022"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1681946"
+				"timeupdated"		"1489117721"
+			}
+			"beta"
+			{
+				"buildid"		"1469933"
+				"pwdrequired"		"1"
+				"timeupdated"		"1479631010"
+			}
+		}
+	}
+}
