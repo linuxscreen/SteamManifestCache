@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"2416480"
+	"common"
+	{
+		"name"		"缘起"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"22bd33c2e9b264eaf4f999f12bba92aeb0efde88"
+		"clienticon"		"77fa16342c1119f0b15c63cab2ea66a552ed4fbd"
+		"clienttga"		"51396db9e8704a827b3163a677c814b7f88abfa0"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1694822400"
+			"tested_build_id"		"11447500"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"sc_schinese"		"header_sc_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1686539285"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"元宇灵境游戏工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"元宇灵境游戏工作室"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1687939756"
+		"community_hub_visible"		"1"
+		"gameid"		"2416480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"122"
+			"2"		"6506"
+			"3"		"42804"
+			"4"		"1718"
+			"5"		"4191"
+			"6"		"4562"
+			"7"		"4608"
+			"8"		"1684"
+			"9"		"3942"
+			"10"		"113"
+			"11"		"492"
+			"12"		"3993"
+			"13"		"1775"
+			"14"		"4182"
+			"15"		"3859"
+			"16"		"3841"
+		}
+	}
+	"extended"
+	{
+		"developer"		"元宇灵境游戏工作室"
+		"publisher"		"元宇灵境游戏工作室"
+		"homepage"		"http://www.cdyylj.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"LJworld"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LJworld\\LJWorld.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2416481"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4988308446097041869"
+					"size"		"687874394"
+					"download"		"578545184"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11447500"
+				"timeupdated"		"1686561485"
+			}
+		}
+	}
+}
