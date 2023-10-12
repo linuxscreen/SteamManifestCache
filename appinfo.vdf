@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"2471780"
+	"common"
+	{
+		"name"		"Lost Connections"
+		"type"		"Game"
+		"icon"		"00f48e34b6b273f950857ce54f4fa19a2718c3cb"
+		"clienttga"		"d734b6f5ad2bc193e199fcd7b337312f80fb8eb9"
+		"clienticon"		"b4b3bcfbb9f2acd997faa728f3f94a732ae197dc"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1696291200"
+			"tested_build_id"		"11604936"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"59.88120946251226"
+				"height_pct"		"49.88893176600965"
+			}
+		}
+		"store_asset_mtime"		"1686838905"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Amber Pearl"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Nofar Evyoni"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Amber Pearl"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1688082955"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2471780"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"3799"
+			"2"		"1742"
+			"3"		"6971"
+			"4"		"5608"
+			"5"		"6426"
+			"6"		"4726"
+			"7"		"44868"
+			"8"		"4305"
+			"9"		"7208"
+			"10"		"4166"
+			"11"		"4486"
+			"12"		"11014"
+			"13"		"3839"
+			"14"		"31275"
+			"15"		"4947"
+			"16"		"15172"
+			"17"		"4182"
+			"18"		"113"
+			"19"		"3871"
+		}
+		"review_score"		"7"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Amber Pearl"
+		"publisher"		"Amber Pearl"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Lost Connections"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"lost_connections.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2471781"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2102145440243822522"
+					"size"		"121121423"
+					"download"		"89810448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"B0E36EDD04F88A871894D4B4C0FF85E4"
+					"size"		"354845480FE4DBBCBBD1B5FA992B1E66"
+					"download"		"4F66D8D666C928C2CF0DB59440250265"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11604936"
+				"timeupdated"		"1688209969"
+			}
+			"developer"
+			{
+				"buildid"		"11604936"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688209823"
+			}
+		}
+	}
+}
