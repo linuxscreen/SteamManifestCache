@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"1987290"
+	"common"
+	{
+		"name"		"Mebula"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"icon"		"6ce57f4fe1bf5fbbfe1bd394a84586afa399ec30"
+		"clienttga"		"15467974f75570a411aa811473e5d0c04521671a"
+		"clienticon"		"c4a317f539069079d2f03eb6280a061a49bc0e9c"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1652773739"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BITMEUP"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BITMEUP"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"29"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1654862782"
+		"community_hub_visible"		"1"
+		"gameid"		"1987290"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"916648"
+			"2"		"5652"
+			"3"		"6730"
+			"4"		"1775"
+			"5"		"122"
+			"6"		"1754"
+			"7"		"4747"
+			"8"		"4975"
+			"9"		"7481"
+			"10"		"1695"
+			"11"		"5711"
+			"12"		"597"
+			"13"		"4325"
+			"14"		"21"
+			"15"		"4182"
+			"16"		"4085"
+			"17"		"4155"
+			"18"		"7569"
+			"19"		"128"
+		}
+		"review_score"		"4"
+		"review_percentage"		"33"
+	}
+	"extended"
+	{
+		"developer"		"BITMEUP"
+		"publisher"		"BITMEUP"
+		"homepage"		"https://mebula.bitmeup.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mebula"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mebula.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mebula.app"
+				"arguments"		"--in-process-gpu --disable-direct-composition"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1987291"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6047092535182434444"
+					"size"		"233076517"
+					"download"		"77454544"
+				}
+			}
+		}
+		"1987292"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"408498992992132546"
+					"size"		"207210376"
+					"download"		"73054448"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9969335"
+				"timeupdated"		"1668785924"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
