@@ -1,0 +1,147 @@
+"appinfo"
+{
+	"appid"		"659630"
+	"common"
+	{
+		"name"		"Tiny Toyfare"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"75d9c090ea34a93d676783ff5626e71093d9a6c3"
+		"logo_small"		"75d9c090ea34a93d676783ff5626e71093d9a6c3_thumb"
+		"icon"		"a45adef28eb7b6ad20623c29e13119c5268b72a8"
+		"linuxclienticon"		"175f26562dc543c09b128a519a80e2ab350a1bf4"
+		"clienticns"		"175f26562dc543c09b128a519a80e2ab350a1bf4"
+		"clienttga"		"4d333ce31a414dffc2906430e5aaa6e90ebed300"
+		"clienticon"		"f7010092da1e432d561b9d7aed2edcb884012b3b"
+		"releasestate"		"released"
+		"metacritic_name"		"Tiny Toyfare"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1508277466"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Super Suite Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Super Suite Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1508342302"
+		"community_hub_visible"		"1"
+		"gameid"		"659630"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"9"
+			"3"		"19"
+			"4"		"1645"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"Super Suite Studios"
+		"publisher"		"Super Suite Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tiny Toyfare"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tiny Toyfare.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"659631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8364218066266695476"
+					"size"		"2848955946"
+					"download"		"745630656"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2144082"
+				"timeupdated"		"1506287450"
+			}
+		}
+	}
+}
