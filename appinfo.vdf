@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1763330"
+	"common"
+	{
+		"name"		"Polyslime"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"linuxclienticon"		"d3cc485f5352217f1728b3c3c260eeae5a332610"
+		"clienttga"		"3467a73edfe3f44cae2a05419c707211ce8aeff4"
+		"icon"		"6e628f9f6647a5c095c0ecc3d8e54a6eba54e6e5"
+		"logo"		"7fc1ab3494885498bbc9a67180ee2799dfd6d04d"
+		"logo_small"		"7fc1ab3494885498bbc9a67180ee2799dfd6d04d_thumb"
+		"clienticns"		"d3cc485f5352217f1728b3c3c260eeae5a332610"
+		"clienticon"		"67b5716a15555e7f2fb48debab154146fbd24f46"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1655510400"
+			"tested_build_id"		"8811107"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1633117336"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"franchise"
+				"name"		"None"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1634158440"
+		"community_hub_visible"		"1"
+		"gameid"		"1763330"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"9"
+			"2"		"1084988"
+			"3"		"5379"
+			"4"		"1646"
+			"5"		"3871"
+			"6"		"4305"
+			"7"		"4252"
+			"8"		"1702"
+			"9"		"5350"
+			"10"		"1662"
+			"11"		"1659"
+			"12"		"5796"
+			"13"		"6276"
+			"14"		"12057"
+			"15"		"4182"
+		}
+	}
+	"extended"
+	{
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Polyslime"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Polyslime.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1763331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1927251173871071808"
+					"size"		"74768529"
+					"download"		"10277296"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8979740"
+				"timeupdated"		"1655942452"
+			}
+		}
+	}
+}
