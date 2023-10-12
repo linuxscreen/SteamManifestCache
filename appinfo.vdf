@@ -1,0 +1,164 @@
+"appinfo"
+{
+	"appid"		"2548580"
+	"common"
+	{
+		"name"		"Vahluna"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"fb89379d77b61f455febe7eaaed58be634b7609b"
+		"icon"		"9be58cc4d9a9ae063c7f8a075d5d492a5835ed08"
+		"clienticon"		"53ded7416a5b22e3ad3eb125c820c4a07a4b6e66"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"59.19297675873227"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692445072"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dylan Gray"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dylan Gray"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1693917060"
+		"community_hub_visible"		"1"
+		"gameid"		"2548580"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"19"
+			"2"		"4182"
+			"3"		"1687"
+			"4"		"1774"
+			"5"		"1664"
+			"6"		"1673"
+			"7"		"1755"
+			"8"		"1738"
+			"9"		"5537"
+			"10"		"3814"
+			"11"		"492"
+			"12"		"4191"
+			"13"		"4195"
+			"14"		"1697"
+			"15"		"4136"
+			"16"		"1662"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Dylan Gray"
+		"publisher"		"Dylan Gray"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Vahluna"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor\\VahlunaCo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2548581"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4347852871491316088"
+					"size"		"803900129"
+					"download"		"702404064"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11878649"
+				"timeupdated"		"1691339371"
+			}
+		}
+	}
+}
