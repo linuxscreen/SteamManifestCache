@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"2187370"
+	"common"
+	{
+		"name"		"Blindsight: War of the Wardens"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"d3dac3aae528f7d11a74b3efef892f2ecdf65fc3"
+		"linuxclienticon"		"892c48ee173141c7a97a90045fd0b2e99eef73b9"
+		"clienttga"		"cc55232e773a3a66be5cab85d2f89b8f85c812e2"
+		"clienticon"		"751fdc2a4f0497c27c2a1b992913a5dc90d723fa"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.60940215955932"
+				"height_pct"		"46.49512751394201"
+			}
+		}
+		"store_asset_mtime"		"1690245592"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Posh Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Juggernaut Entertainment"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"USC Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1683906259"
+		"community_hub_visible"		"1"
+		"gameid"		"2187370"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4106"
+			"3"		"4158"
+			"4"		"3834"
+			"5"		"4191"
+			"6"		"4252"
+			"7"		"1697"
+			"8"		"1684"
+			"9"		"6915"
+			"10"		"1671"
+			"11"		"3993"
+			"12"		"7481"
+			"13"		"6730"
+			"14"		"1742"
+			"15"		"4182"
+			"16"		"4145"
+			"17"		"1751"
+			"18"		"6506"
+			"19"		"4777"
+		}
+		"review_score"		"7"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"Posh Entertainment"
+		"publisher"		"Juggernaut Entertainment"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Blindsight War of the Wardens"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blindsight.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"3"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2187371"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3676633109676983091"
+					"size"		"12562624909"
+					"download"		"2078000016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer-test-build"
+				{
+					"gid"		"5CCFCA5A7673EF9419219D43BA161DAC"
+					"size"		"A97311DB849E407CD6CCD548169B08F9"
+					"download"		"B2C8144C01AD7F4089A1FCA780157A5A"
+				}
+				"public-playtesting"
+				{
+					"gid"		"F716EBDF38D950CEC395902F79BA3BCC"
+					"size"		"BE8BC1C3BC2ACD331A4696A10A879D32"
+					"download"		"2087AF92D3289B4FAC3915F5FDD737CE"
+				}
+				"usc-games-expo-2023"
+				{
+					"gid"		"C573D8579A4B507A1CBB12ACEEF25BCC"
+					"size"		"14F9D2F5BC226F1DB6BA4C6EA7962E51"
+					"download"		"34C97434959ECA5D17813A98532D8BFA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11216905"
+				"timeupdated"		"1683885853"
+			}
+			"developer-test-build"
+			{
+				"buildid"		"11831747"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690832094"
+			}
+			"public-playtesting"
+			{
+				"buildid"		"11875208"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691254905"
+			}
+			"usc-games-expo-2023"
+			{
+				"buildid"		"11509088"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687204969"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
