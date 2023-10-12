@@ -1,0 +1,271 @@
+"appinfo"
+{
+	"appid"		"767590"
+	"common"
+	{
+		"name"		"Raining blocks"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"languages"
+		{
+			"english"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+		}
+		"logo"		"12e6c25ccf2a76b5319bfee6d0e110c427b9618c"
+		"logo_small"		"12e6c25ccf2a76b5319bfee6d0e110c427b9618c_thumb"
+		"icon"		"5c01c18673b6f0d1fb01cc32e70773c7304608ae"
+		"clienttga"		"486b9b8dff88acde2373add31c60056eb2e2e9e7"
+		"clienticon"		"a6211c3554bbc8c20cc5a94d9b79983391180dcb"
+		"linuxclienticon"		"8c732e20e5c2b39cd4584c09a731a9fe0c2ab91d"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"767590_eula_0"
+				"name"		"Raining blocks EULA"
+				"url"		"http://store.steampowered.com//eula/767590_eula_0"
+			}
+		}
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1689638400"
+			"tested_build_id"		"10429965"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Raining blocks"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"35.390199637023585"
+				"height_pct"		"82.63888888888889"
+			}
+		}
+		"store_asset_mtime"		"1577974456"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Oscar Ortigueira López"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"OrtiGames/OrtiSoft"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"OrtiGames/OrtiSoft"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_44"		"1"
+			"category_37"		"1"
+			"category_43"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1515058980"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"767590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"597"
+			"2"		"492"
+			"3"		"5350"
+			"4"		"5537"
+		}
+		"review_score"		"7"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Oscar Ortigueira López"
+		"publisher"		"OrtiGames/OrtiSoft"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Raining blocks"
+		"steamcontrollertemplateindex"		"4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RainingBlocks.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"RainingBlocks.exe"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,spanish,schinese"
+		"767591"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1712761234231633593"
+					"size"		"145801513"
+					"download"		"54989520"
+				}
+				"old1_1"
+				{
+					"gid"		"7449666930450083141"
+					"size"		"89644921"
+					"download"		"68745264"
+				}
+			}
+		}
+		"767594"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4723663128775298491"
+					"size"		"127720763"
+					"download"		"51540128"
+				}
+				"old1_1"
+				{
+					"gid"		"6014940026858746758"
+					"size"		"84178860"
+					"download"		"65737872"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10429965"
+				"timeupdated"		"1677519437"
+			}
+			"old1_1"
+			{
+				"buildid"		"3122972"
+				"description"		"Old 1.1f patch. With the sync bug and mac-linux builds"
+				"timeupdated"		"1677519558"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"5"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
