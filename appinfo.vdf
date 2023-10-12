@@ -1,0 +1,287 @@
+"appinfo"
+{
+	"appid"		"1460540"
+	"common"
+	{
+		"name"		"Farlanders: Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"daeb9454b7c1f26cfaf075466050896999b5c52f"
+		"logo_small"		"daeb9454b7c1f26cfaf075466050896999b5c52f_thumb"
+		"icon"		"4b61ac087b2dd0bb4a59d18851cc4565955c47ac"
+		"clienttga"		"4eb810fbe198cf18d71ea98c1aeb612728534a6e"
+		"clienticon"		"601daeb3a142f973de033d5e6e11e8b68b58634a"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660608000"
+			"tested_build_id"		"7464942"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1621353518"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Andriy Bychkovskyi"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Crytivo"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1621353660"
+		"community_hub_visible"		"1"
+		"gameid"		"1460540"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"7332"
+			"1"		"220585"
+			"2"		"6702"
+			"3"		"9"
+			"4"		"5125"
+			"5"		"1741"
+			"6"		"1643"
+			"7"		"4328"
+			"8"		"3964"
+			"9"		"599"
+			"10"		"1662"
+			"11"		"4791"
+			"12"		"3871"
+			"13"		"8945"
+			"14"		"4695"
+			"15"		"12472"
+			"16"		"5851"
+			"17"		"4182"
+			"18"		"1755"
+			"19"		"7208"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Andriy Bychkovskyi"
+		"publisher"		"Crytivo"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Farlanders Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Farlanders Prologue.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"farlanders-prologue-macos.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"Farlanders Prologue.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1460541"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3842645572252516198"
+					"size"		"629246489"
+					"download"		"217137440"
+				}
+				"beta"
+				{
+					"gid"		"3842645572252516198"
+					"size"		"629246489"
+					"download"		"217137440"
+				}
+			}
+		}
+		"1460542"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8211409586836305868"
+					"size"		"652570866"
+					"download"		"224179760"
+				}
+				"beta"
+				{
+					"gid"		"8211409586836305868"
+					"size"		"652570866"
+					"download"		"224179760"
+				}
+			}
+		}
+		"1460543"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8790815766720029642"
+					"size"		"673495064"
+					"download"		"218931648"
+				}
+				"beta"
+				{
+					"gid"		"8790815766720029642"
+					"size"		"673495064"
+					"download"		"218931648"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7464942"
+				"timeupdated"		"1633133882"
+			}
+			"beta"
+			{
+				"buildid"		"7464942"
+				"description"		"public beta"
+				"timeupdated"		"1633133890"
+			}
+		}
+	}
+}
