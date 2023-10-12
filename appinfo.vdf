@@ -1,0 +1,242 @@
+"appinfo"
+{
+	"appid"		"2120060"
+	"common"
+	{
+		"name"		"Socrates Jones: Pro Philosopher"
+		"type"		"Game"
+		"icon"		"2c1969d90ad82ff8aa2be752e699c64e6230a71c"
+		"clienticon"		"f12befb76c4cb6a71bd6a4bd45a8ef7c34bd3743"
+		"clienttga"		"8730f1c68e7865ced811137f13c1059c9b41d968"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1681171200"
+			"tested_build_id"		"10903648"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"44.79969207812144"
+				"height_pct"		"87.92974782080687"
+			}
+		}
+		"store_asset_mtime"		"1680893688"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Intelligible Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Intelligible Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Pro Philosopher"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1680006043"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2120060"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"15277"
+			"1"		"3799"
+			"2"		"1036"
+			"3"		"21"
+			"4"		"1664"
+			"5"		"4136"
+			"6"		"3987"
+			"7"		"4085"
+			"8"		"15172"
+			"9"		"3871"
+			"10"		"1742"
+			"11"		"6129"
+			"12"		"5984"
+			"13"		"6426"
+			"14"		"4305"
+			"15"		"1719"
+			"16"		"5716"
+			"17"		"4486"
+			"18"		"113"
+			"19"		"597"
+		}
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Intelligible Games"
+		"publisher"		"Intelligible Games"
+		"homepage"		"https://twitter.com/Pro_Philosopher"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Socrates Jones Pro Philosopher"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Pro Philosopher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MacOS.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"workshopdepot"		"2120060"
+		"2120061"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7796331162978992479"
+					"size"		"463407558"
+					"download"		"86682528"
+				}
+			}
+		}
+		"2120062"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"986213611069249738"
+					"size"		"448618580"
+					"download"		"68599792"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11298415"
+				"timeupdated"		"1684855432"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Intelligible Games/Pro Philosopher"
+				"pattern"		"save.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
