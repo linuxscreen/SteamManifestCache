@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"2224020"
+	"common"
+	{
+		"name"		"MalovMetaArt"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"16e83c2fcdde2d34881f77773afb88443cd51fd1"
+		"clienticon"		"e34d4d723f22715f6800e602ed6bc75c142bc1ca"
+		"clienttga"		"1f750d91a79ed19d30654b06168be07779ea3f2f"
+		"openxrsupport"		"1"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1693311432"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Malov Meta Art"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Malov Meta Art"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"37"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1676910639"
+		"community_hub_visible"		"1"
+		"gameid"		"2224020"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"21978"
+			"2"		"10235"
+			"3"		"9204"
+			"4"		"4175"
+			"5"		"4182"
+			"6"		"3987"
+			"7"		"4166"
+			"8"		"113"
+			"9"		"493"
+			"10"		"4191"
+			"11"		"6650"
+			"12"		"5900"
+			"13"		"6869"
+		}
+		"review_score"		"7"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Malov Meta Art"
+		"publisher"		"Malov Meta Art"
+		"homepage"		"https://malovmeta.art/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MalovMetaArt"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VirtualMuseum.exe"
+				"type"		"openxr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2224021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5018016514497122209"
+					"size"		"48780182790"
+					"download"		"48687764080"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12031107"
+				"timeupdated"		"1693306889"
+			}
+		}
+	}
+}
