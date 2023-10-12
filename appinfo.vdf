@@ -1,0 +1,245 @@
+"appinfo"
+{
+	"appid"		"1120050"
+	"common"
+	{
+		"name"		"Hyacinthus"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"12e34f14b17997c41b4c9ade88f59d0059c7c702"
+		"logo_small"		"12e34f14b17997c41b4c9ade88f59d0059c7c702_thumb"
+		"icon"		"aa26fdb85431dcd7dfbd50636843e4f8d8cbdb52"
+		"clienttga"		"9ada72a1542d232895278eb28c8a43180efe372d"
+		"clienticon"		"49438204217c640d82d49ed09a06295a24955ce7"
+		"metacritic_name"		"Hyacinthus"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.14932126696833"
+				"height_pct"		"96.18055555555556"
+			}
+		}
+		"store_asset_mtime"		"1569231939"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"朽木布可凋夜"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JingtuStudio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"JingtuStudio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1564371111"
+		"community_hub_visible"		"1"
+		"gameid"		"1120050"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"朽木布可凋夜"
+		"publisher"		"JingtuStudio"
+		"isfreeapp"		"1"
+		"listofdlc"		"1120070"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hyacinthus"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"-window"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"1120051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5278944723410324072"
+					"size"		"51317696"
+					"download"		"50987392"
+				}
+			}
+		}
+		"1120052"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2439780214631101370"
+					"size"		"51353571"
+					"download"		"50996400"
+				}
+			}
+		}
+		"1120053"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1261222956047710452"
+					"size"		"56857488"
+					"download"		"53927056"
+				}
+			}
+		}
+		"1120054"
+		{
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"windows"
+			}
+		}
+		"1120055"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8631980194951846441"
+					"size"		"51553794"
+					"download"		"51226784"
+				}
+			}
+		}
+		"1120070"
+		{
+			"dlcappid"		"1120070"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"341278889725725555"
+					"size"		"24"
+					"download"		"80"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5279884"
+				"timeupdated"		"1594556873"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"*.rvdata"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
