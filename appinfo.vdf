@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"2351820"
+	"common"
+	{
+		"name"		"Stelarace"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"a5e8e21b84902a473dceb193d0226971fd127d5f"
+		"clienttga"		"23ed1231bdad0dda87bfc8633d0ef7a4642e1f42"
+		"linuxclienticon"		"c6d0bb9c343600a9a58c96396670043e1cba3e92"
+		"clienticns"		"c6d0bb9c343600a9a58c96396670043e1cba3e92"
+		"clienticon"		"2ff91fca6f75c842ce30535cbe16f08c75028d62"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1680158115"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Agate"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Agate"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1681749229"
+		"community_hub_visible"		"1"
+		"gameid"		"2351820"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"1773"
+			"2"		"8666"
+			"3"		"4191"
+			"4"		"1697"
+			"5"		"4295"
+			"6"		"7481"
+			"7"		"3859"
+			"8"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Agate"
+		"publisher"		"Agate"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Stelarace"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UnrealShowcase.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"UnrealShowcase.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2351821"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7304236562592501255"
+					"size"		"985472760"
+					"download"		"558774640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"21768F2C391E6108972FF02925FFF212"
+					"size"		"9BF8FCF75B56018EC211780B1466626B"
+					"download"		"76FC973791D9BBA46D3808140DCAA47C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11909538"
+				"timeupdated"		"1691736986"
+			}
+			"test"
+			{
+				"buildid"		"10889842"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691739915"
+			}
+		}
+	}
+}
