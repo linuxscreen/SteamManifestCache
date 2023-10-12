@@ -1,0 +1,407 @@
+"appinfo"
+{
+	"appid"		"259470"
+	"common"
+	{
+		"name"		"Particulars"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"aca551f72c3a0af50473aac237f9d447d6d6b5ce"
+		"logo_small"		"aca551f72c3a0af50473aac237f9d447d6d6b5ce_thumb"
+		"clienticon"		"066c0cb645454e2f5e54864a15b1892617d71bc1"
+		"clienttga"		"03918beded682e0c52ee7047502d1ae51f09a757"
+		"icon"		"7a6c02192e98759a15c546e9c5d2c1f725654662"
+		"osarch"		""
+		"osextended"		"macos64"
+		"metacritic_name"		"Particulars"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1416361205"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SeeThrough Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SeeThrough Studios"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1416435900"
+		"metacritic_score"		"74"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/particulars?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"259470"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"1664"
+			"2"		"3968"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"developer"		"SeeThrough Studios"
+		"publisher"		"SeeThrough Studios"
+		"homepage"		"http://particulars-game.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"266810,267870"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Particulars"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"particulars_win.exe"
+				"description"		"Launch Win"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"particulars_mac.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"4"
+			{
+				"executable"		"particulars_lin"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"baselanguages"		"english"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"259471"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4551164518697448535"
+					"size"		"1398376977"
+					"download"		"928708176"
+				}
+				"beta"
+				{
+					"gid"		"7786237657139849675"
+					"size"		"1398376977"
+					"download"		"928708176"
+				}
+				"notfullscreen"
+				{
+					"gid"		"5091904988414719455"
+					"size"		"292851243"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"complete"
+				{
+					"gid"		"8E056FA1B68FFAB1C1E76DC4A9A62961"
+					"size"		"E3B5719BD68871E79FD16C0FDA46ECCB"
+					"download"		"E62F2BDD39637FFA5CF2587C3D87AB0B"
+				}
+				"developer"
+				{
+					"gid"		"0A47FAEE4B17837109EEF38FD1D0627E"
+					"size"		"B893BE84ADF8F05C5AB977D0305BA955"
+					"download"		"38773FB43F1CA2D92D3C768C0132F3C0"
+				}
+				"gdc"
+				{
+					"gid"		"32F7EFBA21DBE6293B40B3305042E7A8"
+					"size"		"B2A311D2AB0CF42D01B55CF75B162F52"
+					"download"		"460DDE08E7ED6C5A609D4E1A5145A6D0"
+				}
+				"review"
+				{
+					"gid"		"8692ED757EB9FED4F321E31396E091A3"
+					"size"		"32B8B5016E2ABDC83D34C34549742829"
+					"download"		"FF26A3A0B0940106B07ADDC7322EDEC6"
+				}
+			}
+		}
+		"259472"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"225310746013416546"
+					"size"		"1417994670"
+					"download"		"932844176"
+				}
+				"beta"
+				{
+					"gid"		"105087051723326089"
+					"size"		"1416726753"
+					"download"		"932569168"
+				}
+				"notfullscreen"
+				{
+					"gid"		"2219253230027539230"
+					"size"		"296340577"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"complete"
+				{
+					"gid"		"3A2F1E95F0C258DCD20FE668FC694E35"
+					"size"		"8B8628D91A7D1C8C1995ABDB21E08850"
+					"download"		"15E30E555253561672A3F3EFC71CBB7E"
+				}
+				"developer"
+				{
+					"gid"		"37B860DA20B13265BBEDAFBE6B78423A"
+					"size"		"A5B368A954C4A99A6EB9B06D41794ED2"
+					"download"		"5360DDFB78E51870D15C217283AD158B"
+				}
+				"gdc"
+				{
+					"gid"		"34CD9F6A1A60542CFC47970D34B4DE39"
+					"size"		"974F0532C0549FFF7CDB1F76B7452E09"
+					"download"		"460DDE08E7ED6C5A609D4E1A5145A6D0"
+				}
+				"review"
+				{
+					"gid"		"8CEC163E5E56F3BD08AA35B23119ED35"
+					"size"		"186D00F583E3FA901D690362041C8E71"
+					"download"		"4F9E6881C88BE645EB7AE750081CB9C3"
+				}
+			}
+		}
+		"259473"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1344844659391204705"
+					"size"		"1340262367"
+					"download"		"894168016"
+				}
+				"beta"
+				{
+					"gid"		"8451350383712153019"
+					"size"		"1416726753"
+					"download"		"932562448"
+				}
+				"notfullscreen"
+				{
+					"gid"		"2219030977355061203"
+					"size"		"321922356"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"complete"
+				{
+					"gid"		"A49ACB185A588FF42AB1ABFCDD0EC303"
+					"size"		"D677BBE327427EA3B666DB360B877C6A"
+					"download"		"08F4A4009E588FF80DB90E6EB07B649D"
+				}
+				"developer"
+				{
+					"gid"		"ECB1A1C4F2B10FFC25BC411355BC3213"
+					"size"		"B19F5116E92B7DFC603BF0DCFE618F7C"
+					"download"		"BF4123D9B15287D6E2661A1EB62DC66F"
+				}
+				"gdc"
+				{
+					"gid"		"BB0F3A7D29046910A7BB3A17646576F6"
+					"size"		"978FE62F63A625228BE6F2539EC31F89"
+					"download"		"460DDE08E7ED6C5A609D4E1A5145A6D0"
+				}
+				"review"
+				{
+					"gid"		"4D5FF790AE565847986C7170C76AA501"
+					"size"		"4770C225910611504C8C2859600BF685"
+					"download"		"3B3BA9C904F762DC89B3EAA72D30EEE2"
+				}
+			}
+		}
+		"266810"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3730320073513055405"
+					"size"		"102313353"
+					"download"		"87785184"
+				}
+				"beta"
+				{
+					"gid"		"3730320073513055405"
+					"size"		"102313353"
+					"download"		"87785184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"complete"
+				{
+					"gid"		"048763E63FCF465D500962C2BC99A090"
+					"size"		"39B7A55399D864BA590DE090307F63FC"
+					"download"		"57B10D986590D3E89E6C1B5EA289FAC5"
+				}
+				"developer"
+				{
+					"gid"		"621C5CB15E5149725FF1799018400C7E"
+					"size"		"5C5FF0DC033321C0C966F0F85AFF120A"
+					"download"		"D5BA5FD4100E16318D9485F5395498EA"
+				}
+				"review"
+				{
+					"gid"		"46D54566525CE584D985868E03A6BEDD"
+					"size"		"1A1E04C2C251C132798AF102F3093A5B"
+					"download"		"551FBACD83191B640F9171F4DF3E0F59"
+				}
+			}
+			"dlcappid"		"266810"
+		}
+		"267870"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"267870"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5830254"
+				"timeupdated"		"1605335466"
+			}
+			"beta"
+			{
+				"buildid"		"2507708"
+				"description"		"for the adventurous (bugs likely be here!)"
+				"timeupdated"		"1518070322"
+			}
+			"complete"
+			{
+				"buildid"		"2503518"
+				"pwdrequired"		"1"
+				"timeupdated"		"1518437658"
+			}
+			"developer"
+			{
+				"buildid"		"5830254"
+				"pwdrequired"		"1"
+				"timeupdated"		"1605335005"
+			}
+			"gdc"
+			{
+				"buildid"		"212760"
+				"pwdrequired"		"1"
+			}
+			"notfullscreen"
+			{
+				"buildid"		"204348"
+			}
+			"review"
+			{
+				"buildid"		"2503518"
+				"pwdrequired"		"1"
+				"timeupdated"		"1518437671"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000"
+		"maxnumfiles"		"10"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
