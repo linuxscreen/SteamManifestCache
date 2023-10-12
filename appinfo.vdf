@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1923480"
+	"common"
+	{
+		"name"		"Battle of the Four Towers"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"b99616d09361e981f668c2cbbd60e09753661849"
+		"logo_small"		"b99616d09361e981f668c2cbbd60e09753661849_thumb"
+		"icon"		"e306e7c56d0976c11f164a4a72b41b48341e4a15"
+		"clienticns"		"deff246c25f5e3a3b28568dfd92094dd59c6febe"
+		"clienticon"		"963c3eb388e091cf92878d75e76417f814eee3b3"
+		"clienttga"		"e00bcdb283446943b0c2706d9f7374c8572996ba"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.20930232558139"
+				"height_pct"		"56.45927333175018"
+			}
+		}
+		"store_asset_mtime"		"1647126852"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SlippyfopGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SlippyfopGames"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1647683750"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1923480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"3859"
+			"2"		"4191"
+			"3"		"3839"
+			"4"		"4295"
+			"5"		"16250"
+			"6"		"493"
+			"7"		"1775"
+			"8"		"113"
+			"9"		"17389"
+		}
+		"review_score"		"7"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"SlippyfopGames"
+		"publisher"		"SlippyfopGames"
+		"homepage"		"https://battleofthe4towers.wordpress.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Battle of the Four Towers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Battle of the Four Towers.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1923481"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8394633687766265394"
+					"size"		"383473917"
+					"download"		"228860528"
+				}
+				"local"
+				{
+					"gid"		"4495794054607624520"
+					"size"		"383174685"
+					"download"		"228841504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alphatest"
+				{
+					"gid"		"ED3BB25E451D3DBFF0E8E18270DCE5E5"
+					"size"		"442177EFC562A0836E41EA89113717CD"
+					"download"		"3012E67601EF138ED4ED2DB255865DCD"
+				}
+				"beta"
+				{
+					"gid"		"67DA573C2CE20C4D2D5BF921058C7BC4"
+					"size"		"CB56ACA5EE465B563F03ED7BA93460AC"
+					"download"		"0CA4592B8470C7598A1D7F7452D3FE76"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8766014"
+				"timeupdated"		"1652912246"
+			}
+			"alphatest"
+			{
+				"buildid"		"8766014"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652912197"
+			}
+			"beta"
+			{
+				"buildid"		"8408907"
+				"pwdrequired"		"1"
+				"lcsrequired"		"1"
+				"timeupdated"		"1647859263"
+			}
+			"local"
+			{
+				"buildid"		"8408907"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1647859159"
+			}
+		}
+	}
+}
