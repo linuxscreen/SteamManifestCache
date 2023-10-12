@@ -1,0 +1,227 @@
+"appinfo"
+{
+	"appid"		"1784410"
+	"common"
+	{
+		"name"		"Hope Despair Chaos"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"acd25a2e64379a72a0eb6fef9cac04614decd75a"
+		"logo_small"		"acd25a2e64379a72a0eb6fef9cac04614decd75a_thumb"
+		"icon"		"3b9e46ae2b11784a11653d3fec6521ed295988d9"
+		"clienticon"		"31c845160d26ed5b9d69c3ea4834861ee934165e"
+		"clienttga"		"49806bda5be3e2f32df365134fb6fb1d83adaa53"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1784410_eula_0"
+				"name"		"Hope Despair Chaos EULA"
+				"url"		"https://store.steampowered.com//eula/1784410_eula_0"
+				"version"		"1"
+			}
+		}
+		"market_presence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1636043638"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nguyen Trong Khanh"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nguyen Trong Khanh"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Hope Despair Chaos"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1636330228"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1784410"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"745697"
+			"2"		"4191"
+			"3"		"493"
+			"4"		"492"
+			"5"		"4231"
+			"6"		"3859"
+			"7"		"597"
+			"8"		"176981"
+			"9"		"1697"
+			"10"		"1755"
+			"11"		"1667"
+			"12"		"1662"
+			"13"		"3942"
+			"14"		"1685"
+			"15"		"599"
+			"16"		"4166"
+			"17"		"1687"
+			"18"		"1775"
+			"19"		"4136"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		""
+		"developer"		"Nguyen Trong Khanh"
+		"publisher"		"Nguyen Trong Khanh"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hope Despair Chaos"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hope Despair Chaos.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Option 0"
+				}
+				"description"		"Launch Option 0"
+			}
+		}
+	}
+	"depots"
+	{
+		"1784411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"157010932251316482"
+					"size"		"151600093"
+					"download"		"41838096"
+				}
+			}
+		}
+		"1784412"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7661330"
+				"timeupdated"		"1636329736"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#steamdisplaytoken"		"{#ActToken_%player_act%}{#ObjToken_%player_obj%}"
+					"#acttoken_"		"????"
+					"#acttoken_research"		"Researching"
+					"#acttoken_play"		"Playing"
+					"#acttoken_adventure"		"Adventuring"
+					"#acttoken_sneak"		"Sneaking"
+					"#acttoken_roleplay"		"Roleplaying"
+					"#acttoken_attendtrial"		"Attending trial"
+					"#acttoken_investigate"		"Investigating"
+					"#acttoken_ghostaround"		"Ghost around"
+					"#objtoken_"		" HELP"
+					"#objtoken_roomzero"		" at the main menu"
+					"#objtoken_roomwait"		" in the waiting room"
+					"#objtoken_crimescene"		" at the crime scene"
+					"#objtoken_entrancetest"		" with an Entrance Test"
+					"#objtoken_cloth"		" with Cloths"
+					"#objtoken_talentless"		" as a Talentless"
+					"#objtoken_plumber"		" as a Plumber"
+					"#objtoken_engineer"		" as a Engineer"
+					"#objtoken_assassin"		" as a Assassin"
+					"#objtoken_scout"		" as a Scout"
+					"#objtoken_bartender"		" as a Bartender"
+					"#objtoken_doctor"		" as a Doctor"
+					"#objtoken_streamer"		" as a Streamer"
+					"#objtoken_lawyer"		" as a Lawyer"
+					"#objtoken_fashionmodel"		" as a Fashion Model"
+					"#objtoken_runner"		" as a Runner"
+					"#objtoken_dreamer"		" as a Dreamer"
+				}
+			}
+		}
+	}
+}
