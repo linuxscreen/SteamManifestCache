@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"2542430"
+	"common"
+	{
+		"name"		"5050"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2542430_eula_0"
+				"name"		"5050 EULA"
+				"url"		"https://store.steampowered.com//eula/2542430_eula_0"
+				"version"		"1"
+			}
+		}
+		"icon"		"69224471d5e7ac3ec7b504af3c78e73039b695db"
+		"clienticon"		"628a62c6cdedeb4b464bf9e9cbb3d63b6477c1bc"
+		"clienttga"		"b962b5296a53943da822dca5d31d6555235f717d"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1693526400"
+			"tested_build_id"		"12062869"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"84.22584400465658"
+				"height_pct"		"81.00270117842615"
+			}
+		}
+		"store_asset_mtime"		"1692552205"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Follow The Fun"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Follow The Fun"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1692552027"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2542430"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1773"
+			"1"		"16250"
+			"2"		"597"
+			"3"		"1759"
+			"4"		"4094"
+			"5"		"599"
+			"6"		"379975"
+			"7"		"1036"
+			"8"		"1698"
+			"9"		"8945"
+			"10"		"3871"
+			"11"		"4400"
+			"12"		"4562"
+			"13"		"4195"
+			"14"		"5608"
+			"15"		"5350"
+			"16"		"4236"
+			"17"		"113"
+			"18"		"1708"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Follow The Fun"
+		"publisher"		"Follow The Fun"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"5050"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"_5050.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2542431"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6296756604507537386"
+					"size"		"13452454"
+					"download"		"8173424"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12062869"
+				"timeupdated"		"1693344492"
+			}
+		}
+	}
+}
