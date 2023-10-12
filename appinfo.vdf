@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"2492400"
+	"common"
+	{
+		"name"		"Le Bonk - Academic Version"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"03afb189ecf0f683a835f2495d677fd5bd22ec76"
+		"clienticon"		"ae96ed0e9454d14f3901ed0818fb51cef4c58a58"
+		"clienttga"		"3563e95608c6f0c8bd1f0cb4b7e647d0393edf45"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1695427200"
+			"tested_build_id"		"11718964"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.31290646270608"
+				"height_pct"		"82.59224219489118"
+			}
+		}
+		"store_asset_mtime"		"1689510469"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Christian Keiler"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Paul Preiner"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Anjulie Kirchmaier"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"MediaCube Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1693863493"
+		"community_hub_visible"		"1"
+		"gameid"		"2492400"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"19"
+			"2"		"6506"
+			"3"		"176981"
+			"4"		"5547"
+			"5"		"14139"
+			"6"		"4191"
+			"7"		"4562"
+			"8"		"4305"
+			"9"		"4726"
+			"10"		"1697"
+			"11"		"5350"
+			"12"		"1719"
+			"13"		"30358"
+			"14"		"1662"
+			"15"		"1708"
+			"16"		"1647"
+			"17"		"4136"
+			"18"		"1775"
+			"19"		"3859"
+		}
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"Christian Keiler"
+		"publisher"		"MediaCube Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Le Bonk - Academic Version"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65534"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LeBonk-Academic Version.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2492401"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8599493658150593811"
+					"size"		"984961282"
+					"download"		"281728672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"DF20BB09E222F502FA239C48245B5F05"
+					"size"		"03D1CA84A45C293A0EB84EF137FEBFF3"
+					"download"		"DACAAF6CC4E6638DB0121DA904278A0E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11718964"
+				"timeupdated"		"1692348842"
+			}
+			"preview"
+			{
+				"buildid"		"11718964"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689592823"
+			}
+		}
+	}
+}
