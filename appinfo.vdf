@@ -1,0 +1,223 @@
+"appinfo"
+{
+	"appid"		"703910"
+	"common"
+	{
+		"name"		"VRpatients"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"adc20446f1a2cdf2fd0c7558a5c24ffdd7a203d2"
+		"logo_small"		"adc20446f1a2cdf2fd0c7558a5c24ffdd7a203d2_thumb"
+		"icon"		"4a612b784ed182fd82201e9a81521f75ea13f2d4"
+		"clienttga"		"7f0b8dbbe83da882a41d983aa3fa678d19c4c391"
+		"clienticon"		"b84e8b7234277112d7b9794be57fb18ce2f15385"
+		"openvrsupport"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"703910_eula_0"
+				"name"		"VRpatients EULA"
+				"url"		"https://store.steampowered.com//eula/703910_eula_0"
+				"version"		"1"
+			}
+		}
+		"metacritic_name"		"VR Patients"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"22.325581395348834"
+				"height_pct"		"48.86012823557351"
+			}
+		}
+		"store_asset_mtime"		"1639680967"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VRpatients"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VRpatients"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644430551"
+		"community_hub_visible"		"1"
+		"gameid"		"703910"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"VRpatients"
+		"publisher"		"VRpatients"
+		"homepage"		"https://www.vrpatients.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"VR Patients"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VRPatients.exe"
+				"type"		"vr"
+			}
+		}
+	}
+	"depots"
+	{
+		"703911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8445105337902355609"
+					"size"		"2785023215"
+					"download"		"1561232800"
+				}
+				"mrcapture"
+				{
+					"gid"		"6977429998399894029"
+					"size"		"2449825411"
+					"download"		"2097685328"
+				}
+				"stable"
+				{
+					"gid"		"9130798295925167677"
+					"size"		"2582706170"
+					"download"		"1415263504"
+				}
+				"staging"
+				{
+					"gid"		"4898336235192979952"
+					"size"		"2575771999"
+					"download"		"1408804272"
+				}
+				"trunk"
+				{
+					"gid"		"4898336235192979952"
+					"size"		"2575771999"
+					"download"		"1408804272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"brads_wacky_testing_branch"
+				{
+					"gid"		"5E915B9236CED31699248BA8E3C368BB"
+					"size"		"7193C25B204D5FAA6DABFBB6C017AED8"
+					"download"		"AE7C6A56F1F694FDAB005DC7D655C7E5"
+				}
+				"zspacebeta"
+				{
+					"gid"		"ECEACFB344EE74EC27821EDD1695A543"
+					"size"		"3C1CD7B2C6546CBA07687C596F2BAF73"
+					"download"		"5640AA62422932BCD92FA4C345A2DF5E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9319831"
+				"timeupdated"		"1660740988"
+			}
+			"brads_wacky_testing_branch"
+			{
+				"buildid"		"9814787"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666891932"
+			}
+			"mrcapture"
+			{
+				"buildid"		"5953036"
+				"description"		"mixed reality capture"
+				"timeupdated"		"1607659685"
+			}
+			"stable"
+			{
+				"buildid"		"12417847"
+				"timeupdated"		"1697060412"
+			}
+			"staging"
+			{
+				"buildid"		"12406868"
+				"timeupdated"		"1697051503"
+			}
+			"trunk"
+			{
+				"buildid"		"12406868"
+				"description"		"(dev)"
+				"timeupdated"		"1696976660"
+			}
+			"zspacebeta"
+			{
+				"buildid"		"9202940"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663790438"
+			}
+		}
+	}
+}
