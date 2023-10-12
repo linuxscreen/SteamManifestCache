@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"888090"
+	"common"
+	{
+		"name"		"TREE"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"88c0a374fd377c93567487987e8af44148ed8e5b"
+		"clienttga"		"bed2a468b03c186a91d5f7c1a2e0d990cc47e7aa"
+		"icon"		"cef78e1e4f480ad6bbe09db3601fb8601ff8eaab"
+		"logo"		"622db2a561b3fde6dbc4f7ebd159eb639924a222"
+		"logo_small"		"622db2a561b3fde6dbc4f7ebd159eb639924a222_thumb"
+		"metacritic_name"		"TREE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1530657153"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Strangers"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Strangers"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1534143600"
+		"steam_release_date"		"1534161871"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"888090"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"597"
+			"2"		"492"
+			"3"		"4234"
+			"4"		"5608"
+			"5"		"4182"
+			"6"		"3799"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"The Strangers"
+		"publisher"		"The Strangers"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tree"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tree.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"888091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8203630680031900064"
+					"size"		"119348925"
+					"download"		"94684720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"803C02EDAD560A5887E7C4109FF461BF"
+					"size"		"5013DC66BD1709738A1CC8F231444D43"
+					"download"		"59D77FFFA875F8CCDC999473FC3C5FA1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3068412"
+				"timeupdated"		"1535404957"
+			}
+			"beta"
+			{
+				"buildid"		"3068412"
+				"pwdrequired"		"1"
+				"timeupdated"		"1535404507"
+			}
+		}
+	}
+}
