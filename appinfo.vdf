@@ -1,0 +1,244 @@
+"appinfo"
+{
+	"appid"		"1912460"
+	"common"
+	{
+		"name"		"The Creature of Chaos"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"ba9ab6541576c6ab92be8771ba16d5e0b6bf4473"
+		"clienttga"		"f6bac026e1121e67b9c83f5c5ca965515ff52830"
+		"icon"		"0772d0d336ed0683225f831901bbd07783250e4d"
+		"logo"		"1951823f1a1c0960635ff56abb7f43a8c520a7c0"
+		"logo_small"		"1951823f1a1c0960635ff56abb7f43a8c520a7c0_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"43.949871440497375"
+				"height_pct"		"86.58134520013553"
+			}
+		}
+		"store_asset_mtime"		"1685205893"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jakub Miksa and CoC Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jakub Miksa"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1647282607"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1912460"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1774"
+			"2"		"1663"
+			"3"		"5125"
+			"4"		"4004"
+			"5"		"4182"
+			"6"		"3839"
+			"7"		"1716"
+			"8"		"7432"
+			"9"		"3952"
+			"10"		"42804"
+			"11"		"4252"
+			"12"		"3916"
+			"13"		"1773"
+			"14"		"5154"
+			"15"		"1684"
+			"16"		"1710"
+			"17"		"5547"
+			"18"		"1720"
+			"19"		"8122"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Jakub Miksa and CoC Team"
+		"publisher"		"Jakub Miksa"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Creature of Chaos"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"coch.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"coch.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2984948443"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,beta,legacy_1"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1912461"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3201018601134678658"
+					"size"		"717172722"
+					"download"		"297700400"
+				}
+				"legacy_1"
+				{
+					"gid"		"9164636892374161170"
+					"size"		"358401427"
+					"download"		"138425296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BCD473FD9565AB3044CD7D8FCABC824D"
+					"size"		"528AD035B4CB82E8DFD2A8F265232AA6"
+					"download"		"F9D90F5556553E7596DC840C202E4FBC"
+				}
+			}
+		}
+		"1912462"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2894817046279200753"
+					"size"		"721870383"
+					"download"		"298947312"
+				}
+				"legacy_1"
+				{
+					"gid"		"7398877759317473736"
+					"size"		"360018883"
+					"download"		"139178016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"923273AD0792BDD3A8012F1AD0C83FAD"
+					"size"		"F92E2F99A36EE9D0A79BC09BFB34389E"
+					"download"		"31E3E23D965674952B1FADC668674594"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12098857"
+				"timeupdated"		"1693750684"
+			}
+			"beta"
+			{
+				"buildid"		"12098857"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693736412"
+			}
+			"legacy_1"
+			{
+				"buildid"		"9094999"
+				"description"		"old ep1 only build"
+				"timeupdated"		"1685206839"
+			}
+		}
+	}
+}
