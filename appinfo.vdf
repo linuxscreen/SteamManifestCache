@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"1693310"
+	"common"
+	{
+		"name"		"Winging It"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"df8608aa8f69362b43f26fc54ef383afe87a7ca2"
+		"clienticon"		"832dc93de2ffc4bd6c6502cd7eb6e79af7ecb5be"
+		"icon"		"80eba631d0d7895a2538f72b6f622471bcdec9b4"
+		"logo"		"5b9c10e179a1426e4722cfdc504c7b376eb37bfb"
+		"logo_small"		"5b9c10e179a1426e4722cfdc504c7b376eb37bfb_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1637637405"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pixelvex LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pixelvex LLC"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1644609720"
+		"community_hub_visible"		"1"
+		"gameid"		"1693310"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"15045"
+			"1"		"19"
+			"2"		"3798"
+			"3"		"4252"
+			"4"		"1654"
+			"5"		"4182"
+			"6"		"4726"
+			"7"		"3968"
+			"8"		"1625"
+			"9"		"492"
+			"10"		"7481"
+			"11"		"4191"
+			"12"		"4975"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Pixelvex LLC"
+		"publisher"		"Pixelvex LLC"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Winging It"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WingingIt.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"1693311"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3754147547102997480"
+					"size"		"449358670"
+					"download"		"73328496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"D79E3D4D47899505B756A6996F4CC1F0"
+					"size"		"7503D31227F7DAE6299FEEB4989F6A11"
+					"download"		"C788EB3CCB85B8F1C17687ECD5BD5CD7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8194659"
+				"timeupdated"		"1644746807"
+			}
+			"test"
+			{
+				"buildid"		"8194659"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644745998"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"3"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"WingingIt_Data/saves/{Steam3AccountID}"
+				"pattern"		"*"
+			}
+		}
+	}
+}
