@@ -1,0 +1,200 @@
+"appinfo"
+{
+	"appid"		"2228140"
+	"common"
+	{
+		"name"		"NOX: Chapter 1"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"41511d875d323ce05749685e7a36ccfad77cba63"
+		"clienttga"		"9863d4acd2066a94604dfd02d050139390ff4681"
+		"clienticns"		"720be3c8d7e22d25edbeb2c53bac22049be21feb"
+		"linuxclienticon"		"720be3c8d7e22d25edbeb2c53bac22049be21feb"
+		"clienticon"		"afaa3627d3675b1adee012848eec3588cdf650b9"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"79.92902064138609"
+				"height_pct"		"34.99037903535252"
+			}
+		}
+		"store_asset_mtime"		"1671799651"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Buua Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Buua Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1671801427"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2228140"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"1664"
+			"2"		"4191"
+			"3"		"3839"
+			"4"		"1742"
+			"5"		"7250"
+			"6"		"7481"
+			"7"		"1710"
+			"8"		"1721"
+			"9"		"4305"
+			"10"		"5984"
+			"11"		"5608"
+			"12"		"5186"
+			"13"		"21"
+			"14"		"3968"
+			"15"		"7743"
+			"16"		"4182"
+			"17"		"4252"
+			"18"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"The Buua Studio"
+		"publisher"		"The Buua Studio"
+		"homepage"		"https://thebuuastudio.wixsite.com/my-site"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"NOX Chapter 1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NOX_Chapter_1.exe"
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"2"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french,spanish,russian,latam"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2228141"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3128175758055409492"
+					"size"		"4839562768"
+					"download"		"4606170160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"925F21945494EEB54CD99C3853796327"
+					"size"		"C2936A8089169456472E3ECB262E47DF"
+					"download"		"DE77C8DFE900EF6171490A4C8F4A5305"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10335166"
+				"timeupdated"		"1673908527"
+			}
+			"test"
+			{
+				"buildid"		"10333687"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673892393"
+			}
+		}
+	}
+}
