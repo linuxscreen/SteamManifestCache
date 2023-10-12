@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"2164080"
+	"common"
+	{
+		"name"		"PEP"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"511d9f515579b01ddb7f4671a4e8f4400f5f6f76"
+		"clienttga"		"5ce336dc00b552963cb96a8e946123becf8fe3c2"
+		"clienticon"		"e3ca3a9320a0d91806b464f3746ea6b47fd30b47"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1684043634"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tybug Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tybug Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1670993939"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2164080"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"1774"
+			"3"		"1663"
+			"4"		"4191"
+			"5"		"3839"
+			"6"		"4166"
+			"7"		"4342"
+			"8"		"3835"
+			"9"		"1659"
+			"10"		"1775"
+			"11"		"3993"
+			"12"		"6730"
+			"13"		"1685"
+			"14"		"3859"
+			"15"		"3843"
+			"16"		"4182"
+			"17"		"4236"
+			"18"		"113"
+			"19"		"4667"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"Tybug Studios"
+		"publisher"		"Tybug Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"PEP"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PEP.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2164081"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4961540238668545110"
+					"size"		"14062897146"
+					"download"		"4376381712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"14A50DF9A30BBC37D492B85EF4BCE8F3"
+					"size"		"DF4F30395CD9AC162F7A777C7A220EC8"
+					"download"		"DB17A4AE7CED37351682B07A1D78F746"
+				}
+				"developer"
+				{
+					"gid"		"A34BEC4B6228EAFB8545EAC0AB84801E"
+					"size"		"636E95A5F667C23A4129DD4758BEB9AA"
+					"download"		"787CC6EB8C00E85CF1CE9A01CA056452"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12310193"
+				"timeupdated"		"1696976872"
+			}
+			"beta"
+			{
+				"buildid"		"12310193"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695928178"
+			}
+			"developer"
+			{
+				"buildid"		"12310193"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695928172"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"512000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"/Tybug Studios/PEP/"
+				"pattern"		"*.tbs"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
