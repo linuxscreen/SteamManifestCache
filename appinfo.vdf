@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1986620"
+	"common"
+	{
+		"name"		"Mortmentum"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"125d64a511ce6d2b8a3c45169b29c08706de7c28"
+		"clienttga"		"3fb5a218748606c91edbad32e257a8b481bef0a4"
+		"icon"		"18fd8cab1e285cd3081acb75a921ab2aece43346"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"88.27304550758461"
+				"height_pct"		"73.17629071841297"
+			}
+		}
+		"store_asset_mtime"		"1652282564"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"JLundhoj"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JLundhoj"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1654091599"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1986620"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1773"
+			"1"		"3877"
+			"2"		"5379"
+			"3"		"4885"
+			"4"		"597"
+			"5"		"1625"
+			"6"		"3871"
+			"7"		"4305"
+			"8"		"4094"
+			"9"		"3942"
+			"10"		"4166"
+			"11"		"3968"
+			"12"		"4295"
+			"13"		"3916"
+			"14"		"4004"
+			"15"		"3993"
+			"16"		"4182"
+			"17"		"113"
+			"18"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"JLundhoj"
+		"publisher"		"JLundhoj"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mortmentum"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mortmentum.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1986621"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1089660412259021334"
+					"size"		"67131784"
+					"download"		"38174096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"7DF6B779758ABC397034028E47D6222E"
+					"size"		"FA4C492B28216D501C7A2E6C08432050"
+					"download"		"907946011AEAD2E67823364E12553EC6"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8979845"
+				"timeupdated"		"1655827221"
+			}
+			"testing"
+			{
+				"buildid"		"8977832"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655808705"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Godot/app_userdata/Mortmentum"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
