@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"1372910"
+	"common"
+	{
+		"name"		"Project Crimson"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"c84e5ba50f6add39995c70e4b93faea94b4c1405"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"154fa8479ac595e711acc472da0fa1f889ea605f"
+		"clienticns"		"9b1535383357f14c28efb2ab627de151745393a5"
+		"clienttga"		"9566753f1089db5b7e23c68133a7e9bd7c8e9245"
+		"logo"		"fe36e45f3f19c291ce8b56a7ee05e97b2d829284"
+		"logo_small"		"fe36e45f3f19c291ce8b56a7ee05e97b2d829284_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"59.625757347942745"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1620109446"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Destin Piagentini"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Destin Piagentini"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1597993200"
+		"steam_release_date"		"1597982487"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1372910"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"1664"
+			"3"		"1773"
+			"4"		"3798"
+			"5"		"3871"
+			"6"		"4094"
+			"7"		"3964"
+			"8"		"1698"
+			"9"		"4166"
+			"10"		"113"
+			"11"		"4004"
+			"12"		"492"
+			"13"		"4747"
+			"14"		"7250"
+			"15"		"5154"
+			"16"		"4182"
+			"17"		"379975"
+		}
+		"review_score"		"7"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Destin Piagentini"
+		"publisher"		"Destin Piagentini"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Project Crimson"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProjectCrimson.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ProjectCrimson.app\\Contents\\MacOS\\ProjectCrimson"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1372911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1452848287659649629"
+					"size"		"48951759"
+					"download"		"31793408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop_test"
+				{
+					"gid"		"D9615B2A5A10D82DEA5B245B76F574E4"
+					"size"		"64C0F680CE4A4B4901F099B06D726BB3"
+					"download"		"88B54B203E2998F16EF846379229D62C"
+				}
+			}
+		}
+		"1372912"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5566155660781275357"
+					"size"		"22905656"
+					"download"		"4308896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop_test"
+				{
+					"gid"		"78B41B36D0FDDF0088EF9EB9DD3F5E55"
+					"size"		"BA9DBEA6D5BC2ECB21F3996961E31D99"
+					"download"		"35D4979811BEC599F12E0C773DCAC70A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6713370"
+				"timeupdated"		"1621569763"
+			}
+			"develop_test"
+			{
+				"buildid"		"6713370"
+				"pwdrequired"		"1"
+				"timeupdated"		"1621278465"
+			}
+		}
+	}
+}
