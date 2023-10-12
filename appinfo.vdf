@@ -1,0 +1,241 @@
+"appinfo"
+{
+	"appid"		"250600"
+	"common"
+	{
+		"name"		"The Plan"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"03b18663ea9aecc4f8dbccb59ae70261c2fabc18"
+		"logo_small"		"03b18663ea9aecc4f8dbccb59ae70261c2fabc18_thumb"
+		"icon"		"1a07cd58c006e4c84569c9787b78933033c0368a"
+		"clienticon"		"7c09dd37eee7cdcbb043cb3d9d1532aafb581112"
+		"clienttga"		"4a7f1ab894f6b6b392eee873f2cb406d0fe12ac4"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1659744000"
+			"tested_build_id"		"520865"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"The Plan"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1667299981"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Krillbite Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Krillbite Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1360483200"
+		"steam_release_date"		"1392391620"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"250600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"4166"
+			"3"		"4234"
+			"4"		"597"
+			"5"		"4182"
+			"6"		"599"
+			"7"		"5411"
+			"8"		"1756"
+			"9"		"3834"
+			"10"		"1621"
+			"11"		"21"
+			"12"		"13782"
+			"13"		"5608"
+			"14"		"15045"
+			"15"		"1654"
+			"16"		"3871"
+			"17"		"30358"
+			"18"		"4136"
+			"19"		"5900"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Krillbite Studio"
+		"publisher"		"Krillbite Studio"
+		"homepage"		"http://krillbite.com/theplan"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"The Plan"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Plan.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"The Plan.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"The Plan.x86"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"baselanguages"		"english"
+		"250601"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6846363568760392696"
+					"size"		"119613732"
+					"download"		"56263216"
+				}
+			}
+		}
+		"250602"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1119855906983281969"
+					"size"		"128880462"
+					"download"		"60545120"
+				}
+			}
+		}
+		"250603"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1758603001808262122"
+					"size"		"146881461"
+					"download"		"67261248"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"520865"
+			}
+		}
+	}
+}
