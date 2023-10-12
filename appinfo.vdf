@@ -1,0 +1,217 @@
+"appinfo"
+{
+	"appid"		"1569620"
+	"common"
+	{
+		"name"		"Lab Rags"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"59cf1970427c3b0ac7ffeb502c0a1953d2eb849c"
+		"logo_small"		"59cf1970427c3b0ac7ffeb502c0a1953d2eb849c_thumb"
+		"icon"		"a81bac69d82899d5afce6503aedd6e46097a31c0"
+		"clienticon"		"89ad1e73654b0ad09457224c2c0c685c55c97824"
+		"clienttga"		"1086f9c0a8f788ae91bbbe68a5dc3d707d565c94"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1659657600"
+			"tested_build_id"		"6715109"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"proton_compat_config"		"nomfdxgiman,"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"43.4331797235023"
+				"height_pct"		"41.70170162680473"
+			}
+		}
+		"store_asset_mtime"		"1618188335"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Salt Mine Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Salt Mine Studios"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1621204843"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1569620"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"19"
+			"2"		"1625"
+			"3"		"5395"
+			"4"		"5537"
+			"5"		"4191"
+			"6"		"4305"
+			"7"		"3839"
+			"8"		"1719"
+			"9"		"5350"
+			"10"		"4136"
+			"11"		"10397"
+			"12"		"4036"
+			"13"		"3942"
+			"14"		"7250"
+			"15"		"3968"
+			"16"		"6730"
+			"17"		"492"
+			"18"		"113"
+			"19"		"8945"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Salt Mine Studios"
+		"publisher"		"Salt Mine Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Lab Rags"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lab Rags.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1569621"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2154542222105434064"
+					"size"		"1358258571"
+					"download"		"390421184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"unstable"
+				{
+					"gid"		"F327C9D25EB582DBD05F50D18877E578"
+					"size"		"67B7C9D18678CA3675F7DF0E692D9346"
+					"download"		"8D73EDE97202ABD86D30D0634F97A02B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6715109"
+				"timeupdated"		"1621306013"
+			}
+			"unstable"
+			{
+				"buildid"		"6744068"
+				"pwdrequired"		"1"
+				"timeupdated"		"1621738949"
+			}
+		}
+	}
+}
