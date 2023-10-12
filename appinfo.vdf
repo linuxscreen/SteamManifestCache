@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"682250"
+	"common"
+	{
+		"name"		"Mayas' Virtual Brush"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"2bc6d3745a8b666765153ef1cd1a18a020f19e54"
+		"logo_small"		"2bc6d3745a8b666765153ef1cd1a18a020f19e54_thumb"
+		"icon"		"6105597a05a42574b7f8cda33e1d037192131276"
+		"clienticon"		"55f0f250fcfd828d97390c97bd2a696c88ff0b66"
+		"clienttga"		"8f691c709264e831e5ac817de5a644430d543820"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1679529600"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Mayas' Virtual Brush"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1501332673"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Broken Dreams Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Broken Dreams Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1506121800"
+		"community_hub_visible"		"1"
+		"gameid"		"682250"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"599"
+			"3"		"21978"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Broken Dreams Studio"
+		"publisher"		"Broken Dreams Studio"
+		"homepage"		"http://www.broken-dreams.co.uk/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mayas' Virtual Brush"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MayasVirtualBrush.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"682251"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2542408768938396663"
+					"size"		"1707353158"
+					"download"		"896203456"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2137538"
+				"timeupdated"		"1506018350"
+			}
+		}
+	}
+}
