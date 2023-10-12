@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1649540"
+	"common"
+	{
+		"name"		"Dash Lamb"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"b41dd3ffec9704827789c9ebc6f685eb5a9fe45f"
+		"logo_small"		"b41dd3ffec9704827789c9ebc6f685eb5a9fe45f_thumb"
+		"icon"		"6670c7e79870096a87af68e5ee07c9f67f285fc3"
+		"clienttga"		"6e97692404c85bec8725758d29b9a907ab4eaed0"
+		"clienticns"		"8ddbde20e68116816d67dec4364697990f8301a4"
+		"linuxclienticon"		"fd35d20aa74f3e7819610e1845498613f74f888a"
+		"clienticon"		"9815efbb21aaa8e0274d5dcd81b1db042648c620"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"80.58256280937704"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1624381600"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cole Luther"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Vincent Colano"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Self Published"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625593287"
+		"community_hub_visible"		"1"
+		"gameid"		"1649540"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3877"
+			"1"		"5379"
+			"2"		"4885"
+			"3"		"1759"
+			"4"		"1625"
+			"5"		"1773"
+			"6"		"7208"
+			"7"		"3964"
+			"8"		"3871"
+			"9"		"4726"
+			"10"		"3854"
+			"11"		"6426"
+			"12"		"7481"
+			"13"		"6971"
+			"14"		"5094"
+			"15"		"19"
+			"16"		"1742"
+			"17"		"4094"
+			"18"		"4252"
+			"19"		"4604"
+		}
+		"review_score"		"7"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Cole Luther"
+		"publisher"		"Self Published"
+		"homepage"		"https://www.coleluther.com/#/dashlamb/"
+		"gamemanualurl"		"https://store.steampowered.com/manual/1649540/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dash Lamb"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Builds\\Dash Lamb V1.0 Windows\\Dash Lamb.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Builds\\Dash Lamb V1.0 MacOS.app\\Contents\\MacOS\\Dash Lamb"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Builds\\Dash Lamb Vito1.0 Linux\\Dash Lamb Vito1.0 Linux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"1649541"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7008518187978971862"
+					"size"		"227145329"
+					"download"		"50058368"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6897930"
+				"timeupdated"		"1624081204"
+			}
+		}
+	}
+}
