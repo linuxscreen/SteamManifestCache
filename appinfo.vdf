@@ -1,0 +1,226 @@
+"appinfo"
+{
+	"appid"		"1944710"
+	"common"
+	{
+		"name"		"Goblin Gladiators"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"70471ee8e819630f9c838202a278c572ca624beb"
+		"icon"		"13ed4cfd07f8fe8b1419a19bed833b3ad317a044"
+		"clienticon"		"7caa8dafa11d3ff2c98e54a09f952af5b4476ed9"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"57.979102350985514"
+			}
+		}
+		"store_asset_mtime"		"1692114019"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Runes Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jetpack Collective"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1661249793"
+		"community_hub_visible"		"1"
+		"gameid"		"1944710"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1718"
+			"2"		"1684"
+			"3"		"1775"
+			"4"		"3993"
+			"5"		"5711"
+			"6"		"4182"
+			"7"		"3859"
+			"8"		"176981"
+			"9"		"5547"
+			"10"		"4637"
+			"11"		"4191"
+			"12"		"4791"
+			"13"		"113"
+			"14"		"16094"
+			"15"		"493"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Runes Studio"
+		"publisher"		"Jetpack Collective"
+		"homepage"		"http://www.jetpackcollective.games/goblingladiators"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Goblin Gladiators"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BattleGoblins.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1944711"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6290145016832657215"
+					"size"		"567333544"
+					"download"		"465614464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-extern"
+				{
+					"gid"		"BEDAAF815E6FF9B5D441B5DABBE6E293"
+					"size"		"A4E98D2699BE6CA4664FC3C3B0AF138F"
+					"download"		"799F36B1504C3A75A0D3EFF033937C2B"
+				}
+				"dev_runes"
+				{
+					"gid"		"C2C5E25CC30D03D9A532C9402A4B4697"
+					"size"		"5B7CC1A8296FE45537682D8769D3D705"
+					"download"		"E9AD4E0A30F33DC342A48DE2AAA1788A"
+				}
+				"dev_stable"
+				{
+					"gid"		"BDDA8AB4D27B910A2849394D8548B3C7"
+					"size"		"E79E947D2212FAA74C6C6A48126F4B7E"
+					"download"		"C55570BF8133D7CE01A957778957B562"
+				}
+				"fundamentally_games"
+				{
+					"gid"		"CEFCF8898047FC41CB09176D6CCCFEA6"
+					"size"		"E897B236E95375C81E3455C2FFE714DC"
+					"download"		"BB7A14B356FACC5501641CBBDFF7FCA9"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11819168"
+				"timeupdated"		"1690900499"
+			}
+			"dev-extern"
+			{
+				"buildid"		"11598798"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688132964"
+			}
+			"dev_runes"
+			{
+				"buildid"		"11919792"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691747723"
+			}
+			"dev_stable"
+			{
+				"buildid"		"11819168"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690643379"
+			}
+			"fundamentally_games"
+			{
+				"buildid"		"11819168"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690797001"
+			}
+		}
+	}
+}
