@@ -1,0 +1,278 @@
+"appinfo"
+{
+	"appid"		"1738620"
+	"common"
+	{
+		"name"		"Confined Space Entry VR Training"
+		"type"		"Game"
+		"releasestate"		"released"
+		"linuxclienticon"		"083978fbbe99bf2f25c77112c4d6b250ff78611b"
+		"logo"		"a1286aae1859ed6d305c46bbc28783f6c860b889"
+		"logo_small"		"a1286aae1859ed6d305c46bbc28783f6c860b889_thumb"
+		"icon"		"6f7a62af4a739eba22d3eecc63bd1951ff09d890"
+		"clienttga"		"56e28d1ac115ce85ed889cdcc00a5c39af6dd1cf"
+		"clienticon"		"c1e1c3e1c80055955917d08ed13b202640a328e7"
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"3"
+				"depth"		"3"
+				"360_required"		"1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"parent"		"7808950"
+		"openvrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1679409905"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GVR Training Computer Software"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GVR Training Computer Software"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"GWPro Industry VR Trainings"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_35"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"bangla"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"gujarati"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"malay"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"gurmukhi"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1640100900"
+		"community_hub_visible"		"1"
+		"gameid"		"1738620"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"1036"
+			"2"		"10235"
+			"3"		"21978"
+			"4"		"9204"
+			"5"		"856791"
+			"6"		"4182"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"GVR Training Computer Software"
+		"publisher"		"GVR Training Computer Software"
+		"homepage"		"https://gwpro.io/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"VR Trainer Confined Space Entry Content"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ZamknutoeProstranstvo/ZamknutoeProstranstvoSubscription.exe"
+				"type"		"vr"
+				"description_loc"
+				{
+					"english"		"VR"
+				}
+				"description"		"VR"
+			}
+			"1"
+			{
+				"executable"		"ZamknutoeProstranstvo/ConfinedSpaceEntryPC/ConfinedSpaceEntryPC.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"PC"
+				}
+				"description"		"PC"
+			}
+		}
+	}
+	"depots"
+	{
+		"1738621"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"128831399381171630"
+					"size"		"3419146960"
+					"download"		"1519976192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pcapplication"
+				{
+					"gid"		"87E6A7CA50AEAB00ED6ED1411322CC18"
+					"size"		"44A1D4D7D62FA43A3137BE4299F4B4E1"
+					"download"		"D2AFF25C126F46ADB0A83BCA892741DB"
+				}
+				"test"
+				{
+					"gid"		"FEDB66A60D5DE69E815A1DC618440BE4"
+					"size"		"8F511F56D68094D1D9DC68A2C79D5427"
+					"download"		"EDC3D6D1590C639E6937B4F67929D9D9"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11085894"
+				"timeupdated"		"1683121853"
+			}
+			"pcapplication"
+			{
+				"buildid"		"11085894"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682426342"
+			}
+			"test"
+			{
+				"buildid"		"11078418"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682354580"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"100"
+	}
+}
