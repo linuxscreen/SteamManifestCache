@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"1532180"
+	"common"
+	{
+		"name"		"Evo\\Wave"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"5ac50fa23c14f13b0bc85c52fc97b95ce7d0fcff"
+		"logo_small"		"5ac50fa23c14f13b0bc85c52fc97b95ce7d0fcff_thumb"
+		"icon"		"29a666a2e2cbf235a64a590d60372aafd346c31c"
+		"clienticon"		"b76a484c2605a9277aa6fdcf3cf5b38799682763"
+		"clienttga"		"b4e569393e06275681b443f092320e9647a82b88"
+		"clienticns"		"b76a484c2605a9277aa6fdcf3cf5b38799682763"
+		"linuxclienticon"		"b76a484c2605a9277aa6fdcf3cf5b38799682763"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1614356619"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MagnaVex Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CNM"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1615576224"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1532180"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5652"
+			"1"		"4004"
+			"2"		"113"
+			"3"		"5395"
+			"4"		"3834"
+			"5"		"1625"
+			"6"		"4191"
+			"7"		"4106"
+			"8"		"1697"
+			"9"		"7743"
+			"10"		"44868"
+			"11"		"6691"
+			"12"		"4305"
+			"13"		"4252"
+			"14"		"4726"
+			"15"		"5350"
+			"16"		"21"
+			"17"		"4136"
+			"18"		"3916"
+			"19"		"1742"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"MagnaVex Entertainment"
+		"publisher"		"CNM"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"EvoWave"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"evowave.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"11"
+		"steamcontrollertemplateindex"		"2"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1532182"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3511105849154260819"
+					"size"		"4006658364"
+					"download"		"2452560432"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6394767"
+				"timeupdated"		"1615984306"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"50"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
