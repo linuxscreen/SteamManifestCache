@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"1630880"
+	"common"
+	{
+		"name"		"Sweeping the Ruins"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"e94c30535530dd6c6bab516c76bf5e46a37f398d"
+		"logo_small"		"e94c30535530dd6c6bab516c76bf5e46a37f398d_thumb"
+		"icon"		"cf1ac96818addad8a10a910f4c7f7daec4c0ac5e"
+		"clienticon"		"ca3cdcec658678e1fa41e3674f77f1a6be6e6842"
+		"clienttga"		"9498d8ac140947944a185d9c733135f61dbe4ff0"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1624945845"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hui-Yu Lien"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hui-Yu Lien"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627837635"
+		"community_hub_visible"		"1"
+		"gameid"		"1630880"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4106"
+			"3"		"1697"
+			"4"		"3993"
+			"5"		"1708"
+			"6"		"3834"
+			"7"		"198631"
+			"8"		"4191"
+			"9"		"1625"
+			"10"		"5395"
+			"11"		"4085"
+			"12"		"4166"
+			"13"		"1684"
+			"14"		"4172"
+			"15"		"1685"
+			"16"		"3843"
+			"17"		"3841"
+			"18"		"7926"
+			"19"		"7208"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Hui-Yu Lien"
+		"publisher"		"Hui-Yu Lien"
+		"homepage"		"http://sweepingtheruins.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Sweeping_the_Ruins"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SweepingTheRuins.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1630881"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8800625422035472081"
+					"size"		"1587314684"
+					"download"		"920326576"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6861231"
+				"timeupdated"		"1623602357"
+			}
+		}
+	}
+}
