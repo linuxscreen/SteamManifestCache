@@ -1,0 +1,255 @@
+"appinfo"
+{
+	"appid"		"665490"
+	"common"
+	{
+		"name"		"The Monster Inside"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"e57b88f430cd6675c0bd7127d07df44a5a799d21"
+		"logo_small"		"e57b88f430cd6675c0bd7127d07df44a5a799d21_thumb"
+		"clienticon"		"05a3c19b964b3beb390973afcaefbdc24e8820b4"
+		"clienttga"		"c85d83deb56187be3cf8e91ee8b8e8a8d944dfc2"
+		"icon"		"b02840bbd89169d73b3006582f23bf121eb7a747"
+		"clienticns"		"6ea9141e24b5bf9b58c0d403eb2fffeef31da076"
+		"linuxclienticon"		"62653dd32cc3b6083f70003288355b62c1bd7232"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1679011200"
+			"tested_build_id"		"2041174"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"The Monster Inside"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1601827217"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Random Seed Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Random Seed Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1501596526"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"665490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"3799"
+			"3"		"5613"
+			"4"		"5716"
+			"5"		"6052"
+			"6"		"1667"
+			"7"		"4234"
+			"8"		"4182"
+			"9"		"4166"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Random Seed Games"
+		"publisher"		"Random Seed Games"
+		"homepage"		"https://x70x.itch.io/the-monster-inside"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TheMonsterInside"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Monster Inside.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TheMonsterInside.app\\Contents\\MacOS\\TheMonsterInside"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"The Monster Inside.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"665491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2053811332862899936"
+					"size"		"130273378"
+					"download"		"46576624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developerdebug"
+				{
+					"gid"		"410C60C457F92B5440454C37C2F94410"
+					"size"		"DBD5B9A7FD7FA4D2781658933F79DC49"
+					"download"		"54391A31C206F0904E5442A2A4844BC9"
+				}
+			}
+		}
+		"665492"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4725476980467009994"
+					"size"		"173883310"
+					"download"		"58330000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developerdebug"
+				{
+					"gid"		"565CA97958AEA6A169B46E10E37FD78A"
+					"size"		"991D881A3CA52D98E795D1A8485A994E"
+					"download"		"8BEEC62BA14C278ACD4BC041A5363246"
+				}
+			}
+		}
+		"665493"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2327555877066306065"
+					"size"		"168293883"
+					"download"		"57825184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developerdebug"
+				{
+					"gid"		"8C7A0A8C3FFA5DF9C181BE71D7A5CBCD"
+					"size"		"0A3683E248A90BA8FCD01E597FB202CE"
+					"download"		"4365AEF329B09A0CF07081D9879BB611"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2041174"
+				"timeupdated"		"1502850385"
+			}
+			"developerdebug"
+			{
+				"buildid"		"2041174"
+				"pwdrequired"		"1"
+				"timeupdated"		"1502850370"
+			}
+		}
+	}
+}
