@@ -1,0 +1,143 @@
+"appinfo"
+{
+	"appid"		"716430"
+	"common"
+	{
+		"name"		"The Arena of Gladiators"
+		"type"		"Game"
+		"controllervr"
+		{
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"4ec892eac55d8e9ffb44eba4e204e86c234892a7"
+		"logo_small"		"4ec892eac55d8e9ffb44eba4e204e86c234892a7_thumb"
+		"icon"		"f543d680f47e98a76561f003b3d6aa8cc727786e"
+		"clienticon"		"efe30567f9f9253c42b8463e203438a0520b059e"
+		"clienttga"		"51549762cae981d38993a8b40fb024ceffc91fcc"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"openvrsupport"		"1"
+		"releasestate"		"released"
+		"metacritic_name"		"The Arena of Gladiators"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1508116476"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lithodomos VR"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lithodomos VR"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1510620146"
+		"community_hub_visible"		"1"
+		"gameid"		"716430"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Lithodomos VR"
+		"publisher"		"Lithodomos VR"
+		"homepage"		"https://lithodomosvr.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Arena of Gladiators"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Arena.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"716431"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1067918539331822966"
+					"size"		"1346544925"
+					"download"		"425964288"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2244001"
+				"timeupdated"		"1509418538"
+			}
+		}
+	}
+}
