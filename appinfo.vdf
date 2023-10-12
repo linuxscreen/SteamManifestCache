@@ -1,0 +1,257 @@
+"appinfo"
+{
+	"appid"		"1259240"
+	"common"
+	{
+		"name"		"//TODO: today"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"763fed1ce6dc0c48abe63034803196c41a5cedf1"
+		"logo_small"		"763fed1ce6dc0c48abe63034803196c41a5cedf1_thumb"
+		"icon"		"1b983a0ed744bcd8a39f45bf09ffd4bc59febeb8"
+		"clienticon"		"2949540b11a6b018611f89fc37f2730f67a912ff"
+		"clienttga"		"6e3f6c10813d394cd5758d6a7bd19574f8fe012e"
+		"clienticns"		"8846969b6032043d06809ccde69418c15972691b"
+		"linuxclienticon"		"d27952dda47466cdcf8c27bf6d23ef40b8e7e47b"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.1412891910869"
+				"height_pct"		"94.79166666666667"
+			}
+		}
+		"store_asset_mtime"		"1616498920"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Boys Laugh +"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Boys Laugh +"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1538377200"
+		"steam_release_date"		"1618059788"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1259240"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"44868"
+			"2"		"492"
+			"3"		"3799"
+			"4"		"597"
+			"5"		"21"
+			"6"		"4726"
+			"7"		"9551"
+			"8"		"6971"
+			"9"		"4305"
+			"10"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Boys Laugh +"
+		"publisher"		"Boys Laugh +"
+		"homepage"		"http://boyslaughplus.moe/todo-today"
+		"isfreeapp"		"1"
+		"listofdlc"		"1259260"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TODO today"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TODO-today.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"64-bit Version"
+				}
+				"description"		"64-bit Version"
+			}
+			"2"
+			{
+				"executable"		"TODO-today.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"TODO-today.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"4"
+			{
+				"executable"		"TODO-today-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+				"description_loc"
+				{
+					"english"		"32-bit Version"
+				}
+				"description"		"32-bit Version"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1259241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6252029533044959645"
+					"size"		"224163312"
+					"download"		"155637840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0F395477035FE5E16691D09719675855"
+					"size"		"FC082EE7AE13FBAC319F4A4E7655FE64"
+					"download"		"292559B9B3C539389B9A0B139B1646F5"
+				}
+			}
+		}
+		"1259242"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1127447928892034196"
+					"size"		"174764684"
+					"download"		"141681920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E654BD7759ED3FA9AAB8DF4E0D035F0D"
+					"size"		"BC30959C19F8461B0D24F757ABDC935E"
+					"download"		"960947EACAF39BF2940D347FE9FE1671"
+				}
+			}
+		}
+		"1259243"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2192031652197387214"
+					"size"		"204110654"
+					"download"		"149274928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"02155FFB6AABC931A6AA6DA42470EE36"
+					"size"		"FDED2E8DE8C612460A5F73F7C31911D7"
+					"download"		"6F6F26A0630D0E2AB7CF1C9E679B2861"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6808935"
+				"timeupdated"		"1622752301"
+			}
+			"beta"
+			{
+				"buildid"		"6807905"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622739632"
+			}
+		}
+	}
+}
