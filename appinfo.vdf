@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"1118580"
+	"common"
+	{
+		"name"		"Wintercearig"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"2566c2f311a239856f41552dc3d539820c1d232a"
+		"logo_small"		"2566c2f311a239856f41552dc3d539820c1d232a_thumb"
+		"icon"		"1d52e357daccfc1891953f3855a2b59062309272"
+		"clienticon"		"6478549159bdf67178d3e5a328d8cc6461bd1dee"
+		"clienttga"		"bc75281d39601dfd1cf881b40117791559a90de2"
+		"clienticns"		"bca6a4f8eb687ffcac2a2336f0121e315309376f"
+		"linuxclienticon"		"cc591e726b44a031f37da741cf300baf331140e5"
+		"releasestate"		"released"
+		"osextended"		""
+		"metacritic_name"		"Wintercearig"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"69.12720651183318"
+				"height_pct"		"98.48628192999054"
+			}
+		}
+		"store_asset_mtime"		"1562804324"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SynAtria Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SynAtria Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1565003417"
+		"community_hub_visible"		"1"
+		"gameid"		"1118580"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"SynAtria Studios"
+		"publisher"		"SynAtria Studios"
+		"isfreeapp"		"1"
+		"listofdlc"		"1124700,1124701,1124702"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Wintercearig"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wintercearig.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"wintercearig"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"wintercearig.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1118581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4052232304738508668"
+					"size"		"41410219"
+					"download"		"25306800"
+				}
+			}
+		}
+		"1118582"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5548653029957609730"
+					"size"		"41886114"
+					"download"		"25397552"
+				}
+			}
+		}
+		"1118583"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5738636596797102581"
+					"size"		"49419598"
+					"download"		"27756272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4085660"
+				"timeupdated"		"1565245436"
+			}
+		}
+	}
+}
