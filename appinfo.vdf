@@ -1,0 +1,182 @@
+"appinfo"
+{
+	"appid"		"1389410"
+	"common"
+	{
+		"name"		"Record of Battle 3D Maiden Wars"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"バトル戦記 ３Ｄ乙女ウォーズ"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"8a72509b0045fb43d90a96aacc7200d2fa2f2746"
+		"logo_small"		"8a72509b0045fb43d90a96aacc7200d2fa2f2746_thumb"
+		"clienticon"		"ca184f56f9e7bad328db050c32477855c0d774a9"
+		"clienttga"		"da4e08d5ebff3a9fa39a9400989c10d4b6402f45"
+		"icon"		"bd2141e2ec77c8b1a44e95a54cd6e04fee5bd071"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"97.49465685110425"
+			}
+		}
+		"store_asset_mtime"		"1597281220"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gotcha Gotcha Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"エイジ・エジェネスタ"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"KADOKAWA"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Gotcha Gotcha Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1597942253"
+		"community_hub_visible"		"1"
+		"gameid"		"1389410"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"4434"
+			"2"		"4231"
+			"3"		"14139"
+			"4"		"4975"
+			"5"		"4726"
+			"6"		"4085"
+			"7"		"113"
+			"8"		"13906"
+			"9"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Gotcha Gotcha Games"
+		"publisher"		"Gotcha Gotcha Games"
+		"homepage"		"https://tkool.jp/mz/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Record of Battle 3D Maiden Wars"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Game.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1389411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8494588027141489743"
+					"size"		"325571199"
+					"download"		"148288496"
+				}
+			}
+		}
+		"1389412"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4302153465670236567"
+					"size"		"414443597"
+					"download"		"174731232"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5400529"
+				"timeupdated"		"1597197505"
+			}
+		}
+	}
+}
