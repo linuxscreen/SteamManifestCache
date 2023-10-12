@@ -1,0 +1,159 @@
+"appinfo"
+{
+	"appid"		"1153060"
+	"common"
+	{
+		"name"		"Juicy Army: Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"d596188e2e81de6f5eac9e43ca8be04b61551bd8"
+		"logo_small"		"d596188e2e81de6f5eac9e43ca8be04b61551bd8_thumb"
+		"icon"		"6a9c94c51745f9fe6ccbb9ac515287786a5ee5b0"
+		"clienttga"		"fc35068ec0cd0677a084ae626745acb062871eb2"
+		"clienticon"		"e9b8056930f21c9861bf264f0d94a7b94e07db75"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"18.844807467911295"
+				"height_pct"		"42.07687170235323"
+			}
+		}
+		"store_asset_mtime"		"1621266394"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Taptroise"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Taptroise"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1608028434"
+		"community_hub_visible"		"1"
+		"gameid"		"1153060"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"4637"
+			"2"		"4758"
+			"3"		"1720"
+			"4"		"4885"
+			"5"		"3959"
+			"6"		"597"
+			"7"		"1774"
+			"8"		"1716"
+			"9"		"4726"
+			"10"		"4791"
+			"11"		"19"
+			"12"		"4305"
+			"13"		"4236"
+			"14"		"21"
+			"15"		"4562"
+			"16"		"4182"
+			"17"		"113"
+			"18"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Taptroise"
+		"publisher"		"Taptroise"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Juicy Army Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Juicy Army Demo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1153061"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7237939196817118953"
+					"size"		"1598354551"
+					"download"		"336230896"
+				}
+				"test"
+				{
+					"gid"		"7237939196817118953"
+					"size"		"1598354551"
+					"download"		"336230896"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6738912"
+				"timeupdated"		"1621613229"
+			}
+			"test"
+			{
+				"buildid"		"6738912"
+				"description"		"Test Branch"
+				"timeupdated"		"1621612562"
+			}
+		}
+	}
+}
