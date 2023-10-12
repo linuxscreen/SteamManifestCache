@@ -1,0 +1,281 @@
+"appinfo"
+{
+	"appid"		"723610"
+	"common"
+	{
+		"name"		"Dream Golf VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"e998b1fb0624b97f4b3a54aadd7dab2b7deed7fa"
+		"logo_small"		"e998b1fb0624b97f4b3a54aadd7dab2b7deed7fa_thumb"
+		"icon"		"61ae1e1597b094b3216e5eebbb06f9e9152db7e8"
+		"clienticon"		"5f9b0bdc1a2e2dc0182279786ff0768e01887442"
+		"clienttga"		"474efa3b7dde2dc06e62d1c814489b640d9bd86e"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1648764709"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Isaac Stearns"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Isaac Stearns"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1509736059"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"723610"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21978"
+			"2"		"22955"
+			"3"		"7038"
+			"4"		"4175"
+			"5"		"597"
+			"6"		"701"
+			"7"		"1773"
+			"8"		"492"
+			"9"		"21"
+			"10"		"4295"
+			"11"		"3834"
+			"12"		"5395"
+			"13"		"4486"
+			"14"		"5537"
+			"15"		"1684"
+			"16"		"4166"
+			"17"		"5350"
+			"18"		"6129"
+			"19"		"5673"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Isaac Stearns"
+		"publisher"		"Isaac Stearns"
+		"homepage"		"https://lucidlife.net/"
+		"isfreeapp"		"1"
+		"listofdlc"		"768910,964120,1145840,2123880"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dream_Golf_VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dream_Golf_VR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"723611"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7921564836011308338"
+					"size"		"2067771940"
+					"download"		"1958843008"
+				}
+			}
+		}
+		"723613"
+		{
+		}
+		"768910"
+		{
+			"dlcappid"		"768910"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3546067485668195157"
+					"size"		"145006346"
+					"download"		"141999680"
+				}
+			}
+		}
+		"964120"
+		{
+			"dlcappid"		"964120"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7866478239985500775"
+					"size"		"616325803"
+					"download"		"616908672"
+				}
+			}
+		}
+		"1145840"
+		{
+			"dlcappid"		"1145840"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"826323565239315851"
+					"size"		"714374615"
+					"download"		"677452544"
+				}
+			}
+		}
+		"2123880"
+		{
+			"dlcappid"		"2123880"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"719691396393834495"
+					"size"		"299691637"
+					"download"		"287554240"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9493526"
+				"timeupdated"		"1662907337"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Dream_Golf_VR/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
