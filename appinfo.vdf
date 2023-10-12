@@ -1,0 +1,231 @@
+"appinfo"
+{
+	"appid"		"2507640"
+	"common"
+	{
+		"name"		"Pyroworks"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"6db56ae1b2fb3fdeadc0778b5419c7ef487910ca"
+		"clienticon"		"26150c8090d2f6fd2167047ffa1cb035f4af9951"
+		"clienttga"		"62e499f978ae32012a20459af4603a88bf679b05"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.4187643020595"
+				"height_pct"		"25.303952513166493"
+			}
+		}
+		"store_asset_mtime"		"1689015943"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Deepest Inertia Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Deepest Inertia Studio"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_23"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1694188815"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2507640"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4486"
+			"1"		"3810"
+			"2"		"599"
+			"3"		"12057"
+			"4"		"4191"
+			"5"		"3839"
+			"6"		"1695"
+			"7"		"19"
+			"8"		"4175"
+			"9"		"113"
+			"10"		"1669"
+			"11"		"492"
+			"12"		"4166"
+			"13"		"3859"
+			"14"		"5363"
+			"15"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Deepest Inertia Studio"
+		"publisher"		"Deepest Inertia Studio"
+		"homepage"		"https://pyroworks.xyz"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Pyroworks"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Pyroworks V1.0.0.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2507641"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4999019642111699932"
+					"size"		"5317055783"
+					"download"		"1566322144"
+				}
+				"beta"
+				{
+					"gid"		"3245897685347460129"
+					"size"		"5317060527"
+					"download"		"1566332768"
+				}
+			}
+		}
+		"workshopdepot"		"2507640"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12227850"
+				"timeupdated"		"1695143328"
+			}
+			"beta"
+			{
+				"buildid"		"12405103"
+				"description"		"Beta testing for new versions"
+				"timeupdated"		"1696953864"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Deepest Inertia Studio/Pyroworks V1.0.0/saves/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+		"sync_while_suspended"		"1"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_atmainmenu"		"Main Menu"
+					"#status_singleplayer"		"Singleplayer - %MAP%"
+					"#status_multiplayer"		"Multiplayer - %MAP%"
+				}
+			}
+		}
+	}
+}
