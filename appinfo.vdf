@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"2162380"
+	"common"
+	{
+		"name"		"Larcenauts Spectator Mode"
+		"type"		"Application"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"e2e7af9aa16f7647365686c0a5a84c9cdd993595"
+		"clienttga"		"ba1c38a6b7328e3375809b81081d6d380de16314"
+		"icon"		"ea9aa3796756f37d7cc6aa04c5af0fb0b4b9df85"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667001929"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Impulse Gear, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Impulse Gear, Inc."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Larcenauts"
+			}
+		}
+		"primary_genre"		"58"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"58"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1668710018"
+		"community_hub_visible"		"1"
+		"gameid"		"2162380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"620519"
+			"1"		"21978"
+			"2"		"5055"
+			"3"		"1680"
+			"4"		"1774"
+			"5"		"19"
+			"6"		"1663"
+			"7"		"5547"
+			"8"		"3839"
+			"9"		"4252"
+			"10"		"1773"
+			"11"		"4305"
+			"12"		"3942"
+			"13"		"4295"
+			"14"		"4004"
+			"15"		"7743"
+			"16"		"4166"
+			"17"		"4191"
+			"18"		"4236"
+			"19"		"1755"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Impulse Gear, Inc."
+		"publisher"		"Impulse Gear, Inc."
+		"homepage"		"https://www.larcenauts.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Larcenauts"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Larcenauts.exe"
+				"arguments"		"-SteamOSS -nohmd"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2162381"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8125142959670267899"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"421191"
+		{
+			"depotfromapp"		"421190"
+			"sharedinstall"		"2"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9913410"
+				"timeupdated"		"1668121042"
+			}
+		}
+	}
+}
