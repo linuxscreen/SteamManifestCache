@@ -1,0 +1,182 @@
+"appinfo"
+{
+	"appid"		"941640"
+	"common"
+	{
+		"name"		"Gundy"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"941640_eula_0"
+				"name"		"The Last Bar EULA"
+				"url"		"https://store.steampowered.com//eula/941640_eula_0"
+			}
+		}
+		"osextended"		""
+		"logo"		"c9774d7f682891b4018e34f4ab6e1165c234f637"
+		"logo_small"		"c9774d7f682891b4018e34f4ab6e1165c234f637_thumb"
+		"icon"		"c6d6fac1c6756e3c07425c31a13c2ebc5c6f1408"
+		"clienticon"		"f84f9da99ab0b704822749278c182537edf5f7c9"
+		"clienttga"		"29c60361d6ef2a0008ab8b5ec1b890f1f6f17649"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"52.61920056557261"
+				"height_pct"		"95.83363486686133"
+			}
+		}
+		"store_asset_mtime"		"1582958800"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"d4rkd0s"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"d4rkd0s"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1583737200"
+		"steam_release_date"		"1583853117"
+		"community_hub_visible"		"1"
+		"gameid"		"941640"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"597"
+			"3"		"21"
+			"4"		"9"
+		}
+		"review_score"		"7"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"d4rkd0s"
+		"publisher"		"d4rkd0s"
+		"homepage"		"https://www.d4rkd0s.com/gundy"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Gundy"
+		"steamcontrollertemplateindex"		"6"
+		"steamconfigurator3rdpartynative"		"4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"gundy.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"gundy.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"941641"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2576362355779938233"
+					"size"		"66147488"
+					"download"		"28203568"
+				}
+			}
+		}
+		"941642"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"718097830382066739"
+					"size"		"68464912"
+					"download"		"29118624"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10321095"
+				"timeupdated"		"1673673256"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+	}
+}
