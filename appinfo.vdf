@@ -1,0 +1,568 @@
+"appinfo"
+{
+	"appid"		"739010"
+	"common"
+	{
+		"name"		"The Blue Box"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"693ecd6c010a1c5fd0a698c5e62f23d816201069"
+		"clienttga"		"1b096141ce6689b1d7bb79460e255452eb56053c"
+		"icon"		"88bd44d356e6c3b8e129ff0882faa8cabc1be1dd"
+		"logo"		"b0fd816fa66f9ac30d345f35c59b5db823944744"
+		"logo_small"		"b0fd816fa66f9ac30d345f35c59b5db823944744_thumb"
+		"releasestate"		"released"
+		"linuxclienticon"		"0b58269763e6965c6067b83fcf8660e1275e4091"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1685145600"
+			"tested_build_id"		"4578451"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_MultiWindowAppAutomaticallySetsFocus"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"6"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"The Blue Box"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"16.30105017502916"
+				"height_pct"		"38.357297415457744"
+			}
+		}
+		"store_asset_mtime"		"1579357745"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ejew.in"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ejew.in"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"The Blue Box"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1522566000"
+		"steam_release_date"		"1525473180"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"739010"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"113"
+			"2"		"19"
+			"3"		"21"
+			"4"		"597"
+			"5"		"599"
+			"6"		"699"
+			"7"		"1719"
+			"8"		"1721"
+			"9"		"4136"
+			"10"		"4166"
+			"11"		"4182"
+			"12"		"4252"
+			"13"		"4711"
+			"14"		"5900"
+			"15"		"1664"
+			"16"		"1756"
+			"17"		"14906"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"ejew.in"
+		"publisher"		"ejew.in"
+		"homepage"		"http://ejew.in/products/the-blue-box/"
+		"gamemanualurl"		"https://store.steampowered.com/manual/739010/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1214890,1214891,1214892,1214893,1214894,1214895,1214896,1214897"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Blue Box"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheBlueBox.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"TheBlueBox.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"TheBlueBox"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"hasdepotsindlc"		"1"
+		"739011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4419155926954018770"
+					"size"		"1105116619"
+					"download"		"712358528"
+				}
+				"beta"
+				{
+					"gid"		"4419155926954018770"
+					"size"		"1105116619"
+					"download"		"712358528"
+				}
+			}
+		}
+		"739013"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7376616342087021987"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"7376616342087021987"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"739014"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3755180711390865673"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"3755180711390865673"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"1214890"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2309055198735767360"
+					"size"		"68748199"
+					"download"		"22290496"
+				}
+				"beta"
+				{
+					"gid"		"2309055198735767360"
+					"size"		"68748199"
+					"download"		"22290496"
+				}
+			}
+			"depotfromapp"		"1214890"
+		}
+		"1214894"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3060607185576349229"
+					"size"		"512813906"
+					"download"		"109175264"
+				}
+				"beta"
+				{
+					"gid"		"3060607185576349229"
+					"size"		"512813906"
+					"download"		"109175264"
+				}
+			}
+			"depotfromapp"		"1214894"
+		}
+		"1214893"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1733317129689424479"
+					"size"		"131835232"
+					"download"		"42839424"
+				}
+				"beta"
+				{
+					"gid"		"1733317129689424479"
+					"size"		"131835232"
+					"download"		"42839424"
+				}
+			}
+			"depotfromapp"		"1214893"
+		}
+		"1214891"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"869133143304655161"
+					"size"		"201215604"
+					"download"		"22251328"
+				}
+				"beta"
+				{
+					"gid"		"869133143304655161"
+					"size"		"201215604"
+					"download"		"22251328"
+				}
+			}
+			"depotfromapp"		"1214891"
+		}
+		"1214897"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1454926997732323350"
+					"size"		"193142273"
+					"download"		"57897024"
+				}
+				"beta"
+				{
+					"gid"		"1454926997732323350"
+					"size"		"193142273"
+					"download"		"57897024"
+				}
+			}
+			"depotfromapp"		"1214897"
+		}
+		"1214895"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2789791178843463356"
+					"size"		"722566062"
+					"download"		"160811552"
+				}
+				"beta"
+				{
+					"gid"		"2789791178843463356"
+					"size"		"722566062"
+					"download"		"160811552"
+				}
+			}
+			"depotfromapp"		"1214895"
+		}
+		"1214892"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1034135265757724270"
+					"size"		"115776733"
+					"download"		"45268576"
+				}
+				"beta"
+				{
+					"gid"		"1034135265757724270"
+					"size"		"115776733"
+					"download"		"45268576"
+				}
+			}
+			"depotfromapp"		"1214892"
+		}
+		"1214898"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"depotfromapp"		"1214898"
+		}
+		"1214896"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"dlcappid"		"1214896"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7495743385607452475"
+					"size"		"136852665"
+					"download"		"39752000"
+				}
+				"beta"
+				{
+					"gid"		"7495743385607452475"
+					"size"		"136852665"
+					"download"		"39752000"
+				}
+			}
+			"depotfromapp"		"1214896"
+		}
+		"1230310"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"depotfromapp"		"1230310"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4578451"
+				"timeupdated"		"1601647142"
+			}
+			"beta"
+			{
+				"buildid"		"4578451"
+				"description"		"For those living on the edge of tomorrow."
+				"timeupdated"		"1579217915"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"256000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"ejew_in"
+				"pattern"		"*.save"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"ejew_in"
+				"pattern"		"*.ini"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"ejew_in"
+						"replace"		"ejew_in"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"ejew_in"
+						"replace"		".config/unity3d/ejew_in"
+					}
+				}
+			}
+		}
+	}
+}
