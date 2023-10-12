@@ -1,0 +1,377 @@
+"appinfo"
+{
+	"appid"		"1157960"
+	"common"
+	{
+		"name"		"Blackout Rugby"
+		"type"		"Game"
+		"logo"		"bbc7fd47b920fb97b4bcf401b8af783699ef21d9"
+		"logo_small"		"bbc7fd47b920fb97b4bcf401b8af783699ef21d9_thumb"
+		"icon"		"5a0b3d36e916c22bf22a3f1c2f4cc4b54c8ab7e9"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"clienticon"		"f27839f9ba4a7bc900aaa213af74eebbb6cc056a"
+		"clienttga"		"01c87fd96c1bb3e03c903210bf81ee6127ba7434"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"84.33208960101462"
+				"height_pct"		"75.83631511896309"
+			}
+		}
+		"store_asset_mtime"		"1696234967"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Blackout Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Blackout Games"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"29"
+			"1"		"28"
+			"2"		"18"
+			"3"		"2"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_35"		"1"
+			"category_32"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1657851132"
+		"community_hub_visible"		"1"
+		"gameid"		"1157960"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"49213"
+			"1"		"701"
+			"2"		"12472"
+			"3"		"113"
+			"4"		"599"
+			"5"		"9"
+			"6"		"128"
+			"7"		"3878"
+			"8"		"493"
+			"9"		"5711"
+			"10"		"3859"
+			"11"		"1254552"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Blackout Games"
+		"publisher"		"Blackout Games"
+		"homepage"		"https://blackout.rugby/account"
+		"isfreeapp"		"1"
+		"listofdlc"		"1376610,2116470,2116471"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Blackout Rugby"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blackout Rugby.app\\Contents\\MacOS\\Blackout Rugby"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"Blackout Rugby.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"Blackout Rugby.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"Blackout Rugby.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"4"
+			{
+				"executable"		"Blackout Rugby.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1157961"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7124792253073165504"
+					"size"		"1435265989"
+					"download"		"672506832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build-test"
+				{
+					"gid"		"567DC5EC47851A7F25070570723127C3"
+					"size"		"8D0BCC28F1BE29BEBC7662D9569454AB"
+					"download"		"4EB1B27C3C3193D79847B62C3F4D96DB"
+				}
+				"dev-test"
+				{
+					"gid"		"A45E275FDA72258F864475FFCED414E5"
+					"size"		"E68E9D160A224860F16630F38800500B"
+					"download"		"ED8998B154A9B186E3404D3A6932C0FE"
+				}
+				"feature-test"
+				{
+					"gid"		"75FDF8516406523E14C4C2B4FA932CDA"
+					"size"		"72C37E2295393FC418C3266A78FF1B4A"
+					"download"		"2D3A2B7C302FEABC97F9F07E15FBC80C"
+				}
+				"previous"
+				{
+					"gid"		"8AA4F06C95D866DEA7ABFC30787DEFBF"
+					"size"		"D5BA515FFCBF4DAB6852C9C73781ABC6"
+					"download"		"B3F51AA016DE689265FF7101ED816EEE"
+				}
+				"release-candidate"
+				{
+					"gid"		"3335EF1F3EF55994053D4B66AC526A4D"
+					"size"		"94571F827A0C7D62AA03A2BA984BFCA4"
+					"download"		"89B22A72032B1D04521ECE7390C12000"
+				}
+				"test"
+				{
+					"gid"		"496A3AB6F2B84E56E4455BEBC694FC8E"
+					"size"		"25E1A748C9B1D24AF3E6EF0FDC2C7F10"
+					"download"		"5B238637EFFE3D22DE60FA0EF2089103"
+				}
+			}
+		}
+		"1157962"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2359037676241938180"
+					"size"		"1449054043"
+					"download"		"649423472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build-test"
+				{
+					"gid"		"5C6B5FE9BF925C3C3F3262755FF5E6E6"
+					"size"		"97A110E87DB1FFDCF1A5C5CF68A9F47A"
+					"download"		"C353154496F2BE798CF990727D2C559D"
+				}
+				"dev-test"
+				{
+					"gid"		"3A98E0679206098EA5EB895D41DCD395"
+					"size"		"BFF9368A8D5FAB9F58EDF90BE67849B4"
+					"download"		"1E29E8CBAD0DE7EEF092562E63F508D0"
+				}
+				"feature-test"
+				{
+					"gid"		"70F1303812FA76D6D5819EE5B3DF81FC"
+					"size"		"F4EF23E17D29F0EA0B95A3FC47F44FFB"
+					"download"		"F5E16A16A89A9CDB7CCDA18552C98ED9"
+				}
+				"previous"
+				{
+					"gid"		"4FB3B80B6E09D4FCAEE9DE1E17A6B610"
+					"size"		"0DB9A9D569AAF3CDA3150CD6AA91BE33"
+					"download"		"FB3182FA4D61CD587DBDA786ED81FE70"
+				}
+				"release-candidate"
+				{
+					"gid"		"CFA82E103011D01F343C8B17910D3DB5"
+					"size"		"55A53D5115754D25208D5F4E6032D062"
+					"download"		"1DD21BC5BA41D340878E33EA44103097"
+				}
+				"test"
+				{
+					"gid"		"99C0BDB25420D3123C51FE2792F112A0"
+					"size"		"97D78D4B0319EDBD70198DC19CD4B511"
+					"download"		"670366946614383A4C048D2A483860FC"
+				}
+			}
+		}
+		"1157963"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3774171322346370274"
+					"size"		"2554424648"
+					"download"		"1033806192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build-test"
+				{
+					"gid"		"3725CEFEEA307B61650443B4CBF46518"
+					"size"		"A800248735FA802C6D5CB124CF0715E3"
+					"download"		"CB2647127C49872708D272C2FF325A27"
+				}
+				"dev-test"
+				{
+					"gid"		"89C2E2F1C07E23E2E8B97F8826F2B92B"
+					"size"		"BFB7F199627E34699152C50CD71D5D56"
+					"download"		"C1EDC194943C6985A4D70CF0BFBB09C2"
+				}
+				"feature-test"
+				{
+					"gid"		"EA2ED78B4F08E12568E72A0727990A7E"
+					"size"		"C0884960F83460E79A2347F146ECA01F"
+					"download"		"2D5C8D6640B458034F0EADFF53177FFC"
+				}
+				"previous"
+				{
+					"gid"		"1E23EE61116E90DE9D1636A298D6EB6D"
+					"size"		"778113463543EFCC42A2F266B14EA848"
+					"download"		"B452682E67E81E11105C8B483DF0FD66"
+				}
+				"release-candidate"
+				{
+					"gid"		"6E573A9C361DEBA5F85B4BDBF6597B7E"
+					"size"		"C2917A89149E97B641F5F7972EAD8CE9"
+					"download"		"5BA8BCBF1EC046A290270715F607E1F5"
+				}
+				"test"
+				{
+					"gid"		"5422CECC457C2F3BCE4A94627F1B4F98"
+					"size"		"23FB123D0B7841E3A3B5C3129AE99210"
+					"download"		"BDA3C93CB0025BA490BD21A33C5EB1B7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12400496"
+				"timeupdated"		"1696928474"
+			}
+			"build-test"
+			{
+				"buildid"		"11104848"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682629179"
+			}
+			"dev-test"
+			{
+				"buildid"		"11128432"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682917147"
+			}
+			"feature-test"
+			{
+				"buildid"		"10608476"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677052218"
+			}
+			"previous"
+			{
+				"buildid"		"9979721"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669341050"
+			}
+			"release-candidate"
+			{
+				"buildid"		"12400496"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696928462"
+			}
+			"test"
+			{
+				"buildid"		"12328124"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696147314"
+			}
+		}
+	}
+}
