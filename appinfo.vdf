@@ -1,0 +1,218 @@
+"appinfo"
+{
+	"appid"		"1283810"
+	"common"
+	{
+		"name"		"Solenars Edge II: Aurora of The Seventh Dawn"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"9912af3182925904d2da42d1989cb178a0331c00"
+		"clienttga"		"9a93fb08491893594d5241fbc901290a99fd07b4"
+		"icon"		"b4c2d4304c7bb227aa2dfaac1bff612ef9324300"
+		"logo"		"ba2ffc318000fa7f80d7fe85958252cdfc561954"
+		"logo_small"		"ba2ffc318000fa7f80d7fe85958252cdfc561954_thumb"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.665110851808635"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1586748968"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Syukino"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team Syukino"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Solenars Edge"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1591611840"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1283810"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"492"
+			"2"		"19"
+			"3"		"21"
+			"4"		"9"
+			"5"		"1741"
+			"6"		"5577"
+			"7"		"14139"
+			"8"		"4434"
+			"9"		"4085"
+			"10"		"4325"
+			"11"		"3871"
+			"12"		"3964"
+			"13"		"1684"
+			"14"		"7481"
+			"15"		"3841"
+			"16"		"7368"
+			"17"		"4182"
+			"18"		"4004"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Team Syukino"
+		"publisher"		"Team Syukino"
+		"isfreeapp"		"1"
+		"listofdlc"		"1337440,1343980,2098260"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Solenars Edge II Aurora of The Seventh Dawn"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"description"		"Solenars Edge II: Aurora of The Seventh Dawn"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Armeida Tactics/AT.exe"
+				"arguments"		"--in-process-gpu"
+				"description"		"Armeida Tactics"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"1283811"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6128495281040354110"
+					"size"		"2421678148"
+					"download"		"1312292160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"coop"
+				{
+					"gid"		"6A4C29335B5827A80409AC608CFAA033"
+					"size"		"A7C0F7687DD923C5DB1F7AB6501C63A4"
+					"download"		"C9597D835CA2EC9E788148B063B5D807"
+				}
+			}
+		}
+		"1337440"
+		{
+			"dlcappid"		"1337440"
+			"config"
+			{
+				"language"		""
+				"optionaldlc"		"1337440"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3670365772661350819"
+					"size"		"858403820"
+					"download"		"650588512"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6031311"
+				"timeupdated"		"1609544293"
+			}
+			"coop"
+			{
+				"buildid"		"6030980"
+				"pwdrequired"		"1"
+				"timeupdated"		"1609530032"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+	}
+}
