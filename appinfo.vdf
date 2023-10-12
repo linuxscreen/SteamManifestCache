@@ -1,0 +1,268 @@
+"appinfo"
+{
+	"appid"		"1111760"
+	"common"
+	{
+		"name"		"World of Guns: VR"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"4d6ab4ac73b0e4a4bd63985c1ba9b32411f2e305"
+		"clienticon"		"46bf14b0fcbd5254800860571e29f512ee551ebe"
+		"icon"		"6debe93db2636c7b8d3710d2d591c2fb21c631b9"
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"openvrsupport"		"1"
+		"logo"		"5b8c2116cd7567a4ec3c2afd794ee179621c239f"
+		"logo_small"		"5b8c2116cd7567a4ec3c2afd794ee179621c239f_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1675209600"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"World of Guns: VR"
+		"nokeyboardmouse"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"88.53801169590642"
+				"height_pct"		"40.484045210078165"
+			}
+		}
+		"store_asset_mtime"		"1562340784"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Noble Empire Corp."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Noble Empire Corp."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1576952160"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1111760"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"599"
+			"2"		"21978"
+		}
+		"review_score"		"4"
+		"review_percentage"		"34"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Noble Empire Corp."
+		"publisher"		"Noble Empire Corp."
+		"homepage"		"http://noble-empire.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1115140,1115150,1115160,1115170,1115180,1115190,1115200,1115210,1115220,1115230,1115240,1115250,1115260,1115270,1115280,1115290,1115300,1115310,1115320,1115330,1115340,1115350,1115360,1115370"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"World of Guns VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"disasm_vr.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1111761"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2770214930710368539"
+					"size"		"171389638"
+					"download"		"46878272"
+				}
+				"betavr"
+				{
+					"gid"		"2770214930710368539"
+					"size"		"171389638"
+					"download"		"46878272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4498101"
+				"timeupdated"		"1576522353"
+			}
+			"betavr"
+			{
+				"buildid"		"4498101"
+				"timeupdated"		"1576518449"
+			}
+		}
+	}
+}
