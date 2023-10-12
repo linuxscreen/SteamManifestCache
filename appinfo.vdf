@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"628410"
+	"common"
+	{
+		"name"		"Arctic Adventure: Episodes"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"f6f850938f03e5269a664e2d08d3529888a84be7"
+		"clienttga"		"9b36b9efd1b35f2c8445d161a5f1cdf73d1cb9d6"
+		"icon"		"d6d47533ac9f8a1c46b23bfb87ac523c9b8a600a"
+		"logo"		"23f1d84b16b83c13dcdad3395486e0edeb6ca6f5"
+		"logo_small"		"23f1d84b16b83c13dcdad3395486e0edeb6ca6f5_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"metacritic_name"		"Arctic Adventure: Episodes"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"57.58459743290547"
+				"height_pct"		"76.59700783661836"
+			}
+		}
+		"store_asset_mtime"		"1693661642"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BriJee"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Studio Black Eagle"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"BriJee"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1546382700"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"628410"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"113"
+			"2"		"21"
+			"3"		"5348"
+			"4"		"1663"
+			"5"		"1667"
+			"6"		"1774"
+			"7"		"3839"
+		}
+		"review_score"		"4"
+		"review_percentage"		"31"
+	}
+	"extended"
+	{
+		"requiredappid"		"220"
+		"isfreeapp"		"1"
+		"developer"		"BriJee"
+		"publisher"		"BriJee"
+		"homepage"		"http://www.moddb.com/mods/arctic-adventure"
+	}
+	"config"
+	{
+		"installdir"		"Arctic Adventure Episodes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game aa_episodes -global_lighting"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"628411"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8910499078187974783"
+					"size"		"13912024148"
+					"download"		"5629545936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"1EF85394D5BB1BD1F2C24984011567FA"
+					"size"		"39F40E36DF064BB0A1487F476F9263C1"
+					"download"		"AD454E41AA7514F019ECD199AB2E1577"
+				}
+				"tester"
+				{
+					"gid"		"6CCBC4D0BE8B4DE247684B7CFAAEAFE9"
+					"size"		"2CB29DEFFB4A1635FD6ABA2FA7F44021"
+					"download"		"B22FAD965D1F46EE2F84641CA4F93D10"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6952009"
+				"timeupdated"		"1624983157"
+			}
+			"developer"
+			{
+				"buildid"		"6952009"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624982908"
+			}
+			"tester"
+			{
+				"buildid"		"4197811"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624983121"
+			}
+		}
+	}
+}
