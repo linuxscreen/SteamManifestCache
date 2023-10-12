@@ -1,0 +1,419 @@
+"appinfo"
+{
+	"appid"		"1771380"
+	"common"
+	{
+		"name"		"The Hidden Room"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"44053403ec7bf2651509fbbdf8626abf1fd6983f"
+		"logo_small"		"44053403ec7bf2651509fbbdf8626abf1fd6983f_thumb"
+		"icon"		"20d3dba1899b12f2f840bddc844b84d1656fbbbe"
+		"clienttga"		"3d520880be8cce06d45eaeac1f5a92782fee15ae"
+		"clienticon"		"58682b4eb08fd3ec336f13b83f99b1fb7d4364d3"
+		"languages"
+		{
+			"english"		"1"
+			"italian"		"1"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"italian"		"capsule_231x87_italian.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"italian"		"header_italian.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"it,en"
+			"library_hero"		"it,en"
+			"library_logo"		"it,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"61.80645161290322"
+				"height_pct"		"76.45320457004142"
+			}
+		}
+		"store_asset_mtime"		"1683099194"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mario Amato"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Emanuele Avallone"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Emanuele Avallone"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1634227284"
+		"steam_deck_blog_url"		"https://steamcommunity.com/app/1771380/discussions/0/3823034248726419214/"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1771380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"769306"
+			"1"		"1664"
+			"2"		"4191"
+			"3"		"1738"
+			"4"		"3839"
+			"5"		"4182"
+			"6"		"21"
+			"7"		"3834"
+			"8"		"5716"
+			"9"		"8369"
+			"10"		"6129"
+			"11"		"492"
+			"12"		"4726"
+			"13"		"4975"
+			"14"		"5094"
+			"15"		"113"
+			"16"		"3859"
+			"17"		"1667"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"developer"		"Mario Amato"
+		"publisher"		"Emanuele Avallone"
+		"isfreeapp"		"1"
+		"listofdlc"		"1794570,1912780"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Hidden Room"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheHiddenRoom.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch The Hidden Room"
+					"italian"		"Avvio The Hidden Room"
+				}
+				"description"		"Launch The Hidden Room"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,italian"
+		"hasdepotsindlc"		"1"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1771381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1376085676267509931"
+					"size"		"1467706904"
+					"download"		"630520736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"CF254BCE1D603B889F7F6A4DD9EC572A"
+					"size"		"E973A6182C02E5DBFE70B916C1787441"
+					"download"		"A01348CC88E6F8AC56BA60FCC99FE073"
+				}
+				"development"
+				{
+					"gid"		"2F63994EC06B3A869768EDD7E5C7F2E5"
+					"size"		"2CDF062AA641754D8D8FD2AF002503F0"
+					"download"		"80CD4A1D9E9931E7242F130375942BA8"
+				}
+				"development2"
+				{
+					"gid"		"58A7717ED5F1E8BFB791BB15672A664C"
+					"size"		"F813D2180AB1B16605859EFA5822783B"
+					"download"		"CD2CFC474D83F964F155013F095293A5"
+				}
+				"dlc_build_only"
+				{
+					"gid"		"718137B8844E7B80E2A10017E6562E09"
+					"size"		"7082F9ADB4DDF228968F8A111230F332"
+					"download"		"AC4CCE466868603DC4FB0A630D68B83A"
+				}
+				"improvements_patch"
+				{
+					"gid"		"DA3BEBE662412A8CD0B37DA80869C243"
+					"size"		"6190221E333369BEFC1CDD87B349C06F"
+					"download"		"804B23EB9891CFCB129EC076B88757E7"
+				}
+				"launcher_test"
+				{
+					"gid"		"8B0013C4A10A5DA9A11B9D7197231BD9"
+					"size"		"34D1508D1D85375DB37195D411CE6520"
+					"download"		"D1C230686BDE36277B1D05D01C9635DF"
+				}
+				"localization"
+				{
+					"gid"		"E0C34A5A440A7445B42CC70B4071DAEE"
+					"size"		"CC5E8E2C047F78C180CC6F952C24A439"
+					"download"		"5821AA7887A34BFE6C1D0C6956EFBFA6"
+				}
+				"main_rollback"
+				{
+					"gid"		"9700E0FED573BF4D6409DCF9D742D987"
+					"size"		"8506D30E11C58DE1CC0132D4E9F42C09"
+					"download"		"F09ABD3782A6E6D62F08934C0671965F"
+				}
+				"p_videoreview"
+				{
+					"gid"		"05EB5547BB924D6C2746FDB03DC7512D"
+					"size"		"D73B689EAB93460B290F80BC814DD917"
+					"download"		"BAB91FC513AF1D90ED165815B9FB7E79"
+				}
+				"pre-release"
+				{
+					"gid"		"50ECAA8AFC9012CD2012E8F87F7FBC1B"
+					"size"		"73E5F8CA90E531C2F63C32A6D7124B29"
+					"download"		"1B9F10AEE7973951D4A460FE909B1561"
+				}
+				"stable_v2_build"
+				{
+					"gid"		"203D1E230CA28913B4169AF890A4AB0A"
+					"size"		"5A8AA841C7B137C64437097EFAB6D8FF"
+					"download"		"BD724B54B8CCC6D71B8C0C5FB8499F9F"
+				}
+				"steamdeck_testing"
+				{
+					"gid"		"6E2A273A3601F76B646E3CA8157072DA"
+					"size"		"86C5498F7463DD8E7C984D53A34D3CBA"
+					"download"		"AAF57A160EFA4E81B3181901B5E432D3"
+				}
+				"user_playtest"
+				{
+					"gid"		"328CCF0AED013550FCE479F48382DFFF"
+					"size"		"F80BB6059642F7EE2E43A1DA5E4F649C"
+					"download"		"2D25FA67685125A83836A4881DCED79B"
+				}
+				"v2.1"
+				{
+					"gid"		"B2BDE40157B4EA5453991E7DFC6D8319"
+					"size"		"0BC33933F7730986D34A14E084AD141E"
+					"download"		"7379F7E56BFE95F9D8DCB8F277E62AA5"
+				}
+				"v2.1_dev"
+				{
+					"gid"		"576513228BC148D3B863D2335482403C"
+					"size"		"0CB18E2492AC80431140F5B5CBF9BF01"
+					"download"		"F262F3655A5BEA29E1305363A3568968"
+				}
+				"v2.2"
+				{
+					"gid"		"72C78A49A2116B8C4907624F2BF47726"
+					"size"		"6566265BF81830B6FAD3CECE79DC1DE9"
+					"download"		"FD0CD3D4192F3568C1A1C331880713B5"
+				}
+				"v2.2_dev"
+				{
+					"gid"		"23928A46C1CF21A0B17534E07922CFE4"
+					"size"		"CF00F25C71B227C971791BE5EFA14A5E"
+					"download"		"2B25835D5BECD7329BF141C090A90B1B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12309146"
+				"timeupdated"		"1695919724"
+			}
+			"beta"
+			{
+				"buildid"		"8215210"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645031257"
+			}
+			"development"
+			{
+				"buildid"		"8739698"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652532740"
+			}
+			"development2"
+			{
+				"buildid"		"8490292"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649015828"
+			}
+			"dlc_build_only"
+			{
+				"buildid"		"9766608"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666310666"
+			}
+			"improvements_patch"
+			{
+				"buildid"		"12040223"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693073665"
+			}
+			"launcher_test"
+			{
+				"buildid"		"11335142"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685233725"
+			}
+			"localization"
+			{
+				"buildid"		"9562968"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663780095"
+			}
+			"main_rollback"
+			{
+				"buildid"		"9670472"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675777867"
+			}
+			"p_videoreview"
+			{
+				"buildid"		"9017000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656367631"
+			}
+			"pre-release"
+			{
+				"buildid"		"12309146"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695919506"
+			}
+			"stable_v2_build"
+			{
+				"buildid"		"9523862"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663253311"
+			}
+			"steamdeck_testing"
+			{
+				"buildid"		"11418517"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686178747"
+			}
+			"user_playtest"
+			{
+				"buildid"		"10855355"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679750658"
+			}
+			"v2.1"
+			{
+				"buildid"		"10956649"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680887198"
+			}
+			"v2.1_dev"
+			{
+				"buildid"		"10803670"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679183854"
+			}
+			"v2.2"
+			{
+				"buildid"		"11418517"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686178830"
+			}
+			"v2.2_dev"
+			{
+				"buildid"		"11418517"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686178559"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+			}
+			"italian"
+			{
+			}
+		}
+	}
+}
