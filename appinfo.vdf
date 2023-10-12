@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"1084980"
+	"common"
+	{
+		"name"		"Front Lines"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"ec41642da863afb3fec10f7817650321d90a6d21"
+		"logo_small"		"ec41642da863afb3fec10f7817650321d90a6d21_thumb"
+		"icon"		"f556d1f63fb9ea7ac40f59282340acf87d985f7e"
+		"clienticon"		"ffb6c467b83c39abff7fb4f562c6dd372a41aeb7"
+		"clienttga"		"ce343aa55b41c32c238bf89537d79aade143920d"
+		"releasestate"		"released"
+		"metacritic_name"		"Front Lines"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1568589570"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Marco S Hampel"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Firez Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"28"
+			"6"		"2"
+			"7"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1560785457"
+		"community_hub_visible"		"1"
+		"gameid"		"1084980"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"19"
+			"3"		"599"
+			"4"		"597"
+			"5"		"492"
+			"6"		"21"
+			"7"		"493"
+			"8"		"3810"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Marco S Hampel"
+		"publisher"		"Firez Studios"
+		"homepage"		"https://sites.google.com/view/firezgamesstudios/front-lines"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Front Lines"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Front Lines.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Contents\\MacOS\\FrontLines3.1"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1084981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7881214041958899180"
+					"size"		"307486728"
+					"download"		"62317856"
+				}
+			}
+		}
+		"1084982"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7660474653220475975"
+					"size"		"309190866"
+					"download"		"64958384"
+				}
+			}
+		}
+		"1084983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4947365"
+				"timeupdated"		"1587934289"
+			}
+		}
+	}
+}
