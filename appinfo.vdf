@@ -1,0 +1,185 @@
+"appinfo"
+{
+	"appid"		"2491540"
+	"common"
+	{
+		"name"		"AMBUSH tactics Advanced"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"230b3afa1aa723c919704e8f9bff9d00dd972a57"
+		"clienttga"		"f5a4018f4fa0af2a96a47fdd83c136a9aa44fcac"
+		"clienticon"		"6e0d19d5636653bd5e5691e8969131031229db7f"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1695168000"
+			"tested_build_id"		"11560506"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.89309652425155"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688023912"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lambhalf"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lambhalf"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1689579392"
+		"community_hub_visible"		"1"
+		"gameid"		"2491540"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"9"
+			"3"		"1741"
+			"4"		"21725"
+			"5"		"3871"
+			"6"		"4085"
+			"7"		"1684"
+			"8"		"4172"
+			"9"		"1708"
+			"10"		"492"
+			"11"		"7208"
+			"12"		"1742"
+			"13"		"5577"
+			"14"		"14139"
+			"15"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Lambhalf"
+		"publisher"		"Lambhalf"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"AMBUSH tactics Advanced"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2491541"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5720530022343468804"
+					"size"		"221608165"
+					"download"		"215990112"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11560506"
+				"timeupdated"		"1687788680"
+			}
+		}
+	}
+}
