@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"1986120"
+	"common"
+	{
+		"name"		"Chaste Tris"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"65b0c96a21d83cfddc3fd839ab6191803e1462fb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"de1f28b2d7091bc76dd9203a30eccf3d33e18a27"
+		"clienticon"		"484d9822a7d97af6d71d008bf29e7981d1928f68"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1682989137"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Chastity White Rose"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Chastity White Rose"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1654022820"
+		"community_hub_visible"		"1"
+		"gameid"		"1986120"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"9"
+			"2"		"1664"
+			"3"		"3810"
+			"4"		"1674"
+			"5"		"3871"
+			"6"		"4562"
+			"7"		"4094"
+			"8"		"3964"
+			"9"		"7743"
+			"10"		"6691"
+			"11"		"5350"
+			"12"		"3916"
+			"13"		"3968"
+			"14"		"5154"
+			"15"		"12057"
+			"16"		"4182"
+			"17"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Chastity White Rose"
+		"publisher"		"Chastity White Rose"
+		"homepage"		"https://github.com/chastitywhiterose/chastetris"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Chaste Tris"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"chastetris.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Chaste Tris: Play with the standard 7 deadly shapes!"
+				}
+				"description"		"Chaste Tris: Play with the standard 7 deadly shapes!"
+			}
+			"1"
+			{
+				"executable"		"chastetris.exe"
+				"arguments"		"-longboi"
+				"description_loc"
+				{
+					"english"		"Long Boi: Only long blocks appear in this mode."
+				}
+				"description"		"Long Boi: Only long blocks appear in this mode."
+			}
+			"2"
+			{
+				"executable"		"chastetris.exe"
+				"arguments"		"-tgirl"
+				"description_loc"
+				{
+					"english"		"Only T blocks"
+				}
+				"description"		"Only T blocks"
+			}
+		}
+	}
+	"depots"
+	{
+		"1986121"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5551066213763495936"
+					"size"		"20136773"
+					"download"		"18720192"
+				}
+			}
+		}
+		"1986122"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8801086893665940188"
+					"size"		"19840772"
+					"download"		"18690880"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12173490"
+				"timeupdated"		"1694563037"
+			}
+		}
+	}
+}
