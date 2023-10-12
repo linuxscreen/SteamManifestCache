@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"1736510"
+	"common"
+	{
+		"name"		"Anxiety Treatment with Relaxation Demo"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"0d67aa672c6e09d10510ff8c2da022d1a02ddc36"
+		"logo_small"		"0d67aa672c6e09d10510ff8c2da022d1a02ddc36_thumb"
+		"icon"		"0fc253bee59d59d4acfafcbd7732f5978b8279bb"
+		"clienttga"		"aad02f6751f9dc4d5541a75c8992844b58bca98e"
+		"clienticon"		"67414933b91bb41ecbdd4bfad6965bd7efb1ec1a"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"openvr_action_manifest_path"		"\\HDRP_Therapy_Data\\StreamingAssets\\SteamVR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"64.88372093023257"
+				"height_pct"		"55.31940156732368"
+			}
+		}
+		"store_asset_mtime"		"1630801357"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NewAdultReality"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NewAdultReality"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1642466713"
+		"community_hub_visible"		"1"
+		"gameid"		"1736510"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"8013"
+			"2"		"10235"
+			"3"		"3799"
+			"4"		"4486"
+			"5"		"3834"
+			"6"		"4085"
+			"7"		"4305"
+			"8"		"4057"
+			"9"		"1695"
+			"10"		"4182"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"NewAdultReality"
+		"publisher"		"NewAdultReality"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Anxiety Treatment with Relaxation Demo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HDRP_Therapy.exe"
+				"type"		"osvr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1736511"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8022757311423220043"
+					"size"		"5058473144"
+					"download"		"2154279760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7908244"
+				"timeupdated"		"1639867569"
+			}
+		}
+	}
+}
