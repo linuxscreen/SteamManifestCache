@@ -1,0 +1,254 @@
+"appinfo"
+{
+	"appid"		"1582600"
+	"common"
+	{
+		"name"		"The Palace on the Hill Prologue"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"logo"		"4500b964f74288ba665543669d4b4a79432bdae8"
+		"logo_small"		"4500b964f74288ba665543669d4b4a79432bdae8_thumb"
+		"icon"		"cb09e58fa8782c72380db86df11fe4ab29c93457"
+		"clienttga"		"7531a2fa3e1e5da1e16f4d8112c98bd2ca84fd63"
+		"clienticon"		"64b3352324700a8704b6f71a7067a4712097e3b4"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"47.7767265846736"
+			}
+		}
+		"store_asset_mtime"		"1683258455"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Niku Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Niku Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"subtitles"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"bangla"
+			{
+				"subtitles"		"true"
+			}
+			"hindi"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1683215329"
+		"community_hub_visible"		"1"
+		"gameid"		"1582600"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1742"
+			"1"		"12472"
+			"2"		"10235"
+			"3"		"1654"
+			"4"		"3834"
+			"5"		"6815"
+			"6"		"5608"
+			"7"		"21"
+			"8"		"7702"
+			"9"		"4791"
+			"10"		"1695"
+			"11"		"4305"
+			"12"		"492"
+			"13"		"4182"
+			"14"		"9204"
+			"15"		"599"
+			"16"		"4975"
+			"17"		"4520"
+			"18"		"3871"
+			"19"		"15172"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Niku Games"
+		"publisher"		"Niku Games"
+		"homepage"		"https://nikugames.com/ThePalaceOnTheHill/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Palace on the Hill"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Palace on Hill Prologue.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"The main game"
+				}
+				"description"		"The main game"
+			}
+			"1"
+			{
+				"executable"		"Build.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Mac Build"
+				}
+				"description"		"Mac Build"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamconfigurator3rdpartynative"		"2"
+	}
+	"depots"
+	{
+		"1582601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4580536373044220824"
+					"size"		"785587599"
+					"download"		"204393648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"playtest"
+				{
+					"gid"		"1D46FED102E9837BD72E788D2815E0ED"
+					"size"		"A6339CD150CECE9F46FDA024757CBD27"
+					"download"		"4022C28D740B2752C81B6A4674F8C918"
+				}
+			}
+		}
+		"1582602"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5038616528372100131"
+					"size"		"806241035"
+					"download"		"211282000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"playtest"
+				{
+					"gid"		"3A2168DEB32A6DAC96990B9B63CA0ED2"
+					"size"		"89783C7A23B65647983B189B8CD6F32B"
+					"download"		"25A9F7279FB0A502DE76FCBB4E57FF82"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11470345"
+				"timeupdated"		"1686764339"
+			}
+			"playtest"
+			{
+				"buildid"		"12414311"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697033186"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"30"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Niku Games/Palace on Hill Prologue/"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
