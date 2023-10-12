@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"1988930"
+	"common"
+	{
+		"name"		"Syndeo-Complex"
+		"type"		"Game"
+		"icon"		"874cc1f381d0766614dbc80f620cfaa381355f75"
+		"clienttga"		"b290eb0805dee18852aeb193a5862bb9904d8e53"
+		"clienticon"		"1f1363d08161d6405d7fe915055a1ae12f7211f9"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1988930_eula_0"
+				"name"		"Syndeo-Complex EULA"
+				"url"		"https://store.steampowered.com//eula/1988930_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668813275"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ddzevprod"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ddzevprod"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1669831120"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1988930"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4106"
+			"2"		"1774"
+			"3"		"1663"
+			"4"		"3839"
+			"5"		"4191"
+			"6"		"4166"
+			"7"		"4295"
+			"8"		"3835"
+			"9"		"5752"
+			"10"		"493"
+			"11"		"492"
+			"12"		"3942"
+			"13"		"4342"
+			"14"		"3993"
+			"15"		"7250"
+			"16"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"ddzevprod"
+		"publisher"		"ddzevprod"
+		"homepage"		"https://ddzevprod.fr"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Syndeo-Complex"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binaries\\Win32\\UDK.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1988931"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6729776436398738594"
+					"size"		"753263842"
+					"download"		"547646944"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10373835"
+				"timeupdated"		"1674306909"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Binaries/Win32/UserCode"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
