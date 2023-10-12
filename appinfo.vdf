@@ -1,0 +1,238 @@
+"appinfo"
+{
+	"appid"		"589460"
+	"common"
+	{
+		"name"		"Covert Syndrome"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"1"
+			}
+		}
+		"openvrsupport"		"1"
+		"logo"		"90de51596ec7176528fc593c7ccda81d7ecb8be6"
+		"logo_small"		"90de51596ec7176528fc593c7ccda81d7ecb8be6_thumb"
+		"icon"		"c8c16af2ef58547e3171f61d3683ccfe57e4a604"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"589460_eula_0"
+				"name"		"Covert Syndrome EULA"
+				"url"		"http://store.steampowered.com//eula/589460_eula_0"
+			}
+		}
+		"clienticon"		"96bcac15d2415cfd8e26e4fcc2e3a06bcff52174"
+		"clienttga"		"b82949446c995d9685fa401a79f52d04a4f27156"
+		"oslist"		"windows"
+		"osarch"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1679529600"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Covert Syndrome"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1492534762"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Offworld Industries"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Offworld Industries"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"73"
+			"1"		"1"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_39"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_44"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1492758000"
+		"steam_release_date"		"1492836150"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"589460"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"21978"
+			"3"		"4667"
+			"4"		"492"
+			"5"		"597"
+			"6"		"1663"
+			"7"		"3859"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Offworld Industries"
+		"publisher"		"Offworld Industries"
+		"homepage"		"https://discord.gg/aPXGuN8"
+		"isfreeapp"		"1"
+		"listofdlc"		"635530"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Covert Syndrome"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MyProject.exe"
+				"type"		"vr"
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"589461"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6702614450090728221"
+					"size"		"910197022"
+					"download"		"856980416"
+				}
+				"test"
+				{
+					"gid"		"6702614450090728221"
+					"size"		"910197022"
+					"download"		"856980416"
+				}
+			}
+		}
+		"635530"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"771981392778068760"
+					"size"		"96432250"
+					"download"		"88069680"
+				}
+				"test"
+				{
+					"gid"		"771981392778068760"
+					"size"		"96432250"
+					"download"		"88069680"
+				}
+			}
+			"dlcappid"		"635530"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2410768"
+				"timeupdated"		"1515016216"
+			}
+			"test"
+			{
+				"buildid"		"2410768"
+				"timeupdated"		"1515016195"
+			}
+		}
+	}
+}
