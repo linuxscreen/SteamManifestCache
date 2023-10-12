@@ -1,0 +1,201 @@
+"appinfo"
+{
+	"appid"		"1801860"
+	"common"
+	{
+		"name"		"WOLF RIOT"
+		"type"		"Game"
+		"logo"		"b0d862201abac2d417420a15fb78d7f232140918"
+		"logo_small"		"b0d862201abac2d417420a15fb78d7f232140918_thumb"
+		"icon"		"7e6fb4c664d6ca14d8ba358bbd0677f92b272067"
+		"clienttga"		"b43f5431f7d3a62667321d42825ebb140950fc34"
+		"clienticon"		"8a3880368f050bbcd353b8c7a10bf77856a79d42"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.72093023255817"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1670768016"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jack Goddard"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jack Goddard"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1636999812"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1801860"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4667"
+			"1"		"19"
+			"2"		"4345"
+			"3"		"4791"
+			"4"		"17015"
+			"5"		"4158"
+			"6"		"3993"
+			"7"		"492"
+			"8"		"1646"
+			"9"		"4182"
+			"10"		"5363"
+			"11"		"4252"
+			"12"		"5228"
+			"13"		"4975"
+			"14"		"4191"
+			"15"		"4604"
+			"16"		"7481"
+			"17"		"1667"
+			"18"		"4342"
+			"19"		"3968"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Jack Goddard"
+		"publisher"		"Jack Goddard"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"WOLF RIOT"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"\\WOLFRIOT\\WindowsNoEditor\\WolfRiot.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launches the game"
+				}
+				"description"		"Launches the game"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"9"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1801861"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4537878819955087608"
+					"size"		"2247250118"
+					"download"		"732545456"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9977932"
+				"timeupdated"		"1668947246"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"WolfRiot/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
