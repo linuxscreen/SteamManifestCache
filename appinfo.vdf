@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"2251660"
+	"common"
+	{
+		"name"		"Subtension"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"1f423c27e8374d5d193de33060fb9db7e4e47dac"
+		"clienttga"		"1e44a2b3cc07b56b6e21b5a0b223d240a239849f"
+		"clienticon"		"293e6320ff3806ea38b2b15effb076e30d22cb68"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"57.93465577596267"
+				"height_pct"		"50.759914509617644"
+			}
+		}
+		"store_asset_mtime"		"1674619945"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"WolverineSoft Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"WolverineSoft"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1680021303"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2251660"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"492"
+			"2"		"9"
+			"3"		"1664"
+			"4"		"3871"
+			"5"		"9157"
+			"6"		"6276"
+			"7"		"4182"
+			"8"		"19780"
+			"9"		"4166"
+			"10"		"5030"
+			"11"		"3942"
+			"12"		"7250"
+			"13"		"4161"
+			"14"		"7107"
+			"15"		"5379"
+		}
+	}
+	"extended"
+	{
+		"developer"		"WolverineSoft Studio"
+		"publisher"		"WolverineSoft"
+		"homepage"		"https://wolverinesoft-studio.itch.io/subtension"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Subtension"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"project-light.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Subtension.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2251661"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8202814683842905102"
+					"size"		"603347349"
+					"download"		"128777216"
+				}
+			}
+		}
+		"2251662"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4517455033479737448"
+					"size"		"259972615"
+					"download"		"150945200"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10875769"
+				"timeupdated"		"1680021220"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"20"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_ingame"		"In Game"
+					"#status_tutorial"		"In Tutoiral"
+					"#status_encounter"		"In Encounter %ENCOUNTER_NUM%"
+				}
+			}
+		}
+	}
+}
