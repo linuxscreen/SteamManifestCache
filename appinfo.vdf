@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"1726020"
+	"common"
+	{
+		"name"		"Never End, Neverland!"
+		"type"		"Game"
+		"logo"		"f5a7322aa554baebd32e1fefc81a68696ddf94ca"
+		"logo_small"		"f5a7322aa554baebd32e1fefc81a68696ddf94ca_thumb"
+		"icon"		"2176f1c73fdc18fde8831cf604815fd38216dc44"
+		"clienticns"		"efa51428403010cfa54d47446050f99d0bf92e01"
+		"clienticon"		"71afe48c722c195bd01cfcfcc2731371e16b71b6"
+		"clienttga"		"56b38e56457cabf46b9af43564f1f7f7d488d9fe"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.02325581395348"
+				"height_pct"		"68.61790548563287"
+			}
+		}
+		"store_asset_mtime"		"1632886864"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tekkou Studios LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tekkou Studios LLC"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1647889581"
+		"community_hub_visible"		"1"
+		"gameid"		"1726020"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"1664"
+			"3"		"3871"
+			"4"		"4562"
+			"5"		"4195"
+			"6"		"4791"
+			"7"		"4136"
+			"8"		"5716"
+			"9"		"492"
+			"10"		"31275"
+			"11"		"7208"
+			"12"		"7250"
+			"13"		"1742"
+			"14"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Tekkou Studios LLC"
+		"publisher"		"Tekkou Studios LLC"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Never End, Neverland!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"win64\\Never End, Neverland!.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"mac64\\Never End, Neverland!.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1726022"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1717272235314848701"
+					"size"		"999538477"
+					"download"		"824625280"
+				}
+			}
+		}
+		"1726023"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1924628364684107150"
+					"size"		"1041702981"
+					"download"		"827620064"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8786278"
+				"timeupdated"		"1653184383"
+			}
+		}
+	}
+}
