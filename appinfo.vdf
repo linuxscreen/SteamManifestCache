@@ -1,0 +1,249 @@
+"appinfo"
+{
+	"appid"		"891480"
+	"common"
+	{
+		"name"		"Idle Expanse"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"icon"		"0a0ae66e7a0920d39afa18c3ec8fac797b7bc19b"
+		"logo"		"731dd41418f73c431af5406e2bed9bf38760affa"
+		"logo_small"		"731dd41418f73c431af5406e2bed9bf38760affa_thumb"
+		"clienticon"		"654aa1631d5ca2b2fe703d9f1bb0c3f29c83173c"
+		"clienttga"		"9a59f16a3f902caab904e0ba433883133ec4da4d"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"891480_eula_0"
+				"name"		"Idle Expanse EULA"
+				"url"		"https://store.steampowered.com//eula/891480_eula_0"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"metacritic_name"		"Idle Expanse"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1596396043"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lyrical Games LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lyrical Games LLC"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1599490680"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"891480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"122"
+			"2"		"9"
+			"3"		"113"
+			"4"		"492"
+			"5"		"615955"
+			"6"		"379975"
+			"7"		"3871"
+			"8"		"4195"
+			"9"		"1673"
+			"10"		"4136"
+			"11"		"12472"
+			"12"		"1654"
+			"13"		"3942"
+			"14"		"1755"
+			"15"		"8945"
+			"16"		"4182"
+			"17"		"12057"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"developer"		"Lyrical Games LLC"
+		"publisher"		"Lyrical Games LLC"
+		"isfreeapp"		"1"
+		"listofdlc"		"1028070,1247180,1285880,1368610"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Idle Expanse"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lyric\\Binaries\\Win64\\IdleExpanse-Win64.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamcontrollertouchtemplateindex"		"8"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"891481"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2621431863178799192"
+					"size"		"258035975"
+					"download"		"217970160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"56F673B17585179036BC7FEFFB1699AD"
+					"size"		"37753C86A4231ED05C60B49ACE66D0CE"
+					"download"		"964A98CAB53113E6F8BC0AC10D59A281"
+				}
+				"real_internal_test"
+				{
+					"gid"		"B401EC29F20BFF50D8A7B14D41E78E92"
+					"size"		"A1315C56397DE2659D237F497776019B"
+					"download"		"C6335BECF5D4419E217801EF7DC9B802"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8815076"
+				"timeupdated"		"1656771338"
+			}
+			"internal_test"
+			{
+				"buildid"		"8815040"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656771297"
+			}
+			"real_internal_test"
+			{
+				"buildid"		"8815076"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653573330"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"16"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Lyric/Saved/SaveGames/{64BitSteamID}"
+				"pattern"		"AUTOSAVE.sav"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"Lyric/Saved/SaveGames/{64BitSteamID}"
+				"pattern"		"AUTOSAVE_BACKUP.sav"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"IdleExpanse/Saved/SaveGames/{64BitSteamID}"
+				"pattern"		"AUTOSAVE.sav"
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"IdleExpanse/Saved/SaveGames/{64BitSteamID}"
+				"pattern"		"AUTOSAVE_BACKUP.sav"
+			}
+		}
+	}
+}
