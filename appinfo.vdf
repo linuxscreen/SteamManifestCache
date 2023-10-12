@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"942510"
+	"common"
+	{
+		"name"		"Scamp: High Hat Havoc"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"655bdacc37abc39a7d086ad7b03e8968da06c764"
+		"clienttga"		"ba448f9cf6eda608f85a319cc64f2e169ce81b6f"
+		"icon"		"f3c0d65ce5e8c0cfa5e603e9361a7e02da8ee373"
+		"logo"		"0ee681abd676907cc2776b26aae872c2305f96eb"
+		"logo_small"		"0ee681abd676907cc2776b26aae872c2305f96eb_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1684886400"
+			"tested_build_id"		"3370687"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-1"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Scamp: High Hat Havoc"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1544326293"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Big Hat Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Big Hat Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1544195149"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"942510"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21"
+			"2"		"5537"
+			"3"		"492"
+			"4"		"1719"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"developer"		"Big Hat Games"
+		"publisher"		"Big Hat Games"
+		"homepage"		"https://www.bighatgames.net/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Scamp High Hat Havoc"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Scamp High Hat Havoc.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"2"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"942511"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5090789797259749524"
+					"size"		"1505619926"
+					"download"		"1428561968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3370687"
+				"timeupdated"		"1544214747"
+			}
+		}
+	}
+}
