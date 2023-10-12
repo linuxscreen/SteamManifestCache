@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1355390"
+	"common"
+	{
+		"name"		"Obreno: Chapter One"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"ba64926e4605f80c18f9a15f5f4994935c4883a1"
+		"logo_small"		"ba64926e4605f80c18f9a15f5f4994935c4883a1_thumb"
+		"icon"		"a17a4cbe4d5ffd73d2a8f26551067aad73bbd5b6"
+		"clienticon"		"e8503119a12730fa843cbaaf016484eea3b5f716"
+		"clienttga"		"90ae67fb80d37471fab71b34de8f336df6c5f724"
+		"clienticns"		"fb38e7f96845f303e2638195031a8c15fc995868"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1598088798"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Out Of Time Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Out Of Time Interactive"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1596477996"
+		"community_hub_visible"		"1"
+		"gameid"		"1355390"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"11014"
+			"1"		"13782"
+			"2"		"15277"
+			"3"		"3942"
+			"4"		"1742"
+			"5"		"3799"
+			"6"		"4486"
+			"7"		"4137"
+			"8"		"4295"
+			"9"		"1755"
+			"10"		"4094"
+			"11"		"6426"
+			"12"		"4252"
+			"13"		"5794"
+			"14"		"31275"
+			"15"		"5716"
+			"16"		"30358"
+			"17"		"3854"
+			"18"		"15172"
+			"19"		"5030"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"developer"		"Out Of Time Interactive"
+		"publisher"		"Out Of Time Interactive"
+		"homepage"		"http://outoftimeinteractive.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Obreno Chapter One"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Obreno.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Obreno_Mac.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1355391"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2731661045339387250"
+					"size"		"798943040"
+					"download"		"281469392"
+				}
+			}
+		}
+		"1355392"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1000782883154704352"
+					"size"		"805765658"
+					"download"		"283500000"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5337793"
+				"timeupdated"		"1595876758"
+			}
+		}
+	}
+}
