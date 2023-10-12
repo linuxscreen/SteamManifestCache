@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"1714760"
+	"common"
+	{
+		"name"		"Raygun Chess"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"oculus"		"1"
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"e8e14236f36070fc3116aa776f685b6902e83a8b"
+		"logo_small"		"e8e14236f36070fc3116aa776f685b6902e83a8b_thumb"
+		"icon"		"68d174e30cd01e47fc05c6b9c5fc474742de2672"
+		"clienticon"		"a87f73a3d315a797cbae24fb397c21d52c5957ec"
+		"clienttga"		"87693a894aca41dc3fa30e9de66a84af8461d0ad"
+		"releasestate"		"released"
+		"openxrsupport"		"1"
+		"openvrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"61.374407582938375"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1631149315"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"XR Game Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"XR Game Studio"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1632802133"
+		"community_hub_visible"		"1"
+		"gameid"		"1714760"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1770"
+			"2"		"17389"
+			"3"		"21978"
+			"4"		"4182"
+			"5"		"4191"
+			"6"		"3942"
+			"7"		"4562"
+			"8"		"493"
+			"9"		"1673"
+			"10"		"4004"
+			"11"		"7569"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"XR Game Studio"
+		"publisher"		"XR Game Studio"
+		"homepage"		"https://www.xrgame.studio/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Raygun Chess"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RaygunChess.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1714761"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4565783599104799711"
+					"size"		"249895476"
+					"download"		"57836432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"1ACE24FC96595BC83326649689951CD6"
+					"size"		"2F98ADF3618A217D98E8CAD17FE81C20"
+					"download"		"C9D2EE3629E9B991D76AD2D280E67D35"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7454291"
+				"timeupdated"		"1633016480"
+			}
+			"alpha"
+			{
+				"buildid"		"7415106"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632448805"
+			}
+		}
+	}
+}
