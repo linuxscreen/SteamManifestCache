@@ -1,0 +1,289 @@
+"appinfo"
+{
+	"appid"		"2219660"
+	"common"
+	{
+		"name"		"Edemn"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"4ce49dceb9df13bf680e81754853be8907aac281"
+		"icon"		"19c167f5d2b37e8919cc95a55a8142fa5b7f01f5"
+		"clienticon"		"504dababa6076e9e31df052f8ecca34de09b3775"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+			"ukrainian"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"39.536266349583855"
+				"height_pct"		"27.6372070606663"
+			}
+		}
+		"store_asset_mtime"		"1687378061"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Joulion Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Joulion Studio"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1686762893"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2219660"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1775"
+			"2"		"1774"
+			"3"		"3839"
+			"4"		"597"
+			"5"		"4136"
+			"6"		"4252"
+			"7"		"5030"
+			"8"		"4057"
+			"9"		"6691"
+			"10"		"3859"
+			"11"		"3993"
+			"12"		"4747"
+			"13"		"5711"
+			"14"		"4835"
+			"15"		"3843"
+			"16"		"4191"
+			"17"		"493"
+			"18"		"1663"
+			"19"		"113"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Joulion Studio"
+		"publisher"		"Joulion Studio"
+		"isfreeapp"		"1"
+		"listofdlc"		"2414100,2414130,2414830,2414831,2414832,2414833,2414960,2421940,2425390,2433030,2478630"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Edemn"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Edemn.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"EdemnBetaServer.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"edemn_dedicatedservers"
+				}
+				"description_loc"
+				{
+					"english"		"Dedicated Servers"
+				}
+				"description"		"Dedicated Servers"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2219661"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2544476647849273319"
+					"size"		"3387143920"
+					"download"		"1981175984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"edemn_btest"
+				{
+					"gid"		"6592F31E240B0DF0F1B8E434D3AC13C7"
+					"size"		"EA7FD1C8B6DF431064F9757348233F6A"
+					"download"		"81BC53A0DC764CB4F256D047C01D5E2A"
+				}
+				"edemn_dedicatedservers"
+				{
+					"gid"		"E565EE45CFC87FAD00EDB5F654AEC2AC"
+					"size"		"E6498E5D79BE51263D2F2EF17FD5AB4F"
+					"download"		"4F75D49BCA5E689C09C1B40EC9F53F61"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12182333"
+				"timeupdated"		"1694641022"
+			}
+			"edemn_btest"
+			{
+				"buildid"		"12182333"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694641013"
+			}
+			"edemn_dedicatedservers"
+			{
+				"buildid"		"11548398"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687562966"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"10000"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#statusfull"		"%text%"
+				}
+			}
+			"russian"
+			{
+				"tokens"
+				{
+					"#statusfull"		"%text%"
+				}
+			}
+		}
+	}
+}
