@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"1838220"
+	"common"
+	{
+		"name"		"Wave Jumper"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"51051266fb03279297432265fb196ec1860d93e4"
+		"logo_small"		"51051266fb03279297432265fb196ec1860d93e4_thumb"
+		"clienticon"		"12c7edaee621d6dc7005e8f4fcc729ce9ae25acc"
+		"clienttga"		"d6f7c7e0e4d8a332803bbf0304bbed4a6c5c62ca"
+		"icon"		"560068ccc84d0816eda5d32694b3574a995b7ff1"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"88.54249588386865"
+			}
+		}
+		"store_asset_mtime"		"1638508963"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bewx"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bewx"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1640127015"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1838220"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4305"
+			"1"		"19"
+			"2"		"4182"
+			"3"		"7743"
+			"4"		"5379"
+			"5"		"1773"
+			"6"		"21"
+			"7"		"1625"
+			"8"		"8666"
+			"9"		"3798"
+			"10"		"3871"
+			"11"		"4004"
+			"12"		"113"
+			"13"		"597"
+			"14"		"3942"
+			"15"		"7368"
+			"16"		"6815"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Bewx"
+		"publisher"		"Bewx"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Wave Jumper"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Wave Jumper.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Contents/MacOS/Wave Jumper"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"Tri.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1838221"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7193596577844531188"
+					"size"		"195899683"
+					"download"		"83831920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"C2FF3CFCD408CB889DED7AEEA71552F3"
+					"size"		"CB0C73CFF99256A1FED4AAB7023CDD13"
+					"download"		"5E0AA34D09AFBA8D003D88B135E386EE"
+				}
+			}
+		}
+		"1838222"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7419055602780160349"
+					"size"		"233150161"
+					"download"		"107842816"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8959672"
+				"timeupdated"		"1655498544"
+			}
+			"devtest"
+			{
+				"buildid"		"8787471"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653223608"
+			}
+		}
+	}
+}
