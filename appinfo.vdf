@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"1053560"
+	"common"
+	{
+		"name"		"Saint Hazel's Horsepital"
+		"type"		"Game"
+		"icon"		"d163d17236281296be563d66156e6b1ac6153ebb"
+		"logo"		"908484834f4fad1b4911ac085b643df46f67ddbb"
+		"logo_small"		"908484834f4fad1b4911ac085b643df46f67ddbb_thumb"
+		"clienttga"		"331c494d32cc72402bb99f6a277d124b49c88aa4"
+		"clienticon"		"1d0dc9617808be9c22f18a9174c5a31fbf7a647e"
+		"releasestate"		"released"
+		"clienticns"		"bfb3299cd7c7e4b25a37e412a1930fbc9d423c5d"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1679616000"
+			"tested_build_id"		"3859875"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Saint Hazel's Horsepital"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1557141388"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HYPH-N"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Danvik FHS"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1557126000"
+		"steam_release_date"		"1557151500"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1053560"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"4136"
+		}
+		"review_score"		"7"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"HYPH-N"
+		"publisher"		"Danvik FHS"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Saint Hazel's Horsepital"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"St. Hazel's Horsepital.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"3"
+		"steamcontrollertemplateindex"		"2"
+	}
+	"depots"
+	{
+		"1053561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8459341814069076325"
+					"size"		"1509348896"
+					"download"		"327213888"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3859875"
+				"timeupdated"		"1558907494"
+			}
+		}
+	}
+}
