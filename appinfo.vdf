@@ -1,0 +1,266 @@
+"appinfo"
+{
+	"appid"		"1545430"
+	"common"
+	{
+		"name"		"Inward"
+		"type"		"Game"
+		"logo"		"eba944b4a9ab12fb503959d67e7ad50af527e686"
+		"logo_small"		"eba944b4a9ab12fb503959d67e7ad50af527e686_thumb"
+		"icon"		"98b3729f69aaaf579bdd1c96fac88571c96a2035"
+		"clienticon"		"d07a3de3fd45d3454f404793cc0033d008f30f16"
+		"clienttga"		"d76ed7f4b0126adb6418233c2d7dede8421b8b1d"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1683676800"
+			"tested_build_id"		"10602818"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"53.20763451851903"
+				"height_pct"		"66.27500065964801"
+			}
+		}
+		"store_asset_mtime"		"1677264429"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Krish Shrikumar"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Krish Shrikumar"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"The Meditation Game"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1675338375"
+		"steam_deck_blog_url"		"https://steamcommunity.com/app/1545430/discussions/1/5501743491358498913/"
+		"community_hub_visible"		"1"
+		"gameid"		"1545430"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"30358"
+			"1"		"15277"
+			"2"		"4305"
+			"3"		"4094"
+			"4"		"4252"
+			"5"		"4166"
+			"6"		"1702"
+			"7"		"1684"
+			"8"		"492"
+			"9"		"493"
+			"10"		"4182"
+			"11"		"599"
+			"12"		"3859"
+			"13"		"3934"
+			"14"		"5411"
+		}
+		"review_score"		"7"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Krish Shrikumar"
+		"publisher"		"Krish Shrikumar"
+		"homepage"		"https://www.patreon.com/krishs"
+		"isfreeapp"		"1"
+		"listofdlc"		"2291470"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Inward"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"inward.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1545431"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5551627828766410372"
+					"size"		"3724432999"
+					"download"		"789000160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed-beta"
+				{
+					"gid"		"414D177240A9FC5AA51D613610507E0C"
+					"size"		"7707FC25FDE4A42459C6B3B8F9238A1E"
+					"download"		"A52B85379FEB6A36C6B1E5286421A74F"
+				}
+				"patreon"
+				{
+					"gid"		"A653ADA2325A121C886D7CBAAC152FFB"
+					"size"		"5C09CE635EDAFB8D39EFAC33C8137310"
+					"download"		"CC4827F726F8305BA93677CD5B0FEF6A"
+				}
+			}
+		}
+		"2291470"
+		{
+			"dlcappid"		"2291470"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10846462"
+				"timeupdated"		"1679652641"
+			}
+			"closed-beta"
+			{
+				"buildid"		"9707854"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665601865"
+			}
+			"patreon"
+			{
+				"buildid"		"10846462"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679652906"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"26214400"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"inward/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
