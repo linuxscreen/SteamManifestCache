@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"1988630"
+	"common"
+	{
+		"name"		"佩尔霍宁"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"46a5af55262efc0779433d70c7811fbae7969743"
+		"clienttga"		"ca70c216d247fa7276cc6ad965186ee7ddace10f"
+		"clienticon"		"5e007073cb49b2023cc7db7b198bdcf597c74cc9"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.71536341296195"
+				"height_pct"		"85.06944444444444"
+			}
+		}
+		"store_asset_mtime"		"1651763334"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"liluoailuoli"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"liluoailuoli"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1654668821"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1988630"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"3799"
+			"3"		"1774"
+			"4"		"1664"
+			"5"		"3834"
+			"6"		"4085"
+			"7"		"4726"
+			"8"		"3814"
+			"9"		"4975"
+			"10"		"1738"
+			"11"		"1697"
+			"12"		"5984"
+			"13"		"5030"
+			"14"		"1684"
+			"15"		"1667"
+			"16"		"5716"
+			"17"		"5613"
+			"18"		"4166"
+			"19"		"6129"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"liluoailuoli"
+		"publisher"		"liluoailuoli"
+		"homepage"		"http://www.liluoailuoli.cn/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"perhonen"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"perhonen.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"schinese"		"启动游戏"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1988631"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5762913849881304152"
+					"size"		"384439159"
+					"download"		"266799536"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10406531"
+				"timeupdated"		"1674716873"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"500"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"liluoailuoli/佩尔霍宁"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
