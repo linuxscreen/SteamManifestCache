@@ -1,0 +1,421 @@
+"appinfo"
+{
+	"appid"		"2171690"
+	"common"
+	{
+		"name"		"Handshakes"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"clienttga"		"ccb52525c31732c0a34935864fbdbcb54c0dec7f"
+		"clienticon"		"39915e8f283acef97542be3d40dbd0062b136b39"
+		"clienticns"		"8eb55de661a0795b16da0b348f630bba4643c508"
+		"linuxclienticon"		"b924aa4ffa8c06484c6c4fcef39207771b2babdc"
+		"icon"		"0296ae193062ff82161625e1eb259e792ad3ef74"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1679616000"
+			"tested_build_id"		"10822850"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"82.37986270022884"
+				"height_pct"		"83.81458809735663"
+			}
+		}
+		"store_asset_mtime"		"1679834974"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pet Pumpkin"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Damaskino"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Trumpetguy"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Pet Pumpkin"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1673625813"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2171690"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1730"
+			"1"		"1664"
+			"2"		"597"
+			"3"		"3871"
+			"4"		"4726"
+			"5"		"4791"
+			"6"		"113"
+			"7"		"1654"
+			"8"		"7481"
+			"9"		"4195"
+			"10"		"4305"
+			"11"		"3964"
+			"12"		"5350"
+			"13"		"6129"
+			"14"		"4182"
+			"15"		"3841"
+		}
+		"review_score"		"9"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Pet Pumpkin"
+		"publisher"		"Pet Pumpkin"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Handshakes"
+		"launch"
+		{
+			"4"
+			{
+				"executable"		"Handshakes.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"5"
+			{
+				"executable"		"Handshakes - Linux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"6"
+			{
+				"executable"		"Mac.app\\Contents\\MacOS\\Handshakes"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"4"
+	}
+	"depots"
+	{
+		"2171694"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2851751718766077392"
+					"size"		"119684545"
+					"download"		"24469232"
+				}
+				"devcom"
+				{
+					"gid"		"5338642655758418495"
+					"size"		"211414969"
+					"download"		"68934608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4BA52C60CE07215EA05AD0180BE34368"
+					"size"		"49BA6CC47B1A2C00E58CCBDE08F9DAC3"
+					"download"		"3698EAB5EEA85C512892EF10101B068F"
+				}
+				"clear_achievements"
+				{
+					"gid"		"108F0F1C7C9D448E9CFEEFD596A79310"
+					"size"		"91E795560BD71D9F010BDE1A83CFD73F"
+					"download"		"D8D84ACB878158E26459900FAF492FC0"
+				}
+			}
+		}
+		"2171692"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5882289120442007925"
+					"size"		"162297100"
+					"download"		"25602992"
+				}
+				"devcom"
+				{
+					"gid"		"902061470398839647"
+					"size"		"254027516"
+					"download"		"70068864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E98433DF320BA3DFC415A9745AF6E961"
+					"size"		"37DCC3535C7A75C9D1AC61D79FB5BB26"
+					"download"		"9B4BF81839EF5487CA5DB9C0241BBC7D"
+				}
+				"clear_achievements"
+				{
+					"gid"		"DE4AEA3CDCE21C3DBBEB951BF6D1F930"
+					"size"		"09E6FCF3CA190F3DF67A6F084BDF9CC5"
+					"download"		"52205188D52BE6F103D2A8CEE0807D25"
+				}
+			}
+		}
+		"2171695"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"steamdeck"		"1"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3082586091677428935"
+					"size"		"162297100"
+					"download"		"25602992"
+				}
+				"devcom"
+				{
+					"gid"		"2538689859654798757"
+					"size"		"254027516"
+					"download"		"70068864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BE0BFAB3CA46888453FF90778F077DC8"
+					"size"		"37DCC3535C7A75C9D1AC61D79FB5BB26"
+					"download"		"9B4BF81839EF5487CA5DB9C0241BBC7D"
+				}
+				"clear_achievements"
+				{
+					"gid"		"1B459AF18EBBF5B12327472E7B36D5DA"
+					"size"		"09E6FCF3CA190F3DF67A6F084BDF9CC5"
+					"download"		"52205188D52BE6F103D2A8CEE0807D25"
+				}
+			}
+		}
+		"2171696"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5565978294066596517"
+					"size"		"142524457"
+					"download"		"31420624"
+				}
+				"devcom"
+				{
+					"gid"		"5565978294066596517"
+					"size"		"142524457"
+					"download"		"31420624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"CFCAEA0D652892D50A44694AC8C18D6D"
+					"size"		"C35E590A1559484AB2CA5A59949EECEC"
+					"download"		"6AA913F4C301B0328002F8C74DCB5F1A"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10822850"
+				"timeupdated"		"1679428796"
+			}
+			"beta"
+			{
+				"buildid"		"10822850"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679428389"
+			}
+			"clear_achievements"
+			{
+				"buildid"		"10360390"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674155065"
+			}
+			"devcom"
+			{
+				"buildid"		"11978300"
+				"description"		"special devcom version"
+				"timeupdated"		"1692385761"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Pet Pumpkin/Handshakes"
+				"pattern"		"hand.shakes"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Pet Pumpkin/Handshakes"
+						"replace"		"Pet Pumpkin/Handshakes"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Pet Pumpkin/Handshakes"
+						"replace"		".config/unity3d/Pet Pumpkin/Handshakes"
+					}
+				}
+			}
+		}
+	}
+}
