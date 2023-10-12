@@ -1,0 +1,305 @@
+"appinfo"
+{
+	"appid"		"717300"
+	"common"
+	{
+		"name"		"Arena"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"e7ca7be82c59d8e589fd14a5a5f63ed9a988b089"
+		"logo_small"		"e7ca7be82c59d8e589fd14a5a5f63ed9a988b089_thumb"
+		"icon"		"5e325ada3a3c1880dcd63c871dfbc406c28e1765"
+		"clienttga"		"c1ee032cb0f1d9638c44a4a8fb3e6bac364eec13"
+		"clienticns"		"47b7ef589a5287fb129664716ca92e2e347d3644"
+		"clienticon"		"fe842a2b84775ed8394ad032e1730f48f91a704e"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"717300_eula_0"
+				"name"		"Arena EULA"
+				"url"		"http://store.steampowered.com//eula/717300_eula_0"
+			}
+		}
+		"metacritic_name"		"Arena"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1671709242"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FX GAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"FX GAMES"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_27"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1558079779"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"717300"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"FX GAMES"
+		"publisher"		"FX GAMES"
+		"homepage"		"https://www.facebook.com/arena.galaxy.control"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Arena"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"arena.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"arena.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"717301"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"741817114321242912"
+					"size"		"339249909"
+					"download"		"110723888"
+				}
+				"local"
+				{
+					"gid"		"6845440782030049095"
+					"size"		"350228876"
+					"download"		"131630848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bicycleraces"
+				{
+					"gid"		"466F288A9CBEB27F0CE6B751BB5A47A9"
+					"size"		"DCC4780930992C1EAB9751C18E3BDF86"
+					"download"		"1AD2AC5648B4FB633921F253386127CA"
+				}
+				"ivanfx"
+				{
+					"gid"		"07DDDAC72941EDEDA3B267B36476E097"
+					"size"		"630D2F0BB49EAE20AF1BCAFD6CE7CE4F"
+					"download"		"654DC62BA7D459DA9D5F30A11D92FC19"
+				}
+				"mvfx"
+				{
+					"gid"		"F291B3EAB5CEB1F520AE614A3B0D6E9F"
+					"size"		"AF3A73AFEA23D7124150FAFE4BF3D76B"
+					"download"		"627B1D392AC6F5D7925E466BC47FEBAF"
+				}
+				"preprod"
+				{
+					"gid"		"51AA91BDE18BE253B71A53AEB3E246F5"
+					"size"		"19C110B1266725620DF0E85EAADAE721"
+					"download"		"2056946353048E50B66039E00D807DBD"
+				}
+				"stage"
+				{
+					"gid"		"0409E56234204E5033441CE9BB5AB43C"
+					"size"		"E7F2736540B3941EEDC7F2FCE76BB442"
+					"download"		"668C0C2899BFE8710BBA317B0E95B010"
+				}
+			}
+		}
+		"717302"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1022529474901632642"
+					"size"		"343597429"
+					"download"		"110918656"
+				}
+				"local"
+				{
+					"gid"		"699539920176822055"
+					"size"		"319927209"
+					"download"		"128853824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bicycleraces"
+				{
+					"gid"		"1BDC430C9BDF787E0328688328B6379D"
+					"size"		"95187C4858E4AE99F12748D4496572E6"
+					"download"		"C6504771CB5F4FCBF6F55118FE7DCF0C"
+				}
+				"ivanfx"
+				{
+					"gid"		"7FE5C7A221AF8CB018C90ADABE00FC4B"
+					"size"		"1BCAE4836E1C1F511F6885EC93D77DDF"
+					"download"		"86DF5CCC79E82B7819C4257A80CEC77F"
+				}
+				"mvfx"
+				{
+					"gid"		"80EC64F9E95285D67320825E84C67284"
+					"size"		"462B1043FF4FDEC7A5BEE3D1D2F0F6DA"
+					"download"		"6FEF25C0AAA58B73C0C1F2A10DCE7E89"
+				}
+				"preprod"
+				{
+					"gid"		"E70BEBB27DB8C263B397163F2CED9D98"
+					"size"		"3B4832E74946B051C1C3ABBF0D2D1E30"
+					"download"		"56BBB8AF402B6962EC66A678D2974FD5"
+				}
+				"stage"
+				{
+					"gid"		"E0C9DA28835A1C48842C8D9033A98A29"
+					"size"		"BA57D6995B3070E9CA1C66F32406F4A6"
+					"download"		"5D75C2B098BABEFCA0A36B0F7BE7BE4F"
+				}
+			}
+		}
+		"baselanguages"		""
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6162240"
+				"timeupdated"		"1613568135"
+			}
+			"bicycleraces"
+			{
+				"buildid"		"12132752"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694093320"
+			}
+			"ivanfx"
+			{
+				"buildid"		"4039147"
+				"pwdrequired"		"1"
+				"timeupdated"		"1563945627"
+			}
+			"local"
+			{
+				"buildid"		"2547136"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1519284864"
+			}
+			"mvfx"
+			{
+				"buildid"		"2556454"
+				"pwdrequired"		"1"
+				"timeupdated"		"1519633884"
+			}
+			"preprod"
+			{
+				"buildid"		"6162240"
+				"pwdrequired"		"1"
+				"timeupdated"		"1611994557"
+			}
+			"stage"
+			{
+				"buildid"		"6196993"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612551307"
+			}
+		}
+	}
+}
