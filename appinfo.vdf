@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"2350050"
+	"common"
+	{
+		"name"		"Cosmic Survivor"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"34ea9570d6839e2af2129447fe9c6fdf5a842d15"
+		"clienttga"		"a3e9b0e4ba95e844d9889fbfa5281fa749e59cac"
+		"clienticon"		"25fc3ef4c33b3983b065dab82b6bfe75e43a9094"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1694649600"
+			"tested_build_id"		"11873109"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.98949824970828"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1691486957"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kit Sumo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kit Sumo"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1692924391"
+		"community_hub_visible"		"1"
+		"gameid"		"2350050"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1773"
+			"2"		"1716"
+			"3"		"4885"
+			"4"		"4255"
+			"5"		"4094"
+			"6"		"3964"
+			"7"		"3916"
+			"8"		"1755"
+			"9"		"7481"
+			"10"		"113"
+			"11"		"492"
+			"12"		"5154"
+			"13"		"4182"
+			"14"		"4026"
+			"15"		"4305"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Kit Sumo"
+		"publisher"		"Kit Sumo"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Cosmic Survivor"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CosmicSurvivor.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2350051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6389028195054173048"
+					"size"		"238198408"
+					"download"		"147727792"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11873109"
+				"timeupdated"		"1691211783"
+			}
+		}
+	}
+}
