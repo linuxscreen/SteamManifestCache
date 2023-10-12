@@ -1,0 +1,294 @@
+"appinfo"
+{
+	"appid"		"1945310"
+	"common"
+	{
+		"name"		"Oceans"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"4682feaad08ace41126ecdd7b81c5dd4a5a574ae"
+		"clienticns"		"4ecf651bbed4d492313373857b982732e398aa30"
+		"clienticon"		"4ecf651bbed4d492313373857b982732e398aa30"
+		"clienttga"		"6d682dd86c26b31e86f218d991d3535d21b1a5d6"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1683331200"
+			"tested_build_id"		"10113666"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"43.10344827586207"
+				"height_pct"		"37.98404130485801"
+			}
+		}
+		"store_asset_mtime"		"1668557190"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"North Star Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Hashbyte Studio"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"North Star Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_32"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1668615660"
+		"community_hub_visible"		"1"
+		"gameid"		"1945310"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1770"
+			"2"		"1666"
+			"3"		"17389"
+			"4"		"1741"
+			"5"		"17770"
+			"6"		"599"
+			"7"		"916648"
+			"8"		"14139"
+			"9"		"597"
+			"10"		"6815"
+			"11"		"30358"
+			"12"		"5794"
+			"13"		"1662"
+			"14"		"9157"
+			"15"		"7926"
+			"16"		"32322"
+			"17"		"1775"
+			"18"		"4325"
+			"19"		"12057"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"North Star Games"
+		"publisher"		"North Star Games"
+		"homepage"		"https://www.oceansdigitalgame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Oceans"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Oceans.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Oceans Windows"
+				}
+				"description"		"Oceans Windows"
+			}
+			"1"
+			{
+				"executable"		"Oceans.app\\Contents\\MacOS\\Oceans"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Oceans Mac OS"
+				}
+				"description"		"Oceans Mac OS"
+			}
+		}
+	}
+	"depots"
+	{
+		"1945311"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2268990735339799965"
+					"size"		"293745635"
+					"download"		"83461712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-beta"
+				{
+					"gid"		"DCC462EF5660BC0341F78BCF6D05BF6D"
+					"size"		"4E9E0850FDED6AF75A3F63A11383ECC7"
+					"download"		"A5A7B343CF7E683AE01B7839B13C6092"
+				}
+				"public_beta"
+				{
+					"gid"		"E53868A5D7C8AF41D110FA20A1EE493B"
+					"size"		"D015B9B805DE15D2076119B15600A6D1"
+					"download"		"22188C9DFF28DA47EE051F996736BA4D"
+				}
+			}
+		}
+		"1945312"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"955757721341037672"
+					"size"		"343407779"
+					"download"		"96655056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-beta"
+				{
+					"gid"		"92A07B28C68F373CE87CEB5B96CB95F7"
+					"size"		"4C82C60C8CE5342A434343F108657FB1"
+					"download"		"DC522EEF12BA04A62E6DFCC4027036EF"
+				}
+				"public_beta"
+				{
+					"gid"		"5BA3A3105313C50D5F9CE1EE21716AB2"
+					"size"		"B6049AE9469ABB23280F7A5D88CFD29D"
+					"download"		"0E12AED37A6F98CA2E57DC6D32D25D32"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10113666"
+				"timeupdated"		"1670589828"
+			}
+			"internal-beta"
+			{
+				"buildid"		"10113666"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670584248"
+			}
+			"public_beta"
+			{
+				"buildid"		"9954691"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668651850"
+			}
+		}
+	}
+}
