@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"2445210"
+	"common"
+	{
+		"name"		"Imaginary girl -Prequel-"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"29a7eb4486cd1373ebfa4e940ac751d153a7bc0f"
+		"clienttga"		"595894834cb6f6ba58c72f5f5b46a26b86a86c7f"
+		"clienticon"		"d6edc944b761e4a7392e0d92fdaeb16a7e8db4fa"
+		"name_localized"
+		{
+			"english"		"Imaginary girl -Prequel-"
+			"japanese"		"空想少女 -前日譚-"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1694131200"
+			"tested_build_id"		"11389598"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1688251225"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MATRE"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MATRE"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1688076413"
+		"community_hub_visible"		"1"
+		"gameid"		"2445210"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"4106"
+			"2"		"4191"
+			"3"		"7481"
+			"4"		"4182"
+			"5"		"113"
+			"6"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"MATRE"
+		"publisher"		"MATRE"
+		"homepage"		"http://matre.jp/igirl/igirl_index.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"空想少女 Imaginary girl -前日譚 Prequel"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"I_girl.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2445211"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4627517297783385321"
+					"size"		"1005057821"
+					"download"		"405105936"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11389598"
+				"timeupdated"		"1685866503"
+			}
+		}
+	}
+}
