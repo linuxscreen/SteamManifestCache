@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"1021940"
+	"common"
+	{
+		"name"		"Space Warfare"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"linuxclienticon"		"c5da5651dd7dc27977720b1dc14ebe1834e96d83"
+		"logo"		"83b68effb23eaaafa5382b38b9c07537f46aed83"
+		"logo_small"		"83b68effb23eaaafa5382b38b9c07537f46aed83_thumb"
+		"icon"		"4e3f1c57ea0bc62859f49d931de821b4f9a527e0"
+		"clienttga"		"8559482605f3cc43a1cee870345c9d791c4b5e7c"
+		"clienticon"		"4e1db3b7e6dcbff2939bdf70c65555eed6beccc8"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"metacritic_name"		"Space Warfare"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"17.44457409568261"
+				"height_pct"		"33.66183804322014"
+			}
+		}
+		"store_asset_mtime"		"1622914528"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Little Stories"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Little Stories"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1623318934"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1021940"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"492"
+			"3"		"597"
+			"4"		"1755"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"Little Stories"
+		"publisher"		"Little Stories"
+		"homepage"		"http://spacewarfare.littlestories.ru"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Space Warfare"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SpaceWarfare.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SpaceWarfare.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"SpaceWarfareMac.app\\Contents\\MacOS\\SpaceWarfare"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"1021941"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3836709597901005301"
+					"size"		"111368694"
+					"download"		"20410976"
+				}
+			}
+		}
+		"1021942"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8319736157112774007"
+					"size"		"118891511"
+					"download"		"22246688"
+				}
+			}
+		}
+		"1021943"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1071123445904815332"
+					"size"		"117651708"
+					"download"		"23005744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6806739"
+				"timeupdated"		"1622728363"
+			}
+		}
+	}
+}
