@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"586110"
+	"common"
+	{
+		"name"		"Sansar"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"d94924d1953861bf306863d148abdfa39ee922c4"
+		"clienttga"		"8bfcad12b0729d771106c814025273cd4428ca8e"
+		"icon"		"da706a17d72cf715fe927c245fc4ef244308a45b"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"ea05f82cfd2cc199ed96ca2cb959852ccd4bd2c0"
+		"logo_small"		"ea05f82cfd2cc199ed96ca2cb959852ccd4bd2c0_thumb"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"metacritic_name"		"Sansar"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.49617464115448"
+				"height_pct"		"90.27777777777781"
+			}
+		}
+		"store_asset_mtime"		"1667398480"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Metaverse Investment Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Metaverse Investment Ltd."
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"29"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_35"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_49"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1544033841"
+		"community_hub_visible"		"1"
+		"gameid"		"586110"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"128"
+			"2"		"597"
+			"3"		"493"
+			"4"		"21978"
+			"5"		"6650"
+			"6"		"1695"
+		}
+		"review_score"		"5"
+		"review_percentage"		"52"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Metaverse Investment Ltd."
+		"publisher"		"Metaverse Investment Ltd."
+		"homepage"		"https://www.sansar.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Sansar"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Updater\\Sansar.exe"
+				"arguments"		"--download_source steam"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Updater\\Sansar.exe"
+				"arguments"		"--download_source steam"
+				"description"		"Desktop Mode"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"Single Launch Mode"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"586111"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4515033362821281974"
+					"size"		"237639624"
+					"download"		"71045904"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6433514"
+				"timeupdated"		"1616605821"
+			}
+		}
+	}
+}
