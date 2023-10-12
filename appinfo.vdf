@@ -1,0 +1,186 @@
+"appinfo"
+{
+	"appid"		"808580"
+	"common"
+	{
+		"name"		"The Lone Chameleon"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"ceb1d4dfc5e18122d0bbea222f66a937e0293032"
+		"logo_small"		"ceb1d4dfc5e18122d0bbea222f66a937e0293032_thumb"
+		"clienticon"		"76ea99b99c7a0aa8754fcfdec2285fddbcfb44fb"
+		"clienttga"		"3afa807a7e5254af566692ef3d43909e46a6fcee"
+		"icon"		"00d0550f1a68d627e09e1639043d6229faadf72d"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1677024000"
+			"tested_build_id"		"2832492"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"The Lone Chameleon"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1518730017"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Spidove"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spidove"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1519765837"
+		"community_hub_visible"		"1"
+		"gameid"		"808580"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"113"
+			"2"		"1664"
+			"3"		"3871"
+			"4"		"4026"
+			"5"		"4305"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Spidove"
+		"publisher"		"Spidove"
+		"homepage"		"https://twitter.com/LoneChameleon"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Lone Chameleon"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"808581"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4684486987392675748"
+					"size"		"37873995"
+					"download"		"22320512"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2832492"
+				"timeupdated"		"1528132371"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
