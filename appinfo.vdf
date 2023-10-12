@@ -1,0 +1,323 @@
+"appinfo"
+{
+	"appid"		"1127110"
+	"common"
+	{
+		"name"		"Outpost"
+		"type"		"Game"
+		"logo"		"740e54af4d3a0f97b7619db1f4c9d35b41aad56a"
+		"logo_small"		"740e54af4d3a0f97b7619db1f4c9d35b41aad56a_thumb"
+		"icon"		"f2be61276213b007e2476b6e768b6280da06901d"
+		"clienticon"		"56938f2a547b191a4025bd96c21b64585763d2a2"
+		"clienttga"		"4615a7e544eed431573cc0ad0e6a5300cf226596"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"57.05950991831969"
+				"height_pct"		"78.7223937307053"
+			}
+		}
+		"store_asset_mtime"		"1681675052"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Open Mid Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Open Mid Interactive"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"2"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1588332160"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1127110"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"9"
+			"3"		"1645"
+			"4"		"1662"
+			"5"		"1716"
+			"6"		"4182"
+			"7"		"3959"
+			"8"		"597"
+			"9"		"4791"
+			"10"		"1695"
+			"11"		"5125"
+			"12"		"1643"
+			"13"		"7332"
+			"14"		"3810"
+			"15"		"1702"
+			"16"		"17770"
+			"17"		"4191"
+			"18"		"21"
+			"19"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Open Mid Interactive"
+		"publisher"		"Open Mid Interactive"
+		"homepage"		"https://www.instagram.com/openmidinteractive/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2213280"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Outpost"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Outpost.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Outpost.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"Outpost.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1127111"
+		{
+			"config"
+			{
+				"language"		""
+			}
+		}
+		"1127112"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5411900769260897499"
+					"size"		"366201805"
+					"download"		"119992800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C430E50FAB56B9FFB841F69A519AEF63"
+					"size"		"89C48867DB8B47ADA6430927957BDFBB"
+					"download"		"764DE55E3ABFB7E0982356DB1A63EE4A"
+				}
+				"private_beta"
+				{
+					"gid"		"3AD8F71F763BBDE1FBCC598D6B17DA15"
+					"size"		"8AB121CB10BB0BBEB700044F66B80AAE"
+					"download"		"005143C94CEADDC41595B6DC05642E86"
+				}
+			}
+		}
+		"1127113"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3455264157359760704"
+					"size"		"357397813"
+					"download"		"117198880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"579A372460A35A24B511A07552C61443"
+					"size"		"465497E3EAE3A6EA79F386014E7732C0"
+					"download"		"5638389C32B40C9EBB86FC01320BF3E9"
+				}
+				"private_beta"
+				{
+					"gid"		"9FCDD75B8DA51FAA791552561A8FA4AE"
+					"size"		"1418E56D7A1AF7483C1327A077A10917"
+					"download"		"71B77856B2FF2C783470043DB2DCD08D"
+				}
+			}
+		}
+		"1127114"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5293769693704306960"
+					"size"		"359911191"
+					"download"		"117659600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"776EF239324876262D56AA84352DE707"
+					"size"		"908C9FDFBEAE3EDB13E0ED2A412A27EC"
+					"download"		"0F3FE0D2F21423FB08820D8CEE0EA942"
+				}
+				"private_beta"
+				{
+					"gid"		"16DEAB7D0D283FA07437DFE2C4C6B102"
+					"size"		"26DB19F3465AA33FBC168E5267153025"
+					"download"		"5DB2D58635C1E629B651EF2FB97FDCC8"
+				}
+			}
+		}
+		"1127115"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4252801176885907957"
+					"size"		"416561246"
+					"download"		"123173280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E29D6E95D7823C612C6489CA51668A49"
+					"size"		"03A93460DF3E9220DF9A4BE897F9B2C8"
+					"download"		"855DC9AFE020A3B9509911AE8332CDD2"
+				}
+				"private_beta"
+				{
+					"gid"		"ACFEC488A31B650D22975AA3C56E1843"
+					"size"		"4D48FBC87D60F1C9242582CDDC911858"
+					"download"		"1FDC2A792BBF80DC01B4BE373072D215"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12219182"
+				"timeupdated"		"1695159111"
+			}
+			"beta"
+			{
+				"buildid"		"12219182"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695069970"
+			}
+			"private_beta"
+			{
+				"buildid"		"12219182"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695158995"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"2"
+	}
+}
