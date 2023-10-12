@@ -1,0 +1,232 @@
+"appinfo"
+{
+	"appid"		"1639760"
+	"common"
+	{
+		"name"		"The Slaughter: Magdalene"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"3ca10a0fcf1820b862b7e78ac5c6e2804b609329"
+		"logo_small"		"3ca10a0fcf1820b862b7e78ac5c6e2804b609329_thumb"
+		"icon"		"f6181c69ab0962fbc0491326c1450554d0b8c231"
+		"clienticon"		"5b311a17e63163a8bff10158e452b22cd6e5e8d2"
+		"clienttga"		"ee34b3b9a1d652194290e2c3b81092a4447c76eb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"77.50000048417309"
+			}
+		}
+		"store_asset_mtime"		"1621179284"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alex Francois"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" Brainchild"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"The Slaughter"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1622732373"
+		"community_hub_visible"		"1"
+		"gameid"		"1639760"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1698"
+			"2"		"11014"
+			"3"		"6052"
+			"4"		"5613"
+			"5"		"3871"
+			"6"		"3964"
+			"7"		"1697"
+			"8"		"4166"
+			"9"		"6378"
+			"10"		"1738"
+			"11"		"1742"
+			"12"		"3916"
+			"13"		"4342"
+			"14"		"19995"
+			"15"		"5923"
+			"16"		"8369"
+			"17"		"3834"
+			"18"		"3987"
+			"19"		"6129"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Alex Francois"
+		"publisher"		" Brainchild"
+		"homepage"		"http://www.brainchildstudios.co.uk/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Slaughter Magdalene"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Slaughter Magdalene.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"The Slaughter Magdalene.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"The Slaughter Magdalene"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1639761"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"488828074713095389"
+					"size"		"222149013"
+					"download"		"88120912"
+				}
+			}
+		}
+		"1639762"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7356040684265739073"
+					"size"		"202162777"
+					"download"		"87694880"
+				}
+			}
+		}
+		"1639763"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5687768633239423406"
+					"size"		"286740251"
+					"download"		"99642720"
+				}
+			}
+		}
+		"1639764"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2604236303860850016"
+					"size"		"273762269"
+					"download"		"92007744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6732195"
+				"timeupdated"		"1621525186"
+			}
+		}
+	}
+}
