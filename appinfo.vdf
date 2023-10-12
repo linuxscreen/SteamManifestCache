@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1554500"
+	"common"
+	{
+		"name"		"Sept jours, sept lieux, sept vies"
+		"type"		"Game"
+		"logo"		"8db3d535c048a8413d80d5d5df7c54f4da158700"
+		"logo_small"		"8db3d535c048a8413d80d5d5df7c54f4da158700_thumb"
+		"icon"		"13036f80259372b19ecf3a9708643bfc2f6857af"
+		"clienticon"		"2fa99e62573a5097cd553456ffe9572655710135"
+		"clienttga"		"67b5095f25b95c00ab48731cf09c0dbc43993375"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"french"		"capsule_231x87_french.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"french"		"header_french.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.349396316906805"
+				"height_pct"		"85.99810785241249"
+			}
+		}
+		"store_asset_mtime"		"1615982924"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hélène Sellier"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Clément Néca"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Hélène Sellier"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1617355768"
+		"community_hub_visible"		"1"
+		"gameid"		"1554500"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"122"
+			"2"		"3799"
+			"3"		"3871"
+			"4"		"4305"
+			"5"		"3839"
+			"6"		"5984"
+			"7"		"15277"
+			"8"		"1654"
+			"9"		"6426"
+			"10"		"492"
+			"11"		"6971"
+			"12"		"6869"
+			"13"		"1742"
+			"14"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Hélène Sellier"
+		"publisher"		"Hélène Sellier"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Sept jours, sept lieux, sept vies"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sept_vies-1.0-win\\Sept_vies.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Sept_vies.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1554502"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"30265420941848602"
+					"size"		"235535604"
+					"download"		"205730560"
+				}
+			}
+		}
+		"1554501"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7496001961561210824"
+					"size"		"232499385"
+					"download"		"204802368"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6445280"
+				"timeupdated"		"1616763126"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
