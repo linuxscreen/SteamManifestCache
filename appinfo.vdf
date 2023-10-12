@@ -1,0 +1,253 @@
+"appinfo"
+{
+	"appid"		"792480"
+	"common"
+	{
+		"name"		"Name The Song Quiz"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"3adb17afcc31ed2cc5ef84d8315dc61a70c1c5ae"
+		"logo_small"		"3adb17afcc31ed2cc5ef84d8315dc61a70c1c5ae_thumb"
+		"icon"		"29757e32ec6b3b4579f9dfd58650d57a220a44da"
+		"clienticns"		"fc4b02688ba3404f044010f27b6fc9df795425c0"
+		"clienticon"		"a3adb82febe307cf14553c62cc638361226e7b67"
+		"clienttga"		"fb914f2c80f8c4431468a79c3f1a67ca42e693f2"
+		"linuxclienticon"		"e57e5c0ba50cfb685e262fa0fdfafe17d4a79e5c"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"metacritic_name"		"Name The Song Quiz"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1516782387"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gametroleum"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gametroleum"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1518168292"
+		"community_hub_visible"		"1"
+		"gameid"		"792480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"597"
+			"2"		"19"
+			"3"		"492"
+			"4"		"493"
+			"5"		"1621"
+			"6"		"7368"
+			"7"		"4840"
+		}
+		"review_score"		"5"
+		"review_percentage"		"46"
+	}
+	"extended"
+	{
+		"developer"		"Gametroleum"
+		"publisher"		"Gametroleum"
+		"homepage"		"http://www.gametroleum.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"NameTheSongQuiz"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NtSQ.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"NtSQ.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"NtSQ.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"NtSQ.x86"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"792481"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7207406233219505023"
+					"size"		"73639979"
+					"download"		"21689264"
+				}
+				"beta"
+				{
+					"gid"		"7207406233219505023"
+					"size"		"73639979"
+					"download"		"21689264"
+				}
+			}
+		}
+		"792482"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2256679632934629781"
+					"size"		"124073932"
+					"download"		"37716176"
+				}
+				"beta"
+				{
+					"gid"		"2256679632934629781"
+					"size"		"124073932"
+					"download"		"37716176"
+				}
+			}
+		}
+		"792483"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"837305431172589612"
+					"size"		"88398598"
+					"download"		"24972320"
+				}
+				"beta"
+				{
+					"gid"		"837305431172589612"
+					"size"		"88398598"
+					"download"		"24972320"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2556459"
+				"timeupdated"		"1519639324"
+			}
+			"beta"
+			{
+				"buildid"		"2556459"
+				"timeupdated"		"1519639309"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"15"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Local"
+				"pattern"		"*.json"
+			}
+		}
+	}
+}
