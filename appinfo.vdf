@@ -1,0 +1,302 @@
+"appinfo"
+{
+	"appid"		"609940"
+	"common"
+	{
+		"name"		"KROSMAGA"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticon"		"657ec2374dbd0ba972fce88a43244d331e2750ba"
+		"clienttga"		"ae07c65a3b01531f7f9e3686447a46927df77aba"
+		"icon"		"42ba7ef7644e96ba26d1954fc99a3efe6360ca54"
+		"logo"		"79cb024e0f68d3e444dbb1bb454ab39b93d160c1"
+		"logo_small"		"79cb024e0f68d3e444dbb1bb454ab39b93d160c1_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1678320000"
+			"tested_build_id"		"7575738"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"1"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"KROSMAGA"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1499877206"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ankama Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ankama Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"29"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1492012800"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"609940"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"1666"
+			"3"		"1741"
+			"4"		"3859"
+			"5"		"14139"
+			"6"		"4325"
+			"7"		"128"
+			"8"		"1708"
+			"9"		"597"
+			"10"		"9271"
+			"11"		"4085"
+			"12"		"5350"
+			"13"		"492"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Ankama Studio"
+		"publisher"		"Ankama Games"
+		"homepage"		"http://www.krosmaga.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"KROSMAGA"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"Ankama Launcher [steam].exe"
+				"arguments"		"-steam:609940"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"launcher"
+				}
+			}
+			"3"
+			{
+				"executable"		"Ankama Launcher [steam].app"
+				"arguments"		"-steam:609940"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"launcher"
+				}
+			}
+			"4"
+			{
+				"executable"		"Zaapi.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"5"
+			{
+				"executable"		"Zaapi.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"french"		"Lancement avec Zaapi"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french,spanish,russian,portuguese,brazilian"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"609941"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5692090980566531951"
+					"size"		"1088130947"
+					"download"		"817963600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"launcher"
+				{
+					"gid"		"BA754A0B76323E28274F01290442E0A7"
+					"size"		"996928816240B283237099E3F2AC3686"
+					"download"		"F227AAD76C86E23B461530E0445E6978"
+				}
+			}
+		}
+		"609942"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7779471635003987320"
+					"size"		"1079559022"
+					"download"		"815108048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"launcher"
+				{
+					"gid"		"F50946075B4EAA9637F6E6F6354E1BCE"
+					"size"		"BE41EFDD969D7440486AB7A2A56562AD"
+					"download"		"AB9846D5DA7F34B24307B9CB12CD077A"
+				}
+			}
+		}
+		"609943"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5010061128533033267"
+					"size"		"1255990917"
+					"download"		"835808400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"launcher"
+				{
+					"gid"		"D4C348931ED6FAFFF1801455F67733CA"
+					"size"		"A939D5C4FDF6C1FE990C6790852BEDF1"
+					"download"		"DD0E51EA87C308C56A517CD769D63C23"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11615667"
+				"timeupdated"		"1688481521"
+			}
+			"launcher"
+			{
+				"buildid"		"11615667"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688400234"
+			}
+		}
+	}
+}
