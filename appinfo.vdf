@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"2089590"
+	"common"
+	{
+		"name"		"QuantumVR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"QuantumVR_Data/StreamingAssets/SteamVR"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"0cdea75ada5d8b40bc939d9eca8fff6c1c81b9d8"
+		"clienttga"		"3553c7a224cbea05426c6c28674dc812dea5a87a"
+		"clienticon"		"b6b60601a5a6efc5d6a9a4f0627ebd1c7ce7f1dd"
+		"openvrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"53.092182030338414"
+				"height_pct"		"88.60128235573504"
+			}
+		}
+		"store_asset_mtime"		"1679910126"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SZENARIS GmbH"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"TU Braunschweig"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"SZENARIS GmbH"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1681902360"
+		"community_hub_visible"		"1"
+		"gameid"		"2089590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1036"
+			"1"		"21978"
+			"2"		"6129"
+			"3"		"3968"
+			"4"		"599"
+			"5"		"4295"
+			"6"		"1664"
+			"7"		"4726"
+			"8"		"4252"
+			"9"		"4182"
+			"10"		"113"
+			"11"		"492"
+			"12"		"9204"
+			"13"		"3859"
+			"14"		"3942"
+			"15"		"1685"
+			"16"		"198631"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"SZENARIS GmbH"
+		"publisher"		"SZENARIS GmbH"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"QuantumVR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"QuantumVR.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Desktop Launch"
+				}
+				"description"		"Desktop Launch"
+			}
+			"1"
+			{
+				"executable"		"QuantumVR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"VR Launch"
+				}
+				"description"		"VR Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2089591"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2702575021036452996"
+					"size"		"1032576874"
+					"download"		"284460752"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10882981"
+				"timeupdated"		"1680092250"
+			}
+		}
+	}
+}
