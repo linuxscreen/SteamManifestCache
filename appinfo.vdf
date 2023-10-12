@@ -1,0 +1,197 @@
+"appinfo"
+{
+	"appid"		"1315240"
+	"common"
+	{
+		"name"		"Blackstorm"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"ab98df429db046891fb5f113e97f4bf3f3950dbb"
+		"logo_small"		"ab98df429db046891fb5f113e97f4bf3f3950dbb_thumb"
+		"icon"		"534d2fc4d2fff360b758c16f7fde8c9b9a09cc46"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"a506dcff19d0e43ce64d7e26e17073d7dd8474b1"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.11136706260246"
+				"height_pct"		"59.66720181499967"
+			}
+		}
+		"store_asset_mtime"		"1619692812"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lost Criteria Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lost Criteria Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1622562664"
+		"community_hub_visible"		"1"
+		"gameid"		"1315240"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"128"
+			"3"		"19"
+			"4"		"21"
+			"5"		"4106"
+			"6"		"176981"
+			"7"		"3834"
+			"8"		"1743"
+			"9"		"6506"
+			"10"		"1681"
+			"11"		"3839"
+			"12"		"4166"
+			"13"		"4136"
+			"14"		"1755"
+			"15"		"3955"
+			"16"		"1775"
+			"17"		"5711"
+			"18"		"3843"
+			"19"		"4295"
+		}
+		"review_score"		"4"
+		"review_percentage"		"25"
+	}
+	"extended"
+	{
+		"gamedir"		"Blackstorm"
+		"serverbrowsername"		"Blackstorm"
+		"developer"		"Lost Criteria Studios"
+		"publisher"		"Lost Criteria Studios"
+		"homepage"		"http://blackstorm-game.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Blackstorm"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Barco.exe"
+				"arguments"		"-QueryPort 27016"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1315241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3226443080104522939"
+					"size"		"1794474380"
+					"download"		"1725610960"
+				}
+			}
+		}
+		"1315991"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5511225831446943461"
+					"size"		"146484944"
+					"download"		"81061472"
+				}
+			}
+			"depotfromapp"		"1315990"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6791510"
+				"timeupdated"		"1622537190"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000"
+		"maxnumfiles"		"10"
+	}
+}
