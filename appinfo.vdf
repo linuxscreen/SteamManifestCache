@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"559310"
+	"common"
+	{
+		"name"		"Illyriad - Grand Strategy MMO"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"ed00bdcef51e30017a89147a97caaf8bc01a3b1b"
+		"logo_small"		"ed00bdcef51e30017a89147a97caaf8bc01a3b1b_thumb"
+		"icon"		"284c5cf3c06be4e2b884cb835399051810e2664b"
+		"clienticon"		"8feec947f82449de20e1334ae8bf5940657e8a9a"
+		"clienttga"		"3b2e0fe374f9272e32ceaec5cac3d9b7335cfc19"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"559310_eula_0"
+				"name"		"Illyriad - 4X Grand Strategy MMO EULA"
+				"url"		"http://store.steampowered.com//eula/559310_eula_0"
+			}
+		}
+		"osextended"		""
+		"metacritic_name"		"Illyriad - 4X Grand Strategy MMO"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1619976586"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Illyriad Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Illyriad Games"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"29"
+			"2"		"3"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_27"		"1"
+			"category_29"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1305529200"
+		"steam_release_date"		"1484164860"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"559310"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"128"
+			"2"		"492"
+			"3"		"122"
+			"4"		"4328"
+			"5"		"4364"
+			"6"		"3810"
+			"7"		"599"
+			"8"		"4695"
+			"9"		"8945"
+			"10"		"1643"
+			"11"		"1670"
+			"12"		"1684"
+			"13"		"1695"
+			"14"		"3854"
+			"15"		"6310"
+			"16"		"1754"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Illyriad Games"
+		"publisher"		"Illyriad Games"
+		"homepage"		"https://www.illyriad.co.uk/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Illyriad - Grand Strategy MMO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"illyriad.exe"
+				"arguments"		" --in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"559311"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"887230500631156434"
+					"size"		"359306545"
+					"download"		"205042672"
+				}
+			}
+		}
+		"559312"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8383586970475372008"
+					"size"		"377756213"
+					"download"		"206639552"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4893081"
+				"timeupdated"		"1586810818"
+			}
+		}
+	}
+}
