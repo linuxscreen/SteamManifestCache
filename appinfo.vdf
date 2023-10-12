@@ -1,0 +1,217 @@
+"appinfo"
+{
+	"appid"		"448570"
+	"common"
+	{
+		"name"		"Origin Of Destiny: Crimson Awakening"
+		"type"		"Game"
+		"oslist"		"windows"
+		"clienticon"		"9f4ce088a08929686f96bfcb969b7dca74a696b6"
+		"clienttga"		"c2e5671ac1282aa643362adc7a94a541dca0e01a"
+		"icon"		"fc83ae9a145d916f64add76436e565cafbe2c070"
+		"logo"		"59a3eb05f3937c8770c2648c3347a672e8cbbc1b"
+		"logo_small"		"59a3eb05f3937c8770c2648c3347a672e8cbbc1b_thumb"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"94.07504155782476"
+			}
+		}
+		"store_asset_mtime"		"1572789463"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CloudTheWolf Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CloudTheWolf Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1459497909"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"448570"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"122"
+			"2"		"5577"
+			"3"		"21"
+			"4"		"493"
+			"5"		"492"
+			"6"		"4085"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"CloudTheWolf Games"
+		"publisher"		"CloudTheWolf Games"
+		"isfreeapp"		"1"
+		"listofdlc"		"468360,581750"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Origin Of Destiny"
+		"steamcontrollertemplateindex"		"4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"448571"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1600278670726228348"
+					"size"		"852140005"
+					"download"		"756733408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0B9F917A7BECB32DF761BA1033933A3B"
+					"size"		"335A218CCC1C18BD888AFAEF80578771"
+					"download"		"024C10F678CFD40C6F5AAE7B4EBF1540"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11347427"
+				"timeupdated"		"1685428898"
+			}
+			"beta"
+			{
+				"buildid"		"11553510"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687673005"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"/"
+				"pattern"		"*.ctwsav*"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Origin of Destiny/Saves"
+				"pattern"		"*.ctwsav*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+}
