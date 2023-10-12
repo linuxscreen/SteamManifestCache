@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"2462580"
+	"common"
+	{
+		"name"		"Fista 3-in-1 Retro Pack (Carpet Shark, Plummet Challenge Game, & The Arm Wrestling Classic)"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"176bc76e97e066d30a3ef3b43b0778a40c66cf1f"
+		"clienticon"		"792c3b6920a2bd71440d66b45fa6ad13ba1e8ffc"
+		"clienttga"		"fc346712eda73717de0734c49d663bf3ac48a43b"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1694476800"
+			"tested_build_id"		"11614570"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"15.483119906868438"
+				"height_pct"		"80.24222274994062"
+			}
+		}
+		"store_asset_mtime"		"1686925592"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Steve McCall"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Steve McCall"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1687511998"
+		"community_hub_visible"		"1"
+		"gameid"		"2462580"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"701"
+			"2"		"1773"
+			"3"		"3871"
+			"4"		"7743"
+			"5"		"6691"
+			"6"		"1719"
+			"7"		"19995"
+			"8"		"4136"
+			"9"		"1667"
+			"10"		"3916"
+			"11"		"4004"
+			"12"		"3942"
+			"13"		"47827"
+			"14"		"7481"
+			"15"		"6971"
+			"16"		"1775"
+			"17"		"5154"
+			"18"		"12057"
+			"19"		"3859"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Steve McCall"
+		"publisher"		"Steve McCall"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Fista 3-in-1 NES Pack (Carpet Shark, Plummet Challenge Game, & The Arm Wrestling Classic)"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fista 3-in-1 Retro Pack.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"2462581"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1221623896579045927"
+					"size"		"209337715"
+					"download"		"49427072"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11614570"
+				"timeupdated"		"1688391452"
+			}
+		}
+	}
+}
