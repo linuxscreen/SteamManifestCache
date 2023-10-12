@@ -1,0 +1,160 @@
+"appinfo"
+{
+	"appid"		"2434260"
+	"common"
+	{
+		"name"		"Pinpoint"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"467a469b34845d46a759b4e482ca43ab180b3116"
+		"clienticon"		"c855f48e4f369cf791d0fa18c8ff87d3880266fb"
+		"clienttga"		"859b767cc221cc3d609ccce2a848cb4a431ae806"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"66.2758171137294"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1685987577"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Virtual Brain Lab"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Virtual Brain Lab"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"54"
+			"1"		"57"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1687286681"
+		"community_hub_visible"		"1"
+		"gameid"		"2434260"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1036"
+			"1"		"87"
+			"2"		"4191"
+			"3"		"5794"
+			"4"		"8013"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Virtual Brain Lab"
+		"publisher"		"Virtual Brain Lab"
+		"homepage"		"https://virtualbrainlab.org/pinpoint/installation_and_use.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Pinpoint"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Pinpoint.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"2434261"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4497387074345977688"
+					"size"		"149546158"
+					"download"		"33711264"
+				}
+				"beta"
+				{
+					"gid"		"4497387074345977688"
+					"size"		"149546158"
+					"download"		"33711264"
+				}
+			}
+		}
+		"2434262"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4943464198025675072"
+					"size"		"184995533"
+					"download"		"35437424"
+				}
+				"beta"
+				{
+					"gid"		"4943464198025675072"
+					"size"		"184995533"
+					"download"		"35437424"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12271263"
+				"timeupdated"		"1695664946"
+			}
+			"beta"
+			{
+				"buildid"		"12271263"
+				"description"		"Beta releases"
+				"timeupdated"		"1695615392"
+			}
+		}
+	}
+}
