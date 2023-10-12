@@ -1,0 +1,262 @@
+"appinfo"
+{
+	"appid"		"716260"
+	"common"
+	{
+		"name"		"Guns'n'Stories: Preface VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"360_required"		"1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"725a3632d72091224bdb31393058d4c34ade3f1e"
+		"logo"		"763d9e0ca5abff7e74baa94bea5c4eaa2e27bb17"
+		"logo_small"		"763d9e0ca5abff7e74baa94bea5c4eaa2e27bb17_thumb"
+		"clienttga"		"dce316ee5396f5b59a85f57ad2f7bb293198b41d"
+		"clienticon"		"3676ff0000a3e1104f700518a555a295091db792"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1689120000"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Guns'n'Stories: Preface VR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"57.89229307216294"
+				"height_pct"		"65.1371807000946"
+			}
+		}
+		"store_asset_mtime"		"1572633189"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MIROWIN"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MIROWIN"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1509044054"
+		"community_hub_visible"		"1"
+		"gameid"		"716260"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21"
+			"2"		"19"
+			"3"		"492"
+			"4"		"21978"
+			"5"		"1774"
+			"6"		"1647"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"MIROWIN"
+		"publisher"		"MIROWIN"
+		"homepage"		"http://mirowin.com/en/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Guns'n'Stories Preface VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OMT.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"OMT.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"716261"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1736887779628522003"
+					"size"		"3307762648"
+					"download"		"3163498960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demotest"
+				{
+					"gid"		"D9F50A67261584BC8BC6B80192402F43"
+					"size"		"CF6FC0BCE2C2988EC6203240537A1677"
+					"download"		"F77FD82B05D5BDA9BBCAE15446409DD4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3136688"
+				"timeupdated"		"1537446333"
+			}
+			"demotest"
+			{
+				"buildid"		"3136688"
+				"pwdrequired"		"1"
+				"timeupdated"		"1537371283"
+			}
+		}
+	}
+}
