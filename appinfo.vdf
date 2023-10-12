@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"844880"
+	"common"
+	{
+		"name"		"VR-X Player Steam Edition"
+		"type"		"Application"
+		"clienticon"		"727c14a480d11be1cb5e47346639c07f36c8686f"
+		"clienttga"		"f7a7e4dce73ea29456f2c297b07c5c3520004bbd"
+		"icon"		"b1bb38892c23104ba1508f1046ef5a21f8545cff"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"844880_eula_0"
+				"name"		"VR-X Player Steam Edition EULA"
+				"url"		"http://store.steampowered.com//eula/844880_eula_0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"5206b029caea20b0cbc3dac245853bc0f1e00bc5"
+		"logo_small"		"5206b029caea20b0cbc3dac245853bc0f1e00bc5_thumb"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"releasestate"		"released"
+		"metacritic_name"		"VR-X Player Steam Edition"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1523968911"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MAGIX Software GmbH"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MAGIX Software GmbH"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1528702003"
+		"community_hub_visible"		"1"
+		"gameid"		"844880"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+			"1"		"21978"
+		}
+		"review_score"		"5"
+		"review_percentage"		"52"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"MAGIX Software GmbH"
+		"publisher"		"MAGIX Software GmbH"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MAGIX"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VR-X Player Steam Edition\\VRPLAYER64.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"VR-X Player Steam Edition\\VRPLAYER64.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"VR-X Player Steam Edition\\VRPLAYER64.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"844881"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7613059968087606439"
+					"size"		"358000082"
+					"download"		"108117552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"7398635A35FDCC494E833D5C5336563D"
+					"size"		"09EA11570A2715A4A7AD821CE81CC35C"
+					"download"		"B62A979CF2483E8A3C30971191DBC848"
+				}
+			}
+		}
+		"baselanguages"		""
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4288099"
+				"timeupdated"		"1571752548"
+			}
+			"beta"
+			{
+				"buildid"		"4288099"
+				"pwdrequired"		"1"
+				"timeupdated"		"1571126368"
+			}
+		}
+	}
+}
