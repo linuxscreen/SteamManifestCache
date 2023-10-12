@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1486120"
+	"common"
+	{
+		"name"		"2020: The Ride"
+		"type"		"Game"
+		"controllervr"
+		{
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"logo"		"c3788169ddef0a8cd3da4a64027dd1d691b87fea"
+		"logo_small"		"c3788169ddef0a8cd3da4a64027dd1d691b87fea_thumb"
+		"icon"		"79ffaf3275392aa748672c03ba72d886b71081f3"
+		"clienticns"		"b6678f862f5f468511cc5e37555dee373e0d2d62"
+		"clienttga"		"547ad0975941108ff05c6171fe597f1004b8630f"
+		"linuxclienticon"		"c3d128dc301f71c758e08415c968552b56a31046"
+		"clienticon"		"0407ad428361bd7b4aded99e85414d9f5f56ac08"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"49.41860465116281"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1608076971"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pariah Interactive Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dot Precision LLC"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1608364800"
+		"steam_release_date"		"1614722153"
+		"community_hub_visible"		"1"
+		"gameid"		"1486120"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"4115"
+			"2"		"3942"
+			"3"		"5030"
+			"4"		"4252"
+			"5"		"13782"
+			"6"		"10679"
+			"7"		"9204"
+			"8"		"4191"
+			"9"		"4145"
+			"10"		"4853"
+			"11"		"4342"
+			"12"		"26921"
+			"13"		"1036"
+			"14"		"597"
+			"15"		"776177"
+			"16"		"1710"
+			"17"		"3834"
+			"18"		"1714"
+			"19"		"1662"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"0"
+		"developer"		"Pariah Interactive Inc."
+		"publisher"		"Dot Precision LLC"
+		"homepage"		"https://2020theride.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"2020 The Ride"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheRide.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1486121"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1658211911368572919"
+					"size"		"2440243461"
+					"download"		"436824272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6314517"
+				"timeupdated"		"1614651490"
+			}
+		}
+	}
+}
