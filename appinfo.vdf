@@ -1,0 +1,223 @@
+"appinfo"
+{
+	"appid"		"644320"
+	"common"
+	{
+		"name"		"Halfquake Trilogy"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"592671b3084e4383c2cae0c2f0bb31af4e2a3495"
+		"clienticon"		"e4255b9ff49474891797b5a19480c470b235a656"
+		"icon"		"3612c542a4865a56f0644ed9ebc4c9c4e5bff699"
+		"logo"		"31d908679ce47edd2c881693b7d4a85c3f312192"
+		"logo_small"		"31d908679ce47edd2c881693b7d4a85c3f312192_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.29288214702453"
+				"height_pct"		"50.22559962004274"
+			}
+		}
+		"store_asset_mtime"		"1653333910"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Philipp Lehner"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Philipp Lehner"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Philipp Lehner"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1538751653"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"644320"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"19"
+			"2"		"113"
+			"3"		"4667"
+			"4"		"4345"
+			"5"		"5348"
+			"6"		"1756"
+			"7"		"4252"
+			"8"		"1664"
+			"9"		"3839"
+			"10"		"1663"
+			"11"		"4026"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"requiredappid"		"70"
+		"isfreeapp"		"1"
+		"developer"		"Philipp Lehner"
+		"publisher"		"Philipp Lehner"
+		"homepage"		"http://www.moddb.com/mods/halfquake-sunrise"
+		"listofdlc"		"910930,910932"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Halfquake Trilogy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher.exe"
+				"arguments"		"-game hqtrilogy"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"644321"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4106282459648710166"
+					"size"		"951329476"
+					"download"		"362911200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"somos"
+				{
+					"gid"		"21DC3242FCAA099B840FB8FA04B5DF48"
+					"size"		"E88410D7BF7AE6137598A361A57D6DF0"
+					"download"		"ED94CE7D5A7C0934030C83245C70709F"
+				}
+			}
+		}
+		"910930"
+		{
+			"dlcappid"		"910930"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6710767319189303684"
+					"size"		"695479574"
+					"download"		"641337920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"somos"
+				{
+					"gid"		"8DCE9BBD6F8745F3E4A674681A3E640E"
+					"size"		"8CC5B1AA951E15F2ED9EB12786625BF5"
+					"download"		"CC197FFEF764F1249ED4488D74A05979"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"910930"
+			}
+		}
+		"910932"
+		{
+			"dlcappid"		"910932"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"471748997381093163"
+					"size"		"189066348"
+					"download"		"6225024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"somos"
+				{
+					"gid"		"69C73E7193F5EF9922C90D52A692FC94"
+					"size"		"0136F0A1F9C1EF41E6DF97A42AE2D813"
+					"download"		"8105B5431E2729EEE8F7CAD8A7C1C23D"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"910932"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9594675"
+				"timeupdated"		"1664224322"
+			}
+			"somos"
+			{
+				"buildid"		"4024523"
+				"pwdrequired"		"1"
+				"timeupdated"		"1563484008"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+}
