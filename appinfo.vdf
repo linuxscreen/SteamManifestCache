@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"2339980"
+	"common"
+	{
+		"name"		"Epochrypha"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"5c69ae727d1cc64b384e41b91085ac4038b760d6"
+		"clienticon"		"5bad83d9f8e50330e6d2356867a00e38d5b42f3b"
+		"clienttga"		"253f58b6ae916a0015d460a817976524a3d24583"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.525087514585756"
+				"height_pct"		"36.38343285793761"
+			}
+		}
+		"store_asset_mtime"		"1687481658"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EPOCHRYPHA Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Epochrypha"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1689534879"
+		"community_hub_visible"		"1"
+		"gameid"		"2339980"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"122"
+			"3"		"4231"
+			"4"		"4106"
+			"5"		"4191"
+			"6"		"4598"
+			"7"		"3993"
+			"8"		"7208"
+			"9"		"1646"
+			"10"		"113"
+			"11"		"492"
+			"12"		"6730"
+			"13"		"1685"
+			"14"		"3859"
+			"15"		"3841"
+			"16"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"EPOCHRYPHA Team"
+		"publisher"		"Epochrypha"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Epochrypha"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BUILD_EPOCHRYPHA.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2339981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7523590326147737707"
+					"size"		"504138473"
+					"download"		"399907056"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11575218"
+				"timeupdated"		"1687929439"
+			}
+		}
+	}
+}
