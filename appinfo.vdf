@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"2505790"
+	"common"
+	{
+		"name"		"倚天屠龙记"
+		"type"		"Game"
+		"clienticon"		"a64011d09e4fb13c8a13461d1bf5110ca37f693e"
+		"clienttga"		"972c543c15d4ba937654147baa052ef87eddfa0e"
+		"icon"		"a96c3e70195f610756ac714bb8df6a09a360c160"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1695168000"
+			"tested_build_id"		"11663332"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"81.7497103128621"
+				"height_pct"		"74.94095418044402"
+			}
+		}
+		"store_asset_mtime"		"1689133294"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"倚天屠龙记"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"倚天屠龙记"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1690942286"
+		"community_hub_visible"		"1"
+		"gameid"		"2505790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"791774"
+			"1"		"14139"
+			"2"		"9271"
+			"3"		"1775"
+			"4"		"9"
+			"5"		"1666"
+			"6"		"122"
+			"7"		"1741"
+			"8"		"1742"
+			"9"		"4325"
+			"10"		"4305"
+			"11"		"6815"
+			"12"		"4252"
+			"13"		"4172"
+			"14"		"8122"
+			"15"		"21"
+			"16"		"5984"
+			"17"		"4145"
+			"18"		"4004"
+			"19"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"倚天屠龙记"
+		"publisher"		"倚天屠龙记"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"yttl790"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"2505791"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1521576620776010191"
+					"size"		"174491694"
+					"download"		"63895248"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11663332"
+				"timeupdated"		"1688973257"
+			}
+		}
+	}
+}
