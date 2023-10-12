@@ -1,0 +1,226 @@
+"appinfo"
+{
+	"appid"		"1142530"
+	"common"
+	{
+		"name"		"Dog Clicker"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"6c06e428b749025459a6c2bd5eedd5ed80db875e"
+		"logo"		"283efe35f5cc0bc687b3ce6d4adbe4d9c7a938ea"
+		"logo_small"		"283efe35f5cc0bc687b3ce6d4adbe4d9c7a938ea_thumb"
+		"clienticon"		"d206c165c64c21a996d028190d3efc51d6e41d5d"
+		"clienttga"		"c48860cfdda746b4eb5d27511c8d24551147b4af"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1641074529"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Altozose"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Altozose"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1647259391"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1142530"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"597"
+			"3"		"1773"
+			"4"		"379975"
+			"5"		"1638"
+			"6"		"3871"
+			"7"		"113"
+			"8"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"48"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"gamedir"		""
+		"anti_cheat_support_url"		""
+		"developer"		"Altozose"
+		"publisher"		"Altozose"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dog Clicker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dog Clicker.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1142534"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7613487539463003345"
+					"size"		"100875818"
+					"download"		"22329632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"864DB43B888097CD3C59D04D4069F462"
+					"size"		"2BA9E3F80A0170282E6D3CA5C2774A22"
+					"download"		"B8B3F8B7D2EF68D19F1BA8EECDBA1B4C"
+				}
+				"public-test"
+				{
+					"gid"		"6FA194372F0D01DA39A86E2EFD5D9959"
+					"size"		"4932961A8DDD774E91CC0CB2EF0B515F"
+					"download"		"0D4BDAD201F507CCB714DEE0B66A242B"
+				}
+			}
+		}
+		"1142531"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8941651215023032273"
+					"size"		"92218146"
+					"download"		"19531888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"1469B5D2C4C26C177C5AF064F84BFEB7"
+					"size"		"2A0A7C8216EBB35BBCD1973AF1B33729"
+					"download"		"7FE214DFF64F76ECE4D1060FF260DDB5"
+				}
+				"public-test"
+				{
+					"gid"		"B58E921E4654D0ADFD13FE2806EC0ED6"
+					"size"		"D7BD1B3CA3F45D6ECA748B14DA0FD2D7"
+					"download"		"D59DCEDD78C356F82FD76FC9755F12D2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8365921"
+				"timeupdated"		"1647259303"
+			}
+			"development"
+			{
+				"buildid"		"8365921"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647253231"
+			}
+			"public-test"
+			{
+				"buildid"		"8365921"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647259342"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
