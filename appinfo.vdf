@@ -1,0 +1,349 @@
+"appinfo"
+{
+	"appid"		"1286480"
+	"common"
+	{
+		"name"		"Fantasy General II: Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+		}
+		"logo"		"9be89ff7547837bfda8b7024f780b49d63c058e3"
+		"logo_small"		"9be89ff7547837bfda8b7024f780b49d63c058e3_thumb"
+		"clienticon"		"3209a6841dff88d4905b57fa2a9afdb5ad229d37"
+		"clienttga"		"3ccd482436841c4d202b4f3ae3583fa5683a6655"
+		"icon"		"fc610d8dafc281e3358148bbdffa7bc57c44066e"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1286480_eula_0"
+				"name"		"Fantasy General II: Prologue EULA"
+				"url"		"https://store.steampowered.com//eula/1286480_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660003200"
+			"tested_build_id"		"5347180"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1593178785"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Owned by Gravity"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Slitherine Ltd."
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1593706955"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1286480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"4182"
+			"2"		"122"
+			"3"		"1741"
+			"4"		"17305"
+			"5"		"17389"
+			"6"		"4684"
+			"7"		"4191"
+			"8"		"4305"
+			"9"		"5411"
+			"10"		"1678"
+			"11"		"1684"
+			"12"		"1708"
+			"13"		"3916"
+			"14"		"4004"
+			"15"		"4057"
+			"16"		"4172"
+			"17"		"4342"
+			"18"		"4604"
+			"19"		"16094"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"Owned by Gravity"
+		"publisher"		"Slitherine Ltd."
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Fantasy General II Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FG2.exe"
+				"type"		"default"
+				"config"
+				{
+					"betakey"		"nightly"
+				}
+			}
+			"1"
+			{
+				"executable"		"autorun.exe"
+				"description"		"Launcher"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1286481"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3246003549939983671"
+					"size"		"1505031666"
+					"download"		"703088064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"808B25B3E9087FC45360C03A05FCC1CD"
+					"size"		"34E877305E4C4EB79CA9F13CD5F6C477"
+					"download"		"8D549D659A3F04C147FB0FE468CD1B37"
+				}
+				"nightly"
+				{
+					"gid"		"09224EED104717BCBBFB6D136AEE29DF"
+					"size"		"E783F93E563B72F68A1E13FC5A7E0ACF"
+					"download"		"4E4CEDE558D6DB9B93FD53E56A22AC8B"
+				}
+			}
+		}
+		"1286482"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2648380286626381816"
+					"size"		"784"
+					"download"		"384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"32E599537FB2425AB912969DB74A3900"
+					"size"		"45FC12FFF7A6BD3A730348243B50BA2B"
+					"download"		"4C7D9912C1BB58E358714CDDAE2AF05C"
+				}
+				"nightly"
+				{
+					"gid"		"FD12B582B88D7A694E35200956870716"
+					"size"		"4A2974F353B4716D86E64C9C63329E36"
+					"download"		"797A2126FB302EA19C6BE5E7E175F98C"
+				}
+			}
+		}
+		"1286483"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4338585051123101219"
+					"size"		"14848273"
+					"download"		"9012240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"714303072D3F81B512FAA79B4555B2B1"
+					"size"		"6F28F4DE281274DB6917EEF8DDB6D973"
+					"download"		"59367EAC8A71888A8FA280210C4D600F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5347180"
+				"timeupdated"		"1596200913"
+			}
+			"devtest"
+			{
+				"buildid"		"5347180"
+				"pwdrequired"		"1"
+				"timeupdated"		"1596040475"
+			}
+			"nightly"
+			{
+				"buildid"		"5213341"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593080097"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"33554432"
+		"maxnumfiles"		"3200"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/Fantasy General II/Savegames"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
