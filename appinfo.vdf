@@ -1,0 +1,217 @@
+"appinfo"
+{
+	"appid"		"2448230"
+	"common"
+	{
+		"name"		"Snapback"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"defb2c3878de8bd3598a287462ea9dd8410e6185"
+		"clienttga"		"79e7cf257014bff33626e66df409fbf7fbcd2feb"
+		"clienticon"		"27c52baa7fe67b361d18e9a12f1dbd79bc9eb0b9"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1695772800"
+			"tested_build_id"		"11770126"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.29325148556303"
+				"height_pct"		"50.37019915623716"
+			}
+		}
+		"store_asset_mtime"		"1689995151"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Shadowlight Gaming Company"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Shadowlight Gaming Company"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1690542596"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2448230"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"5395"
+			"2"		"1664"
+			"3"		"1774"
+			"4"		"3942"
+			"5"		"5154"
+			"6"		"3839"
+			"7"		"4252"
+			"8"		"7743"
+			"9"		"7926"
+			"10"		"6378"
+			"11"		"5752"
+			"12"		"4137"
+			"13"		"5363"
+			"14"		"5030"
+			"15"		"4295"
+			"16"		"6129"
+			"17"		"3993"
+			"18"		"1708"
+			"19"		"15277"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Shadowlight Gaming Company"
+		"publisher"		"Shadowlight Gaming Company"
+		"homepage"		"https://shadowlightgaming.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Snapback"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"7"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Snapback.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"Dev-Only"
+				}
+				"description_loc"
+				{
+					"english"		"Snapback by Shadowlight Gaming"
+				}
+				"description"		"Snapback by Shadowlight Gaming"
+			}
+		}
+	}
+	"depots"
+	{
+		"2448231"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"803005889233065240"
+					"size"		"2025560448"
+					"download"		"399406352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-only"
+				{
+					"gid"		"700DA026D8B3DFDF547C300A0F18997C"
+					"size"		"3B62F4452A73BD6C7014D6041F2EF615"
+					"download"		"9598451894AFE58659BFE31C92AB64DD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11770126"
+				"timeupdated"		"1690165876"
+			}
+			"dev-only"
+			{
+				"buildid"		"11770126"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690164588"
+			}
+		}
+	}
+}
