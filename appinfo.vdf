@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"1117000"
+	"common"
+	{
+		"name"		"CyberRunner"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"logo"		"3ebea15a5f4c232c597d298945e41544238b7c02"
+		"logo_small"		"3ebea15a5f4c232c597d298945e41544238b7c02_thumb"
+		"icon"		"49cfe13ce44fdb934293b272f0930f5eb55d9a26"
+		"openvr_action_manifest_path"		"CyberRunner\\actions.json"
+		"clienticon"		"9f81c1f8e534e8b55ba49afd1e7358652c9a085e"
+		"clienttga"		"ea732c2c772782a742186a54b78126f1a773d0ef"
+		"openvrsupport"		"1"
+		"metacritic_name"		"CyberRunner"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667390036"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cybershoes GmbH"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cybershoes GmbH"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1567157030"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1117000"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"701"
+			"2"		"21978"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"0"
+		"developer"		"Cybershoes GmbH"
+		"publisher"		"Cybershoes GmbH"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"CyberRunner"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CyberRunner\\Cyberrunner.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"default"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1117001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4854510008210942490"
+					"size"		"241971660"
+					"download"		"33611504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"868C7D126F79E280B40996F7F96CD8EE"
+					"size"		"E44E3422053D944C12C6395570654491"
+					"download"		"57317AB853F91C6338146B9E5858A9A5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4149278"
+				"timeupdated"		"1567074650"
+			}
+			"beta"
+			{
+				"buildid"		"4688826"
+				"pwdrequired"		"1"
+				"timeupdated"		"1582039167"
+			}
+		}
+	}
+}
