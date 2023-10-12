@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1525900"
+	"common"
+	{
+		"name"		"Infinite Dungeon Crawler"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"2b9fd9c0fe5c9c802dd42b44c9bd4cb9c3dd8a15"
+		"logo_small"		"2b9fd9c0fe5c9c802dd42b44c9bd4cb9c3dd8a15_thumb"
+		"icon"		"48a48cfdc6e58f43eaa66012d07d9dc636dcfb1a"
+		"clienticon"		"f9931e5b8e5efb4905d6dfb2dfe6eee9a7c8bd72"
+		"clienttga"		"b5318a4772dc0a2eebc6e9b5bc5406c9f8584679"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1623415957"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DD-Consulting"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DD-Consulting"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1622530800"
+		"steam_release_date"		"1623406013"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1525900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"1720"
+			"2"		"4231"
+			"3"		"4106"
+			"4"		"4608"
+			"5"		"5851"
+			"6"		"4747"
+			"7"		"3955"
+			"8"		"3834"
+			"9"		"21"
+			"10"		"1743"
+			"11"		"4305"
+			"12"		"1684"
+			"13"		"4057"
+			"14"		"4172"
+			"15"		"30358"
+			"16"		"4155"
+			"17"		"3993"
+			"18"		"7569"
+			"19"		"6276"
+		}
+		"review_score"		"5"
+		"review_percentage"		"46"
+	}
+	"extended"
+	{
+		"developer"		"DD-Consulting"
+		"publisher"		"DD-Consulting"
+		"homepage"		"https://www.infinitedungeoncrawler.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1528380,1528381,1528382,1646320,1932080,2411820"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Infinite Dungeon Crawler"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"idc_game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1525901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2502447247136365252"
+					"size"		"97804477"
+					"download"		"96347344"
+				}
+				"beta"
+				{
+					"gid"		"6934883926336268821"
+					"size"		"97804477"
+					"download"		"96347408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"2BACEBDC5770709B86FFCCF4341BF62E"
+					"size"		"DECE2ECB0C5A3F42278460CFD11DB271"
+					"download"		"C2942550A91E1C4D7E07D15712EDC5D9"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11590295"
+				"timeupdated"		"1688056433"
+			}
+			"beta"
+			{
+				"buildid"		"11590269"
+				"description"		"beta testers"
+				"timeupdated"		"1688056213"
+			}
+			"development"
+			{
+				"buildid"		"6739824"
+				"pwdrequired"		"1"
+				"timeupdated"		"1621700905"
+			}
+		}
+	}
+}
