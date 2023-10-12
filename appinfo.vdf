@@ -1,0 +1,216 @@
+"appinfo"
+{
+	"appid"		"1410620"
+	"common"
+	{
+		"name"		"Minimum Wage"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"2e8138bae9a48b7c05d9b41addda15013b63f2bf"
+		"logo_small"		"2e8138bae9a48b7c05d9b41addda15013b63f2bf_thumb"
+		"icon"		"553bef90af88a2d79515e489cdf652c18924028e"
+		"clienticon"		"43cd8d3c0d08b81fb8637d6e8230de14c6b96824"
+		"clienttga"		"b088b4a051c7f3abdef3a7224a6d6270efc40ccc"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"67.738204910013"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1600945694"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Matt Barth"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Matt Barth"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1600935300"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1410620"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"6426"
+			"1"		"1698"
+			"2"		"1687"
+			"3"		"1738"
+			"4"		"1719"
+			"5"		"1742"
+			"6"		"6971"
+			"7"		"4486"
+			"8"		"21"
+			"9"		"1664"
+			"10"		"6650"
+			"11"		"492"
+			"12"		"11014"
+			"13"		"12095"
+			"14"		"3871"
+			"15"		"4791"
+			"16"		"4136"
+			"17"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Matt Barth"
+		"publisher"		"Matt Barth"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Minimum Wage"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Minimum Wage.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MIN_WAGE_MAC.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1410621"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5835633142719559143"
+					"size"		"1329572625"
+					"download"		"151170608"
+				}
+			}
+		}
+		"1410622"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4093670969981077682"
+					"size"		"1338478740"
+					"download"		"154059568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5575862"
+				"timeupdated"		"1600727338"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"OneSecGames/Minimum Wage"
+				"pattern"		"*.json"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"OneSecGames/Minimum Wage"
+						"replace"		"com.OneSecGames.MinimumWage"
+					}
+				}
+			}
+		}
+	}
+}
