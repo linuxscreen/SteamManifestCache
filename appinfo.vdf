@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"1758200"
+	"common"
+	{
+		"name"		"ITRP _ Gas Prison"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"c71eb2f83bebcc6031daf4fe810531c644b3067c"
+		"clienttga"		"f06ba6692084ed56498ebe48492416f1117bb2f7"
+		"icon"		"85fa9bf6e7c91c56910db944a854dba94753b60d"
+		"logo"		"88a56802fff98d2e2543ba723c168e23539ac851"
+		"logo_small"		"88a56802fff98d2e2543ba723c168e23539ac851_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"ukrainian"		"1"
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"39.991101086652236"
+				"height_pct"		"77.43055555555554"
+			}
+		}
+		"store_asset_mtime"		"1632857299"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Unhexigion"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Unhexigion"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_59"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1633710773"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1758200"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"6129"
+			"2"		"3839"
+			"3"		"4342"
+			"4"		"1664"
+			"5"		"9"
+			"6"		"4191"
+			"7"		"1773"
+			"8"		"1759"
+			"9"		"16689"
+			"10"		"1662"
+			"11"		"5673"
+			"12"		"4182"
+			"13"		"3942"
+			"14"		"7250"
+			"15"		"255534"
+			"16"		"5716"
+			"17"		"113"
+			"18"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Unhexigion"
+		"publisher"		"Unhexigion"
+		"homepage"		"https://unhexigion.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ITRP _ Gas Prison"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"itrp_gp.exe"
+				"type"		"default"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2926768514"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,prerelease"
+				"use_action_block"		"false"
+			}
+			"2926768213"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,prerelease"
+				"use_action_block"		"false"
+			}
+			"2926767913"
+			{
+				"controller_type"		"controller_switch_pro"
+				"enabled_branches"		"default,prerelease"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,spanish,russian,ukrainian"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1758201"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1176102120855316805"
+					"size"		"81543700"
+					"download"		"37512832"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10703130"
+				"timeupdated"		"1678127195"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"set"
+				"pattern"		"progress.dat"
+			}
+		}
+	}
+}
