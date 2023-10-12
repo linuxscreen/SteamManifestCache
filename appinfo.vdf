@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"2353790"
+	"common"
+	{
+		"name"		"Jump Puzzle"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"fee5f472a69db4ebf3e4a3038081f3cb41ca821b"
+		"clienttga"		"771dddae779ef712a1799182378073b52355dacb"
+		"name_localized"
+		{
+			"english"		"Jump Puzzle"
+			"german"		"Jump Puzzle"
+			"french"		"Puzzle de saut"
+			"russian"		"Скачать головоломку"
+			"portuguese"		"Puzzle Saltar"
+			"spanish"		"Rompecabezas de salto"
+			"italian"		"Salta puzzle"
+			"japanese"		"ジャンプパズル"
+			"schinese"		"跳跳乐"
+		}
+		"clienticon"		"b14475d25ca795fa8fb1444d3ab27a85778a0393"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"86.17269544924153"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1681750147"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Light Game"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Light Game"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_30"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1684431720"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2353790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1625"
+			"2"		"1770"
+			"3"		"1664"
+			"4"		"5395"
+			"5"		"5537"
+			"6"		"3877"
+			"7"		"1720"
+			"8"		"4791"
+			"9"		"4562"
+			"10"		"4726"
+			"11"		"4094"
+			"12"		"1654"
+			"13"		"4136"
+			"14"		"4036"
+			"15"		"1717"
+			"16"		"3968"
+			"17"		"6730"
+			"18"		"4182"
+			"19"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Light Game"
+		"publisher"		"Light Game"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Jump Puzzle"
+		"steamdecktouchscreen"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Jump Puzzle.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2353791"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2097295415405954245"
+					"size"		"773378309"
+					"download"		"291014608"
+				}
+			}
+		}
+		"workshopdepot"		"2353790"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11406069"
+				"timeupdated"		"1686067479"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Light Game/Jump Puzzle"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
