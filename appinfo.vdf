@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"2400740"
+	"common"
+	{
+		"name"		"PIGBLUE"
+		"type"		"Game"
+		"icon"		"e13cc41e410bd9c8793094b22aefc6258daa4e50"
+		"clienttga"		"4b86848cd624981b7a8194d8d57d0e8ff1c50bc2"
+		"linuxclienticon"		"f8ec2e612ae11d18e23b807784a80dde43590dd9"
+		"clienticns"		"76277c1dbfb55fb896358f496159528e4d4ee458"
+		"clienticon"		"25a9ffee4a15eaee234a6e3d2830e4f5739b7412"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.18623962040332"
+				"height_pct"		"82.77305861798905"
+			}
+		}
+		"store_asset_mtime"		"1682539691"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fatih Mert"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fatih Mert"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1683529966"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2400740"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"31275"
+			"2"		"4486"
+			"3"		"5716"
+			"4"		"21"
+			"5"		"1664"
+			"6"		"4166"
+			"7"		"5984"
+			"8"		"1721"
+			"9"		"3964"
+			"10"		"6052"
+			"11"		"113"
+			"12"		"492"
+			"13"		"1674"
+			"14"		"1742"
+			"15"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Fatih Mert"
+		"publisher"		"Fatih Mert"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"PIGBLUE"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"PIGBLUE-pc\\PIGBLUE.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"2400741"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5109055060110313613"
+					"size"		"196477172"
+					"download"		"133053168"
+				}
+				"macos"
+				{
+					"gid"		"5109055060110313613"
+					"size"		"196477172"
+					"download"		"133053168"
+				}
+			}
+		}
+		"2400742"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"macos"
+				{
+					"gid"		"5673417405814778450"
+					"size"		"156823868"
+					"download"		"121000272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11059331"
+				"timeupdated"		"1682078953"
+			}
+			"macos"
+			{
+				"buildid"		"11059360"
+				"description"		"macos"
+				"timeupdated"		"1682079059"
+			}
+		}
+	}
+}
