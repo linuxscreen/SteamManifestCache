@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"553590"
+	"common"
+	{
+		"name"		"Hot Squat"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"1"
+			}
+		}
+		"logo"		"847d32eda61347a3f4f613d037746db58b647d3c"
+		"logo_small"		"847d32eda61347a3f4f613d037746db58b647d3c_thumb"
+		"icon"		"c0e011ee9009c59fd10a94e6ed4ffe4b0ef73854"
+		"clienticon"		"d88b1a85bb0a783f959c662eb934e378654b734a"
+		"clienttga"		"98638d079700c0cef724119d2189dab3b5df0667"
+		"openvrsupport"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"553590_eula_0"
+				"name"		"Hot Squat EULA"
+				"url"		"http://store.steampowered.com//eula/553590_eula_0"
+			}
+		}
+		"othervrsupport"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1677024000"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Hot Squat"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"52.68378063010502"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1575063925"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bean Boy Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bean Boy Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1479830177"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"553590"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"599"
+			"2"		"492"
+			"3"		"21978"
+			"4"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Bean Boy Games"
+		"publisher"		"Bean Boy Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hot Squat"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hot_Squat.exe"
+				"type"		"vr"
+			}
+		}
+	}
+	"depots"
+	{
+		"553591"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2115209648468148266"
+					"size"		"162304181"
+					"download"		"42610992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"tutorial"
+				{
+					"gid"		"00FA37D9443313A9E2E5ADF861207063"
+					"size"		"57C62EEBD96FA8FFDF7928ACC9E0BF22"
+					"download"		"4F5880C6BC44B0446FE6075A69BEE54C"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4216513"
+				"timeupdated"		"1569025531"
+			}
+			"tutorial"
+			{
+				"buildid"		"3304885"
+				"pwdrequired"		"1"
+				"timeupdated"		"1542158087"
+			}
+		}
+	}
+}
