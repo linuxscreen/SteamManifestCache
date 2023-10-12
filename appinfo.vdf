@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"871490"
+	"common"
+	{
+		"name"		"Munx VR"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"b15fa9f717540d03f2b2e78d6e7439365cc77d77"
+		"logo_small"		"b15fa9f717540d03f2b2e78d6e7439365cc77d77_thumb"
+		"icon"		"fe8263ae9b291e6550cb7458146d16724189b67b"
+		"clienticon"		"8d4738682eba279907aeef34cc2ba00d6f5fb1e0"
+		"clienttga"		"af590f741896227d785cd6812a65a95be24faaf7"
+		"osextended"		"macos64"
+		"openvrsupport"		"1"
+		"metacritic_name"		"Munx VR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1546958368"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aleksandar Kojic"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Milos Kojic"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Linguisticator Ltd"
+			}
+		}
+		"primary_genre"		"54"
+		"genres"
+		{
+			"0"		"54"
+			"1"		"56"
+		}
+		"category"
+		{
+			"category_35"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1529478000"
+		"steam_release_date"		"1529511156"
+		"community_hub_visible"		"1"
+		"gameid"		"871490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1445"
+			"1"		"1036"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"enablegameoverlayforapp"		"1"
+		"developer"		"Aleksandar Kojic"
+		"publisher"		"Linguisticator Ltd"
+		"homepage"		"https://macunx.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MunxVR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MunxVR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MunxVR.app\\Contents\\MacOS\\MunxVR"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"871491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8292295922580575373"
+					"size"		"5006833549"
+					"download"		"1866659808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D96018ECDD1A3632EFC762022DAA4199"
+					"size"		"4955561AF25E0A6D0D164E93BA817994"
+					"download"		"31050FBBC3578312874ACD7855600232"
+				}
+			}
+		}
+		"871492"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8879533882686770002"
+					"size"		"5006894094"
+					"download"		"1866579856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"72A12461144FB44BCD51E473064748BF"
+					"size"		"75C038FC6D9F46D3B46D03DCA0FBBB0D"
+					"download"		"EE449B9C883642B30D763969391810EA"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6960195"
+				"timeupdated"		"1625090180"
+			}
+			"beta"
+			{
+				"buildid"		"6960195"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625090263"
+			}
+		}
+	}
+}
