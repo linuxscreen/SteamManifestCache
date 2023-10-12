@@ -1,0 +1,257 @@
+"appinfo"
+{
+	"appid"		"581910"
+	"common"
+	{
+		"name"		"Iron Armada"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"f3fa8d7c482699b538dfe3ca0f5a149f6420bf9d"
+		"logo_small"		"f3fa8d7c482699b538dfe3ca0f5a149f6420bf9d_thumb"
+		"clienticon"		"68d14f0305610cc4eb4fdada5d67e8a279aeff1f"
+		"clienttga"		"a23d0361384e94110dc34075298219ecff210ef5"
+		"icon"		"c9654804d39e57234fbb40f65a5c656203d20c3f"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"581910_eula_0"
+				"name"		"Iron Armada EULA"
+				"url"		"http://store.steampowered.com//eula/581910_eula_0"
+			}
+		}
+		"clienticns"		"68d14f0305610cc4eb4fdada5d67e8a279aeff1f"
+		"linuxclienticon"		"cd2281a5802fb7ef8183cb0809e67363054bac22"
+		"metacritic_name"		"Iron Armada"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.49591598599767"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1592197566"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bluedrake42"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Lucas Melo"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_47"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1609488000"
+		"steam_release_date"		"1514604900"
+		"community_hub_visible"		"1"
+		"gameid"		"581910"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"597"
+			"2"		"19"
+			"3"		"493"
+			"4"		"1755"
+			"5"		"21"
+			"6"		"492"
+			"7"		"3859"
+			"8"		"3871"
+			"9"		"3964"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"gamedir"		"IronArmada"
+		"serverbrowsername"		"Iron Armada"
+		"developer"		"Bluedrake42"
+		"homepage"		"https://ironarmada.bluedrake42.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Iron Armada"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"IronArmada.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"770341"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2713877492519086479"
+					"size"		"105070411"
+					"download"		"63265760"
+				}
+				"stable"
+				{
+					"gid"		"3657342962497751106"
+					"size"		"105138568"
+					"download"		"63261584"
+				}
+				"testing"
+				{
+					"gid"		"2713877492519086479"
+					"size"		"105070411"
+					"download"		"63265760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devcomp"
+				{
+					"gid"		"090D02EC6B23B6D07ED2B5476AB0361A"
+					"size"		"FDB702C22B66A415CE6F3D80AE39CA53"
+					"download"		"7CA51437B9F90DB43D25B45C19B411AC"
+				}
+			}
+			"depotfromapp"		"770340"
+		}
+		"581911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"687359688162001759"
+					"size"		"240876696"
+					"download"		"204925376"
+				}
+				"stable"
+				{
+					"gid"		"3701459270204463659"
+					"size"		"240504178"
+					"download"		"204567152"
+				}
+				"testing"
+				{
+					"gid"		"687359688162001759"
+					"size"		"240876696"
+					"download"		"204925376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devcomp"
+				{
+					"gid"		"C0D7111BAF8429E36C79737E2F9BAC21"
+					"size"		"F8F703521257ECDEFC121343C473ABEB"
+					"download"		"9F539F2707818EB5FAE0EA2AB59CB68F"
+				}
+			}
+		}
+		"workshopdepot"		"581910"
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6369450"
+				"timeupdated"		"1615520870"
+			}
+			"devcomp"
+			{
+				"buildid"		"5236404"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593577826"
+			}
+			"stable"
+			{
+				"buildid"		"5391434"
+				"description"		"Latest stable build"
+				"timeupdated"		"1597032162"
+			}
+			"testing"
+			{
+				"buildid"		"6369450"
+				"description"		"Latest stable build for testing"
+				"timeupdated"		"1615520381"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
