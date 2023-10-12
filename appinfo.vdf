@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"1172090"
+	"common"
+	{
+		"name"		"In Passing"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"84fcec006a0b80f57d387e14422b4029734262a5"
+		"logo_small"		"84fcec006a0b80f57d387e14422b4029734262a5_thumb"
+		"icon"		"2be6cfbc424b9e52805a8afa815d16229ec4c226"
+		"clienticon"		"8bd73c5d238d73b617ba02ec6ab525c71bd67f15"
+		"clienttga"		"3cbd4eabbef34167e876f9191ff7ce39a79e134d"
+		"metacritic_name"		"In Passing"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1570626832"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CelleC Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CelleC Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1571911790"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1172090"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21"
+			"2"		"492"
+			"3"		"19"
+			"4"		"3859"
+			"5"		"1667"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"CelleC Games"
+		"publisher"		"CelleC Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"In Passing"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor\\Unbelievable.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1172091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2295654523207699527"
+					"size"		"5290934815"
+					"download"		"1513734112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"CB0C32A520B1BC5D5C1ADF6B3DC9A9FC"
+					"size"		"067A11646EF58B3CCF3D2878189109F1"
+					"download"		"643396E8BEFC8238715FE3FBEABAF64F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4344417"
+				"timeupdated"		"1572561372"
+			}
+			"beta"
+			{
+				"buildid"		"4344631"
+				"pwdrequired"		"1"
+				"timeupdated"		"1572536652"
+			}
+		}
+	}
+}
