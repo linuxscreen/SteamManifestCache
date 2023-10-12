@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1657880"
+	"common"
+	{
+		"name"		"PBATOUR 23"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"127ab948ec96e80c967e8ca988aa7316d81df6b3"
+		"logo"		"2711318305020dfaf74d94f24cda113808db0946"
+		"logo_small"		"2711318305020dfaf74d94f24cda113808db0946_thumb"
+		"clienttga"		"40ee28c38fcc422eaeb63ce91bbebe6a022ff071"
+		"clienticon"		"1fe342dab6e6bf2496e6961d67aabc033ff3cd9f"
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"koreana"		"header_koreana.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ko,en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"71.62790697674416"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1674527164"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"spogames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"wmb"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_35"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626663705"
+		"community_hub_visible"		"1"
+		"gameid"		"1657880"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"6506"
+			"2"		"5055"
+			"3"		"1698"
+			"4"		"1773"
+			"5"		"5395"
+			"6"		"14139"
+			"7"		"379975"
+			"8"		"4191"
+			"9"		"4195"
+			"10"		"4305"
+			"11"		"3839"
+			"12"		"4175"
+			"13"		"13190"
+			"14"		"1643"
+			"15"		"5350"
+			"16"		"3968"
+			"17"		"4325"
+			"18"		"3859"
+			"19"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"52"
+	}
+	"extended"
+	{
+		"developer"		"spogames"
+		"publisher"		"wmb"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"PBATour23"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PBATour23.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana"
+		"hasdepotsindlc"		"0"
+		"1657881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"872040116253689816"
+					"size"		"1662177678"
+					"download"		"410991200"
+				}
+				"pba23"
+				{
+					"gid"		"2400569925748239875"
+					"size"		"1316928182"
+					"download"		"392410368"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12399045"
+				"timeupdated"		"1696907168"
+			}
+			"pba23"
+			{
+				"buildid"		"10407615"
+				"description"		"new"
+				"timeupdated"		"1674728852"
+			}
+		}
+	}
+}
