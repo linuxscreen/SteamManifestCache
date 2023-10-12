@@ -1,0 +1,231 @@
+"appinfo"
+{
+	"appid"		"2091880"
+	"common"
+	{
+		"name"		"Klaystar"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"9505423761ac4032df34b5e1bd7abffae8b134b4"
+		"clienticon"		"fdad9f28a7aba8ba812da0ae1933f8e909a9c92e"
+		"clienttga"		"16136babff328253c03474369f1f41b2adae1e67"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"98.02325581395348"
+				"height_pct"		"90.27546900973641"
+			}
+		}
+		"store_asset_mtime"		"1663031918"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"David Zeng"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"David Zeng"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1663376995"
+		"community_hub_visible"		"1"
+		"gameid"		"2091880"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1625"
+			"2"		"5379"
+			"3"		"3871"
+			"4"		"4057"
+			"5"		"7250"
+			"6"		"113"
+			"7"		"4182"
+			"8"		"492"
+			"9"		"3877"
+		}
+	}
+	"extended"
+	{
+		"developer"		"David Zeng"
+		"publisher"		"David Zeng"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Klaystar"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"klaystar_windows.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Klaystar"
+				}
+				"description"		"Klaystar"
+			}
+			"1"
+			{
+				"executable"		"Klaystar.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Klaystar"
+				}
+				"description"		"Klaystar"
+			}
+			"2"
+			{
+				"executable"		"klaystar_linux.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Klaystar"
+				}
+				"description"		"Klaystar"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2091882"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8732127897477608713"
+					"size"		"383651424"
+					"download"		"257299104"
+				}
+			}
+		}
+		"2091881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2208828151263776641"
+					"size"		"34285056"
+					"download"		"10372512"
+				}
+			}
+		}
+		"2091883"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5337570210939214371"
+					"size"		"453899640"
+					"download"		"276408112"
+				}
+			}
+		}
+		"2091884"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8013228682189322826"
+					"size"		"35342960"
+					"download"		"10853776"
+				}
+			}
+		}
+		"2091885"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3075249043865244164"
+					"size"		"383651424"
+					"download"		"257299296"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9725282"
+				"timeupdated"		"1665781893"
+			}
+		}
+	}
+}
