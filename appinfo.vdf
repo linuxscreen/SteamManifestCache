@@ -1,0 +1,248 @@
+"appinfo"
+{
+	"appid"		"525780"
+	"common"
+	{
+		"name"		"Doorways: Old Prototype"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienttga"		"78981de35007b2c3eea307a70c657f66709ba6c5"
+		"clienticon"		"939d8108523cd0cbd9291a577a3d4123ff1345d1"
+		"icon"		"a72ae6a88e9bb956981e1e0d9813186d7874ab50"
+		"clienticns"		"7bdec89ac7fae972fd50773013dc3f3567e7bc69"
+		"linuxclienticon"		"e1be263e2647b04463a5d5a1e7a58e7149670163"
+		"logo"		"7952f9565c535e90cb97c7ada94776db0d310e16"
+		"logo_small"		"7952f9565c535e90cb97c7ada94776db0d310e16_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"Doorways: Old Prototype"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1683689578"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Saibot Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Saibot Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Doorways"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1475690400"
+		"community_hub_visible"		"1"
+		"gameid"		"525780"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1667"
+			"2"		"21"
+			"3"		"19"
+			"4"		"4036"
+			"5"		"3839"
+			"6"		"492"
+			"7"		"1625"
+			"8"		"1721"
+			"9"		"4182"
+			"10"		"4166"
+			"11"		"5395"
+			"12"		"5900"
+			"13"		"5716"
+			"14"		"1710"
+			"15"		"7432"
+			"16"		"13782"
+			"17"		"5537"
+			"18"		"29363"
+			"19"		"9541"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Saibot Studios"
+		"publisher"		"Saibot Studios"
+		"homepage"		"http://doorwaysgame.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"538400"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Doorways Old Prototype"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Doorways.exe"
+				"workingdir"		"Doorways_Data"
+				"description"		"Launch Doorways"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Doorways.x86"
+				"workingdir"		"Doorways_Data"
+				"description"		"Launch Doorways"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Doorways.app"
+				"description"		"Launch Doorways"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"525781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4118636017259949990"
+					"size"		"123244793"
+					"download"		"69795680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F36B9135CAB937CF27B5C77E5C1CCD1C"
+					"size"		"5860A6A6E6D9DC36511F58EC59C37BF9"
+					"download"		"48DD30F9FA001C2CC6BA8183A4CCF38F"
+				}
+			}
+		}
+		"525782"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1283450881361215062"
+					"size"		"127888215"
+					"download"		"71402288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F8A1BE47F66EB62FAD067A650C2FD6AE"
+					"size"		"4BB61D52B93F702B613A31303ACC6B4C"
+					"download"		"8D98548461A6D6C4EEEBF0AC8074B494"
+				}
+			}
+		}
+		"525783"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9029552366597026989"
+					"size"		"131209086"
+					"download"		"72553520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3E77BE6C4DAA7D76AA03B4FB966F51E9"
+					"size"		"9511306E3B6F0F2915F2E0792C752B16"
+					"download"		"40489B0D0542C32AFA61E02F745C0377"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3743404"
+				"timeupdated"		"1555608810"
+			}
+			"beta"
+			{
+				"buildid"		"3743404"
+				"pwdrequired"		"1"
+				"timeupdated"		"1555446199"
+			}
+		}
+	}
+}
