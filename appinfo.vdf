@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"1395630"
+	"common"
+	{
+		"name"		"용가리 용용(Cute dragon Yongyong)"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"english"		"Cute dragon Yongyong"
+			"koreana"		"용가리 용용"
+		}
+		"clienttga"		"0671a4b9e1e3ba1b8ab8106a1882b98fc9575905"
+		"clienticon"		"9b48a49a1638dddf6a1fe86b1fbf189dc6810375"
+		"icon"		"89097f376261232a57f669c85b9ce7b6af649805"
+		"linuxclienticon"		"148fd7e9d545dd102386d55d6dbac4304f866dda"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"8c5002c96238daf7355fd56cdb62c17704857d5a"
+		"logo_small"		"8c5002c96238daf7355fd56cdb62c17704857d5a_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+		}
+		"header_image"
+		{
+			"koreana"		"header_koreana.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ko"
+			"library_hero"		"en"
+			"library_logo"		"ko,en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1600472917"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"나대는나"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"나대는나"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1600157640"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1395630"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"9"
+			"2"		"4026"
+			"3"		"5537"
+			"4"		"4182"
+			"5"		"4975"
+			"6"		"1773"
+			"7"		"5160"
+			"8"		"492"
+			"9"		"4726"
+			"10"		"1719"
+			"11"		"1770"
+		}
+	}
+	"extended"
+	{
+		"developer"		"나대는나"
+		"publisher"		"나대는나"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dragon_Yongyong"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dragon_Yongyong.exe"
+				"description"		"Launch"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana"
+		"1395631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2427158025687074119"
+					"size"		"569579473"
+					"download"		"89922160"
+				}
+			}
+		}
+		"workshopdepot"		"1395630"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6721534"
+				"timeupdated"		"1621387382"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"700"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"SavesDir"
+				"pattern"		"Info.Player"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
