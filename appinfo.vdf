@@ -1,0 +1,307 @@
+"appinfo"
+{
+	"appid"		"574070"
+	"common"
+	{
+		"name"		"Space Wars: Interstellar Empires"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticon"		"8428504f646bf2d50a14d27c70a0321f8af1a949"
+		"clienttga"		"1de836777128a350902846569d6bf3858f9c9b62"
+		"icon"		"d3024f68845d391279da5c3d61104140bdf4bc19"
+		"logo"		"76e73779917fbe7e785549c171e0815d7f37b568"
+		"logo_small"		"76e73779917fbe7e785549c171e0815d7f37b568_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"574070_eula_0"
+				"name"		"Space Wars EULA"
+				"url"		"http://store.steampowered.com//eula/574070_eula_0"
+			}
+		}
+		"metacritic_name"		"Space Wars"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"31.19777238690591"
+				"height_pct"		"26.915799432355712"
+			}
+		}
+		"store_asset_mtime"		"1572382509"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Desert Owl Games LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ToHeroes Game Studios LLC"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1512720000"
+		"steam_release_date"		"1512752582"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"574070"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"493"
+			"1"		"113"
+			"2"		"128"
+			"3"		"9"
+			"4"		"1708"
+			"5"		"14139"
+			"6"		"1717"
+			"7"		"492"
+			"8"		"1755"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Desert Owl Games LLC"
+		"publisher"		"ToHeroes Game Studios LLC"
+		"homepage"		"https://www.spacewars.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Space Wars Interstellar Empires"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Spacewars.exe"
+				"arguments"		"-force-glcore -host dev.spacewars.com -port 7000 -url http://dev.spacewars.com/"
+				"description"		"Dev Server (OpenGL Core)"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"Devel"
+				}
+			}
+			"2"
+			{
+				"executable"		"Spacewars.app\\Contents\\MacOS\\Spacewars"
+				"arguments"		"-foce-glcore -host dev.spacewars.com -port 7000 -url http://dev.spacewars.com/"
+				"description"		"Dev Server (OpenGL Core)"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"Devel"
+				}
+			}
+			"4"
+			{
+				"executable"		"Spacewars.exe"
+				"arguments"		"-force-glcore -host game-1.spacewars.com -port 7000 -url https://web.spacewars.com/"
+				"description"		"Live Server (OpenGL Core)"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"5"
+			{
+				"executable"		"Spacewars.app\\Contents\\MacOS\\Spacewars"
+				"arguments"		"-force-glcore -host game-1.spacewars.com -port 7000 -url https://web.spacewars.com/"
+				"description"		"Live Server (OpenGL Core)"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"6"
+			{
+				"executable"		"Spacewars.exe"
+				"arguments"		"-force-d3d11 -host dev.spacewars.com -port 7000 -url http://dev.spacewars.com/"
+				"description"		"Dev Server (DirectX 11)"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"Devel"
+				}
+			}
+			"7"
+			{
+				"executable"		"Spacewars.exe"
+				"arguments"		"-force-vulkan -host dev.spacewars.com -port 7000 -url http://dev.spacewars.com/"
+				"description"		"Dev Server (Vulkan)"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"Devel"
+				}
+			}
+			"8"
+			{
+				"executable"		"Spacewars.exe"
+				"arguments"		"-force-d3d11 -host game-1.spacewars.com -port 7000 -url https://web.spacewars.com/"
+				"description"		"Live Server (DirectX 11)"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"9"
+			{
+				"executable"		"Spacewars.exe"
+				"arguments"		"-force-vulkan -host game-1.spacewars.com -port 7000 -url https://web.spacewars.com/"
+				"description"		"Live Server (Vulkan)"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"10"
+			{
+				"executable"		"Spacewars.app\\Contents\\MacOS\\Spacewars"
+				"arguments"		"-foce-gfx-metal-host dev.spacewars.com -port 7000 -url http://dev.spacewars.com/"
+				"description"		"Dev Server (Metal)"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"Devel"
+				}
+			}
+			"11"
+			{
+				"executable"		"Spacewars.app\\Contents\\MacOS\\Spacewars"
+				"arguments"		"-force-gfx-metal -host game-1.spacewars.com -port 7000 -url https://web.spacewars.com/"
+				"description"		"Live Server (Metal)"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"574071"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2783276332415791257"
+					"size"		"3749954322"
+					"download"		"1506344160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"A565B51C8E1C76B25F08A6E69C71E297"
+					"size"		"C60A1B7D72D95461184DCEB20A3C8098"
+					"download"		"894A5C8FBDFE84BAAAE2F01C7B821D56"
+				}
+			}
+		}
+		"574072"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4090135787910799763"
+					"size"		"3744296792"
+					"download"		"1504686128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"28BC2A11A779A779580FB3BF545638F9"
+					"size"		"79035EB16C269B870A887B7615AB5A75"
+					"download"		"D0F8C7531AF41306511E1E572E2C9F8B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9881333"
+				"timeupdated"		"1668278972"
+			}
+			"devel"
+			{
+				"buildid"		"9881333"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667798790"
+			}
+		}
+	}
+}
