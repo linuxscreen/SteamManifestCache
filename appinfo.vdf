@@ -1,0 +1,192 @@
+"appinfo"
+{
+	"appid"		"781040"
+	"common"
+	{
+		"name"		"Vinhomes Metropolis VR Interior"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"1"
+			}
+		}
+		"logo"		"f93a446b637dfc6ad32bf3c54bda7e3f50091c1e"
+		"logo_small"		"f93a446b637dfc6ad32bf3c54bda7e3f50091c1e_thumb"
+		"icon"		"a4a69f017c941576c7ededb4c0534aef35f37f31"
+		"clienttga"		"380dea7bb93febc28f936cf77763768f9fa09afc"
+		"clienticon"		"c54642ddaa85ae3ea981f60b1f6d803c0e3e4959"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"39.02625656414102"
+				"height_pct"		"85.41666666666666"
+			}
+		}
+		"store_asset_mtime"		"1634634179"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Holomia"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Holomia"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_9"		"1"
+			"category_48"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1531810800"
+		"steam_release_date"		"1532084280"
+		"community_hub_visible"		"1"
+		"gameid"		"781040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"19"
+			"2"		"21978"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Holomia"
+		"publisher"		"Holomia"
+		"homepage"		"https://missionxvr.com/index"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MetropolisVR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MissionX.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Lauch"
+				}
+				"description"		"Lauch"
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"781041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8644744518901873413"
+					"size"		"2153492232"
+					"download"		"1918425312"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7558879"
+				"timeupdated"		"1634637565"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
