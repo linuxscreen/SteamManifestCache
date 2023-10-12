@@ -1,0 +1,285 @@
+"appinfo"
+{
+	"appid"		"2124440"
+	"common"
+	{
+		"name"		"SIC-1"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"34569ef2908d2cd8a38196572d47351a5b10326b"
+		"clienticon"		"20727873d1861a9312bec365fd5b50bf75f270c7"
+		"clienttga"		"9dfa0ec9273f43453d748db2a81406ddbbedd099"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1680048000"
+			"tested_build_id"		"10855924"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.35005834305717"
+				"height_pct"		"82.67632391355971"
+			}
+		}
+		"store_asset_mtime"		"1674103979"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anti-Pattern Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anti-Pattern Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1670020235"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2124440"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5432"
+			"1"		"1664"
+			"2"		"599"
+			"3"		"4094"
+			"4"		"6129"
+			"5"		"7743"
+			"6"		"4004"
+			"7"		"31275"
+			"8"		"4182"
+			"9"		"3878"
+			"10"		"255534"
+			"11"		"4026"
+			"12"		"4252"
+			"13"		"4878"
+			"14"		"5030"
+			"15"		"5502"
+			"16"		"113"
+			"17"		"492"
+			"18"		"9271"
+			"19"		"597"
+		}
+		"review_score"		"7"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Anti-Pattern Games"
+		"publisher"		"Anti-Pattern Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SIC-1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"sic1.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"sic1"
+				"arguments"		"--no-sandbox"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2124443"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8393335170399201406"
+					"size"		"325829057"
+					"download"		"92412304"
+				}
+				"preview"
+				{
+					"gid"		"8393335170399201406"
+					"size"		"325829057"
+					"download"		"92412304"
+				}
+			}
+		}
+		"2124441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5382028986696500066"
+					"size"		"14698896"
+					"download"		"12249216"
+				}
+				"preview"
+				{
+					"gid"		"5382028986696500066"
+					"size"		"14698896"
+					"download"		"12249216"
+				}
+			}
+		}
+		"2124442"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5068547756482977765"
+					"size"		"14387608"
+					"download"		"12165504"
+				}
+				"preview"
+				{
+					"gid"		"5068547756482977765"
+					"size"		"14387608"
+					"download"		"12165504"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11907795"
+				"timeupdated"		"1691903497"
+			}
+			"preview"
+			{
+				"buildid"		"11907795"
+				"description"		"Pre-release testing"
+				"timeupdated"		"1691636132"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"750000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"SIC-1"
+				"pattern"		"cloud.txt"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgConfigHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SIC-1"
+						"replace"		"sic1"
+					}
+				}
+			}
+		}
+	}
+}
