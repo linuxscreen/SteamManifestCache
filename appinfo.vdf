@@ -1,0 +1,184 @@
+"appinfo"
+{
+	"appid"		"1737150"
+	"common"
+	{
+		"name"		"Scarlet and Blank"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"edd4d7ad0db13cb0aeec784677183cecd3b0213c"
+		"logo_small"		"edd4d7ad0db13cb0aeec784677183cecd3b0213c_thumb"
+		"icon"		"e305f0bd7fbb7cd7ea2571132ce1f064878806fb"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"2422c7c64d88d2120ffa561946160d18ca8545cf"
+		"clienttga"		"ec428dc2b7ab397fe87f0232d1b97cfebf316496"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"51.131221719457045"
+				"height_pct"		"97.76917126950207"
+			}
+		}
+		"store_asset_mtime"		"1639719196"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jeliko"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jeliko"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1636076611"
+		"community_hub_visible"		"1"
+		"gameid"		"1737150"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"7250"
+			"2"		"3987"
+			"3"		"5984"
+			"4"		"597"
+			"5"		"4947"
+			"6"		"31275"
+			"7"		"5094"
+			"8"		"6815"
+			"9"		"113"
+			"10"		"1742"
+			"11"		"12095"
+			"12"		"5608"
+			"13"		"3952"
+			"14"		"4166"
+			"15"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Jeliko"
+		"publisher"		"Jeliko"
+		"homepage"		"https://lanuitm.wixsite.com/jeliko/blank-2"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Scarlet and Blank"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Scarlet and Blank.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Scarlet and Blank.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1737151"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1677522167989097233"
+					"size"		"572779513"
+					"download"		"464906752"
+				}
+			}
+		}
+		"1737152"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4692376013602319511"
+					"size"		"300140010"
+					"download"		"234767312"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7899805"
+				"timeupdated"		"1639718487"
+			}
+		}
+	}
+}
