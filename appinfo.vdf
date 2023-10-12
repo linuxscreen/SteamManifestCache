@@ -1,0 +1,219 @@
+"appinfo"
+{
+	"appid"		"1306990"
+	"common"
+	{
+		"name"		"Wanderlust: Bangkok Prelude"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"clienttga"		"f1f7a756d89ba8b4811e315659fdddb22ba0280a"
+		"clienticon"		"1f4a8d2505ec9a3b54db4e759612d233c9ab38cd"
+		"icon"		"d57b9961773f322ce9c9d3df0c7191904d49c1e0"
+		"clienticns"		"b2f81227605b45e84d8c44a5a2b8aa2820c0e713"
+		"logo"		"12fc1b4a8dc0db3c9b6937bf931c889af04f2b93"
+		"logo_small"		"12fc1b4a8dc0db3c9b6937bf931c889af04f2b93_thumb"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.66329469293755"
+				"height_pct"		"86.45833333333333"
+			}
+		}
+		"store_asset_mtime"		"1643194179"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Different Tales"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Different Tales"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Wanderlust"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1590681725"
+		"community_hub_visible"		"1"
+		"gameid"		"1306990"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21"
+			"2"		"492"
+			"3"		"597"
+			"4"		"1654"
+			"5"		"1742"
+			"6"		"3799"
+			"7"		"3871"
+			"8"		"4166"
+			"9"		"4175"
+			"10"		"4305"
+			"11"		"5094"
+			"12"		"9592"
+			"13"		"9994"
+			"14"		"11014"
+			"15"		"15339"
+			"16"		"31275"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Different Tales"
+		"publisher"		"Different Tales"
+		"homepage"		"http://differenttales.com/wanderlust/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Wanderlust Bangkok Prelude"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bangkok Prelude.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Bangkok Prelude.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Bangkok Prelude"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1306991"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6633259461912295387"
+					"size"		"475142637"
+					"download"		"217257312"
+				}
+			}
+		}
+		"1306992"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4147514232288685930"
+					"size"		"520307097"
+					"download"		"222058000"
+				}
+			}
+		}
+		"1306993"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1551372747821955544"
+					"size"		"544985261"
+					"download"		"235814464"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5009103"
+				"timeupdated"		"1589183131"
+			}
+		}
+	}
+}
