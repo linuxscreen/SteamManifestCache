@@ -1,0 +1,197 @@
+"appinfo"
+{
+	"appid"		"1365590"
+	"common"
+	{
+		"name"		"Timewalk Tower Defense"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"b66a6e0952308a41eca78299312cdf08700e4abe"
+		"logo_small"		"b66a6e0952308a41eca78299312cdf08700e4abe_thumb"
+		"icon"		"bdcdfc94afb1879fdad6456b5b2692c35da82f82"
+		"clienttga"		"9dcbbe0409a590dedd5a99231ca5d8d8e493bfd9"
+		"clienticon"		"48eacfc07ebe744e048d5c8f6ff57ea9a0c16f47"
+		"clienticns"		"d34415143dc74363c6a38741b9b2f4097fe9ebf8"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1365590_eula_0"
+				"name"		"Timewalk Tower Defense EULA"
+				"url"		"https://store.steampowered.com//eula/1365590_eula_0"
+				"version"		"3"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"63.185530921820316"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1609302792"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Maxeymus Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Maxeymus Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1609488000"
+		"steam_release_date"		"1609488000"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1365590"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1645"
+			"2"		"3814"
+			"3"		"1732"
+			"4"		"10679"
+			"5"		"1773"
+			"6"		"1643"
+			"7"		"4191"
+			"8"		"1697"
+			"9"		"4791"
+			"10"		"19"
+			"11"		"5030"
+			"12"		"5160"
+			"13"		"3964"
+			"14"		"4252"
+			"15"		"1684"
+			"16"		"4168"
+			"17"		"4182"
+			"18"		"1681"
+			"19"		"5125"
+		}
+		"review_score"		"7"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Maxeymus Games"
+		"publisher"		"Maxeymus Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Timewalk Tower Defense"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TWTD_1.01/TimewalkTowerDefense.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1365591"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"433584067425717497"
+					"size"		"681479575"
+					"download"		"247553104"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6034494"
+				"timeupdated"		"1609702625"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"MaxeymusGames\\TimewalkTowerDefense"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"MaxeymusGames\\TimewalkTowerDefense"
+						"replace"		"unity.MaxeymusGames.TimewalkTowerDefense"
+					}
+				}
+			}
+		}
+	}
+}
