@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"1705760"
+	"common"
+	{
+		"name"		"Payload"
+		"type"		"Game"
+		"icon"		"7c69e99a3c44cb80582fc5ee4872f3b7bcd7b299"
+		"logo"		"a9f4a9a74cd4de42694c9689c93c975df9ffeab7"
+		"logo_small"		"a9f4a9a74cd4de42694c9689c93c975df9ffeab7_thumb"
+		"linuxclienticon"		"ebc62ca2c6685ea3329d9cfba53b0e2a9b8f48b0"
+		"clienticns"		"68ee305494b4b9d2c8267eb436a2b5040651afc5"
+		"clienttga"		"d6b3060ab3cd9bb190e24cc573f08c6b05a3f70b"
+		"clienticon"		"305fa4f42546d044dd77d2dda4c4c8b8396f72a4"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658534400"
+			"tested_build_id"		"7820395"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1630076858"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Black Banshee Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Black Banshee Studios"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1636145220"
+		"community_hub_visible"		"1"
+		"gameid"		"1705760"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"6129"
+			"2"		"4115"
+			"3"		"1742"
+			"4"		"3854"
+			"5"		"4094"
+			"6"		"7926"
+			"7"		"4845"
+			"8"		"4598"
+			"9"		"1697"
+			"10"		"7743"
+			"11"		"4252"
+			"12"		"13190"
+			"13"		"3942"
+			"14"		"7569"
+			"15"		"14139"
+			"16"		"3871"
+			"17"		"4191"
+			"18"		"9"
+			"19"		"5372"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Black Banshee Studios"
+		"publisher"		"Black Banshee Studios"
+		"homepage"		"https://www.blackbansheestudios.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Payload"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Payload.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1705761"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"918397180401188575"
+					"size"		"347581658"
+					"download"		"133234240"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7820395"
+				"timeupdated"		"1638504669"
+			}
+		}
+	}
+}
