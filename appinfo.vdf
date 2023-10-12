@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"2528730"
+	"common"
+	{
+		"name"		"NH Bid at MSCYPAA: The Game"
+		"type"		"Game"
+		"icon"		"ad37863d99be57dd4f30862d2bff432f657e7114"
+		"clienticon"		"fd4af8ee865447c392566bbfb2b10926d7d2f8aa"
+		"clienttga"		"74ecaed385e8380bdd42f8fb8c42f131865956f3"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1695772800"
+			"tested_build_id"		"11913192"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.419385601249587"
+				"height_pct"		"53.79524619007341"
+			}
+		}
+		"store_asset_mtime"		"1691685093"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Matt Kostandin"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Matt Kostandin"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"NH Bid for NECYPAA"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1692293779"
+		"community_hub_visible"		"1"
+		"gameid"		"2528730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"1698"
+			"3"		"5900"
+			"4"		"3834"
+			"5"		"14139"
+			"6"		"3871"
+			"7"		"4726"
+			"8"		"3964"
+			"9"		"1719"
+			"10"		"3993"
+			"11"		"7481"
+			"12"		"7250"
+			"13"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Matt Kostandin"
+		"publisher"		"Matt Kostandin"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"NH Bid at MSCYPAA The Game"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"NH Bid at MSCYPAA 1.0.0.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"2528731"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6198076142965225853"
+					"size"		"61347018"
+					"download"		"62145664"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11913192"
+				"timeupdated"		"1691684753"
+			}
+		}
+	}
+}
