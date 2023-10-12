@@ -1,0 +1,222 @@
+"appinfo"
+{
+	"appid"		"1459660"
+	"common"
+	{
+		"name"		"Become a Gladiator VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"dc601a9808bfcebcf042c0bd54777d9585a3e972"
+		"logo_small"		"dc601a9808bfcebcf042c0bd54777d9585a3e972_thumb"
+		"icon"		"f69fac0a7f440379de1f62fa86a8e6ae6a320582"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"b77bfe09f69fdb0b33ce00ce0daa02e732e23294"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.322580645161295"
+				"height_pct"		"79.16666666666669"
+			}
+		}
+		"store_asset_mtime"		"1661017875"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VRillAR"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VRillAR"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1661212493"
+		"community_hub_visible"		"1"
+		"gameid"		"1459660"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1775"
+			"2"		"3859"
+			"3"		"1743"
+			"4"		"6506"
+			"5"		"1646"
+			"6"		"4191"
+			"7"		"29363"
+			"8"		"3839"
+			"9"		"21978"
+			"10"		"4175"
+			"11"		"1662"
+			"12"		"4342"
+			"13"		"3987"
+			"14"		"701"
+			"15"		"1647"
+			"16"		"4835"
+			"17"		"4667"
+		}
+		"review_score"		"4"
+		"review_percentage"		"30"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"VRillAR"
+		"publisher"		"VRillAR"
+		"homepage"		"https://vrillargames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Become a Gladiator VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Gladiator.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1459661"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"381392769763213905"
+					"size"		"3104023438"
+					"download"		"1392489888"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9376378"
+				"timeupdated"		"1661325252"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"60000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Gladiator/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
