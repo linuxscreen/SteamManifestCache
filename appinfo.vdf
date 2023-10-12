@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"1876540"
+	"common"
+	{
+		"name"		"Loopback"
+		"type"		"Game"
+		"icon"		"4ee6fff6c841b7ada6652c55625f8184f398fe73"
+		"clienttga"		"4774889569a562249df26b039bdde0b062f26f3b"
+		"clienticon"		"353d9becb57da4b69497160470a0a3abc2f04b94"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.255813953488385"
+				"height_pct"		"74.54286392780813"
+			}
+		}
+		"store_asset_mtime"		"1648151832"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cold Light Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cold Light Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_18"		"1"
+			"category_9"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1653087780"
+		"community_hub_visible"		"1"
+		"gameid"		"1876540"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"1773"
+			"2"		"4004"
+			"3"		"3871"
+			"4"		"3964"
+			"5"		"4255"
+			"6"		"117648"
+			"7"		"3841"
+			"8"		"4182"
+			"9"		"492"
+			"10"		"19"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Cold Light Games"
+		"publisher"		"Cold Light Games"
+		"homepage"		"https://www.coldlightgames.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Loopback"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Loopback.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Loopback.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"5"
+	}
+	"depots"
+	{
+		"1876541"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4037807241401634372"
+					"size"		"189714044"
+					"download"		"104115920"
+				}
+			}
+		}
+		"1876542"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2429590794448410388"
+					"size"		"206989295"
+					"download"		"108124512"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9216553"
+				"timeupdated"		"1659106845"
+			}
+		}
+	}
+}
