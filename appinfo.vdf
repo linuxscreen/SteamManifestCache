@@ -1,0 +1,241 @@
+"appinfo"
+{
+	"appid"		"1847900"
+	"common"
+	{
+		"name"		"Synchronizacja"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"24f3f00b15aad5c3d841a7446637bc58d20faea7"
+		"logo_small"		"24f3f00b15aad5c3d841a7446637bc58d20faea7_thumb"
+		"icon"		"af9d91c09b99bc4ca8e1210f566c8f22a0c7bd9c"
+		"clienticon"		"c438143d47ce984fcf81d5b9262c510552e1cbf6"
+		"clienttga"		"f43f7879019f323d8f066a1d9480db258be2289c"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"polish"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1683590400"
+			"tested_build_id"		"11127021"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"14.270817704426108"
+				"height_pct"		"64.32145307264045"
+			}
+		}
+		"store_asset_mtime"		"1641494656"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Chaos Group Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Chaos Group Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642788212"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1847900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"21"
+			"2"		"3942"
+			"3"		"4486"
+			"4"		"1755"
+			"5"		"15277"
+			"6"		"10679"
+			"7"		"6815"
+			"8"		"1751"
+			"9"		"4562"
+			"10"		"4195"
+			"11"		"4094"
+			"12"		"1697"
+			"13"		"4182"
+			"14"		"1714"
+			"15"		"4085"
+			"16"		"3871"
+			"17"		"5984"
+			"18"		"113"
+			"19"		"31275"
+		}
+		"review_score"		"7"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Chaos Group Games"
+		"publisher"		"Chaos Group Games"
+		"homepage"		"https://chaosgroupgames.itch.io/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Synchronizacja"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Synchronizacja.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Synchronizacja.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Synchronizacja.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamdecktouchscreen"		"5"
+		"steamcontrollerconfigdetails"
+		{
+			"2969794682"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"polish"
+		"hasdepotsindlc"		"0"
+		"1847901"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5095262525095664251"
+					"size"		"1482229558"
+					"download"		"1333004176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11127021"
+				"timeupdated"		"1682888424"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
