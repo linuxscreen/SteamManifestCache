@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"1534950"
+	"common"
+	{
+		"name"		"Rushmore"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"88eae4b311b36301a730e8bb30c873cd2d1e302b"
+		"clienticon"		"8a83ab2fb13b4c8e9ae36063a338b4cfaa5fb72c"
+		"icon"		"cd3bfbe15c9b4e374d017799e0fca04ef61e489c"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"34.01400233372229"
+				"height_pct"		"60.48444549988131"
+			}
+		}
+		"store_asset_mtime"		"1686287689"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Solar Pixel Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ninth Dimension Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1686326901"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1534950"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1774"
+			"2"		"1646"
+			"3"		"1719"
+			"4"		"4136"
+			"5"		"620519"
+			"6"		"3814"
+			"7"		"13190"
+			"8"		"1673"
+			"9"		"4295"
+			"10"		"3993"
+			"11"		"4255"
+			"12"		"4158"
+			"13"		"4115"
+			"14"		"4305"
+			"15"		"4252"
+			"16"		"1697"
+			"17"		"4191"
+			"18"		"3942"
+			"19"		"6730"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Solar Pixel Games"
+		"publisher"		"Ninth Dimension Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Rushmore"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor\\Rushmore.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1534951"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6159103991034483424"
+					"size"		"4021868294"
+					"download"		"518415920"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11430023"
+				"timeupdated"		"1686289433"
+			}
+		}
+	}
+}
