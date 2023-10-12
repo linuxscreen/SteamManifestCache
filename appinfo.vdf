@@ -1,0 +1,165 @@
+"appinfo"
+{
+	"appid"		"1115380"
+	"common"
+	{
+		"name"		"BallBoi"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"381dbd2470366c5c16787b36d81f6c183de7fc30"
+		"logo_small"		"381dbd2470366c5c16787b36d81f6c183de7fc30_thumb"
+		"icon"		"f6656194169477b6313fddc8ed2c85dc64888c3f"
+		"clienttga"		"037648dcdf04eacd692e54e05e2910d5ea618a26"
+		"linuxclienticon"		"cc6d51b4144c89eda9240d71aca2d7527969456c"
+		"clienticns"		"04f5562fb5ddcb9838c9094d90e3f6d822322716"
+		"clienticon"		"c8a095f066f0e8bbdc93bf13e7f20b6892ac5b5c"
+		"metacritic_name"		"BallBoi"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1563923892"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Daniel Fuller"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Cameron Beattie"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"None"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"None"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1565290086"
+		"community_hub_visible"		"1"
+		"gameid"		"1115380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"597"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Daniel Fuller"
+		"publisher"		"None"
+		"homepage"		"https://djfuller14.wixsite.com/ballboigame"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BallBoi"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BALLBOI.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1115381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3934940812699809578"
+					"size"		"7690266494"
+					"download"		"214243168"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4028541"
+				"timeupdated"		"1563578053"
+			}
+		}
+	}
+}
