@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1262500"
+	"common"
+	{
+		"name"		"Mirastell"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"6181ca8d1c04703c5e08eeb0fd415739e2809ce4"
+		"logo_small"		"6181ca8d1c04703c5e08eeb0fd415739e2809ce4_thumb"
+		"icon"		"e04df4060fc53d82ce9818a1da958342b760fb60"
+		"clienticon"		"b86d25ccaabd7622ea703a3f8392ddab97f3375c"
+		"clienttga"		"a0710929e5558e51bd3fd2778a9519ff460e74a9"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"80.41072767309743"
+				"height_pct"		"94.44444444444446"
+			}
+		}
+		"store_asset_mtime"		"1626388757"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Julius Condemi"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Trexus183, LLC"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Mirastell"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629696476"
+		"community_hub_visible"		"1"
+		"gameid"		"1262500"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"122"
+			"3"		"492"
+			"4"		"4231"
+			"5"		"17305"
+			"6"		"3871"
+			"7"		"3964"
+			"8"		"4166"
+			"9"		"3942"
+			"10"		"1755"
+			"11"		"4182"
+			"12"		"1677"
+			"13"		"4885"
+			"14"		"6971"
+			"15"		"1742"
+			"16"		"4325"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Julius Condemi"
+		"publisher"		"Trexus183, LLC"
+		"homepage"		"https://mirastell.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mirastell"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mirastell.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1262501"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2140584178780186103"
+					"size"		"1157431820"
+					"download"		"503085824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test_branch"
+				{
+					"gid"		"91DF80DBFFEC742827C85D6903AD5865"
+					"size"		"F939BB17F94D44166A5F0D7503AF0E59"
+					"download"		"FD3339963F81C85F101C5979E919D6B6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7193278"
+				"timeupdated"		"1629056976"
+			}
+			"internal_test_branch"
+			{
+				"buildid"		"7193278"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629056968"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"gameData/saveData"
+				"pattern"		"*.json"
+			}
+		}
+	}
+}
