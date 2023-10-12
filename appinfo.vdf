@@ -1,0 +1,225 @@
+"appinfo"
+{
+	"appid"		"1343040"
+	"common"
+	{
+		"name"		"Blocky Ball"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"e7d649b88761fc1a640a44c26517ca152b9dae9d"
+		"clienticon"		"f15d7458258bc4783ed15d7c55881f3aab85e556"
+		"clienttga"		"24b4fe5b90a5e77b088be7ed620a87daeaf6e49a"
+		"logo"		"b57e5d5d228dd444780ac6a74cdbcbeb1716db60"
+		"logo_small"		"b57e5d5d228dd444780ac6a74cdbcbeb1716db60_thumb"
+		"linuxclienticon"		"b89aa01f43434398a5130f22416ff46e9b17f082"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1659313736"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lange Studios LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lange Studios LLC"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"18"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1616767169"
+		"community_hub_visible"		"1"
+		"gameid"		"1343040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"701"
+			"2"		"1775"
+			"3"		"4975"
+			"4"		"9"
+			"5"		"3859"
+			"6"		"3843"
+			"7"		"1684"
+			"8"		"1773"
+			"9"		"113"
+			"10"		"4736"
+			"11"		"5379"
+			"12"		"4166"
+			"13"		"4136"
+			"14"		"15045"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Lange Studios LLC"
+		"publisher"		"Lange Studios LLC"
+		"homepage"		"https://www.langestudios.com/blocky-ball"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Blocky Ball"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BlockyBall.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"BlockyBall.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1343041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6931813433929514682"
+					"size"		"331848175"
+					"download"		"87571264"
+				}
+				"beta"
+				{
+					"gid"		"967339143117819954"
+					"size"		"332622691"
+					"download"		"87558400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev1"
+				{
+					"gid"		"AE6737060BB7BD776D28F244F89F162D"
+					"size"		"02DD6D8AAE73C8AE6C6293B636166931"
+					"download"		"C3AD33E309C1C0FE0FD059105DBCA194"
+				}
+			}
+		}
+		"1343042"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1811753734808461107"
+					"size"		"370496849"
+					"download"		"95030736"
+				}
+				"beta"
+				{
+					"gid"		"6988093460436941688"
+					"size"		"359547279"
+					"download"		"91634704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev1"
+				{
+					"gid"		"182B724D9C1E7436A482C2BA187E1F31"
+					"size"		"79D5CE7038B28BC4CB5A8B1EE95FAD7B"
+					"download"		"42E9DEA22FCBA47BD2205BB298D3AD2B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11401211"
+				"timeupdated"		"1686086008"
+			}
+			"beta"
+			{
+				"buildid"		"10244955"
+				"timeupdated"		"1672695697"
+			}
+			"dev1"
+			{
+				"buildid"		"11401211"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686078916"
+			}
+		}
+	}
+}
