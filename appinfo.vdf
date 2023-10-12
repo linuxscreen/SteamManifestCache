@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"1454140"
+	"common"
+	{
+		"name"		"SUPERCHICOS"
+		"type"		"Game"
+		"logo"		"82c6236ddf4f60681dbc37f363b060b2eacbbfff"
+		"logo_small"		"82c6236ddf4f60681dbc37f363b060b2eacbbfff_thumb"
+		"icon"		"1bf0a78354a05f8b609362a33af3a1d457750e48"
+		"clienttga"		"fd3cc8fdf2d38bbfcea9ffcc274cc3beccabdc84"
+		"clienticon"		"e163d97611ee274c32f9c522ab4e7e82480c103c"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"latam"		"capsule_231x87_latam.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"latam"		"header_latam.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,es-419"
+			"library_hero"		"en,es-419"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"58.88324838693495"
+				"height_pct"		"76.45113768225622"
+			}
+		}
+		"store_asset_mtime"		"1666984563"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Waraní Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Niño Emprendedor SRL"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1606204800"
+		"steam_release_date"		"1606215000"
+		"community_hub_visible"		"1"
+		"gameid"		"1454140"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"13782"
+			"2"		"4106"
+			"3"		"4191"
+			"4"		"1697"
+			"5"		"1036"
+			"6"		"4695"
+			"7"		"113"
+			"8"		"492"
+			"9"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Waraní Studios"
+		"publisher"		"Niño Emprendedor SRL"
+		"homepage"		"https://waranistudios.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Superchicos"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"SUPERCHICOS.exe"
+				"description"		"Play Superchicos"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"SUPERCHICOS-Mac-Shipping.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1454141"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3412206876924836186"
+					"size"		"427215379"
+					"download"		"221769552"
+				}
+			}
+		}
+		"1454142"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7042659826620010485"
+					"size"		"606556408"
+					"download"		"192848000"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12060282"
+				"timeupdated"		"1693322808"
+			}
+		}
+	}
+}
