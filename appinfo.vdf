@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"632730"
+	"common"
+	{
+		"name"		"Base Defense"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"2c3ccd318290453e0436a56bb6eb2d2de357908a"
+		"clienttga"		"55fa9670a1137e752ec516ce38a54e8eda4e6cf2"
+		"icon"		"26710ab9a92d397bdda218963e32d6d2047fd83a"
+		"logo"		"e39dc5c5f1ec5b98b5b489f5b4f108c36b61b6af"
+		"logo_small"		"e39dc5c5f1ec5b98b5b489f5b4f108c36b61b6af_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Base Defense"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.63055017882053"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668176136"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PLut"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PLut"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1511164800"
+		"steam_release_date"		"1511193611"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"632730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"122"
+			"3"		"4345"
+			"4"		"4667"
+			"5"		"5348"
+			"6"		"1662"
+			"7"		"1685"
+			"8"		"1663"
+			"9"		"4026"
+			"10"		"3859"
+			"11"		"7332"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"requiredappid"		"70"
+		"isfreeapp"		"1"
+		"gamedir"		"bdef"
+		"serverbrowsername"		"Base Defense"
+		"developer"		"PLut"
+		"publisher"		"PLut"
+		"homepage"		"https://www.moddb.com/mods/b-def"
+	}
+	"config"
+	{
+		"installdir"		"Base Defense"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher.exe"
+				"description"		"Launch Base Defense"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"632731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5663636144444181763"
+					"size"		"344578243"
+					"download"		"161661216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F6902E77535DC532D57D82F2BFF05555"
+					"size"		"4A14CFD98B1B1058B3A1397041B4841E"
+					"download"		"0C61CB0B5076956D64F521F621BBA3FC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9918282"
+				"timeupdated"		"1668175584"
+			}
+			"beta"
+			{
+				"buildid"		"9918282"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668175280"
+			}
+		}
+	}
+}
