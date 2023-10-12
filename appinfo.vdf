@@ -1,0 +1,134 @@
+"appinfo"
+{
+	"appid"		"1023340"
+	"common"
+	{
+		"name"		"Radiant Ascent"
+		"type"		"Application"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+			"standing"		"1"
+			"seated"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"371f4ab9564cbc5b2fbf107997542c2f17f12435"
+		"logo_small"		"371f4ab9564cbc5b2fbf107997542c2f17f12435_thumb"
+		"icon"		"42f9cb30deca2a5e4b7ea4ff86faf569e829e6a5"
+		"clienticon"		"4b07e05fa024eeadff877c6a7bba3f3b4bd0f77b"
+		"clienttga"		"6bfac6a923e5f2a2bdca39d3e29eb355a69f0451"
+		"openvrsupport"		"1"
+		"openvr_action_manifest_path"		"actions.json"
+		"metacritic_name"		"Radiant Ascent"
+		"nokeyboardmouse"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1559548825"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"More Pockets"
+			}
+		}
+		"primary_genre"		"53"
+		"genres"
+		{
+			"0"		"53"
+			"1"		"54"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1563889787"
+		"community_hub_visible"		"1"
+		"gameid"		"1023340"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"84"
+			"1"		"493"
+			"2"		"1036"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"More Pockets"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Radiant Ascent VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"copy.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1023341"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4360791249792171201"
+					"size"		"17599649053"
+					"download"		"17134769744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4071435"
+				"timeupdated"		"1564791530"
+			}
+		}
+	}
+}
