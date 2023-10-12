@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"1131540"
+	"common"
+	{
+		"name"		"My Light In The Dark"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"db7ad6bcef1fec13139fa36054acd5b06d4b82c1"
+		"clienttga"		"0b6f13f6740faff0ff45950e1e58f890ed5a6cc3"
+		"icon"		"959076ecc8b9bf3f94f80053b07ad94db4e834c2"
+		"logo"		"90fa01c302eff7f28ec719c2313c0c28991f5e64"
+		"logo_small"		"90fa01c302eff7f28ec719c2313c0c28991f5e64_thumb"
+		"metacritic_name"		"Light In The Dark"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"77.96352685790241"
+			}
+		}
+		"store_asset_mtime"		"1625236179"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kisuarts"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kisuarts"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1509692400"
+		"steam_release_date"		"1566579780"
+		"community_hub_visible"		"1"
+		"gameid"		"1131540"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"5577"
+			"2"		"3871"
+			"3"		"4234"
+			"4"		"4342"
+			"5"		"3964"
+			"6"		"1698"
+			"7"		"1664"
+			"8"		"3834"
+			"9"		"1667"
+			"10"		"1721"
+			"11"		"4004"
+			"12"		"4166"
+			"13"		"5608"
+			"14"		"7208"
+			"15"		"4182"
+			"16"		"1742"
+			"17"		"5900"
+			"18"		"5186"
+			"19"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Kisuarts"
+		"publisher"		"Kisuarts"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"My Light In The Dark"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1131541"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8725553549001518155"
+					"size"		"336892896"
+					"download"		"215700224"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6974509"
+				"timeupdated"		"1625305406"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000"
+		"maxnumfiles"		"12"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"www/save"
+				"pattern"		"*.rpgsave"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
