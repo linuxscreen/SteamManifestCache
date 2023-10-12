@@ -1,0 +1,286 @@
+"appinfo"
+{
+	"appid"		"790750"
+	"common"
+	{
+		"name"		"Stryker"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"97672d3ec4bfc2f2c202340f08fb61a8686068bd"
+		"logo_small"		"97672d3ec4bfc2f2c202340f08fb61a8686068bd_thumb"
+		"clienttga"		"332ca94024a332a5d3d19f23366de3cc37dfb28c"
+		"clienticon"		"6c0b49cdc5287d2372943683f5d9f547099e9867"
+		"icon"		"05b5540edaf302edc303b499c5fd30590378d540"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1689292800"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"oVRshot"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1640145704"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Frozen Arrow Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Outrun Digital"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_2"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1541750400"
+		"steam_release_date"		"1541775060"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"790750"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"5547"
+			"1"		"620519"
+			"2"		"1663"
+			"3"		"13382"
+			"4"		"1775"
+			"5"		"3878"
+			"6"		"1774"
+			"7"		"1773"
+			"8"		"4747"
+			"9"		"15954"
+			"10"		"3839"
+			"11"		"21978"
+			"12"		"19"
+			"13"		"597"
+			"14"		"5030"
+			"15"		"5752"
+			"16"		"1685"
+			"17"		"3859"
+			"18"		"3843"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Frozen Arrow Entertainment"
+		"publisher"		"Outrun Digital"
+		"homepage"		"https://twitter.com/oVRshotGame"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"oVRshot"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"oVRshot.exe"
+				"arguments"		"-vrmode openvr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"oVRshot.exe"
+				"arguments"		"-vrmode oculus"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"790752"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4675656660348660329"
+					"size"		"2541440153"
+					"download"		"530208048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"711BB4C7D47311A44AA653FA5267B93C"
+					"size"		"CE2617D22E0CBBD05284983F13833A8A"
+					"download"		"3A38BE579312BA04160D218076017C0F"
+				}
+				"internal_demo"
+				{
+					"gid"		"65C79EE1B6D23EF1D1D957188EE25D96"
+					"size"		"5F8DE21EFE8B19E793A912BC5CC35EEE"
+					"download"		"B8D1E602F1352695FC6E533F8BB9CBA6"
+				}
+				"mapbeta"
+				{
+					"gid"		"175D3DDB5D4E7AE4A4C8D2CBFE1EE345"
+					"size"		"4B8454500DFD3FCA5700E48272355A56"
+					"download"		"93FD97D6F515E8E531D1F1F7B64B445E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3292813"
+				"timeupdated"		"1541771438"
+			}
+			"beta"
+			{
+				"buildid"		"11310424"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684962078"
+			}
+			"internal_demo"
+			{
+				"buildid"		"9538492"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663455037"
+			}
+			"mapbeta"
+			{
+				"buildid"		"10136937"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670933423"
+			}
+		}
+	}
+}
