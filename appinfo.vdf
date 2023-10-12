@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"1909450"
+	"common"
+	{
+		"name"		"Colony Cephea"
+		"type"		"Game"
+		"icon"		"158db92cc253ebe9ec574ccc9d6e548871bf611a"
+		"clienttga"		"96f106bc1e6c3fab4c3c83b4f44e3f2b54a5c8ff"
+		"clienticon"		"4924ad64cc7f914c4793b44208f5100edc1547a4"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"96.26604434072345"
+				"height_pct"		"73.93616910262323"
+			}
+		}
+		"store_asset_mtime"		"1677197414"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DocksonWedge"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DocksonWedge"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678929899"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1909450"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"1721"
+			"2"		"3942"
+			"3"		"7432"
+			"4"		"4791"
+			"5"		"4094"
+			"6"		"21"
+			"7"		"4106"
+			"8"		"4166"
+			"9"		"3871"
+			"10"		"16598"
+			"11"		"492"
+			"12"		"4758"
+			"13"		"7250"
+			"14"		"4182"
+			"15"		"4295"
+			"16"		"1714"
+			"17"		"1710"
+			"18"		"1755"
+			"19"		"3978"
+		}
+	}
+	"extended"
+	{
+		"developer"		"DocksonWedge"
+		"publisher"		"DocksonWedge"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Colony_Cephea"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"colonycephea.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"colonycephea.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1909451"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2625069613462734421"
+					"size"		"177356076"
+					"download"		"131986224"
+				}
+			}
+		}
+		"1909452"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4439174630564602271"
+					"size"		"182501213"
+					"download"		"133356176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10795071"
+				"timeupdated"		"1679060557"
+			}
+		}
+	}
+}
