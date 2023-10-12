@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1062100"
+	"common"
+	{
+		"name"		"HaberDashers"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"e9bd9aafc337890099388a80eb66865e0f5d8da0"
+		"logo_small"		"e9bd9aafc337890099388a80eb66865e0f5d8da0_thumb"
+		"icon"		"e7933332f51e8207fa21727161b6dd0a3c4ac941"
+		"clienttga"		"8bd54f50f9620f72e491ca7e448e0dbb81b7667b"
+		"clienticon"		"473372183c8d40d3961f99ac22bbc41ff5c0dfef"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1062100_eula_0"
+				"name"		"HaberDashers EULA"
+				"url"		"https://store.steampowered.com//eula/1062100_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1588786416"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SMU Guildhall"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SMU Guildhall"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"TGP2"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"9"
+		}
+		"category"
+		{
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1590562800"
+		"steam_release_date"		"1590589899"
+		"community_hub_visible"		"1"
+		"gameid"		"1062100"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"113"
+			"2"		"597"
+			"3"		"492"
+			"4"		"7368"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"SMU Guildhall"
+		"publisher"		"SMU Guildhall"
+		"homepage"		"https://guildhall.smu.edu"
+		"gamemanualurl"		"https://store.steampowered.com/manual/1062100/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"HaberDashers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HaberDashers.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1062101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4888477793314179990"
+					"size"		"1492677454"
+					"download"		"372264912"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4990762"
+				"timeupdated"		"1588781134"
+			}
+		}
+	}
+}
