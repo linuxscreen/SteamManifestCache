@@ -1,0 +1,219 @@
+"appinfo"
+{
+	"appid"		"1360040"
+	"common"
+	{
+		"name"		"uVolley"
+		"type"		"Game"
+		"icon"		"16127b40337d973fb26ee73d35c52ac889d03605"
+		"logo"		"eff28d4e540dad961599ab0b7c11223010220143"
+		"logo_small"		"eff28d4e540dad961599ab0b7c11223010220143_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"16c5f79b68522b48886bfe21082f8985c4e40291"
+		"controllervr"
+		{
+			"xinput"		"1"
+			"kbm"		"1"
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+		}
+		"releasestate"		"released"
+		"clienttga"		"45d8f6e4cb587e96ef18aec6c1f56757335fb853"
+		"openvrsupport"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.280669405997955"
+				"height_pct"		"50.200332601550656"
+			}
+		}
+		"store_asset_mtime"		"1670013795"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nick"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IElectric"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_47"		"1"
+			"category_37"		"1"
+			"category_48"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1595660340"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1360040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"5055"
+			"2"		"4191"
+			"3"		"3839"
+			"4"		"21978"
+			"5"		"5350"
+			"6"		"9204"
+			"7"		"1775"
+			"8"		"5711"
+			"9"		"1685"
+			"10"		"492"
+			"11"		"3841"
+			"12"		"3859"
+			"13"		"4182"
+			"14"		"7368"
+			"15"		"113"
+			"16"		"847164"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Nick"
+		"publisher"		"IElectric"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"uVolley"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"uVolley.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"uVolley.exe"
+				"arguments"		" -VR"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"1360041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7460780460784288903"
+					"size"		"1074278163"
+					"download"		"407575616"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10042285"
+				"timeupdated"		"1670011749"
+			}
+		}
+	}
+}
