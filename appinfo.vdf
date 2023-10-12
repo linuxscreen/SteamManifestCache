@@ -1,0 +1,245 @@
+"appinfo"
+{
+	"appid"		"1632770"
+	"common"
+	{
+		"name"		"Star Apprentice: Magical Murder Mystery"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"38c4e5102b53cc0b31034d20dad122765db1b5c8"
+		"logo_small"		"38c4e5102b53cc0b31034d20dad122765db1b5c8_thumb"
+		"icon"		"2e18e69d92a67022af9018648cf54c6d50da5e29"
+		"clienttga"		"8944a9ff640bde2b8050db88d1997901ec3ed40c"
+		"clienticon"		"1981c9dbb56385192511201d681244cd4bbfcf45"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1623893985"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Will-o-Works"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Will-o-Works"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Star Apprentice"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1625810413"
+		"community_hub_visible"		"1"
+		"gameid"		"1632770"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4885"
+			"1"		"5613"
+			"2"		"3799"
+			"3"		"4085"
+			"4"		"3964"
+			"5"		"5716"
+			"6"		"7208"
+			"7"		"8369"
+			"8"		"4726"
+			"9"		"1742"
+			"10"		"6129"
+			"11"		"4057"
+			"12"		"4255"
+			"13"		"1774"
+			"14"		"7250"
+			"15"		"21"
+			"16"		"3871"
+			"17"		"19"
+			"18"		"7481"
+			"19"		"12057"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Will-o-Works"
+		"publisher"		"Will-o-Works"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"StarApprenticeMagicalMurderMystery"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StarApprenticeMagicalMurderMystery.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+			}
+			"1"
+			{
+				"executable"		"StarApprenticeMagicalMurderMystery.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"v2beta"
+				}
+			}
+			"2"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"betakey"		"rpgmaker_version"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"1632771"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2591616163572967548"
+					"size"		"122059840"
+					"download"		"67255808"
+				}
+				"rpgmaker_version"
+				{
+					"gid"		"2709664301474035939"
+					"size"		"210328853"
+					"download"		"88880192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"v2beta"
+				{
+					"gid"		"40D9C8B9173619DFF5FEE1E2BD83F7F0"
+					"size"		"1B9C272120C270DB39B0E0EFA63016AD"
+					"download"		"23FA9158BE0201B97161FFFF757B65EC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11720265"
+				"timeupdated"		"1689603846"
+			}
+			"rpgmaker_version"
+			{
+				"buildid"		"6897753"
+				"description"		"The original version of the game made in RPG Maker, unupdated"
+				"timeupdated"		"1676725248"
+			}
+			"v2beta"
+			{
+				"buildid"		"10582935"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676725361"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"4000000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Will-o-Works/MagicalMurderMystery"
+				"pattern"		"*.opt"
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Will-o-Works/MagicalMurderMystery/saves"
+				"pattern"		"*.sav"
+			}
+			"2"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Will-o-Works/MagicalMurderMystery/saves"
+				"pattern"		"*.history"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgDataHome"
+				"addpath"		""
+			}
+		}
+	}
+}
