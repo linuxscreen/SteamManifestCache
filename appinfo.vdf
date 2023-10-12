@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"1626460"
+	"common"
+	{
+		"name"		"Over the Counter"
+		"type"		"Game"
+		"logo"		"cc577fb07f6df297c99a60c4a9f58549e56d644d"
+		"logo_small"		"cc577fb07f6df297c99a60c4a9f58549e56d644d_thumb"
+		"icon"		"014e05df4fc0f386cd341020c38f88a4453bfa86"
+		"clienttga"		"01ee1ccc2a75ae5e6aa2fdfee89299c317f18a78"
+		"clienticns"		"eeba37cc60cff3df2533b5dab6e2c1e129eeef53"
+		"linuxclienticon"		"d62ee5a864f5472a3c9bcc9d029d5f47a24815a5"
+		"clienticon"		"38ff5fe668eb8a065bb0c69073df56b4c89b2f27"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50"
+				"height_pct"		"60.89337449536928"
+			}
+		}
+		"store_asset_mtime"		"1640831140"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Brody Rampono"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Brody Rampono"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644712471"
+		"community_hub_visible"		"1"
+		"gameid"		"1626460"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"9"
+			"2"		"1100688"
+			"3"		"8945"
+			"4"		"4845"
+			"5"		"3871"
+			"6"		"3964"
+			"7"		"5851"
+			"8"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Brody Rampono"
+		"publisher"		"Brody Rampono"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Over the Counter"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Over the Counter.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Over the Counter.app\\Contents\\MacOS\\Over the Counter"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Over the Counter.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1626461"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"749625403569030257"
+					"size"		"71962336"
+					"download"		"30407056"
+				}
+			}
+		}
+		"1626463"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3192237089810818737"
+					"size"		"78446757"
+					"download"		"31034400"
+				}
+			}
+		}
+		"1626464"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4606677248943616742"
+					"size"		"77598603"
+					"download"		"31316272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7953185"
+				"timeupdated"		"1640839159"
+			}
+		}
+	}
+}
