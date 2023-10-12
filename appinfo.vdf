@@ -1,0 +1,207 @@
+"appinfo"
+{
+	"appid"		"2530500"
+	"common"
+	{
+		"name"		"Dropkick Navvy: First Step"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"49ed3346d1b5852d5131bf729f4d47258a78c293"
+		"clienticon"		"228284813d5ed27cc0bfc03dadbb38efa1f18bac"
+		"clienttga"		"1624050aef121dcd1146f4ca173300baf7672ed3"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.89933523266856"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1695236771"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ocean Drive Studio, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ocean Drive Studio, Inc."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dropkick Navvy"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1695333203"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2530500"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5652"
+			"1"		"1643"
+			"2"		"1702"
+			"3"		"4726"
+			"4"		"5981"
+			"5"		"30358"
+			"6"		"3968"
+			"7"		"597"
+			"8"		"12472"
+			"9"		"87918"
+			"10"		"4562"
+			"11"		"4305"
+			"12"		"1664"
+			"13"		"5537"
+			"14"		"4191"
+			"15"		"1697"
+			"16"		"599"
+			"17"		"4136"
+			"18"		"4195"
+			"19"		"16689"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Ocean Drive Studio, Inc."
+		"publisher"		"Ocean Drive Studio, Inc."
+		"homepage"		"https://www.oceandrive.studio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dropkick Navvy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DropkickNavvy.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2530501"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4064681701766147495"
+					"size"		"886770646"
+					"download"		"610640416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage"
+				{
+					"gid"		"30441B29B96282E02D83A5E123C7C2DE"
+					"size"		"F24280ECF14CE99B7B037EA988033AF4"
+					"download"		"07FFB37A461F6103393AADCA7492A343"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12294733"
+				"timeupdated"		"1695848741"
+			}
+			"stage"
+			{
+				"buildid"		"12294733"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695807914"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"NGClient\\Saved\\SaveGames\\"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
