@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1975120"
+	"common"
+	{
+		"name"		"The Lost Dachshund"
+		"type"		"Game"
+		"clienttga"		"d32bb382e7b97e3a27289b8c56a6c05efe4880ff"
+		"clienticon"		"f91fc04e59f04640460909a0b72a71f0888f53f2"
+		"icon"		"b251783561b672bac4623c56115effef66da466f"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.39534883720931"
+				"height_pct"		"64.28507821544123"
+			}
+		}
+		"store_asset_mtime"		"1650990453"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fiddlepoke Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Weenie Walker Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Fiddlepoke Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1652814916"
+		"community_hub_visible"		"1"
+		"gameid"		"1975120"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1698"
+			"2"		"1664"
+			"3"		"3834"
+			"4"		"1738"
+			"5"		"3871"
+			"6"		"3839"
+			"7"		"113"
+			"8"		"1638"
+			"9"		"4175"
+			"10"		"492"
+			"11"		"5350"
+			"12"		"597"
+			"13"		"4182"
+			"14"		"7250"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Fiddlepoke Games"
+		"publisher"		"Fiddlepoke Games"
+		"homepage"		"https://weeniewalker.com/the-lost-dachshund/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Lost Dachshund"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LDContent\\Windows\\LDWindows\\The Lost Dachshund.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"LDContent/MacOS/The Lost Dachshund.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1975122"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3283172154861972505"
+					"size"		"938499962"
+					"download"		"139069312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B63EFE05D392C3041E73EBCF6CA6BF24"
+					"size"		"5B9303F5F5A6F4DF6F84C4B367D7D5C5"
+					"download"		"F4A16AC90FEA7F46286CB2C2D12C04D1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8928840"
+				"timeupdated"		"1655156336"
+			}
+			"beta"
+			{
+				"buildid"		"8928840"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655151788"
+			}
+		}
+	}
+}
