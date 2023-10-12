@@ -1,0 +1,243 @@
+"appinfo"
+{
+	"appid"		"1675330"
+	"common"
+	{
+		"name"		"The Bingo Room"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"logo"		"063ed65b24366708afb4c959848f96c6c7ea00c8"
+		"logo_small"		"063ed65b24366708afb4c959848f96c6c7ea00c8_thumb"
+		"icon"		"a857d74283fb7e3b947e39982b09adade0770b1d"
+		"clienttga"		"5e2cb881836497cd42db222d27929bbaa0d4cea6"
+		"clienticon"		"1217e3ca81c41069c3090902101b1714b4c9383e"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1675330_eula_1"
+				"name"		"The Bingo Room EULA"
+				"url"		"https://store.steampowered.com//eula/1675330_eula_1"
+				"version"		"1"
+			}
+		}
+		"osnotice"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"58.573715774334374"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1689117642"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pixel by Pixel Studios inc."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"STREAMSIX"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"STREAMSIX"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1689177444"
+		"community_hub_visible"		"1"
+		"gameid"		"1675330"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1664"
+			"2"		"128"
+			"3"		"1773"
+			"4"		"1770"
+			"5"		"3859"
+			"6"		"5350"
+			"7"		"1775"
+			"8"		"3871"
+			"9"		"4191"
+			"10"		"4195"
+			"11"		"4305"
+			"12"		"6129"
+			"13"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Pixel by Pixel Studios inc."
+		"publisher"		"STREAMSIX"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Bingo Room"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"The Bingo Room.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"The Bingo Room.app/Contents/MacOS/The Bingo Room"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"The Bingo Room.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1675331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4826192679807769618"
+					"size"		"310809092"
+					"download"		"109846992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B5063ADDC97AFDB907649F3B31323A40"
+					"size"		"F2945A9774E6943DC9B0A3AF9D6AF9E1"
+					"download"		"C7D4D20978CB1834C101D53721AC7014"
+				}
+				"streamsix"
+				{
+					"gid"		"986FD1166AC8DF42EE390A4DCE5ED3CA"
+					"size"		"6A3C99906EB004A55CF7DBE9126FBED8"
+					"download"		"FFA727B4F8A2A5633F11C776D9B47FCC"
+				}
+			}
+		}
+		"1675332"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"streamsix"
+				{
+					"gid"		"664DDF4ACA59B93BC488AD0780F3AABA"
+					"size"		"D6DF7BAB6C3A08DF389853ECCE58079E"
+					"download"		"1C6B012A2B96068062EEFC4AB29CE3E7"
+				}
+			}
+		}
+		"1675333"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"streamsix"
+				{
+					"gid"		"D6A956DCA037BA5FCB0EF570C4B2E7E8"
+					"size"		"F1BF523FBFC6CED284A218AD7CF06531"
+					"download"		"C84D446B9F615EBF1F9A52942ACFABC4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12227852"
+				"timeupdated"		"1695307401"
+			}
+			"beta"
+			{
+				"buildid"		"12227852"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695145242"
+			}
+			"streamsix"
+			{
+				"buildid"		"12005391"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692724400"
+			}
+		}
+	}
+}
