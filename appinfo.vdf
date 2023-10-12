@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"1973040"
+	"common"
+	{
+		"name"		"Hunt for Junk"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"203d2ade2e5a7f4bcf579ce757f85ad850b9c28e"
+		"clienttga"		"41a97027cba0176489292f3579d83a6aac03f6b3"
+		"clienticon"		"8ffaf64a17ef8dc0b99b693685f84406807e7faa"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"60.71792948237055"
+				"height_pct"		"98.61226549513182"
+			}
+		}
+		"store_asset_mtime"		"1654791970"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bossforge"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bossforge"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1656001848"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1973040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"5379"
+			"2"		"3964"
+			"3"		"3877"
+			"4"		"4182"
+			"5"		"19"
+			"6"		"1773"
+			"7"		"6691"
+			"8"		"3871"
+			"9"		"4562"
+			"10"		"4195"
+			"11"		"5350"
+			"12"		"4004"
+			"13"		"7481"
+			"14"		"3798"
+			"15"		"1625"
+			"16"		"113"
+			"17"		"1621"
+			"18"		"3920"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Bossforge"
+		"publisher"		"Bossforge"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hunt for Junk"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hunt For Junk.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1973041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6398139870201988486"
+					"size"		"175302652"
+					"download"		"73038144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"AEB9FEE61B421663BA12B08D7C854994"
+					"size"		"C68B3C0606C97563E38E0A1EC186B3F9"
+					"download"		"2C2F878ABCF128349B13A6216C427032"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9174594"
+				"timeupdated"		"1658526457"
+			}
+			"testing"
+			{
+				"buildid"		"9174594"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658525935"
+			}
+		}
+	}
+}
