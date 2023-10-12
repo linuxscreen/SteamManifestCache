@@ -1,0 +1,229 @@
+"appinfo"
+{
+	"appid"		"1103940"
+	"common"
+	{
+		"name"		"Virtual Debating Chamber"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"b7849cf8d5bd92547c6c8d66ca321dd108e2b49c"
+		"clienticon"		"2d36892e89540c265cbc6c449754daef398fe23d"
+		"icon"		"5b01acef5b4d2839474f8718e4591406ab401230"
+		"logo"		"772449784d5b05879b58db67b3bc93b4b9ba3a2c"
+		"logo_small"		"772449784d5b05879b58db67b3bc93b4b9ba3a2c_thumb"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"metacritic_name"		"Virtual Debating Chamber"
+		"nokeyboardmouse"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1560854045"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RealityVirtual.co"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"M-Theory"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"realityVirtual.co"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"New Zealand Parliament"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_33"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1561459860"
+		"community_hub_visible"		"1"
+		"gameid"		"1103940"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"113"
+			"2"		"1721"
+			"3"		"21978"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"RealityVirtual.co"
+		"publisher"		"realityVirtual.co"
+		"homepage"		"https://www.parliament.nz/en/get-involved/features/virtual-reality-takes-parliament-to-the-people/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"VirtualDebatingChamber"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"chamber.exe"
+				"arguments"		"-audiomixer"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1103944"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3587670015016509577"
+					"size"		"7775691286"
+					"download"		"5416258592"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4025213"
+				"timeupdated"		"1563501127"
+			}
+		}
+	}
+}
