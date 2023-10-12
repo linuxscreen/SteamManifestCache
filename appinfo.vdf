@@ -1,0 +1,260 @@
+"appinfo"
+{
+	"appid"		"857740"
+	"common"
+	{
+		"name"		"Ludicrous Speed"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"logo"		"b60da76f90809c2145145ad73a6f69fece5830a7"
+		"logo_small"		"b60da76f90809c2145145ad73a6f69fece5830a7_thumb"
+		"clienticon"		"cc46152b909dea9ea84eb88ac1296fca37ffd215"
+		"clienttga"		"8c813e1d6a2c62c4a858f92a75258b621cd03a5f"
+		"icon"		"7e2078f4f4434daf9c928239249b7ac13874811b"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"857740_eula_0"
+				"name"		"Ludicrous Speed EULA"
+				"url"		"https://store.steampowered.com//eula/857740_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1682035200"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Ludicrous Speed"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1550968515"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Manic Machine"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Manic Machine"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1612569921"
+		"community_hub_visible"		"1"
+		"gameid"		"857740"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"19"
+			"2"		"699"
+			"3"		"21978"
+			"4"		"1773"
+			"5"		"8666"
+			"6"		"1714"
+			"7"		"1734"
+			"8"		"4026"
+			"9"		"4182"
+			"10"		"4190"
+			"11"		"4036"
+			"12"		"113"
+			"13"		"493"
+			"14"		"1756"
+			"15"		"3839"
+			"16"		"4094"
+			"17"		"5125"
+			"18"		"5154"
+			"19"		"7948"
+		}
+		"review_score"		"7"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Manic Machine"
+		"publisher"		"Manic Machine"
+		"homepage"		"https://www.manicmachinegames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Ludicrous Speed"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LudicrousSpeed.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"857741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8410994712817286701"
+					"size"		"3029369105"
+					"download"		"2796251744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa_test"
+				{
+					"gid"		"4DA809F68AC8253002B47B28D09BB968"
+					"size"		"925C75A0E309E54B7C4D999E188E7406"
+					"download"		"F3E5157BB53D04EFB09CE807C4571B85"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5990616"
+				"timeupdated"		"1612567993"
+			}
+			"qa_test"
+			{
+				"buildid"		"5990616"
+				"pwdrequired"		"1"
+				"timeupdated"		"1608337138"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1024000"
+		"maxnumfiles"		"1024"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"LudicrousSpeed/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
