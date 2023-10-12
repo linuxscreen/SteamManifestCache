@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"1964380"
+	"common"
+	{
+		"name"		"My little sister: Prologue"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"78ee47ab3debb4fb0edfa051ca7626c72932d8bc"
+		"clienttga"		"66b0db7df2522d060cd6869f35824a3cdbbb6b48"
+		"icon"		"66e744743b52483a40e52afb1af4180802f0e11f"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.754959159859965"
+				"height_pct"		"49.24012161578975"
+			}
+		}
+		"store_asset_mtime"		"1651433560"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"C's earth"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"C's earth"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1652430263"
+		"community_hub_visible"		"1"
+		"gameid"		"1964380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"4085"
+			"2"		"4726"
+			"3"		"597"
+			"4"		"4195"
+			"5"		"21"
+			"6"		"31275"
+			"7"		"10679"
+			"8"		"1751"
+			"9"		"4947"
+			"10"		"9551"
+			"11"		"1742"
+			"12"		"492"
+			"13"		"5608"
+			"14"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"C's earth"
+		"publisher"		"C's earth"
+		"homepage"		"https://www.instagram.com/seasearth/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"My little sister - Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"sister_prologue.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"My little sister: Prologue"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1964381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6355652385257455813"
+					"size"		"308423994"
+					"download"		"203380224"
+				}
+				"test"
+				{
+					"gid"		"6355652385257455813"
+					"size"		"308423994"
+					"download"		"203380224"
+				}
+			}
+		}
+		"1964382"
+		{
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2783367739766751365"
+					"size"		"99724072"
+					"download"		"81203168"
+				}
+				"test"
+				{
+					"gid"		"2783367739766751365"
+					"size"		"99724072"
+					"download"		"81203168"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10309937"
+				"timeupdated"		"1673554947"
+			}
+			"test"
+			{
+				"buildid"		"10309937"
+				"description"		"testing"
+				"timeupdated"		"1673553648"
+			}
+		}
+	}
+}
