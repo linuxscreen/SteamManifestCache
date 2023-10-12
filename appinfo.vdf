@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"1358050"
+	"common"
+	{
+		"name"		"Sanatorium Anthropocene Retreat"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"21c73c23bb6048614092b17ffb899457f6f11b73"
+		"logo_small"		"21c73c23bb6048614092b17ffb899457f6f11b73_thumb"
+		"icon"		"d299900bc09da38e04c2f9062c65378e9d5f38d0"
+		"clienticon"		"7d914f1c6305869a5b1c1ce2ed3db991c9b1c27b"
+		"clienttga"		"6f59fa8d58d902766a68be921c698f8cff9aa51d"
+		"clienticns"		"04294fdaa76205adb93f40e226021ef3445f0edc"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1679315954"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mikhail Maksimov"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VAC Foundation"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1594811608"
+		"community_hub_visible"		"1"
+		"gameid"		"1358050"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21"
+			"2"		"1663"
+			"3"		"1738"
+			"4"		"4231"
+			"5"		"13782"
+			"6"		"3814"
+			"7"		"5411"
+			"8"		"3839"
+			"9"		"1697"
+			"10"		"8369"
+			"11"		"7432"
+			"12"		"4115"
+			"13"		"15277"
+			"14"		"5154"
+			"15"		"4145"
+			"16"		"3942"
+			"17"		"3835"
+			"18"		"4182"
+			"19"		"5752"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Mikhail Maksimov"
+		"publisher"		"VAC Foundation"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SAR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SAR.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MoMAM.app\\Contents\\MacOS\\MoMAM"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1358051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5373882830681403536"
+					"size"		"1997052608"
+					"download"		"1743319472"
+				}
+			}
+		}
+		"1358052"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4999035305546810806"
+					"size"		"2361191056"
+					"download"		"1991443184"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12182684"
+				"timeupdated"		"1694644496"
+			}
+		}
+	}
+}
