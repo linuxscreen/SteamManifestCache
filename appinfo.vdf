@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"1259460"
+	"common"
+	{
+		"name"		"Trendpoker 3D: Free Online Poker"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"e63e9cdf895e36a82941db5c29b904d1ae0833e4"
+		"logo"		"ee0fb000947a3c655408c476555a126901ec6032"
+		"logo_small"		"ee0fb000947a3c655408c476555a126901ec6032_thumb"
+		"icon"		"88b017c5d11d29eca2a8c2f74b5a818254bb9f87"
+		"clienticon"		"4a3f73ebf57d13ac629cf96a9d840b2dbe3e0d87"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.71281558303911"
+				"height_pct"		"74.41050353233867"
+			}
+		}
+		"store_asset_mtime"		"1586390705"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BufoProject"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BufoProject"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"28"
+			"5"		"18"
+			"6"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1586852558"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1259460"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"492"
+			"3"		"597"
+			"4"		"701"
+			"5"		"128"
+			"6"		"599"
+			"7"		"1666"
+			"8"		"3859"
+			"9"		"1770"
+			"10"		"4711"
+			"11"		"1654"
+			"12"		"4191"
+			"13"		"17389"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"BufoProject"
+		"publisher"		"BufoProject"
+		"homepage"		"http://trendpoker.de/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Trendpoker 3D Free Online Poker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Trendpoker.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Trendpoker.exe"
+				"arguments"		"-safe"
+				"description"		"Safe mode (windowed)"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Trendpoker.exe"
+				"arguments"		"-autoconfig"
+				"description"		"Autoconfig mode (fullscreen)"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1259461"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7331436103371924768"
+					"size"		"258947381"
+					"download"		"160948416"
+				}
+			}
+		}
+		"baselanguages"		"english,german"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4996271"
+				"timeupdated"		"1588873956"
+			}
+		}
+	}
+}
