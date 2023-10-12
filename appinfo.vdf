@@ -1,0 +1,274 @@
+"appinfo"
+{
+	"appid"		"409670"
+	"common"
+	{
+		"name"		"Pink Hour"
+		"type"		"Game"
+		"logo"		"25ce19ba60be1539f3d627469c09737fbc03ddab"
+		"logo_small"		"25ce19ba60be1539f3d627469c09737fbc03ddab_thumb"
+		"clienticon"		"81826218d741126cbb74346862a145124f2bfd5c"
+		"clienttga"		"eaedc683f7d8bf8bb924dd10d3d0c23ced7e85d3"
+		"icon"		"57e466a9e126c32942f56800e1c56c84880577f0"
+		"oslist"		"windows,macos"
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"clienticns"		"86c1c2c5ba3435fab70142381cf0794fb6528c2c"
+		"metacritic_name"		"Pink Hour"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.317386231038505"
+				"height_pct"		"58.73901686060318"
+			}
+		}
+		"store_asset_mtime"		"1573627216"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Pixel"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PLAYISM"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Kero Blaster"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"PLAYISM"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1446015600"
+		"steam_release_date"		"1446019200"
+		"community_hub_visible"		"1"
+		"gameid"		"409670"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"3964"
+			"3"		"19"
+			"4"		"1625"
+			"5"		"3871"
+			"6"		"7208"
+			"7"		"4182"
+			"8"		"4726"
+			"9"		"4234"
+			"10"		"1774"
+			"11"		"1756"
+			"12"		"7481"
+			"13"		"4026"
+			"14"		"1684"
+			"15"		"3798"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Studio Pixel"
+		"publisher"		"PLAYISM"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Pink Hour"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PinkHour.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"PinkHour.app/Contents/MacOS/PinkHour"
+				"workingdir"		"PinkHour.app/Contents/MacOS/"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"409671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3981418638416828409"
+					"size"		"2111433"
+					"download"		"928768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"macos-beta"
+				{
+					"gid"		"96284B0AA1662399D11C06A54D0025E8"
+					"size"		"B38B1DD4BD1DD912A3DE3D2EAEF642DF"
+					"download"		"594AB3940A9BBF0CCBDC90A56BAB0496"
+				}
+			}
+		}
+		"409672"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7683069190249414568"
+					"size"		"13083962"
+					"download"		"3993616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"macos-beta"
+				{
+					"gid"		"9A99FE502D17EAA02ED2A97B66BE6BE4"
+					"size"		"9963BDDBC6DE2AF9ACB6AD344694F690"
+					"download"		"DECC633E9FD8ACBB18694E28EF77A239"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11311960"
+				"timeupdated"		"1688030733"
+			}
+			"macos-beta"
+			{
+				"buildid"		"11311960"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684978045"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"rsc_p/profile"
+				"pattern"		"*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"rsc_p/profile"
+						"replace"		"Pink Hour/profile"
+					}
+				}
+			}
+		}
+	}
+}
