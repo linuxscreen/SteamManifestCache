@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"2103530"
+	"common"
+	{
+		"name"		"Idle Clans"
+		"type"		"Game"
+		"icon"		"b375099126e643a03bc075d48283388dd3ef9907"
+		"clienttga"		"3aab81d011da1e7d437aad7c5722e31b21eb439c"
+		"clienticon"		"63995ed793023fb1c0f14d2f7a355a7e973a748a"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1685145600"
+			"tested_build_id"		"11290577"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"65.40256709451576"
+				"height_pct"		"99.24008549038234"
+			}
+		}
+		"store_asset_mtime"		"1695038441"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Isam Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Isam Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"29"
+			"3"		"3"
+			"4"		"37"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1680879304"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2103530"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"128"
+			"1"		"615955"
+			"2"		"122"
+			"3"		"597"
+			"4"		"1754"
+			"5"		"379975"
+			"6"		"3859"
+			"7"		"1702"
+			"8"		"3993"
+			"9"		"6730"
+			"10"		"1684"
+			"11"		"492"
+			"12"		"493"
+			"13"		"113"
+			"14"		"4182"
+			"15"		"255534"
+			"16"		"4094"
+			"17"		"4726"
+			"18"		"3871"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"developer"		"Isam Games"
+		"publisher"		"Isam Games"
+		"homepage"		"https://idleclans.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Idle Clans"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Idle Clans.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2103531"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8307217415483413238"
+					"size"		"756966501"
+					"download"		"43404640"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12410897"
+				"timeupdated"		"1697012924"
+			}
+		}
+	}
+}
