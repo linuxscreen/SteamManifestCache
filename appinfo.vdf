@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"1512470"
+	"common"
+	{
+		"name"		"Incel Syndrome"
+		"type"		"Game"
+		"logo"		"b53367f95f0cc6bd89a7c690865be0267069b566"
+		"logo_small"		"b53367f95f0cc6bd89a7c690865be0267069b566_thumb"
+		"clienticon"		"90452a9b20e7eb05a22ebd8c42a2734272308135"
+		"clienttga"		"9d8add73dc12c217fe72c4d2dcbe297cf4ea5eff"
+		"icon"		"5a7ddda24380313010baf3fa1bd271417ae3bdbe"
+		"clienticns"		"0b235d18d477566b6c3efe587b1139c0f12dc0cc"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"linuxclienticon"		"429801fb29ec6c2be2bcd4c7b767f4224b434c04"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.76780682005772"
+				"height_pct"		"64.80605487228004"
+			}
+		}
+		"store_asset_mtime"		"1682604437"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"socah development"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"socah"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1629455400"
+		"community_hub_visible"		"1"
+		"gameid"		"1512470"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"19995"
+			"2"		"15277"
+			"3"		"5186"
+			"4"		"11014"
+			"5"		"4486"
+			"6"		"3871"
+			"7"		"6869"
+			"8"		"3839"
+			"9"		"599"
+			"10"		"1742"
+			"11"		"5094"
+			"12"		"4182"
+			"13"		"4166"
+			"14"		"9204"
+			"15"		"4175"
+			"16"		"5372"
+			"17"		"21"
+			"18"		"5673"
+			"19"		"15172"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"socah development"
+		"publisher"		"socah"
+		"homepage"		"https://www.socah.org/incelsyndrome"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Incel Syndrome"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"IncelSyndrome.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"IncelSyndrome.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"IncelSyndrome-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"IncelSyndrome.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1512471"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"190835081684587252"
+					"size"		"539675499"
+					"download"		"436837312"
+				}
+			}
+		}
+		"1512472"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"498924422567426267"
+					"size"		"442421933"
+					"download"		"408196480"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7218367"
+				"timeupdated"		"1629404429"
+			}
+		}
+	}
+}
