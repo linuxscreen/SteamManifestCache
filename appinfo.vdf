@@ -1,0 +1,174 @@
+"appinfo"
+{
+	"appid"		"1333920"
+	"common"
+	{
+		"name"		"A Place, Forbidden"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"3090fddf6811131bb4c10c7c98726290a238d19c"
+		"clienticon"		"c5741c96cede8c3be2c173b2ffa2187c435fa5e1"
+		"icon"		"881ea4a2e6d573b6ffad4db4c67b2a1b136effc9"
+		"logo"		"7a07724916885d27c51b0030a970e0024a58e8c7"
+		"logo_small"		"7a07724916885d27c51b0030a970e0024a58e8c7_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"80.77653763951554"
+			}
+		}
+		"store_asset_mtime"		"1593012338"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Poison the Inkwell"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Poison the Inkwell"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1593069166"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1333920"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"7432"
+			"2"		"4166"
+			"3"		"4182"
+			"4"		"1664"
+			"5"		"21"
+			"6"		"3839"
+			"7"		"4342"
+			"8"		"1721"
+			"9"		"4252"
+			"10"		"4094"
+			"11"		"1710"
+			"12"		"4137"
+			"13"		"597"
+			"14"		"5900"
+			"15"		"113"
+			"16"		"5094"
+			"17"		"3968"
+			"18"		"492"
+			"19"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Poison the Inkwell"
+		"publisher"		"Poison the Inkwell"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"A Place, Forbidden"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Ouroboros.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1333921"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8368543709928520800"
+					"size"		"506172436"
+					"download"		"332936272"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5232205"
+				"timeupdated"		"1593510881"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"30000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Ouroboros/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
