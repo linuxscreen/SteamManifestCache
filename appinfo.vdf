@@ -1,0 +1,200 @@
+"appinfo"
+{
+	"appid"		"1274090"
+	"common"
+	{
+		"name"		"Hotfix"
+		"type"		"Game"
+		"clienticon"		"5d83947ced86694fe774f9270c84da75f0678370"
+		"clienttga"		"fbd140318af26bf583c5ef39b369810be490fd1e"
+		"icon"		"f773051c450aae3547795313f806f9b07d3951e5"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"9a5059a86638954db31a91fa2d1d292ce4c4e593"
+		"logo_small"		"9a5059a86638954db31a91fa2d1d292ce4c4e593_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1686873600"
+			"tested_build_id"		"5734530"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1587811721"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ol-web"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ol-web"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1603284669"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1274090"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3964"
+			"1"		"3871"
+			"2"		"4182"
+			"3"		"1100689"
+			"4"		"1662"
+			"5"		"3810"
+			"6"		"3834"
+			"7"		"3993"
+			"8"		"7332"
+			"9"		"4236"
+			"10"		"1643"
+			"11"		"19"
+			"12"		"1695"
+			"13"		"1702"
+			"14"		"5125"
+			"15"		"5981"
+			"16"		"1774"
+			"17"		"5752"
+			"18"		"3835"
+			"19"		"4885"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"ol-web"
+		"publisher"		"ol-web"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hotfix"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hotfix.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1274091"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8780199348831910517"
+					"size"		"271366232"
+					"download"		"87312032"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5734530"
+				"timeupdated"		"1603645908"
+			}
+		}
+	}
+}
