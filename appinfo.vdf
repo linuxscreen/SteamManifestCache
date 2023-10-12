@@ -1,0 +1,164 @@
+"appinfo"
+{
+	"appid"		"2103690"
+	"common"
+	{
+		"name"		"Monstir Iradicator"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"9eee6d53bf9350f2d90a0e312bfa4dafbbf411a7"
+		"clienttga"		"6b23f69d512741b51090b23568d5b3ef9342b4df"
+		"clienticon"		"83e5392eb68f5252ab2d4925308f745a93163c75"
+		"clienticns"		"da2f8e394b90853764eb85683d056e6bc6c15be7"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"54.2111506524318"
+				"height_pct"		"91.51756129887343"
+			}
+		}
+		"store_asset_mtime"		"1664891956"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rishit Roshan"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rishit Roshan"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1666093462"
+		"community_hub_visible"		"1"
+		"gameid"		"2103690"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4255"
+			"2"		"21"
+			"3"		"1774"
+			"4"		"3871"
+			"5"		"3964"
+			"6"		"1673"
+			"7"		"113"
+			"8"		"492"
+			"9"		"4182"
+			"10"		"3993"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Rishit Roshan"
+		"publisher"		"Rishit Roshan"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Monstir Iradicator"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MonstirIradicator.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents\\MacOS\\MonstirIradicator"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2103691"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"381034828596120041"
+					"size"		"200473823"
+					"download"		"68803184"
+				}
+			}
+		}
+		"2103692"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7996603182524578025"
+					"size"		"223915076"
+					"download"		"75810048"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9632569"
+				"timeupdated"		"1666354095"
+			}
+		}
+	}
+}
