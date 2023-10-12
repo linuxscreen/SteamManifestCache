@@ -1,0 +1,245 @@
+"appinfo"
+{
+	"appid"		"1092040"
+	"common"
+	{
+		"name"		"BomjMan"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"08499445eb620bf25556bcde9219534b5c5a3b85"
+		"logo_small"		"08499445eb620bf25556bcde9219534b5c5a3b85_thumb"
+		"icon"		"644358fc3f1d0a27b9bbba371cbc0c4da514ba10"
+		"clienttga"		"ae5a22bba11858fd66c616321df626c55c1e2136"
+		"clienticns"		"1141e7b194dbd91676a7276b6ae91660dcddae3f"
+		"linuxclienticon"		"d3945a941d6dddad68b46532757638e8b398a2dd"
+		"clienticon"		"0fbd693f3b8b6b7e6c80893b12990a35819fd1e4"
+		"releasestate"		"released"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"BomjMan"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"russian"		"capsule_231x87_russian.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"russian"		"header_russian.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"61.53846153846153"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1643716674"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Unique Media"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Unique Media"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1608019200"
+		"steam_release_date"		"1608020940"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1092040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"19"
+			"2"		"4667"
+			"3"		"4115"
+			"4"		"4345"
+			"5"		"4158"
+			"6"		"4975"
+			"7"		"1774"
+			"8"		"5395"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Unique Media"
+		"publisher"		"Unique Media"
+		"homepage"		"https://bomjman.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BomjMan"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BomjProject.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,russian"
+		"1092041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3028040404042961013"
+					"size"		"9730989039"
+					"download"		"9149003056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"BB299194FEC7823EFCF991322222996D"
+					"size"		"872A544DBD329C536AAD3430D3F993C1"
+					"download"		"276E60B31EB6F1C47A6DED1D62E6CC4B"
+				}
+			}
+		}
+		"1092042"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1531339041474876208"
+					"size"		"12275119533"
+					"download"		"5675850128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"E14E1D4B3B35DE0DB79A97167EDF2ED1"
+					"size"		"BA75DF02B9ABD0698C4D881910714E0B"
+					"download"		"C5F17093974709E697241AC20696BA1A"
+				}
+			}
+		}
+		"1092043"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4501471136424759601"
+					"size"		"9754208043"
+					"download"		"9162415824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"3CCF3B9B57022D6BA94833CFBE616D59"
+					"size"		"24E6BFA536FBB864529EB2D1E1D659F8"
+					"download"		"D1B4AA9A539A2C0D23B4360B9CDF79C8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7929183"
+				"timeupdated"		"1640205220"
+			}
+			"test"
+			{
+				"buildid"		"7928826"
+				"pwdrequired"		"1"
+				"timeupdated"		"1640199891"
+			}
+		}
+	}
+}
