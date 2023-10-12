@@ -1,0 +1,201 @@
+"appinfo"
+{
+	"appid"		"2279470"
+	"common"
+	{
+		"name"		"Street Sense 2"
+		"type"		"Application"
+		"icon"		"ea030e6c9bafd11163a6e6f3bbf85e231030c896"
+		"clienticon"		"33ec32e6997a4fac553c52d527cf4d0896f96c0f"
+		"clienttga"		"ed6f56af91a034d0d9947a431e46f3ce7a3c110e"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.51744974877208"
+				"height_pct"		"89.82222222222224"
+			}
+		}
+		"store_asset_mtime"		"1685124175"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Project Whitecard Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ICBC"
+			}
+		}
+		"primary_genre"		"54"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"54"
+			"2"		"56"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1686165806"
+		"community_hub_visible"		"1"
+		"gameid"		"2279470"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"1036"
+			"2"		"1445"
+			"3"		"1644"
+			"4"		"5350"
+			"5"		"4175"
+		}
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"developer"		"Project Whitecard Inc."
+		"publisher"		"ICBC"
+		"homepage"		"https://www.icbc.com/road-safety/crashes-happen/Pages/street-sense.aspx"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Street Sense 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Windows 64-bit.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mac.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2279471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8558272473784308672"
+					"size"		"1545726607"
+					"download"		"524444480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external"
+				{
+					"gid"		"FBD0779065BACAFAB3186321B82FBF97"
+					"size"		"58CE62F976BC7C7E6BB1EA379CE673CA"
+					"download"		"54A743FE2A94D589DAE79F735FA9AF5F"
+				}
+				"internal"
+				{
+					"gid"		"1FF039FAF1BBB75C7CE00AC9BE7BCE57"
+					"size"		"D93C30D1E9BA53991433E8DD35A27487"
+					"download"		"F14EA5C2E145FEB162B6390639041E2D"
+				}
+			}
+		}
+		"2279472"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3405017608952333313"
+					"size"		"1768068318"
+					"download"		"555379584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external"
+				{
+					"gid"		"FC0009C709D014713A7F546316CFD16D"
+					"size"		"92903AF5B8302FAA590A8DD0A8FA5215"
+					"download"		"FF2F429B10810816D7A7D46030536267"
+				}
+				"internal"
+				{
+					"gid"		"FF3C9E6B0DA758AF742E6F6A3A4E258A"
+					"size"		"0DE0CDFDCCFF755EBBEB62F6BE9DBDDC"
+					"download"		"8E17AE366405FEEB9BFFE4288C30C99A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11652427"
+				"timeupdated"		"1688760384"
+			}
+			"external"
+			{
+				"buildid"		"11415720"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686154518"
+			}
+			"internal"
+			{
+				"buildid"		"11652427"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688760103"
+			}
+		}
+	}
+}
