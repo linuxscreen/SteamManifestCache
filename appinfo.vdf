@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"2373440"
+	"common"
+	{
+		"name"		"Miners Settlement"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"9065e33703c28f8dccc2ca5974a27dc8dbe67045"
+		"icon"		"13f4b22290fe51f9e6f3393c79b27001f7393d83"
+		"clienticon"		"55be69e5f2d5e502a5370be6f455d32938e6b84e"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2373440_eula_0"
+				"name"		"Miners Settlement EULA"
+				"url"		"https://store.steampowered.com//eula/2373440_eula_0"
+				"version"		"2"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1692921600"
+			"tested_build_id"		"11987498"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1688033902"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Funventure P.S.A"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Funventure P.S.A"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"29"
+			"3"		"3"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1687855323"
+		"community_hub_visible"		"1"
+		"gameid"		"2373440"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"615955"
+			"2"		"1754"
+			"3"		"1720"
+			"4"		"379975"
+			"5"		"4202"
+			"6"		"1684"
+			"7"		"1702"
+			"8"		"3871"
+			"9"		"1695"
+			"10"		"3843"
+			"11"		"4747"
+			"12"		"6730"
+			"13"		"17770"
+			"14"		"6276"
+			"15"		"1084988"
+			"16"		"3964"
+			"17"		"3920"
+			"18"		"4305"
+			"19"		"4252"
+		}
+		"review_score"		"4"
+		"review_percentage"		"38"
+	}
+	"extended"
+	{
+		"developer"		"Funventure P.S.A"
+		"publisher"		"Funventure P.S.A"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Miners Settlement"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Miners Settlement.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2373441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2690134574472048318"
+					"size"		"285668570"
+					"download"		"69041520"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12205903"
+				"timeupdated"		"1694859890"
+			}
+		}
+	}
+}
