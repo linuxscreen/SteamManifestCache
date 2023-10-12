@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"1387200"
+	"common"
+	{
+		"name"		"Covert Commando"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"19c960a3590c0500441433d7280c6fffeeb00457"
+		"logo_small"		"19c960a3590c0500441433d7280c6fffeeb00457_thumb"
+		"icon"		"73167437bb6ad8378dd9eaa1bfd6c47dfa3ea69d"
+		"clienticon"		"48b2ec39cc3771cefe4aac1be801f189ca3116e0"
+		"clienttga"		"d1e01f74dd730669b5f963695efb051a29d983d8"
+		"clienticns"		"87c0ea2e7589bb8e3c733af87356b6f6f1803d86"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.39697322467986"
+				"height_pct"		"55.319401567323666"
+			}
+		}
+		"store_asset_mtime"		"1608918570"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Four Pixels Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Four Pixels Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1608935151"
+		"community_hub_visible"		"1"
+		"gameid"		"1387200"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"1773"
+			"3"		"1716"
+			"4"		"1774"
+			"5"		"42804"
+			"6"		"353880"
+			"7"		"4255"
+			"8"		"4758"
+			"9"		"4637"
+			"10"		"4975"
+			"11"		"4791"
+			"12"		"4195"
+			"13"		"1697"
+			"14"		"1678"
+			"15"		"4168"
+			"16"		"4376"
+			"17"		"3993"
+			"18"		"4747"
+			"19"		"1759"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Four Pixels Games"
+		"publisher"		"Four Pixels Games"
+		"homepage"		"http://fourpixelsgames.com/homepage/index.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Covert Commando"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"covertcommando.app/Contents/MacOS/CovertCommando"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"CCWindows\\CovertCommando.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1387201"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4132755657969842401"
+					"size"		"367692434"
+					"download"		"56612768"
+				}
+				"beta"
+				{
+					"gid"		"4848578138040487649"
+					"size"		"372806666"
+					"download"		"58066304"
+				}
+			}
+		}
+		"1387202"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3602119821237128847"
+					"size"		"365525703"
+					"download"		"56148432"
+				}
+				"beta"
+				{
+					"gid"		"193354172338640277"
+					"size"		"370639935"
+					"download"		"57597328"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6014414"
+				"timeupdated"		"1608932885"
+			}
+			"beta"
+			{
+				"buildid"		"6014314"
+				"timeupdated"		"1608928162"
+			}
+		}
+	}
+}
