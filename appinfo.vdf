@@ -1,0 +1,227 @@
+"appinfo"
+{
+	"appid"		"1943890"
+	"common"
+	{
+		"name"		"Danger Ducklings"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"a329e44f98fc5a2597fefc7280ae2b1534d14df1"
+		"clienttga"		"87e4b5a8ce2ef4502ef6e586cc5ae3ed966a92f6"
+		"icon"		"c8dfb569d326efcade77765cdd15ef4b4cdae9ef"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1696464000"
+			"tested_build_id"		"11506247"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.57670740503299"
+				"height_pct"		"62.24428343340029"
+			}
+		}
+		"store_asset_mtime"		"1687787035"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MassDiGi"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MassDiGi"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1687798492"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1943890"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1664"
+			"2"		"4182"
+			"3"		"3871"
+			"4"		"4026"
+			"5"		"4726"
+			"6"		"597"
+			"7"		"1730"
+			"8"		"6129"
+			"9"		"4094"
+			"10"		"9"
+			"11"		"4234"
+			"12"		"7569"
+			"13"		"4747"
+			"14"		"7208"
+			"15"		"7481"
+			"16"		"4791"
+			"17"		"7250"
+			"18"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"MassDiGi"
+		"publisher"		"MassDiGi"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Danger Ducklings"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Danger Ducklings.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"1943891"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"246442198238395935"
+					"size"		"2803288984"
+					"download"		"149661280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"CE16C1CE36498A265127562FF63D0CE9"
+					"size"		"4BDE0E02F9DF0C36316B52143F10C0FD"
+					"download"		"A7979B3033AAAD72A74826FA4308631C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11506247"
+				"timeupdated"		"1687183083"
+			}
+			"testing"
+			{
+				"buildid"		"11988225"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692576815"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Danger Ducklings_Data/Saves"
+				"pattern"		"*.txt"
+				"recursive"		"1"
+			}
+		}
+	}
+}
