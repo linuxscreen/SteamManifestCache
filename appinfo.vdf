@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"1057990"
+	"common"
+	{
+		"name"		"Viking Trickshot"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"6b395247a219698c179c773a08cd7f0157a427d9"
+		"logo_small"		"6b395247a219698c179c773a08cd7f0157a427d9_thumb"
+		"icon"		"093fee6d770bf1be2c8b1acb97f470321e0ec58b"
+		"clienticon"		"47ecbcd35c19ba0a1a5d55082f81f2f1e1bc4783"
+		"clienttga"		"bf85138e681fadf04fcdb6855fb590dfa201cadf"
+		"clienticns"		"ad9419a3ecca78164fa56edac9a497b3583ba136"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"49.76662777129525"
+				"height_pct"		"75.45592587104375"
+			}
+		}
+		"store_asset_mtime"		"1625232234"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Doodad Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Ethan Close"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Doodad Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+			"5"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1625104775"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1057990"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"7178"
+			"1"		"3878"
+			"2"		"4026"
+			"3"		"1775"
+			"4"		"1773"
+			"5"		"701"
+			"6"		"3968"
+			"7"		"5055"
+			"8"		"5350"
+			"9"		"4195"
+			"10"		"4136"
+			"11"		"4305"
+			"12"		"3859"
+			"13"		"6815"
+			"14"		"4182"
+			"15"		"16094"
+			"16"		"7368"
+			"17"		"6730"
+			"18"		"597"
+			"19"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Doodad Games"
+		"publisher"		"Doodad Games"
+		"homepage"		"https://doodad.games/viking-trickshot"
+		"isfreeapp"		"1"
+		"listofdlc"		"1559470"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Viking Trickshot"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Viking Trickshot/Viking Trickshot.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1057991"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1306031629556403098"
+					"size"		"239658769"
+					"download"		"110509600"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7117284"
+				"timeupdated"		"1627783524"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Doodad Games/Viking Trickshot"
+				"pattern"		"kvs.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
