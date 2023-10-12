@@ -1,0 +1,246 @@
+"appinfo"
+{
+	"appid"		"1219740"
+	"common"
+	{
+		"name"		"Knockout Daddy"
+		"type"		"Game"
+		"clienttga"		"9105487f8bb9298a7e161ac6b268bd8ec657184c"
+		"clienticon"		"ef4b2ff409f3dd7d0f89276c0ccd946982d0e80e"
+		"icon"		"e8fa6787f4145ea9b52c51686144d233f1360636"
+		"clienticns"		"a3b24d68aa6620a96fc4263acae6d66ebd7558cd"
+		"linuxclienticon"		"c4272ca6396a1087d848210f15856c3f5bf25742"
+		"logo"		"b19ed903060f832ecca4d236415bcbde99bbb3cc"
+		"logo_small"		"b19ed903060f832ecca4d236415bcbde99bbb3cc_thumb"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Knockout Daddy"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"14.641241111829345"
+				"height_pct"		"40.625"
+			}
+		}
+		"store_asset_mtime"		"1579467733"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Big Honk Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Big Honk Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1580890024"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1219740"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"113"
+			"2"		"492"
+			"3"		"699"
+			"4"		"4667"
+			"5"		"4345"
+			"6"		"4026"
+			"7"		"4136"
+		}
+		"review_score"		"7"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Big Honk Studios"
+		"publisher"		"Big Honk Studios"
+		"isfreeapp"		"1"
+		"listofdlc"		"1220970"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Knockout Daddy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NewGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"NewGame.sh"
+				"arguments"		"-opengl4"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"7"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1219741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3047732055727559151"
+					"size"		"540575060"
+					"download"		"290854896"
+				}
+			}
+		}
+		"1219742"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5430530360547961671"
+					"size"		"507643034"
+					"download"		"269370672"
+				}
+			}
+		}
+		"1219743"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2311853276718712758"
+					"size"		"645420503"
+					"download"		"299172224"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4616837"
+				"timeupdated"		"1580239575"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"KnockoutDaddy/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
