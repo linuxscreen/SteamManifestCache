@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"1476430"
+	"common"
+	{
+		"name"		"S.U.M. - Slay Uncool Monsters"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"a97e644a50db1937e8c69dad7dc15133de198ec7"
+		"logo_small"		"a97e644a50db1937e8c69dad7dc15133de198ec7_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"a7af80777c694e5ac88c420e118edd8f687150c4"
+		"clienttga"		"d4076d280eda7d683a216d75fb5364dfd5e644b2"
+		"icon"		"68b7072641abce7ee8350e564c0d5128e94a1c46"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1647993600"
+			"tested_build_id"		"6445550"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.76662777129521"
+				"height_pct"		"56.83890545789233"
+			}
+		}
+		"store_asset_mtime"		"1666988187"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Doomster Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Doomster Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Doomster Entertainment"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1613732040"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1476430"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1036"
+			"1"		"113"
+			"2"		"1664"
+			"3"		"6129"
+			"4"		"5154"
+			"5"		"3964"
+			"6"		"5350"
+			"7"		"597"
+			"8"		"4004"
+			"9"		"3871"
+			"10"		"1773"
+			"11"		"4182"
+			"12"		"4136"
+			"13"		"4604"
+			"14"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Doomster Entertainment"
+		"publisher"		"Doomster Entertainment"
+		"homepage"		"https://doomsterentertainment.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1537580,1537581,1537582,1537583,1537584,1537585"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SUM"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SUM.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"1476431"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4205662618897418963"
+					"size"		"137219104"
+					"download"		"54753328"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6445550"
+				"timeupdated"		"1616766289"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Doomster Entertainment/SUM/"
+				"pattern"		"*.de"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
