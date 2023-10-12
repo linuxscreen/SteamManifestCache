@@ -1,0 +1,317 @@
+"appinfo"
+{
+	"appid"		"923370"
+	"common"
+	{
+		"name"		"Cat Warfare"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"f3e4f871ddca704d781e59cd7ad02cbbcef0bb74"
+		"logo_small"		"f3e4f871ddca704d781e59cd7ad02cbbcef0bb74_thumb"
+		"icon"		"dbba67a31c2b47f5529210cff5bcdb626ad4851b"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"clienttga"		"332684b9fd9c01dbc2b31cf442b8f63bb6c210d8"
+		"clienticon"		"4a1a25369d69b8ccef9e49b3379ad52df0cee8b7"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Cat Warfare"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.60981912144702"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692509558"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Not-So Classic Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Not-So Classic Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1582738980"
+		"community_hub_visible"		"1"
+		"gameid"		"923370"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"1663"
+			"3"		"5547"
+			"4"		"3839"
+			"5"		"3859"
+			"6"		"1775"
+			"7"		"17894"
+			"8"		"1773"
+			"9"		"4191"
+			"10"		"4345"
+			"11"		"5055"
+			"12"		"1774"
+			"13"		"4166"
+			"14"		"4667"
+			"15"		"3942"
+			"16"		"4136"
+			"17"		"4747"
+			"18"		"5179"
+			"19"		"3916"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Not-So Classic Games"
+		"publisher"		"Not-So Classic Games"
+		"homepage"		"https://www.notsoclassicgames.com/games/cat-warfare"
+		"isfreeapp"		"1"
+		"listofdlc"		"1757220"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Cat Warfare"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Cat Warfare.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Cat Warfare Mac.app\\Contents\\MacOS\\Cat Warfare"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Cat Warfare.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"923371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6878969870809414640"
+					"size"		"4055357216"
+					"download"		"1088358896"
+				}
+				"pre-5thyear"
+				{
+					"gid"		"1497878200796656330"
+					"size"		"5289780535"
+					"download"		"1765418352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"catwarfare-old"
+				{
+					"gid"		"F523CDFFA5F823E85C0D199684C54C09"
+					"size"		"CB4DAAC6B37C3F1096DCAF23A4ED3551"
+					"download"		"FF8C8577C685220C011235BD684843BB"
+				}
+				"cw2021"
+				{
+					"gid"		"EF5F554931094B58E06B6B5CC2247D3B"
+					"size"		"3C777C26A9862C8A6871D23805ABC052"
+					"download"		"36A5F02C9C1A4FB5631959F22E37C1FB"
+				}
+			}
+		}
+		"923372"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"18451922713887576"
+					"size"		"4087106613"
+					"download"		"1100049808"
+				}
+				"pre-5thyear"
+				{
+					"gid"		"1757728937955047005"
+					"size"		"5320606262"
+					"download"		"1774606096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"catwarfare-old"
+				{
+					"gid"		"6E73620F6517AFF5C0A2E6BEA440597F"
+					"size"		"70D588F979CC70F7E2685AE7F3A60F1A"
+					"download"		"43EA7887E1BD9CF830C4B1870E447D85"
+				}
+				"cw2021"
+				{
+					"gid"		"79D7C8BE2A576F0C57D5498DABE775D7"
+					"size"		"C6A1CFC226A0F49E99C168FFD1271C20"
+					"download"		"44AD0A0163D6B3C03EB17E35CC58941D"
+				}
+			}
+		}
+		"923373"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2452992942323212695"
+					"size"		"4145821822"
+					"download"		"1131511936"
+				}
+				"pre-5thyear"
+				{
+					"gid"		"1294574788606865937"
+					"size"		"5425168525"
+					"download"		"1810301424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"catwarfare-old"
+				{
+					"gid"		"73DA487D9F73D239E978F29E9BAFBBBD"
+					"size"		"F17447599CE3AD30560F81B762962CEA"
+					"download"		"1D9F840D21773D01B914F4A2F56A4F36"
+				}
+				"cw2021"
+				{
+					"gid"		"9CDA24A8C53FC5A042A416AAFA36394E"
+					"size"		"7C3A500FB26B8E916EB4B53D8850F8D4"
+					"download"		"E13A1906A9CAE594D2AB8E2AA7F75346"
+				}
+			}
+		}
+		"1757220"
+		{
+			"dlcappid"		"1757220"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12215479"
+				"timeupdated"		"1695039500"
+			}
+			"catwarfare-old"
+			{
+				"buildid"		"11762173"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689984280"
+			}
+			"cw2021"
+			{
+				"buildid"		"12215479"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695039184"
+			}
+			"pre-5thyear"
+			{
+				"buildid"		"7502241"
+				"description"		"Pre-5th year build."
+				"timeupdated"		"1694930436"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
