@@ -1,0 +1,174 @@
+"appinfo"
+{
+	"appid"		"851530"
+	"common"
+	{
+		"name"		"Mini-Dead"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"9157fe62715ebf03f5c176b5a8833fe1b09c36a8"
+		"logo"		"010e16dfbf3d176ca3e7a2afbe0712985e0a092b"
+		"logo_small"		"010e16dfbf3d176ca3e7a2afbe0712985e0a092b_thumb"
+		"clienticon"		"72bdaaf131d07f1c84a63a568bd452d76ab4adb4"
+		"clienttga"		"f4a04ad69dc9292069bf16e509cc87c8fda5f8f1"
+		"metacritic_name"		"Mini-Dead"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"84.07234539089845"
+				"height_pct"		"81.1564948943244"
+			}
+		}
+		"store_asset_mtime"		"1574286170"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alec Smith"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Milo Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1525420147"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"851530"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"19"
+			"3"		"4026"
+			"4"		"4637"
+			"5"		"1756"
+			"6"		"3871"
+			"7"		"4885"
+			"8"		"3964"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Alec Smith"
+		"publisher"		"Milo Games"
+		"homepage"		"http://www.milo-games.co.uk/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1199310"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mini-Dead"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"mini-dead/minidead.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"851531"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6471302088986912475"
+					"size"		"173480279"
+					"download"		"148940016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"2479D641AF353088E5F3B8035DD9F66B"
+					"size"		"929FB1C7DAF68D5BF61B14E7728B8126"
+					"download"		"A22ABF1C123C20E5A533E6BE6A105319"
+				}
+			}
+		}
+		"851532"
+		{
+			"config"
+			{
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7085369"
+				"timeupdated"		"1627248827"
+			}
+			"testing"
+			{
+				"buildid"		"9108706"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657660133"
+			}
+		}
+	}
+}
