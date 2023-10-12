@@ -1,0 +1,250 @@
+"appinfo"
+{
+	"appid"		"616610"
+	"common"
+	{
+		"name"		"GetMeBro!"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"bb0d2bde224383193205905012d9273e7b9779a4"
+		"clienttga"		"a0b43c376467aeb0ad363d2f31005e4b9b41b1b3"
+		"icon"		"b24ff63dd17ee2f3ece6d892da23f8200d708664"
+		"logo"		"627762b1dd81706e770bf5ff6279736fd687f5d7"
+		"logo_small"		"627762b1dd81706e770bf5ff6279736fd687f5d7_thumb"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"clienticns"		"e7a3a1a7a75c66cd86e8c85b6dbfdf2c2e9c9c8b"
+		"osextended"		"macos64"
+		"metacritic_name"		"GetMeBro!"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.47031431897556"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1588066678"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GimmeBreak"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GimmeBreak"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"9"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1588164191"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"616610"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"492"
+			"3"		"699"
+			"4"		"493"
+			"5"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"GimmeBreak"
+		"publisher"		"GimmeBreak"
+		"homepage"		"http://www.getmebro.co.uk"
+		"isfreeapp"		"1"
+		"listofdlc"		"1247600,1249900,1249901,1249902,1249903"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"GetMeBro!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GetMeBro.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"mac.app\\Contents\\MacOS\\mac"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,czech"
+		"616611"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9908931093891242"
+					"size"		"185633707"
+					"download"		"47586928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"CB6089A5494357F5FB4E7B6BE672AC1E"
+					"size"		"564221703E7E5149554C8D9BBDC3AEF0"
+					"download"		"8DCC0CADBABA8BAD14C8C69A47B37C77"
+				}
+			}
+		}
+		"616612"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4994044254553192225"
+					"size"		"238885709"
+					"download"		"60176784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"75832601D95DDB4AF4F45FF8BEBAD212"
+					"size"		"DCD995D5D3F7FB2B50C805FEFBA1D7B0"
+					"download"		"316D773EBDA05C5F3F57ECFBBDD534E5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4993773"
+				"timeupdated"		"1588839131"
+			}
+			"devtest"
+			{
+				"buildid"		"4993773"
+				"pwdrequired"		"1"
+				"timeupdated"		"1588838482"
+			}
+		}
+	}
+}
