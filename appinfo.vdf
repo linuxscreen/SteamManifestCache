@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"845250"
+	"common"
+	{
+		"name"		"Fish Tycoon 2: Virtual Aquarium"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"icon"		"458e9565b8e8052229c8bc134cdf9dc38855ddb2"
+		"clienticon"		"9b7cc1c4b15a39d9fab2ef3cd7295323c3bb71f3"
+		"clienttga"		"fcb1072d915a663aa2facc89f64daeb404c3dbcc"
+		"clienticns"		"3564484666746d0993f83f674e142b75b9d85f8f"
+		"logo"		"39e9fb651d5123ad1ee1f736313c7b4aef0b60b2"
+		"logo_small"		"39e9fb651d5123ad1ee1f736313c7b4aef0b60b2_thumb"
+		"metacritic_name"		"Fish Tycoon 2: Virtual Aquarium"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1526060539"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Last Day Of Work"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Last Day Of Work"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1526560231"
+		"community_hub_visible"		"1"
+		"gameid"		"845250"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"Last Day Of Work"
+		"publisher"		"Last Day Of Work"
+		"homepage"		"http://www.ldw.com/privacy_legal.php"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Fish Tycoon 2 Virtual Aquarium"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Virtual Fish Tycoon.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Virtual Fish Tycoon.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"845251"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2032901826598462782"
+					"size"		"169952968"
+					"download"		"66627072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"61D45061D1FD2479EBDA1B92BDAE74A7"
+					"size"		"A4C82277C6F0810AEB6CBD60FE864846"
+					"download"		"9A1E3442A6B2C5870CE6C951052A26A0"
+				}
+			}
+		}
+		"845252"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5891533614885132759"
+					"size"		"223277647"
+					"download"		"80916656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"B494D103D60C4999B962FE854187E5C3"
+					"size"		"4D32CB053F2F098DEAC0203AB72DC950"
+					"download"		"DDC8481FCDF78A1515612F9EECE02A3F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2816146"
+				"timeupdated"		"1527618837"
+			}
+			"test"
+			{
+				"buildid"		"2816146"
+				"pwdrequired"		"1"
+				"timeupdated"		"1527616028"
+			}
+		}
+	}
+}
