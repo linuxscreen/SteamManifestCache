@@ -1,0 +1,279 @@
+"appinfo"
+{
+	"appid"		"593880"
+	"common"
+	{
+		"name"		"Street Fighter V NEW CFN Beta"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"22b0637c49849b04d2127d97210dd32efa297f10"
+		"logo_small"		"22b0637c49849b04d2127d97210dd32efa297f10_thumb"
+		"icon"		"ea0db9dc61e606b544fa30d21d31354998ca1f95"
+		"clienttga"		"55874b8a989a3dd20c9d13c8c29811c04d4b9f1b"
+		"clienticon"		"2f5fc6b348c1c00ab398970ee848cc36aedd7ca3"
+		"metacritic_name"		"Street Fighter V CFN 2.0 Beta"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1490723368"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Capcom"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Capcom"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1490731440"
+		"community_hub_visible"		"1"
+		"gameid"		"593880"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1743"
+			"1"		"113"
+			"2"		"19"
+		}
+		"review_score"		"4"
+		"review_percentage"		"28"
+	}
+	"extended"
+	{
+		"developer"		"Capcom"
+		"publisher"		"Capcom"
+		"homepage"		"http://www.streetfighter.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"StreetFighterV_NewCFNBeta"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StreetFighterV_NewCFNBeta.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"StreetFighterV_NewCFNBeta.exe"
+				"arguments"		"-lowspec"
+				"description"		"StreetFighterV(Low spec mode)"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"593881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"941992366533943493"
+					"size"		"4"
+					"download"		"48"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"20170308t"
+				{
+					"gid"		"786E5236EA7CB11EA545B43E04EB5049"
+					"size"		"03CBD931B362A5802590E5B9757D23FD"
+					"download"		"1EE6A566BE105D27210B10B22A92C7D9"
+				}
+				"20170313s"
+				{
+					"gid"		"939280224936815CD876B91BB478E709"
+					"size"		"59B5C782335E293E5E4D618F6AD0E601"
+					"download"		"7779615F5E7284904B180A24A3F7B551"
+				}
+				"20170313t_e"
+				{
+					"gid"		"C848C6BFC15E4E8B07B666A634861E01"
+					"size"		"D644B38A0C0D9ED00D81957BA4D790F1"
+					"download"		"DE4EA3BC259C175526EA69EE0A7B313A"
+				}
+				"20170315d"
+				{
+					"gid"		"05D5ED9EE6816DA78C3F00107631C8CF"
+					"size"		"338DC1B3537CDF726A1A444E1EDBCAEF"
+					"download"		"43472A1CC9EF00873C581A43F30B94A7"
+				}
+				"20170318m"
+				{
+					"gid"		"B829785547536084294ACEC65BFDF2E2"
+					"size"		"E0C63DD94048D2F4A7FC57F2019C69D4"
+					"download"		"00894352099DE22DD53ED6FA867CA3D0"
+				}
+				"20170509m"
+				{
+					"gid"		"75EA77D34EA8CD91EDF99506F8C5871A"
+					"size"		"8AFB4718ABC990CC73387A3496D68C49"
+					"download"		"F9140DC5F6B6D8E1DE50FC5B6DC3F77B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1678963"
+				"timeupdated"		"1494810008"
+			}
+			"20170308t"
+			{
+				"buildid"		"1791531"
+				"pwdrequired"		"1"
+				"timeupdated"		"1493598943"
+			}
+			"20170313s"
+			{
+				"buildid"		"1791555"
+				"pwdrequired"		"1"
+				"timeupdated"		"1493600647"
+			}
+			"20170313t_e"
+			{
+				"buildid"		"1776506"
+				"pwdrequired"		"1"
+				"timeupdated"		"1493015464"
+			}
+			"20170315d"
+			{
+				"buildid"		"1711512"
+				"pwdrequired"		"1"
+				"timeupdated"		"1490314995"
+			}
+			"20170318m"
+			{
+				"buildid"		"1727024"
+				"pwdrequired"		"1"
+				"timeupdated"		"1490944738"
+			}
+			"20170509m"
+			{
+				"buildid"		"1808280"
+				"pwdrequired"		"1"
+				"timeupdated"		"1494288458"
+			}
+		}
+	}
+}
