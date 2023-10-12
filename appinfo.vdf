@@ -1,0 +1,280 @@
+"appinfo"
+{
+	"appid"		"1086270"
+	"common"
+	{
+		"name"		"Space BloX"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienticon"		"e40fd7776697648edd420833945b960fbea6083c"
+		"clienttga"		"d4f45dc912e22a3a8b7c49cc0c156b7112338059"
+		"icon"		"9b39070b48045c6eac04445297e23fdc403e1835"
+		"clienticns"		"1fdaa35334a4bd4e780c12d4cc25af23821d4472"
+		"linuxclienticon"		"b3313b89c4ec774e66224dd472e3df65d9030b82"
+		"logo"		"c49517209ef153a34457e37d5399d39a61bfe6c4"
+		"logo_small"		"c49517209ef153a34457e37d5399d39a61bfe6c4_thumb"
+		"osextended"		"macos64,macosnotarized"
+		"metacritic_name"		"Space BloX"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"51.945080091533214"
+				"height_pct"		"81.91489213683099"
+			}
+		}
+		"store_asset_mtime"		"1560622083"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Joseph Kukla"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Joseph Kukla"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_39"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_15"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1560796380"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1086270"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"1773"
+			"3"		"4004"
+			"4"		"1685"
+			"5"		"1755"
+			"6"		"3841"
+			"7"		"3871"
+			"8"		"3942"
+			"9"		"7368"
+			"10"		"3798"
+			"11"		"3916"
+			"12"		"3964"
+			"13"		"4026"
+			"14"		"4190"
+			"15"		"7481"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Joseph Kukla"
+		"publisher"		"Joseph Kukla"
+		"homepage"		"http://games.jkukla.com/spaceblox/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Space BloX"
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65535"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Space_BloX.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Space_BloX.app\\Contents\\MacOS\\Space_BloX"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Space_BloX"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1086271"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5543309929832822629"
+					"size"		"15859928"
+					"download"		"5324096"
+				}
+				"nightly"
+				{
+					"gid"		"5543309929832822629"
+					"size"		"15859928"
+					"download"		"5324096"
+				}
+			}
+		}
+		"1086272"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8491165317127391309"
+					"size"		"9363260"
+					"download"		"3726240"
+				}
+				"nightly"
+				{
+					"gid"		"8491165317127391309"
+					"size"		"9363260"
+					"download"		"3726240"
+				}
+			}
+		}
+		"1086273"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4453479039039785141"
+					"size"		"9938062"
+					"download"		"3756960"
+				}
+				"nightly"
+				{
+					"gid"		"4453479039039785141"
+					"size"		"9938062"
+					"download"		"3756960"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3923524"
+				"timeupdated"		"1560724860"
+			}
+			"nightly"
+			{
+				"buildid"		"3923524"
+				"description"		"Dev updates every night"
+				"timeupdated"		"1560718940"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5242880"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Space_BloX"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Space_BloX"
+						"replace"		"com.jkukla.spaceblox"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Space_BloX"
+						"replace"		".config/Space_BloX"
+					}
+				}
+			}
+		}
+	}
+}
