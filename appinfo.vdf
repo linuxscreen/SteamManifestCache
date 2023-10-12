@@ -1,0 +1,880 @@
+"appinfo"
+{
+	"appid"		"598530"
+	"common"
+	{
+		"name"		"Naev"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"icon"		"5c9f607ef63b75545af41528001bad3d2baea1ba"
+		"logo"		"59d44337fc4d8dc7ad49e7ede9e2c21cd5016f25"
+		"logo_small"		"59d44337fc4d8dc7ad49e7ede9e2c21cd5016f25_thumb"
+		"clienttga"		"b40ca41ab4a809aa1428080a9aca07ed7e80047a"
+		"clienticon"		"5caf89846e4c7a8dc80956b9785955dbc3b85940"
+		"linuxclienticon"		"9ebaa7cec9dbf9b18bd72399e4fa6ec2b029976a"
+		"osextended"		"macos64"
+		"clienticns"		"b7df59bd926d36b2e72098ee99e14391446f2f4d"
+		"metacritic_name"		"Naev"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"39.67515583465854"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1683075137"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Naev Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Naev Team"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1500333164"
+		"community_hub_visible"		"1"
+		"gameid"		"598530"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"492"
+			"3"		"1755"
+			"4"		"1695"
+			"5"		"16598"
+			"6"		"3871"
+			"7"		"4182"
+			"8"		"21"
+			"9"		"3834"
+			"10"		"3942"
+			"11"		"122"
+			"12"		"4202"
+			"13"		"4791"
+			"14"		"12057"
+			"15"		"6869"
+			"16"		"6971"
+			"17"		"1742"
+			"18"		"4004"
+			"19"		"599"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Naev Team"
+		"publisher"		"Naev Team"
+		"homepage"		"https://naev.org/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Naev"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"naev.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"naev.x64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"Naev.app\\Contents\\MacOS\\naev"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"app_mappings"
+		{
+			"1"
+			{
+				"platform"		"linux"
+				"tool"		"SteamLinuxRuntime_sniper"
+				"comment"		"sniper SLR"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"598532"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"368075031508482780"
+					"size"		"476003410"
+					"download"		"448676368"
+				}
+				"0.10.0"
+				{
+					"gid"		"822002789767385294"
+					"size"		"475175136"
+					"download"		"448434064"
+				}
+				"0.10.1"
+				{
+					"gid"		"149125398873582064"
+					"size"		"475220061"
+					"download"		"448448240"
+				}
+				"0.10.2"
+				{
+					"gid"		"4970341597024812338"
+					"size"		"475343385"
+					"download"		"448480560"
+				}
+				"0.10.3"
+				{
+					"gid"		"921398125499199993"
+					"size"		"475376667"
+					"download"		"448490272"
+				}
+				"0.10.4"
+				{
+					"gid"		"1758292473431516034"
+					"size"		"475875358"
+					"download"		"448632960"
+				}
+				"0.10.5"
+				{
+					"gid"		"5462237113829268494"
+					"size"		"476007371"
+					"download"		"448677552"
+				}
+				"0.5.3"
+				{
+					"gid"		"6964352189604323071"
+					"size"		"244956464"
+					"download"		"240472352"
+				}
+				"0.6.0"
+				{
+					"gid"		"8199282237602107658"
+					"size"		"302057827"
+					"download"		"295728976"
+				}
+				"0.6.1"
+				{
+					"gid"		"3497853286367917889"
+					"size"		"303378957"
+					"download"		"296955920"
+				}
+				"0.7.0"
+				{
+					"gid"		"244500461147958458"
+					"size"		"318940988"
+					"download"		"312373488"
+				}
+				"0.8.0"
+				{
+					"gid"		"7359230233085075016"
+					"size"		"370044245"
+					"download"		"354859664"
+				}
+				"0.8.1"
+				{
+					"gid"		"8026009816846836154"
+					"size"		"371061613"
+					"download"		"355154768"
+				}
+				"0.8.2"
+				{
+					"gid"		"901435710468823453"
+					"size"		"371063126"
+					"download"		"355155312"
+				}
+				"0.9.0"
+				{
+					"gid"		"3540413186750316619"
+					"size"		"414981301"
+					"download"		"398551152"
+				}
+				"0.9.1"
+				{
+					"gid"		"7652972117429221055"
+					"size"		"415048538"
+					"download"		"398569008"
+				}
+				"0.9.2"
+				{
+					"gid"		"3502804569836478177"
+					"size"		"415322273"
+					"download"		"398631968"
+				}
+				"0.9.3"
+				{
+					"gid"		"5436127843434343732"
+					"size"		"416088037"
+					"download"		"398844096"
+				}
+				"0.9.4"
+				{
+					"gid"		"2516481255773596405"
+					"size"		"419419481"
+					"download"		"399837104"
+				}
+				"nightly"
+				{
+					"gid"		"2582500869499313768"
+					"size"		"486511209"
+					"download"		"458363856"
+				}
+			}
+		}
+		"598534"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3845184708655396800"
+					"size"		"86387584"
+					"download"		"18794480"
+				}
+				"0.10.0"
+				{
+					"gid"		"7299066830944436241"
+					"size"		"86325424"
+					"download"		"18728368"
+				}
+				"0.10.1"
+				{
+					"gid"		"6596514922935930303"
+					"size"		"86325886"
+					"download"		"18728192"
+				}
+				"0.10.2"
+				{
+					"gid"		"3442359860560575401"
+					"size"		"86326622"
+					"download"		"18729056"
+				}
+				"0.10.3"
+				{
+					"gid"		"6807289892876783151"
+					"size"		"86326645"
+					"download"		"18729280"
+				}
+				"0.10.4"
+				{
+					"gid"		"8238478969334629207"
+					"size"		"86341737"
+					"download"		"18736192"
+				}
+				"0.10.5"
+				{
+					"gid"		"9186397347305939750"
+					"size"		"86387584"
+					"download"		"18794368"
+				}
+				"0.5.3"
+				{
+					"gid"		"4154305948689127205"
+					"size"		"14626800"
+					"download"		"3762416"
+				}
+				"0.6.0"
+				{
+					"gid"		"57096492153222392"
+					"size"		"12896970"
+					"download"		"4044384"
+				}
+				"0.6.1"
+				{
+					"gid"		"6131062289752226313"
+					"size"		"12767412"
+					"download"		"4097024"
+				}
+				"0.7.0"
+				{
+					"gid"		"266481593850539338"
+					"size"		"14884478"
+					"download"		"4380256"
+				}
+				"0.8.0"
+				{
+					"gid"		"919501478566029794"
+					"size"		"15756332"
+					"download"		"5902480"
+				}
+				"0.8.1"
+				{
+					"gid"		"6354473039709829879"
+					"size"		"40690761"
+					"download"		"10463632"
+				}
+				"0.8.2"
+				{
+					"gid"		"4704327319865206554"
+					"size"		"44871111"
+					"download"		"11193456"
+				}
+				"0.9.0"
+				{
+					"gid"		"8482228846190238918"
+					"size"		"83751334"
+					"download"		"17749952"
+				}
+				"0.9.1"
+				{
+					"gid"		"6274391646953252599"
+					"size"		"83752697"
+					"download"		"17750224"
+				}
+				"0.9.2"
+				{
+					"gid"		"926234033236921606"
+					"size"		"83751637"
+					"download"		"17805632"
+				}
+				"0.9.3"
+				{
+					"gid"		"7082618929748070254"
+					"size"		"83755315"
+					"download"		"17805792"
+				}
+				"0.9.4"
+				{
+					"gid"		"2132961741545795460"
+					"size"		"83997557"
+					"download"		"17910320"
+				}
+				"nightly"
+				{
+					"gid"		"3725529418478334375"
+					"size"		"87101772"
+					"download"		"18441856"
+				}
+			}
+		}
+		"598536"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5053563538039880188"
+					"size"		"31631976"
+					"download"		"5500816"
+				}
+				"0.10.0"
+				{
+					"gid"		"5850068781637612542"
+					"size"		"30103024"
+					"download"		"5207328"
+				}
+				"0.10.1"
+				{
+					"gid"		"41995527130167217"
+					"size"		"30104336"
+					"download"		"5222400"
+				}
+				"0.10.2"
+				{
+					"gid"		"8510072691918022582"
+					"size"		"30104352"
+					"download"		"5223280"
+				}
+				"0.10.3"
+				{
+					"gid"		"757136689912945863"
+					"size"		"30104184"
+					"download"		"5223888"
+				}
+				"0.10.4"
+				{
+					"gid"		"5009263679110476417"
+					"size"		"30104200"
+					"download"		"5223200"
+				}
+				"0.10.5"
+				{
+					"gid"		"2895233122518480971"
+					"size"		"31631976"
+					"download"		"5501584"
+				}
+				"0.5.3"
+				{
+					"gid"		"4156829684578793438"
+					"size"		"2286584"
+					"download"		"895120"
+				}
+				"0.6.0"
+				{
+					"gid"		"4156829684578793438"
+					"size"		"2286584"
+					"download"		"895120"
+				}
+				"0.6.1"
+				{
+					"gid"		"4156829684578793438"
+					"size"		"2286584"
+					"download"		"895120"
+				}
+				"0.7.0"
+				{
+					"gid"		"4156829684578793438"
+					"size"		"2286584"
+					"download"		"895120"
+				}
+				"0.8.0"
+				{
+					"gid"		"7827070286151785760"
+					"size"		"1830251"
+					"download"		"656320"
+				}
+				"0.8.1"
+				{
+					"gid"		"325956973234500415"
+					"size"		"2477821"
+					"download"		"721824"
+				}
+				"0.8.2"
+				{
+					"gid"		"4156829684578793438"
+					"size"		"2286584"
+					"download"		"895120"
+				}
+				"0.9.0"
+				{
+					"gid"		"2101413496087778151"
+					"size"		"29362984"
+					"download"		"4920880"
+				}
+				"0.9.1"
+				{
+					"gid"		"796684877227350137"
+					"size"		"29363040"
+					"download"		"4922608"
+				}
+				"0.9.2"
+				{
+					"gid"		"3849415690648594756"
+					"size"		"29363176"
+					"download"		"4922160"
+				}
+				"0.9.3"
+				{
+					"gid"		"2217873909888445805"
+					"size"		"29363304"
+					"download"		"4922640"
+				}
+				"0.9.4"
+				{
+					"gid"		"6172028364332253213"
+					"size"		"29362720"
+					"download"		"4921312"
+				}
+				"nightly"
+				{
+					"gid"		"204581325667687285"
+					"size"		"37431680"
+					"download"		"6465824"
+				}
+			}
+		}
+		"598531"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8941537455291822480"
+					"size"		"513071895"
+					"download"		"460062864"
+				}
+				"0.10.0"
+				{
+					"gid"		"3031967470450377793"
+					"size"		"509956829"
+					"download"		"459272208"
+				}
+				"0.10.1"
+				{
+					"gid"		"3393253171329261080"
+					"size"		"511871198"
+					"download"		"459730080"
+				}
+				"0.10.2"
+				{
+					"gid"		"2187377785332692036"
+					"size"		"512123302"
+					"download"		"459802496"
+				}
+				"0.10.3"
+				{
+					"gid"		"6521556100444791365"
+					"size"		"512156584"
+					"download"		"459812384"
+				}
+				"0.10.4"
+				{
+					"gid"		"2882088823298555721"
+					"size"		"512668447"
+					"download"		"459956912"
+				}
+				"0.10.5"
+				{
+					"gid"		"3634356070213873385"
+					"size"		"511910499"
+					"download"		"459673872"
+				}
+				"0.5.3"
+				{
+					"gid"		"5349606180128800655"
+					"size"		"383229367"
+					"download"		"359983520"
+				}
+				"0.6.0"
+				{
+					"gid"		"5349606180128800655"
+					"size"		"383229367"
+					"download"		"359983520"
+				}
+				"0.6.1"
+				{
+					"gid"		"5349606180128800655"
+					"size"		"383229367"
+					"download"		"359983520"
+				}
+				"0.7.0"
+				{
+					"gid"		"5349606180128800655"
+					"size"		"383229367"
+					"download"		"359983520"
+				}
+				"0.8.0"
+				{
+					"gid"		"5349606180128800655"
+					"size"		"383229367"
+					"download"		"359983520"
+				}
+				"0.8.1"
+				{
+					"gid"		"962577052742881458"
+					"size"		"382482923"
+					"download"		"359694608"
+				}
+				"0.8.2"
+				{
+					"gid"		"5349606180128800655"
+					"size"		"383229367"
+					"download"		"359983520"
+				}
+				"0.9.0"
+				{
+					"gid"		"4152674705373406026"
+					"size"		"449937170"
+					"download"		"409363056"
+				}
+				"0.9.1"
+				{
+					"gid"		"96142871682842364"
+					"size"		"450008527"
+					"download"		"409381376"
+				}
+				"0.9.2"
+				{
+					"gid"		"6405500334670847225"
+					"size"		"448827980"
+					"download"		"408839264"
+				}
+				"0.9.3"
+				{
+					"gid"		"8499245589248825943"
+					"size"		"449330028"
+					"download"		"408983872"
+				}
+				"0.9.4"
+				{
+					"gid"		"5420023435774269338"
+					"size"		"453938096"
+					"download"		"410394832"
+				}
+				"nightly"
+				{
+					"gid"		"969412056703562794"
+					"size"		"523559805"
+					"download"		"469386784"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11658680"
+				"timeupdated"		"1688881449"
+			}
+			"0.10.0"
+			{
+				"buildid"		"10203959"
+				"description"		"Legacy 0.10.0 Build"
+				"timeupdated"		"1672305806"
+			}
+			"0.10.1"
+			{
+				"buildid"		"10227797"
+				"description"		"Legacy 0.10.1 Build"
+				"timeupdated"		"1673501215"
+			}
+			"0.10.2"
+			{
+				"buildid"		"10304220"
+				"description"		" Legacy 0.10.2 Build"
+				"timeupdated"		"1673928731"
+			}
+			"0.10.3"
+			{
+				"buildid"		"10336704"
+				"description"		" Legacy 0.10.3 Build"
+				"timeupdated"		"1675491309"
+			}
+			"0.10.4"
+			{
+				"buildid"		"10477155"
+				"description"		"Legacy 0.10.4 Build"
+				"timeupdated"		"1682238506"
+			}
+			"0.10.5"
+			{
+				"buildid"		"11082150"
+				"description"		"Legacy 0.10.5 Build"
+				"timeupdated"		"1688732948"
+			}
+			"0.5.3"
+			{
+				"buildid"		"6564152"
+				"description"		"Legacy Naev 0.5.3 Build"
+				"timeupdated"		"1618836407"
+			}
+			"0.6.0"
+			{
+				"buildid"		"6564202"
+				"description"		" \tLegacy Naev 0.6.0 Build"
+				"timeupdated"		"1618836954"
+			}
+			"0.6.1"
+			{
+				"buildid"		"6564206"
+				"description"		" \tLegacy Naev 0.6.1 Build"
+				"timeupdated"		"1618836967"
+			}
+			"0.7.0"
+			{
+				"buildid"		"6564222"
+				"description"		" \tLegacy Naev 0.7.0 Build"
+				"timeupdated"		"1618837173"
+			}
+			"0.8.0"
+			{
+				"buildid"		"6564232"
+				"description"		" \tLegacy Naev 0.8.0 Build"
+				"timeupdated"		"1618837314"
+			}
+			"0.8.1"
+			{
+				"buildid"		"6059300"
+				"description"		"Legacy Naev 0.8.1 Build"
+				"timeupdated"		"1618837235"
+			}
+			"0.8.2"
+			{
+				"buildid"		"6228847"
+				"description"		"Legacy Naev 0.8.2 Build"
+				"timeupdated"		"1640236534"
+			}
+			"0.9.0"
+			{
+				"buildid"		"7931000"
+				"description"		"Legacy Naev 0.9.0 Build"
+				"timeupdated"		"1641133192"
+			}
+			"0.9.1"
+			{
+				"buildid"		"7961326"
+				"description"		"Legacy Naev 0.9.1 Build"
+				"timeupdated"		"1642734924"
+			}
+			"0.9.2"
+			{
+				"buildid"		"8058708"
+				"description"		"Legacy Naev 0.9.2 Build"
+				"timeupdated"		"1648915883"
+			}
+			"0.9.3"
+			{
+				"buildid"		"8490630"
+				"description"		"Legacy Naev 0.9.3 Build"
+				"timeupdated"		"1658319542"
+			}
+			"0.9.4"
+			{
+				"buildid"		"9168594"
+				"description"		" Legacy Naev 0.9.4 Build"
+				"timeupdated"		"1658458206"
+			}
+			"nightly"
+			{
+				"buildid"		"12408981"
+				"description"		"Nightly Builds"
+				"timeupdated"		"1696988388"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"2"
+			{
+				"root"		"LinuxXdgDataHome"
+				"path"		"naev/saves"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"LinuxXdgDataHome"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataRoaming"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"naev/saves"
+						"replace"		"naev/saves"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"LinuxXdgDataHome"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgDataHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"naev/saves"
+						"replace"		"naev/saves"
+					}
+				}
+			}
+			"2"
+			{
+				"root"		"LinuxXdgDataHome"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"naev/saves"
+						"replace"		"org.naev.Naev/saves"
+					}
+				}
+			}
+		}
+	}
+}
