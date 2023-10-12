@@ -1,0 +1,262 @@
+"appinfo"
+{
+	"appid"		"1103400"
+	"common"
+	{
+		"name"		"Codemancer"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"eddf5e4223a3c5c9306a024bb3de4e022eead185"
+		"logo_small"		"eddf5e4223a3c5c9306a024bb3de4e022eead185_thumb"
+		"icon"		"0be79bb63e32a6e0e6b9c2015b28c1c524f67e28"
+		"clienticon"		"c64cfd24ee44f0fe457fa9a8517a52667673f434"
+		"clienttga"		"5c2a053baf59ef918a1b2ce57c3ef36b05a4ad62"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"metacritic_name"		"Codemancer"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"63.90406079316077"
+			}
+		}
+		"store_asset_mtime"		"1563490712"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Important Little Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Important Little Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1565624100"
+		"community_hub_visible"		"1"
+		"gameid"		"1103400"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"21"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Important Little Games"
+		"publisher"		"Important Little Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Codemancer"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"CodemancerChapter1.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"CodemancerChapter1.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1103401"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6086939144913227480"
+					"size"		"116637912"
+					"download"		"89935248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"EF00583CAED84C544C83E22E00D0797D"
+					"size"		"871472C43F1B0AECDF1DFD98ECB4DCA9"
+					"download"		"EBFE73A2653D1076AB1895BD1482EC8A"
+				}
+			}
+		}
+		"1103402"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8070113373840811413"
+					"size"		"275347182"
+					"download"		"104941248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"E12D39041B16BB2C752205F1F55F8017"
+					"size"		"F3C58111B293B836E40857BC10B4AA60"
+					"download"		"7BAFB04A7B08AC82384966FF6AD03A5F"
+				}
+			}
+		}
+		"1103403"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7851664747300453648"
+					"size"		"257510620"
+					"download"		"135178448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"15C010130E88D65CFC9F8FBE25D352EA"
+					"size"		"E76B00FC88385E1EE90CAD73C10141F0"
+					"download"		"45B84EF080250E0C13F8B1DEEC215866"
+				}
+			}
+		}
+		"1103404"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"BF5CCDAC7E21312E8F011FF92D3E290A"
+					"size"		"871472C43F1B0AECDF1DFD98ECB4DCA9"
+					"download"		"EBFE73A2653D1076AB1895BD1482EC8A"
+				}
+			}
+		}
+		"1103405"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"2570CF46BA160661446B9701F0A33FF1"
+					"size"		"D0D2290A38E8C58779F40B6C730F7D91"
+					"download"		"7CA0C65590592294374FB01231A2B45D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7007556"
+				"timeupdated"		"1625865997"
+			}
+			"development"
+			{
+				"buildid"		"6974798"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625313529"
+			}
+		}
+	}
+}
