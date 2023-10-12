@@ -1,0 +1,260 @@
+"appinfo"
+{
+	"appid"		"1451680"
+	"common"
+	{
+		"name"		"Game Master Engine"
+		"type"		"Game"
+		"icon"		"1c32cef4985b426797abacb168b7743c77d186f7"
+		"logo"		"45e61e065a85e737a2edabf765a8dae6012e8e84"
+		"logo_small"		"45e61e065a85e737a2edabf765a8dae6012e8e84_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"846b4f89c98c552d19847eadfd967cdda4752a80"
+		"clienticon"		"adbef2b9293fa69eee543ba357dd1636e466ec23"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1696106765"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Game Master Studios LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Game Master Studios LLC"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_9"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1615276860"
+		"community_hub_visible"		"1"
+		"gameid"		"1451680"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"8122"
+			"1"		"14153"
+			"2"		"8013"
+			"3"		"87"
+			"4"		"4191"
+			"5"		"17389"
+			"6"		"3843"
+			"7"		"1643"
+			"8"		"1677"
+			"9"		"17305"
+			"10"		"1741"
+			"11"		"4474"
+			"12"		"1770"
+			"13"		"10695"
+			"14"		"122"
+			"15"		"1697"
+			"16"		"4325"
+			"17"		"21725"
+			"18"		"3834"
+			"19"		"3810"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"beta_v0.7"
+		"developer"		"Game Master Studios LLC"
+		"publisher"		"Game Master Studios LLC"
+		"homepage"		"https://www.gamemasterengine.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1793480,2462280"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Game Master Engine"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GameMasterEngine.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1451681"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1894424006803814780"
+					"size"		"18235380689"
+					"download"		"17676016880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha_v0.8"
+				{
+					"gid"		"DEF46FF9E1F29DC7E669FA08882285E1"
+					"size"		"EC93ED6040253F0D7B87B5959F0FDA22"
+					"download"		"3D8E5E20510E88ACCE72140610C868D3"
+				}
+				"beta_test_branch"
+				{
+					"gid"		"70A7BD74358EFC39F4BB2268DAAFDED1"
+					"size"		"86AAB00E9F9F9A9C4717E3F3F1FAF30F"
+					"download"		"5B8F18E5656356FF065296AF86C3FADB"
+				}
+				"beta_v0.7"
+				{
+					"gid"		"187B3B58CCF89A34EB09CA1A4134CCCF"
+					"size"		"17DB6A3A2F35AD4763F2F9674579403C"
+					"download"		"4A7B2E800D19DD7CC11EFFE3E2A02320"
+				}
+				"dev_branch"
+				{
+					"gid"		"BC1A948AFA72A387014D46B5E742541E"
+					"size"		"4001E6DB6FA06608CDE62E0051266E39"
+					"download"		"8ECE58F49F500BAC64F5FF5243B4F061"
+				}
+			}
+		}
+		"1793480"
+		{
+			"dlcappid"		"1793480"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"workshopdepot"		"1451680"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12220776"
+				"timeupdated"		"1695572461"
+			}
+			"alpha_v0.8"
+			{
+				"buildid"		"11895026"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691517708"
+			}
+			"beta_test_branch"
+			{
+				"buildid"		"12220776"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695086283"
+			}
+			"beta_v0.7"
+			{
+				"buildid"		"10844790"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679631685"
+			}
+			"dev_branch"
+			{
+				"buildid"		"11639978"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693436570"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"GameMasterEngine/Saved/SaveGames"
+				"pattern"		".sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
