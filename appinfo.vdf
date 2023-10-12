@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"2099150"
+	"common"
+	{
+		"name"		"Dark Maidens"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"1785a9be8293a4f1801b0e662aaabc3c578d16b4"
+		"clienttga"		"effa49564fc815aa9e48387e783c77a76d2d4bee"
+		"clienticon"		"7a69615e16312217a74cf720c12f06ea83fc5255"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"26.826128968381"
+				"height_pct"		"68.40277777777777"
+			}
+		}
+		"store_asset_mtime"		"1659550968"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ARCHWITCH GAMES LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ARCHWTICH GAMES LLC"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1667408220"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2099150"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"4085"
+			"2"		"7208"
+			"3"		"1646"
+			"4"		"9541"
+			"5"		"4947"
+			"6"		"4172"
+			"7"		"1659"
+			"8"		"4777"
+			"9"		"19"
+			"10"		"21"
+			"11"		"4106"
+			"12"		"15172"
+			"13"		"19995"
+			"14"		"3798"
+			"15"		"4975"
+			"16"		"6815"
+			"17"		"3952"
+			"18"		"10808"
+			"19"		"4608"
+		}
+		"review_score"		"7"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"ARCHWITCH GAMES LLC"
+		"publisher"		"ARCHWTICH GAMES LLC"
+		"homepage"		"https://www.archwitchgames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dark Maidens"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dark Maidens.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Dark Maidens.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"2099151"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3935383033454463863"
+					"size"		"864972336"
+					"download"		"433223296"
+				}
+			}
+		}
+		"2099152"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9180657284022508217"
+					"size"		"1381055229"
+					"download"		"515872016"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10234582"
+				"timeupdated"		"1672433816"
+			}
+		}
+	}
+}
