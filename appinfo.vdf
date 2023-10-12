@@ -1,0 +1,273 @@
+"appinfo"
+{
+	"appid"		"564710"
+	"common"
+	{
+		"name"		"Soda Dungeon"
+		"type"		"Game"
+		"logo"		"1d299a214da1bf78db8b0bd6e75f95a284290556"
+		"logo_small"		"1d299a214da1bf78db8b0bd6e75f95a284290556_thumb"
+		"icon"		"e2843cd00e7eeb139961bac1c9013349ad90fc03"
+		"clienticon"		"0af464272e9f5c6e8768e8c8cfb66115c5f99698"
+		"clienttga"		"87f9cc718fa42e05951a122b8bc984599c284a7f"
+		"oslist"		"windows"
+		"osarch"		""
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"russian"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1663027200"
+			"tested_build_id"		"3197286"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"Soda Dungeon"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"82.95194508009152"
+				"height_pct"		"91.79529802897173"
+			}
+		}
+		"store_asset_mtime"		"1563821746"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AN Productions"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Poxpower"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Armor Games Studios"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Soda Dungeon"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"3"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1486447267"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"564710"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"122"
+			"2"		"3964"
+			"3"		"597"
+			"4"		"3871"
+			"5"		"379975"
+			"6"		"1677"
+			"7"		"1720"
+			"8"		"4182"
+			"9"		"21"
+			"10"		"1684"
+			"11"		"9"
+			"12"		"492"
+			"13"		"19"
+			"14"		"1719"
+			"15"		"4325"
+			"16"		"1756"
+			"17"		"615955"
+			"18"		"3859"
+			"19"		"1698"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"AN Productions"
+		"publisher"		"Armor Games Studios"
+		"homepage"		"http://sodadungeon.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Soda Dungeon"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"dungeon.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"564711"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2040092058058253379"
+					"size"		"76638118"
+					"download"		"49256848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2CD9C74DD7D59CC5539DB9E87571A3DC"
+					"size"		"751FAFCFE0FB6FE99EADA89EEA29270F"
+					"download"		"AC6CCBA7485E0515219FFDB3FB79A872"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3197286"
+				"timeupdated"		"1539120022"
+			}
+			"beta"
+			{
+				"buildid"		"2145977"
+				"pwdrequired"		"1"
+				"timeupdated"		"1506356292"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"dungeon"
+				"pattern"		"POX_DUNGEON.sol"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
