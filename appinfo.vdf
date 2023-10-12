@@ -1,0 +1,285 @@
+"appinfo"
+{
+	"appid"		"1222790"
+	"common"
+	{
+		"name"		"CrossingFrontier"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"019bab5a1ef1c3a6621753072209286e1517e876"
+		"clienticon"		"92330f78006794cd429e86e680dbb5a774ef7d20"
+		"icon"		"d1704ad10905428d89aae4d22e258e62a8fe11e5"
+		"logo"		"a0571a021814ab5b056da6d4f67297f26ade3369"
+		"logo_small"		"a0571a021814ab5b056da6d4f67297f26ade3369_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1222790_eula_0"
+				"name"		"CrossingFrontier EULA"
+				"url"		"https://store.steampowered.com//eula/1222790_eula_0"
+				"version"		"2"
+			}
+		}
+		"linuxclienticon"		"13a564e252f324059bac484596abdc57e591d767"
+		"languages"
+		{
+			"english"		"1"
+			"tchinese"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"28.70967741935482"
+				"height_pct"		"82.29166666666666"
+			}
+		}
+		"store_asset_mtime"		"1667023141"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"beaconofgamers"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"beaconofgamers"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1657764200"
+		"community_hub_visible"		"1"
+		"gameid"		"1222790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3798"
+			"1"		"1775"
+			"2"		"1773"
+			"3"		"4777"
+			"4"		"4085"
+			"5"		"4231"
+			"6"		"6506"
+			"7"		"492"
+			"8"		"4791"
+			"9"		"19"
+			"10"		"1684"
+			"11"		"3942"
+			"12"		"4562"
+			"13"		"3993"
+			"14"		"3859"
+			"15"		"3843"
+			"16"		"113"
+			"17"		"1723"
+			"18"		"4191"
+			"19"		"493"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"developer"		"beaconofgamers"
+		"publisher"		"beaconofgamers"
+		"homepage"		"https://www.facebook.com/BeaconOfGamersStudio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"CrossingFrontier"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CF1.exe"
+				"arguments"		"-status steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"default version"
+				}
+				"description"		"default version"
+			}
+			"1"
+			{
+				"executable"		"CF1.exe"
+				"arguments"		"-status steam -tcp"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"tcp_version"
+				}
+				"description_loc"
+				{
+					"english"		"tcp version"
+				}
+				"description"		"tcp version"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,koreana,schinese,tchinese,japanese"
+		"1222791"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7062516516665759104"
+					"size"		"3247660769"
+					"download"		"2367896032"
+				}
+				"tcp_version"
+				{
+					"gid"		"3849729777818035951"
+					"size"		"3248802097"
+					"download"		"2369020992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta20230905"
+				{
+					"gid"		"CDF74BCC3CA5871CAF3BAF95D275F7E5"
+					"size"		"32CB9052812FC76B5DAEA9B39695D380"
+					"download"		"3860CEEA394F2D218CB4040227712E71"
+				}
+				"testing"
+				{
+					"gid"		"3146EB9DAD81C0115FC8C7423924F1BC"
+					"size"		"F9D0611D3BC5B48BFB1A55E6DCAF6C45"
+					"download"		"D73FB13F1566ACF61DA4B488BBB1A74D"
+				}
+				"testing2"
+				{
+					"gid"		"18298C85C7BBABF4794686EACE28A3A4"
+					"size"		"11D6BD34E68173AC08FE1622FBA78D48"
+					"download"		"8E9737B2326667F1ED7324B502A0E63E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12105509"
+				"timeupdated"		"1693849627"
+			}
+			"beta20230905"
+			{
+				"buildid"		"12305468"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695895796"
+			}
+			"tcp_version"
+			{
+				"buildid"		"12105501"
+				"description"		"will install npcap"
+				"timeupdated"		"1693849636"
+			}
+			"testing"
+			{
+				"buildid"		"12370106"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696556912"
+			}
+			"testing2"
+			{
+				"buildid"		"12411733"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697015406"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000"
+		"maxnumfiles"		"2"
+	}
+}
