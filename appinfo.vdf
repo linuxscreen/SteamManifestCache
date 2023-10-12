@@ -1,0 +1,222 @@
+"appinfo"
+{
+	"appid"		"778000"
+	"common"
+	{
+		"name"		"The SOL Device"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienticon"		"5006d5ceac4ba3b68cb3b4bdb75a9d951a227f36"
+		"clienttga"		"752055b55bab8cf0e3c85dbac296e4ffa46844e6"
+		"icon"		"0ac178914d17d2d2bee5ba2337c25abaf73912d0"
+		"logo"		"bfa395860bb17f11f376536d1993d69262a660ed"
+		"logo_small"		"bfa395860bb17f11f376536d1993d69262a660ed_thumb"
+		"osextended"		"macos64"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.66589057043073"
+				"height_pct"		"98.54518518518519"
+			}
+		}
+		"store_asset_mtime"		"1572315773"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Straitlace Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Straitlace Studios"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1531119600"
+		"steam_release_date"		"1531108800"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"778000"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"21"
+			"2"		"492"
+			"3"		"9"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Straitlace Studios"
+		"publisher"		"Straitlace Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The SOL Device"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SolGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"The_SOL_Device"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"TheSOLDevice.app\\Contents\\MacOS\\Mac_Runner"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"778001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1419142036847751058"
+					"size"		"227216772"
+					"download"		"193563808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DD2A2859822B25AB2DF92A8834D8B377"
+					"size"		"4741BF53316BD85D3C6EB1CCC5BDF271"
+					"download"		"BAE6F1F36D021933520F06AF38D8618B"
+				}
+			}
+		}
+		"778002"
+		{
+			"sharedinstall"		""
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7087060040603101320"
+					"size"		"228312896"
+					"download"		"193750976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A1479F60B76AE001BCE7AD8FF34B56A7"
+					"size"		"B3AD8898D625F18CFC6A1DB85E28BBF6"
+					"download"		"FE355C1951DD1A51D1D98477C3948572"
+				}
+			}
+		}
+		"778003"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4609743274666948111"
+					"size"		"244806063"
+					"download"		"198366704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"758DC35183BBDA6D5461A0990F1D6B64"
+					"size"		"E8B0CE879912AF161C064EB3DCF33BD5"
+					"download"		"8452F87F9134C5AA9F714781D0DC15CD"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7016263"
+				"timeupdated"		"1626097457"
+			}
+			"beta"
+			{
+				"buildid"		"7016263"
+				"pwdrequired"		"1"
+				"timeupdated"		"1626097153"
+			}
+		}
+	}
+}
