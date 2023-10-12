@@ -1,0 +1,177 @@
+"appinfo"
+{
+	"appid"		"1390000"
+	"common"
+	{
+		"name"		"Antadin DX"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"54c40a477a6f2d39f9fad0351e5f2c04c490f15b"
+		"clienttga"		"3d83fbbb11958f9820aaad2a439e344c96e6a446"
+		"icon"		"e66cb020b2a6b6f1d54124152e51f7b14978d8a2"
+		"logo"		"4bf496ed31ac3606ba1e1952acd09ba41a88ae79"
+		"logo_small"		"4bf496ed31ac3606ba1e1952acd09ba41a88ae79_thumb"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1597210089"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Red Skald"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Red Skald"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1598967857"
+		"community_hub_visible"		"1"
+		"gameid"		"1390000"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4434"
+			"1"		"6426"
+			"2"		"10695"
+			"3"		"1742"
+			"4"		"4325"
+			"5"		"4604"
+			"6"		"5379"
+			"7"		"3799"
+			"8"		"122"
+			"9"		"4166"
+			"10"		"3964"
+			"11"		"3871"
+			"12"		"6971"
+			"13"		"5030"
+			"14"		"14139"
+			"15"		"21"
+			"16"		"5716"
+			"17"		"4342"
+			"18"		"4182"
+			"19"		"113"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"developer"		"Red Skald"
+		"publisher"		"Red Skald"
+		"homepage"		"https://redskald.wordpress.com/games/antadin-dx/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"AntadinDX"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1390001"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4740931897837008770"
+					"size"		"242176017"
+					"download"		"124897696"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5912903"
+				"timeupdated"		"1606937694"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000000"
+		"maxnumfiles"		"24"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"www\\save"
+				"pattern"		"*.rpgsave"
+			}
+		}
+	}
+}
