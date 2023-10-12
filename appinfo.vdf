@@ -1,0 +1,216 @@
+"appinfo"
+{
+	"appid"		"1805080"
+	"common"
+	{
+		"name"		"Reta Tus Habilidades"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"52329bf51aeb24f8f9e975acd976fcfde7bac93a"
+		"logo_small"		"52329bf51aeb24f8f9e975acd976fcfde7bac93a_thumb"
+		"icon"		"a3c538b3d9ac6b036082b7ac349f46e0834c2ee0"
+		"clienttga"		"9abc13f9e66c6e43b675aba45e48a95d04d18cc3"
+		"linuxclienticon"		"15cfb4ae91fd5ad63d5456ad2a3731e4760058d4"
+		"clienticon"		"31a4f8474d69dd0bd559a8ca52303180c76cc8bb"
+		"clienticns"		"9bdbc1fd4db3a45c0962f64606f55ad76e38da53"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"latam"		"capsule_231x87_latam.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,es-419"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"57.599145096176684"
+			}
+		}
+		"store_asset_mtime"		"1638486429"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Impacta Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Impacta Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1639429381"
+		"community_hub_visible"		"1"
+		"gameid"		"1805080"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"9"
+			"2"		"122"
+			"3"		"1774"
+			"4"		"4364"
+			"5"		"1664"
+			"6"		"10695"
+			"7"		"3798"
+			"8"		"3834"
+			"9"		"1738"
+			"10"		"4191"
+			"11"		"3839"
+			"12"		"1697"
+			"13"		"699"
+			"14"		"4136"
+			"15"		"1036"
+			"16"		"1684"
+			"17"		"4172"
+			"18"		"5716"
+			"19"		"1708"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Impacta Games"
+		"publisher"		"Impacta Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Reta Tus Habilidades"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NH_Games.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"NH_Games.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1805081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8390981763225245710"
+					"size"		"501310350"
+					"download"		"402700256"
+				}
+				"uploads"
+				{
+					"gid"		"8390981763225245710"
+					"size"		"501310350"
+					"download"		"402700256"
+				}
+			}
+		}
+		"1805082"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8149221701591752928"
+					"size"		"461234356"
+					"download"		"235215104"
+				}
+				"uploads"
+				{
+					"gid"		"8149221701591752928"
+					"size"		"461234356"
+					"download"		"235215104"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7910732"
+				"timeupdated"		"1639951069"
+			}
+			"uploads"
+			{
+				"buildid"		"7910732"
+				"description"		"Primero se sube en Uploads"
+				"timeupdated"		"1639951031"
+			}
+		}
+	}
+}
