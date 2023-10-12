@@ -1,0 +1,236 @@
+"appinfo"
+{
+	"appid"		"1874810"
+	"common"
+	{
+		"name"		"秋恋物语 Autumn Romance"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"99c671d83aa4f120c5ec4bed71f927f52aedc45d"
+		"logo_small"		"99c671d83aa4f120c5ec4bed71f927f52aedc45d_thumb"
+		"icon"		"cc82ae024c3497a045f569cf542c670b9e1817d7"
+		"clienticon"		"bdcd772de80a2af675643f27ed2f0feab73440d8"
+		"clienttga"		"441788f2b25161ae92165a1a737a4102ffbb42a1"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1663027200"
+			"tested_build_id"		"8154076"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"22.941720247107696"
+				"height_pct"		"47.7294228949858"
+			}
+		}
+		"store_asset_mtime"		"1642164497"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"异度沸腾动漫社-沸腾工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"异度沸腾动漫社-沸腾工作室"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1643974841"
+		"community_hub_visible"		"1"
+		"gameid"		"1874810"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"9551"
+			"2"		"24003"
+			"3"		"3799"
+			"4"		"9204"
+			"5"		"3871"
+			"6"		"4085"
+			"7"		"4562"
+			"8"		"4726"
+			"9"		"5984"
+			"10"		"5608"
+			"11"		"1742"
+			"12"		"6971"
+			"13"		"7208"
+			"14"		"4182"
+			"15"		"113"
+			"16"		"11014"
+			"17"		"4434"
+			"18"		"5673"
+			"19"		"379975"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"异度沸腾动漫社-沸腾工作室"
+		"publisher"		"异度沸腾动漫社-沸腾工作室"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"AutumnRomance-pc"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AutumnRomance.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"AutumnRomance-32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1874811"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1432547806438188460"
+					"size"		"595274805"
+					"download"		"363862368"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8154076"
+				"timeupdated"		"1644158747"
+			}
+		}
+	}
+}
