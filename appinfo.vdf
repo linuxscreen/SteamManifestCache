@@ -1,0 +1,159 @@
+"appinfo"
+{
+	"appid"		"2200670"
+	"common"
+	{
+		"name"		"Forge of Destiny"
+		"type"		"Game"
+		"icon"		"bfadf426581b655c792030f02d686cc4bec0e184"
+		"clienttga"		"6d0dcb086321ce524c17a85e401badf4c44e327e"
+		"clienticon"		"ea1a5da335423b49c8b9f66f753438e3f2bce45f"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667414594"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nodo Play"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nodo Play"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1673305482"
+		"community_hub_visible"		"1"
+		"gameid"		"2200670"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"1773"
+			"3"		"4486"
+			"4"		"3964"
+			"5"		"1777"
+			"6"		"1742"
+			"7"		"113"
+			"8"		"492"
+			"9"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Nodo Play"
+		"publisher"		"Nodo Play"
+		"homepage"		"https://forgeofdestiny.net"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FoD"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"fod.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"fod.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"spanish"
+		"2200671"
+		{
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9047038758031123784"
+					"size"		"959590578"
+					"download"		"715475952"
+				}
+			}
+		}
+		"2200672"
+		{
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"macos"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10366827"
+				"timeupdated"		"1674219706"
+			}
+		}
+	}
+}
