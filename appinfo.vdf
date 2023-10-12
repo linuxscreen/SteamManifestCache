@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"1636350"
+	"common"
+	{
+		"name"		"Nemezis: Mysterious Journey III Prolog"
+		"type"		"Game"
+		"logo"		"f120d75610213927594e8142c8b850ab57599519"
+		"logo_small"		"f120d75610213927594e8142c8b850ab57599519_thumb"
+		"icon"		"264ff9cee74d7eadb4bedd72335e3b84ec288da6"
+		"clienticon"		"9f63c61e972aeb251a9928b1753f0ba90a4a604e"
+		"clienttga"		"44c82ecfb4cafee0d497eb5c822e90936e03f34f"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1625836962"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Detalion Games S.A."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" PlayWay S.A."
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1622633087"
+		"community_hub_visible"		"1"
+		"gameid"		"1636350"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1664"
+			"2"		"8369"
+			"3"		"3839"
+			"4"		"1742"
+			"5"		"4166"
+			"6"		"597"
+			"7"		"5716"
+			"8"		"492"
+			"9"		"3834"
+			"10"		"5613"
+			"11"		"4026"
+			"12"		"1698"
+			"13"		"1654"
+			"14"		"4182"
+			"15"		"1738"
+			"16"		"4191"
+			"17"		"4305"
+			"18"		"3854"
+			"19"		"5923"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Detalion Games S.A."
+		"publisher"		" PlayWay S.A."
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Nemezis Mysterious Journey III Prolog"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NemezisIIIMysteriousJourney.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1636351"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2342928101861077563"
+					"size"		"6192863265"
+					"download"		"6118962016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"55EBA894979C0EBD213107B90F8A2A9A"
+					"size"		"87625F803645E3E1126480B3E335F8FD"
+					"download"		"8C6B0A76FC8A287D445A98300ACB7CFE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6861629"
+				"timeupdated"		"1623616391"
+			}
+			"testbranch"
+			{
+				"buildid"		"6861629"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623613319"
+			}
+		}
+	}
+}
