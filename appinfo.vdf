@@ -1,0 +1,391 @@
+"appinfo"
+{
+	"appid"		"1790310"
+	"common"
+	{
+		"name"		"Romance of the Three Kingdoms Hadou [JP]"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"91977f263b7d6fdc9867a2f0760e4c740a8102df"
+		"clienticon"		"101b38840c554f7d66a4ff78dc29cb941a623850"
+		"icon"		"23b9851193b9417e2a7bf356c56cf55bae51e54c"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1790310_eula_0"
+				"name"		"三國志 覇道 EULA"
+				"url"		"https://store.steampowered.com//eula/1790310_eula_0"
+				"version"		"13"
+			}
+		}
+		"name_localized"
+		{
+			"japanese"		"三國志 覇道"
+		}
+		"logo"		"5e72e72e4bb111e101cefb6451019bb95a67fb06"
+		"logo_small"		"5e72e72e4bb111e101cefb6451019bb95a67fb06_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1680307200"
+			"tested_build_id"		"9323639"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1683692516"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"29"
+			"1"		"28"
+			"2"		"2"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_35"		"1"
+			"category_20"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1645082475"
+		"community_hub_visible"		"1"
+		"gameid"		"1790310"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"1676"
+			"2"		"3813"
+			"3"		"4684"
+			"4"		"4791"
+			"5"		"113"
+			"6"		"9"
+			"7"		"128"
+			"8"		"1678"
+			"9"		"3987"
+			"10"		"1775"
+			"11"		"5711"
+			"12"		"3843"
+			"13"		"4182"
+			"14"		"3859"
+			"15"		"1708"
+			"16"		"3878"
+			"17"		"3965"
+			"18"		"32322"
+		}
+		"review_score"		"5"
+		"review_percentage"		"40"
+	}
+	"extended"
+	{
+		"allowmicrotxnfromrestrictedcountries"		"0"
+		"microtxnrestrictedcountries"		"RU,BY"
+		"developer"		"KOEI TECMO GAMES CO., LTD."
+		"publisher"		"KOEI TECMO GAMES CO., LTD."
+		"homepage"		"https://www.gamecity.ne.jp/sangokushi_hadou/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Romance_of_the_Three_Kingdoms_Hadou"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SAN_HADOU_Launcher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1790311"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1184947603325221038"
+					"size"		"208615740"
+					"download"		"188767056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"010_release_master"
+				{
+					"gid"		"D8B9F4EA0E9801911BFE6FF094B985B5"
+					"size"		"8A66A1CF5589AD0FB6F275C928D24AC2"
+					"download"		"BDE834B960E2F560FB399A65AA1FAF9D"
+				}
+				"011_release_sbx"
+				{
+					"gid"		"78688CDEF19506A22B6AC1C34B8E37F5"
+					"size"		"990A1BA8356249C8A7B50EE04C7818D9"
+					"download"		"2CB53B4DBC785B91783F7313E186FC87"
+				}
+				"0138_sbx1_20_00"
+				{
+					"gid"		"03CE8BD783D5CD46683D320A6858847C"
+					"size"		"C3EDF1E2A717D53212CCD6367F2F9110"
+					"download"		"78812DC07735BF6CE842B51D128BA1E4"
+				}
+				"0139_patch1_20_00"
+				{
+					"gid"		"50888E2CB9D605944E29C8805308569A"
+					"size"		"C773A70E37F0492393E720D27D8FE501"
+					"download"		"777E6814ABC75F1928BB99292BB7FEA2"
+				}
+				"0140_sbx1_12_00"
+				{
+					"gid"		"C5E7E8D5AD2D21B465C0B93663F26CC4"
+					"size"		"8546C783CF244E67D77E14B2AC852D71"
+					"download"		"A18C831608DE3EF20E6187EC40A0AD9C"
+				}
+				"0141_patch1_12_00"
+				{
+					"gid"		"FA2CC99A6BA61A217241FB1068CEDA87"
+					"size"		"9D69595F7712784DCD2DD5998DF03187"
+					"download"		"5B6934E06E8EAFB9F5A907D3847D0CAD"
+				}
+				"0142_sbx1_12_01"
+				{
+					"gid"		"117771BDA0CBE37F90F58094E31C2103"
+					"size"		"BD0D5A6B12C382CFD9823B700CF11A68"
+					"download"		"849883FB2C71C44C888D7C7B49DC9FA9"
+				}
+				"0143_patch1_12_01"
+				{
+					"gid"		"9E2F9D2B131694F693540617BCF9A77E"
+					"size"		"2F9D109345793875C2C27EBE34AD9444"
+					"download"		"D36277633F4BA8354580721249C30D79"
+				}
+				"0144_sbx1_12_02"
+				{
+					"gid"		"8F8C0179FC082EDEF675D5D9DEC01714"
+					"size"		"2A82625DA8A851520BBBA98C77E80F95"
+					"download"		"8198C309DB9C4839AA7A9A3AA5EAA7E1"
+				}
+				"0145_patch1_12_02"
+				{
+					"gid"		"83F4656F26C43C2F54A31D7826258100"
+					"size"		"418E22AB6EB42B6CE379CB89DC9C90FA"
+					"download"		"004B3771CB0F5793A830A60281DCB419"
+				}
+				"030_check_master"
+				{
+					"gid"		"C56473B63C6A6D9737CE63A6969A2D17"
+					"size"		"587FBEE82D4CEAB042DEC1B3CDD1D4D7"
+					"download"		"86586D28107A3208E7A49CFEE8B26226"
+				}
+				"031_check_sbx"
+				{
+					"gid"		"7199F16A54CC940F63A55AA58106D195"
+					"size"		"802603D5CEEE5B84C89DBE76690BE79C"
+					"download"		"6E06CB8C6C2B44059F10BFF673BB9967"
+				}
+				"050_prev_master"
+				{
+					"gid"		"586595FA5B2388159052491E6CDA8C67"
+					"size"		"BA6FE245EF589C7D7243FEE3FCF27B16"
+					"download"		"6E6337B138BBBD91020C5CCAB34FDBFD"
+				}
+				"070_newest_sbx"
+				{
+					"gid"		"DABE5C9A637B9B891E559277FA5A34E3"
+					"size"		"27E8AB7947C86DA9E4318F55388FB389"
+					"download"		"7D9FC888E317A0F945613EC27C7C763E"
+				}
+			}
+		}
+		"1790312"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12243001"
+				"timeupdated"		"1695377918"
+			}
+			"010_release_master"
+			{
+				"buildid"		"12243001"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696901689"
+			}
+			"011_release_sbx"
+			{
+				"buildid"		"12243015"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696901708"
+			}
+			"0138_sbx1_20_00"
+			{
+				"buildid"		"12157102"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694418536"
+			}
+			"0139_patch1_20_00"
+			{
+				"buildid"		"12156899"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694416257"
+			}
+			"0140_sbx1_12_00"
+			{
+				"buildid"		"12174202"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694577953"
+			}
+			"0141_patch1_12_00"
+			{
+				"buildid"		"12174262"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694573691"
+			}
+			"0142_sbx1_12_01"
+			{
+				"buildid"		"12194276"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694742884"
+			}
+			"0143_patch1_12_01"
+			{
+				"buildid"		"12194271"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694743032"
+			}
+			"0144_sbx1_12_02"
+			{
+				"buildid"		"12243015"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695273419"
+			}
+			"0145_patch1_12_02"
+			{
+				"buildid"		"12243001"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695275106"
+			}
+			"030_check_master"
+			{
+				"buildid"		"12243001"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696901942"
+			}
+			"031_check_sbx"
+			{
+				"buildid"		"12243015"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696901961"
+			}
+			"050_prev_master"
+			{
+				"buildid"		"12194271"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696902033"
+			}
+			"070_newest_sbx"
+			{
+				"buildid"		"12157102"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696902095"
+			}
+		}
+	}
+}
