@@ -1,0 +1,216 @@
+"appinfo"
+{
+	"appid"		"862440"
+	"common"
+	{
+		"name"		"Angel Wings"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"235464d2a8200148f0aa01bdd95fc4d3244ceb7f"
+		"logo_small"		"235464d2a8200148f0aa01bdd95fc4d3244ceb7f_thumb"
+		"icon"		"1c4084279027b32f38030d5fd6dfcebd29e3a441"
+		"clienticon"		"572b75386fc3694fb611419f1955369deca61226"
+		"clienttga"		"24a60d0070b626ed1daad7ca8f59ef96a84f6880"
+		"releasestate"		"released"
+		"metacritic_name"		"Angel Wings"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.689357150844316"
+				"height_pct"		"70.16346077732922"
+			}
+		}
+		"store_asset_mtime"		"1666983034"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RumR Design"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"RumR Design"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Angel Wings"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1611950340"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"862440"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"113"
+			"2"		"9551"
+			"3"		"4486"
+			"4"		"11014"
+			"5"		"4947"
+			"6"		"3871"
+			"7"		"5923"
+			"8"		"4136"
+			"9"		"4878"
+			"10"		"9"
+			"11"		"6426"
+			"12"		"15172"
+			"13"		"6971"
+			"14"		"1742"
+			"15"		"44868"
+			"16"		"597"
+			"17"		"6815"
+			"18"		"599"
+			"19"		"5608"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"RumR Design"
+		"publisher"		"RumR Design"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Angel Wings"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AngelStory.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"862441"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5668874767203721591"
+					"size"		"1388911627"
+					"download"		"1362492192"
+				}
+				"beta"
+				{
+					"gid"		"5668874767203721591"
+					"size"		"1388911627"
+					"download"		"1362492192"
+				}
+				"legacy"
+				{
+					"gid"		"2763981873751899529"
+					"size"		"1385704099"
+					"download"		"1359271392"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6389994"
+				"timeupdated"		"1615915000"
+			}
+			"beta"
+			{
+				"buildid"		"6389994"
+				"description"		"Testing builds"
+				"timeupdated"		"1615913142"
+			}
+			"legacy"
+			{
+				"buildid"		"6284451"
+				"description"		"Legacy branch with previous versions of the game"
+				"timeupdated"		"1615915071"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"config"
+				"pattern"		"persist.xml"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"saves"
+				"pattern"		"*.xml"
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"config"
+				"pattern"		"skip.bin"
+			}
+		}
+	}
+}
