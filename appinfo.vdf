@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"1723420"
+	"common"
+	{
+		"name"		"Zombie Hunter"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"clienticon"		"7f3ecfbd43afaf59003ddcad74a758c9c1c26935"
+		"clienttga"		"dece83f8726f5259993b25aa5f91a737960e9e3d"
+		"icon"		"ef08771b3ba76f5f64d6706284475193f90b4a27"
+		"logo"		"0b462342f3239d5c4f20b2413168e92e89d70da9"
+		"logo_small"		"0b462342f3239d5c4f20b2413168e92e89d70da9_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"spanish"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"98.13953488372096"
+				"height_pct"		"67.7036333412491"
+			}
+		}
+		"store_asset_mtime"		"1633079717"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"1MB"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VIVA STUDIOS"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1633331092"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1723420"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1774"
+			"2"		"1663"
+			"3"		"3839"
+			"4"		"3978"
+			"5"		"1659"
+			"6"		"1678"
+			"7"		"113"
+			"8"		"4182"
+			"9"		"492"
+			"10"		"3993"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"developer"		"1MB"
+		"publisher"		"VIVA STUDIOS"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Zombie Hunter"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Zombie Hunter.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Zombie Hunter.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,russian"
+		"hasdepotsindlc"		"0"
+		"1723421"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2656464626079133272"
+					"size"		"262646519"
+					"download"		"99482576"
+				}
+			}
+		}
+		"1723422"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"644437178163061274"
+					"size"		"291380148"
+					"download"		"106247168"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7688091"
+				"timeupdated"		"1636538184"
+			}
+		}
+	}
+}
