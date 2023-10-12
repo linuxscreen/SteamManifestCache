@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"2438490"
+	"common"
+	{
+		"name"		"FireRun逃生門"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"9dae61a91ecae5df1a9d721c431f7c86338b62e7"
+		"clienticns"		"d7036f78fe1d67fb7516a4a9885a3f86364a3df8"
+		"linuxclienticon"		"d7036f78fe1d67fb7516a4a9885a3f86364a3df8"
+		"clienticon"		"c1c286b4fcf728de53af764fbbde9ea1f4ab7764"
+		"clienttga"		"69c55126a50b5f0c140300ced665c77e573cce18"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1694131200"
+			"tested_build_id"		"11395384"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.64274168227947"
+				"height_pct"		"66.41391330482409"
+			}
+		}
+		"store_asset_mtime"		"1686496224"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"線性馬達"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"線性馬達"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1688124110"
+		"community_hub_visible"		"1"
+		"gameid"		"2438490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"8666"
+			"2"		"21"
+			"3"		"1625"
+			"4"		"29363"
+			"5"		"1697"
+			"6"		"5796"
+			"7"		"5984"
+			"8"		"5502"
+			"9"		"492"
+			"10"		"5372"
+			"11"		"4182"
+			"12"		"3877"
+		}
+	}
+	"extended"
+	{
+		"developer"		"線性馬達"
+		"publisher"		"線性馬達"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FireRun"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FireRun.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"2438492"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"firerun"
+				{
+					"gid"		"6795922367297763021"
+					"size"		"756100892"
+					"download"		"188721632"
+				}
+			}
+		}
+		"2438491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2488805476027178390"
+					"size"		"756100892"
+					"download"		"188721632"
+				}
+				"firerun"
+				{
+					"gid"		"837074428460004237"
+					"size"		"756102252"
+					"download"		"188722736"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11395384"
+				"timeupdated"		"1685965541"
+			}
+			"firerun"
+			{
+				"buildid"		"11395350"
+				"description"		"test"
+				"timeupdated"		"1685965249"
+			}
+		}
+	}
+}
