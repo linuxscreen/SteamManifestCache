@@ -1,0 +1,217 @@
+"appinfo"
+{
+	"appid"		"1801230"
+	"common"
+	{
+		"name"		"Cemetery Mary"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"e00bb2a07f8fe8b6cf2acc4b68a2befa20726677"
+		"logo_small"		"e00bb2a07f8fe8b6cf2acc4b68a2befa20726677_thumb"
+		"icon"		"77022875ad21e05ced18eeee18e95a4e1a1f613d"
+		"clienticon"		"0b6d48450460ce34d6b0889ebc58cbdd9c4288bd"
+		"clienttga"		"e78da478fdd392829476d7b771c4eb2e79f9da4e"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1689638400"
+			"tested_build_id"		"8973658"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.60777028083301"
+				"height_pct"		"98.10785241248817"
+			}
+		}
+		"store_asset_mtime"		"1637435120"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"arcadekitten"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"arcadekitten"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1640826030"
+		"community_hub_visible"		"1"
+		"gameid"		"1801230"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"122"
+			"2"		"4486"
+			"3"		"7208"
+			"4"		"3871"
+			"5"		"4726"
+			"6"		"1697"
+			"7"		"6426"
+			"8"		"6971"
+			"9"		"1742"
+			"10"		"4085"
+			"11"		"4252"
+			"12"		"4064"
+			"13"		"5984"
+			"14"		"8369"
+			"15"		"5716"
+			"16"		"113"
+			"17"		"4182"
+			"18"		"4562"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"arcadekitten"
+		"publisher"		"arcadekitten"
+		"isfreeapp"		"1"
+		"listofdlc"		"1847040"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Cemetery Mary"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CemeteryMary.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CemeteryMary.app\\Contents\\MacOS\\CemeteryMary"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"CemeteryMary.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1801235"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7707411061841469435"
+					"size"		"513211328"
+					"download"		"320443552"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8973658"
+				"timeupdated"		"1655754262"
+			}
+		}
+	}
+}
