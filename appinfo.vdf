@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"2207010"
+	"common"
+	{
+		"name"		"Yōkaimaki"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"9d07b0d0d4fb9479bc62397ae2d266171e530071"
+		"clienticon"		"e676ec8a3b7af81296f887028bd91ea69d13a7a9"
+		"clienttga"		"8ba846232d9057c6b4c0ade00c8ebda09f2d784d"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"96.39115250291036"
+				"height_pct"		"79.63666587508905"
+			}
+		}
+		"store_asset_mtime"		"1670832822"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Open Alpha"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Open Alpha"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1670966411"
+		"community_hub_visible"		"1"
+		"gameid"		"2207010"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"597"
+			"2"		"15564"
+			"3"		"16094"
+			"4"		"3920"
+			"5"		"1667"
+			"6"		"916648"
+			"7"		"10235"
+			"8"		"9157"
+			"9"		"16689"
+			"10"		"4166"
+			"11"		"6815"
+			"12"		"3871"
+			"13"		"7250"
+			"14"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"Open Alpha"
+		"publisher"		"Open Alpha"
+		"homepage"		"https://openalphausc.weebly.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Yōkaimaki"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Yokaimaki.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Yokaimaki.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2207011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7569042834408622699"
+					"size"		"3731141574"
+					"download"		"268631344"
+				}
+			}
+		}
+		"2207012"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5872644333342979689"
+					"size"		"3756007358"
+					"download"		"276818304"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10127375"
+				"timeupdated"		"1670835115"
+			}
+		}
+	}
+}
