@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"2478160"
+	"common"
+	{
+		"name"		"Shan Hai Express"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"87a7c9b306dbb44b8f9b87fa8bf426aeb3e2372e"
+		"clienttga"		"b167afa67d249f1a8899a777920cb59df71b96c4"
+		"clienticon"		"79a4b17a9e0748c2082136a03cfe787b37f804fb"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1695859200"
+			"tested_build_id"		"11495606"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"53.40964437211199"
+			}
+		}
+		"store_asset_mtime"		"1686997250"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Siwei Cai"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Ise Lee"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Siwei Cai"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Ise Lee"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1689749614"
+		"community_hub_visible"		"1"
+		"gameid"		"2478160"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"5900"
+			"2"		"11014"
+			"3"		"84"
+			"4"		"3834"
+			"5"		"9204"
+			"6"		"1742"
+			"7"		"3839"
+			"8"		"1684"
+			"9"		"16094"
+			"10"		"4182"
+			"11"		"492"
+			"12"		"21"
+			"13"		"599"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Siwei Cai"
+		"publisher"		"Siwei Cai"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ShanhaiExpress"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ShanhaiExpressBeta12\\Windows\\ShanhaiExpress.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2478161"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6709460938974806446"
+					"size"		"627349102"
+					"download"		"400196832"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11495606"
+				"timeupdated"		"1687004358"
+			}
+		}
+	}
+}
