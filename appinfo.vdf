@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"1861110"
+	"common"
+	{
+		"name"		"BLOCKY.GO!"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"51e75050b14446635f850e9811a91b4cd52f4e4b"
+		"clienticns"		"de990aa3641fd2633ffac448b425abf3863595a8"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"linuxclienticon"		"870cfd802583324344cd1fea5e54f82d7b36f795"
+		"logo"		"71bb69f3d16407601ab461585254e19f3bed5c11"
+		"logo_small"		"71bb69f3d16407601ab461585254e19f3bed5c11_thumb"
+		"icon"		"9553f308fa5aace8aecc1c40b981b79b281f5d38"
+		"clienticon"		"d26074fd2555a50e699fe678e6fd169cdde79480"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"91.77830413692382"
+				"height_pct"		"37.85172009734826"
+			}
+		}
+		"store_asset_mtime"		"1646662360"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Raphael Chaoui"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Raphael Chaoui"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"CHUI'S GAMES"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1647958568"
+		"community_hub_visible"		"1"
+		"gameid"		"1861110"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"1773"
+			"3"		"5395"
+			"4"		"4191"
+			"5"		"4305"
+			"6"		"1697"
+			"7"		"4166"
+			"8"		"1643"
+			"9"		"1667"
+			"10"		"4747"
+			"11"		"3993"
+			"12"		"7481"
+			"13"		"3968"
+			"14"		"4182"
+			"15"		"4036"
+			"16"		"1625"
+			"17"		"113"
+			"18"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"developer"		"Raphael Chaoui"
+		"publisher"		"Raphael Chaoui"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BLOCKY"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"BLOCKY.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"mac.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1861111"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3439777195059706947"
+					"size"		"512258623"
+					"download"		"33074496"
+				}
+			}
+		}
+		"1861112"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"350982126300517396"
+					"size"		"1070151812"
+					"download"		"40211392"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8661103"
+				"timeupdated"		"1651468966"
+			}
+		}
+	}
+}
