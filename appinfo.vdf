@@ -1,0 +1,156 @@
+"appinfo"
+{
+	"appid"		"241660"
+	"common"
+	{
+		"name"		"Ohm Studio"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"clienticon"		"33eb69e2cddc79deaed2663ad357d6e52e3697bc"
+		"clienttga"		"5c6aab51feec9ecea1125810567b9da4d7eda113"
+		"icon"		"945d51fe19881368747eedeef7f53ea28a60a31a"
+		"clienticns"		"ceb8a65e8d11fcc0fd4fe4a06dacca08388ae308"
+		"logo"		"f9fd6c9614ae74b3f554c0d2541865bd54af6fc6"
+		"logo_small"		"f9fd6c9614ae74b3f554c0d2541865bd54af6fc6_thumb"
+		"metacritic_name"		"Ohm Studio"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1386613239"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GRAOUMF"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ohm Force"
+			}
+		}
+		"primary_genre"		"52"
+		"genres"
+		{
+			"0"		"52"
+			"1"		"56"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1386614100"
+		"community_hub_visible"		"1"
+		"gameid"		"241660"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1027"
+			"1"		"1445"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"GRAOUMF"
+		"gamedir"		"ValveTestApp241660"
+		"homepage"		"http://www.ohmstudio.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"disableoverlay"		"1"
+		"publisher"		"Ohm Force"
+		"isfreeapp"		"1"
+		"listofdlc"		"258510,258511,258512"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"OhmStudio"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ohm_studio_net_mp_host.exe"
+				"description"		"Launch Windows"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"OhmStudio.app"
+				"description"		"Launch MacOS X"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"241661"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8335815523495570655"
+					"size"		"206341914"
+					"download"		"0"
+				}
+			}
+		}
+		"241662"
+		{
+			"shareddepottype"		"0"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3200964307988827999"
+					"size"		"197297419"
+					"download"		"0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"149870"
+			}
+		}
+	}
+}
