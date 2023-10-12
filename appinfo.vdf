@@ -1,0 +1,182 @@
+"appinfo"
+{
+	"appid"		"2321970"
+	"common"
+	{
+		"name"		"Not Anyone's Business But My Own"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"icon"		"1fdbd6ed7293acb73b0a601291fa080225ffb51a"
+		"clienttga"		"c548b05e0bdd2ccbf1e44d3a788dc5bc3a402fd8"
+		"clienticon"		"ce3aeb08353f5bede986c0a2b399b0cee29c29e4"
+		"clienticns"		"538a17cb4775e8dbd72d4b2bf4935bee30dcae59"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.1429898653734"
+				"height_pct"		"76.49006622516555"
+			}
+		}
+		"store_asset_mtime"		"1676951516"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pickled Sword Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pickled Sword Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678208694"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2321970"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"1738"
+			"2"		"3964"
+			"3"		"11014"
+			"4"		"1742"
+			"5"		"6971"
+			"6"		"1684"
+			"7"		"3799"
+			"8"		"1698"
+			"9"		"7208"
+			"10"		"3871"
+			"11"		"5851"
+			"12"		"21"
+			"13"		"5094"
+			"14"		"597"
+			"15"		"6869"
+			"16"		"4305"
+			"17"		"4057"
+			"18"		"4182"
+			"19"		"4166"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Pickled Sword Games"
+		"publisher"		"Pickled Sword Games"
+		"isfreeapp"		"1"
+		"listofdlc"		"2329370,2329371,2329372"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Not Anyone's Business But My Own"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Not Anyone's Business but My Own.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mac - pre-release Steam.app"
+				"arguments"		"-w 1920 -h 1080"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2321971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7404624965199079437"
+					"size"		"270192527"
+					"download"		"49308976"
+				}
+			}
+		}
+		"2321972"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5623204432046728952"
+					"size"		"292976666"
+					"download"		"56068224"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10681303"
+				"timeupdated"		"1677824916"
+			}
+		}
+	}
+}
