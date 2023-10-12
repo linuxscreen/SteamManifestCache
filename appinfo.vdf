@@ -1,0 +1,157 @@
+"appinfo"
+{
+	"appid"		"732230"
+	"common"
+	{
+		"name"		"LuxVR"
+		"type"		"Application"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"name_localized"
+		{
+		}
+		"clienttga"		"81a404e1c913adec7185cd1cb906081c46c69cbb"
+		"clienticon"		"ba155346ef3d081a7b819bd5a367389b3553d347"
+		"icon"		"7230853fdd17f1e42b71fdef40f7af7878162c33"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"ed008822fffb844511c92e6f2ab101ff615af2e9"
+		"logo_small"		"ed008822fffb844511c92e6f2ab101ff615af2e9_thumb"
+		"openvroverlaysupport"		"1"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"35.29332333083272"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1613668416"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Egemen Ertugrul"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Egemen Ertugrul"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+			"category_33"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1615317241"
+		"community_hub_visible"		"1"
+		"gameid"		"732230"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+			"1"		"21978"
+			"2"		"8013"
+			"3"		"113"
+			"4"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Egemen Ertugrul"
+		"publisher"		"Egemen Ertugrul"
+		"homepage"		"https://github.com/egemenertugrul/LuxVR"
+		"isfreeapp"		"1"
+		"listofdlc"		"1555440,1555441,1555442"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"LuxVR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LuxVR.exe"
+				"type"		"openvroverlay"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"732231"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9079628086972429992"
+					"size"		"84648658"
+					"download"		"20872160"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6368056"
+				"timeupdated"		"1615500517"
+			}
+		}
+	}
+}
