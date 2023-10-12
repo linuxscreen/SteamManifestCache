@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"622310"
+	"common"
+	{
+		"name"		"Amigo VR"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"4ea12d98b54eb54d767e9f8144fd88892de45709"
+		"logo"		"e3049135ab120134607d1d21249491b1172a3c2d"
+		"logo_small"		"e3049135ab120134607d1d21249491b1172a3c2d_thumb"
+		"icon"		"cd0fa8723b51d753475fed651f3548e5434d9dac"
+		"clienticon"		"c027a531d651b66595952b44eec567ecd22c16e7"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"metacritic_name"		"Amigo VR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1503692469"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Amigo VR Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Amigo VR Studio"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"29"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1492077007"
+		"community_hub_visible"		"1"
+		"gameid"		"622310"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"113"
+			"2"		"128"
+			"3"		"597"
+			"4"		"599"
+			"5"		"21978"
+		}
+		"review_score"		"5"
+		"review_percentage"		"51"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Amigo VR Studio"
+		"publisher"		"Amigo VR Studio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"AmigoVR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SP.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"622311"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5350182041663866935"
+					"size"		"3591189773"
+					"download"		"1582670000"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2085424"
+				"timeupdated"		"1504279306"
+			}
+		}
+	}
+}
