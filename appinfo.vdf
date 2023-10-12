@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"1041210"
+	"common"
+	{
+		"name"		"Mission: It's Complicated"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"logo"		"79f2defb2ee8c02e46a549dddb9268301521b74d"
+		"logo_small"		"79f2defb2ee8c02e46a549dddb9268301521b74d_thumb"
+		"clienticon"		"c38189bbef821d99373682935e3c80bd84b4417c"
+		"clienttga"		"6e83d0aa855ffbfe0785a0caad7130006bbac6db"
+		"icon"		"668af64a955b34207f730d54bb973008e1d5e3c7"
+		"osextended"		"macos64,macosnotarized"
+		"metacritic_name"		"Mission: It's Complicated"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.69778296382731"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668705774"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Schell Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Schell Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1581688955"
+		"metacritic_score"		"91"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/mission-its-complicated?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1041210"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"3799"
+			"2"		"1671"
+			"3"		"4947"
+			"4"		"9551"
+			"5"		"6426"
+			"6"		"44868"
+			"7"		"1742"
+			"8"		"21"
+			"9"		"492"
+			"10"		"113"
+			"11"		"4136"
+			"12"		"4182"
+			"13"		"19"
+			"14"		"1773"
+			"15"		"3834"
+			"16"		"14139"
+			"17"		"3871"
+			"18"		"4085"
+			"19"		"4562"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Schell Games"
+		"publisher"		"Schell Games"
+		"homepage"		"https://www.schellgames.com/games/mission-its-complicated"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mission It's Complicated"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mission - It's Complicated.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mission - It's Complicated.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1041211"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5830845652860588451"
+					"size"		"646962726"
+					"download"		"163539248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug_2"
+				{
+					"gid"		"A21FBBCC821D32CCE8D7982E3B7CB19A"
+					"size"		"680EC592906180AFFAF8864FD2E31639"
+					"download"		"0ED4A401B5A1F430E4E5CC1C33CFB7A5"
+				}
+			}
+		}
+		"1041212"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7747990960422948367"
+					"size"		"657193794"
+					"download"		"165717520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug_2"
+				{
+					"gid"		"78572C64AA4468B8D708A38742BA001D"
+					"size"		"63267B6CFAA3B937C9DB75BB749ED659"
+					"download"		"38C81D873B12A9DBE504D30F1DE251A6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5185475"
+				"timeupdated"		"1592505424"
+			}
+			"debug_2"
+			{
+				"buildid"		"4573365"
+				"pwdrequired"		"1"
+				"timeupdated"		"1579105644"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"5"
+	}
+}
