@@ -1,0 +1,236 @@
+"appinfo"
+{
+	"appid"		"1201760"
+	"common"
+	{
+		"name"		"Kari"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"f503d709c65f59f42c1619d2534ba0522f46b8b7"
+		"logo_small"		"f503d709c65f59f42c1619d2534ba0522f46b8b7_thumb"
+		"icon"		"24620819345e1b9294a8d25c8ac60f8e5c68aa92"
+		"clienttga"		"b35a0e18a00fb18365b7c8b9466f523215dbbe52"
+		"clienticns"		"0a57a01815924a5b8cb086823cd0840a18951fbb"
+		"linuxclienticon"		"3f9d7112681c7f53240f152d3fc49d7df2382e1a"
+		"clienticon"		"f02f22e0e38de84269e2178c55af0d6360022d23"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"35.96924703419181"
+				"height_pct"		"57.65853503646298"
+			}
+		}
+		"store_asset_mtime"		"1592908787"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Unmanagable"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Breda University of Applied Sciences"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1594755087"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1201760"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"4182"
+			"3"		"3834"
+			"4"		"1697"
+			"5"		"1684"
+			"6"		"1654"
+			"7"		"1664"
+			"8"		"1742"
+			"9"		"16094"
+			"10"		"4191"
+			"11"		"3799"
+			"12"		"4057"
+			"13"		"597"
+			"14"		"15172"
+			"15"		"11014"
+			"16"		"1702"
+			"17"		"7208"
+			"18"		"5900"
+			"19"		"493"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Team Unmanagable"
+		"publisher"		"Breda University of Applied Sciences"
+		"homepage"		"https://kari.igad.nl/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Kari"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Kari.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"shipping"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1201761"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1587254847762663037"
+					"size"		"1785481887"
+					"download"		"791330192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"2F03877EDE3072285E23611038BBC7E0"
+					"size"		"608C7D44BAF2249AB6FFBC8300F1684B"
+					"download"		"B9578E5E4AC344B7E3BE079B764CDBFA"
+				}
+				"shipping"
+				{
+					"gid"		"241A42FA5F9B0A88631B9EFBB09284EC"
+					"size"		"223225147C262EC66BAFE4C8CEE3B46A"
+					"download"		"C724E6CDA7158CCC03B40C647450C259"
+				}
+				"test"
+				{
+					"gid"		"3E2C0577CB001058A755ECB6C31A08EE"
+					"size"		"0B5F2E88CB8B04E5AB3F02E89D8980D4"
+					"download"		"BAB355739BA976228FA2379ACBD44D49"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5287876"
+				"timeupdated"		"1594754974"
+			}
+			"development"
+			{
+				"buildid"		"5139313"
+				"pwdrequired"		"1"
+				"timeupdated"		"1591692123"
+			}
+			"shipping"
+			{
+				"buildid"		"5287876"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594741708"
+			}
+			"test"
+			{
+				"buildid"		"5274574"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594385356"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5073741824"
+		"maxnumfiles"		"3000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Kari/Binaries/Win64/Saving"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
