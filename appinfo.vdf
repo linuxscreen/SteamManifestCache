@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"1440470"
+	"common"
+	{
+		"name"		"Synthetic Hazard"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"d93126f72e83f56dd67accacdec78063aa2f92ce"
+		"clienttga"		"2779f98f1424920d637001e3c394474bb0d69363"
+		"icon"		"71e42b65cb2e308e03c2f97be8401b5dd222cef7"
+		"logo"		"7995dfddbc3477c396e9174e5c2b05df998634d6"
+		"logo_small"		"7995dfddbc3477c396e9174e5c2b05df998634d6_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1604054753"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ESAT"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Voodoo Bunny"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"ESAT"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1605686400"
+		"steam_release_date"		"1605693302"
+		"community_hub_visible"		"1"
+		"gameid"		"1440470"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"13782"
+			"2"		"1774"
+			"3"		"1663"
+			"4"		"1716"
+			"5"		"42804"
+			"6"		"3839"
+			"7"		"3959"
+			"8"		"3942"
+			"9"		"21006"
+			"10"		"4115"
+			"11"		"492"
+			"12"		"493"
+			"13"		"4295"
+			"14"		"5752"
+			"15"		"5125"
+			"16"		"7926"
+			"17"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"developer"		"ESAT"
+		"publisher"		"ESAT"
+		"homepage"		"https://www.esat.es"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Synthetic Hazard"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FPSRG.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1440471"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2675664563083825627"
+					"size"		"4606561862"
+					"download"		"1086748400"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5671532"
+				"timeupdated"		"1602523010"
+			}
+		}
+	}
+}
