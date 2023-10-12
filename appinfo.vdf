@@ -1,0 +1,150 @@
+"appinfo"
+{
+	"appid"		"749900"
+	"common"
+	{
+		"name"		"Feed the Animals"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"98ea33530e6fc5b747e18a9269c7d3746eae3a8c"
+		"clienttga"		"c0a68a6af759c68e839123f480c4f59d8f847446"
+		"icon"		"c1a73eb2705e8331552e0f3aaaf76103f9a16909"
+		"logo"		"3cc145b4dd32680ee15b0fdf241984453efb3df8"
+		"logo_small"		"3cc145b4dd32680ee15b0fdf241984453efb3df8_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1674518400"
+			"tested_build_id"		"2272058"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Feed the Animals"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1510254810"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Attila Vitez"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Capiproducts"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1512071760"
+		"community_hub_visible"		"1"
+		"gameid"		"749900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Attila Vitez"
+		"publisher"		"Capiproducts"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Feed the Animals"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ftagame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"749901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"566617204913762822"
+					"size"		"92469051"
+					"download"		"14643920"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2272058"
+				"timeupdated"		"1510264719"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+	}
+}
