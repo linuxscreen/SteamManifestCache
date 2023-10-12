@@ -1,0 +1,172 @@
+"appinfo"
+{
+	"appid"		"684380"
+	"common"
+	{
+		"name"		"Mermaid VR"
+		"type"		"Application"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"ad31a28235a5cc2bb3e1300a75f01fee61a0faa1"
+		"logo_small"		"ad31a28235a5cc2bb3e1300a75f01fee61a0faa1_thumb"
+		"icon"		"1c91f6e208c55ca7941a60ac7fdb2a5c8254ab5a"
+		"clienttga"		"add13e25a6bbb73c1b744432b63ff9a649ada80d"
+		"clienticns"		"b50a9a583785939ae7bf10847976c0c2f22ee7e8"
+		"linuxclienticon"		"3720bf1b63deb3770ca8a073c36daa3f7e6b86c7"
+		"clienticon"		"cbec3d4ba93563d269fe65ee5524379b31b296cb"
+		"openvrsupport"		"1"
+		"releasestate"		"released"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"metacritic_name"		"Mermaid VR"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1515569766"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mermaid VR Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mermaid VR Inc."
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+			"1"		"58"
+		}
+		"category"
+		{
+			"category_18"		"1"
+			"category_33"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1502782758"
+		"community_hub_visible"		"1"
+		"gameid"		"684380"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+			"1"		"784"
+			"2"		"21978"
+			"3"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Mermaid VR Inc."
+		"publisher"		"Mermaid VR Inc."
+		"homepage"		"http://www.mermvr.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mermaid VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MermaidVR.exe"
+				"description"		"launch"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"684381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8334853631968190507"
+					"size"		"384603662"
+					"download"		"117238272"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,german,french,russian,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2729883"
+				"timeupdated"		"1524906536"
+			}
+		}
+	}
+}
