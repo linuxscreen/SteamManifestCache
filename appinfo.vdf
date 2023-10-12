@@ -1,0 +1,185 @@
+"appinfo"
+{
+	"appid"		"2261610"
+	"common"
+	{
+		"name"		"Dummy Pirates: Ocean Tales"
+		"type"		"Game"
+		"icon"		"c54b8fe722f49d40d805fe5f0d758f726498255e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		"macosapplesilicon"
+		"clienttga"		"317b27ae48c9b40672cd4fa15d329f86601bd97b"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2261610_eula_0"
+				"name"		"Dummy Pirates: Ocean Tales EULA"
+				"url"		"https://store.steampowered.com//eula/2261610_eula_0"
+				"version"		"1"
+			}
+		}
+		"clienticns"		"d60835bce46eca26c9f6ee2273eda510e0675868"
+		"linuxclienticon"		"9a9bbbe99730091da4887d63110b08f0b4d40837"
+		"clienticon"		"d60835bce46eca26c9f6ee2273eda510e0675868"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.497264598846954"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1680013550"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Good Place Games Ou"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Good Place Games Ou"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Good Place Games Ou"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"29"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1680350433"
+		"community_hub_visible"		"1"
+		"gameid"		"2261610"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1718"
+			"1"		"9"
+			"2"		"3859"
+			"3"		"5547"
+			"4"		"19"
+			"5"		"3814"
+			"6"		"1775"
+			"7"		"6730"
+			"8"		"1697"
+			"9"		"1774"
+			"10"		"6506"
+			"11"		"4747"
+			"12"		"1681"
+			"13"		"13577"
+			"14"		"4191"
+			"15"		"4726"
+			"16"		"4195"
+			"17"		"4305"
+			"18"		"4252"
+			"19"		"1684"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Good Place Games Ou"
+		"publisher"		"Good Place Games Ou"
+		"homepage"		"https://www.dummypirates.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Build"
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Prod\\Windows\\Dummy Pirates.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Prod\\MAC\\MAC.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2261611"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2935675395343389981"
+					"size"		"3273347441"
+					"download"		"455555584"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11393775"
+				"timeupdated"		"1685951076"
+			}
+		}
+	}
+}
