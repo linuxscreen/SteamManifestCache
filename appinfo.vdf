@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"1822300"
+	"common"
+	{
+		"name"		"Bounce Ball: Neon Party Arcade"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"315338943d2cbf289fbb1516d71f7771e1088d27"
+		"logo_small"		"315338943d2cbf289fbb1516d71f7771e1088d27_thumb"
+		"icon"		"897b2b46356cea459d1bba3a65eeb964556baa53"
+		"clienticon"		"fca1a9178fc8d49f3f1d1ccd208cc4ae62256e1e"
+		"clienttga"		"209fdbbd3ac6000b83a803bc2484509f2e58b096"
+		"clienticns"		"4aba3c0ac13b175c4a7c0a9cf837ba665590dbbd"
+		"linuxclienticon"		"b5864450d8e209e2a7b7ebbe158d3e8f865163b4"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"96.16840113528855"
+			}
+		}
+		"store_asset_mtime"		"1657871643"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LabOne48"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" LabOne48 "
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1643983215"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1822300"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1773"
+			"2"		"3871"
+			"3"		"4400"
+			"4"		"7743"
+			"5"		"4295"
+			"6"		"4004"
+			"7"		"3942"
+			"8"		"5914"
+			"9"		"1775"
+			"10"		"7481"
+			"11"		"4182"
+			"12"		"3859"
+			"13"		"7368"
+			"14"		"4840"
+			"15"		"7108"
+		}
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"LabOne48"
+		"publisher"		" LabOne48 "
+		"homepage"		"https://www.hdm-stuttgart.de/ifg/games/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Bounce Ball Neon Party Arcade"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"project-pong.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1822301"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6481620268400595877"
+					"size"		"538035623"
+					"download"		"50764800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"6AE00BA28D26B35587B47DF7F9036CB1"
+					"size"		"090F4D2AC5079CA7C18376B668B36591"
+					"download"		"E593EE76DD9C059C7BBB6F6CAF5636DA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9126765"
+				"timeupdated"		"1657886441"
+			}
+			"testing"
+			{
+				"buildid"		"8138831"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651503711"
+			}
+		}
+	}
+}
