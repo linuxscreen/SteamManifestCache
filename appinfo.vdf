@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"1787040"
+	"common"
+	{
+		"name"		"Book Hunter"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"italian"		"Book Hunter - Caccia al libro"
+		}
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"37216357d8219942058ea82abad5df702618cd7a"
+		"logo_small"		"37216357d8219942058ea82abad5df702618cd7a_thumb"
+		"icon"		"f27d959fb13399a50261d5f1ce9a3f7dc6a01fbb"
+		"clienttga"		"973359c261de7526a3b37c557b66dcaa767fbad5"
+		"clienticon"		"c5725118b26f74dd52d2937eccf58f40b51b3270"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1643390953"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wolf Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wolf Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1643957777"
+		"community_hub_visible"		"1"
+		"gameid"		"1787040"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"5652"
+			"2"		"1738"
+			"3"		"1036"
+			"4"		"21"
+			"5"		"6730"
+			"6"		"4106"
+			"7"		"4191"
+			"8"		"1667"
+			"9"		"3942"
+			"10"		"492"
+			"11"		"1687"
+			"12"		"5752"
+			"13"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Wolf Games"
+		"publisher"		"Wolf Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Book Hunter"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BookHunter.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"BookHunter.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1787041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2075713551764892510"
+					"size"		"749302882"
+					"download"		"168626096"
+				}
+			}
+		}
+		"1787042"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4440697282667006637"
+					"size"		"754957009"
+					"download"		"169997408"
+				}
+			}
+		}
+		"1787043"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2279139896772838167"
+					"size"		"541799581"
+					"download"		"418973264"
+				}
+			}
+		}
+		"1787044"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4250450171336965863"
+					"size"		"541799222"
+					"download"		"418973264"
+				}
+			}
+		}
+		"baselanguages"		"italian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8096525"
+				"timeupdated"		"1643282193"
+			}
+		}
+	}
+}
