@@ -1,0 +1,165 @@
+"appinfo"
+{
+	"appid"		"1031700"
+	"common"
+	{
+		"name"		"Survivor"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1031700_eula_0"
+				"name"		"Survivor EULA"
+				"url"		"https://store.steampowered.com//eula/1031700_eula_0"
+			}
+		}
+		"logo"		"910265b6bdcb71e8db8aadc0f9922e673034adf9"
+		"logo_small"		"910265b6bdcb71e8db8aadc0f9922e673034adf9_thumb"
+		"icon"		"d9ef68c17010d069229bcd64a472df70a07c7b44"
+		"clienticon"		"d57bc1f6ef88f96e0c97af59a7dea33c49038d64"
+		"clienttga"		"9a6de5c3f997909bbfbd6154e188cf9adb799042"
+		"metacritic_name"		"Survivor"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1551962979"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Reija Meriläinen"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Reija Meriläinen"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1555938029"
+		"community_hub_visible"		"1"
+		"gameid"		"1031700"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21"
+			"2"		"492"
+			"3"		"1742"
+			"4"		"11014"
+			"5"		"1721"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"developer"		"Reija Meriläinen"
+		"publisher"		"Reija Meriläinen"
+		"homepage"		"https://reijamerilainen.com/survivor"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Survivor"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"desktop_survivor2_pc\\desktop_survivor2_pc.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"desktop_survivor2_mac.app/Contents/MacOS/desktop_penkkisurvivor2_mac"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"1031702"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1393685509854023957"
+					"size"		"793627995"
+					"download"		"305354832"
+				}
+			}
+		}
+		"1031703"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7108813428314493276"
+					"size"		"805304574"
+					"download"		"308466192"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3579226"
+				"timeupdated"		"1550690304"
+			}
+		}
+	}
+}
