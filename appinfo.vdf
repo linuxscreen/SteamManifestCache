@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"1538680"
+	"common"
+	{
+		"name"		"Blake: The Visual Novel"
+		"type"		"Game"
+		"logo"		"73a31eebc517dedea2c004150cadba40e3f32112"
+		"logo_small"		"73a31eebc517dedea2c004150cadba40e3f32112_thumb"
+		"icon"		"e05433ce84d867c10ee2b7392b3fc4e3a4a7d71a"
+		"clienttga"		"7a160e1d88d69ca9ff37523daf20e5240f7f5c55"
+		"clienticon"		"8ceebfef03be1c94f757002b7ab890cbef9a36a8"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Blake: The Visual Novel"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"66.1233993015134"
+				"height_pct"		"91.79331113156438"
+			}
+		}
+		"store_asset_mtime"		"1632945872"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ori Mees"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LegendOri Productions"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630475160"
+		"metacritic_score"		"82"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/blake-the-visual-novel?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1538680"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4486"
+			"1"		"3799"
+			"2"		"11014"
+			"3"		"1751"
+			"4"		"6052"
+			"5"		"5613"
+			"6"		"6426"
+			"7"		"15172"
+			"8"		"1742"
+			"9"		"492"
+			"10"		"597"
+			"11"		"4064"
+			"12"		"1719"
+			"13"		"6378"
+			"14"		"5608"
+			"15"		"5716"
+			"16"		"5186"
+			"17"		"4342"
+			"18"		"4295"
+			"19"		"4115"
+		}
+		"review_score"		"7"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Ori Mees"
+		"publisher"		"LegendOri Productions"
+		"homepage"		"https://blakevn.wixsite.com/blakevn"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Blake_The_Visual_Novel"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blake_The_Visual_Novel.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Blake_The_Visual_Novel.app\\Contents\\MacOS\\Blake_The_Visual_Novel"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1538681"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8190059015697821397"
+					"size"		"504171649"
+					"download"		"394224144"
+				}
+			}
+		}
+		"1538682"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4890824217169841009"
+					"size"		"404362499"
+					"download"		"365740016"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8650717"
+				"timeupdated"		"1651247197"
+			}
+		}
+	}
+}
