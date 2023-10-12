@@ -1,0 +1,218 @@
+"appinfo"
+{
+	"appid"		"2523250"
+	"common"
+	{
+		"name"		"FatalZone: Outbreak"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"5a8ab858cc817c2eb2a37da945ed7f0e1030333f"
+		"clienttga"		"42290795ec44f58f377605892623f068eca54503"
+		"clienticon"		"835afea12576a174727735489e82ec871b2b0dfe"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"73.57059509918321"
+				"height_pct"		"83.4362384231774"
+			}
+		}
+		"store_asset_mtime"		"1696890051"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Midhard Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"101XP"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"101XP"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1695653984"
+		"community_hub_visible"		"1"
+		"gameid"		"2523250"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"4885"
+			"2"		"1659"
+			"3"		"1662"
+			"4"		"19"
+			"5"		"3959"
+			"6"		"4637"
+			"7"		"5547"
+			"8"		"4231"
+			"9"		"4791"
+			"10"		"1716"
+			"11"		"122"
+			"12"		"3835"
+			"13"		"3871"
+			"14"		"5125"
+			"15"		"4182"
+			"16"		"492"
+			"17"		"5154"
+			"18"		"597"
+			"19"		"5851"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Midhard Games"
+		"publisher"		"101XP"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FatalZone Outbreak"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FatalZone Outbreak.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2523251"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2318172832349898868"
+					"size"		"2219010941"
+					"download"		"359878704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"outbreak_testing"
+				{
+					"gid"		"9807DCEB3E39DB47B106C5A82E3F9189"
+					"size"		"8663DCB46AB576B6F3527D45AFED9CF4"
+					"download"		"69A8D9FE21BBB5BF0AE2686844EEC88E"
+				}
+				"testing"
+				{
+					"gid"		"83E91612568EC2EE7FE01FC4DE008652"
+					"size"		"1F198977EF9BA2E9CAC4880C9AF09905"
+					"download"		"3227B03E2E23F6AF82CD0568E7416A82"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12319159"
+				"timeupdated"		"1696012753"
+			}
+			"outbreak_testing"
+			{
+				"buildid"		"12406954"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696968875"
+			}
+			"testing"
+			{
+				"buildid"		"12319159"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696005685"
+			}
+		}
+	}
+}
