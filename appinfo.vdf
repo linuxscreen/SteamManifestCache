@@ -1,0 +1,159 @@
+"appinfo"
+{
+	"appid"		"1567870"
+	"common"
+	{
+		"name"		"KingdomDefense"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"da3cc66b454dd51a591c6c452a4e002bce8f9b79"
+		"logo_small"		"da3cc66b454dd51a591c6c452a4e002bce8f9b79_thumb"
+		"icon"		"be28920cbbccbcb7e230fe95198ef039fe24825b"
+		"clienticon"		"9bbc58c09c28403dfdd4083ec6b69724f8d48947"
+		"clienttga"		"e06a17a25c97b025ba4745099664f5fa4c5027a5"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.847926267281096"
+				"height_pct"		"50.37719538059979"
+			}
+		}
+		"store_asset_mtime"		"1614850056"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Peter Lee"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Peter Lee"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1616396400"
+		"steam_release_date"		"1616402563"
+		"community_hub_visible"		"1"
+		"gameid"		"1567870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1718"
+			"2"		"1723"
+			"3"		"4191"
+			"4"		"1684"
+			"5"		"1646"
+			"6"		"9"
+			"7"		"597"
+			"8"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Peter Lee"
+		"publisher"		"Peter Lee"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"KingdomDefense"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"KingdomDefense.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Default Launch"
+				}
+				"description"		"Default Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1567871"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5420259021607362948"
+					"size"		"628151650"
+					"download"		"249647040"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6318379"
+				"timeupdated"		"1614704016"
+			}
+		}
+	}
+}
