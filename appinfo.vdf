@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"919010"
+	"common"
+	{
+		"name"		"Revn"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"a3673287676c4d4cc195aac006797cfe451c4078"
+		"logo_small"		"a3673287676c4d4cc195aac006797cfe451c4078_thumb"
+		"clienticon"		"9c0febf016195d417cbfcfe6e2dfe203383e66d1"
+		"clienttga"		"2dbfa1ee67ea36b6b2f77bac6fce8ce43dd6d42b"
+		"icon"		"1e97d6558f6c41262fd4b299585254139d9dfba9"
+		"osextended"		""
+		"metacritic_name"		"Revn"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.2258064516129"
+				"height_pct"		"68.75"
+			}
+		}
+		"store_asset_mtime"		"1673644138"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ambitious Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ambitious Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1636390430"
+		"community_hub_visible"		"1"
+		"gameid"		"919010"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1718"
+			"1"		"3814"
+			"2"		"113"
+			"3"		"1775"
+			"4"		"4747"
+			"5"		"9"
+			"6"		"1697"
+			"7"		"5711"
+			"8"		"19"
+			"9"		"4252"
+			"10"		"1774"
+			"11"		"4115"
+			"12"		"3859"
+			"13"		"3942"
+			"14"		"4191"
+			"15"		"3993"
+			"16"		"4295"
+			"17"		"4175"
+			"18"		"5752"
+			"19"		"4137"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"Ambitious Games"
+		"publisher"		"Ambitious Games"
+		"homepage"		"https://revngame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Revn"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SiegeClient.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"919011"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1117598131383957118"
+					"size"		"17647746838"
+					"download"		"5000637200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devstagingbranch"
+				{
+					"gid"		"0ABE959A616B4A909203C3F4744C8047"
+					"size"		"14D02E56BE91CFD820D0494238569606"
+					"download"		"F0A5832035688D74C062A6F062C4529A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10474093"
+				"timeupdated"		"1675453922"
+			}
+			"devstagingbranch"
+			{
+				"buildid"		"10474093"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675453916"
+			}
+		}
+	}
+}
