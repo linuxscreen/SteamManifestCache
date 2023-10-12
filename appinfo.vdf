@@ -1,0 +1,142 @@
+"appinfo"
+{
+	"appid"		"701010"
+	"common"
+	{
+		"name"		"Gurugedara"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"controllervr"
+		{
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+			"standing"		"1"
+		}
+		"logo"		"317f028e0f48ecbd959c6bcfa123b37bc5f39f4f"
+		"logo_small"		"317f028e0f48ecbd959c6bcfa123b37bc5f39f4f_thumb"
+		"icon"		"949f0306cb431b8970218d748d0ffc5511ee1cea"
+		"clienttga"		"7a008f95ce2270c080c5483b831afecc608c4ee8"
+		"clienticon"		"cd092c6bcc660c41c2863fc5710e28a82fd72b4a"
+		"osvrsupport"		"1"
+		"openvrsupport"		"1"
+		"metacritic_name"		"Gurugedara"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1504674706"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Osmium"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Osmium"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1506841200"
+		"steam_release_date"		"1506572540"
+		"community_hub_visible"		"1"
+		"gameid"		"701010"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"128"
+			"1"		"113"
+			"2"		"21978"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Osmium"
+		"publisher"		"Osmium"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Gurugedara"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Gurugedara.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"701011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8983672673546413734"
+					"size"		"539684253"
+					"download"		"105619776"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2058103"
+				"timeupdated"		"1503466422"
+			}
+		}
+	}
+}
