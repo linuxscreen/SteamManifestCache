@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"1383480"
+	"common"
+	{
+		"name"		"ANNOYING ball game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"c7abdffd9564deea2f10a99c896a21b893d44291"
+		"clienticon"		"d5fcf55fe13975dc934b21b92b4dcf8bbdbf8679"
+		"icon"		"b9ce3066b04f875dbc24c0dfd17c4e8059625c3d"
+		"logo"		"39869da0e9ebcd92e59cc0665055c5037fb1ad87"
+		"logo_small"		"39869da0e9ebcd92e59cc0665055c5037fb1ad87_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"39.03150525087517"
+				"height_pct"		"22.26312039895511"
+			}
+		}
+		"store_asset_mtime"		"1596500628"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Moronicbody"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Elf"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"MB Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1597906800"
+		"steam_release_date"		"1598338841"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1383480"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1625"
+			"2"		"5395"
+			"3"		"4191"
+			"4"		"1697"
+			"5"		"4172"
+			"6"		"6971"
+			"7"		"113"
+			"8"		"3968"
+			"9"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"Moronicbody"
+		"publisher"		"MB Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ANNOYING ball game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MB_ANNOYING.exe"
+				"type"		"default"
+			}
+		}
+		"noupdatesafterinstall"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6645201662696499616"
+					"size"		"29212173"
+					"download"		"22411856"
+				}
+			}
+			"depotfromapp"		"228980"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1829726630299308803"
+					"size"		"102931551"
+					"download"		"100658080"
+				}
+			}
+			"depotfromapp"		"228980"
+		}
+		"1383481"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2266165162204274271"
+					"size"		"16833790876"
+					"download"		"7189217104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developerbuild"
+				{
+					"gid"		"7AF4D93F670D2F567E75C4152208D364"
+					"size"		"61065CE8B78D95FFFCFB53C5B60D0FC7"
+					"download"		"09C71436CFB8E786A7BBE4F9B89DC288"
+				}
+				"testing"
+				{
+					"gid"		"A4E26A7E70ED166422D9F6C61170CF6E"
+					"size"		"301CCFD861C573B56808AFDA89DF084C"
+					"download"		"F769719CFA1D5B2F0A096CE05D590D5D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9186803"
+				"timeupdated"		"1658772330"
+			}
+			"developerbuild"
+			{
+				"buildid"		"5435532"
+				"pwdrequired"		"1"
+				"timeupdated"		"1597902156"
+			}
+			"testing"
+			{
+				"buildid"		"5469548"
+				"pwdrequired"		"1"
+				"timeupdated"		"1598553421"
+			}
+		}
+	}
+}
