@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1978090"
+	"common"
+	{
+		"name"		"GunBoxing"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"588f6dd84906b0910706e0b2d438b1893df36e71"
+		"linuxclienticon"		"91aeb5deeaf3661c2a3d11a9f56ccd32bcda05ef"
+		"clienticns"		"b22dfccef29e48f27772ed14b063d93d239a9027"
+		"clienttga"		"50fb17663618bf9d5943f2ccf6ca4f53ece7ee98"
+		"clienticon"		"8b8e9513ddb2d3df639f0f1ff31486bb5b7d51bb"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.865183235505484"
+				"height_pct"		"72.41814265919635"
+			}
+		}
+		"store_asset_mtime"		"1650882577"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ra Aten"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Suraj Bakawat"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Ra Aten"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1652273785"
+		"community_hub_visible"		"1"
+		"gameid"		"1978090"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"6506"
+			"3"		"1774"
+			"4"		"1663"
+			"5"		"4191"
+			"6"		"3839"
+			"7"		"4175"
+			"8"		"4295"
+			"9"		"1755"
+			"10"		"1708"
+			"11"		"3993"
+			"12"		"7481"
+			"13"		"1775"
+			"14"		"4840"
+			"15"		"3841"
+			"16"		"7368"
+			"17"		"3859"
+			"18"		"3843"
+			"19"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Ra Aten"
+		"publisher"		"Ra Aten"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"GunBoxing"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GunBoxing.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1978091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4625188772980403045"
+					"size"		"4757012170"
+					"download"		"1180209824"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8714672"
+				"timeupdated"		"1652223300"
+			}
+		}
+	}
+}
