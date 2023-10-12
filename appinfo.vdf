@@ -1,0 +1,390 @@
+"appinfo"
+{
+	"appid"		"638360"
+	"common"
+	{
+		"name"		"Half-Rats: Parasomnia"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"clienttga"		"b2f28f900b1869587d5ae873340001241614bc8d"
+		"clienticon"		"058b4ee57cf096db1f0d7c6a89f782257b1e1da0"
+		"icon"		"cb0c42f3a0f72c0cb35fc14dfe62f322c2813738"
+		"logo"		"54aa5e2658e5d5077626df5a4c35ca9118727f05"
+		"logo_small"		"54aa5e2658e5d5077626df5a4c35ca9118727f05_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1509166885"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Heath Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Heath Games"
+			}
+		}
+		"primary_genre"		"0"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1509434025"
+		"community_hub_visible"		"1"
+		"gameid"		"638360"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"21"
+			"3"		"4345"
+			"4"		"4667"
+			"5"		"5348"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"requiredappid"		"70"
+		"isfreeapp"		"1"
+		"developer"		"Heath Games"
+		"publisher"		"Heath Games"
+		"listofdlc"		"748070"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Half-Rats - Parasomnia"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl.exe"
+				"arguments"		"-game hrp -steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"hl.sh"
+				"arguments"		"-game hrp -steam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"638361"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7988191514368979177"
+					"size"		"389447672"
+					"download"		"180031152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.0_initial_release"
+				{
+					"gid"		"8466F621263E3184B2637DF2A637207B"
+					"size"		"E14D85366AD08868DC1FD3E72AAFD7A9"
+					"download"		"51C5D702F16C1D9AB477CB5E58462069"
+				}
+				"1.0a"
+				{
+					"gid"		"F442C460E406448295EF9FCD8D08D333"
+					"size"		"B015214C2207C3B44E6DEA7BE1499AE6"
+					"download"		"583C24920D668BF536D647450BD44B71"
+				}
+				"1.0b"
+				{
+					"gid"		"0C68375160FEF10E04B877CDCDEB807A"
+					"size"		"FECE58C9428E43BEFFB402E9399FB4E4"
+					"download"		"DCD3342388644C27CE8E13002ECF300D"
+				}
+			}
+		}
+		"638362"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4100671403968788667"
+					"size"		"2986496"
+					"download"		"1081328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.0_initial_release"
+				{
+					"gid"		"7A26F4E6F1734F42ABA828410E000B1E"
+					"size"		"DA111336FF921673EFE391EDBD2E8FB1"
+					"download"		"98A1BCF1FCEC6E209818F2B8213456F8"
+				}
+				"1.0a"
+				{
+					"gid"		"22521D28B67AD5B8F3590735EAA20B4D"
+					"size"		"17F20978846B7F519C7FB49407609742"
+					"download"		"1B5856F9DFF9B373A052B655BB4FCFC9"
+				}
+				"1.0b"
+				{
+					"gid"		"66A348A1441EC772E52FD2DC8432DC65"
+					"size"		"E616E6AA60F89AF7E9D4A5F130D1A6E8"
+					"download"		"6F477C9C21594AACCE32B97501CE3674"
+				}
+			}
+		}
+		"638363"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7768513403491310055"
+					"size"		"20857928"
+					"download"		"4362448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.0_initial_release"
+				{
+					"gid"		"D247D392AF64EBCD1E970C01C989C7CD"
+					"size"		"2F210FF00443AA34034AB29C9FA4B1A1"
+					"download"		"B0F93F1810C57248D95C091E52C7AB43"
+				}
+				"1.0a"
+				{
+					"gid"		"BDC7F913AF17324327EAD6097A60D32D"
+					"size"		"DD36C5319925D60A64CA424BCA2445ED"
+					"download"		"8EF6EB2E0F9C1960A308F78148D8910A"
+				}
+				"1.0b"
+				{
+					"gid"		"A30E872040BA3DFC954D2C5CEFB6650D"
+					"size"		"7FBFF518BAD4297DECE1F2DDF8626B74"
+					"download"		"1B49E53F04B9BFE0F71D52966E9E3DF3"
+				}
+			}
+		}
+		"638364"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5180084010665561471"
+					"size"		"4897616"
+					"download"		"974448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.0_initial_release"
+				{
+					"gid"		"B9390ABAAEC5FCB5878888455F33D99C"
+					"size"		"39405517EEB20BA2441C95C93362174A"
+					"download"		"3F38669E56E62F6C23E62EF24C2A53BD"
+				}
+				"1.0a"
+				{
+					"gid"		"BDE50D36144E911A09644A99CB0B2773"
+					"size"		"1C3B56ADDD0ACE2B499DD1FD32210AC1"
+					"download"		"26F7700ECFB98366C0DF2A4F9DC94134"
+				}
+				"1.0b"
+				{
+					"gid"		"FB86A61533B5E7F5A8C550C63196C13A"
+					"size"		"7288F501A24117895818629580550770"
+					"download"		"5F9609E08DDF961087C9B30304181595"
+				}
+			}
+		}
+		"638365"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4771496725887181893"
+					"size"		"42905215"
+					"download"		"15180624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.0_initial_release"
+				{
+					"gid"		"E5565130706C668F10110AB79876CA36"
+					"size"		"60F1805833B49CF5AEE4EF007AA7A3C5"
+					"download"		"AA2D20A9A6EE6E1F1EF6D73E6ACBFC94"
+				}
+				"1.0a"
+				{
+					"gid"		"A8CEDE3FE8605F220A87148162E18EB5"
+					"size"		"7E5EBC76A98919FAD4E7AE996395A268"
+					"download"		"AE19981D26500645D096FB6510FAADE9"
+				}
+				"1.0b"
+				{
+					"gid"		"CF75591265E3CF1F15FC60DCBDFB3262"
+					"size"		"EF5EC505DB901FBE87AC1A53C733F45C"
+					"download"		"3BD3BBF67BBF2A49DEB08717316F133F"
+				}
+			}
+		}
+		"638366"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2013768281081553768"
+					"size"		"97158767"
+					"download"		"26596480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.0_initial_release"
+				{
+					"gid"		"E0B554FEC51DD385B1FD9B1BA17BBBD1"
+					"size"		"03E162FF4A9E6D332AAD429E61B4B51A"
+					"download"		"E502E3E926CCA68388BBFF6B10683086"
+				}
+				"1.0a"
+				{
+					"gid"		"5535F41AA430C8868F2F28488C4F4CBE"
+					"size"		"FD239DFD3C0382A94FC0D9D62EB2ADE2"
+					"download"		"A53467F2593129FA6D63191764CA5339"
+				}
+				"1.0b"
+				{
+					"gid"		"9BECA22BAEBC063A39134DACB3367E50"
+					"size"		"40D1A5D09374201D8A57BBC240EE4521"
+					"download"		"B0552082BA2C29A971082BB92A269167"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4341407"
+				"timeupdated"		"1572462935"
+			}
+			"1.0_initial_release"
+			{
+				"buildid"		"9780583"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666529861"
+			}
+			"1.0a"
+			{
+				"buildid"		"9780586"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666529900"
+			}
+			"1.0b"
+			{
+				"buildid"		"4341407"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666529542"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"hrp/SAVE"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"hrp"
+				"pattern"		"config.cfg"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"hrp"
+				"pattern"		"autoexec.cfg"
+			}
+		}
+	}
+}
