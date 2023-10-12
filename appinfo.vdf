@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"1468680"
+	"common"
+	{
+		"name"		"Lux Ski Jump"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"a16dc11d146e5178bd0b97ee67707b8db38ba4bc"
+		"logo_small"		"a16dc11d146e5178bd0b97ee67707b8db38ba4bc_thumb"
+		"icon"		"b7530bd934bc563e595fcecd12703c7fc696d54a"
+		"clienticon"		"973595df6ca15de04176b192184805402b80b7cf"
+		"clienttga"		"8a200d4071762701a9acde178334165e0f7bb5a3"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1691940616"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"dpidev"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"dpidev"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1692006395"
+		"community_hub_visible"		"1"
+		"gameid"		"1468680"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"599"
+			"2"		"1773"
+			"3"		"3968"
+			"4"		"1643"
+			"5"		"4328"
+			"6"		"872"
+			"7"		"84"
+			"8"		"5055"
+			"9"		"15045"
+			"10"		"9204"
+			"11"		"3871"
+			"12"		"4191"
+			"13"		"5851"
+			"14"		"4094"
+			"15"		"3964"
+			"16"		"4252"
+			"17"		"7309"
+			"18"		"1775"
+			"19"		"4747"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"dpidev"
+		"publisher"		"dpidev"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"LiftAir Ski Jump"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LiftAir Ski Jump.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1468681"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1163541878519651269"
+					"size"		"673138992"
+					"download"		"107808000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"60509FB98C20973A4162F5EF98EC92AB"
+					"size"		"1B27B269652787428D30B9F027B795E2"
+					"download"		"18110588734AE45626812146B1ADC6EA"
+				}
+				"test"
+				{
+					"gid"		"E503EE0686DF25935A22E588D12798F4"
+					"size"		"E2FD3FC8B872BCC499B82B5C8CA1C625"
+					"download"		"21783433A529BB55FBD6DB6F9FAB55AD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11935839"
+				"timeupdated"		"1692005770"
+			}
+			"developer"
+			{
+				"buildid"		"11935839"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692005745"
+			}
+			"test"
+			{
+				"buildid"		"11935839"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692005754"
+			}
+		}
+	}
+}
