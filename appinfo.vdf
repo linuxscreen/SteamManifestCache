@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"448310"
+	"common"
+	{
+		"name"		"Bitardia Cards: Memes of 2ch"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"0dc44451a22b27605002a60e53632db3e046bec9"
+		"logo_small"		"0dc44451a22b27605002a60e53632db3e046bec9_thumb"
+		"icon"		"2c161899b42d603f1b7b82b172f5faa9c4adad5a"
+		"clienttga"		"a5b3c51121bee94cbf1fc01497fb4b25766e6cdd"
+		"clienticns"		"fc4480958d7cbfd9934b91f2b94006e2d1fb35ab"
+		"linuxclienticon"		"fc4480958d7cbfd9934b91f2b94006e2d1fb35ab"
+		"clienticon"		"56fb274da69956b761b89ab0ea5171b0466e0e7d"
+		"metacritic_name"		"Bitardia Cards: Memes of 2ch"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1662539011"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"varlamov5264"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"varlamov5264"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1463680607"
+		"community_hub_visible"		"1"
+		"gameid"		"448310"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"597"
+			"2"		"9"
+			"3"		"10397"
+			"4"		"1666"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"varlamov5264"
+		"publisher"		"varlamov5264"
+		"homepage"		"http://tvorofag.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Bitardia Cards Memes of 2ch"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bitardia Cards.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Bitardia Cards.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Bitardia Cards.app\\Contents\\MacOS\\Bitardia Cards"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"448311"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7668798438584298006"
+					"size"		"125265458"
+					"download"		"31668288"
+				}
+			}
+		}
+		"448312"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6526530247344426031"
+					"size"		"167943234"
+					"download"		"34264288"
+				}
+			}
+		}
+		"448313"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7826726285002023955"
+					"size"		"140830589"
+					"download"		"33870096"
+				}
+			}
+		}
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1138829"
+				"timeupdated"		"1463782803"
+			}
+		}
+	}
+}
