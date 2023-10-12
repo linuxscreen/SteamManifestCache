@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"1252030"
+	"common"
+	{
+		"name"		"Steel & Bone"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"eae622e87ad9e6ef19da5b2889240ef93ddc5209"
+		"clienttga"		"41a3ec90af37f80e1ed971d3b47f02ab4fd1bd2f"
+		"icon"		"dae7e7fcf7a4ec11388a8b73db5f2b0db8207e93"
+		"logo"		"0063d168e07a2ec6bbfce7a7bf85ac20020b7df3"
+		"logo_small"		"0063d168e07a2ec6bbfce7a7bf85ac20020b7df3_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1689984000"
+			"tested_build_id"		"5078769"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Steel &amp; Bone"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.35005834305717"
+				"height_pct"		"57.21918784136784"
+			}
+		}
+		"store_asset_mtime"		"1588356944"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Steel and Bone Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ahlman Game Studio"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1589796345"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1252030"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"113"
+			"2"		"122"
+			"3"		"492"
+			"4"		"21"
+			"5"		"4345"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Steel and Bone Team"
+		"publisher"		"Ahlman Game Studio"
+		"homepage"		"https://ahlmangames.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Steel & Bone"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Steel & Bone.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1252031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6434853757357387471"
+					"size"		"579887364"
+					"download"		"414114160"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5078769"
+				"timeupdated"		"1590931479"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+	}
+}
