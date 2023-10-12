@@ -1,0 +1,166 @@
+"appinfo"
+{
+	"appid"		"2003510"
+	"common"
+	{
+		"name"		"诸神陨落"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"c3851495cf20a6ddfcf666984c67586c5fb568e9"
+		"clienticon"		"a46a1d3deeb73b92e9b0387fb800bb8b762aeeb4"
+		"clienttga"		"2eb569b2b331433227de5ff0305b46db262a9cb6"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"62.627394522282906"
+			}
+		}
+		"store_asset_mtime"		"1658392829"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Genesis Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Genesis Studio"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1659664488"
+		"community_hub_visible"		"1"
+		"gameid"		"2003510"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"128"
+			"2"		"1754"
+			"3"		"1718"
+			"4"		"10695"
+			"5"		"21725"
+			"6"		"4474"
+			"7"		"3813"
+			"8"		"4191"
+			"9"		"4975"
+			"10"		"1697"
+			"11"		"1684"
+			"12"		"1678"
+			"13"		"4057"
+			"14"		"3993"
+			"15"		"1775"
+			"16"		"113"
+			"17"		"6730"
+			"18"		"3843"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"Genesis Studio"
+		"publisher"		"Genesis Studio"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"AgniVerdict"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.steam.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"2003511"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"994652851094883671"
+					"size"		"1626838095"
+					"download"		"1602208928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E0BB822246600B88B43A96DB54F73954"
+					"size"		"CE9538361DA2F3B90918CF07CED9A56F"
+					"download"		"7947F7F6EF747AC377B8F7AB20B0C2DF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9138847"
+				"timeupdated"		"1658388856"
+			}
+			"beta"
+			{
+				"buildid"		"9138847"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658111624"
+			}
+		}
+	}
+}
