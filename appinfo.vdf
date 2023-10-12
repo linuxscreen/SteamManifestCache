@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"1051130"
+	"common"
+	{
+		"name"		"Trial of the Towers"
+		"type"		"Game"
+		"logo"		"4db459a177db6b93184d177777174522832b9ae6"
+		"logo_small"		"4db459a177db6b93184d177777174522832b9ae6_thumb"
+		"icon"		"224fb34c9ad51dba6a71cbf60b9f08bb5680e9ba"
+		"clienttga"		"9216d962d75be3d9f637e5d6bcc3c804bc8be7e0"
+		"clienticon"		"d5495ea8916370e42951adf34aac4296a0a35086"
+		"oslist"		"windows"
+		"osarch"		""
+		"releasestate"		"released"
+		"metacritic_name"		"Trial of the Towers"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1553032430"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"William Wofford"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"William Wofford"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1554512937"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1051130"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"492"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"William Wofford"
+		"publisher"		"William Wofford"
+		"isfreeapp"		"1"
+		"listofdlc"		"1053050"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Trial of the Towers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Towers.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"baselanguages"		""
+		"1051132"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6138018399942795482"
+					"size"		"354472916"
+					"download"		"126762096"
+				}
+			}
+		}
+		"1051131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8437746374184056606"
+					"size"		"323966341"
+					"download"		"106168928"
+				}
+			}
+		}
+		"1053050"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3595662206024571182"
+					"size"		"23654698"
+					"download"		"23474544"
+				}
+			}
+			"dlcappid"		"1053050"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3805785"
+				"timeupdated"		"1557349560"
+			}
+		}
+	}
+}
