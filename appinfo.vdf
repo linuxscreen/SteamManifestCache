@@ -1,0 +1,426 @@
+"appinfo"
+{
+	"appid"		"290060"
+	"common"
+	{
+		"name"		"Glitchspace"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"eeecf2cbccf1a74fc3e7ecc317e38714e6d47adb"
+		"logo_small"		"eeecf2cbccf1a74fc3e7ecc317e38714e6d47adb_thumb"
+		"icon"		"ea1fd98cd2bc11bd80b08eb1f3a5ada158fc0411"
+		"clienttga"		"1a12cf559349fbc75eff393face6afb8470cefb2"
+		"clienticon"		"60766b6cf7bd58588eb3cecaa7e0a1fcf9370a98"
+		"clienticns"		"78c3f0e5e2ea9e5c31e73cd220c19e375e8bef71"
+		"linuxclienticon"		"3f7d93300f1ef4d6bbba76e49a5b67663894f276"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"metacritic_name"		"Glitchspace"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1462293597"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Space Budgie"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Space Budgie"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_31"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1462468920"
+		"community_hub_visible"		"1"
+		"gameid"		"290060"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"5432"
+			"1"		"492"
+			"2"		"1664"
+			"3"		"21"
+			"4"		"21978"
+			"5"		"3839"
+			"6"		"5502"
+			"7"		"493"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Space Budgie"
+		"publisher"		"Space Budgie"
+		"homepage"		"http://www.glitchspace.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"483300"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Glitchspace"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"glitchspace.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"glitchspace.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"glitchspace.x86"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"4"
+			{
+				"executable"		"glitchspace.x86_64"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english"
+		"290064"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2308009957008382034"
+					"size"		"959796040"
+					"download"		"238255344"
+				}
+				"vr_beta"
+				{
+					"gid"		"4767923889742997928"
+					"size"		"961260312"
+					"download"		"238279584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"83F0457A27445A2A64C9EE6FCA880626"
+					"size"		"54EE866B2EB861E6D05ED8BE5AE35F8A"
+					"download"		"5EF0378FD3B77DAC36E2B6E0E134FE53"
+				}
+				"gaztest"
+				{
+					"gid"		"69D8480CE73EF0CEF4B32E5C5EDE2DEA"
+					"size"		"794A85D5FDC8617FC5153E071A1FA558"
+					"download"		"4E760158BACBFC489088345B5BB1794B"
+				}
+				"privateshow"
+				{
+					"gid"		"BFECBC865B180A943FB518A173A91686"
+					"size"		"A6CEEEF43EA7A5587CE62DD6F8DDA65F"
+					"download"		"FF0C9DB46DD1100994AFA555878C8736"
+				}
+			}
+		}
+		"290061"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1930936272102507649"
+					"size"		"959796040"
+					"download"		"238380896"
+				}
+				"vr_beta"
+				{
+					"gid"		"5922683338392990351"
+					"size"		"961260312"
+					"download"		"238404992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"E208639B3EB6FF57B1A03CFDC5275765"
+					"size"		"54EE866B2EB861E6D05ED8BE5AE35F8A"
+					"download"		"B4A1A2177FB8306899072B112262147C"
+				}
+				"gaztest"
+				{
+					"gid"		"C4EC82EA46483F6C2A1351E0A0AB858B"
+					"size"		"794A85D5FDC8617FC5153E071A1FA558"
+					"download"		"A8CA43B52226EC16BE1EC4B14449844C"
+				}
+				"privateshow"
+				{
+					"gid"		"7B2C9E24BF16ADE6C885DFCF5A109AD4"
+					"size"		"52B977F329C44F9A1214CE3726A48586"
+					"download"		"E5258A37FC6B8535B7FB502FFC71DDDA"
+				}
+			}
+		}
+		"290062"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"514324632943158929"
+					"size"		"1016445009"
+					"download"		"253750576"
+				}
+				"vr_beta"
+				{
+					"gid"		"3464644213430430846"
+					"size"		"1017625677"
+					"download"		"249890320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"ACDBF4B25E34CAD4BF8A89CC858260FA"
+					"size"		"21A0580C04C33FD2AD13A326367583AB"
+					"download"		"D2C3C5E04E44F01E25707B747519B79B"
+				}
+				"gaztest"
+				{
+					"gid"		"9DF156E88090D1D07E7FC537A3219F77"
+					"size"		"F377B61A545457F987CEC2C4D7D8AA4F"
+					"download"		"904BCA83719082EA467D986F21505C9B"
+				}
+				"privateshow"
+				{
+					"gid"		"4E3A1EEF1033012E2C111B5D8E9998CE"
+					"size"		"58C450F4FC6859FDCE44BFF9DA78FDFC"
+					"download"		"C829305A2DB7176B317DED521CD57EFB"
+				}
+			}
+		}
+		"290063"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7354381345668230588"
+					"size"		"997620373"
+					"download"		"249363088"
+				}
+				"vr_beta"
+				{
+					"gid"		"3778213939900073237"
+					"size"		"687932659"
+					"download"		"194848832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"E219ED4C6B8A63BE677515FA6373BFD6"
+					"size"		"B085A06D7C28D95B8CE961EB64786D45"
+					"download"		"DC61103DB8A19B9A21B0EC4A84FE7767"
+				}
+				"gaztest"
+				{
+					"gid"		"05A2ACAB4B2231197AF41D5D1F6F4126"
+					"size"		"AF55346E27F7B87AC6C5A4B7F867AA78"
+					"download"		"40C0D1E627C2924A8B280D621C6C1DEA"
+				}
+				"privateshow"
+				{
+					"gid"		"00A9AA608020BCCDA6044BF30D60EAD4"
+					"size"		"F6B0B1EBE6327D52EBB86B32D667035B"
+					"download"		"EA7613C1B1A458AD97B4571E3DC4331E"
+				}
+			}
+		}
+		"290065"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2807511643885502612"
+					"size"		"1016445009"
+					"download"		"253617968"
+				}
+				"vr_beta"
+				{
+					"gid"		"5331048137245602439"
+					"size"		"1017625677"
+					"download"		"249741072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"ED1D1BB48086FAB37180A3D5DE22DD80"
+					"size"		"21A0580C04C33FD2AD13A326367583AB"
+					"download"		"F13E38CDEB39297BB164B75909F6936F"
+				}
+				"gaztest"
+				{
+					"gid"		"4B190FDD535317A543979E8F74E76ADC"
+					"size"		"F377B61A545457F987CEC2C4D7D8AA4F"
+					"download"		"85BA9BC6C26C4866F9F6C8814A2EA0C8"
+				}
+				"privateshow"
+				{
+					"gid"		"33847BC57D9E5F2BE45B6EC33573819D"
+					"size"		"9D5D7DB3347D8B76681A415DF95147EB"
+					"download"		"0D06C9FD049DD91B31CDAB77D71B4114"
+				}
+			}
+		}
+		"483300"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5149868955376591802"
+					"size"		"92947923"
+					"download"		"90883984"
+				}
+				"vr_beta"
+				{
+					"gid"		"5149868955376591802"
+					"size"		"92947923"
+					"download"		"90883984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"gaztest"
+				{
+					"gid"		"4376202F931ADF6A8FD6070D33566904"
+					"size"		"2A60D5086F3CF241845B03DBBEDF721E"
+					"download"		"A85C98B256C28BA6D3AA7BC90061B91B"
+				}
+				"privateshow"
+				{
+					"gid"		"E0285531152842049621F11D4ECE9612"
+					"size"		"BE3F4F2D9C470C77C619DBC696E15949"
+					"download"		"569ABB708DCFB9BECB0660462AA45F2A"
+				}
+			}
+			"dlcappid"		"483300"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1475121"
+				"timeupdated"		"1481581231"
+			}
+			"alpha"
+			{
+				"buildid"		"1143098"
+				"pwdrequired"		"1"
+				"timeupdated"		"1464103016"
+			}
+			"gaztest"
+			{
+				"buildid"		"1475121"
+				"pwdrequired"		"1"
+				"timeupdated"		"1479856061"
+			}
+			"privateshow"
+			{
+				"buildid"		"1151157"
+				"pwdrequired"		"1"
+				"timeupdated"		"1481194749"
+			}
+			"vr_beta"
+			{
+				"buildid"		"1178351"
+				"description"		"Test preview for Oculus VR"
+				"timeupdated"		"1465831371"
+			}
+		}
+	}
+}
