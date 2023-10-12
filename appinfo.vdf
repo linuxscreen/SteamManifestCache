@@ -1,0 +1,197 @@
+"appinfo"
+{
+	"appid"		"643980"
+	"common"
+	{
+		"name"		"Ironbound"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"76838206a72e5cc29bc8ce37b09a91078578198c"
+		"logo_small"		"76838206a72e5cc29bc8ce37b09a91078578198c_thumb"
+		"icon"		"ae358a6c67b1cc3fd1b2b81c283076e9e1f8710c"
+		"clienticon"		"631fd6a4aa43fd30a3a78720f4b33c188cf026c1"
+		"clienttga"		"06f4de7de5971b147fd7bf8e4d6ba3937b6fdee7"
+		"clienticns"		"1e39efb11acc83de2def320e93e46345d4bdfbee"
+		"releasestate"		"released"
+		"metacritic_name"		"Ironbound"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"60.95444470830365"
+			}
+		}
+		"store_asset_mtime"		"1572863196"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Secret Level SRL"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Secret Level SRL"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+			"2"		"2"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1515060959"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"643980"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"122"
+			"2"		"9"
+			"3"		"492"
+			"4"		"1666"
+			"5"		"1708"
+			"6"		"4747"
+			"7"		"9271"
+			"8"		"1677"
+			"9"		"1684"
+			"10"		"1770"
+			"11"		"1775"
+			"12"		"4604"
+			"13"		"3871"
+			"14"		"3878"
+			"15"		"4026"
+			"16"		"4711"
+			"17"		"7208"
+			"18"		"84"
+			"19"		"493"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Secret Level SRL"
+		"publisher"		"Secret Level SRL"
+		"homepage"		"https://www.ironboundgame.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Ironbound"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ironbound.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Ironbound.app\\Contents\\MacOS\\Ironbound"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"643981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8499378659968225033"
+					"size"		"238151992"
+					"download"		"230440432"
+				}
+			}
+		}
+		"643982"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"507754565620034589"
+					"size"		"241184657"
+					"download"		"231706432"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7286937"
+				"timeupdated"		"1630505830"
+			}
+		}
+	}
+}
