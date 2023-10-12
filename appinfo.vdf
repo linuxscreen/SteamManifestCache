@@ -1,0 +1,171 @@
+"appinfo"
+{
+	"appid"		"449000"
+	"common"
+	{
+		"name"		"Steno Arcade"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"f5815eb9b2aaad0402ba5b048938d38b4d13becf"
+		"logo_small"		"f5815eb9b2aaad0402ba5b048938d38b4d13becf_thumb"
+		"icon"		"71d7e157071f24fb501719ffade0aa355767ec3d"
+		"clienttga"		"8db710588fcbe9d960ffec8d5425c2a6a8fda9b3"
+		"clienticon"		"0d2ed99748e4b381f4daca64bbea0eaf42a2edd6"
+		"linuxclienticon"		"189391388cac6a20ac194ab8f63dcfd61f2e8c1a"
+		"clienticns"		"9ed37e3e88588e66f4a64f0ce7dcf2bcb483ff93"
+		"metacritic_name"		"Steno Arcade"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1567716639"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"For All To Play"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"For All To Play"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1459332000"
+		"community_hub_visible"		"1"
+		"gameid"		"449000"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"597"
+			"3"		"1674"
+			"4"		"493"
+			"5"		"1621"
+			"6"		"1036"
+			"7"		"3964"
+			"8"		"1445"
+			"9"		"1773"
+			"10"		"4004"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"For All To Play"
+		"publisher"		"For All To Play"
+		"homepage"		"http://foralltoplay.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Steno Arcade"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StenoArcade_Win32.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Steno Arcade_OSX32.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Steno Arcade_Linux.32"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"Steno Arcade_Linux.64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"449001"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4889160207357889955"
+					"size"		"181011082"
+					"download"		"99423968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1943146"
+				"timeupdated"		"1499403115"
+			}
+		}
+	}
+}
