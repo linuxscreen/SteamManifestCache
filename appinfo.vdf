@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1569690"
+	"common"
+	{
+		"name"		"Snapshot"
+		"type"		"Game"
+		"icon"		"19405a516005138bee65dd4ae04817b42252edfd"
+		"logo"		"02dea38389575e231fb0424f402e4edb23948c43"
+		"logo_small"		"02dea38389575e231fb0424f402e4edb23948c43_thumb"
+		"clienticon"		"1a77cbb3d5141988bc93a3f88f5bfa5feeb9fdf9"
+		"clienttga"		"66c3b69a2bf81400cae3c9ca487e8fe66ab14f84"
+		"clienticns"		"439eee7d596fcb8f526c835b5c14a4811894f0aa"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"99.24008549038234"
+			}
+		}
+		"store_asset_mtime"		"1623520100"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Madeleine Chai"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Studio Madeleine Chai"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"World Without Fairies"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1615708800"
+		"steam_release_date"		"1616615451"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1569690"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"11014"
+			"1"		"3799"
+			"2"		"7208"
+			"3"		"3839"
+			"4"		"7250"
+			"5"		"5094"
+			"6"		"597"
+			"7"		"1742"
+			"8"		"599"
+			"9"		"31275"
+			"10"		"4400"
+			"11"		"4085"
+			"12"		"4175"
+			"13"		"15277"
+			"14"		"4166"
+			"15"		"4182"
+			"16"		"5608"
+			"17"		"113"
+			"18"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Studio Madeleine Chai"
+		"publisher"		"Studio Madeleine Chai"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Snapshot"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Snapshot.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Snapshot.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Snapshot.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1569691"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4010795360474674154"
+					"size"		"287527719"
+					"download"		"166664624"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6434760"
+				"timeupdated"		"1616622528"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
