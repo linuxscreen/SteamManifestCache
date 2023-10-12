@@ -1,0 +1,192 @@
+"appinfo"
+{
+	"appid"		"1075000"
+	"common"
+	{
+		"name"		"Beyond the Stars VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"icon"		"3bacf6f92d404178d9abc599e94f105efbe6d9fe"
+		"logo"		"19942d3246d808c27fac4507e48c853843dd03e1"
+		"logo_small"		"19942d3246d808c27fac4507e48c853843dd03e1_thumb"
+		"clienttga"		"5ac07e8e49455a1144aec13ac5e731f270d57065"
+		"clienticon"		"ea232d1a552a0c4be1677b37f3e84b8fdf7ba11c"
+		"openvrsupport"		"1"
+		"controllervr"
+		{
+			"oculus"		"1"
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"LAUNCHIntroVR\\Config\\SteamVRBindings\\steamvr_manifest.json"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1075000_eula_0"
+				"name"		"Beyond the Stars VR EULA"
+				"url"		"https://store.steampowered.com//eula/1075000_eula_0"
+			}
+		}
+		"metacritic_name"		"Launch"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1558065462"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"S1T2"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"S1T2"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1559710533"
+		"community_hub_visible"		"1"
+		"gameid"		"1075000"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"1684"
+			"1"		"4166"
+			"2"		"4182"
+			"3"		"4234"
+			"4"		"4305"
+			"5"		"5608"
+			"6"		"30358"
+			"7"		"113"
+			"8"		"492"
+			"9"		"21"
+			"10"		"21978"
+			"11"		"1742"
+			"12"		"5411"
+			"13"		"9994"
+			"14"		"1036"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"S1T2"
+		"publisher"		"S1T2"
+		"homepage"		"https://www.s1t2.com.au/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Beyond the Stars VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LAUNCHIntroVR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1075001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2114557449140315651"
+					"size"		"2252280634"
+					"download"		"705607808"
+				}
+				"beta"
+				{
+					"gid"		"2114557449140315651"
+					"size"		"2252280634"
+					"download"		"705607808"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3896578"
+				"timeupdated"		"1559890961"
+			}
+			"beta"
+			{
+				"buildid"		"3896578"
+				"timeupdated"		"1559879225"
+			}
+		}
+	}
+}
