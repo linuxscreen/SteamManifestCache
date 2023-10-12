@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1979220"
+	"common"
+	{
+		"name"		"Coalescence"
+		"type"		"Game"
+		"clienticon"		"1ccbfc46c4dc77b2e4638f91fcbfb5deb6efb2c0"
+		"clienttga"		"693f1d263effb582ab20edb770ddbf5169efa6a5"
+		"icon"		"adbc803a6d0badc2a54cbca54a187bbb1cfb262d"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"53.15052508751459"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1664299162"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Black Banshee Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Black Banshee Studios"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664560856"
+		"community_hub_visible"		"1"
+		"gameid"		"1979220"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4486"
+			"1"		"122"
+			"2"		"9204"
+			"3"		"11014"
+			"4"		"3799"
+			"5"		"3871"
+			"6"		"31275"
+			"7"		"6052"
+			"8"		"4947"
+			"9"		"6426"
+			"10"		"6971"
+			"11"		"597"
+			"12"		"1742"
+			"13"		"8369"
+			"14"		"5716"
+			"15"		"5372"
+			"16"		"4182"
+			"17"		"113"
+			"18"		"21"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Black Banshee Studios"
+		"publisher"		"Black Banshee Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Coalescence-pc"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Coalescence.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Coalescence Launch App"
+				}
+				"description"		"Coalescence Launch App"
+			}
+			"1"
+			{
+				"executable"		"Contents/MacOS/Coalescence"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Coalescence Mac Launch App"
+				}
+				"description"		"Coalescence Mac Launch App"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1979221"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5167514258293919057"
+					"size"		"756435823"
+					"download"		"522151264"
+				}
+			}
+		}
+		"1979222"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6213882513218149304"
+					"size"		"658816111"
+					"download"		"494315680"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9661149"
+				"timeupdated"		"1664993526"
+			}
+		}
+	}
+}
