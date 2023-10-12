@@ -1,0 +1,240 @@
+"appinfo"
+{
+	"appid"		"1430240"
+	"common"
+	{
+		"name"		"The Space in Between"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"318adaf417b7167a6b75f4853ed58c991103d4e9"
+		"logo_small"		"318adaf417b7167a6b75f4853ed58c991103d4e9_thumb"
+		"icon"		"7b8dbd6d4265f3e0cf1fe834150932a6c85d1bdc"
+		"clienttga"		"5e121369ac55d15e5e9794864070d1419048dff4"
+		"linuxclienticon"		"942de391c10d46e06e67932ab83340d7d653b98d"
+		"clienticon"		"942de391c10d46e06e67932ab83340d7d653b98d"
+		"clienticns"		"942de391c10d46e06e67932ab83340d7d653b98d"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"53.25581395348838"
+				"height_pct"		"83.66183804322016"
+			}
+		}
+		"store_asset_mtime"		"1629083088"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Emily Pitcher"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Ray Hsiao"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Alan Guan"
+			}
+			"3"
+			{
+				"type"		"developer"
+				"name"		"Hayden Nuyens"
+			}
+			"4"
+			{
+				"type"		"developer"
+				"name"		"Elizabeth Han"
+			}
+			"5"
+			{
+				"type"		"developer"
+				"name"		"Julia Lee"
+			}
+			"6"
+			{
+				"type"		"developer"
+				"name"		"Wei"
+			}
+			"7"
+			{
+				"type"		"developer"
+				"name"		"Richard Cheng"
+			}
+			"8"
+			{
+				"type"		"publisher"
+				"name"		"Emily Pitcher"
+			}
+			"9"
+			{
+				"type"		"publisher"
+				"name"		"Ray Hsiao"
+			}
+			"10"
+			{
+				"type"		"publisher"
+				"name"		"Alan Guan"
+			}
+			"11"
+			{
+				"type"		"publisher"
+				"name"		"Hayden Nuyens"
+			}
+			"12"
+			{
+				"type"		"publisher"
+				"name"		"Wei"
+			}
+			"13"
+			{
+				"type"		"publisher"
+				"name"		"Richard Cheng"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1611000022"
+		"community_hub_visible"		"1"
+		"gameid"		"1430240"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"597"
+			"2"		"13782"
+			"3"		"11014"
+			"4"		"1698"
+			"5"		"3799"
+			"6"		"9551"
+			"7"		"3871"
+			"8"		"4726"
+			"9"		"4166"
+			"10"		"4947"
+			"11"		"1742"
+			"12"		"4182"
+			"13"		"5608"
+			"14"		"113"
+			"15"		"7208"
+			"16"		"492"
+			"17"		"189941"
+			"18"		"4234"
+			"19"		"7948"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Emily Pitcher"
+		"publisher"		"Emily Pitcher"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Space in Between"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Space In Between.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TheSpaceInBetween.app\\Contents\\MacOS\\The Space In Between"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1430241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6430231482437903854"
+					"size"		"229957610"
+					"download"		"64222752"
+				}
+			}
+		}
+		"1430242"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2253188194635144359"
+					"size"		"232204951"
+					"download"		"64758672"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6096555"
+				"timeupdated"		"1610938050"
+			}
+		}
+	}
+}
