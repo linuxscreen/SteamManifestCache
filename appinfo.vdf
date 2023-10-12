@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"914450"
+	"common"
+	{
+		"name"		"Test Subject 901"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"360_required"		"1"
+			}
+		}
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"icon"		"3a9d4fa922ab2de8c32f4919162b8ac1ff0e5e8b"
+		"logo"		"2f87330e3672a01735180d7c99425edcb08c3415"
+		"logo_small"		"2f87330e3672a01735180d7c99425edcb08c3415_thumb"
+		"clienticon"		"1af4f9e32c3be56c10466a055f02e4f338ba5336"
+		"clienttga"		"e6d561c3966a5057719510ba5da307505c85075e"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"metacritic_name"		"Test Subject 901"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"74.19108947738636"
+			}
+		}
+		"store_asset_mtime"		"1562162201"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SpinVR.ca"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SpinVR.ca"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1536723327"
+		"community_hub_visible"		"1"
+		"gameid"		"914450"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"1667"
+			"3"		"4182"
+			"4"		"21978"
+			"5"		"492"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"SpinVR.ca"
+		"publisher"		"SpinVR.ca"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Horror Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TestSubject901.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"914451"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2298093872685954421"
+					"size"		"3482760151"
+					"download"		"1119403568"
+				}
+				"development"
+				{
+					"gid"		"2298093872685954421"
+					"size"		"3482760151"
+					"download"		"1119403568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3565993"
+				"timeupdated"		"1550262843"
+			}
+			"development"
+			{
+				"buildid"		"3565993"
+				"timeupdated"		"1550262197"
+			}
+		}
+	}
+}
