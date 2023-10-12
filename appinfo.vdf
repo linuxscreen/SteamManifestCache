@@ -1,0 +1,174 @@
+"appinfo"
+{
+	"appid"		"1355240"
+	"common"
+	{
+		"name"		"Being Centered"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienticon"		"d1e928ed6cf8fd8c8916420f8da9b6ac058c7466"
+		"clienttga"		"f262f7a5f9b349efe7ab3ee929be3ba250df9a88"
+		"icon"		"7db80113442a27de489b29d2f9f0a38b60861866"
+		"logo"		"af1a352428398bc5237ac43155b8c738f9ec4ac8"
+		"logo_small"		"af1a352428398bc5237ac43155b8c738f9ec4ac8_thumb"
+		"clienticns"		"350f0cf291bdaec94b7d5c82c15ecaae178b5bce"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.53318077803205"
+				"height_pct"		"76.9769650914272"
+			}
+		}
+		"store_asset_mtime"		"1667002574"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kevin Wacknov"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mind Body Aware Games LLC"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1594626583"
+		"community_hub_visible"		"1"
+		"gameid"		"1355240"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"599"
+			"2"		"4182"
+			"3"		"15277"
+			"4"		"3834"
+			"5"		"615955"
+			"6"		"1036"
+			"7"		"13070"
+			"8"		"9204"
+			"9"		"4191"
+			"10"		"5411"
+			"11"		"4305"
+			"12"		"4252"
+			"13"		"1654"
+			"14"		"6426"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Kevin Wacknov"
+		"publisher"		"Mind Body Aware Games LLC"
+		"homepage"		"https://mindbodyawareapps.com/steam.html"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Being Centered"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Being Centered.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Being Centered.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1355241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"148288234648843136"
+					"size"		"142262264"
+					"download"		"56838128"
+				}
+			}
+		}
+		"1355242"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"249891701435799424"
+					"size"		"143045605"
+					"download"		"57762272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8533407"
+				"timeupdated"		"1649645043"
+			}
+		}
+	}
+}
