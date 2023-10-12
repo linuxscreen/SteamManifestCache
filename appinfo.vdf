@@ -1,0 +1,244 @@
+"appinfo"
+{
+	"appid"		"2012820"
+	"common"
+	{
+		"name"		"NecroCity: Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"9f57e69eeb74f08e9966839e639e1fba6f21900a"
+		"clienttga"		"9a88589c0b0ffa0f7c47c2a3df403bfa6156442a"
+		"clienticon"		"fdadd36d020f94ff6e62e7b16cc66a70f89dbd29"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1685750400"
+			"tested_build_id"		"10700656"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.35110857837789"
+				"height_pct"		"57.63833607742088"
+			}
+		}
+		"store_asset_mtime"		"1681731657"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Shift Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gameparic"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Gameparic"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678117893"
+		"community_hub_visible"		"1"
+		"gameid"		"2012820"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"4328"
+			"2"		"1645"
+			"3"		"1643"
+			"4"		"4182"
+			"5"		"492"
+			"6"		"7332"
+			"7"		"12472"
+			"8"		"19"
+			"9"		"4166"
+			"10"		"1708"
+			"11"		"21"
+			"12"		"220585"
+			"13"		"4191"
+			"14"		"29363"
+			"15"		"5851"
+			"16"		"1667"
+			"17"		"1662"
+			"18"		"3978"
+			"19"		"4342"
+		}
+		"review_score"		"7"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Shift Games"
+		"publisher"		"Gameparic"
+		"homepage"		"https://gameparic.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"NecroCity_Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Necrocity.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2012821"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2560518822337610397"
+					"size"		"5856334476"
+					"download"		"1390625616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"tests"
+				{
+					"gid"		"CB6D71E23991DB46B50C2A6EEC634788"
+					"size"		"45BBF65E55F0B521E629F27D3CFCDDE8"
+					"download"		"903C0E846C3C1E1DB48DEB14139262A2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10700656"
+				"timeupdated"		"1678110858"
+			}
+			"tests"
+			{
+				"buildid"		"10718227"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678268358"
+			}
+		}
+	}
+}
