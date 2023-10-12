@@ -1,0 +1,147 @@
+"appinfo"
+{
+	"appid"		"1087080"
+	"common"
+	{
+		"name"		"Critical Compendium"
+		"type"		"Application"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"ca950b0da7d05cbd9e64801c2ae9538c1e42a08c"
+		"logo_small"		"ca950b0da7d05cbd9e64801c2ae9538c1e42a08c_thumb"
+		"icon"		"4c67bc8fb610b10a0f7fc532e196296de1ed1141"
+		"clienttga"		"ed41f5fc8f32d5ccd44946c0a00e55e0943a9464"
+		"clienticon"		"0162b37519d4900c8f529bce25795cdbb3b3f63e"
+		"releasestate"		"released"
+		"osextended"		""
+		"metacritic_name"		"Critical Compendium"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1558537487"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Robert Thomas"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Whimsy and Wizardry Limited Company"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1560213906"
+		"community_hub_visible"		"1"
+		"gameid"		"1087080"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Robert Thomas"
+		"publisher"		"The Whimsy and Wizardry Limited Company"
+		"isfreeapp"		"1"
+		"listofdlc"		"1107090"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Critical Compendium"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CriticalCompendium.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1087081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6317689101571452674"
+					"size"		"51883044"
+					"download"		"12839264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"early_access"
+				{
+					"gid"		"DC7D257E03FF0548408FBBFB4D6D36D2"
+					"size"		"E2A06F5B811380048588E03AB1E6B767"
+					"download"		"69092C26703B191B6F172AA69A66CECB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4273171"
+				"timeupdated"		"1570669193"
+			}
+			"early_access"
+			{
+				"buildid"		"4273171"
+				"pwdrequired"		"1"
+				"timeupdated"		"1570669019"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"12"
+	}
+}
