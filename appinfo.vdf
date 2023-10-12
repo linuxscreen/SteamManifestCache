@@ -1,0 +1,172 @@
+"appinfo"
+{
+	"appid"		"1480630"
+	"common"
+	{
+		"name"		"Memory Maze"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+		}
+		"clienttga"		"d14c52e968b885efb3b3ebfe5c91e251bb08b958"
+		"icon"		"e2c21bd970f04ad38472ad7cfb7d85feecf58a96"
+		"logo"		"e5c1d5b3e105c64714845f3520764e8db1c801ed"
+		"logo_small"		"e5c1d5b3e105c64714845f3520764e8db1c801ed_thumb"
+		"clienticon"		"624e8e4ac902908a9e3d7e8676272921ae83b90f"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"french"		"capsule_231x87_french.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"french"		"header_french.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,fr"
+			"library_hero"		"en,fr"
+			"library_logo"		"en,fr"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.58983666061707"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1611499929"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Supernova Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Supernova Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1611074520"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1480630"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"8666"
+			"1"		"4791"
+			"2"		"5154"
+			"3"		"1773"
+			"4"		"5125"
+			"5"		"6625"
+			"6"		"4182"
+			"7"		"7569"
+			"8"		"492"
+			"9"		"1664"
+			"10"		"6129"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Supernova Games"
+		"publisher"		"Supernova Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Memory Maze"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MemoryMaze2.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1480631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"703485500464407984"
+					"size"		"364114767"
+					"download"		"132067632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A78B150EFD73D28D170686292139EC3F"
+					"size"		"FB1D884A69DF425395267852D49715DA"
+					"download"		"D91BE9ED6F373597533F4E84C3EA5431"
+				}
+			}
+		}
+		"baselanguages"		"english,french"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6160511"
+				"timeupdated"		"1611956144"
+			}
+			"beta"
+			{
+				"buildid"		"6160511"
+				"pwdrequired"		"1"
+				"timeupdated"		"1611956525"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
