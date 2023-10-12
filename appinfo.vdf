@@ -1,0 +1,184 @@
+"appinfo"
+{
+	"appid"		"1953960"
+	"common"
+	{
+		"name"		"Destoria: The Withering"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"14f739f39b9552606eca1ec9faf5266b8305b72e"
+		"clienttga"		"4cead7611e6ef874a360e6c2943f708587d061e3"
+		"clienticon"		"e31e35d9d65d9198e3a70d4d432a44eba374eeee"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1656473360"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Destoria Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Destoria Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1660096788"
+		"community_hub_visible"		"1"
+		"gameid"		"1953960"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4637"
+			"2"		"1774"
+			"3"		"113"
+			"4"		"597"
+			"5"		"4191"
+			"6"		"3942"
+			"7"		"5851"
+			"8"		"3993"
+			"9"		"4295"
+			"10"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Destoria Studios"
+		"publisher"		"Destoria Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Destoria The Withering"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DMG.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"DMG-Mac-Shipping.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1953961"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7655625883432759283"
+					"size"		"388965126"
+					"download"		"284280512"
+				}
+			}
+		}
+		"1953962"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1935834320863692507"
+					"size"		"488448753"
+					"download"		"227013152"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9003758"
+				"timeupdated"		"1656105557"
+			}
+		}
+	}
+}
