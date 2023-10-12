@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"2197490"
+	"common"
+	{
+		"name"		"白色哀悼：灰域美术馆"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"White Mourning: Museum In Pale"
+		}
+		"clienticon"		"abdf629368f2cf2975da26a9d1f9407a1c10b9e0"
+		"clienttga"		"8c15252e2e7d6d17292a3e6e034b89fdf1a696d3"
+		"icon"		"067bf0b4a5d4ffc8baf68be349d51482010a8bf7"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.27255859266953"
+				"height_pct"		"71.01663513087351"
+			}
+		}
+		"store_asset_mtime"		"1667673458"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sykine"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sykine"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1671353738"
+		"community_hub_visible"		"1"
+		"gameid"		"2197490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"3834"
+			"2"		"597"
+			"3"		"3964"
+			"4"		"1695"
+			"5"		"3871"
+			"6"		"4434"
+			"7"		"87"
+			"8"		"1710"
+			"9"		"113"
+			"10"		"1720"
+			"11"		"4182"
+			"12"		"492"
+			"13"		"1664"
+			"14"		"4004"
+			"15"		"9204"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Sykine"
+		"publisher"		"Sykine"
+		"isfreeapp"		"1"
+		"listofdlc"		"2218380"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Museum In Pale"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"White Mourning: Museum In Pale"
+					"schinese"		"白色哀悼：灰域美术馆"
+				}
+				"description"		"White Mourning: Museum In Pale"
+			}
+			"1"
+			{
+				"executable"		"White Mourning.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"2218380"
+				}
+				"description_loc"
+				{
+					"english"		"White Mourning: The Digital Version"
+					"schinese"		"白色哀悼：数字版"
+				}
+				"description"		"White Mourning: The Digital Version"
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"hasdepotsindlc"		"1"
+		"2197491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7448848194873468762"
+					"size"		"250603058"
+					"download"		"128732240"
+				}
+			}
+		}
+		"2218380"
+		{
+			"dlcappid"		"2218380"
+			"config"
+			{
+				"oslist"		"windows"
+				"optionaldlc"		"2218380"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1571602022311729551"
+					"size"		"51835298"
+					"download"		"52205200"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10996132"
+				"timeupdated"		"1681401213"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+}
