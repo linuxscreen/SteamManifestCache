@@ -1,0 +1,228 @@
+"appinfo"
+{
+	"appid"		"1709060"
+	"common"
+	{
+		"name"		"Secrets of the Lost Tomb"
+		"type"		"Game"
+		"logo"		"4e0c3cda2c521175aaed50bff507551c05f8ce9a"
+		"logo_small"		"4e0c3cda2c521175aaed50bff507551c05f8ce9a_thumb"
+		"icon"		"38dd88aa1e7875b3c81afa599738580bfae09f6a"
+		"clienticns"		"714938c35444019be8bb6f8135e7257b0cccaff0"
+		"clienticon"		"714938c35444019be8bb6f8135e7257b0cccaff0"
+		"clienttga"		"02624b8a809face8a691ee7e7d5cdfd12ef6863f"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"14.899062224251963"
+				"height_pct"		"58.680555555555564"
+			}
+		}
+		"store_asset_mtime"		"1631936743"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pranav Pullabhotla"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Suhas Palwai"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Spandan Goel"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Theoreticle Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1633529989"
+		"community_hub_visible"		"1"
+		"gameid"		"1709060"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4231"
+			"3"		"4106"
+			"4"		"176981"
+			"5"		"1720"
+			"6"		"3834"
+			"7"		"3814"
+			"8"		"4191"
+			"9"		"4145"
+			"10"		"3839"
+			"11"		"4175"
+			"12"		"1697"
+			"13"		"4342"
+			"14"		"5363"
+			"15"		"1662"
+			"16"		"1659"
+			"17"		"6276"
+			"18"		"6730"
+			"19"		"1775"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"Pranav Pullabhotla"
+		"publisher"		"Theoreticle Games"
+		"homepage"		"https://tomb.vercel.app"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Secrets of the Lost Tomb"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MazePrototype1.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Windows Launch"
+				}
+				"description"		"Windows Launch"
+			}
+			"1"
+			{
+				"executable"		"MazePrototype1-Mac-Shipping.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Mac Launch"
+				}
+				"description"		"Mac Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1709065"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7844217630344761047"
+					"size"		"4607053820"
+					"download"		"2192879088"
+				}
+			}
+		}
+		"1709066"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2811770629337838810"
+					"size"		"4691940925"
+					"download"		"2175538944"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7510241"
+				"timeupdated"		"1633903960"
+			}
+		}
+	}
+}
