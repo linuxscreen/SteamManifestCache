@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"1427420"
+	"common"
+	{
+		"name"		"Bloodland"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"f9d40eca33d228a57fcdc505017901c130358059"
+		"logo"		"ad090cc7127b17be2f55633cf3d3cf0e5ac9d661"
+		"logo_small"		"ad090cc7127b17be2f55633cf3d3cf0e5ac9d661_thumb"
+		"clienttga"		"185e0dcfa038eb5e50120934814d826e1653008b"
+		"clienticon"		"141f2aed6768544078ec88e36ff5fe80ab40c4aa"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1601489607"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kultured Dev"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kultured Dev"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1603982244"
+		"community_hub_visible"		"1"
+		"gameid"		"1427420"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"9"
+			"2"		"1743"
+			"3"		"6506"
+			"4"		"5547"
+			"5"		"620519"
+			"6"		"4191"
+			"7"		"1697"
+			"8"		"113"
+			"9"		"4791"
+			"10"		"493"
+			"11"		"1775"
+			"12"		"5711"
+			"13"		"3859"
+			"14"		"4057"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Kultured Dev"
+		"publisher"		"Kultured Dev"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Bloodland"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BloodlandMobile.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1427421"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"383742565822949877"
+					"size"		"1767059398"
+					"download"		"1580986224"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5774203"
+				"timeupdated"		"1604357273"
+			}
+		}
+	}
+}
