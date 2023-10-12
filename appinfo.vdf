@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"2080980"
+	"common"
+	{
+		"name"		"Mono Playground"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"8b1b3e31926db491d706ca09281690c7cb867bdf"
+		"clienticon"		"9760fb11b1e341b34eb90089ab2222387278f3fd"
+		"clienttga"		"e8a215ecb5c6be0ca87f1ba2d1c95fe2ee2de229"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1657683524"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Andrew A Powell"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Andrew A Powell"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1658929547"
+		"community_hub_visible"		"1"
+		"gameid"		"2080980"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1625"
+			"2"		"5379"
+			"3"		"3871"
+			"4"		"4195"
+			"5"		"4726"
+			"6"		"17894"
+			"7"		"113"
+			"8"		"3968"
+			"9"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"developer"		"Andrew A Powell"
+		"publisher"		"Andrew A Powell"
+		"homepage"		"https://www.powellsshowcase.com/blog/36-mono-playground-finally-returned"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mono Playground"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MonoPlayground.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"MonoPlayground"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2080981"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8052724558112416502"
+					"size"		"165943259"
+					"download"		"29569056"
+				}
+			}
+		}
+		"2080982"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1367444371593150955"
+					"size"		"175330817"
+					"download"		"29942240"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9083676"
+				"timeupdated"		"1657258637"
+			}
+		}
+	}
+}
