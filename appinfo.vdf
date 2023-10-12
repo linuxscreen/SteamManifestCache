@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"1436870"
+	"common"
+	{
+		"name"		"The Tool"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"clienticon"		"ee176100cc18ba744e9bae1cc6ae74bc2d6c828c"
+		"clienttga"		"855e704d72558b671ee5f8de786293a1259b5743"
+		"icon"		"a6a664b59c8f6d8de388803cd01da1ab8a63af47"
+		"clienticns"		"92b77c668e6eb8f76eeb50affbd0cab3a2991c5a"
+		"logo"		"4af3faad0c798ec60c3dc4bf7be6cb9e33e4fd3c"
+		"logo_small"		"4af3faad0c798ec60c3dc4bf7be6cb9e33e4fd3c_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"71.62790697674416"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1666991984"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mikhail Maksimov"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Garage Digital"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1604050889"
+		"community_hub_visible"		"1"
+		"gameid"		"1436870"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"599"
+			"2"		"13782"
+			"3"		"1664"
+			"4"		"1654"
+			"5"		"1714"
+			"6"		"4166"
+			"7"		"4191"
+			"8"		"3968"
+			"9"		"113"
+			"10"		"1036"
+			"11"		"492"
+			"12"		"4182"
+			"13"		"12057"
+			"14"		"1710"
+			"15"		"13906"
+			"16"		"7926"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Mikhail Maksimov"
+		"publisher"		"Garage Digital"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Tool"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheTool.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TheTool.app\\Contents\\MacOS\\TheTool-Mac-Shipping"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"1436871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6925917553219118746"
+					"size"		"827354407"
+					"download"		"309201504"
+				}
+			}
+		}
+		"1436872"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5502130765666403597"
+					"size"		"517970834"
+					"download"		"350467184"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6166672"
+				"timeupdated"		"1612128038"
+			}
+		}
+	}
+}
