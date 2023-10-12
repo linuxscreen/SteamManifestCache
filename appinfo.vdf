@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"992860"
+	"common"
+	{
+		"name"		"Intrepid"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"7b8acbc7e5e830c00fe2ac16cda3f364229e9eea"
+		"logo_small"		"7b8acbc7e5e830c00fe2ac16cda3f364229e9eea_thumb"
+		"icon"		"8737e94047d942214aef9d0990a62f2ff661ac35"
+		"clienticon"		"96ec5ea83f449a502320593dc1632bb616beb1a2"
+		"clienttga"		"f02d81d3a9698b200ff10861b5dfe7538fb835fa"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"metacritic_name"		"Intrepid"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"18.909512761020878"
+				"height_pct"		"35.790276534232916"
+			}
+		}
+		"store_asset_mtime"		"1669022775"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Miskatonic Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Miskatonic Studio"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1545479271"
+		"community_hub_visible"		"1"
+		"gameid"		"992860"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21"
+			"2"		"492"
+			"3"		"769306"
+		}
+		"review_score"		"5"
+		"review_percentage"		"47"
+	}
+	"extended"
+	{
+		"developer"		"Miskatonic Studio"
+		"publisher"		"Miskatonic Studio"
+		"homepage"		"https://miskatonicstudio.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Intrepid"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Intrepid.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Intrepid.bat"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"Intrepid.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"992861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8768264491508091004"
+					"size"		"547174079"
+					"download"		"211752208"
+				}
+			}
+		}
+		"992862"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6322275523089902428"
+					"size"		"552663295"
+					"download"		"212423856"
+				}
+			}
+		}
+		"992864"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1598297679301162679"
+					"size"		"593362847"
+					"download"		"221491584"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3622060"
+				"timeupdated"		"1551896922"
+			}
+		}
+	}
+}
