@@ -1,0 +1,184 @@
+"appinfo"
+{
+	"appid"		"2023500"
+	"common"
+	{
+		"name"		"Deck of Life: You Die If You Have No Cards In Your Hand"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"8ee78e6d357a9e046b080e45085fe55a0802f6f4"
+		"clienticon"		"cf685f0f4cbce5daa7614423504cc7ded21b2a83"
+		"clienttga"		"5d8c756d7133da82388069929afc9898fb7447ec"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1695945600"
+			"tested_build_id"		"11625230"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1659390217"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Home Fire Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Home Fire Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1688488405"
+		"community_hub_visible"		"1"
+		"gameid"		"2023500"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"791774"
+			"2"		"4161"
+			"3"		"1734"
+			"4"		"32322"
+			"5"		"6426"
+			"6"		"13782"
+			"7"		"3959"
+			"8"		"4305"
+			"9"		"4252"
+			"10"		"4711"
+			"11"		"1666"
+			"12"		"1716"
+			"13"		"4094"
+			"14"		"4166"
+			"15"		"4604"
+			"16"		"9"
+			"17"		"1684"
+			"18"		"4236"
+			"19"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Home Fire Games"
+		"publisher"		"Home Fire Games"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Deck Of Life"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Deck of Life.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2023501"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8967069857562466561"
+					"size"		"406648405"
+					"download"		"184258096"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11625230"
+				"timeupdated"		"1688500640"
+			}
+		}
+	}
+}
