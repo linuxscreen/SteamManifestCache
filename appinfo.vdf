@@ -1,0 +1,164 @@
+"appinfo"
+{
+	"appid"		"2026860"
+	"common"
+	{
+		"name"		"Maria Blanchard Virtual Gallery"
+		"type"		"Application"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"clienttga"		"08f15fcebd2367c355209d3dd16e3a51fd26a8b2"
+		"clienticon"		"a94781c897fa1b4e48c36f0ff5addd5ca224f91a"
+		"icon"		"128d2a693c6dc0503e9f8f31fda7be3a08d96f97"
+		"controllervr"
+		{
+			"oculus"		"1"
+			"kbm"		"1"
+		}
+		"releasestate"		"released"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"86.85879741196408"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1654973528"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Virtual Video"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Virtual Video"
+			}
+		}
+		"primary_genre"		"54"
+		"genres"
+		{
+			"0"		"53"
+			"1"		"54"
+		}
+		"category"
+		{
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1656711571"
+		"community_hub_visible"		"1"
+		"gameid"		"2026860"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"84"
+			"1"		"1036"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Virtual Video"
+		"publisher"		"Virtual Video"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Maria Blanchard Virtual Gallery"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MariaBlanchard.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,spanish"
+		"hasdepotsindlc"		"0"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2026861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3604604164736719494"
+					"size"		"6229218660"
+					"download"		"2033265840"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9092429"
+				"timeupdated"		"1657400603"
+			}
+		}
+	}
+}
