@@ -1,0 +1,230 @@
+"appinfo"
+{
+	"appid"		"662830"
+	"common"
+	{
+		"name"		"Bombix"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"9a3de21314947393eb8cb0de7c01df05e6adf805"
+		"logo_small"		"9a3de21314947393eb8cb0de7c01df05e6adf805_thumb"
+		"icon"		"fd25ffb122cbafec4b22fb8f1a0d2eca168a13c8"
+		"linuxclienticon"		"3d7297ebeb7ceee053dc8bc903173a85369624bd"
+		"clienticon"		"af3e6933d1eaa6df1a17675bda8e5b11adfbe65e"
+		"clienttga"		"d0c022247ccb760ac17e0670f19b14ebc0a1287a"
+		"clienticns"		"8d3e98125a2ff2fe6c770b6ae0978b558a348936"
+		"releasestate"		"released"
+		"osextended"		""
+		"metacritic_name"		"Bombix"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1520853450"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pragmatix Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pragmatix Ltd"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_35"		"1"
+			"category_24"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1520022480"
+		"community_hub_visible"		"1"
+		"gameid"		"662830"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"19"
+			"2"		"122"
+			"3"		"113"
+			"4"		"3859"
+			"5"		"1685"
+			"6"		"4325"
+			"7"		"1677"
+			"8"		"1741"
+			"9"		"1708"
+			"10"		"3843"
+			"11"		"3968"
+			"12"		"1775"
+			"13"		"7368"
+			"14"		"1625"
+			"15"		"3878"
+			"16"		"4136"
+			"17"		"4182"
+			"18"		"4026"
+			"19"		"4155"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Pragmatix Ltd"
+		"publisher"		"Pragmatix Ltd"
+		"homepage"		"http://pragmatixgames.com/en/wormix"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Bombix"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bombix.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"bombix.app\\Contents\\MacOS\\bombix"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"662831"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"134013510910193928"
+					"size"		"107728288"
+					"download"		"75566896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta-test"
+				{
+					"gid"		"079BF884D7B15979119406B0CFB79F1A"
+					"size"		"61A773B771889976EA4E5C8445C9E065"
+					"download"		"F57B396A8CDE97ACA150FA4B7A3A880A"
+				}
+				"develop"
+				{
+					"gid"		"B83D528E18A76ECB3CF1A952A3FAE81C"
+					"size"		"AFF83371B65D8E6065B1745F16B41B3D"
+					"download"		"B3E47AA11F0F44CBADDF001A85D880C7"
+				}
+			}
+		}
+		"662832"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7281777446811552888"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta-test"
+				{
+					"gid"		"6D7217DC167C8673FCA6ED1748C593A8"
+					"size"		"A3A87FEB4DCB85D75B932D0D6CB5AB5F"
+					"download"		"A3A87FEB4DCB85D75B932D0D6CB5AB5F"
+				}
+				"develop"
+				{
+					"gid"		"04EBC7D8EAD23D0EAE0FF6DCA87F7B7E"
+					"size"		"99D73AC4D34B263097B43E775B874806"
+					"download"		"99D73AC4D34B263097B43E775B874806"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3169821"
+				"timeupdated"		"1538307405"
+			}
+			"beta-test"
+			{
+				"buildid"		"3169821"
+				"pwdrequired"		"1"
+				"timeupdated"		"1538307258"
+			}
+			"develop"
+			{
+				"buildid"		"3162952"
+				"pwdrequired"		"1"
+				"timeupdated"		"1538081847"
+			}
+		}
+	}
+}
