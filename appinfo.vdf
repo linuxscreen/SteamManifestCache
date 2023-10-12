@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"2434760"
+	"common"
+	{
+		"name"		"StarOS"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"spanish"		"1"
+		}
+		"clienticon"		"a15e318a4594891afe2572ebf9283040546cf72a"
+		"clienttga"		"9d8e586c82e168358fedc042f0ce32fe14553d92"
+		"icon"		"a82cd8a6a8c70b2f3c9b234c993e8af9670f2233"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.646441073512264"
+				"height_pct"		"38.44985087896883"
+			}
+		}
+		"store_asset_mtime"		"1687685718"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Josyan"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Star Industries S.L."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1688458245"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2434760"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"8013"
+			"2"		"16598"
+			"3"		"87"
+			"4"		"1674"
+			"5"		"9204"
+			"6"		"3871"
+			"7"		"3964"
+			"8"		"4175"
+			"9"		"492"
+			"10"		"5350"
+			"11"		"4182"
+			"12"		"6426"
+			"13"		"4004"
+			"14"		"12472"
+			"15"		"4342"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Josyan"
+		"publisher"		"Star Industries S.L."
+		"homepage"		"https://www.josyan.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"StarOS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StarOS.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2434761"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5145346448230653275"
+					"size"		"276296903"
+					"download"		"222015360"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12123492"
+				"timeupdated"		"1694181788"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"StarOS"
+				"pattern"		"*.ini"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
