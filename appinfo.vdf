@@ -1,0 +1,212 @@
+"appinfo"
+{
+	"appid"		"2303910"
+	"common"
+	{
+		"name"		"Chrono Rift"
+		"type"		"Game"
+		"icon"		"f27a63dbfa81f089ba8264933996b85ff8103265"
+		"clienttga"		"57f8b5e865a92543a300824e638232b733b2ed5f"
+		"clienticon"		"c60330855ce6e75e329e6bdea1c05bc90e5f18a7"
+		"clienticns"		"c60330855ce6e75e329e6bdea1c05bc90e5f18a7"
+		"linuxclienticon"		"fe304329b993393ff0086d2a74ea1aeb584d4eb2"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1695081600"
+			"tested_build_id"		"11552051"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688224923"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GameDev4Fun"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GameDev4Fun"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1689282771"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2303910"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3843"
+			"1"		"19"
+			"2"		"3859"
+			"3"		"42804"
+			"4"		"122"
+			"5"		"6730"
+			"6"		"4057"
+			"7"		"1697"
+			"8"		"4747"
+			"9"		"5711"
+			"10"		"3993"
+			"11"		"1774"
+			"12"		"4191"
+			"13"		"4252"
+			"14"		"1684"
+			"15"		"4172"
+			"16"		"5716"
+			"17"		"5752"
+			"18"		"1659"
+			"19"		"597"
+		}
+		"review_score"		"5"
+		"review_percentage"		"45"
+	}
+	"extended"
+	{
+		"developer"		"GameDev4Fun"
+		"publisher"		"GameDev4Fun"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Chrono Rift"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GasLight.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2303911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7468156887943075558"
+					"size"		"387728057"
+					"download"		"264334864"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11552051"
+				"timeupdated"		"1687634616"
+			}
+		}
+	}
+}
