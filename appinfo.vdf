@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"2367500"
+	"common"
+	{
+		"name"		"Chrono Crystal"
+		"type"		"Game"
+		"icon"		"c509a922203179b4f0122a394ca6b6c1e5dce338"
+		"clienttga"		"a967a3c87746bdf9ad7c86dd9cde9650c0f41a67"
+		"clienticon"		"9e8ecfbf8662f11dad3b859d62b44e46d8da1b81"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1692662400"
+			"tested_build_id"		"11612114"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"en"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.362893815635942"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1685339689"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lanqing Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lanqing Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1685586060"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2367500"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1645"
+			"2"		"3871"
+			"3"		"1684"
+			"4"		"3813"
+			"5"		"4305"
+			"6"		"4182"
+			"7"		"113"
+			"8"		"492"
+			"9"		"597"
+			"10"		"7250"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Lanqing Games"
+		"publisher"		"Lanqing Games"
+		"isfreeapp"		"1"
+		"listofdlc"		"2382740,2382741,2382742,2382743"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Chrono Crystal"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"2367501"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5791760124495300583"
+					"size"		"482073431"
+					"download"		"329094736"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11612114"
+				"timeupdated"		"1688371039"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"2000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Chrono Crystal"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
