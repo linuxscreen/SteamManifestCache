@@ -1,0 +1,171 @@
+"appinfo"
+{
+	"appid"		"1050190"
+	"common"
+	{
+		"name"		"Fast Travel: Loot Delivery Service"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"11efc9d089923867859d32726ed98104810dcf02"
+		"logo_small"		"11efc9d089923867859d32726ed98104810dcf02_thumb"
+		"icon"		"8206c4fbb3e8099dc1898d04177bc41c9d706c3e"
+		"clienticon"		"0167417f8f8c722ff651f3995c959caaedce1a19"
+		"clienttga"		"6d5c2581ae89cc680719ade7ab5c3d4899e9c20d"
+		"releasestate"		"released"
+		"metacritic_name"		"Fast Travel: Loot Delivery Service"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1556362238"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Souper Chef"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Souper Chef"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1555743600"
+		"steam_release_date"		"1555748728"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1050190"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"5390"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Souper Chef"
+		"publisher"		"Souper Chef"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Fast Travel Loot Delivery Service"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fast Travel.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1050191"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8529755030739618400"
+					"size"		"2569564595"
+					"download"		"663443376"
+				}
+				"dev2"
+				{
+					"gid"		"5977124236875096630"
+					"size"		"2401759720"
+					"download"		"607867232"
+				}
+				"devbranch"
+				{
+					"gid"		"8529755030739618400"
+					"size"		"2569564595"
+					"download"		"663443376"
+				}
+			}
+		}
+		"1050192"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3802407"
+				"timeupdated"		"1557359874"
+			}
+			"dev2"
+			{
+				"buildid"		"3762593"
+				"timeupdated"		"1556056059"
+			}
+			"devbranch"
+			{
+				"buildid"		"3802407"
+				"timeupdated"		"1557268109"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Fast Travel_Data/BinaryData"
+				"pattern"		"data.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
