@@ -1,0 +1,196 @@
+"appinfo"
+{
+	"appid"		"1993560"
+	"common"
+	{
+		"name"		"Endure Island"
+		"type"		"Game"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1993560_eula_0"
+				"name"		"Endure Island EULA"
+				"url"		"https://store.steampowered.com//eula/1993560_eula_0"
+				"version"		"1"
+			}
+		}
+		"clienttga"		"dfc0f31aa5df417426dbdb1be869ad6fea55b663"
+		"linuxclienticon"		"8a64115720d39a0592d71deb311244899252de79"
+		"clienticns"		"8a64115720d39a0592d71deb311244899252de79"
+		"clienticon"		"01a804bcb3d6b47067a3100efb5cf31f8dfb8053"
+		"icon"		"2d1184494796ef2c522ead6758e560044d47c3aa"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1670145046"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Izanabit"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Izanabit"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1661785213"
+		"community_hub_visible"		"1"
+		"gameid"		"1993560"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3978"
+			"1"		"19"
+			"2"		"1659"
+			"3"		"1774"
+			"4"		"1663"
+			"5"		"1662"
+			"6"		"1695"
+			"7"		"5395"
+			"8"		"3814"
+			"9"		"4191"
+			"10"		"113"
+			"11"		"1697"
+			"12"		"493"
+			"13"		"3839"
+			"14"		"4175"
+			"15"		"4342"
+			"16"		"4182"
+			"17"		"6730"
+		}
+		"review_score"		"4"
+		"review_percentage"		"34"
+	}
+	"extended"
+	{
+		"developer"		"Izanabit"
+		"publisher"		"Izanabit"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"EndureIsland"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EndureIsland.exe"
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertouchconfigdetails"		""
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1993561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"222545683978272404"
+					"size"		"5518699911"
+					"download"		"5368073216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8E43CFF5445EED210515505FF05FA59A"
+					"size"		"A00EE993EA63ECFB1E8AC67FE04D05E7"
+					"download"		"68726E6C129125EA76C2C4CA99F4D4FA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10106853"
+				"timeupdated"		"1670515689"
+			}
+			"beta"
+			{
+				"buildid"		"10106853"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670513411"
+			}
+		}
+	}
+}
