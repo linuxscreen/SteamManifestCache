@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"504300"
+	"common"
+	{
+		"name"		"Gangs of Space"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"clienticon"		"af1041d0e3417a4a980d8847bbe44473f2a93fa5"
+		"clienttga"		"5e0f4d5b053878555a26e5e044f322cdc292c840"
+		"icon"		"5e18770b9541898a4ed1745703143699d366bff1"
+		"linuxclienticon"		"974cfece4217b3b843b64f14706ab3a45b902ff9"
+		"clienticns"		"660742dcac076c84b4a14abb7eb63843ac305b1d"
+		"logo"		"ca0ebc4e55c9d966c1718288769aea0cb9ba6f74"
+		"logo_small"		"ca0ebc4e55c9d966c1718288769aea0cb9ba6f74_thumb"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"504300_eula_0"
+				"name"		"Gangs of Space EULA"
+				"url"		"http://store.steampowered.com//eula/504300_eula_0"
+			}
+		}
+		"metacritic_name"		"Gangs of Space"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1501155291"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Little Big MMO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Little Big MMO"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"3"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_18"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1502384507"
+		"community_hub_visible"		"1"
+		"gameid"		"504300"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"128"
+			"2"		"493"
+			"3"		"19"
+			"4"		"1754"
+			"5"		"492"
+			"6"		"1755"
+			"7"		"4236"
+			"8"		"4885"
+			"9"		"4637"
+			"10"		"4758"
+			"11"		"3843"
+			"12"		"122"
+			"13"		"1646"
+			"14"		"3959"
+			"15"		"3942"
+			"16"		"4255"
+			"17"		"3878"
+			"18"		"1756"
+			"19"		"1759"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Little Big MMO"
+		"publisher"		"Little Big MMO"
+		"homepage"		"https://www.gangsofspace.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"670960,670961,690730,711064,738630"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Gangs of Space"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Gangs of Space.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Gangs of Space.app\\Contents\\MacOS\\Gangs of Space"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Gangs of Space.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"Gangs of Space.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"504301"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3679594986863406708"
+					"size"		"856786017"
+					"download"		"334314464"
+				}
+			}
+		}
+		"504302"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6358435171126365162"
+					"size"		"900017950"
+					"download"		"346748320"
+				}
+			}
+		}
+		"504303"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7445022608252742264"
+					"size"		"908655570"
+					"download"		"351926256"
+				}
+			}
+		}
+		"711064"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1724148354297046155"
+					"size"		"203462740"
+					"download"		"154136672"
+				}
+			}
+			"dlcappid"		"711064"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2335210"
+				"timeupdated"		"1512236619"
+			}
+		}
+	}
+}
