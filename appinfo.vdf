@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"2363530"
+	"common"
+	{
+		"name"		"Kemono Friends Opening Day"
+		"type"		"Game"
+		"icon"		"3ef34b4be079adda402c082d8ef2246a1e3a937a"
+		"linuxclienticon"		"df057aa021e4bf901e5cdac21df0aa58064ee460"
+		"clienticns"		"0b5a484619c78433a79698e6ef9ebc8f03d8cfe3"
+		"clienticon"		"53f0f9e797b0013817e8ae3f0c1fdd692d7ce09c"
+		"clienttga"		"8ed2df2197d181e64fb7edf8c5c75435fc0551af"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.61732385261797"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1681413842"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"snow in the library"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"snow in the library"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Kemono Friends"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682715054"
+		"community_hub_visible"		"1"
+		"gameid"		"2363530"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"3799"
+			"2"		"4085"
+			"3"		"3871"
+			"4"		"3942"
+			"5"		"4726"
+			"6"		"5984"
+			"7"		"4305"
+			"8"		"6426"
+			"9"		"113"
+			"10"		"492"
+			"11"		"6971"
+			"12"		"7208"
+			"13"		"1742"
+			"14"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"snow in the library"
+		"publisher"		"snow in the library"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Kemono Friends Opening Day"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"KemonoFriendsOpeningDay.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Use this option to play the game on Windows."
+				}
+				"description"		"Use this option to play the game on Windows."
+			}
+			"1"
+			{
+				"executable"		"KemonoFriendsOpeningDay.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Use this option to play the game on Linux."
+				}
+				"description"		"Use this option to play the game on Linux."
+			}
+			"2"
+			{
+				"executable"		"KemonoFriendsOpeningDay.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Use this option to play the game on Mac."
+				}
+				"description"		"Use this option to play the game on Mac."
+			}
+		}
+	}
+	"depots"
+	{
+		"2363531"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8012657837406017741"
+					"size"		"290768784"
+					"download"		"197030432"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11118121"
+				"timeupdated"		"1682712397"
+			}
+		}
+	}
+}
