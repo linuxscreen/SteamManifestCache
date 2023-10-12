@@ -1,0 +1,331 @@
+"appinfo"
+{
+	"appid"		"99900"
+	"common"
+	{
+		"name"		"Spiral Knights"
+		"clienticns"		"3580fd37b6860e6c31c738fae8c1a50c12593bd9"
+		"logo"		"eef62584a3d0c3338f569b14a7e667758ad2b098"
+		"logo_small"		"eef62584a3d0c3338f569b14a7e667758ad2b098_thumb"
+		"icon"		"d4b1a783f64871474bacfec6b33307e56fa665f7"
+		"clienticon"		"cadda4315365767f6574ab06777b237740f13324"
+		"clienttga"		"662489ce2640b4580069d8c21e798c3654656eaf"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1643932800"
+			"tested_build_id"		"1613814"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+			}
+		}
+		"metacritic_name"		"Spiral Knights"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49"
+				"height_pct"		"58"
+			}
+		}
+		"store_asset_mtime"		"1375915511"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Grey Havens"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Grey Havens"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"29"
+			"6"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1308069000"
+		"metacritic_score"		"64"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/spiral-knights?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"99900"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"128"
+			"2"		"122"
+			"3"		"21"
+			"4"		"19"
+			"5"		"3859"
+			"6"		"3843"
+			"7"		"1720"
+			"8"		"1646"
+			"9"		"1685"
+			"10"		"1754"
+			"11"		"4726"
+			"12"		"1756"
+			"13"		"4231"
+			"14"		"3942"
+			"15"		"1695"
+			"16"		"597"
+			"17"		"4182"
+			"18"		"492"
+			"19"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"allowpurchasefromrestrictedcountries"		"0"
+		"developer"		"Grey Havens"
+		"gamedir"		"Spiral Knights"
+		"homepage"		"http://www.spiralknights.com/"
+		"icon"		""
+		"inhibitautoversionroll"		"1"
+		"isfreeapp"		"1"
+		"noservers"		"1"
+		"order"		"1"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"macos,windows,linux"
+		"publisher"		"Grey Havens"
+		"listofdlc"		"99909,206520,206521,206522,206523,206524,206525,206526,268310,268311,268312,268313,268314,268315,306720,306721,306722,306723"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Spiral Knights"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"java_vm\\bin\\javaw.exe"
+				"arguments"		"-Dsun.java2d.d3d=false -Dcheck_unpacked=true -jar getdown-pro.jar . client"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Spiral Knights.app"
+				"description"		"app launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"run.sh"
+				"description"		"Spiral Knights with your own JVM"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"99902"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"372193116219002677"
+					"size"		"935766092"
+					"download"		"835577536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"9D06DAE5F57532429E011E318E8F4909"
+					"size"		"E1CDF1E45D6577400E9410BE66C26C3C"
+					"download"		"7F45866BDA266D456AD7514D44517090"
+				}
+				"devel2"
+				{
+					"gid"		"56707ADC29B9573139528B9A225699C3"
+					"size"		"2150FFA036632183A97A94C62FA37BB1"
+					"download"		"1D9221A2E970FDE785B12157F52C440E"
+				}
+			}
+		}
+		"99901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"812280184875820859"
+					"size"		"495118348"
+					"download"		"610396479398"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"F93876E79EF39A422AF763851F74D2F1"
+					"size"		"18C873F9EC83447142003DE67F349C42"
+					"download"		"A7A59EBB5FAFC4FC36F987EC31C3204B"
+				}
+				"devel2"
+				{
+					"gid"		"0EB53A3902B10D752E11386B416D1D86"
+					"size"		"9A73008D9142B7627C3B60BE11385517"
+					"download"		"1E7267DE8AFC4A3902C6E817A06902E8"
+				}
+			}
+		}
+		"99904"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1613814"
+				"timeupdated"		"1486423077"
+			}
+			"devel"
+			{
+				"buildid"		"1613804"
+				"pwdrequired"		"1"
+				"timeupdated"		"1486422847"
+			}
+			"devel2"
+			{
+				"buildid"		"462150"
+				"pwdrequired"		"1"
+				"timeupdated"		"1486223246"
+			}
+		}
+	}
+}
