@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"1373110"
+	"common"
+	{
+		"name"		"Reflect Horizons"
+		"type"		"Game"
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"f7088de8672f5c7ced394f39d1e3061734ff3eb5"
+		"logo_small"		"f7088de8672f5c7ced394f39d1e3061734ff3eb5_thumb"
+		"icon"		"28ccb01682a56283e969d41e176411810997acfa"
+		"clienticon"		"f7ae5a3350569a12e48664af80889f021cea56c1"
+		"clienttga"		"150b322b337a34d0fb19c91aa34bcbdbb3b2a380"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"openvr_controller_bindings"
+		{
+			"0"
+			{
+				"controller_type"		"knuckles"
+				"url"		"vr-input-workshop://2272667413"
+			}
+			"1"
+			{
+				"controller_type"		"vive_controller"
+				"url"		"vr-input-workshop://2240997705"
+			}
+		}
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1597016128"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Level 11"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Level 11"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1598350033"
+		"community_hub_visible"		"1"
+		"gameid"		"1373110"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"3934"
+			"1"		"597"
+			"2"		"1654"
+			"3"		"21978"
+			"4"		"13782"
+			"5"		"4166"
+			"6"		"4145"
+			"7"		"4400"
+			"8"		"1714"
+			"9"		"3834"
+			"10"		"113"
+			"11"		"599"
+			"12"		"4305"
+			"13"		"9204"
+			"14"		"4094"
+			"15"		"4175"
+			"16"		"9157"
+			"17"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Level 11"
+		"publisher"		"Level 11"
+		"homepage"		"https://level11.space/reflecthorizons"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ReflectHorizonsSteam_1_0"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ReflectHorizonsSteam_1_1\\WindowsNoEditor\\REFLECT_HORIZONS.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ReflectHorizonsSteam_1_0\\WindowsNoEditor\\REFLECT_HORIZONS\\Binaries\\Win64\\REFLECT_HORIZONS-Win64-Shipping.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1373111"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8584633337919533555"
+					"size"		"813246442"
+					"download"		"284636192"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5934535"
+				"timeupdated"		"1607375764"
+			}
+		}
+	}
+}
