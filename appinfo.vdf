@@ -1,0 +1,251 @@
+"appinfo"
+{
+	"appid"		"358270"
+	"common"
+	{
+		"name"		"Death Rally (Classic)"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"71822239d2a8d3a92fbf4f52a09dd08b02fcd567"
+		"logo_small"		"71822239d2a8d3a92fbf4f52a09dd08b02fcd567_thumb"
+		"clienticon"		"1dc363e52d625a0aefe5e1f4340a457f5235220c"
+		"clienttga"		"e26b9ec1af24d9283f1c9a9c84075c28c9edc09f"
+		"icon"		"bee288de9618f208b5da80e2f2a837537a7d3b0f"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1657238400"
+			"tested_build_id"		"607265"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Death Rally"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.11785297549592"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667485501"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Remedy"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"3D Realms (Apogee Software)"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"841993200"
+		"steam_release_date"		"1399308180"
+		"community_hub_visible"		"1"
+		"gameid"		"358270"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"4004"
+			"2"		"19"
+			"3"		"1693"
+			"4"		"4791"
+			"5"		"113"
+			"6"		"1773"
+			"7"		"3871"
+			"8"		"6691"
+			"9"		"11104"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Remedy"
+		"publisher"		"3D Realms (Apogee Software)"
+		"homepage"		"https://3drealms.com/catalog/death-rally_13/"
+		"gamemanualurl"		"https://store.steampowered.com/manual/358270/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Death Rally"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Death Rally\\dr.exe"
+				"description"		"Launch"
+				"workingdir"		"Death Rally\\"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Death Rally.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Dosbox\\dosbox"
+				"arguments"		"-conf \"..\\Death.conf\" -noconsole -c"
+				"description"		"Launch"
+				"workingdir"		"Dosbox\\"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"358271"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1672872052065671997"
+					"size"		"47234154"
+					"download"		"42913888"
+				}
+			}
+		}
+		"358272"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2408234543850803240"
+					"size"		"518735576"
+					"download"		"216191392"
+				}
+			}
+		}
+		"358273"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7251996783557642769"
+					"size"		"64955238"
+					"download"		"55629712"
+				}
+			}
+		}
+		"358282"
+		{
+			"depotfromapp"		"358280"
+			"sharedinstall"		"1"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"607265"
+			}
+		}
+	}
+}
