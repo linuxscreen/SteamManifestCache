@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"1966580"
+	"common"
+	{
+		"name"		"Super Ride Grandpa"
+		"type"		"Game"
+		"icon"		"dcd2191829cd6bca6f2e946bb0f24f74b92a8574"
+		"clienttga"		"2ebf4082991967d840937f11573662ba1b65ce55"
+		"clienticon"		"bc4a82fe37da61c96febd10e02b6b34e465712ba"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"10"
+				"height_pct"		"17.703633341249116"
+			}
+		}
+		"store_asset_mtime"		"1650474371"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Obvious Plant"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Obvious Plant"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1652131488"
+		"community_hub_visible"		"1"
+		"gameid"		"1966580"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"1773"
+			"2"		"4102"
+			"3"		"3798"
+			"4"		"3871"
+			"5"		"4305"
+			"6"		"3964"
+			"7"		"7743"
+			"8"		"6691"
+			"9"		"1719"
+			"10"		"19995"
+			"11"		"5923"
+			"12"		"5030"
+			"13"		"4136"
+			"14"		"10397"
+			"15"		"3916"
+			"16"		"4878"
+			"17"		"4004"
+			"18"		"1651"
+			"19"		"1710"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Obvious Plant"
+		"publisher"		"Obvious Plant"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Super Ride Grandpa"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SRG_Windows\\Super Ride Grandpa.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SRG_Mac.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1966581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5152675657759193587"
+					"size"		"77734992"
+					"download"		"20491552"
+				}
+			}
+		}
+		"1966582"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1620183799175916146"
+					"size"		"99745789"
+					"download"		"27354384"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8701306"
+				"timeupdated"		"1652056040"
+			}
+		}
+	}
+}
