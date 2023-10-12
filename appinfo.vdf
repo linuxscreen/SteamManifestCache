@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"2282020"
+	"common"
+	{
+		"name"		"City idle"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"a2b60a6d778935e99f3928e51e9590e800062613"
+		"clienticon"		"edbdfaa630d1d354a99ebffe19d772f78e4a2ee7"
+		"clienttga"		"f4ce30063b6d77dea4f55bf916cb611b420b45a4"
+		"clienticns"		"70b0b414c85d9b7d53e4290ed4065f4260fb15ed"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1696291200"
+			"tested_build_id"		"10877260"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"84.4217525528378"
+			}
+		}
+		"store_asset_mtime"		"1694164998"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Grest Games OÜ"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Grest Games OÜ"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1694165116"
+		"community_hub_visible"		"1"
+		"gameid"		"2282020"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"9"
+			"2"		"220585"
+			"3"		"3834"
+			"4"		"9204"
+			"5"		"4975"
+			"6"		"4305"
+			"7"		"4726"
+			"8"		"3964"
+			"9"		"1643"
+			"10"		"1702"
+			"11"		"4695"
+			"12"		"6129"
+			"13"		"12472"
+			"14"		"4172"
+			"15"		"4004"
+			"16"		"7332"
+			"17"		"8945"
+			"18"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Grest Games OÜ"
+		"publisher"		"Grest Games OÜ"
+		"homepage"		"https://cityidle.com"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"City idle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"cityidle.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2282021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6786499391015790883"
+					"size"		"235228991"
+					"download"		"77565104"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12372233"
+				"timeupdated"		"1696579983"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"25000"
+		"maxnumfiles"		"50"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"saves"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
