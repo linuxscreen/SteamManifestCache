@@ -1,0 +1,174 @@
+"appinfo"
+{
+	"appid"		"410560"
+	"common"
+	{
+		"name"		"Trinium Wars"
+		"type"		"Game"
+		"oslist"		"windows"
+		"clienticon"		"599a8f9d5c93fa75cd6725d471af3159e81b842c"
+		"clienttga"		"84c7a8e676059ad7172c919ecc489ab8c527fe07"
+		"icon"		"4bf0ea40d9c3b82d5594da853de71b28439f8c30"
+		"logo"		"e3428782ad6cf9b6e968cd1469493240e7cea7ad"
+		"logo_small"		"e3428782ad6cf9b6e968cd1469493240e7cea7ad_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"Trinium Wars"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1464362058"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hanmaru Soft"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"InselGames"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"29"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1466071620"
+		"community_hub_visible"		"1"
+		"gameid"		"410560"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"122"
+			"2"		"128"
+			"3"		"492"
+			"4"		"493"
+		}
+		"review_score"		"5"
+		"review_percentage"		"55"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Hanmaru Soft"
+		"publisher"		"InselGames"
+		"homepage"		"http://www.triniumwars.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"444310,444311,444312"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"TriniumWars"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TriniumWars.exe"
+				"arguments"		"-User 83.220.132.204 10000"
+				"description"		"Main Server"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"TriniumWars.exe"
+				"arguments"		"-User 83.220.132.208 10000"
+				"description"		"Test Server"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"testserver"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigfileids"		"608421814"
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"410561"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6896999756822467154"
+					"size"		"9408005132"
+					"download"		"4165797680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testserver"
+				{
+					"gid"		"053942497C7E69A4F54D69CA8A3018CA"
+					"size"		"30C51801C11C455F62D2829AAFC289B4"
+					"download"		"828AC59754528A15CEECD11A7EE67A3F"
+				}
+			}
+		}
+		"444312"
+		{
+			"dlcappid"		"444312"
+		}
+		"444311"
+		{
+			"dlcappid"		"444311"
+		}
+		"444310"
+		{
+			"dlcappid"		"444310"
+		}
+		"baselanguages"		"english,koreana"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1183233"
+				"timeupdated"		"1466045465"
+			}
+			"testserver"
+			{
+				"buildid"		"1183233"
+				"pwdrequired"		"1"
+				"timeupdated"		"1466045475"
+			}
+		}
+	}
+}
