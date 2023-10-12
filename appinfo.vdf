@@ -1,0 +1,354 @@
+"appinfo"
+{
+	"appid"		"1545820"
+	"common"
+	{
+		"name"		"Pixel Art Coloring Book"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"icon"		"da5db7b9d28a85df37b6e5cad73ddcce9614db94"
+		"logo"		"6b22e3c848473b721830626d421ac840be35488c"
+		"logo_small"		"6b22e3c848473b721830626d421ac840be35488c_thumb"
+		"clienttga"		"5fa76e5cb818243475ca242628d7254640ef69af"
+		"clienticon"		"91c260c3c6bcba13084b080a8e929a5cbb156074"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1650499200"
+			"tested_build_id"		"8734015"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"95.46511627906978"
+				"height_pct"		"92.78081215863216"
+			}
+		}
+		"store_asset_mtime"		"1683719039"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Peaksel"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Peaksel"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1618230373"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1545820"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1654"
+			"1"		"3964"
+			"2"		"597"
+			"3"		"4182"
+			"4"		"1698"
+			"5"		"4305"
+			"6"		"5350"
+			"7"		"4726"
+			"8"		"113"
+			"9"		"8013"
+			"10"		"1036"
+			"11"		"3871"
+			"12"		"4136"
+			"13"		"84"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Peaksel"
+		"publisher"		"Peaksel"
+		"isfreeapp"		"1"
+		"listofdlc"		"1576340"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Pixel Coloring book"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Pixel Art Coloring Book.app/Contents/MacOS/Pixel Art Coloring Book"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"Pixel Art Coloring Book.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1545821"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6107055242572283140"
+					"size"		"252901574"
+					"download"		"48722224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_grana"
+				{
+					"gid"		"D872AD7C9012D7F5F74B361B69AC963B"
+					"size"		"F30BC756B7FD6D7B3881E4B2F4B47FE7"
+					"download"		"BCA1116E01CA3352126A6F20AE73E8DA"
+				}
+				"test_grana_2"
+				{
+					"gid"		"073783C77B5A9F5E9375E2831856616B"
+					"size"		"94A8B3369ADB78F5D2B1A55E5DB6BA4C"
+					"download"		"64BDD7CAE3C1A4F95991F65FBF88D24C"
+				}
+			}
+		}
+		"1545822"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7561151568240645187"
+					"size"		"256582311"
+					"download"		"49563104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_grana"
+				{
+					"gid"		"069F83A6C2B06AD2865A95D9EAB85755"
+					"size"		"7CA36CAF11B98318D5CDABC012739418"
+					"download"		"656BA8F596C6B0B66021A2CA5BFE1E5F"
+				}
+				"test_grana_2"
+				{
+					"gid"		"0FF1ABED0DFC936F0775C90736BA7ECF"
+					"size"		"C2373D61B0F1818CB31EDDEC5009B918"
+					"download"		"2DB4B332084360F9D8ADCAB900D7C7AE"
+				}
+			}
+		}
+		"1576340"
+		{
+			"dlcappid"		"1576340"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"956177440682587774"
+					"size"		"391"
+					"download"		"384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_grana"
+				{
+					"gid"		"7E641BE009AF0CAF6BD91F0ACFA8325C"
+					"size"		"0A3C97CDE5987C3EF079C54768A88645"
+					"download"		"E2308FBCA04F72B12176B8F6BBD85CEC"
+				}
+				"test_grana_2"
+				{
+					"gid"		"4BF60EBF637A7B4E27EB03653B58AFCD"
+					"size"		"0E03E41DAD3A61ACF71CDB8A002A84E3"
+					"download"		"36E357ABB460065CCA08337FEDFC30E5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9769207"
+				"timeupdated"		"1666356336"
+			}
+			"test_grana"
+			{
+				"buildid"		"9769207"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666341588"
+			}
+			"test_grana_2"
+			{
+				"buildid"		"7648053"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635924676"
+			}
+		}
+	}
+}
