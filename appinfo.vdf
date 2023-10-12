@@ -1,0 +1,281 @@
+"appinfo"
+{
+	"appid"		"1847390"
+	"common"
+	{
+		"name"		"Ruins Of Mitriom"
+		"type"		"Game"
+		"icon"		"70e5713dab8a4fc0c4da560c91656d9b45a960de"
+		"logo"		"16d9f1f2d183ea5331b74b7132fbe8ae74f23d8c"
+		"logo_small"		"16d9f1f2d183ea5331b74b7132fbe8ae74f23d8c_thumb"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"69bc602c4f8900a5e7f738583c884fb0dd62e1af"
+		"clienticon"		"5b4c7e7155fb1270ba5333d98bbabb2532239594"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+			"polish"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1665705600"
+			"tested_build_id"		"8878419"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1641407874"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pixel-Archipel"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Noiracide"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Bibiki"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Pixel-Archipel"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1641898020"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1847390"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4106"
+			"3"		"42804"
+			"4"		"3834"
+			"5"		"3871"
+			"6"		"4305"
+			"7"		"3964"
+			"8"		"4252"
+			"9"		"4608"
+			"10"		"1684"
+			"11"		"4057"
+			"12"		"4172"
+			"13"		"1646"
+			"14"		"4155"
+			"15"		"3993"
+			"16"		"7481"
+			"17"		"6730"
+			"18"		"5094"
+			"19"		"1685"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Pixel-Archipel"
+		"publisher"		"Pixel-Archipel"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Ruins Of Mitriom"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Ruins Of Mitriom.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Ruins Of Mitriom.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1847391"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1675252654811863575"
+					"size"		"88679600"
+					"download"		"55142112"
+				}
+			}
+		}
+		"1847392"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2256095966483020779"
+					"size"		"98168261"
+					"download"		"57498208"
+				}
+			}
+		}
+		"1847393"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1579401660670936634"
+					"size"		"141115735"
+					"download"		"66816768"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8878419"
+				"timeupdated"		"1654504300"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
