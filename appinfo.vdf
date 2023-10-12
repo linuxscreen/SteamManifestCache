@@ -1,0 +1,263 @@
+"appinfo"
+{
+	"appid"		"1320550"
+	"common"
+	{
+		"name"		"The Call of Karen"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"a685a70723a4ea444067807628e50c4e665d7da8"
+		"logo_small"		"a685a70723a4ea444067807628e50c4e665d7da8_thumb"
+		"icon"		"6f0c43e8c040c8f596aeb75914d20be07fd2771c"
+		"clienticon"		"836430608673b260a09a9671b1d284ea8a7d6fc3"
+		"clienttga"		"3981b0b0cc54a4fce9c8bfae2ebbadd3b3fd9b91"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"5420406"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1589820806"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Trumbus"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Trumbus"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1594908013"
+		"community_hub_visible"		"1"
+		"gameid"		"1320550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"599"
+			"2"		"492"
+			"3"		"597"
+			"4"		"7432"
+			"5"		"1667"
+			"6"		"4136"
+			"7"		"1721"
+			"8"		"3859"
+			"9"		"1719"
+			"10"		"4182"
+			"11"		"7208"
+			"12"		"1742"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Trumbus"
+		"publisher"		"Trumbus"
+		"homepage"		"http://callofkaren.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Call of Karen"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CallOfKarenUnreal.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1320551"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2166880950027214528"
+					"size"		"3490543890"
+					"download"		"957703888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"441C47012757F4BCF6B2F36986CD610A"
+					"size"		"46CA5C1296E9B840DFEA6D8808B54209"
+					"download"		"82C5536EBBAD5A9297217367EF9CE77A"
+				}
+				"staging"
+				{
+					"gid"		"DDFB328EEB32360A974FF070F531662A"
+					"size"		"4E114AB0CAD75EBC233D7D5527BA16A6"
+					"download"		"65C8FDF6A479950A8A799B1F9A4D825E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11670501"
+				"timeupdated"		"1689559236"
+			}
+			"development"
+			{
+				"buildid"		"11670501"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689039432"
+			}
+			"staging"
+			{
+				"buildid"		"11670501"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689044177"
+			}
+		}
+	}
+}
