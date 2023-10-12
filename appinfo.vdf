@@ -1,0 +1,157 @@
+"appinfo"
+{
+	"appid"		"1849510"
+	"common"
+	{
+		"name"		"Game 78"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"c00f2da55e7b6d723a2825576a69029dda8dae0f"
+		"logo_small"		"c00f2da55e7b6d723a2825576a69029dda8dae0f_thumb"
+		"icon"		"10bfd7732f0fd5eef394e1ed5d66fba9c5170c10"
+		"clienttga"		"8c6602fcce7357081d53fddd46101a24d54f8b8d"
+		"linuxclienticon"		"3fd917d1ca56bf1b7bae26413fb7ff199ded4225"
+		"clienticon"		"461440d7811b6cda5a14d4b69f0967e713be1337"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1643437955"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gaori"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gaori"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"koreana"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1645188149"
+		"community_hub_visible"		"1"
+		"gameid"		"1849510"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"1664"
+			"3"		"4486"
+			"4"		"3871"
+			"5"		"5608"
+			"6"		"1684"
+			"7"		"492"
+			"8"		"15172"
+			"9"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Gaori"
+		"publisher"		"Gaori"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Game 78"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"78.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"78.exe"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"koreana"
+		"hasdepotsindlc"		"0"
+		"1849511"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9083499223349724083"
+					"size"		"317497263"
+					"download"		"53644432"
+				}
+				"78eng"
+				{
+					"gid"		"3602184248357071831"
+					"size"		"317512175"
+					"download"		"53644000"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8070556"
+				"timeupdated"		"1643943969"
+			}
+			"78eng"
+			{
+				"buildid"		"8070551"
+				"description"		"8070551"
+				"timeupdated"		"1643944062"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
