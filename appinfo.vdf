@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1029110"
+	"common"
+	{
+		"name"		"Trash Time"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"2"
+				"360_required"		"0"
+			}
+		}
+		"clienttga"		"f70312d998931a2de9533874c0982bf8f6435a0c"
+		"clienticon"		"f85fa944f2e36d6b6445a540f36127089b1133fe"
+		"icon"		"e1ec1cfc033e72855f53bf0614fc910d622d58eb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1029110_eula_0"
+				"name"		"Trash Time EULA"
+				"url"		"https://store.steampowered.com//eula/1029110_eula_0"
+			}
+		}
+		"logo"		"716693196bf92b1db49ba3be68a1762804bc2d8d"
+		"logo_small"		"716693196bf92b1db49ba3be68a1762804bc2d8d_thumb"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"metacritic_name"		"Trash Time"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1552658396"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dalibor Bartoš"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dalibor Bartoš"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"TEDI Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1552064510"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1029110"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"21978"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Dalibor Bartoš"
+		"publisher"		"Dalibor Bartoš"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TrashTime"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TrashTime.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1029111"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4043871796832491594"
+					"size"		"2964178460"
+					"download"		"1274209824"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3694154"
+				"timeupdated"		"1553930097"
+			}
+		}
+	}
+}
