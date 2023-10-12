@@ -1,0 +1,177 @@
+"appinfo"
+{
+	"appid"		"2441610"
+	"common"
+	{
+		"name"		"Debug Quest"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"f5e0cb2d2da49b4a24582612232ab258d36973e5"
+		"linuxclienticon"		"09d769007f40cac50857c766156a9ad80456838b"
+		"clienticns"		"09d769007f40cac50857c766156a9ad80456838b"
+		"clienticon"		"285fc5a75e41c441ec2e5776a0e9c1517581829b"
+		"clienttga"		"bee68d2815977785bcfac4f40d165c89b6833ce1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.31664726426076"
+				"height_pct"		"77.73687960104488"
+			}
+		}
+		"store_asset_mtime"		"1686569361"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AveoGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"AveoGames"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1686560782"
+		"community_hub_visible"		"1"
+		"gameid"		"2441610"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1716"
+			"2"		"4182"
+			"3"		"5379"
+			"4"		"5350"
+			"5"		"3964"
+			"6"		"1773"
+			"7"		"3959"
+			"8"		"3871"
+			"9"		"493"
+			"10"		"4726"
+			"11"		"9"
+			"12"		"113"
+			"13"		"21"
+			"14"		"1684"
+			"15"		"32322"
+			"16"		"6426"
+			"17"		"4747"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"AveoGames"
+		"publisher"		"AveoGames"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Debug Quest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Debug_Quest.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"bridging_game.exe"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana"
+		"2441611"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4671769553590910315"
+					"size"		"405796999"
+					"download"		"54682688"
+				}
+				"english"
+				{
+					"gid"		"4671769553590910315"
+					"size"		"405796999"
+					"download"		"54682688"
+				}
+				"korean"
+				{
+					"gid"		"365219350953223925"
+					"size"		"405796999"
+					"download"		"54682672"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11443785"
+				"timeupdated"		"1686497699"
+			}
+			"english"
+			{
+				"buildid"		"11443785"
+				"description"		"영어"
+				"timeupdated"		"1686496606"
+			}
+			"korean"
+			{
+				"buildid"		"11443790"
+				"description"		"한국어"
+				"timeupdated"		"1686496719"
+			}
+		}
+	}
+}
