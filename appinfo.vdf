@@ -1,0 +1,182 @@
+"appinfo"
+{
+	"appid"		"1121190"
+	"common"
+	{
+		"name"		"Hold Your Ground"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"abb7657c7594f2a1e6b8221651a5870da6cd62e4"
+		"logo_small"		"abb7657c7594f2a1e6b8221651a5870da6cd62e4_thumb"
+		"icon"		"814f2c4212c4c2472e571e503da60bd5e3b67eac"
+		"clienticon"		"688e7d940043f2d46a7bd7c2e48dc26fa1fae039"
+		"clienttga"		"b4bb0d6071020026a52b935a9d3c6f24e43abf0c"
+		"openvrsupport"		"1"
+		"controllervr"
+		{
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"3"
+				"depth"		"3"
+				"360_required"		"0"
+			}
+		}
+		"metacritic_name"		"Hold Your Ground"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"77.3141818022417"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1572921855"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Krispy Browniez Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Krispy Browniez Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1573660388"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1121190"
+		"exfgls"		"1"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"597"
+			"3"		"493"
+			"4"		"21978"
+		}
+		"review_score"		"7"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Krispy Browniez Studios"
+		"publisher"		"Krispy Browniez Studios"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Hold Your Ground"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HoldYourGround.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1121191"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2079089854407438967"
+					"size"		"1879979903"
+					"download"		"1768016832"
+				}
+				"develop"
+				{
+					"gid"		"2079089854407438967"
+					"size"		"1879979903"
+					"download"		"1768016832"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6095943"
+				"timeupdated"		"1610926830"
+			}
+			"develop"
+			{
+				"buildid"		"6095943"
+				"description"		"Developer testing branch"
+				"timeupdated"		"1610926473"
+			}
+		}
+	}
+}
